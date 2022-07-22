@@ -1,0 +1,9 @@
+,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-07-22,-50.99,Bezhotovostná platba,,domena,,2207917600,,domena
+1,2022-07-22,-50.0,Bezhotovostná platba,,"vratenie vkladu v hotovosti Marekov
+i Dinusovi",,,,vratenie vkladu hotovosti Marekovi Dinusovi
+2,2022-07-22,300.0,Bezhotovostný príjem,Marek Dinuš,/DO2022-07-21/SPvklad na vlastny ucet,,,,Marek Dinuš
+3,2022-07-22,-11.39,Bezhotovostná platba,,domena,0308,2207921143,,domena
+4,2022-07-22,-11.39,Bezhotovostná platba,,domena,0308,2207921140,,domena
+5,2022-07-18,-11.39,Bezhotovostná platba,,domena mojadubravka.sk,0308,2207920747,,domena
+6,2022-07-06,50.0,Vklad v hotovosti,,,0558,,,vklad v hotovosti od Mareka Dinusa  pri zalozeni uctu

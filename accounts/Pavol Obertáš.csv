@@ -1,0 +1,15 @@
+,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-07-19,-720.0,Bezhotovostná platba,,"Katedra komunikacie, s. r. o.: 2022
+251 - Pavol Obertas - 2022/06",0308,2022251,,"Katedra komunikácie,  s.r.o. - služby za mesiac jún"
+1,2022-07-18,1250.0,Bezhotovostný príjem,OBERTASOVA KATARINA,/DO2022-07-15/SP,,,,OBERTASOVA KATARINA
+2,2022-07-16,-26.53,Transakcia kartou,,"Nákup: FACEBK JK3JAD38A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  26.53 EUR",,2967,,"Nákup: FACEBK JK3JAD38A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  26.53 EUR"
+3,2022-07-02,-14.4,Transakcia kartou,,"Nákup: FACEBK 4WC8PCK8A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  14.40 EUR",,2967,,"Nákup: FACEBK 4WC8PCK8A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  14.40 EUR"
+4,2022-06-30,-14.4,Transakcia kartou,,"Nákup: FACEBK AKD37EF7A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  14.40 EUR",,2967,,"Nákup: FACEBK AKD37EF7A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  14.40 EUR"
+5,2022-06-27,-630.0,Bezhotovostná platba,,platba faktury,0308,22064442,,Prenájom reklamných panelov a dodanie tlače plagátov- 6-2022
+6,2022-06-27,650.0,Bezhotovostný príjem,Anton Butaš,/DO2022-06-26/SP,,,,Anton Butaš
+7,2022-06-21,150.0,Bezhotovostný príjem,OBERTASOVA KATARINA,/DO2022-06-20/SP,,,,OBERTASOVA KATARINA
+8,2022-06-20,-10.8,Transakcia kartou,,"Nákup: FACEBK H7665EX7A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.6.2022, částka  10.80 EUR",,2967,,"Nákup: FACEBK H7665EX7A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.6.2022, částka  10.80 EUR"
+9,2022-06-19,-10.8,Transakcia kartou,,"Nákup: FACEBK 888QUDF8A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.6.2022, částka  10.80 EUR",,2967,,"Nákup: FACEBK 888QUDF8A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.6.2022, částka  10.80 EUR"
+10,2022-06-18,-10.88,Transakcia kartou,,"Nákup: FACEBK VKNJ3EX7A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.6.2022, částka  10.88 EUR",,2967,,"Nákup: FACEBK VKNJ3EX7A2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.6.2022, částka  10.88 EUR"
+11,2022-06-02,50.0,Bezhotovostný príjem,OBERTASOVA KATARINA,/DO2022-06-01/SP,,,,OBERTASOVA KATARINA
+12,2021-12-03,10.0,Vklad v hotovosti,,,0558,,,

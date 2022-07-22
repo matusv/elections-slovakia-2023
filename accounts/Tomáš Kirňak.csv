@@ -1,0 +1,4 @@
+,account_name,date,amount,currency,message,tx_type,vs,ss
+0,KIRNAK TOMAS,2022-07-01,500.0,EUR,22742609,Bezhotovostný vklad,,
+1,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-06-30,-1.4,EUR,Poplatok za vedenie účtu,Poplatok,,
