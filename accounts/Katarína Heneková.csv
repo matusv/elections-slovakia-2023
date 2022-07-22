@@ -1,0 +1,10 @@
+,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Kočner Michal,2022-07-20,100.0,EUR,F001200720229562291,Bezhotovostný vklad,,
+1,"Katedra komunikacie, s.r.o",2022-07-19,-240.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022250,
+2,"Brindzová Iveta, JUDr.",2022-07-09,100.0,EUR,OO22070900003202,Bezhotovostný vklad - okamžitá platba,,
+3,HENEKOVA KATARINA,2022-07-01,-73.0,EUR,vrátenie vkladu v hotovosti pri založeni účtu,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+4,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,,2022-06-30,-4.4,EUR,Poplatok za vedenie účtu,Poplatok,,
+6,HENEKOVA KATARINA,2022-06-10,1000.0,EUR,22557883,Bezhotovostný vklad,,
+7,,2022-06-09,-3.0,EUR,Poplatok za vklad hotovosti - Bežný účet,Poplatok,,
+8,,2022-06-09,73.0,EUR,,Vklad hotovosti,,
