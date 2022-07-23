@@ -1,4 +1,6 @@
 ,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Trnka Rastislav,2022-06-21,15000,EUR,,Bezhotovostný vklad,,
-2,,2022-05-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Šoltés Michal,2022-07-22,1350,EUR,drzim palce,Bezhotovostný vklad - okamžitá platba,,
+1,"Antolík Simona, Ing.",2022-07-22,1100,EUR,"pre tych co nevida , Simona Antolik, KPT.naleku 9,KE",Bezhotovostný vklad - okamžitá platba,,
+2,,2022-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,Trnka Rastislav,2022-06-21,15000,EUR,,Bezhotovostný vklad,,
+4,,2022-05-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
