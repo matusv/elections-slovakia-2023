@@ -1,13 +1,14 @@
 ,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Mesto Namestovo,2022-07-15,-357.8,EUR,Noviny Namestovcan,Okamžitá platba (EB),1313200088,
-1,Ing. Miroslav Červeň,2022-07-11,300.0,EUR,Dar,Bezhotovostný vklad - okamžitá platba,,
-2,Dizajnpro,2022-07-08,-82.5,EUR,Dizajnpro s. r. o.: 2022062 - MáriaČerveňová - 2022/07,Okamžitá platba (EB),2022062,
-3,K-STEN,2022-07-04,-118.8,EUR,Letaky Brehy,Platobný príkaz na úhradu / FIT 2.0 (EB),022217,0
-4,,2022-07-01,-34.51,EUR,"B1319323285-44544 12** **** 3039;FACEBK ZZMV7D7L42 ,fb.me/ads ,IE ;30.06.2022 02:23:10 ;CashBack:0 EUR",Platba kartou,,
-5,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-6,Ing. Miroslav Červeň,2022-06-17,200.0,EUR,Podpora kampane,Bezhotovostný vklad - okamžitá platba,,
-7,,2022-06-07,-48.0,EUR,"B1301970178-44544 12** **** 3039;FACEBK NHJ9SCFL42 ,fb.me/ads ,IE ;05.06.2022 16:11:32 ;CashBack:0 EUR",Platba kartou,,
-8,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-9,Dizajnpro,2022-05-31,-75.0,EUR,Dizajnpro s. r. o.: 2022046 - MáriaČerveňová - 2022/05,Okamžitá platba (EB),2022046,
-10,K-STEN,2022-05-24,-137.4,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),022172,0
-11,Ing. Miroslav Červeň,2022-05-22,500.0,EUR,Podpora kampane,Bezhotovostný vklad - okamžitá platba,,
+0,,2022-07-24,-48.0,EUR,"B1334351557-44544 12** **** 3039;FACEBK 569E3EPK42 ,fb.me/ads ,IE ;22.07.2022 16:39:14 ;CashBack:0 EUR",Platba kartou,,
+1,Mesto Namestovo,2022-07-15,-357.8,EUR,Noviny Namestovcan,Okamžitá platba (EB),1313200088,
+2,Ing. Miroslav Červeň,2022-07-11,300.0,EUR,Dar,Bezhotovostný vklad - okamžitá platba,,
+3,Dizajnpro,2022-07-08,-82.5,EUR,Dizajnpro s. r. o.: 2022062 - MáriaČerveňová - 2022/07,Okamžitá platba (EB),2022062,
+4,K-STEN,2022-07-04,-118.8,EUR,Letaky Brehy,Platobný príkaz na úhradu / FIT 2.0 (EB),022217,0
+5,,2022-07-01,-34.51,EUR,"B1319323285-44544 12** **** 3039;FACEBK ZZMV7D7L42 ,fb.me/ads ,IE ;30.06.2022 02:23:10 ;CashBack:0 EUR",Platba kartou,,
+6,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+7,Ing. Miroslav Červeň,2022-06-17,200.0,EUR,Podpora kampane,Bezhotovostný vklad - okamžitá platba,,
+8,,2022-06-07,-48.0,EUR,"B1301970178-44544 12** **** 3039;FACEBK NHJ9SCFL42 ,fb.me/ads ,IE ;05.06.2022 16:11:32 ;CashBack:0 EUR",Platba kartou,,
+9,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+10,Dizajnpro,2022-05-31,-75.0,EUR,Dizajnpro s. r. o.: 2022046 - MáriaČerveňová - 2022/05,Okamžitá platba (EB),2022046,
+11,K-STEN,2022-05-24,-137.4,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),022172,0
+12,Ing. Miroslav Červeň,2022-05-22,500.0,EUR,Podpora kampane,Bezhotovostný vklad - okamžitá platba,,
