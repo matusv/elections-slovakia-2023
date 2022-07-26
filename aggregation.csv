@@ -1,4 +1,4 @@
-name,num_incoming,num_outgoing,sum_incoming,sum_outgoing,balance,mean_donation,mean_spend,num_unique_donors,mean_donation_per_unique_donor,label
+index,name,num_incoming,num_outgoing,sum_incoming,sum_outgoing,balance,mean_donation,mean_spend,num_unique_donors,mean_donation_per_unique_donor,label
 0,HLAS - sociálna demokracia,0,0,0.0,0.0,0.0,-1.0,-1.0,0,-1.0,PS
 1,Kotlebovci - Ľudová strana Naše Slovensko,6,28,63261.7,-49271.68,13990.019999999997,10543.616666666667,-1759.702857142857,2,31630.85,PS
 2,Kresťanskodemokratické hnutie,5,10,83000.0,-80673.17,2326.8300000000017,16600.0,-8067.317,2,41500.0,PS
