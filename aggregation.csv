@@ -1,7 +1,7 @@
-index,name,num_incoming,num_outgoing,sum_incoming,sum_outgoing,balance,mean_donation,mean_spend,num_unique_donors,mean_donation_per_unique_donor,label
+false,name,num_incoming,num_outgoing,sum_incoming,sum_outgoing,balance,mean_donation,mean_spend,num_unique_donors,mean_donation_per_unique_donor,label
 0,HLAS - sociálna demokracia,0,0,0.0,0.0,0.0,-1.0,-1.0,0,-1.0,PS
 1,Kotlebovci - Ľudová strana Naše Slovensko,6,28,63261.7,-49271.68,13990.019999999997,10543.616666666667,-1759.702857142857,2,31630.85,PS
-2,Kresťanskodemokratické hnutie,4,8,73000.0,-69671.67,3328.3300000000017,18250.0,-8708.95875,2,36500.0,PS
+2,Kresťanskodemokratické hnutie,5,10,83000.0,-80673.17,2326.8300000000017,16600.0,-8067.317,2,41500.0,PS
 3,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA",3,33,400000.0,-354921.34,45078.659999999974,133333.33333333334,-10755.192121212121,2,200000.0,PS
 4,REPUBLIKA,9,17,16531.0,-13637.55,2893.4500000000007,1836.7777777777778,-802.2088235294117,3,5510.333333333333,PS
 5,Sloboda a Solidarita,9,105,150029.0,-133579.37,16449.630000000005,16669.88888888889,-1272.184476190476,2,75014.5,PS
