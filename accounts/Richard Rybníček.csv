@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-18,2000.0,Bezhotovostný príjem,"Hošták Igor, Ing.",/DO2022-07-15/SP,,,,"Hošták Igor, Ing."
 1,2022-07-18,2000.0,Bezhotovostný príjem,"Válek Tomáš, Ing.",/DO2022-07-15/SP,,,,"Válek Tomáš, Ing."
 2,2022-05-13,10000.0,Bezhotovostný príjem,RYBNICEK RICHARD,vklad na predvolebnU kampan,,,,RYBNICEK RICHARD

@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-19,-800.0,Bezhotovostná platba,,"politicka plosna inzercia - 1 stran
 a",,2118200509,,politicka plosna inzercia - 1 strana 10.10.2022
 1,2022-07-11,256.03,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 6.2022,,1111,,PODBEHLY PETER

@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Plutos,2022-07-12,-280,EUR,výroba bannerov,Platobný príkaz na úhradu / FIT 2.0 (EB),2210034,
 1,Sitor Peter,2022-07-12,100,EUR,F001120720221262691,Bezhotovostný vklad,,
 2,,2022-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,

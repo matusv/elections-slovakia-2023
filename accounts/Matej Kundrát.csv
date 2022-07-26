@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-06,-25.36,Transakcia kartou,,"Nákup: FACEBK T4XDWFXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  25.36 EUR",,2344,,"Nákup: FACEBK T4XDWFXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  25.36 EUR"
 1,2022-07-04,300.0,Bezhotovostný príjem,MICHAL DEMO,/DO2022-07-04/SPDAR NA KAMPAN,,,,MICHAL DEMO
 2,2022-06-20,-1452.0,Platba prevodom v rámci banky,,,0308,012022,,Platba za faktúru

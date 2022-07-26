@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,NUBIUM s.r.o.,2022-07-20,-307.2,EUR,"2 ks BB, tlač 8/2022 Uherčík",Platobný príkaz na úhradu / FIT 2.0 (EB),12120342,
 1,NUBIUM s.r.o.,2022-07-20,-247.2,EUR,2 ks BB 8/2022,Platobný príkaz na úhradu / FIT 2.0 (EB),12120343,
 2,UNIMEDIA s.r.o.,2022-07-13,-6840.0,EUR,"reklamná kampaň 9-10/2022, tlač a prenájom BB",Platobný príkaz na úhradu / FIT 2.0 (EB),720220031,

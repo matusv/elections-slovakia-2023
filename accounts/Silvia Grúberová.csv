@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,RADOSLAV IZDINSKY,2022-07-20,100.0,EUR,LEPSIA HANDLOVA,Bezhotovostný vklad,,
 1,JURKOVIC IVAN,2022-07-20,500.0,EUR,Ing. Ivan Jurkovic,Bezhotovostný vklad,,
 2,"Confidence Media SR, sro",2022-07-07,-36.0,EUR,"Prenajom bilbordov a prod.9,10/2022-doplatok plus 1xtlac",Okamžitá platba (EB),2221157,

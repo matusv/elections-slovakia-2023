@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-13,-25.36,Transakcia kartou,,"Nákup: FACEBK URXALGPAK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  25.36 EUR",,9628,,"Nákup: FACEBK URXALGPAK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  25.36 EUR"
 1,2022-07-02,-40.0,Transakcia kartou,,"Nákup: FACEBK 78N6ZE7BK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  40.00 EUR",,9628,,"Nákup: FACEBK 78N6ZE7BK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  40.00 EUR"
 2,2022-06-28,-30.0,Transakcia kartou,,"Nákup: FACEBK CVUFUFXAK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.6.2022, částka  30.00 EUR",,9628,,"Nákup: FACEBK CVUFUFXAK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.6.2022, částka  30.00 EUR"

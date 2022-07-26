@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-25,200.0,Bezhotovostný príjem,Milada Dobrotková,/DO2022-07-22/SPDar na kampan,0558,27102022,27102022,Milada Dobrotková
 1,2022-07-25,300.0,Bezhotovostný príjem,PAPAGEORGIOU CHARILA,"/DO2022-07-22/SPDar na kampan, DROTOVAN",,,,PAPAGEORGIOU CHARILA
 2,2022-07-22,300.0,Bezhotovostný príjem,"Sliviaková Daniela,",/DO2022-07-21/SPprispevok,,,,"Sliviaková Daniela,"

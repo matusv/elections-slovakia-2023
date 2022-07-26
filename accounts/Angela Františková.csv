@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,KING MEDIA s. r. o.,2022-07-10,-264,EUR,"KING MEDIA s. r. o.: 20220539 - Ing. Angela Františková, MBA - 2022/06",Okamžitá platba (EB),20220539,
 1,Františková Angela,2022-07-10,500,EUR,F001100720229317097,Bezhotovostný vklad,,
 2,,2022-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,

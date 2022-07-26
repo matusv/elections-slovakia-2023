@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Petra Setničková,2022-07-25,100.0,EUR,kampan,Bezhotovostný vklad - okamžitá platba,,
 1,,2022-07-23,-0.05,EUR,"B1333517944-44544 12** **** 0813;FACEBK *ZGQ7DETP72 ,fb.me/ads ,IE ;21.07.2022 20:08:12 ;CashBack:0 EUR",Platba kartou,,
 2,,2022-07-23,-6.0,EUR,"B1333517784-44544 12** **** 0813;FACEBK *2WT6KDKQ72 ,fb.me/ads ,IE ;21.07.2022 19:38:58 ;CashBack:0 EUR",Platba kartou,,

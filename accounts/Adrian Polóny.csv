@@ -1,2 +1,2 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Adrian Polóny,2022-07-04,47000,EUR,ADRIAN POLÓNY SKUTOČNÁ ZMENA,Bezhotovostný vklad,,

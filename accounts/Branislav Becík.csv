@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-21,-1920.0,Bezhotovostná platba,,Uhrada zal. FA,0308,2270231,,
 1,2022-07-21,-1440.0,Bezhotovostná platba,,Uhrada zal. FA,0308,2270230,,
 2,2022-07-20,-11346.0,Bezhotovostná platba,,Zal. faktura 12229/0167,0308,122290167,,

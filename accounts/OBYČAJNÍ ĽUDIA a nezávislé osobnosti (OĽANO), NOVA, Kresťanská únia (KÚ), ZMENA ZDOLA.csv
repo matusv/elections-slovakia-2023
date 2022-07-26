@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,"X print s.r.o., IČO:35742097",2022-07-21,-42.3,EUR,Tlač,Platobný príkaz na úhradu / FIT 2.0 (EB),220695,
 1,"Rayvolt Machines s.r.o., IČO:51450178",2022-07-21,-498.1,EUR,Audio technika,Platobný príkaz na úhradu / FIT 2.0 (EB),2022162,
 2,"Tramtaria Animations, s.r.o., IČO:51319233",2022-07-19,-300.0,EUR,Podujatie,Platobný príkaz na úhradu / FIT 2.0 (EB),172022,

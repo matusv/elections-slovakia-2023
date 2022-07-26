@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Vladimir Ilko,2022-07-25,200,EUR,Vladimir Ilko,Bezhotovostný vklad,,
 1,PENCAKOVA SILVIA,2022-07-21,300,EUR,Milan Kocisko,Bezhotovostný vklad,200722,
 2,"BigMedia, spol. s.r.o.",2022-07-18,-612,EUR,Voľby Sotáková,Platobný príkaz na úhradu / FIT 2.0 (EB),096022022,

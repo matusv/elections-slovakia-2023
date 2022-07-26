@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Kočner Michal,2022-07-20,100.0,EUR,F001200720229562291,Bezhotovostný vklad,,
 1,"Katedra komunikacie, s.r.o",2022-07-19,-240.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022250,
 2,"Brindzová Iveta, JUDr.",2022-07-09,100.0,EUR,OO22070900003202,Bezhotovostný vklad - okamžitá platba,,

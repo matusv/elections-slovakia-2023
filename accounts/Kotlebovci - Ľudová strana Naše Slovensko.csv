@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,KAMIR STAV s. r. o.,2022-07-20,-510.0,EUR,Organizácia spločenskej akcie,Platobný príkaz na úhradu / FIT 2.0 (EB),20220007,
 1,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2022-07-13,161.7,EUR,2X UHRADENA FAKTURA,Bezhotovostný vklad,1200672,
 2,AURA s.r.o.,2022-07-08,-145.2,EUR,polep vozidiel,Platobný príkaz na úhradu / FIT 2.0 (EB),2022096,

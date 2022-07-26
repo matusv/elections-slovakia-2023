@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-19,-540.0,Bezhotovostná platba,,platba fa c. 058/2022,0308,0582022,,grafické práce
 1,2022-07-19,-759.79,Platba prevodom v rámci banky,,platba fa.c. 2022133,0308,2022133,,reklamný textil s potlačou
 2,2022-07-16,-87.0,Transakcia kartou,,"Nákup: FACEBK ZL6R5EP262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  87.00 EUR",,4317,,"Nákup: FACEBK ZL6R5EP262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  87.00 EUR"

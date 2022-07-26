@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-25,1000.0,Bezhotovostný príjem,Majčiník Artúr,/DO2022-07-23/SPPrispevok na kampan,,,,Majčiník Artúr
 1,2022-07-19,1800.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-07-18/SP VOĽBY,,745627,,Ingrid Kögelová
 2,2022-07-19,1800.0,Bezhotovostný príjem,Milan Kögel,/DO2022-07-18/SP VOĽBY,,520107,,Milan Kögel

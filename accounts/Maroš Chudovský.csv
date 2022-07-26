@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,"Chabada Jozef, Mgr.",2022-07-25,20.0,EUR,OO22072500008671,Bezhotovostný vklad - okamžitá platba,,
 1,,2022-07-23,-27.84,EUR,"B1334164504-44544 12** **** 5772;KAUFLAND 1230, PB, CENT ,POVAZSKA BYST ,SK ;21.07.2022 09:01:32 ;CashBack:0 EUR",Platba kartou,,
 2,,2022-07-23,-97.0,EUR,"B1334080650-44544 12** **** 5772;Maso-udeniny Bartos ,Povazska Byst ,SK ;21.07.2022 08:20:01 ;CashBack:0 EUR",Platba kartou,,

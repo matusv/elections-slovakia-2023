@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,,2022-07-24,-48.0,EUR,"B1334351557-44544 12** **** 3039;FACEBK 569E3EPK42 ,fb.me/ads ,IE ;22.07.2022 16:39:14 ;CashBack:0 EUR",Platba kartou,,
 1,Mesto Namestovo,2022-07-15,-357.8,EUR,Noviny Namestovcan,Okamžitá platba (EB),1313200088,
 2,Ing. Miroslav Červeň,2022-07-11,300.0,EUR,Dar,Bezhotovostný vklad - okamžitá platba,,

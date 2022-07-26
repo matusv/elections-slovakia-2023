@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,ARTON s.r.o.,2022-07-25,-40.8,EUR,Zalohova fa c.33-tlac plagatu na bilboard,Platobný príkaz na úhradu / FIT 2.0 (EB),220296,
 1,GRYF REKLAMNE STUDIO,2022-07-25,-1488.0,EUR,Zaloh.fa c.32-Prenajom a realizacia reklam.ploch,Platobný príkaz na úhradu / FIT 2.0 (EB),22077,
 2,ARTON s.r.o.,2022-07-25,-324.0,EUR,Zaloh.fa c.31-prenajom reklam.pristoru a tlac plagatu na bilboard,Platobný príkaz na úhradu / FIT 2.0 (EB),220295,

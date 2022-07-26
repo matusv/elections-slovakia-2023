@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Slovenska posta,2022-07-25,-400.0,EUR,Letaky do schranky Posta Spisska Nova Ves,Platobný príkaz na úhradu / FIT 2.0 (EB),9001526977,
 1,Odborne,2022-07-25,-10000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),221001,
 2,audiologic PRO,2022-07-25,-700.0,EUR,DsR Steindl,Platobný príkaz na úhradu / FIT 2.0 (EB),2022046,

@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Mycel,2022-07-20,-1800.0,EUR,0220720093515.061847,Okamžitá platba (EB),202230153,
 1,Strossle,2022-07-13,-240.0,EUR,07-awareness,Platobný príkaz na úhradu / FIT 2.0 (EB),20220717,
 2,,2022-07-10,-96.44,EUR,"B1325035202-44544 12** **** 9935;FACEBK 69PXKGFRY2 ,fb.me/ads ,IE ;09.07.2022 00:16:45 ;CashBack:0 EUR",Platba kartou,,

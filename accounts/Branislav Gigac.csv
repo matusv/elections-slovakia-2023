@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Oravcová Oľga,2022-07-21,30,EUR,Držím palce!!,Bezhotovostný vklad,,
 1,Rastislav Struhár,2022-07-21,10,EUR,Držim palce a prajem veľa šťastia,Bezhotovostný vklad,,
 2,"Drličková Eva, Mgr.",2022-07-21,5,EUR,podporujem-Drlickova,Bezhotovostný vklad - okamžitá platba,,

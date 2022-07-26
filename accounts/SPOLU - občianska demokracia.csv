@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,"CONFIDENCE MEDIA SR, s.r.o.",2022-07-18,-667.2,EUR,Machackova billboardy volby 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),2221161,
 1,Xtra Slovakia s.r.o.,2022-07-13,-5777.52,EUR,Merch Spolu zaloha 40% volby 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),220800038,
 2,Websupport s.r.o.,2022-07-09,-15.59,EUR,Machackova domena volby 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),1022191616,

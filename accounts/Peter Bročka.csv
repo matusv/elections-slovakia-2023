@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,BROCKA PETER,2022-07-22,500.0,EUR,Erik Matovic,Bezhotovostný vklad,,
 1,Cabanová Gabriela,2022-07-20,200.0,EUR,F001200720229828602,Bezhotovostný vklad,,
 2,Štefánik Ondrej,2022-07-20,900.0,EUR,Ondrej Stefanik,Bezhotovostný vklad - okamžitá platba,,

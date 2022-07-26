@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,"Oľha Jozef, Mgr.",2022-07-26,400.0,EUR,Jozef Olha,Bezhotovostný vklad - okamžitá platba,26072022,
 1,JAN MIHALIK,2022-07-26,400.0,EUR,22955348,Bezhotovostný vklad,,
 2,"Vasil Hatala, SNP 39, Humenné",2022-07-25,-380.0,EUR,Grafické návrhydigitálnych a tlačových podkladov,Platobný príkaz na úhradu / FIT 2.0 (EB),2022015,

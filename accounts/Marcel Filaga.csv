@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-12,-450.0,Bezhotovostná platba,,"Poskytnutie reklamnej plochy podlaz
 mluvy o reklame / obdobie august,se
 ptember, oktober 2022",,20220084,,"Poskytnutie reklamnej plochy podľa zmluvy o reklame / obdobie august, september, október 2022"

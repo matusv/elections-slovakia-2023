@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,Mlejko-design s.r.o.,2022-07-25,-720.0,EUR,0220725195107.151560,Okamžitá platba (EB),2022009,
 1,"BigMedia, spol. s r.o.",2022-07-25,-2215.2,EUR,Fa 1229/0191,Platobný príkaz na úhradu / FIT 2.0 (EB),,
 2,Dominika Árvaiová,2022-07-20,3500.0,EUR,2220150000010968,Bezhotovostný vklad - okamžitá platba,,

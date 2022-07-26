@@ -1,5 +1,6 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Štefan Bende,2022-07-20,500,EUR,4KN2022,Bezhotovostný vklad - okamžitá platba,2072022,20720222
-1,Kovács Dávid,2022-07-11,500,EUR,HAJRA KOMAROM,Bezhotovostný vklad - okamžitá platba,,
-2,Tímea Szénássy,2022-07-11,500,EUR,Szenassy Timea,Bezhotovostný vklad - okamžitá platba,,
-3,Varga Tamás,2022-07-10,1000,EUR,volby2022,Bezhotovostný vklad,,
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Ruman Patrik,2022-07-26,500,EUR,F001260720223164753,Bezhotovostný vklad,,
+1,Štefan Bende,2022-07-20,500,EUR,4KN2022,Bezhotovostný vklad - okamžitá platba,2072022,20720222
+2,Kovács Dávid,2022-07-11,500,EUR,HAJRA KOMAROM,Bezhotovostný vklad - okamžitá platba,,
+3,Tímea Szénássy,2022-07-11,500,EUR,Szenassy Timea,Bezhotovostný vklad - okamžitá platba,,
+4,Varga Tamás,2022-07-10,1000,EUR,volby2022,Bezhotovostný vklad,,

@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,NOTPROVIDED,2022-07-23,-67.11,EUR,,Vysporiadanie pri zrušení účtu - prevod,,
 1,,2022-07-23,-4.26,EUR,Poplatok za vedenie účtu,Poplatok,,
 2,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

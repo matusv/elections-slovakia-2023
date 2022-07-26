@@ -1,4 +1,4 @@
-,date,amount,tx_type,account_name,message,ks,vs,ss,note
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-07-26,410.58,Bezhotovostný príjem,IRSAK DUSAN,/DO2022-07-25/SPMzda poslanca venovan na dobr ucel.Verim ze to das,,,,IRSAK DUSAN
 1,2022-07-21,1000.0,Bezhotovostný príjem,ERIK STEFANEK,/DO2022-07-21/SPVOLBY 2022,,,,ERIK STEFANEK
 2,2022-07-19,99.0,Bezhotovostný príjem,Stripe Technology Eu,", DSOMHQOBZGFBEOQC, důvod vrácení (AG01)",,,,Stripe Technology Eu

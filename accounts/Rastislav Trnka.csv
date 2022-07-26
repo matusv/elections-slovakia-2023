@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,JAN HUDAK,2022-07-26,750,EUR,"JAN HUDAK, CERMELSKE PRIELOHY 3746, KE, PRISPEVOKNA KAMPAN",Bezhotovostný vklad,,
 1,"Šolcová Dominika, Ing.",2022-07-25,830,EUR,"Dominika Solcova, Cottbuska 18,Kosice",Bezhotovostný vklad - okamžitá platba,,
 2,Richard Palovčík,2022-07-25,950,EUR,"Richard Palovcik, Trieda SNP 407/61, Kosice.",Bezhotovostný vklad - okamžitá platba,,

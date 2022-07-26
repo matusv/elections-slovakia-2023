@@ -1,4 +1,4 @@
-,account_name,date,amount,currency,message,tx_type,vs,ss
+index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,GALSCHNEIDER JAN,2022-07-26,70.0,EUR,Galshneider,Bezhotovostný vklad,,
 1,Matej Chlepko,2022-07-12,70.0,EUR,Chlepko,Bezhotovostný vklad - okamžitá platba,,
 2,KOMAROVA EVA,2022-07-11,70.0,EUR,Eva Komarová,Bezhotovostný vklad,,
