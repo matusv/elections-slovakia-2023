@@ -1,46 +1,47 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-07-26,-83.8,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR"
-1,2022-07-25,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-07-23/SPPrispevok na kampan,,,,MATLON MICHAL
-2,2022-07-21,-60.0,Bezhotovostná platba,,,0308,20220019,,malovanie piknik jahodova
-3,2022-07-21,-150.0,Platba prevodom v rámci banky,,,,550902022,,mr bubble piknik jahodova
-4,2022-07-20,150.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-07-19/SPdar,,,,BILSKY LUBOMIR
-5,2022-07-15,300.0,Bezhotovostný príjem,MRVA JAKUB,/DO2022-07-14/SPNove Mesto potrebuje rozhybat,,,,MRVA JAKUB
-6,2022-07-12,-80.32,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR"
-7,2022-07-12,-200.0,Bezhotovostná platba,,,,12000425,,miro jilo piknik
-8,2022-07-11,100.0,Bezhotovostný príjem,Michal Drotován,/DO2022-07-11/SP Drzim palce,,,,Michal Drotován
-9,2022-07-09,-32.48,Transakcia kartou,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR",,3925,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR"
-10,2022-07-09,-22.61,Transakcia kartou,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR",,3925,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR"
-11,2022-07-08,50.0,Bezhotovostný príjem,Vojtek Peter,/DO2022-07-07/SPdar,,,,Vojtek Peter
-12,2022-07-07,-64.6,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR"
-13,2022-07-05,-66.9,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR"
-14,2022-07-04,20.0,Bezhotovostný príjem,Hana Drahovská,/DO2022-07-04/SP SP,,,,Hana Drahovská
-15,2022-07-01,-166.63,Transakcia kartou,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR",,3925,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR"
-16,2022-06-27,20.0,Bezhotovostný príjem,Matej Čambál,/DO2022-06-25/SP,,,,Matej Čambál
-17,2022-06-23,-193.75,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR"
-18,2022-06-22,50.0,Bezhotovostný príjem,SIRKA DANIEL,/DO2022-06-21/SPdar Matus Cupka,,,,SIRKA DANIEL
-19,2022-06-21,-559.2,Bezhotovostná platba,,,,202206037,,tlac listov
-20,2022-06-13,-546.76,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR"
-21,2022-06-13,-0.31,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR"
-22,2022-06-07,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-06-06/SPPrispevok na kampan,,,,MATLON MICHAL
-23,2022-06-06,-570.0,Bezhotovostná platba,,,,202205,,webdizajn
-24,2022-06-01,-132.67,Transakcia kartou,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR",,3925,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR"
-25,2022-05-31,-120.7,Bezhotovostná platba,,,,202204949,,letaky
-26,2022-05-31,-27.77,Bezhotovostná platba,,,,202204852,,tlac kapa dosky
-27,2022-05-31,-500.0,Bezhotovostná platba,,,,22050021,,produkcia videa
-28,2022-05-31,-75.6,Bezhotovostná platba,,,,202205059,,polep
-29,2022-05-31,-120.0,Bezhotovostná platba,,,,2224,,fotograf
-30,2022-05-31,-120.0,Bezhotovostná platba,,,,20220021,,zvuk video
-31,2022-05-31,-36.0,Bezhotovostná platba,,,,922096,,najom stolik
-32,2022-05-30,100.0,Bezhotovostný príjem,"Šimeková Jana, Ing.",/DO2022-05-28/SPprispevok na kampan,,,,"Šimeková Jana, Ing."
-33,2022-05-27,300.0,Bezhotovostný príjem,Kapusta Matúš,/DO2022-05-26/SP,,,,Kapusta Matúš
-34,2022-05-27,100.0,Bezhotovostný príjem,Martin Vavrinčik,/DO2022-05-26/SP,,,,Martin Vavrinčik
-35,2022-05-27,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-05-26/SPPrispevok na kampan,,,,MATLON MICHAL
-36,2022-05-25,-55.0,Transakcia kartou,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR",,3925,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR"
-37,2022-05-25,50.0,Bezhotovostný príjem,JURAN SAMUEL,"/DO2022-05-24/SPDar na kampan, drzime palce, DAR NA KAMPAN - SAMUEL JURAN",,,,JURAN SAMUEL
-38,2022-05-06,-48.0,Transakcia kartou,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR",,3925,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR"
-39,2022-04-15,-81.94,Transakcia kartou,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR",,3925,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR"
-40,2022-04-05,-80.21,Bezhotovostná platba,,,,1022110052,,webhosting cupka2022
-41,2022-04-05,-15.59,Bezhotovostná platba,,,,1022109280,,domena cupka2022
-42,2022-03-02,-450.0,Bezhotovostná platba,,,,202202,,dizajn webstránky
-43,2022-01-27,5000.0,Bezhotovostný príjem,Zuzana Čupková,/DO2022-01-27/SP prispevok cupka,,,,Zuzana Čupková
-44,2022-01-21,3963.41,Platba prevodom v rámci banky,"Čupka, Matúš",,,,,
+0,2022-07-26,-1080.0,Bezhotovostná platba,,,,2270073,,zaloha outdoor kampan
+1,2022-07-26,-83.8,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR"
+2,2022-07-25,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-07-23/SPPrispevok na kampan,,,,MATLON MICHAL
+3,2022-07-21,-60.0,Bezhotovostná platba,,,0308,20220019,,malovanie piknik jahodova
+4,2022-07-21,-150.0,Platba prevodom v rámci banky,,,,550902022,,mr bubble piknik jahodova
+5,2022-07-20,150.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-07-19/SPdar,,,,BILSKY LUBOMIR
+6,2022-07-15,300.0,Bezhotovostný príjem,MRVA JAKUB,/DO2022-07-14/SPNove Mesto potrebuje rozhybat,,,,MRVA JAKUB
+7,2022-07-12,-80.32,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR"
+8,2022-07-12,-200.0,Bezhotovostná platba,,,,12000425,,miro jilo piknik
+9,2022-07-11,100.0,Bezhotovostný príjem,Michal Drotován,/DO2022-07-11/SP Drzim palce,,,,Michal Drotován
+10,2022-07-09,-32.48,Transakcia kartou,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR",,3925,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR"
+11,2022-07-09,-22.61,Transakcia kartou,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR",,3925,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR"
+12,2022-07-08,50.0,Bezhotovostný príjem,Vojtek Peter,/DO2022-07-07/SPdar,,,,Vojtek Peter
+13,2022-07-07,-64.6,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR"
+14,2022-07-05,-66.9,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR"
+15,2022-07-04,20.0,Bezhotovostný príjem,Hana Drahovská,/DO2022-07-04/SP SP,,,,Hana Drahovská
+16,2022-07-01,-166.63,Transakcia kartou,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR",,3925,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR"
+17,2022-06-27,20.0,Bezhotovostný príjem,Matej Čambál,/DO2022-06-25/SP,,,,Matej Čambál
+18,2022-06-23,-193.75,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR"
+19,2022-06-22,50.0,Bezhotovostný príjem,SIRKA DANIEL,/DO2022-06-21/SPdar Matus Cupka,,,,SIRKA DANIEL
+20,2022-06-21,-559.2,Bezhotovostná platba,,,,202206037,,tlac listov
+21,2022-06-13,-546.76,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR"
+22,2022-06-13,-0.31,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR"
+23,2022-06-07,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-06-06/SPPrispevok na kampan,,,,MATLON MICHAL
+24,2022-06-06,-570.0,Bezhotovostná platba,,,,202205,,webdizajn
+25,2022-06-01,-132.67,Transakcia kartou,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR",,3925,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR"
+26,2022-05-31,-120.7,Bezhotovostná platba,,,,202204949,,letaky
+27,2022-05-31,-27.77,Bezhotovostná platba,,,,202204852,,tlac kapa dosky
+28,2022-05-31,-500.0,Bezhotovostná platba,,,,22050021,,produkcia videa
+29,2022-05-31,-75.6,Bezhotovostná platba,,,,202205059,,polep
+30,2022-05-31,-120.0,Bezhotovostná platba,,,,2224,,fotograf
+31,2022-05-31,-120.0,Bezhotovostná platba,,,,20220021,,zvuk video
+32,2022-05-31,-36.0,Bezhotovostná platba,,,,922096,,najom stolik
+33,2022-05-30,100.0,Bezhotovostný príjem,"Šimeková Jana, Ing.",/DO2022-05-28/SPprispevok na kampan,,,,"Šimeková Jana, Ing."
+34,2022-05-27,300.0,Bezhotovostný príjem,Kapusta Matúš,/DO2022-05-26/SP,,,,Kapusta Matúš
+35,2022-05-27,100.0,Bezhotovostný príjem,Martin Vavrinčik,/DO2022-05-26/SP,,,,Martin Vavrinčik
+36,2022-05-27,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-05-26/SPPrispevok na kampan,,,,MATLON MICHAL
+37,2022-05-25,-55.0,Transakcia kartou,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR",,3925,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR"
+38,2022-05-25,50.0,Bezhotovostný príjem,JURAN SAMUEL,"/DO2022-05-24/SPDar na kampan, drzime palce, DAR NA KAMPAN - SAMUEL JURAN",,,,JURAN SAMUEL
+39,2022-05-06,-48.0,Transakcia kartou,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR",,3925,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR"
+40,2022-04-15,-81.94,Transakcia kartou,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR",,3925,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR"
+41,2022-04-05,-80.21,Bezhotovostná platba,,,,1022110052,,webhosting cupka2022
+42,2022-04-05,-15.59,Bezhotovostná platba,,,,1022109280,,domena cupka2022
+43,2022-03-02,-450.0,Bezhotovostná platba,,,,202202,,dizajn webstránky
+44,2022-01-27,5000.0,Bezhotovostný príjem,Zuzana Čupková,/DO2022-01-27/SP prispevok cupka,,,,Zuzana Čupková
+45,2022-01-21,3963.41,Platba prevodom v rámci banky,"Čupka, Matúš",,,,,
