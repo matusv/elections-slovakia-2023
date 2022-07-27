@@ -1,0 +1,10 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-07-18,150.0,Bezhotovostný príjem,Naďa Kovárová,/DO2022-07-16/SPNaďa Kovárová,,,,Naďa Kovárová
+1,2022-07-13,150.0,Bezhotovostný príjem,Ján Bača,/DO2022-07-13/SP jan Baca kampan,,,,Ján Bača
+2,2022-06-20,-576.0,Bezhotovostná platba,,,0558,2270124,,
+3,2022-06-19,200.0,Platba prevodom v rámci banky,"Ing. Zigo, Ján",Volby 2022,,,,Volby 2022
+4,2022-06-15,100.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-06-15/SP,,,,Andrea Kukumbergová
+5,2022-06-15,200.0,Bezhotovostný príjem,Marián Gavorník,/DO2022-06-14/SPGavornik,0558,14062022,,Marián Gavorník
+6,2022-06-07,200.0,Bezhotovostný príjem,LISKA JAKUB,/DO2022-06-06/SPJakub Liska,,,,LISKA JAKUB
+7,2022-04-29,150.0,Bezhotovostný príjem,Ľubica Juranová,/DO2022-04-28/SPJán Juran - príspevok na transparentný účet,,28042022,,Ľubica Juranová
+8,2022-03-23,200.0,Bezhotovostný príjem,PETRAKOVIC JURAJ,/DO2022-03-23/SPvolby 2020,,,,PETRAKOVIC JURAJ

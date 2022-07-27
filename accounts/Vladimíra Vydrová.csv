@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Kolčáková Zuzana,2022-07-25,100,EUR,,Bezhotovostný vklad,0000000011,
+1,Granec Ján,2022-07-19,100,EUR,F001190720228521733,Bezhotovostný vklad,,
+2,Vydrová  Vladimíra,2022-07-17,200,EUR,F001170720226035750,Bezhotovostný vklad,,
+3,Vydrová  Vladimíra,2022-07-17,70,EUR,F001170720226035376,Bezhotovostný vklad,,
