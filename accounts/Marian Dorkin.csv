@@ -1,3 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-07-21,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,10221692,
-1,Tinta.sk,2022-07-21,-56.26,EUR,0220721122004.844624,Okamžitá platba (EB),10221692,
+0,,2022-07-28,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,20220127,
+1,Tapi s.r.o,2022-07-28,-45.0,EUR,Úhrada faktúry 20220127,Okamžitá platba (EB),20220127,
+2,,2022-07-21,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,10221692,
+3,Tinta.sk,2022-07-21,-56.26,EUR,0220721122004.844624,Okamžitá platba (EB),10221692,

@@ -1,18 +1,19 @@
 index,date,amount,account_name,message,vs
-0,2022-07-25,2000.0,"Kriváň Senčeková Daniela, Ing.",,25072022
-1,2022-07-22,-432.0,ADRA ATTIS s.r.o.,Volebny baner,11222161
-2,2022-07-06,100.0,"Valchovník Ivan, Ing.",May the force be with you,
-3,2022-07-04,100.0,Kóňa Ľudovít,Ludvik Kona,
-4,2022-07-04,200.0,Miroslav Zlocha,Miroslav Zlocha - drzim palce anech to vyjde,650420
-5,2022-06-30,6.0,,Odpustenie vedenie konta,9
-6,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
-7,2022-06-27,-7.6,"VUB,A.S.",DDDAFFER~S~R~O~~~PRIEVIDZA~~~~~~P1,****1306
-8,2022-06-27,-6.0,Platba kartou,FACEBK LYFNNEKR fb.me/ads,****1306
-9,2022-06-22,-156.0,Creative Studio s.r.o.,Tlac letakov na kampan,2022178
-10,2022-06-22,-196.0,Mgr. Andrea Blaho Zerola Atelier,Za fotky do kampane,202206004
-11,2022-05-31,6.0,,Odpustenie vedenie konta,9
-12,2022-05-31,-6.0,,Vedenie konta Transparentný účet,9
-13,2022-05-17,-3.5,,Poplatok Zmena PIN k PK cez ATM,1306
-14,2022-04-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-15,2022-04-29,-5.0,,Vedenie účtu,9
-16,2022-04-21,2000.0,LADISLAV SMATANA,Vklad majitela uctu,
+0,2022-07-28,200.0,"Habodász Matej, Ing.",LACO NA HRAD,
+1,2022-07-25,2000.0,"Kriváň Senčeková Daniela, Ing.",,25072022
+2,2022-07-22,-432.0,ADRA ATTIS s.r.o.,Volebny baner,11222161
+3,2022-07-06,100.0,"Valchovník Ivan, Ing.",May the force be with you,
+4,2022-07-04,100.0,Kóňa Ľudovít,Ludvik Kona,
+5,2022-07-04,200.0,Miroslav Zlocha,Miroslav Zlocha - drzim palce anech to vyjde,650420
+6,2022-06-30,6.0,,Odpustenie vedenie konta,9
+7,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
+8,2022-06-27,-7.6,"VUB,A.S.",DDDAFFER~S~R~O~~~PRIEVIDZA~~~~~~P1,****1306
+9,2022-06-27,-6.0,Platba kartou,FACEBK LYFNNEKR fb.me/ads,****1306
+10,2022-06-22,-156.0,Creative Studio s.r.o.,Tlac letakov na kampan,2022178
+11,2022-06-22,-196.0,Mgr. Andrea Blaho Zerola Atelier,Za fotky do kampane,202206004
+12,2022-05-31,6.0,,Odpustenie vedenie konta,9
+13,2022-05-31,-6.0,,Vedenie konta Transparentný účet,9
+14,2022-05-17,-3.5,,Poplatok Zmena PIN k PK cez ATM,1306
+15,2022-04-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+16,2022-04-29,-5.0,,Vedenie účtu,9
+17,2022-04-21,2000.0,LADISLAV SMATANA,Vklad majitela uctu,
