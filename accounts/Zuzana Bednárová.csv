@@ -1,5 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Kresťanskodemokratické hnutie,2022-07-26,10000.0,EUR,Peňažný dar,Bezhotovostný vklad,26072022,
-1,Krisztina Seman-Tatár Kriszta Makeup,2022-07-24,-80.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220002,
-2,Websupport,2022-07-11,-58.46,EUR,0220711203136.977195,Okamžitá platba (EB),1022205079,
-3,Bednarova Zuzana,2022-07-11,500.0,EUR,22818598,Bezhotovostný vklad,,
+0,Michal Gazdik,2022-07-29,-295.0,EUR,0220729095138.780214,Okamžitá platba (EB),28072022,
+1,Lukas Hlubovic,2022-07-29,-1450.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022047,
+2,Kresťanskodemokratické hnutie,2022-07-26,10000.0,EUR,Peňažný dar,Bezhotovostný vklad,26072022,
+3,Krisztina Seman-Tatár Kriszta Makeup,2022-07-24,-80.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220002,
+4,Websupport,2022-07-11,-58.46,EUR,0220711203136.977195,Okamžitá platba (EB),1022205079,
+5,Bednarova Zuzana,2022-07-11,500.0,EUR,22818598,Bezhotovostný vklad,,

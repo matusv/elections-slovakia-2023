@@ -1,3 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,SLYSKOVA KATARINA,2022-07-25,10000,EUR,22944787,Bezhotovostný vklad,,
-1,SLYSKOVA KATARINA,2022-07-18,10000,EUR,22884427,Bezhotovostný vklad,,
+0,VRBATA s.r.o. - Reklamne Predmety,2022-07-29,-4438.8,EUR,Platba faktury V220871,Platobný príkaz na úhradu / FIT 2.0 (EB),220871,
+1,"BYSTRÍK, S.r.o.",2022-07-29,-530.0,EUR,Úhrada faktúry: 20220105,Platobný príkaz na úhradu / FIT 2.0 (EB),20220105,
+2,"Senker, S.r.o.",2022-07-29,-977.5,EUR,Peter Slyško; ; 22.07.2022,Platobný príkaz na úhradu / FIT 2.0 (EB),2022011,
+3,SLYSKOVA KATARINA,2022-07-25,10000.0,EUR,22944787,Bezhotovostný vklad,,
+4,SLYSKOVA KATARINA,2022-07-18,10000.0,EUR,22884427,Bezhotovostný vklad,,
