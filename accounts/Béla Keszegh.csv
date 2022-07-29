@@ -1,6 +1,10 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Ruman Patrik,2022-07-26,500,EUR,F001260720223164753,Bezhotovostný vklad,,
-1,Štefan Bende,2022-07-20,500,EUR,4KN2022,Bezhotovostný vklad - okamžitá platba,2072022,20720222
-2,Kovács Dávid,2022-07-11,500,EUR,HAJRA KOMAROM,Bezhotovostný vklad - okamžitá platba,,
-3,Tímea Szénássy,2022-07-11,500,EUR,Szenassy Timea,Bezhotovostný vklad - okamžitá platba,,
-4,Varga Tamás,2022-07-10,1000,EUR,volby2022,Bezhotovostný vklad,,
+0,,2022-07-29,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2270070,
+1,euroAWK spol. s r.o.,2022-07-29,-144.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2270070,
+2,,2022-07-29,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,22950256,
+3,"ISPA, spol. s r.o.",2022-07-29,-194.4,EUR,0220729154201.442185,Okamžitá platba (EB),22950256,
+4,Ruman Patrik,2022-07-26,500.0,EUR,F001260720223164753,Bezhotovostný vklad,,
+5,Štefan Bende,2022-07-20,500.0,EUR,4KN2022,Bezhotovostný vklad - okamžitá platba,2072022,20720222
+6,Kovács Dávid,2022-07-11,500.0,EUR,HAJRA KOMAROM,Bezhotovostný vklad - okamžitá platba,,
+7,Tímea Szénássy,2022-07-11,500.0,EUR,Szenassy Timea,Bezhotovostný vklad - okamžitá platba,,
+8,Varga Tamás,2022-07-10,1000.0,EUR,volby2022,Bezhotovostný vklad,,
