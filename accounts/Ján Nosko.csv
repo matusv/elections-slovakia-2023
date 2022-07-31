@@ -1,2 +1,3 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Nosko Ján,Nosková Eleonóra",2022-07-12,5000,EUR,F001120720221176526,Bezhotovostný vklad,,
+0,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,"Nosko Ján,Nosková Eleonóra",2022-07-12,5000,EUR,F001120720221176526,Bezhotovostný vklad,,

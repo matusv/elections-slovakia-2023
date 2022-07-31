@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,JAN PRILEPOK,2022-07-20,500,EUR,PLATBA,Bezhotovostný vklad,,
+0,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-07-31,-2.52,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,JAN PRILEPOK,2022-07-20,500.0,EUR,PLATBA,Bezhotovostný vklad,,
