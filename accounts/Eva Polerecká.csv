@@ -1,0 +1,11 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-08-01,-100.0,Bezhotovostná platba,,,,,,vratenie prispevku v hotovosti
+1,2022-07-28,-1.0,Transakcia kartou,,"Nákup: FACEBK *D5VZGGXGE2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 27.7.2022, částka  1.00 EUR",,0110,,"Nákup: FACEBK *D5VZGGXGE2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 27.7.2022, částka  1.00 EUR"
+2,2022-07-25,1000.0,Bezhotovostný príjem,Polerecký Ondrej,/DO2022-07-22/SPprispevok Ondrej Polerecky,0968,2022,,Polerecký Ondrej
+3,2022-07-16,-154.8,Bezhotovostná platba,,,,,,rekl.banner
+4,2022-07-16,-9.0,Transakcia kartou,,"Nákup: FACEBK *EMCEMGXHE2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  9.00 EUR",,0110,,"Nákup: FACEBK *EMCEMGXHE2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  9.00 EUR"
+5,2022-07-15,1000.0,Bezhotovostný príjem,Polerecký Ondrej,/DO2022-07-14/SPprispevok Ondrej Polerecky,0968,2022,,Polerecký Ondrej
+6,2022-07-06,-11.99,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 5.7.2022, částka  11.99 EUR",,0110,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 5.7.2022, částka  11.99 EUR"
+7,2022-06-29,-15.0,Transakcia kartou,,"Nákup: FACEBK N264JFPNJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  15.00 EUR",,0110,,"Nákup: FACEBK N264JFPNJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  15.00 EUR"
+8,2022-06-16,1000.0,Bezhotovostný príjem,Polerecký Ondrej,/DO2022-06-15/SPprispevok Ondrej Polerecky,0968,2022,,Polerecký Ondrej
+9,2022-05-13,100.0,Vklad v hotovosti,Štartujeme,,0558,,,Štartujeme

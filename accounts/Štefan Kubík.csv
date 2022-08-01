@@ -1,0 +1,3 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Kubík Štefan,2022-07-25,70,EUR,F001250720222531203,Bezhotovostný vklad,,
