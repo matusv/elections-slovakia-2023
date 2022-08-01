@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Adrian Polóny,2022-07-04,47000,EUR,ADRIAN POLÓNY SKUTOČNÁ ZMENA,Bezhotovostný vklad,,
+0,"Inga.A, s.r.o.",2022-08-01,-2591.35,EUR,Reklamné a grafické práce - júl,Okamžitá platba (EB),20220077,
+1,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,Adrian Polóny,2022-07-04,47000.0,EUR,ADRIAN POLÓNY SKUTOČNÁ ZMENA,Bezhotovostný vklad,,

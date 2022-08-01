@@ -1,2 +1,4 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-07-22,100.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-07-21/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová
+0,2022-08-01,200.0,Bezhotovostný príjem,"Sukupčák Martin, Ing",/DO2022-07-31/SPpodpora,,,,"Sukupčák Martin, Ing"
+1,2022-08-01,100.0,Bezhotovostný príjem,Ivan Vnučko,/DO2022-07-31/SPPrajeme vam uspiet,,,,Ivan Vnučko
+2,2022-07-22,100.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-07-21/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová
