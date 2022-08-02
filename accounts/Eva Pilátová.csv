@@ -1,29 +1,29 @@
 index,date,amount,account_name,message,vs
-0,2022-07-29,6.0,,Odpustenie vedenie konta,9
-1,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-2,2022-07-29,-509.1,LED promotion,Reklama na LED obrazovke pri Tesco,220800005
-3,2022-07-15,-66.6,ARDOX,"Rollup, banner",2022387
-4,2022-07-11,-514.73,VVDP Karpaty,Vino - Grinavsky den 2022,20220014
-5,2022-07-11,-200.0,Richard Estok RIAL STUDIO,Video - Grinavsky den 2022,20220015
-6,2022-07-08,-654.7,Anta Agni,Svetelna sou - Grinavsky den 2022,20220031
-7,2022-07-06,-243.4,Platba kartou,WEBNODE AG ZURICH,****4194
-8,2022-07-06,-200.0,Rial Studio Richard Estok,Vyroba videa,20220014
-9,2022-07-01,-600.0,Za srdcom OZ,Vystupenie Ludovej hudby Andreja Zahorca - Grinavsky den 2022,2022010
-10,2022-06-30,6.54,,Odpust.-popl.za platby a ved.úč/ko,9
-11,2022-06-30,-1.54,,Poplatky za platby spolu,9
-12,2022-06-30,-5.0,,Vedenie účtu,9
-13,2022-06-29,-50.0,Pavol Sandtner,Zapozicanie pristresku - Grinavsky den 2022,20220625
-14,2022-06-29,-500.0,Eduard Polakovic,Sluzby DJ - Grinavsky den 2022,20220625
-15,2022-06-27,-500.0,Slavomir Sedlak,Prenajom nafukovacej smyklavky - Grinavsky den 2022,2022025
-16,2022-06-27,-150.0,Zuzana Nagyova SUEWWB,Fotografovanie - Grinavsky den 2022,2022017
-17,2022-06-27,-300.0,Silvia Svarcova,Hudobna produkcia - Grinavsky den 2022,20220625
-18,2022-06-27,-500.0,Frantisek Seckar,Kolotoc pre deti - Grinavsky den 2022,200201
-19,2022-06-27,700.0,Marek Hančík,,
-20,2022-06-23,500.0,Zdenka Maderičová,Prispevok,
-21,2022-06-23,100.0,Jaroslava Holická,Vela stastia,
-22,2022-06-23,500.0,Klaudia Virgovičová,Pre tu najlepsiu kandidatku pod Slnkom,
-23,2022-06-23,1000.0,Roman Šmahovský,Pre dobro Pezinka,1105
-24,2022-06-23,1000.0,Ľuboš Bobák,Drzim palce,
-25,2022-06-23,3000.0,Eva Pilátová,,
-26,2022-06-22,-90.0,Zuzana Nagyova SUEWWB,dizajnerske sluzby - navrh loga,2022015
-27,2022-06-20,3000.0,VLACHOVIC TOMAS,Prispevok Eva Pilatova,
+0,2022-06-23,3000.0,Eva Pilátová,,
+1,2022-06-22,-90.0,Zuzana Nagyova SUEWWB,dizajnerske sluzby - navrh loga,2022015
+2,2022-06-20,3000.0,VLACHOVIC TOMAS,Prispevok Eva Pilatova,
+3,2022-07-29,6.0,,Odpustenie vedenie konta,9
+4,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-07-29,-509.1,LED promotion,Reklama na LED obrazovke pri Tesco,220800005
+6,2022-07-15,-66.6,ARDOX,"Rollup, banner",2022387
+7,2022-07-11,-514.73,VVDP Karpaty,Vino - Grinavsky den 2022,20220014
+8,2022-07-11,-200.0,Richard Estok RIAL STUDIO,Video - Grinavsky den 2022,20220015
+9,2022-07-08,-654.7,Anta Agni,Svetelna sou - Grinavsky den 2022,20220031
+10,2022-07-06,-243.4,Platba kartou,WEBNODE AG ZURICH,****4194
+11,2022-07-06,-200.0,Rial Studio Richard Estok,Vyroba videa,20220014
+12,2022-07-01,-600.0,Za srdcom OZ,Vystupenie Ludovej hudby Andreja Zahorca - Grinavsky den 2022,2022010
+13,2022-06-30,6.54,,Odpust.-popl.za platby a ved.úč/ko,9
+14,2022-06-30,-1.54,,Poplatky za platby spolu,9
+15,2022-06-30,-5.0,,Vedenie účtu,9
+16,2022-06-29,-50.0,Pavol Sandtner,Zapozicanie pristresku - Grinavsky den 2022,20220625
+17,2022-06-29,-500.0,Eduard Polakovic,Sluzby DJ - Grinavsky den 2022,20220625
+18,2022-06-27,-500.0,Slavomir Sedlak,Prenajom nafukovacej smyklavky - Grinavsky den 2022,2022025
+19,2022-06-27,-150.0,Zuzana Nagyova SUEWWB,Fotografovanie - Grinavsky den 2022,2022017
+20,2022-06-27,-300.0,Silvia Svarcova,Hudobna produkcia - Grinavsky den 2022,20220625
+21,2022-06-27,-500.0,Frantisek Seckar,Kolotoc pre deti - Grinavsky den 2022,200201
+22,2022-06-27,700.0,Marek Hančík,,
+23,2022-06-23,500.0,Zdenka Maderičová,Prispevok,
+24,2022-06-23,100.0,Jaroslava Holická,Vela stastia,
+25,2022-06-23,500.0,Klaudia Virgovičová,Pre tu najlepsiu kandidatku pod Slnkom,
+26,2022-06-23,1000.0,Roman Šmahovský,Pre dobro Pezinka,1105
+27,2022-06-23,1000.0,Ľuboš Bobák,Drzim palce,
