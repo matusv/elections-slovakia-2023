@@ -1,12 +1,11 @@
 index,date,amount,account_name,message,vs
-0,2022-08-03,-12.0,Platba kartou,Platba kartou u obchodníka,****5260
-1,2022-08-04,-12.0,Platba kartou,Obecny urad Rov ROVINKA 13:08,****5260
-2,2022-08-04,100.0,Převrátil Martin,,
-3,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
-4,2022-07-29,-0.44,,Poplatky za platby spolu,9
-5,2022-07-29,-5.0,,Vedenie účtu,9
-6,2022-07-26,-28.66,,,
-7,2022-07-18,-1.0,,Popl. Zobr. zostatku cez ATM,5260
-8,2022-07-18,-24.0,,,1022208736
-9,2022-07-15,100.0,Převrátil Martin,,
-10,2022-07-15,20.0,Benko Sandra,,
+0,2022-08-04,-12.0,Platba kartou,Obecny urad Rov ROVINKA 13:08,****5260
+1,2022-08-04,100.0,Převrátil Martin,,
+2,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
+3,2022-07-29,-0.44,,Poplatky za platby spolu,9
+4,2022-07-29,-5.0,,Vedenie účtu,9
+5,2022-07-26,-28.66,,,
+6,2022-07-18,-1.0,,Popl. Zobr. zostatku cez ATM,5260
+7,2022-07-18,-24.0,,,1022208736
+8,2022-07-15,100.0,Převrátil Martin,,
+9,2022-07-15,20.0,Benko Sandra,,
