@@ -1,23 +1,24 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-02,-277.2,Bezhotovostná platba,,"Inzercia Dusan Velic, kandidat na Z
+0,2022-08-08,-443.72,Transakcia kartou,,"Nákup: FACEBK TY38XGKHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.8.2022, částka  443.72 EUR",,7894,,"Nákup: FACEBK TY38XGKHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.8.2022, částka  443.72 EUR"
+1,2022-08-02,-277.2,Bezhotovostná platba,,"Inzercia Dusan Velic, kandidat na Z
 upana, transparentny ucet, volby 20
 22, strana Za ludi",0308,,,"Inzercia v Bratislavských novinách: Dušan Velič, kandidát na Župana, transparentný účet, voľby 2022, strana Za ľudí"
-1,2022-08-02,-10.54,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR",,7894,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR"
-2,2022-08-02,-71.03,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR"
-3,2022-07-30,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR"
-4,2022-07-25,4000.0,Bezhotovostný príjem,ZA ĽUDÍ,/DO2022-07-22/SPZA LUDI DUSAN VELIC VOLBY 2022,,22072022,,ZA ĽUDÍ
-5,2022-07-23,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR"
-6,2022-07-22,-10.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR"
-7,2022-07-18,5.0,Bezhotovostný príjem,Boris Vereš,/DO2022-07-17/SPdar - Boris Vereš - Župná kampaň 2022,,202200007,,Boris Vereš
-8,2022-07-16,-9.0,Transakcia kartou,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR"
-9,2022-07-15,-9.0,Transakcia kartou,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR"
-10,2022-07-14,25.0,Bezhotovostný príjem,Gajdosikova Adriana,/DO2022-07-13/SPdar Adriana Gajdosikova Zupna kampan 2022,,,,Gajdosikova Adriana
-11,2022-07-14,-9.0,Transakcia kartou,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR"
-12,2022-07-11,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-07-09/SPdar - Annamarie Velic - Zupna kampan 2022,,,,"Velič Annamarie, Ing"
-13,2022-07-10,-300.0,Transakcia kartou,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR",,7894,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR"
-14,2022-07-01,-88.0,Platba prevodom v rámci banky,,Digitalizacia videokaziet,,2201550110,,Digitalizacia videokaziet
-15,2022-06-27,10000.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
-16,2022-06-27,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
-17,2022-06-24,100.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",dar - Dušan Velič - Župná kampaň 2022,,202200001,,dar - Dušan Velič - Župná kampaň 2022
-18,2022-06-17,-35.0,Poplatok - platobná karta,,"Založení expres karty, číslo bylo přiděleno",,7894,,"Založení expres karty, číslo bylo přiděleno"
-19,2022-06-16,35.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",založenie nového trans. účtu,,,,založenie nového trans. účtu
+2,2022-08-02,-10.54,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR",,7894,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR"
+3,2022-08-02,-71.03,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR"
+4,2022-07-30,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR"
+5,2022-07-25,4000.0,Bezhotovostný príjem,ZA ĽUDÍ,/DO2022-07-22/SPZA LUDI DUSAN VELIC VOLBY 2022,,22072022,,ZA ĽUDÍ
+6,2022-07-23,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR"
+7,2022-07-22,-10.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR"
+8,2022-07-18,5.0,Bezhotovostný príjem,Boris Vereš,/DO2022-07-17/SPdar - Boris Vereš - Župná kampaň 2022,,202200007,,Boris Vereš
+9,2022-07-16,-9.0,Transakcia kartou,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR"
+10,2022-07-15,-9.0,Transakcia kartou,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR"
+11,2022-07-14,25.0,Bezhotovostný príjem,Gajdosikova Adriana,/DO2022-07-13/SPdar Adriana Gajdosikova Zupna kampan 2022,,,,Gajdosikova Adriana
+12,2022-07-14,-9.0,Transakcia kartou,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR"
+13,2022-07-11,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-07-09/SPdar - Annamarie Velic - Zupna kampan 2022,,,,"Velič Annamarie, Ing"
+14,2022-07-10,-300.0,Transakcia kartou,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR",,7894,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR"
+15,2022-07-01,-88.0,Platba prevodom v rámci banky,,Digitalizacia videokaziet,,2201550110,,Digitalizacia videokaziet
+16,2022-06-27,10000.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
+17,2022-06-27,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
+18,2022-06-24,100.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",dar - Dušan Velič - Župná kampaň 2022,,202200001,,dar - Dušan Velič - Župná kampaň 2022
+19,2022-06-17,-35.0,Poplatok - platobná karta,,"Založení expres karty, číslo bylo přiděleno",,7894,,"Založení expres karty, číslo bylo přiděleno"
+20,2022-06-16,35.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",založenie nového trans. účtu,,,,založenie nového trans. účtu
