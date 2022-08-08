@@ -1,5 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,IE63ZZZ307358~META PLATFORMS IRELAND LIMITED,2022-08-02,-36.64,EUR,FBEUX9G007V2~FACEBOOK ADS B89MLJMDCX~~~Inkaso: opakované,Inkaso (platiteľ),,
-1,"Inga.A, s.r.o.",2022-08-01,-2591.35,EUR,Reklamné a grafické práce - júl,Okamžitá platba (EB),20220077,
-2,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,Adrian Polóny,2022-07-04,47000.0,EUR,ADRIAN POLÓNY SKUTOČNÁ ZMENA,Bezhotovostný vklad,,
+0,,2022-08-08,-9.0,EUR,"B1344009365-44544 12** **** 0509;FACEBK WAQR7GXLK2 ,fb.me/ads ,IE ;06.08.2022 23:27:14 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-08-08,-9.0,EUR,"B1344005855-44544 12** **** 0509;FACEBK CSFPWGPMK2 ,fb.me/ads ,IE ;06.08.2022 18:57:13 ;CashBack:0 EUR",Platba kartou,,
+2,IE63ZZZ307358~META PLATFORMS IRELAND LIMITED,2022-08-02,-36.64,EUR,FBEUX9G007V2~FACEBOOK ADS B89MLJMDCX~~~Inkaso: opakované,Inkaso (platiteľ),,
+3,"Inga.A, s.r.o.",2022-08-01,-2591.35,EUR,Reklamné a grafické práce - júl,Okamžitá platba (EB),20220077,
+4,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,Adrian Polóny,2022-07-04,47000.0,EUR,ADRIAN POLÓNY SKUTOČNÁ ZMENA,Bezhotovostný vklad,,
