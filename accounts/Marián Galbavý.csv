@@ -1,0 +1,13 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-08-02,-92.68,EUR,"B1340093461-44544 12** **** 2297;FACEBK FUS3WF7SY2 ,fb.me/ads ,IE ;31.07.2022 09:03:23 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,Damián Vančo,2022-07-04,-500.0,EUR,"Mark. sluzby, sprava soc. sieti",Okamžitá platba (EB),20221002,
+3,,2022-07-02,-78.98,EUR,"B1319370166-44544 12** **** 2297;FACEBK VPTT5F7SY2 ,fb.me/ads ,IE ;30.06.2022 09:05:56 ;CashBack:0 EUR",Platba kartou,,
+4,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,Marek Polonec,2022-06-17,100.0,EUR,2216850000049004,Bezhotovostný vklad - okamžitá platba,,
+6,Barbora Likavská,2022-06-14,-200.0,EUR,Fotografovanie,Platobný príkaz na úhradu / FIT 2.0 (EB),2022014,
+7,Denis Klenovič,2022-06-13,-672.0,EUR,Úhrada faktúry: Vyvojove sluzby preweb,Platobný príkaz na úhradu / FIT 2.0 (EB),20220003,
+8,Timotej Vančo,2022-06-13,-2000.0,EUR,"Úhrada faktúry: Progr, mark a konzsluzby",Platobný príkaz na úhradu / FIT 2.0 (EB),20221001,
+9,"Galbavý Marián, Mgr., Ing.",2022-06-10,3000.0,EUR,prispevok na vol. kampan,Bezhotovostný vklad,,
+10,"Galbavý Marián, Mgr., Ing.",2022-06-10,2000.0,EUR,prispevok na vol. kampan,Bezhotovostný vklad - okamžitá platba,,
+11,"Galbavý Marián, Mgr.",2022-06-07,70.0,EUR,dotacia pri zalozeni,Bezhotovostný vklad - okamžitá platba,,
