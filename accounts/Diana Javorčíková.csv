@@ -1,247 +1,251 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-09,-120.0,Bezhotovostná platba,,Diana Javorcikova 20220022,,20220022,,tvorba videi Jan Corba foto-video júl 2022 VS:20220022
-1,2022-08-08,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-08-08/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
-2,2022-08-08,30.0,Bezhotovostný príjem,ZUZANA HUKELOVA,/DO2022-08-05/SPASPON NIECO MALO...,,0020222970,,ZUZANA HUKELOVA
-3,2022-08-08,30.0,Bezhotovostný príjem,OPRAVIL ZDENEK,/DO2022-08-06/SPZdenek Opravil,,20222971,,OPRAVIL ZDENEK
-4,2022-08-08,30.0,Bezhotovostný príjem,Ftáčnik Martin,/DO2022-08-06/SP,,20222972,,Ftáčnik Martin
-5,2022-08-08,100.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-08-06/SP,,,,Dušan Vigaš
-6,2022-08-05,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-08-04/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-7,2022-08-05,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-08-04/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-8,2022-08-04,100.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-08-03/SPpodpora kampane,,,,JAVORCIKOVA DIANA
-9,2022-08-04,15.0,Bezhotovostný príjem,Soňa Daňová,/DO2022-08-03/SP,,,,Soňa Daňová
-10,2022-08-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-11,2022-08-03,50.0,Bezhotovostný príjem,FEDOR PAPANEK,/DO2022-08-02/SPBB MA NA VIAC,,0020222969,,FEDOR PAPANEK
-12,2022-08-03,10.0,Bezhotovostný príjem,IDA ADOLFOVA,,0558,20222930,,IDA ADOLFOVA
-13,2022-08-02,150.0,Bezhotovostný príjem,Monika Teplanová,/DO2022-08-02/SP Bystrica ma naviac s Dianou a jej timom,,20222968,,Monika Teplanová
-14,2022-08-01,-35.99,Transakcia kartou,,"Nákup: FACEBK DE2VTFKDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  35.99 EUR",,4195,,"Nákup: FACEBK DE2VTFKDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  35.99 EUR"
-15,2022-08-01,-576.0,Bezhotovostná platba,,Diana Javorcikova 22170444,,22170444,,Prenájom reklamných plôch 7/2022 VS:22170444
-16,2022-08-01,100.0,Bezhotovostný príjem,"Cochová Silvia, Mgr.",/DO2022-07-29/SP,,,,"Cochová Silvia, Mgr."
-17,2022-07-29,50.0,Bezhotovostný príjem,Vnenčák Peter,/DO2022-07-29/SPPodporujeme Dianu,,,,Vnenčák Peter
-18,2022-07-29,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-28/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-19,2022-07-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-07-26/SP podporujem Dianu,,,,Michaela Sršňová Fil
-20,2022-07-26,150.0,Bezhotovostný príjem,Horváth Imrich,/DO2022-07-25/SPtoto musime vyhrat,,20222962,,Horváth Imrich
-21,2022-07-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-07-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-22,2022-07-24,-40.0,Transakcia kartou,,"Nákup: FACEBK E3NAAHBDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.7.2022, částka  40.00 EUR",,4195,,"Nákup: FACEBK E3NAAHBDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.7.2022, částka  40.00 EUR"
-23,2022-07-22,100.0,Bezhotovostný príjem,"Francisty Zuzana, In",/DO2022-07-21/SP,,,,"Francisty Zuzana, In"
-24,2022-07-22,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-21/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-25,2022-07-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-07-21/SPMartin Kvietok,,,,Martin Kvietok
-26,2022-07-21,10.0,Bezhotovostný príjem,DOMINIKA HOMOLOVA,,,,,DOMINIKA HOMOLOVA
-27,2022-07-18,600.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-07-15/SPbb ma na viac,,,,"Nemčeková Ivica, PhD"
-28,2022-07-18,200.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2022-07-15/SP,,,,MOJZISOVA DANIELA
-29,2022-07-15,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-07-15/SP,0558,,,Beata Hirt
-30,2022-07-15,10.0,Bezhotovostný príjem,Tomáš Hronec,/DO2022-07-15/SP,,,,Tomáš Hronec
-31,2022-07-15,500.0,Bezhotovostný príjem,VIGASOVA TATIANA,/DO2022-07-14/SPbuducej primatorke,,,,VIGASOVA TATIANA
-32,2022-07-15,100.0,Bezhotovostný príjem,Lucia Rendlová,/DO2022-07-14/SP,,,,Lucia Rendlová
-33,2022-07-15,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-14/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-34,2022-07-14,-40.0,Transakcia kartou,,"Nákup: FACEBK X9EUPFXDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  40.00 EUR",,4195,,"Nákup: FACEBK X9EUPFXDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  40.00 EUR"
-35,2022-07-13,-2491.8,Bezhotovostná platba,,Diana Javorcikova 20220086,,2022086,,"Prenájom, tlač reklamných plôch 7/2022 VS:2022086"
-36,2022-07-13,200.0,Bezhotovostný príjem,Figuli Ivana,/DO2022-07-12/SP,,,,Figuli Ivana
-37,2022-07-13,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-07-12/SPDiana,,20222818,,Brašeň Miroslav
-38,2022-07-13,30.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-07-12/SPPLATBA,,,,MAGDALENA BERNATOVA
-39,2022-07-11,-180.0,Bezhotovostná platba,,Diana Javorcikova 20220029,,20220029,,"Ozvučenie a prenájom LED TV - ""Na kávu s Dianou"" 28.6.2022, VS:20220029"
-40,2022-07-08,20.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-07-08/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-41,2022-07-08,1000.0,Bezhotovostný príjem,Peter Jombík,/DO2022-07-07/SPIng. Peter Jombík,,,,Peter Jombík
-42,2022-07-08,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-07/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-43,2022-07-07,40.0,Bezhotovostný príjem,Irena Klimentová,/DO2022-07-07/SPIrena+Vlasta,,,,Irena Klimentová
-44,2022-07-07,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-07-07/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
-45,2022-07-06,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-07-05/SP,0968,,,Miroslava Vranovská
-46,2022-07-06,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-07-04/SP,,,,Dušan Vigaš
-47,2022-07-06,200.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-07-04/SPprispevok na kampan,,,,JAVORCIKOVA DIANA
-48,2022-07-06,30.0,Bezhotovostný príjem,STRMENOVA MARTINA,/DO2022-07-04/SP,,20222954,,STRMENOVA MARTINA
-49,2022-07-06,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-50,2022-07-05,1000.0,Platba prevodom v rámci banky,"Kliment, Tomáš",Tomáš Kliment,0558,,,Tomáš Kliment
-51,2022-07-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-07-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-52,2022-07-04,-180.0,Bezhotovostná platba,,"Ozvucenie a prenajom LED TV - Diana
+0,2022-08-09,50.0,Bezhotovostný príjem,Alexandra Bitušíková,/DO2022-08-09/SP,,20222978,,Alexandra Bitušíková
+1,2022-08-09,30.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-08-08/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
+2,2022-08-09,30.0,Bezhotovostný príjem,Ondrej Druga,/DO2022-08-08/SP,,20222977,,Ondrej Druga
+3,2022-08-09,30.0,Bezhotovostný príjem,MEDVED PETER,/DO2022-08-08/SP,,,,MEDVED PETER
+4,2022-08-09,-120.0,Bezhotovostná platba,,Diana Javorcikova 20220022,,20220022,,tvorba videi Jan Corba foto-video júl 2022 VS:20220022
+5,2022-08-08,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-08-08/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
+6,2022-08-08,30.0,Bezhotovostný príjem,ZUZANA HUKELOVA,/DO2022-08-05/SPASPON NIECO MALO...,,0020222970,,ZUZANA HUKELOVA
+7,2022-08-08,30.0,Bezhotovostný príjem,OPRAVIL ZDENEK,/DO2022-08-06/SPZdenek Opravil,,20222971,,OPRAVIL ZDENEK
+8,2022-08-08,30.0,Bezhotovostný príjem,Ftáčnik Martin,/DO2022-08-06/SP,,20222972,,Ftáčnik Martin
+9,2022-08-08,100.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-08-06/SP,,,,Dušan Vigaš
+10,2022-08-05,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-08-04/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+11,2022-08-05,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-08-04/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+12,2022-08-04,100.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-08-03/SPpodpora kampane,,,,JAVORCIKOVA DIANA
+13,2022-08-04,15.0,Bezhotovostný príjem,Soňa Daňová,/DO2022-08-03/SP,,,,Soňa Daňová
+14,2022-08-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+15,2022-08-03,50.0,Bezhotovostný príjem,FEDOR PAPANEK,/DO2022-08-02/SPBB MA NA VIAC,,0020222969,,FEDOR PAPANEK
+16,2022-08-03,10.0,Bezhotovostný príjem,IDA ADOLFOVA,,0558,20222930,,IDA ADOLFOVA
+17,2022-08-02,150.0,Bezhotovostný príjem,Monika Teplanová,/DO2022-08-02/SP Bystrica ma naviac s Dianou a jej timom,,20222968,,Monika Teplanová
+18,2022-08-01,-35.99,Transakcia kartou,,"Nákup: FACEBK DE2VTFKDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  35.99 EUR",,4195,,"Nákup: FACEBK DE2VTFKDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  35.99 EUR"
+19,2022-08-01,-576.0,Bezhotovostná platba,,Diana Javorcikova 22170444,,22170444,,Prenájom reklamných plôch 7/2022 VS:22170444
+20,2022-08-01,100.0,Bezhotovostný príjem,"Cochová Silvia, Mgr.",/DO2022-07-29/SP,,,,"Cochová Silvia, Mgr."
+21,2022-07-29,50.0,Bezhotovostný príjem,Vnenčák Peter,/DO2022-07-29/SPPodporujeme Dianu,,,,Vnenčák Peter
+22,2022-07-29,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-28/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+23,2022-07-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-07-26/SP podporujem Dianu,,,,Michaela Sršňová Fil
+24,2022-07-26,150.0,Bezhotovostný príjem,Horváth Imrich,/DO2022-07-25/SPtoto musime vyhrat,,20222962,,Horváth Imrich
+25,2022-07-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-07-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+26,2022-07-24,-40.0,Transakcia kartou,,"Nákup: FACEBK E3NAAHBDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.7.2022, částka  40.00 EUR",,4195,,"Nákup: FACEBK E3NAAHBDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.7.2022, částka  40.00 EUR"
+27,2022-07-22,100.0,Bezhotovostný príjem,"Francisty Zuzana, In",/DO2022-07-21/SP,,,,"Francisty Zuzana, In"
+28,2022-07-22,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-21/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+29,2022-07-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-07-21/SPMartin Kvietok,,,,Martin Kvietok
+30,2022-07-21,10.0,Bezhotovostný príjem,DOMINIKA HOMOLOVA,,,,,DOMINIKA HOMOLOVA
+31,2022-07-18,600.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-07-15/SPbb ma na viac,,,,"Nemčeková Ivica, PhD"
+32,2022-07-18,200.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2022-07-15/SP,,,,MOJZISOVA DANIELA
+33,2022-07-15,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-07-15/SP,0558,,,Beata Hirt
+34,2022-07-15,10.0,Bezhotovostný príjem,Tomáš Hronec,/DO2022-07-15/SP,,,,Tomáš Hronec
+35,2022-07-15,500.0,Bezhotovostný príjem,VIGASOVA TATIANA,/DO2022-07-14/SPbuducej primatorke,,,,VIGASOVA TATIANA
+36,2022-07-15,100.0,Bezhotovostný príjem,Lucia Rendlová,/DO2022-07-14/SP,,,,Lucia Rendlová
+37,2022-07-15,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-14/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+38,2022-07-14,-40.0,Transakcia kartou,,"Nákup: FACEBK X9EUPFXDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  40.00 EUR",,4195,,"Nákup: FACEBK X9EUPFXDG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  40.00 EUR"
+39,2022-07-13,-2491.8,Bezhotovostná platba,,Diana Javorcikova 20220086,,2022086,,"Prenájom, tlač reklamných plôch 7/2022 VS:2022086"
+40,2022-07-13,200.0,Bezhotovostný príjem,Figuli Ivana,/DO2022-07-12/SP,,,,Figuli Ivana
+41,2022-07-13,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-07-12/SPDiana,,20222818,,Brašeň Miroslav
+42,2022-07-13,30.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-07-12/SPPLATBA,,,,MAGDALENA BERNATOVA
+43,2022-07-11,-180.0,Bezhotovostná platba,,Diana Javorcikova 20220029,,20220029,,"Ozvučenie a prenájom LED TV - ""Na kávu s Dianou"" 28.6.2022, VS:20220029"
+44,2022-07-08,20.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-07-08/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+45,2022-07-08,1000.0,Bezhotovostný príjem,Peter Jombík,/DO2022-07-07/SPIng. Peter Jombík,,,,Peter Jombík
+46,2022-07-08,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-07-07/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+47,2022-07-07,40.0,Bezhotovostný príjem,Irena Klimentová,/DO2022-07-07/SPIrena+Vlasta,,,,Irena Klimentová
+48,2022-07-07,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-07-07/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
+49,2022-07-06,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-07-05/SP,0968,,,Miroslava Vranovská
+50,2022-07-06,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-07-04/SP,,,,Dušan Vigaš
+51,2022-07-06,200.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-07-04/SPprispevok na kampan,,,,JAVORCIKOVA DIANA
+52,2022-07-06,30.0,Bezhotovostný príjem,STRMENOVA MARTINA,/DO2022-07-04/SP,,20222954,,STRMENOVA MARTINA
+53,2022-07-06,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+54,2022-07-05,1000.0,Platba prevodom v rámci banky,"Kliment, Tomáš",Tomáš Kliment,0558,,,Tomáš Kliment
+55,2022-07-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-07-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+56,2022-07-04,-180.0,Bezhotovostná platba,,"Ozvucenie a prenajom LED TV - Diana
  Javorcikova",,20220019,,"Ozvučenie a prenájom LED TV - ""Na kávu s Dianou"" 7.6.2022, VS: 20220019"
-53,2022-07-04,-1000.0,Platba prevodom v rámci banky,,vratenie vkladu hotovosti Diana Javorcikova,,,,vratenie vkladu v hotovosti Diana Javorcikova
-54,2022-07-04,-1800.0,Bezhotovostná platba,,Diana Javorcikova 20220070,,20220070,,Príprava a prezentácia stratégie VS 20220070
-55,2022-07-01,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-30/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-56,2022-06-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-06-24/SP podporujem Dianu,,,,Michaela Sršňová Fil
-57,2022-06-24,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-06-24/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-58,2022-06-24,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-23/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-59,2022-06-23,-13.15,Transakcia kartou,,"Nákup: FACEBK T7ZU5FFLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.6.2022, částka  13.15 EUR",,4195,,"Nákup: FACEBK T7ZU5FFLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.6.2022, částka  13.15 EUR"
-60,2022-06-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-06-21/SPMartin Kvietok,,,,Martin Kvietok
-61,2022-06-21,10.0,Bezhotovostný príjem,DOMINIKA HOMOLOVA,,,,,DOMINIKA HOMOLOVA
-62,2022-06-20,150.0,Bezhotovostný príjem,Milan Krajčovič,/DO2022-06-17/SPPáči sa mi Vaša odvaha pracovať na občianskej budú cnosti Banskej Bystrice. Zvíťazíme!,0298,20222935,,Milan Krajčovič
-63,2022-06-17,500.0,Bezhotovostný príjem,"Bauer Karol, Ing.",/DO2022-06-16/SPSponzor.,,5701,,"Bauer Karol, Ing."
-64,2022-06-17,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-16/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-65,2022-06-16,50.0,Bezhotovostný príjem,Peter Páleník,/DO2022-06-16/SP,,20222934,,Peter Páleník
-66,2022-06-16,150.0,Bezhotovostný príjem,Horváth Imrich,/DO2022-06-15/SPih- nech sa dari,,20222933,,Horváth Imrich
-67,2022-06-15,1000.0,Vklad v hotovosti,,,0558,,,Tomáš Kliment
-68,2022-06-15,30.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-06-14/SPPLATBA,,0020222931,,MAGDALENA BERNATOVA
-69,2022-06-15,700.0,Bezhotovostný príjem,BBX s.r.o.,/DO2022-06-14/SPBBX dar kampan Diana,,20222932,,BBX s.r.o.
-70,2022-06-15,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-06-15/SP,0558,,,Beata Hirt
-71,2022-06-15,10.0,Bezhotovostný príjem,Tomáš Hronec,/DO2022-06-15/SP,,,,Tomáš Hronec
-72,2022-06-15,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-06-14/SP,0968,,,Miroslava Vranovská
-73,2022-06-14,-1200.0,Bezhotovostná platba,,Diana Javorcikova 2022072,,2022072,,Prenájom reklamných plôch EURO billboardov 6/2022 VS:2022072
-74,2022-06-14,200.0,Bezhotovostný príjem,LUNTER JAKUB,"/DO2022-06-13/SPPrispevok na kampan, JAKUB A ALEXANDRA LUNTEROVCI",,,,LUNTER JAKUB
-75,2022-06-14,5.0,Bezhotovostný príjem,IDA ADOLFOVA,,0558,20222930,,IDA ADOLFOVA
-76,2022-06-13,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-06-10/SPDiana,,20222818,,Brašeň Miroslav
-77,2022-06-10,-576.0,Bezhotovostná platba,,Diana Javorcikova 22170360,,22170360,,Prenájom reklamnej plochy jún 2022 VS: 22170360
-78,2022-06-10,20.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-06-10/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-79,2022-06-10,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-09/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-80,2022-06-09,-849.6,Bezhotovostná platba,,Diana Javorcikova 22170313,0308,22170313,,Prenájom reklamnej plochy máj 2022 VS: 22170313
-81,2022-06-09,30.0,Bezhotovostný príjem,Uherek Juraj,/DO2022-06-08/SP,,20222929,,Uherek Juraj
-82,2022-06-08,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-06-07/SP,,,,Dušan Vigaš
-83,2022-06-07,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-06-07/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
-84,2022-06-07,200.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-06-06/SPKampanove,,,,JAVORCIKOVA DIANA
-85,2022-06-06,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-06-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-86,2022-06-06,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-87,2022-06-06,-100.0,Bezhotovostná platba,,Diana Javorcikova 20220016,,20220016,,tvorba videi Jan Corba foto-video máj 2022 VS:20220016
-88,2022-06-06,-20.0,Transakcia kartou,,"Nákup: FACEBK 76YA8FBLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  20.00 EUR",,4195,,"Nákup: FACEBK 76YA8FBLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  20.00 EUR"
-89,2022-06-03,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-02/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-90,2022-05-31,100.0,Bezhotovostný príjem,Figuli Ivana,/DO2022-05-31/SP,,,,Figuli Ivana
-91,2022-05-30,-180.0,Bezhotovostná platba,,Diana Javorcikova 20220017,,20220017,,"Ozvučenie a prenájom LED TV Orphea s.r.o., 24.5.2022"
-92,2022-05-30,-68.4,Bezhotovostná platba,,tlac letakov Diana Javorcikova,,202200081,,"tlač letákov Digipress, s.r.o."
-93,2022-05-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-05-26/SP podporujem Dianu,,,,Michaela Sršňová Fil
-94,2022-05-27,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-26/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-95,2022-05-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-05-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-96,2022-05-25,100.0,Bezhotovostný príjem,Horváth Imrich,/DO2022-05-24/SPImrich Horvath,,20222927,,Horváth Imrich
-97,2022-05-23,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-05-21/SPMartin Kvietok,,,,Martin Kvietok
-98,2022-05-23,-8.97,Transakcia kartou,,"Nákup: FACEBK JVTTZD7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.5.2022, částka  8.97 EUR",,4195,,"Nákup: FACEBK JVTTZD7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.5.2022, částka  8.97 EUR"
-99,2022-05-20,30.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-05-19/SPPLATBA,,,,MAGDALENA BERNATOVA
-100,2022-05-20,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-19/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-101,2022-05-20,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-05-19/SP,0968,,,Miroslava Vranovská
-102,2022-05-19,200.0,Bezhotovostný príjem,VIGASOVA TATIANA,/DO2022-05-18/SPna vitazstvo,,,,VIGASOVA TATIANA
-103,2022-05-17,100.0,Bezhotovostný príjem,Lucia Rendlová,/DO2022-05-16/SP,,,,Lucia Rendlová
-104,2022-05-16,10.0,Bezhotovostný príjem,Tomáš Hronec,/DO2022-05-15/SP,,,,Tomáš Hronec
-105,2022-05-16,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-05-15/SP,0558,,,Beata Hirt
-106,2022-05-16,100.0,Bezhotovostný príjem,"Berčačinová Zuzana,",/DO2022-05-13/SPDiana Javorcikova,0558,7660216135,,"Berčačinová Zuzana,"
-107,2022-05-13,100.0,Bezhotovostný príjem,Michaela Lípová,/DO2022-05-13/SP,,,,Michaela Lípová
-108,2022-05-13,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-05-12/SPDiana,,20222818,,Brašeň Miroslav
-109,2022-05-13,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-12/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-110,2022-05-12,100.0,Bezhotovostný príjem,"Francisty Zuzana, In",/DO2022-05-11/SP,,,,"Francisty Zuzana, In"
-111,2022-05-12,100.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2022-05-11/SP,,,,MOJZISOVA DANIELA
-112,2022-05-12,-180.0,Bezhotovostná platba,,Diana Javorcikova 20220014,,20220014,,"ORPHEA s.r.o., Ozvučenie a prenájom LED TV, ""Na kávu s Dianou"" 3.5.2022"
-113,2022-05-12,-600.0,Bezhotovostná platba,,Diana Javorcikova 20220014,,20220014,,tvorba videi Jan Corba foto-video april 2022
-114,2022-05-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-05-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-115,2022-05-10,100.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-116,2022-05-09,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-05-09/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
-117,2022-05-09,35.0,Bezhotovostný príjem,Rossová Lucia,/DO2022-05-09/SP,,20222906,,Rossová Lucia
-118,2022-05-09,-234.0,Bezhotovostná platba,,"TP22315003/005 - 22.4.2022 Banskoby
+57,2022-07-04,-1000.0,Platba prevodom v rámci banky,,vratenie vkladu hotovosti Diana Javorcikova,,,,vratenie vkladu v hotovosti Diana Javorcikova
+58,2022-07-04,-1800.0,Bezhotovostná platba,,Diana Javorcikova 20220070,,20220070,,Príprava a prezentácia stratégie VS 20220070
+59,2022-07-01,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-30/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+60,2022-06-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-06-24/SP podporujem Dianu,,,,Michaela Sršňová Fil
+61,2022-06-24,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-06-24/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+62,2022-06-24,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-23/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+63,2022-06-23,-13.15,Transakcia kartou,,"Nákup: FACEBK T7ZU5FFLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.6.2022, částka  13.15 EUR",,4195,,"Nákup: FACEBK T7ZU5FFLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.6.2022, částka  13.15 EUR"
+64,2022-06-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-06-21/SPMartin Kvietok,,,,Martin Kvietok
+65,2022-06-21,10.0,Bezhotovostný príjem,DOMINIKA HOMOLOVA,,,,,DOMINIKA HOMOLOVA
+66,2022-06-20,150.0,Bezhotovostný príjem,Milan Krajčovič,/DO2022-06-17/SPPáči sa mi Vaša odvaha pracovať na občianskej budú cnosti Banskej Bystrice. Zvíťazíme!,0298,20222935,,Milan Krajčovič
+67,2022-06-17,500.0,Bezhotovostný príjem,"Bauer Karol, Ing.",/DO2022-06-16/SPSponzor.,,5701,,"Bauer Karol, Ing."
+68,2022-06-17,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-16/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+69,2022-06-16,50.0,Bezhotovostný príjem,Peter Páleník,/DO2022-06-16/SP,,20222934,,Peter Páleník
+70,2022-06-16,150.0,Bezhotovostný príjem,Horváth Imrich,/DO2022-06-15/SPih- nech sa dari,,20222933,,Horváth Imrich
+71,2022-06-15,1000.0,Vklad v hotovosti,,,0558,,,Tomáš Kliment
+72,2022-06-15,30.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-06-14/SPPLATBA,,0020222931,,MAGDALENA BERNATOVA
+73,2022-06-15,700.0,Bezhotovostný príjem,BBX s.r.o.,/DO2022-06-14/SPBBX dar kampan Diana,,20222932,,BBX s.r.o.
+74,2022-06-15,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-06-15/SP,0558,,,Beata Hirt
+75,2022-06-15,10.0,Bezhotovostný príjem,Tomáš Hronec,/DO2022-06-15/SP,,,,Tomáš Hronec
+76,2022-06-15,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-06-14/SP,0968,,,Miroslava Vranovská
+77,2022-06-14,-1200.0,Bezhotovostná platba,,Diana Javorcikova 2022072,,2022072,,Prenájom reklamných plôch EURO billboardov 6/2022 VS:2022072
+78,2022-06-14,200.0,Bezhotovostný príjem,LUNTER JAKUB,"/DO2022-06-13/SPPrispevok na kampan, JAKUB A ALEXANDRA LUNTEROVCI",,,,LUNTER JAKUB
+79,2022-06-14,5.0,Bezhotovostný príjem,IDA ADOLFOVA,,0558,20222930,,IDA ADOLFOVA
+80,2022-06-13,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-06-10/SPDiana,,20222818,,Brašeň Miroslav
+81,2022-06-10,-576.0,Bezhotovostná platba,,Diana Javorcikova 22170360,,22170360,,Prenájom reklamnej plochy jún 2022 VS: 22170360
+82,2022-06-10,20.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-06-10/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+83,2022-06-10,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-09/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+84,2022-06-09,-849.6,Bezhotovostná platba,,Diana Javorcikova 22170313,0308,22170313,,Prenájom reklamnej plochy máj 2022 VS: 22170313
+85,2022-06-09,30.0,Bezhotovostný príjem,Uherek Juraj,/DO2022-06-08/SP,,20222929,,Uherek Juraj
+86,2022-06-08,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-06-07/SP,,,,Dušan Vigaš
+87,2022-06-07,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-06-07/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
+88,2022-06-07,200.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-06-06/SPKampanove,,,,JAVORCIKOVA DIANA
+89,2022-06-06,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-06-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+90,2022-06-06,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+91,2022-06-06,-100.0,Bezhotovostná platba,,Diana Javorcikova 20220016,,20220016,,tvorba videi Jan Corba foto-video máj 2022 VS:20220016
+92,2022-06-06,-20.0,Transakcia kartou,,"Nákup: FACEBK 76YA8FBLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  20.00 EUR",,4195,,"Nákup: FACEBK 76YA8FBLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  20.00 EUR"
+93,2022-06-03,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-06-02/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+94,2022-05-31,100.0,Bezhotovostný príjem,Figuli Ivana,/DO2022-05-31/SP,,,,Figuli Ivana
+95,2022-05-30,-180.0,Bezhotovostná platba,,Diana Javorcikova 20220017,,20220017,,"Ozvučenie a prenájom LED TV Orphea s.r.o., 24.5.2022"
+96,2022-05-30,-68.4,Bezhotovostná platba,,tlac letakov Diana Javorcikova,,202200081,,"tlač letákov Digipress, s.r.o."
+97,2022-05-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-05-26/SP podporujem Dianu,,,,Michaela Sršňová Fil
+98,2022-05-27,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-26/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+99,2022-05-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-05-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+100,2022-05-25,100.0,Bezhotovostný príjem,Horváth Imrich,/DO2022-05-24/SPImrich Horvath,,20222927,,Horváth Imrich
+101,2022-05-23,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-05-21/SPMartin Kvietok,,,,Martin Kvietok
+102,2022-05-23,-8.97,Transakcia kartou,,"Nákup: FACEBK JVTTZD7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.5.2022, částka  8.97 EUR",,4195,,"Nákup: FACEBK JVTTZD7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.5.2022, částka  8.97 EUR"
+103,2022-05-20,30.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-05-19/SPPLATBA,,,,MAGDALENA BERNATOVA
+104,2022-05-20,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-19/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+105,2022-05-20,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-05-19/SP,0968,,,Miroslava Vranovská
+106,2022-05-19,200.0,Bezhotovostný príjem,VIGASOVA TATIANA,/DO2022-05-18/SPna vitazstvo,,,,VIGASOVA TATIANA
+107,2022-05-17,100.0,Bezhotovostný príjem,Lucia Rendlová,/DO2022-05-16/SP,,,,Lucia Rendlová
+108,2022-05-16,10.0,Bezhotovostný príjem,Tomáš Hronec,/DO2022-05-15/SP,,,,Tomáš Hronec
+109,2022-05-16,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-05-15/SP,0558,,,Beata Hirt
+110,2022-05-16,100.0,Bezhotovostný príjem,"Berčačinová Zuzana,",/DO2022-05-13/SPDiana Javorcikova,0558,7660216135,,"Berčačinová Zuzana,"
+111,2022-05-13,100.0,Bezhotovostný príjem,Michaela Lípová,/DO2022-05-13/SP,,,,Michaela Lípová
+112,2022-05-13,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-05-12/SPDiana,,20222818,,Brašeň Miroslav
+113,2022-05-13,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-12/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+114,2022-05-12,100.0,Bezhotovostný príjem,"Francisty Zuzana, In",/DO2022-05-11/SP,,,,"Francisty Zuzana, In"
+115,2022-05-12,100.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2022-05-11/SP,,,,MOJZISOVA DANIELA
+116,2022-05-12,-180.0,Bezhotovostná platba,,Diana Javorcikova 20220014,,20220014,,"ORPHEA s.r.o., Ozvučenie a prenájom LED TV, ""Na kávu s Dianou"" 3.5.2022"
+117,2022-05-12,-600.0,Bezhotovostná platba,,Diana Javorcikova 20220014,,20220014,,tvorba videi Jan Corba foto-video april 2022
+118,2022-05-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-05-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+119,2022-05-10,100.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+120,2022-05-09,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-05-09/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
+121,2022-05-09,35.0,Bezhotovostný príjem,Rossová Lucia,/DO2022-05-09/SP,,20222906,,Rossová Lucia
+122,2022-05-09,-234.0,Bezhotovostná platba,,"TP22315003/005 - 22.4.2022 Banskoby
 stricke ECHO - 1/3 strany Diana Jav
 orcikova",0308,2235104288,,TP22315003/005 - 22.4.2022 Banskobystrické ECHO - 1/3 strany
-119,2022-05-09,-709.2,Bezhotovostná platba,,"Prenajom reklamnych ploch, tlac pla
+123,2022-05-09,-709.2,Bezhotovostná platba,,"Prenajom reklamnych ploch, tlac pla
 gatov",,2022061,,"Prenájom reklamných plôch, tlač plagátov, Producentské centrum TOMAX film, s.r.o."
-120,2022-05-06,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-05/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-121,2022-05-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-122,2022-05-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-05-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-123,2022-05-04,-12.0,Transakcia kartou,,"Nákup: FACEBK C42Q6DTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.5.2022, částka  12.00 EUR",,4195,,"Nákup: FACEBK C42Q6DTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.5.2022, částka  12.00 EUR"
-124,2022-05-03,500.0,Bezhotovostný príjem,"Bauer Karol, Ing.",/DO2022-05-02/SP,,5701,,"Bauer Karol, Ing."
-125,2022-05-03,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-05-02/SP,,,,Dušan Vigaš
-126,2022-05-03,100.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-05-02/SPpodpora kandidatury,,,,JAVORCIKOVA DIANA
-127,2022-04-29,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-28/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-128,2022-04-28,-450.0,Bezhotovostná platba,,"Videomedailony januar ? april pre t
+124,2022-05-06,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-05/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+125,2022-05-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+126,2022-05-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-05-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+127,2022-05-04,-12.0,Transakcia kartou,,"Nákup: FACEBK C42Q6DTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.5.2022, částka  12.00 EUR",,4195,,"Nákup: FACEBK C42Q6DTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.5.2022, částka  12.00 EUR"
+128,2022-05-03,500.0,Bezhotovostný príjem,"Bauer Karol, Ing.",/DO2022-05-02/SP,,5701,,"Bauer Karol, Ing."
+129,2022-05-03,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-05-02/SP,,,,Dušan Vigaš
+130,2022-05-03,100.0,Bezhotovostný príjem,JAVORCIKOVA DIANA,/DO2022-05-02/SPpodpora kandidatury,,,,JAVORCIKOVA DIANA
+131,2022-04-29,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-28/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+132,2022-04-28,-450.0,Bezhotovostná platba,,"Videomedailony januar ? april pre t
 im Diana Javorcikova",,2022009,,"Videomedailóny členov tímu, január – apríl 2022, autor: Martin Bízik"
-129,2022-04-28,20.0,Bezhotovostný príjem,Hybačková Monika,/DO2022-04-27/SPHybackova na kampan,,27042022,,Hybačková Monika
-130,2022-04-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-04-26/SP podporujem Dianu,,,,Michaela Sršňová Fil
-131,2022-04-26,150.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-04-25/SPBystrica ma na viac,,,,"Nemčeková Ivica, PhD"
-132,2022-04-26,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-04-25/SP,0968,,,Miroslava Vranovská
-133,2022-04-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-04-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-134,2022-04-23,-8.03,Transakcia kartou,,"Nákup: FACEBK QDBP3DTLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.4.2022, částka  8.03 EUR",,4195,,"Nákup: FACEBK QDBP3DTLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.4.2022, částka  8.03 EUR"
-135,2022-04-22,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-21/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-136,2022-04-21,-242.5,Bezhotovostná platba,,Diana Javorcikova 20220012,,20220012,,"Odznaky, tricka s potlacou"
-137,2022-04-21,-360.0,Bezhotovostná platba,,Diana Javorcikova,,20220011,,"Ozvučenie a prenájom LED TV, 29.3. a 12.4.2022"
-138,2022-04-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-04-21/SPMartin Kvietok,,,,Martin Kvietok
-139,2022-04-21,30.0,Bezhotovostný príjem,Belička Ivan,/DO2022-04-20/SP,,20222821,,Belička Ivan
-140,2022-04-20,-234.0,Bezhotovostná platba,,"Diana Javorcikova TP22315003/004 -8
+133,2022-04-28,20.0,Bezhotovostný príjem,Hybačková Monika,/DO2022-04-27/SPHybackova na kampan,,27042022,,Hybačková Monika
+134,2022-04-27,5.0,Bezhotovostný príjem,Michaela Sršňová Fil,/DO2022-04-26/SP podporujem Dianu,,,,Michaela Sršňová Fil
+135,2022-04-26,150.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-04-25/SPBystrica ma na viac,,,,"Nemčeková Ivica, PhD"
+136,2022-04-26,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-04-25/SP,0968,,,Miroslava Vranovská
+137,2022-04-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-04-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+138,2022-04-23,-8.03,Transakcia kartou,,"Nákup: FACEBK QDBP3DTLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.4.2022, částka  8.03 EUR",,4195,,"Nákup: FACEBK QDBP3DTLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.4.2022, částka  8.03 EUR"
+139,2022-04-22,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-21/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+140,2022-04-21,-242.5,Bezhotovostná platba,,Diana Javorcikova 20220012,,20220012,,"Odznaky, tricka s potlacou"
+141,2022-04-21,-360.0,Bezhotovostná platba,,Diana Javorcikova,,20220011,,"Ozvučenie a prenájom LED TV, 29.3. a 12.4.2022"
+142,2022-04-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-04-21/SPMartin Kvietok,,,,Martin Kvietok
+143,2022-04-21,30.0,Bezhotovostný príjem,Belička Ivan,/DO2022-04-20/SP,,20222821,,Belička Ivan
+144,2022-04-20,-234.0,Bezhotovostná platba,,"Diana Javorcikova TP22315003/004 -8
 .4.2022 Banskobystricke ECHO - 1/3
 strany",,2235103844,,TP22315003/004 - 8.4.2022 Banskobystrické ECHO - 1/3 strany
-141,2022-04-19,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-14/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-142,2022-04-19,50.0,Bezhotovostný príjem,Jozef Malatinec,/DO2022-04-19/SP na podporu vitazstva,,,,Jozef Malatinec
-143,2022-04-19,30.0,Bezhotovostný príjem,Irena Klimentová,/DO2022-04-16/SP,,,,Irena Klimentová
-144,2022-04-19,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-04-15/SP,0558,,,Beata Hirt
-145,2022-04-12,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-04-12/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-146,2022-04-11,-12.0,Transakcia kartou,,"Nákup: FACEBK FSKDZC7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.4.2022, částka  12.00 EUR",,4195,,"Nákup: FACEBK FSKDZC7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.4.2022, částka  12.00 EUR"
-147,2022-04-11,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-04-09/SPDiana,,20222818,,Brašeň Miroslav
-148,2022-04-08,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-04-07/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
-149,2022-04-08,50.0,Bezhotovostný príjem,"Kubík Rudolf, Mgr.",/DO2022-04-07/SP,,20222817,,"Kubík Rudolf, Mgr."
-150,2022-04-08,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-07/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-151,2022-04-07,20.0,Bezhotovostný príjem,Ridzoň Jerguš,/DO2022-04-06/SP,,20222816,,Ridzoň Jerguš
-152,2022-04-06,-9.0,Transakcia kartou,,"Nákup: FACEBK E9AXHCTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.4.2022, částka  9.00 EUR",,4195,,"Nákup: FACEBK E9AXHCTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.4.2022, částka  9.00 EUR"
-153,2022-04-05,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-04-04/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-154,2022-04-05,150.0,Bezhotovostný príjem,Beata Hirt,/DO2022-04-04/SP,0508,42022,,Beata Hirt
-155,2022-04-05,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-04-04/SP,,,,Dušan Vigaš
-156,2022-04-05,30.0,Bezhotovostný príjem,JANSOVA BIBIANA,/DO2022-04-04/SP,,20222814,,JANSOVA BIBIANA
-157,2022-04-05,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-158,2022-04-04,-170.0,Bezhotovostná platba,,video Diana Javorcikova,,20220012,,tvorba videi Jan Corba foto-video marec 2022
-159,2022-04-04,-600.0,Bezhotovostná platba,,Diana Javorcikova,,2022005,,Martin Bizik Vytvorenie webstránky dianajavorcikova.s
-160,2022-04-04,100.0,Bezhotovostný príjem,Miroslav Figuli,/DO2022-04-04/SP Figuliova Maria,,9,,Miroslav Figuli
-161,2022-04-04,100.0,Bezhotovostný príjem,"Ceglédyová Natália,",/DO2022-04-01/SPprispevok na kampan Diane,,,,"Ceglédyová Natália,"
-162,2022-04-04,500.0,Bezhotovostný príjem,"Droppa Juraj, Ing.",/DO2022-04-01/SPdar,,,,"Droppa Juraj, Ing."
-163,2022-04-01,30.0,Bezhotovostný príjem,Plaváková Lucia,/DO2022-03-31/SP,,20222801,,Plaváková Lucia
-164,2022-04-01,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-31/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-165,2022-03-31,50.0,Bezhotovostný príjem,Jozef Malatinec,/DO2022-03-31/SP na podporu vitazstva,,,,Jozef Malatinec
-166,2022-03-30,-66.0,Platba prevodom v rámci banky,,Diana Javorcikova,,1020220014,,"Reklamný bannerový priestor na internetovom portáli BBonline.sk v pozícii Billboard 1,00 ks 132,00 132,00 banner v trvaní od 23.3. do 29.3.2"
-167,2022-03-30,50.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-03-29/SPPLATBA,,0020222798,,MAGDALENA BERNATOVA
-168,2022-03-30,100.0,Bezhotovostný príjem,Teplanova Monika,/DO2022-03-29/SPTeplanova Monika,,,,Teplanova Monika
-169,2022-03-30,10.0,Bezhotovostný príjem,STRMENOVA MARTINA,/DO2022-03-29/SP,,20222766,,STRMENOVA MARTINA
-170,2022-03-30,-9.0,Transakcia kartou,,"Nákup: FACEBK T8QNJCPLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.3.2022, částka  9.00 EUR",,4195,,"Nákup: FACEBK T8QNJCPLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.3.2022, částka  9.00 EUR"
-171,2022-03-27,-9.0,Transakcia kartou,,"Nákup: FACEBK 6YY6RDKLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.3.2022, částka  9.00 EUR",,4195,,"Nákup: FACEBK 6YY6RDKLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.3.2022, částka  9.00 EUR"
-172,2022-03-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-03-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-173,2022-03-25,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-03-24/SP,0968,,,Miroslava Vranovská
-174,2022-03-25,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-24/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-175,2022-03-24,50.0,Bezhotovostný príjem,"Cochová Silvia, Mgr.",/DO2022-03-23/SPPrispevok na kampan,,,,"Cochová Silvia, Mgr."
-176,2022-03-21,-234.0,Bezhotovostná platba,,"Diana Javorcikova TP22315003/003 -1
+145,2022-04-19,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-14/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+146,2022-04-19,50.0,Bezhotovostný príjem,Jozef Malatinec,/DO2022-04-19/SP na podporu vitazstva,,,,Jozef Malatinec
+147,2022-04-19,30.0,Bezhotovostný príjem,Irena Klimentová,/DO2022-04-16/SP,,,,Irena Klimentová
+148,2022-04-19,50.0,Bezhotovostný príjem,Beata Hirt,/DO2022-04-15/SP,0558,,,Beata Hirt
+149,2022-04-12,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-04-12/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+150,2022-04-11,-12.0,Transakcia kartou,,"Nákup: FACEBK FSKDZC7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.4.2022, částka  12.00 EUR",,4195,,"Nákup: FACEBK FSKDZC7LC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.4.2022, částka  12.00 EUR"
+151,2022-04-11,50.0,Bezhotovostný príjem,Brašeň Miroslav,/DO2022-04-09/SPDiana,,20222818,,Brašeň Miroslav
+152,2022-04-08,5.0,Bezhotovostný príjem,MONIKA CHOCHULOVA,/DO2022-04-07/SPPODPORA KANDIDATURY,,,,MONIKA CHOCHULOVA
+153,2022-04-08,50.0,Bezhotovostný príjem,"Kubík Rudolf, Mgr.",/DO2022-04-07/SP,,20222817,,"Kubík Rudolf, Mgr."
+154,2022-04-08,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-07/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+155,2022-04-07,20.0,Bezhotovostný príjem,Ridzoň Jerguš,/DO2022-04-06/SP,,20222816,,Ridzoň Jerguš
+156,2022-04-06,-9.0,Transakcia kartou,,"Nákup: FACEBK E9AXHCTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.4.2022, částka  9.00 EUR",,4195,,"Nákup: FACEBK E9AXHCTKC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.4.2022, částka  9.00 EUR"
+157,2022-04-05,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-04-04/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+158,2022-04-05,150.0,Bezhotovostný príjem,Beata Hirt,/DO2022-04-04/SP,0508,42022,,Beata Hirt
+159,2022-04-05,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-04-04/SP,,,,Dušan Vigaš
+160,2022-04-05,30.0,Bezhotovostný príjem,JANSOVA BIBIANA,/DO2022-04-04/SP,,20222814,,JANSOVA BIBIANA
+161,2022-04-05,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+162,2022-04-04,-170.0,Bezhotovostná platba,,video Diana Javorcikova,,20220012,,tvorba videi Jan Corba foto-video marec 2022
+163,2022-04-04,-600.0,Bezhotovostná platba,,Diana Javorcikova,,2022005,,Martin Bizik Vytvorenie webstránky dianajavorcikova.s
+164,2022-04-04,100.0,Bezhotovostný príjem,Miroslav Figuli,/DO2022-04-04/SP Figuliova Maria,,9,,Miroslav Figuli
+165,2022-04-04,100.0,Bezhotovostný príjem,"Ceglédyová Natália,",/DO2022-04-01/SPprispevok na kampan Diane,,,,"Ceglédyová Natália,"
+166,2022-04-04,500.0,Bezhotovostný príjem,"Droppa Juraj, Ing.",/DO2022-04-01/SPdar,,,,"Droppa Juraj, Ing."
+167,2022-04-01,30.0,Bezhotovostný príjem,Plaváková Lucia,/DO2022-03-31/SP,,20222801,,Plaváková Lucia
+168,2022-04-01,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-31/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+169,2022-03-31,50.0,Bezhotovostný príjem,Jozef Malatinec,/DO2022-03-31/SP na podporu vitazstva,,,,Jozef Malatinec
+170,2022-03-30,-66.0,Platba prevodom v rámci banky,,Diana Javorcikova,,1020220014,,"Reklamný bannerový priestor na internetovom portáli BBonline.sk v pozícii Billboard 1,00 ks 132,00 132,00 banner v trvaní od 23.3. do 29.3.2"
+171,2022-03-30,50.0,Bezhotovostný príjem,MAGDALENA BERNATOVA,/DO2022-03-29/SPPLATBA,,0020222798,,MAGDALENA BERNATOVA
+172,2022-03-30,100.0,Bezhotovostný príjem,Teplanova Monika,/DO2022-03-29/SPTeplanova Monika,,,,Teplanova Monika
+173,2022-03-30,10.0,Bezhotovostný príjem,STRMENOVA MARTINA,/DO2022-03-29/SP,,20222766,,STRMENOVA MARTINA
+174,2022-03-30,-9.0,Transakcia kartou,,"Nákup: FACEBK T8QNJCPLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.3.2022, částka  9.00 EUR",,4195,,"Nákup: FACEBK T8QNJCPLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.3.2022, částka  9.00 EUR"
+175,2022-03-27,-9.0,Transakcia kartou,,"Nákup: FACEBK 6YY6RDKLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.3.2022, částka  9.00 EUR",,4195,,"Nákup: FACEBK 6YY6RDKLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.3.2022, částka  9.00 EUR"
+176,2022-03-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-03-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+177,2022-03-25,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-03-24/SP,0968,,,Miroslava Vranovská
+178,2022-03-25,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-24/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+179,2022-03-24,50.0,Bezhotovostný príjem,"Cochová Silvia, Mgr.",/DO2022-03-23/SPPrispevok na kampan,,,,"Cochová Silvia, Mgr."
+180,2022-03-21,-234.0,Bezhotovostná platba,,"Diana Javorcikova TP22315003/003 -1
 1.3.2022 Banskobystricke ECHO",0308,2235102586,,TP22315003/003 - 11.3.2022 Banskobystrické ECHO
-177,2022-03-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-03-21/SPMartin Kvietok,,,,Martin Kvietok
-178,2022-03-18,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-17/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-179,2022-03-14,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-03-11/SP,,,,Dušan Vigaš
-180,2022-03-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-03-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-181,2022-03-11,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-10/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-182,2022-03-09,50.0,Bezhotovostný príjem,Rossová Lucia,/DO2022-03-08/SP,,,,Rossová Lucia
-183,2022-03-08,-250.0,Bezhotovostná platba,,video Diana Javorcikova,,10032022,,tvorba videi Jan Corba foto-video februar 2022
-184,2022-03-07,50.0,Bezhotovostný príjem,FIGULI IVANA,"/DO2022-03-04/SPPrispevok na kampan, Prispevok na kampan",,,,FIGULI IVANA
-185,2022-03-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-186,2022-03-04,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-03/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-187,2022-03-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-03-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-188,2022-02-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-02-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-189,2022-02-25,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-02-24/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-190,2022-02-21,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235101382,,TP22315003/002 - 11.2.2022 Banskobystrické ECHO - 1/3 strany
-191,2022-02-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-02-21/SPMartin Kvietok,,,,Martin Kvietok
-192,2022-02-21,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-02-18/SP,0968,,,Miroslava Vranovská
-193,2022-02-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-02-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-194,2022-02-07,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-02-04/SP,,,,Dušan Vigaš
-195,2022-02-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-02-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-196,2022-02-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-197,2022-02-01,-590.0,Bezhotovostná platba,,Diana Javorcikova,,06022022,,tvorba videi Jan Corba foto-video januar 2022
-198,2022-02-01,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-01-31/SP,,,,Dušan Vigaš
-199,2022-01-31,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-01-31/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
-200,2022-01-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-01-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
-201,2022-01-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-01-21/SPMartin Kvietok,,,,Martin Kvietok
-202,2022-01-19,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235100218,,ECHO januar 2022
-203,2022-01-18,50.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-01-17/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-204,2022-01-16,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,04012022,,tvorba videa
-205,2022-01-14,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,1012022,,tvorba videa
-206,2022-01-13,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,03012022,,tvorba videa
-207,2022-01-12,300.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-01-11/SPkampan bystricamanaviac,,,,"Nemčeková Ivica, PhD"
-208,2021-12-28,-180.0,Bezhotovostná platba,,Diana Javorcikova,,2135116661,,ECHO december 2021
-209,2021-12-28,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,29122021,,video Kostiviarska
-210,2021-12-20,-100.0,Bezhotovostná platba,,Diana Javorcikova,,28122021,,video aktivne starnutie
-211,2021-12-14,20.0,Bezhotovostný príjem,HOFBAUEROVA VERONIKA,/DO2021-12-13/SP,,,,HOFBAUEROVA VERONIKA
-212,2021-12-13,20.0,Bezhotovostný príjem,Lichanec Filip,/DO2021-12-11/SP,,,,Lichanec Filip
-213,2021-12-02,50.0,Bezhotovostný príjem,Fedor Papánek,"/DO2021-12-02/SPPríspevok na kampaň, Fedor Papanek, Bratislava",,,,Fedor Papánek
-214,2021-12-01,600.0,Bezhotovostný príjem,"Droppa Juraj, Ing.",/DO2021-11-30/SPdar,,,,"Droppa Juraj, Ing."
-215,2021-11-30,50.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2021-11-29/SP,,,,MOJZISOVA DANIELA
-216,2021-11-29,-300.0,Bezhotovostná platba,,Diana Javorcikova,,24112021,,video zaciatok kampane
-217,2021-11-29,50.0,Bezhotovostný príjem,Michaela Lípová,/DO2021-11-29/SP,,,,Michaela Lípová
-218,2021-11-25,-53.1,Platba prevodom v rámci banky,,Diana Javorcikova,,21010335,,odznaky
-219,2021-11-24,50.0,Bezhotovostný príjem,Lucia Rendlová,/DO2021-11-23/SP,,,,Lucia Rendlová
-220,2021-11-24,40.0,Bezhotovostný príjem,RENDLA MAROS,,,,,RENDLA MAROS
-221,2021-11-23,1000.0,Bezhotovostný príjem,Peter Jombík,/DO2021-11-22/SPIng. Peter Jombík,,,,Peter Jombík
-222,2021-11-23,50.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
-223,2021-11-18,-200.0,Platba prevodom v rámci banky,,foto Javorcikova,,2021044,,Portretne fotografie
-224,2021-11-13,-132.5,Bezhotovostná platba,,,,21000142,,Celovky
-225,2021-10-21,100.0,Bezhotovostný príjem,Beata Hirt,/DO2021-10-20/SP,0558,2022,,Beata Hirt
-226,2021-10-20,100.0,Bezhotovostný príjem,Peter Jombík,/DO2021-10-20/SPIng. Peter Jombík,,,,Peter Jombík
-227,2021-10-19,50.0,Bezhotovostný príjem,FIGULI IVANA,/DO2021-10-18/SP,,,,FIGULI IVANA
-228,2021-10-19,100.0,Bezhotovostný príjem,POCOVA LUBICA,/DO2021-10-18/SPDiana,,,,POCOVA LUBICA
-229,2021-10-15,500.0,Bezhotovostný príjem,Dušan Vigaš,/DO2021-10-14/SP,,0140652122,,Dušan Vigaš
-230,2021-10-12,100.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2021-10-12/SPDAR,,,,JANA MOJSOVA
-231,2021-10-08,200.0,Bezhotovostný príjem,ING.PETER MEDVED,/DO2021-10-07/SPprispevok kampan DJ,0558,,,ING.PETER MEDVED
-232,2021-10-01,200.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2021-09-30/SPPREVOD PROSTRIEDKOV,,0000002022,,INGRID KRAJCOVICOVA
-233,2021-10-01,1000.0,Bezhotovostný príjem,"Kubík Rudolf, Mgr.",/DO2021-09-30/SP,,,,"Kubík Rudolf, Mgr."
-234,2021-10-01,150.0,Bezhotovostný príjem,STRMENOVA MARTINA,/DO2021-09-30/SP,,,,STRMENOVA MARTINA
-235,2021-09-30,100.0,Bezhotovostný príjem,Peter Rusnák,/DO2021-09-29/SPtransparentný účet DJ,,,,Peter Rusnák
-236,2021-09-30,200.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2021-09-29/SPPlán D - voličský prieskum,0298,,,Miroslava Vranovská
-237,2021-09-28,10.0,Vklad v hotovosti,,,0558,,,
+181,2022-03-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-03-21/SPMartin Kvietok,,,,Martin Kvietok
+182,2022-03-18,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-17/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+183,2022-03-14,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-03-11/SP,,,,Dušan Vigaš
+184,2022-03-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-03-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+185,2022-03-11,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-10/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+186,2022-03-09,50.0,Bezhotovostný príjem,Rossová Lucia,/DO2022-03-08/SP,,,,Rossová Lucia
+187,2022-03-08,-250.0,Bezhotovostná platba,,video Diana Javorcikova,,10032022,,tvorba videi Jan Corba foto-video februar 2022
+188,2022-03-07,50.0,Bezhotovostný príjem,FIGULI IVANA,"/DO2022-03-04/SPPrispevok na kampan, Prispevok na kampan",,,,FIGULI IVANA
+189,2022-03-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+190,2022-03-04,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-03/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+191,2022-03-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-03-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+192,2022-02-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-02-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+193,2022-02-25,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-02-24/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
+194,2022-02-21,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235101382,,TP22315003/002 - 11.2.2022 Banskobystrické ECHO - 1/3 strany
+195,2022-02-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-02-21/SPMartin Kvietok,,,,Martin Kvietok
+196,2022-02-21,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-02-18/SP,0968,,,Miroslava Vranovská
+197,2022-02-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-02-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+198,2022-02-07,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-02-04/SP,,,,Dušan Vigaš
+199,2022-02-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-02-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+200,2022-02-04,5.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+201,2022-02-01,-590.0,Bezhotovostná platba,,Diana Javorcikova,,06022022,,tvorba videi Jan Corba foto-video januar 2022
+202,2022-02-01,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-01-31/SP,,,,Dušan Vigaš
+203,2022-01-31,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-01-31/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
+204,2022-01-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-01-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
+205,2022-01-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-01-21/SPMartin Kvietok,,,,Martin Kvietok
+206,2022-01-19,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235100218,,ECHO januar 2022
+207,2022-01-18,50.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-01-17/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
+208,2022-01-16,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,04012022,,tvorba videa
+209,2022-01-14,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,1012022,,tvorba videa
+210,2022-01-13,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,03012022,,tvorba videa
+211,2022-01-12,300.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-01-11/SPkampan bystricamanaviac,,,,"Nemčeková Ivica, PhD"
+212,2021-12-28,-180.0,Bezhotovostná platba,,Diana Javorcikova,,2135116661,,ECHO december 2021
+213,2021-12-28,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,29122021,,video Kostiviarska
+214,2021-12-20,-100.0,Bezhotovostná platba,,Diana Javorcikova,,28122021,,video aktivne starnutie
+215,2021-12-14,20.0,Bezhotovostný príjem,HOFBAUEROVA VERONIKA,/DO2021-12-13/SP,,,,HOFBAUEROVA VERONIKA
+216,2021-12-13,20.0,Bezhotovostný príjem,Lichanec Filip,/DO2021-12-11/SP,,,,Lichanec Filip
+217,2021-12-02,50.0,Bezhotovostný príjem,Fedor Papánek,"/DO2021-12-02/SPPríspevok na kampaň, Fedor Papanek, Bratislava",,,,Fedor Papánek
+218,2021-12-01,600.0,Bezhotovostný príjem,"Droppa Juraj, Ing.",/DO2021-11-30/SPdar,,,,"Droppa Juraj, Ing."
+219,2021-11-30,50.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2021-11-29/SP,,,,MOJZISOVA DANIELA
+220,2021-11-29,-300.0,Bezhotovostná platba,,Diana Javorcikova,,24112021,,video zaciatok kampane
+221,2021-11-29,50.0,Bezhotovostný príjem,Michaela Lípová,/DO2021-11-29/SP,,,,Michaela Lípová
+222,2021-11-25,-53.1,Platba prevodom v rámci banky,,Diana Javorcikova,,21010335,,odznaky
+223,2021-11-24,50.0,Bezhotovostný príjem,Lucia Rendlová,/DO2021-11-23/SP,,,,Lucia Rendlová
+224,2021-11-24,40.0,Bezhotovostný príjem,RENDLA MAROS,,,,,RENDLA MAROS
+225,2021-11-23,1000.0,Bezhotovostný príjem,Peter Jombík,/DO2021-11-22/SPIng. Peter Jombík,,,,Peter Jombík
+226,2021-11-23,50.0,Bezhotovostný príjem,MORAVCIKOVA LUDMILA,,,,,MORAVCIKOVA LUDMILA
+227,2021-11-18,-200.0,Platba prevodom v rámci banky,,foto Javorcikova,,2021044,,Portretne fotografie
+228,2021-11-13,-132.5,Bezhotovostná platba,,,,21000142,,Celovky
+229,2021-10-21,100.0,Bezhotovostný príjem,Beata Hirt,/DO2021-10-20/SP,0558,2022,,Beata Hirt
+230,2021-10-20,100.0,Bezhotovostný príjem,Peter Jombík,/DO2021-10-20/SPIng. Peter Jombík,,,,Peter Jombík
+231,2021-10-19,50.0,Bezhotovostný príjem,FIGULI IVANA,/DO2021-10-18/SP,,,,FIGULI IVANA
+232,2021-10-19,100.0,Bezhotovostný príjem,POCOVA LUBICA,/DO2021-10-18/SPDiana,,,,POCOVA LUBICA
+233,2021-10-15,500.0,Bezhotovostný príjem,Dušan Vigaš,/DO2021-10-14/SP,,0140652122,,Dušan Vigaš
+234,2021-10-12,100.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2021-10-12/SPDAR,,,,JANA MOJSOVA
+235,2021-10-08,200.0,Bezhotovostný príjem,ING.PETER MEDVED,/DO2021-10-07/SPprispevok kampan DJ,0558,,,ING.PETER MEDVED
+236,2021-10-01,200.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2021-09-30/SPPREVOD PROSTRIEDKOV,,0000002022,,INGRID KRAJCOVICOVA
+237,2021-10-01,1000.0,Bezhotovostný príjem,"Kubík Rudolf, Mgr.",/DO2021-09-30/SP,,,,"Kubík Rudolf, Mgr."
+238,2021-10-01,150.0,Bezhotovostný príjem,STRMENOVA MARTINA,/DO2021-09-30/SP,,,,STRMENOVA MARTINA
+239,2021-09-30,100.0,Bezhotovostný príjem,Peter Rusnák,/DO2021-09-29/SPtransparentný účet DJ,,,,Peter Rusnák
+240,2021-09-30,200.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2021-09-29/SPPlán D - voličský prieskum,0298,,,Miroslava Vranovská
+241,2021-09-28,10.0,Vklad v hotovosti,,,0558,,,
