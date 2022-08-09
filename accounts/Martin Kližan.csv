@@ -1,26 +1,28 @@
 index,date,amount,account_name,message,vs
-0,2022-08-05,-150.0,Platba kartou,FACEBK NW6SFETL fb.me/ads,****2673
-1,2022-08-05,-1038.0,Peter Kovac,Atrakcie,
-2,2022-08-02,-0.45,,Poplatky Nonstop banking - SMS,
-3,2022-07-29,6.0,,Odpustenie vedenie konta,9
-4,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-5,2022-07-28,-70.0,Platba kartou,FACEBK *V57UWDX fb.me/ads,****2673
-6,2022-07-27,-686.0,,Reklamne tasky,
-7,2022-07-26,-100.0,Platba kartou,FACEBK 4B388ETL fb.me/ads,****2673
-8,2022-07-25,-70.0,"VUB,A.S.",DDFACEBK~*V3Z6DF3fb.me/ads~~~~~~P1,****2673
-9,2022-07-18,-85.33,"VUB,A.S.",DDFACEBK~2HWURD3Mfb.me/ads~~~~~~P1,****2673
-10,2022-07-18,-650.0,Ribida s.r.o.,Atelier fotenie,20220001
-11,2022-07-15,10000.0,KAVICKA MARTINA,,
-12,2022-07-11,-100.0,Platba kartou,FACEBK P6PHHDXL fb.me/ads,****2673
-13,2022-07-08,-3900.0,,"Brigadnici, bike",
-14,2022-07-07,3900.0,Martin Kližan,,
-15,2022-06-30,23.22,,Odpust.-popl.za platby a ved.úč/ko,9
-16,2022-06-30,-18.22,,Poplatky za platby spolu,9
-17,2022-06-30,-5.0,,Vedenie účtu,9
-18,2022-06-30,-840.0,Gupress,A5,7220256
-19,2022-06-30,840.0,Martin Kližan,A5 Klizan,
-20,2022-06-16,-3600.0,,,
-21,2022-06-16,3600.0,Martin Kližan,,
-22,2022-06-14,500.0,Martin Kližan,,
-23,2022-06-03,-9637.2,,,
-24,2022-06-03,9637.2,Martin Kližan,,
+0,2022-08-05,-100.0,Platba kartou,Platba kartou u obchodníka,****2673
+1,2022-08-08,-100.0,Platba kartou,FACEBK DJKGVFTJ fb.me/ads,****2673
+2,2022-08-05,-150.0,Platba kartou,FACEBK NW6SFETL fb.me/ads,****2673
+3,2022-08-05,-1038.0,Peter Kovac,Atrakcie,
+4,2022-08-02,-0.45,,Poplatky Nonstop banking - SMS,
+5,2022-07-29,6.0,,Odpustenie vedenie konta,9
+6,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+7,2022-07-28,-70.0,Platba kartou,FACEBK *V57UWDX fb.me/ads,****2673
+8,2022-07-27,-686.0,,Reklamne tasky,
+9,2022-07-26,-100.0,Platba kartou,FACEBK 4B388ETL fb.me/ads,****2673
+10,2022-07-25,-70.0,"VUB,A.S.",DDFACEBK~*V3Z6DF3fb.me/ads~~~~~~P1,****2673
+11,2022-07-18,-85.33,"VUB,A.S.",DDFACEBK~2HWURD3Mfb.me/ads~~~~~~P1,****2673
+12,2022-07-18,-650.0,Ribida s.r.o.,Atelier fotenie,20220001
+13,2022-07-15,10000.0,KAVICKA MARTINA,,
+14,2022-07-11,-100.0,Platba kartou,FACEBK P6PHHDXL fb.me/ads,****2673
+15,2022-07-08,-3900.0,,"Brigadnici, bike",
+16,2022-07-07,3900.0,Martin Kližan,,
+17,2022-06-30,23.22,,Odpust.-popl.za platby a ved.úč/ko,9
+18,2022-06-30,-18.22,,Poplatky za platby spolu,9
+19,2022-06-30,-5.0,,Vedenie účtu,9
+20,2022-06-30,-840.0,Gupress,A5,7220256
+21,2022-06-30,840.0,Martin Kližan,A5 Klizan,
+22,2022-06-16,-3600.0,,,
+23,2022-06-16,3600.0,Martin Kližan,,
+24,2022-06-14,500.0,Martin Kližan,,
+25,2022-06-03,-9637.2,,,
+26,2022-06-03,9637.2,Martin Kližan,,
