@@ -1,5 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-07-31,-0.97,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,Monika Csikmáková  GHYMES,2022-07-28,-3500.0,EUR,"Organizovanie kultúrneho podujatia, Fiľakovo 19.8.2022",Platobný príkaz na úhradu / FIT 2.0 (EB),42022,
-3,SZOVETSEG - ALIANCIA,2022-07-28,30000.0,EUR,Vklad prostriedkov za ucelom uhradynakladov,Bezhotovostný vklad,2022,
+0,Ing. Szilárd Németh-REKLAMNÁ AGENTÚRA SINEX,2022-08-10,-48.0,EUR,Služba - plagáty pre Alianciu,Platobný príkaz na úhradu / FIT 2.0 (EB),2022279,
+1,Ing. Szilárd Németh-REKLAMNÁ AGENTÚRA SINEX,2022-08-10,-43.2,EUR,Služba - plagáty pre Alianciu,Platobný príkaz na úhradu / FIT 2.0 (EB),2022282,
+2,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-07-31,-0.97,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,Monika Csikmáková  GHYMES,2022-07-28,-3500.0,EUR,"Organizovanie kultúrneho podujatia, Fiľakovo 19.8.2022",Platobný príkaz na úhradu / FIT 2.0 (EB),42022,
+5,SZOVETSEG - ALIANCIA,2022-07-28,30000.0,EUR,Vklad prostriedkov za ucelom uhradynakladov,Bezhotovostný vklad,2022,
