@@ -1,2 +1,3 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,DORCIK BRANISLAV,2022-08-10,100,EUR,23088117,Bezhotovostný vklad,,
+0,Ftorek Milan,2022-08-11,100,EUR,OO22081100040020,Bezhotovostný vklad - okamžitá platba,,
+1,DORCIK BRANISLAV,2022-08-10,100,EUR,23088117,Bezhotovostný vklad,,
