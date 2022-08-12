@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-08-12,-6.0,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),Poplatok,2022184,
+1,NOTPROVIDED,2022-08-12,-200.93,EUR,Letáky Lipoprint,Platobný príkaz na úhradu / FIT 2.0 (OM),2022184,
+2,Hatvanyi Jozef,2022-08-05,1500.0,EUR,F001050820228863609,Bezhotovostný vklad,,
