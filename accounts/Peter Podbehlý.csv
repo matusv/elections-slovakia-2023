@@ -1,52 +1,53 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-11,65.0,Bezhotovostný príjem,Stanislav Petráš,"/DO2022-08-10/SPStanislav Petras, Radava 528",,2022,,Stanislav Petráš
-1,2022-08-08,65.0,Bezhotovostný príjem,Richard Gajdoš,/DO2022-08-08/SP Richard Gajdos,,1111,,Richard Gajdoš
-2,2022-08-04,-13.79,Platba prevodom v rámci banky,,Peter Podbehlý web hosting domeny hotelkorzonz.sk,,3122256571,,Peter Podbehlý web hosting domeny hotelkorzonz.sk
-3,2022-08-03,-148.2,Bezhotovostná platba,,Objednavka: OP-561/2022,,102469,,"RENGL Slovensko, s.r.o., prenájom výlepových plôch A1 (02.10.2022 - 26.10.2022)"
-4,2022-08-03,-213.41,Bezhotovostná platba,,Objednavka: OP-562/2022,,102467,,"RENGL Slovensko, s.r.o., prenájom výlepových plôch A1 (25.09.2022 - 26.10.2022)"
-5,2022-08-01,98.0,Bezhotovostný príjem,Linda Molnárová,/DO2022-08-01/SP lepsie zamky,,1111,,Linda Molnárová
-6,2022-07-19,-800.0,Bezhotovostná platba,,"politicka plosna inzercia - 1 stran
+0,2022-08-12,65.0,Platba prevodom v rámci banky,"Filaga, Marcel",Spolocna reklamna plocha - Nezavisli kandidati na post poslancov Zastupitelstva NSK,,2022,,Spolocna reklamna plocha - Nezavisli kandidati na post poslancov Zastupitelstva NSK
+1,2022-08-11,65.0,Bezhotovostný príjem,Stanislav Petráš,"/DO2022-08-10/SPStanislav Petras, Radava 528",,2022,,Stanislav Petráš
+2,2022-08-08,65.0,Bezhotovostný príjem,Richard Gajdoš,/DO2022-08-08/SP Richard Gajdos,,1111,,Richard Gajdoš
+3,2022-08-04,-13.79,Platba prevodom v rámci banky,,Peter Podbehlý web hosting domeny hotelkorzonz.sk,,3122256571,,Peter Podbehlý web hosting domeny hotelkorzonz.sk
+4,2022-08-03,-148.2,Bezhotovostná platba,,Objednavka: OP-561/2022,,102469,,"RENGL Slovensko, s.r.o., prenájom výlepových plôch A1 (02.10.2022 - 26.10.2022)"
+5,2022-08-03,-213.41,Bezhotovostná platba,,Objednavka: OP-562/2022,,102467,,"RENGL Slovensko, s.r.o., prenájom výlepových plôch A1 (25.09.2022 - 26.10.2022)"
+6,2022-08-01,98.0,Bezhotovostný príjem,Linda Molnárová,/DO2022-08-01/SP lepsie zamky,,1111,,Linda Molnárová
+7,2022-07-19,-800.0,Bezhotovostná platba,,"politicka plosna inzercia - 1 stran
 a",,2118200509,,Castrum novum /politicka plosna inzercia/ - 1 strana 10.10.2022
-7,2022-07-11,256.03,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 6.2022,,1111,,PODBEHLY PETER
-8,2022-07-01,-50.0,Bezhotovostná platba,,"Vratenie platby vs 1111 pc 4120 pp8
+8,2022-07-11,256.03,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 6.2022,,1111,,PODBEHLY PETER
+9,2022-07-01,-50.0,Bezhotovostná platba,,"Vratenie platby vs 1111 pc 4120 pp8
 08028",,1003200001,,
-9,2022-06-23,-60.0,Bezhotovostná platba,,"Sady 6 pasteliek, prirodna",,2485,,"Sady 6 pasteliek, prírodná, DG Tip, spol. s r.o."
-10,2022-06-20,-1008.0,Bezhotovostná platba,,uhrada faktury c. 12229/0119,,,,"BigMedia spol. s r.o., billboardy, faktura c. 12229/0119"
-11,2022-06-14,-60.0,Platba prevodom v rámci banky,,objednávka č. 26263622 - tričká Lepšie Zámky,,26263622,,objednávka č. 26263622- tričká Lepšie Zámky
-12,2022-06-14,170.46,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 5.2022,,1111,,PODBEHLY PETER
-13,2022-06-07,-21.6,Bezhotovostná platba,,Faktura c. 220223,,220223,,"Arton spol. s r.o., Faktúra č. 220223, tlač plagátov"
-14,2022-06-07,-108.0,Bezhotovostná platba,,Faktura c. 220007,,220222,,"Arton spol. s r.o., Faktúra č. 220222, billboard"
-15,2022-06-07,-82.0,Platba prevodom v rámci banky,,objednávka č. 26261622 - tričká Lepšie Zámky,,26261622,,objednávka č. 26261622 - tričká Lepšie Zámky
-16,2022-05-11,256.03,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 4.2022,,1111,,PODBEHLY PETER
-17,2022-04-13,284.09,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 3.2022,,1111,,PODBEHLY PETER
-18,2022-04-11,-60.0,Bezhotovostná platba,,faktura OF 22155.PODBEHLY.TLAC A2,0308,22155,,"faktúra, Tlačiareň MERKUR, s.r.o."
-19,2022-04-04,300.0,Bezhotovostný príjem,"Kissáry Valter, Ing.",/DO2022-04-03/SPWALTER volby 2022 NZ,,03042022,,"Kissáry Valter, Ing."
-20,2022-03-21,50.0,Bezhotovostný príjem,Radovan Vojtela,/DO2022-03-19/SPnech sa to podarí,,2022,,Radovan Vojtela
-21,2022-03-20,-6.0,Transakcia kartou,,"Nákup: FACEBK G3KZ9DBLS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.3.2022, částka  6.00 EUR",,5157,,"Nákup: FACEBK G3KZ9DBLS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.3.2022, částka  6.00 EUR"
-22,2022-03-14,-90.0,Bezhotovostná platba,,"faktura OF 22110.PODBEHLY.GRAFIKA.T
+10,2022-06-23,-60.0,Bezhotovostná platba,,"Sady 6 pasteliek, prirodna",,2485,,"Sady 6 pasteliek, prírodná, DG Tip, spol. s r.o."
+11,2022-06-20,-1008.0,Bezhotovostná platba,,uhrada faktury c. 12229/0119,,,,"BigMedia spol. s r.o., billboardy, faktura c. 12229/0119"
+12,2022-06-14,-60.0,Platba prevodom v rámci banky,,objednávka č. 26263622 - tričká Lepšie Zámky,,26263622,,objednávka č. 26263622- tričká Lepšie Zámky
+13,2022-06-14,170.46,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 5.2022,,1111,,PODBEHLY PETER
+14,2022-06-07,-21.6,Bezhotovostná platba,,Faktura c. 220223,,220223,,"Arton spol. s r.o., Faktúra č. 220223, tlač plagátov"
+15,2022-06-07,-108.0,Bezhotovostná platba,,Faktura c. 220007,,220222,,"Arton spol. s r.o., Faktúra č. 220222, billboard"
+16,2022-06-07,-82.0,Platba prevodom v rámci banky,,objednávka č. 26261622 - tričká Lepšie Zámky,,26261622,,objednávka č. 26261622 - tričká Lepšie Zámky
+17,2022-05-11,256.03,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 4.2022,,1111,,PODBEHLY PETER
+18,2022-04-13,284.09,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 3.2022,,1111,,PODBEHLY PETER
+19,2022-04-11,-60.0,Bezhotovostná platba,,faktura OF 22155.PODBEHLY.TLAC A2,0308,22155,,"faktúra, Tlačiareň MERKUR, s.r.o."
+20,2022-04-04,300.0,Bezhotovostný príjem,"Kissáry Valter, Ing.",/DO2022-04-03/SPWALTER volby 2022 NZ,,03042022,,"Kissáry Valter, Ing."
+21,2022-03-21,50.0,Bezhotovostný príjem,Radovan Vojtela,/DO2022-03-19/SPnech sa to podarí,,2022,,Radovan Vojtela
+22,2022-03-20,-6.0,Transakcia kartou,,"Nákup: FACEBK G3KZ9DBLS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.3.2022, částka  6.00 EUR",,5157,,"Nákup: FACEBK G3KZ9DBLS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.3.2022, částka  6.00 EUR"
+23,2022-03-14,-90.0,Bezhotovostná platba,,"faktura OF 22110.PODBEHLY.GRAFIKA.T
 LAC A2",0308,22110,,"faktúra, Tlačiareň MERKUR, s.r.o."
-23,2022-03-14,159.24,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 2.2022,,1111,,PODBEHLY PETER
-24,2022-03-08,-125.63,Bezhotovostná platba,,Objednavka: OP-52/2022,,102414,,"RENGL Slovensko, s.r.o., prenájom výlepových plôch A2"
-25,2022-02-26,-9.0,Transakcia kartou,,"Nákup: FACEBK 66X6DC7LS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK 66X6DC7LS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.2.2022, částka  9.00 EUR"
-26,2022-02-25,-9.0,Transakcia kartou,,"Nákup: FACEBK LP6PFEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK LP6PFEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.2.2022, částka  9.00 EUR"
-27,2022-02-24,-9.0,Transakcia kartou,,"Nákup: FACEBK FK56JCXKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK FK56JCXKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.2.2022, částka  9.00 EUR"
-28,2022-02-22,-9.0,Transakcia kartou,,"Nákup: FACEBK 9R9KDEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK 9R9KDEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.2.2022, částka  9.00 EUR"
-29,2022-02-21,-85.2,Bezhotovostná platba,,"faktura OF 22053.PODBEHLY.GRAFIKA.T
+24,2022-03-14,159.24,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 2.2022,,1111,,PODBEHLY PETER
+25,2022-03-08,-125.63,Bezhotovostná platba,,Objednavka: OP-52/2022,,102414,,"RENGL Slovensko, s.r.o., prenájom výlepových plôch A2"
+26,2022-02-26,-9.0,Transakcia kartou,,"Nákup: FACEBK 66X6DC7LS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK 66X6DC7LS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.2.2022, částka  9.00 EUR"
+27,2022-02-25,-9.0,Transakcia kartou,,"Nákup: FACEBK LP6PFEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK LP6PFEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.2.2022, částka  9.00 EUR"
+28,2022-02-24,-9.0,Transakcia kartou,,"Nákup: FACEBK FK56JCXKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK FK56JCXKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.2.2022, částka  9.00 EUR"
+29,2022-02-22,-9.0,Transakcia kartou,,"Nákup: FACEBK 9R9KDEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.2.2022, částka  9.00 EUR",,5157,,"Nákup: FACEBK 9R9KDEPKS2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.2.2022, částka  9.00 EUR"
+30,2022-02-21,-85.2,Bezhotovostná platba,,"faktura OF 22053.PODBEHLY.GRAFIKA.T
 LAC",0308,22053,,"faktúra, Tlačiareň MERKUR, s.r.o."
-30,2022-02-14,50.0,Bezhotovostný príjem,Michal Šipeky,/DO2022-02-11/SP,,2022,,Michal Šipeky
-31,2022-02-14,239.2,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 1.2022,,1111,,PODBEHLY PETER
-32,2022-02-11,70.0,Bezhotovostný príjem,Miroslav Evanič,/DO2022-02-10/SP Drzime palce,,,,"Miroslav Evanič, príspevok, VS:1111"
-33,2022-02-10,50.0,Bezhotovostný príjem,MUCHA MIROSLAV,Verim v Lepsie Zamky,,1111,,MUCHA MIROSLAV
-34,2022-02-06,-12.96,Platba prevodom v rámci banky,,Peter Podbehlý web hosting domeny,,3122059148,,Peter Podbehlý web hosting domeny
-35,2022-02-03,100.0,Bezhotovostný príjem,KRALIK TIBOR,/DO2022-02-02/SPVerime Ti a drzime palce,,1111111111,,KRALIK TIBOR
-36,2022-02-03,159.24,Bezhotovostný príjem,PODBEHLY PETER,PP.odmena poslanca MsZ NZ 12.2021,,,,PODBEHLY PETER VS:1111
-37,2022-02-02,50.0,Bezhotovostný príjem,"SLOVENSKÁ POŠTA, A.S",/DO2022-02-02/SP,0998,1003200001,6010002003,Ing. František Daniel dar
-38,2022-02-02,100.0,Bezhotovostný príjem,Podbehla Petra,Prispevok na kampan,,1111,,Podbehla Petra
-39,2022-02-01,-100.0,Bezhotovostná platba,,"Vratenie platby, absentoval VS",,1111,,
-40,2022-02-01,-583.2,Bezhotovostná platba,,faktura c. 22950034 Peter Podbehly,,22950034,,"billboardy, Ispa, spol. s r.o."
-41,2022-02-01,100.0,Platba prevodom v rámci banky,"Mgr. Rosival, Miroslav",Prispevok na kampan,,2022,,Prispevok na kampan
-42,2022-01-27,1500.0,Bezhotovostný príjem,PODBEHLY PETER,prevod medzi Uctami,,1111,,PODBEHLY PETER VS 1111
-43,2022-01-19,-90.0,Bezhotovostná platba,,Faktura c. 220007,,220007,,"Arton spol. s r.o., Faktúra č. 220007"
-44,2022-01-18,-336.0,Bezhotovostná platba,,uhrada faktury c. 12229/0003,,,,Bigmedia spol. s r.o. faktura c. 12229/0003
-45,2022-01-18,100.0,Bezhotovostný príjem,Podbehla Petra,Komunalne volby 2022 prispevok,,,,Podbehla Petra
-46,2022-01-18,600.0,Bezhotovostný príjem,PODBEHLY PETER,prevod medzi Uctami,,,,PODBEHLY PETER VS:1111
+31,2022-02-14,50.0,Bezhotovostný príjem,Michal Šipeky,/DO2022-02-11/SP,,2022,,Michal Šipeky
+32,2022-02-14,239.2,Bezhotovostný príjem,PODBEHLY PETER,PP.Odmena poslanca MsZ NZ 1.2022,,1111,,PODBEHLY PETER
+33,2022-02-11,70.0,Bezhotovostný príjem,Miroslav Evanič,/DO2022-02-10/SP Drzime palce,,,,"Miroslav Evanič, príspevok, VS:1111"
+34,2022-02-10,50.0,Bezhotovostný príjem,MUCHA MIROSLAV,Verim v Lepsie Zamky,,1111,,MUCHA MIROSLAV
+35,2022-02-06,-12.96,Platba prevodom v rámci banky,,Peter Podbehlý web hosting domeny,,3122059148,,Peter Podbehlý web hosting domeny
+36,2022-02-03,100.0,Bezhotovostný príjem,KRALIK TIBOR,/DO2022-02-02/SPVerime Ti a drzime palce,,1111111111,,KRALIK TIBOR
+37,2022-02-03,159.24,Bezhotovostný príjem,PODBEHLY PETER,PP.odmena poslanca MsZ NZ 12.2021,,,,PODBEHLY PETER VS:1111
+38,2022-02-02,50.0,Bezhotovostný príjem,"SLOVENSKÁ POŠTA, A.S",/DO2022-02-02/SP,0998,1003200001,6010002003,Ing. František Daniel dar
+39,2022-02-02,100.0,Bezhotovostný príjem,Podbehla Petra,Prispevok na kampan,,1111,,Podbehla Petra
+40,2022-02-01,-100.0,Bezhotovostná platba,,"Vratenie platby, absentoval VS",,1111,,
+41,2022-02-01,-583.2,Bezhotovostná platba,,faktura c. 22950034 Peter Podbehly,,22950034,,"billboardy, Ispa, spol. s r.o."
+42,2022-02-01,100.0,Platba prevodom v rámci banky,"Mgr. Rosival, Miroslav",Prispevok na kampan,,2022,,Prispevok na kampan
+43,2022-01-27,1500.0,Bezhotovostný príjem,PODBEHLY PETER,prevod medzi Uctami,,1111,,PODBEHLY PETER VS 1111
+44,2022-01-19,-90.0,Bezhotovostná platba,,Faktura c. 220007,,220007,,"Arton spol. s r.o., Faktúra č. 220007"
+45,2022-01-18,-336.0,Bezhotovostná platba,,uhrada faktury c. 12229/0003,,,,Bigmedia spol. s r.o. faktura c. 12229/0003
+46,2022-01-18,100.0,Bezhotovostný príjem,Podbehla Petra,Komunalne volby 2022 prispevok,,,,Podbehla Petra
+47,2022-01-18,600.0,Bezhotovostný príjem,PODBEHLY PETER,prevod medzi Uctami,,,,PODBEHLY PETER VS:1111
