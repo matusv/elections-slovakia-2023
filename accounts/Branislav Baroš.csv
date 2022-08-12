@@ -1,7 +1,9 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-09,-6800.0,Platba prevodom v rámci banky,,vrátenie daru na podporu politickej kandidatúry,,,,vrátenie daru na podporu politickej kandidatúry
-1,2022-08-09,7800.0,Bezhotovostný príjem,"LEIMA, s.r.o.",/DO2022-08-08/SP Dar na podporu politickej kandidatury obdarovaneho na post primatora Mesta Trnava v komunalnych volbach 2022,,,,"LEIMA, s.r.o."
-2,2022-08-02,-243.0,Bezhotovostná platba,,,,014220010,,článok Trnavsko
-3,2022-08-02,-42.41,Bezhotovostná platba,,,0308,12200557,,nabíjanie autobusu
-4,2022-07-25,-243.0,Bezhotovostná platba,,Uhrada faktury 01 422 0010,,014220010,,článok Trnavsko
-5,2022-07-20,6800.0,Platba prevodom v rámci banky,Trnava pre každého,dar na podporu politickej kandidatury,,,,dar na podporu politickej kandidatury
+0,2022-08-12,-4873.2,Bezhotovostná platba,,,,2223040,,"tlač a prenájom BB, FB"
+1,2022-08-12,-243.0,Bezhotovostná platba,,,,016220399,,článok Trnavsko
+2,2022-08-09,-6800.0,Platba prevodom v rámci banky,,vrátenie daru na podporu politickej kandidatúry,,,,vrátenie daru na podporu politickej kandidatúry
+3,2022-08-09,7800.0,Bezhotovostný príjem,"LEIMA, s.r.o.",/DO2022-08-08/SP Dar na podporu politickej kandidatury obdarovaneho na post primatora Mesta Trnava v komunalnych volbach 2022,,,,"LEIMA, s.r.o."
+4,2022-08-02,-243.0,Bezhotovostná platba,,,,014220010,,článok Trnavsko
+5,2022-08-02,-42.41,Bezhotovostná platba,,,0308,12200557,,nabíjanie autobusu Empark
+6,2022-07-25,-243.0,Bezhotovostná platba,,Uhrada faktury 01 422 0010,,014220010,,článok Trnavsko
+7,2022-07-20,6800.0,Platba prevodom v rámci banky,Trnava pre každého,dar na podporu politickej kandidatury,,,,dar na podporu politickej kandidatury
