@@ -1,15 +1,16 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-12,-30.0,Transakcia kartou,,"Nákup: FACEBK P6NA2H7WJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.8.2022, částka  30.00 EUR",,5809,,"Nákup: FACEBK P6NA2H7WJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.8.2022, částka  30.00 EUR"
-1,2022-08-11,-20.0,Transakcia kartou,,"Nákup: FACEBK Z86QCHBWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  20.00 EUR",,5809,,"Nákup: FACEBK Z86QCHBWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  20.00 EUR"
-2,2022-08-11,-12.0,Transakcia kartou,,"Nákup: FACEBK EZY76GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  12.00 EUR",,5809,,"Nákup: FACEBK EZY76GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  12.00 EUR"
-3,2022-08-10,-12.0,Transakcia kartou,,"Nákup: FACEBK H46CTGFWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  12.00 EUR",,5809,,"Nákup: FACEBK H46CTGFWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  12.00 EUR"
-4,2022-08-08,-9.0,Transakcia kartou,,"Nákup: FACEBK Y6564GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.8.2022, částka  9.00 EUR",,5809,,"Nákup: FACEBK Y6564GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.8.2022, částka  9.00 EUR"
-5,2022-08-07,-9.0,Transakcia kartou,,"Nákup: FACEBK VXSJBHXWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  9.00 EUR",,5809,,"Nákup: FACEBK VXSJBHXWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  9.00 EUR"
-6,2022-08-05,-9.0,Transakcia kartou,,"Nákup: FACEBK PJ4NDJPWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.8.2022, částka  9.00 EUR",,5809,,"Nákup: FACEBK PJ4NDJPWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.8.2022, částka  9.00 EUR"
-7,2022-07-27,10000.0,Bezhotovostný príjem,Kresťanskodemokratic,/DO2022-07-26/SPPeňažný dar,,26072022,,Kresťanskodemokratic
-8,2022-07-20,-2073.6,Bezhotovostná platba,,,,22076,,
-9,2022-07-20,1000.0,Bezhotovostný príjem,Marta Holečková,/DO2022-07-19/SP,,,,Marta Holečková
-10,2022-07-20,3000.0,Bezhotovostný príjem,Holečka Štefan,/DO2022-07-19/SP,,5604256482,,Holečka Štefan
-11,2022-07-17,-10.0,Bezhotovostná platba,,vratenie hotovostnej platby,,,,
-12,2022-07-13,2000.0,Bezhotovostný príjem,"Holečková Martina, M",/DO2022-07-12/SP,,,,"Holečková Martina, M"
-13,2022-06-13,10.0,Vklad v hotovosti,,,0558,,,
+0,2022-08-13,-40.0,Transakcia kartou,,"Nákup: FACEBK F39D8GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.8.2022, částka  40.00 EUR",,5809,,"Nákup: FACEBK F39D8GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.8.2022, částka  40.00 EUR"
+1,2022-08-12,-30.0,Transakcia kartou,,"Nákup: FACEBK P6NA2H7WJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.8.2022, částka  30.00 EUR",,5809,,"Nákup: FACEBK P6NA2H7WJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.8.2022, částka  30.00 EUR"
+2,2022-08-11,-20.0,Transakcia kartou,,"Nákup: FACEBK Z86QCHBWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  20.00 EUR",,5809,,"Nákup: FACEBK Z86QCHBWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  20.00 EUR"
+3,2022-08-11,-12.0,Transakcia kartou,,"Nákup: FACEBK EZY76GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  12.00 EUR",,5809,,"Nákup: FACEBK EZY76GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.8.2022, částka  12.00 EUR"
+4,2022-08-10,-12.0,Transakcia kartou,,"Nákup: FACEBK H46CTGFWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  12.00 EUR",,5809,,"Nákup: FACEBK H46CTGFWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  12.00 EUR"
+5,2022-08-08,-9.0,Transakcia kartou,,"Nákup: FACEBK Y6564GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.8.2022, částka  9.00 EUR",,5809,,"Nákup: FACEBK Y6564GBXJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.8.2022, částka  9.00 EUR"
+6,2022-08-07,-9.0,Transakcia kartou,,"Nákup: FACEBK VXSJBHXWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  9.00 EUR",,5809,,"Nákup: FACEBK VXSJBHXWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  9.00 EUR"
+7,2022-08-05,-9.0,Transakcia kartou,,"Nákup: FACEBK PJ4NDJPWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.8.2022, částka  9.00 EUR",,5809,,"Nákup: FACEBK PJ4NDJPWJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.8.2022, částka  9.00 EUR"
+8,2022-07-27,10000.0,Bezhotovostný príjem,Kresťanskodemokratic,/DO2022-07-26/SPPeňažný dar,,26072022,,Kresťanskodemokratic
+9,2022-07-20,-2073.6,Bezhotovostná platba,,,,22076,,
+10,2022-07-20,1000.0,Bezhotovostný príjem,Marta Holečková,/DO2022-07-19/SP,,,,Marta Holečková
+11,2022-07-20,3000.0,Bezhotovostný príjem,Holečka Štefan,/DO2022-07-19/SP,,5604256482,,Holečka Štefan
+12,2022-07-17,-10.0,Bezhotovostná platba,,vratenie hotovostnej platby,,,,
+13,2022-07-13,2000.0,Bezhotovostný príjem,"Holečková Martina, M",/DO2022-07-12/SP,,,,"Holečková Martina, M"
+14,2022-06-13,10.0,Vklad v hotovosti,,,0558,,,

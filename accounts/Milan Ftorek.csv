@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Ftorek Milan,2022-08-11,100,EUR,OO22081100040020,Bezhotovostný vklad - okamžitá platba,,
-1,DORCIK BRANISLAV,2022-08-10,100,EUR,23088117,Bezhotovostný vklad,,
+0,,2022-08-13,-50.43,EUR,"B1347503184-44544 12** **** 6255;ANWELL ,BRATISLAVA ,SK ;11.08.2022 09:21:03 ;CashBack:0 EUR",Platba kartou,,
+1,Ftorek Milan,2022-08-11,100.0,EUR,OO22081100040020,Bezhotovostný vklad - okamžitá platba,,
+2,DORCIK BRANISLAV,2022-08-10,100.0,EUR,23088117,Bezhotovostný vklad,,
