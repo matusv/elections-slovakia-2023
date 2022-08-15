@@ -1,1 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,"Novisedlák Peter, Mgr.",2022-08-15,3000,EUR,VKLAD,Bezhotovostný vklad - okamžitá platba,082022,
+1,Pharmevid s.r.o.,2022-08-15,-3000,EUR,Vratenie platby,Okamžitá platba (EB),082022,
+2,Pharmevid s.r.o.,2022-08-15,3000,EUR,VKLAD,Bezhotovostný vklad - okamžitá platba,082022,
