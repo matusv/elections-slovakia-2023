@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-13,-50.43,EUR,"B1347503184-44544 12** **** 6255;ANWELL ,BRATISLAVA ,SK ;11.08.2022 09:21:03 ;CashBack:0 EUR",Platba kartou,,
-1,Ftorek Milan,2022-08-11,100.0,EUR,OO22081100040020,Bezhotovostný vklad - okamžitá platba,,
-2,DORCIK BRANISLAV,2022-08-10,100.0,EUR,23088117,Bezhotovostný vklad,,
+0,,2022-08-15,-99.62,EUR,"B1348935702-44544 12** **** 6255;FACEBK MQLBDGBHU2 ,fb.me/ads ,IE ;14.08.2022 00:00:22 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-08-13,-50.43,EUR,"B1347503184-44544 12** **** 6255;ANWELL ,BRATISLAVA ,SK ;11.08.2022 09:21:03 ;CashBack:0 EUR",Platba kartou,,
+2,Ftorek Milan,2022-08-11,100.0,EUR,OO22081100040020,Bezhotovostný vklad - okamžitá platba,,
+3,DORCIK BRANISLAV,2022-08-10,100.0,EUR,23088117,Bezhotovostný vklad,,
