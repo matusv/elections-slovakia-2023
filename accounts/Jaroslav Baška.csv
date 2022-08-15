@@ -1,18 +1,19 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-15,1500.0,Bezhotovostný príjem,Martin Všelko,/DO2022-08-14/SPPríspevok na kampaň,,,,Martin Všelko
-1,2022-08-02,400.0,Bezhotovostný príjem,Veronika Krekáčová,/DO2022-08-01/SPpodpora kampane,,,,Veronika Krekáčová
-2,2022-07-25,1000.0,Bezhotovostný príjem,Majčiník Artúr,/DO2022-07-23/SPPrispevok na kampan,,,,Majčiník Artúr
-3,2022-07-19,1800.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-07-18/SP VOĽBY,,745627,,Ingrid Kögelová
-4,2022-07-19,1800.0,Bezhotovostný príjem,Milan Kögel,/DO2022-07-18/SP VOĽBY,,520107,,Milan Kögel
-5,2022-07-18,1900.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-07-17/SPPrispevok na kampan.,,,,HAJSO JURAJ
-6,2022-07-14,100.0,Bezhotovostný príjem,Dávid Cigánik,/DO2022-07-14/SP Prispevok na kampan,,,,Dávid Cigánik
-7,2022-07-14,500.0,Bezhotovostný príjem,Miroslav Hroško,"/DO2022-07-14/SP Drzim palce, som fanusik cyklistiky. Uz sa tesim na dalsie cyklotrasy.",,,,Miroslav Hroško
-8,2022-07-13,1300.0,Bezhotovostný príjem,BOHUN STEFAN,/DO2022-07-12/SPPodpora pre vitaza,0308,2022,,BOHUN STEFAN
-9,2022-07-12,1400.0,Bezhotovostný príjem,Peter Parák,/DO2022-07-12/SPPríspevok na kampaň,,,,Peter Parák
-10,2022-07-12,1200.0,Bezhotovostný príjem,Karol Kubiš,"/DO2022-07-11/SPKarol Kubiš, Domaniža 9",,,,Karol Kubiš
-11,2022-07-11,1300.0,Bezhotovostný príjem,Martin Všelko,/DO2022-07-08/SPPríspevok na kampaň,,,,Martin Všelko
-12,2022-07-08,1900.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-07-07/SPPríspevok na kampaň,,,,Marek Briestenský
-13,2022-07-04,-320.0,Bezhotovostná platba,,"prenajom priestorov na aktivity spo
+0,2022-08-15,500.0,Bezhotovostný príjem,Miroslav Hroško,/DO2022-08-15/SP Vyborna kampan. Drzim palce.,,,,Miroslav Hroško
+1,2022-08-15,1500.0,Bezhotovostný príjem,Martin Všelko,/DO2022-08-14/SPPríspevok na kampaň,,,,Martin Všelko
+2,2022-08-02,400.0,Bezhotovostný príjem,Veronika Krekáčová,/DO2022-08-01/SPpodpora kampane,,,,Veronika Krekáčová
+3,2022-07-25,1000.0,Bezhotovostný príjem,Majčiník Artúr,/DO2022-07-23/SPPrispevok na kampan,,,,Majčiník Artúr
+4,2022-07-19,1800.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-07-18/SP VOĽBY,,745627,,Ingrid Kögelová
+5,2022-07-19,1800.0,Bezhotovostný príjem,Milan Kögel,/DO2022-07-18/SP VOĽBY,,520107,,Milan Kögel
+6,2022-07-18,1900.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-07-17/SPPrispevok na kampan.,,,,HAJSO JURAJ
+7,2022-07-14,100.0,Bezhotovostný príjem,Dávid Cigánik,/DO2022-07-14/SP Prispevok na kampan,,,,Dávid Cigánik
+8,2022-07-14,500.0,Bezhotovostný príjem,Miroslav Hroško,"/DO2022-07-14/SP Drzim palce, som fanusik cyklistiky. Uz sa tesim na dalsie cyklotrasy.",,,,Miroslav Hroško
+9,2022-07-13,1300.0,Bezhotovostný príjem,BOHUN STEFAN,/DO2022-07-12/SPPodpora pre vitaza,0308,2022,,BOHUN STEFAN
+10,2022-07-12,1400.0,Bezhotovostný príjem,Peter Parák,/DO2022-07-12/SPPríspevok na kampaň,,,,Peter Parák
+11,2022-07-12,1200.0,Bezhotovostný príjem,Karol Kubiš,"/DO2022-07-11/SPKarol Kubiš, Domaniža 9",,,,Karol Kubiš
+12,2022-07-11,1300.0,Bezhotovostný príjem,Martin Všelko,/DO2022-07-08/SPPríspevok na kampaň,,,,Martin Všelko
+13,2022-07-08,1900.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-07-07/SPPríspevok na kampaň,,,,Marek Briestenský
+14,2022-07-04,-320.0,Bezhotovostná platba,,"prenajom priestorov na aktivity spo
 jene so zaciatkom volebnej kampane
 na post predsedu TSK",0308,942022,,Trenčianske múzeum
-14,2022-06-23,1000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-06-22/SPJaroslav Baska prispevok na kampan,,,,"Baška Jaroslav, Ing."
+15,2022-06-23,1000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-06-22/SPJaroslav Baska prispevok na kampan,,,,"Baška Jaroslav, Ing."
