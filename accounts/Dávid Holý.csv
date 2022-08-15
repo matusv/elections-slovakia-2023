@@ -1,4 +1,7 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-12,100.0,Bezhotovostný príjem,Ladislav Lukáš,/DO2022-08-11/SP Ladislav Lukas,,,,Ladislav Lukáš
-1,2022-08-11,100.0,Bezhotovostný príjem,BIELIKOVA LUCIA,/DO2022-08-10/SP,,,,BIELIKOVA LUCIA
-2,2022-08-04,1500.0,Bezhotovostný príjem,Dávid Holý,/DO2022-08-03/SP,,,,Dávid Holý
+0,2022-08-15,100.0,Bezhotovostný príjem,STRUHAROVA ANNA,/DO2022-08-13/SP,,,,STRUHAROVA ANNA
+1,2022-08-15,50.0,Bezhotovostný príjem,Bobyr Kateryna,/DO2022-08-13/SP,,,,Bobyr Kateryna
+2,2022-08-15,100.0,Bezhotovostný príjem,Peter Králik,/DO2022-08-12/SP,,,,Peter Králik
+3,2022-08-12,100.0,Bezhotovostný príjem,Ladislav Lukáš,/DO2022-08-11/SP Ladislav Lukas,,,,Ladislav Lukáš
+4,2022-08-11,100.0,Bezhotovostný príjem,BIELIKOVA LUCIA,/DO2022-08-10/SP,,,,BIELIKOVA LUCIA
+5,2022-08-04,1500.0,Bezhotovostný príjem,Dávid Holý,/DO2022-08-03/SP,,,,Dávid Holý
