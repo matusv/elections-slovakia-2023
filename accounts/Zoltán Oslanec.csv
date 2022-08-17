@@ -1,11 +1,12 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-05,-54.56,Platba prevodom v rámci banky,,"MUZIKUS, s.r.o. objednavka  2014016310",,2014016310,,"MUZIKUS, s.r.o. objednavka  2014016310"
-1,2022-08-04,-588.0,Bezhotovostná platba,,"Zaloha za objednavku NR/119/04/22 -
+0,2022-08-16,300.0,Bezhotovostný príjem,Eva Györeová,/DO2022-08-15/SP,,19770527,,Eva Györeová
+1,2022-08-05,-54.56,Platba prevodom v rámci banky,,"MUZIKUS, s.r.o. objednavka  2014016310",,2014016310,,"MUZIKUS, s.r.o. objednavka  2014016310"
+2,2022-08-04,-588.0,Bezhotovostná platba,,"Zaloha za objednavku NR/119/04/22 -
  VUC",,12120409,,
-2,2022-08-03,-19.98,Transakcia kartou,,"Nákup: CBA*Ashampoo,  GereonstraSe 43-65, Koln, 50670, DEU, dne 2.8.2022, částka  19.98 EUR",,4591,,"Nákup: CBA*Ashampoo,  GereonstraSe 43-65, Koln, 50670, DEU, dne 2.8.2022, částka  19.98 EUR"
-3,2022-08-02,1000.0,Bezhotovostný príjem,OSLANEC ZOLTAN,"/DO2022-08-01/SP, 3333",,,,OSLANEC ZOLTAN
-4,2022-07-23,-6.08,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 22.7.2022, částka  6.08 EUR",,4591,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 22.7.2022, částka  6.08 EUR"
-5,2022-07-18,-23.98,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.7.2022, částka  23.98 EUR",,4591,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.7.2022, částka  23.98 EUR"
-6,2022-07-14,300.0,Bezhotovostný príjem,OSLANEC ZOLTAN,"/DO2022-07-13/SP, 2222",,,,OSLANEC ZOLTAN
-7,2022-07-12,200.0,Bezhotovostný príjem,Morvai Ladislav,/DO2022-07-11/SP,,1111,,Morvai Ladislav
-8,2022-02-09,200.0,Vklad v hotovosti,,,0558,1111,,
+3,2022-08-03,-19.98,Transakcia kartou,,"Nákup: CBA*Ashampoo,  GereonstraSe 43-65, Koln, 50670, DEU, dne 2.8.2022, částka  19.98 EUR",,4591,,"Nákup: CBA*Ashampoo,  GereonstraSe 43-65, Koln, 50670, DEU, dne 2.8.2022, částka  19.98 EUR"
+4,2022-08-02,1000.0,Bezhotovostný príjem,OSLANEC ZOLTAN,"/DO2022-08-01/SP, 3333",,,,OSLANEC ZOLTAN
+5,2022-07-23,-6.08,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 22.7.2022, částka  6.08 EUR",,4591,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 22.7.2022, částka  6.08 EUR"
+6,2022-07-18,-23.98,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.7.2022, částka  23.98 EUR",,4591,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.7.2022, částka  23.98 EUR"
+7,2022-07-14,300.0,Bezhotovostný príjem,OSLANEC ZOLTAN,"/DO2022-07-13/SP, 2222",,,,OSLANEC ZOLTAN
+8,2022-07-12,200.0,Bezhotovostný príjem,Morvai Ladislav,/DO2022-07-11/SP,,1111,,Morvai Ladislav
+9,2022-02-09,200.0,Vklad v hotovosti,,,0558,1111,,
