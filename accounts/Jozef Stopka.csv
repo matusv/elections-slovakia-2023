@@ -1,2 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Stopková Martina, Ing.Mgr.",2022-08-17,4000,EUR,volby 2022,Bezhotovostný vklad,,
+0,"euroAWK, spol s r.o.",2022-08-18,-1284,EUR,Prenájom CLV,Platobný príkaz na úhradu / FIT 2.0 (EB),2270378,
+1,"euroAWK, spol s r.o.",2022-08-18,-312,EUR,Kampan,Platobný príkaz na úhradu / FIT 2.0 (EB),2270367,
+2,BigMedia s.r.o,2022-08-18,-504,EUR,Reklamná sluzba,Platobný príkaz na úhradu / FIT 2.0 (EB),122290231,
+3,"Stopková Martina, Ing.Mgr.",2022-08-17,4000,EUR,volby 2022,Bezhotovostný vklad,,
