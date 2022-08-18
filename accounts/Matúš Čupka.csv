@@ -10,7 +10,7 @@ index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 8,2022-08-15,150.0,Bezhotovostný príjem,Fratrič Igor,/DO2022-08-14/SPcupka kampan 2022,,20220119,,Fratrič Igor
 9,2022-08-15,1000.0,Bezhotovostný príjem,Markuš Adam,/DO2022-08-12/SPPrispevok,,,,Markuš Adam
 10,2022-08-15,800.0,Bezhotovostný príjem,Katarína Augustinič,/DO2022-08-13/SPAugustinic,,,,Katarína Augustinič
-11,2022-08-15,-576.0,Bezhotovostná platba,,,,12120449,,
+11,2022-08-15,-576.0,Bezhotovostná platba,,,,12120449,,reklamný priestor
 12,2022-08-13,-40.86,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.8.2022, částka  40.86 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.8.2022, částka  40.86 EUR"
 13,2022-08-12,40.0,Bezhotovostný príjem,"Ďurajka Štefan, Ing.",/DO2022-08-11/SPNa Kampan Durajka,,,,"Ďurajka Štefan, Ing."
 14,2022-08-11,200.0,Bezhotovostný príjem,Hamšík Adam,/DO2022-08-10/SPdar,,,,Hamšík Adam
