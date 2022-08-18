@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,KUCHARICOVA ANDREA,2022-08-17,101,EUR,Andrea,Bezhotovostný vklad,,
-1,Bobrík Anton,2022-08-16,100,EUR,F001160820228009733,Bezhotovostný vklad,,
-2,Luptáková Oľga,2022-08-15,300,EUR,FSY0016778728,Bezhotovostný vklad,,
+0,Luptáková Oľga,2022-08-18,1000,EUR,F001180820220260305,Bezhotovostný vklad,,
+1,KUCHARICOVA ANDREA,2022-08-17,101,EUR,Andrea,Bezhotovostný vklad,,
+2,Bobrík Anton,2022-08-16,100,EUR,F001160820228009733,Bezhotovostný vklad,,
+3,Luptáková Oľga,2022-08-15,300,EUR,FSY0016778728,Bezhotovostný vklad,,
