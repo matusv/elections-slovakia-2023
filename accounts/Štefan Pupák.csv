@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Rastislav Blaško,2022-08-10,-120,EUR,Fotografické práce (úhrada FA),Platobný príkaz na úhradu / FIT 2.0 (EB),210098,
-1,Jaroslav Mlkvý,2022-08-10,-60,EUR,Grafický dizajn (úhrada FA),Okamžitá platba (EB),20220004,
-2,Štefan Pupák,2022-08-10,100,EUR,,Bezhotovostný vklad,,
-3,Príbelský Patrik,2022-08-03,2,EUR,Príspevok na šariš,Bezhotovostný vklad,,
-4,Štefan Pupák,2022-08-02,200,EUR,F001020820226751320,Bezhotovostný vklad,,
+0,Jaroslav Mlkvý,2022-08-17,-36,EUR,Grafický dizaj (úhrada FA),Okamžitá platba (EB),20220015,
+1,Rastislav Blaško,2022-08-10,-120,EUR,Fotografické práce (úhrada FA),Platobný príkaz na úhradu / FIT 2.0 (EB),210098,
+2,Jaroslav Mlkvý,2022-08-10,-60,EUR,Grafický dizajn (úhrada FA),Okamžitá platba (EB),20220004,
+3,Štefan Pupák,2022-08-10,100,EUR,,Bezhotovostný vklad,,
+4,Príbelský Patrik,2022-08-03,2,EUR,Príspevok na šariš,Bezhotovostný vklad,,
+5,Štefan Pupák,2022-08-02,200,EUR,F001020820226751320,Bezhotovostný vklad,,
