@@ -1,0 +1,16 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-07-06,-1.33,Transakcia kartou,,"Nákup: FACEBK A7PAZFFWR2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  1.33 EUR",,4925,,"Nákup: FACEBK A7PAZFFWR2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  1.33 EUR"
+1,2022-07-04,100.0,Bezhotovostný príjem,Kollár Marek,/DO2022-07-02/SPDrzim palce,,,,Kollár Marek
+2,2022-07-02,6.66,Platba prevodom v rámci banky,"Mgr. Malý, Michal",Ruzinov odznova!,0666,666,666,Ruzinov odznova!
+3,2022-06-06,-18.67,Transakcia kartou,,"Nákup: FACEBK ZVZH9FFWR2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.6.2022, částka  18.67 EUR",,4925,,"Nákup: FACEBK ZVZH9FFWR2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.6.2022, částka  18.67 EUR"
+4,2022-05-30,20.0,Bezhotovostný príjem,Ujháziová Andrea,/DO2022-05-29/SP,,,,Ujháziová Andrea
+5,2022-04-09,-5.2,Transakcia kartou,,"Nákup: ZAHRADNE CENTRUM KULLA,  TRNAVSKA 110/B, BRATISLAVA, 82101, SVK, dne 8.4.2022, částka  5.20 EUR",,4925,,"Nákup: ZAHRADNE CENTRUM KULLA,  TRNAVSKA 110/B, BRATISLAVA, 82101, SVK, dne 8.4.2022, částka  5.20 EUR"
+6,2022-04-09,-12.86,Transakcia kartou,,"Nákup: SUPER ZOO,  Bajkalska 29F, Bratislava, 82101, SVK, dne 8.4.2022, částka  12.86 EUR",,4925,,"Nákup: SUPER ZOO,  Bajkalska 29F, Bratislava, 82101, SVK, dne 8.4.2022, částka  12.86 EUR"
+7,2022-04-07,20.0,Platba prevodom v rámci banky,"Mgr. Kurincová, Adriana",,,,,
+8,2022-01-14,-0.32,Transakcia kartou,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 13.1.2022, částka  0.32 EUR",,4925,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 13.1.2022, částka  0.32 EUR"
+9,2021-09-24,-11.13,Transakcia kartou,,"Nákup: DS TESCO,BA,KAMENNE,  KAMENNE NAMESTIE 1, BRATISLAVA, 81561, SVK, dne 23.9.2021, částka  11.13 EUR",,4925,,"Nákup: DS TESCO,BA,KAMENNE,  KAMENNE NAMESTIE 1, BRATISLAVA, 81561, SVK, dne 23.9.2021, částka  11.13 EUR"
+10,2021-09-02,10.0,Bezhotovostný príjem,Marián Maruščak,/DO2021-08-31/SPod Maruscakova,,,,Marián Maruščak
+11,2021-09-01,-2.22,Transakcia kartou,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 31.8.2021, částka  2.22 EUR",,4925,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 31.8.2021, částka  2.22 EUR"
+12,2021-08-30,-0.41,Transakcia kartou,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 28.8.2021, částka  0.41 EUR",,4925,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 28.8.2021, částka  0.41 EUR"
+13,2021-08-23,-2.6,Transakcia kartou,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 21.8.2021, částka  2.60 EUR",,4925,,"Nákup: FAXCOPY13,BA,CENTRAL,  METODOVA 6, BRATISLAVA, 82108, SVK, dne 21.8.2021, částka  2.60 EUR"
+14,2021-08-20,-29.99,Transakcia kartou,,"Nákup: OBI Bratislava III,  BAJKALSKA 34, Bratislava Ru, 82109, SVK, dne 19.8.2021, částka  29.99 EUR",,4925,,"Nákup: OBI Bratislava III,  BAJKALSKA 34, Bratislava Ru, 82109, SVK, dne 19.8.2021, částka  29.99 EUR"

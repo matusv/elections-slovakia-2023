@@ -1,0 +1,6 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-08-18,-348.0,Bezhotovostná platba,,,0308,22107,,
+1,2022-08-18,1000.0,Bezhotovostný príjem,JAN ZATKO,/DO2022-08-17/SPDOTACIA UCTU,0308,,,JAN ZATKO
+2,2022-08-18,-422.4,Bezhotovostná platba,,,0308,22008,,
+3,2022-08-17,-297.6,Bezhotovostná platba,,Zatko bilboardy,0308,0502022,,
+4,2022-06-23,1000.0,Bezhotovostný príjem,JAN ZATKO,/DO2022-06-23/SPDOTACIA UCTU,0308,,,JAN ZATKO
