@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Zakova Jana,2022-08-19,20,EUR,podporujeme Olgu,Bezhotovostný vklad,,
-1,Luptáková Oľga,2022-08-18,1000,EUR,F001180820220260305,Bezhotovostný vklad,,
-2,KUCHARICOVA ANDREA,2022-08-17,101,EUR,Andrea,Bezhotovostný vklad,,
-3,Bobrík Anton,2022-08-16,100,EUR,F001160820228009733,Bezhotovostný vklad,,
-4,Luptáková Oľga,2022-08-15,300,EUR,FSY0016778728,Bezhotovostný vklad,,
+0,Ladislav Chovanec,2022-08-19,20,EUR,Drzime palce.,Bezhotovostný vklad - okamžitá platba,,
+1,Zakova Jana,2022-08-19,20,EUR,podporujeme Olgu,Bezhotovostný vklad,,
+2,Luptáková Oľga,2022-08-18,1000,EUR,F001180820220260305,Bezhotovostný vklad,,
+3,KUCHARICOVA ANDREA,2022-08-17,101,EUR,Andrea,Bezhotovostný vklad,,
+4,Bobrík Anton,2022-08-16,100,EUR,F001160820228009733,Bezhotovostný vklad,,
+5,Luptáková Oľga,2022-08-15,300,EUR,FSY0016778728,Bezhotovostný vklad,,
