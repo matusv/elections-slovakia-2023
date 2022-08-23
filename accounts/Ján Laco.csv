@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Laco Ján,2022-08-22,550,EUR,OO22082200024878,Bezhotovostný vklad - okamžitá platba,,
-1,Laco Ján,2022-08-21,550,EUR,OO22082100012343,Bezhotovostný vklad - okamžitá platba,,
+0,ARTON s.r.o,2022-08-23,-1026,EUR,priestor reklama od 1.9 -30.10,Platobný príkaz na úhradu / FIT 2.0 (EB),220380,
+1,Laco Ján,2022-08-22,550,EUR,OO22082200024878,Bezhotovostný vklad - okamžitá platba,,
+2,Laco Ján,2022-08-21,550,EUR,OO22082100012343,Bezhotovostný vklad - okamžitá platba,,
