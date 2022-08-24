@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,JAN PRILEPOK,2022-08-18,400.0,EUR,VKLAD,Bezhotovostný vklad,,
-1,Slovenská pošta,2022-08-16,-420.0,EUR,Podaj letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),9001534085,
-2,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-07-31,-2.52,EUR,Poplatok za vedenie účtu,Poplatok,,
-4,JAN PRILEPOK,2022-07-20,500.0,EUR,PLATBA,Bezhotovostný vklad,,
+0,Up agentúra,2022-08-24,-300.24,EUR,Grafika + tlač letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),202252,
+1,JAN PRILEPOK,2022-08-18,400.0,EUR,VKLAD,Bezhotovostný vklad,,
+2,Slovenská pošta,2022-08-16,-420.0,EUR,Podaj letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),9001534085,
+3,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-07-31,-2.52,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,JAN PRILEPOK,2022-07-20,500.0,EUR,PLATBA,Bezhotovostný vklad,,
