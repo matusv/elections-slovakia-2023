@@ -1,12 +1,15 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Ing. Erika Beczányiová,2022-08-16,-15.0,EUR,platba za portrétne fotografie,Okamžitá platba (EB),2201005,
-1,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,ISPA SPOL SRO,2022-07-20,-362.4,EUR,platba za billboard zákazka č. 202202502,Okamžitá platba (EB),22950245,
-3,Vojtko Radim,2022-07-20,400.0,EUR,osobný vklad na kampaň,Bezhotovostný vklad,,
-4,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-5,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-6,,2022-05-26,-11.99,EUR,,Platobný príkaz na úhradu (EB Sporopay),6424362719,9000010007
-7,,2022-05-25,-70.56,EUR,,Platobný príkaz na úhradu (EB Sporopay),6423768463,9000010007
-8,Vojtko Radim,2022-05-25,50.0,EUR,Vklad na platbu web stranky,Bezhotovostný vklad,,
-9,Vojtko Radim,2022-05-02,50.0,EUR,Vklad,Bezhotovostný vklad,,
-10,,2022-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+0,ARTON s.r.o.,2022-08-25,-20.4,EUR,Mgr. Radim Vojtko; Pažická - tlač;19.08.2022,Okamžitá platba (EB),220463,
+1,ARTON s.r.o.,2022-08-25,-216.0,EUR,Mgr. Radim Vojtko; Pažická - nájom;19.08.2022,Okamžitá platba (EB),220462,
+2,Vojtko Radim,2022-08-25,220.0,EUR,Vklad na uhradu kampane,Bezhotovostný vklad,,
+3,Ing. Erika Beczányiová,2022-08-16,-15.0,EUR,platba za portrétne fotografie,Okamžitá platba (EB),2201005,
+4,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,ISPA SPOL SRO,2022-07-20,-362.4,EUR,platba za billboard zákazka č. 202202502,Okamžitá platba (EB),22950245,
+6,Vojtko Radim,2022-07-20,400.0,EUR,osobný vklad na kampaň,Bezhotovostný vklad,,
+7,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+8,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+9,,2022-05-26,-11.99,EUR,,Platobný príkaz na úhradu (EB Sporopay),6424362719,9000010007
+10,,2022-05-25,-70.56,EUR,,Platobný príkaz na úhradu (EB Sporopay),6423768463,9000010007
+11,Vojtko Radim,2022-05-25,50.0,EUR,Vklad na platbu web stranky,Bezhotovostný vklad,,
+12,Vojtko Radim,2022-05-02,50.0,EUR,Vklad,Bezhotovostný vklad,,
+13,,2022-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
