@@ -1,0 +1,11 @@
+index,index,account_name,date,amount,currency,message,tx_type,vs,ss,name
+0,21,Kresťanskodemokratické hnutie,2022-07-20,-50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,Platobný príkaz na úhradu / FIT 2.0 (EB),20072022.0,,Kresťanskodemokratické hnutie
+1,22,Kresťanskodemokratické hnutie,2022-07-20,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,20072022.0,,Kresťanskodemokratické hnutie
+2,32,"Kratochvílová Tatiana, Ing.",2022-07-23,-100.0,EUR,vrateny dar,Okamžitá platba (EB),23072022.0,,Team Bratislava
+3,33,"Kratochvílová Tatiana, Ing.",2022-07-22,100.0,EUR,clenske Kratochvilova,Bezhotovostný vklad - okamžitá platba,220722.0,,Team Bratislava
+4,11,Dubec Milan,2022-08-15,-40000.0,EUR,dar vrateny kvoli nespravnemu postupu pri darovani,Platobný príkaz na úhradu / FIT 2.0 (EB),1082022.0,,Team Bratislava
+5,21,Dubec Milan,2022-08-01,40000.0,EUR,Dar - Team Bratislava - Milan Dubec,Bezhotovostný vklad,,,Team Bratislava
+6,3,Pharmevid s.r.o.,2022-08-15,-3000.0,EUR,Vratenie platby,Okamžitá platba (EB),82022.0,,Peter Novisedlák
+7,4,Pharmevid s.r.o.,2022-08-15,3000.0,EUR,VKLAD,Bezhotovostný vklad - okamžitá platba,82022.0,,Peter Novisedlák
+8,6,Eva Psotná,2022-08-05,-2000.0,EUR,vrátenie zrejme omylom zaslaného daru,Platobný príkaz na úhradu / FIT 2.0 (EB),,,Katarína Heneková
+9,7,Eva Psotná,2022-08-05,2000.0,EUR,Dar pre mesto od EVIScleaning,Bezhotovostný vklad,,,Katarína Heneková
