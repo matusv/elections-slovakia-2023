@@ -1,16 +1,17 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-24,2000.0,Bezhotovostný príjem,Marián Vlna,/DO2022-08-23/SP,,,,Marián Vlna
-1,2022-08-23,-10.0,Bezhotovostná platba,,"vratenie vkladu v hotovosti zo dna5
+0,2022-08-25,2000.0,Bezhotovostný príjem,Hana Mikulová,/DO2022-08-24/SP,,,,Hana Mikulová
+1,2022-08-24,2000.0,Bezhotovostný príjem,Marián Vlna,/DO2022-08-23/SP,,,,Marián Vlna
+2,2022-08-23,-10.0,Bezhotovostná platba,,"vratenie vkladu v hotovosti zo dna5
 .5.2022",,,,vrátenie vkladu v hotovosti zo dňa 5.5.2022
-2,2022-08-22,500.0,Bezhotovostný príjem,Horny Lubos,/DO2022-08-19/SPHorny Lubos,,,,Horny Lubos
-3,2022-08-19,500.0,Bezhotovostný príjem,Hodák Henrich,/DO2022-08-18/SP,,,,Hodák Henrich
-4,2022-08-18,1500.0,Bezhotovostný príjem,"Sirotná Zuzana, Ing.",/DO2022-08-17/SPDar Richard Rybnicek,,,,"Sirotná Zuzana, Ing."
-5,2022-08-17,1300.0,Bezhotovostný príjem,"Závodský Peter, Ing.",/DO2022-08-16/SPprispevok Mgr. Richard Rybnicek,,,,"Závodský Peter, Ing."
-6,2022-08-17,1000.0,Bezhotovostný príjem,Martin Sučanský,/DO2022-08-16/SP Martin Sucansky,,,,Martin Sučanský
-7,2022-08-12,3000.0,Bezhotovostný príjem,BLASKOVA TIMEA,/DO2022-08-11/SP,,,,BLASKOVA TIMEA
-8,2022-08-04,2500.0,Bezhotovostný príjem,VANEK ERIK,/DO2022-08-03/SP,,,,VANEK ERIK
-9,2022-08-04,2500.0,Bezhotovostný príjem,MARCEK PATRIK,/DO2022-08-03/SP,,,,MARCEK PATRIK
-10,2022-07-18,2000.0,Bezhotovostný príjem,"Hošták Igor, Ing.",/DO2022-07-15/SP,,,,"Hošták Igor, Ing."
-11,2022-07-18,2000.0,Bezhotovostný príjem,"Válek Tomáš, Ing.",/DO2022-07-15/SP,,,,"Válek Tomáš, Ing."
-12,2022-05-13,10000.0,Bezhotovostný príjem,RYBNICEK RICHARD,vklad na predvolebnU kampan,,,,RYBNICEK RICHARD
-13,2022-05-05,10.0,Vklad v hotovosti,,,0558,,,
+3,2022-08-22,500.0,Bezhotovostný príjem,Horny Lubos,/DO2022-08-19/SPHorny Lubos,,,,Horny Lubos
+4,2022-08-19,500.0,Bezhotovostný príjem,Hodák Henrich,/DO2022-08-18/SP,,,,Hodák Henrich
+5,2022-08-18,1500.0,Bezhotovostný príjem,"Sirotná Zuzana, Ing.",/DO2022-08-17/SPDar Richard Rybnicek,,,,"Sirotná Zuzana, Ing."
+6,2022-08-17,1300.0,Bezhotovostný príjem,"Závodský Peter, Ing.",/DO2022-08-16/SPprispevok Mgr. Richard Rybnicek,,,,"Závodský Peter, Ing."
+7,2022-08-17,1000.0,Bezhotovostný príjem,Martin Sučanský,/DO2022-08-16/SP Martin Sucansky,,,,Martin Sučanský
+8,2022-08-12,3000.0,Bezhotovostný príjem,BLASKOVA TIMEA,/DO2022-08-11/SP,,,,BLASKOVA TIMEA
+9,2022-08-04,2500.0,Bezhotovostný príjem,VANEK ERIK,/DO2022-08-03/SP,,,,VANEK ERIK
+10,2022-08-04,2500.0,Bezhotovostný príjem,MARCEK PATRIK,/DO2022-08-03/SP,,,,MARCEK PATRIK
+11,2022-07-18,2000.0,Bezhotovostný príjem,"Hošták Igor, Ing.",/DO2022-07-15/SP,,,,"Hošták Igor, Ing."
+12,2022-07-18,2000.0,Bezhotovostný príjem,"Válek Tomáš, Ing.",/DO2022-07-15/SP,,,,"Válek Tomáš, Ing."
+13,2022-05-13,10000.0,Bezhotovostný príjem,RYBNICEK RICHARD,vklad na predvolebnU kampan,,,,RYBNICEK RICHARD
+14,2022-05-05,10.0,Vklad v hotovosti,,,0558,,,
