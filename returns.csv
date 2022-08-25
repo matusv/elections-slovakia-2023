@@ -3,7 +3,7 @@ index,index,account_name,date,amount,currency,message,tx_type,vs,ss,name
 1,36,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2022-07-13,161.7,EUR,2X UHRADENA FAKTURA,Bezhotovostný vklad,1200672.0,,Kotlebovci - Ľudová strana Naše Slovensko
 2,21,Kresťanskodemokratické hnutie,2022-07-20,-50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,Platobný príkaz na úhradu / FIT 2.0 (EB),20072022.0,,Kresťanskodemokratické hnutie
 3,22,Kresťanskodemokratické hnutie,2022-07-20,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,20072022.0,,Kresťanskodemokratické hnutie
-4,135,"Mgr. Róbert Černák, AGENTURA PRO-STAFF*****",2022-06-09,-5000.0,EUR,"Mgr. Róbert Černák, AGENTURA PRO-STAFF*****",Platobný príkaz na úhradu / FIT 2.0 (EB),20220007.0,,SME RODINA
+4,138,Mesto Dubnica nad Váhom,2022-06-09,-40.0,EUR,Mesto Dubnica nad Váhom,Platobný príkaz na úhradu / FIT 2.0 (EB),41220012.0,,SME RODINA
 5,0,MESTO DUBNICA NAD VÁHOM,2022-08-25,40.0,EUR,Vratka duplicitnej platby - pouzitie dreveneho podia,Bezhotovostný vklad,6049022.0,,SME RODINA
 6,128,Roda press s.r.o.,2022-06-15,-1086.78,EUR,Roda press s.r.o.,Platobný príkaz na úhradu / FIT 2.0 (EB),2022225.0,,SME RODINA
 7,19,RODA PRESS S.R.O.,2022-08-16,1086.78,EUR,preplatok,Bezhotovostný vklad,2022225.0,,SME RODINA
@@ -17,5 +17,5 @@ index,index,account_name,date,amount,currency,message,tx_type,vs,ss,name
 15,4,Pharmevid s.r.o.,2022-08-15,3000.0,EUR,VKLAD,Bezhotovostný vklad - okamžitá platba,82022.0,,Peter Novisedlák
 16,6,Eva Psotná,2022-08-05,-2000.0,EUR,vrátenie zrejme omylom zaslaného daru,Platobný príkaz na úhradu / FIT 2.0 (EB),,,Katarína Heneková
 17,7,Eva Psotná,2022-08-05,2000.0,EUR,Dar pre mesto od EVIScleaning,Bezhotovostný vklad,,,Katarína Heneková
-18,50,Thomka Stanislav,2022-06-17,500.0,EUR,F001170620224646643,Bezhotovostný vklad,,,Stanislav Thomka
+18,51,"Alfa PRINT, s.r.o.",2022-06-17,-360.0,EUR,Tlač letákov,Okamžitá platba (EB),97422.0,,Stanislav Thomka
 19,46,"Alfa print, s.r.o.",2022-06-22,360.0,EUR,Vratenie duplicitnej platby,Bezhotovostný vklad - okamžitá platba,97422.0,,Stanislav Thomka
