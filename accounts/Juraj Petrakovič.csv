@@ -1,10 +1,10 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-08-25,200.0,Bezhotovostný príjem,Juran Peter,"/DO2022-08-24/SPJuran Peter,  prispevok na kampan LM",,,,Juran Peter
 1,2022-08-25,50.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-08-24/SPAndy Kukumbergová,,,,Andrea Kukumbergová
-2,2022-08-12,-38.94,Bezhotovostná platba,,,0308,2289037719,,
+2,2022-08-12,-38.94,Bezhotovostná platba,,,0308,2289037719,,Reklamné plochy
 3,2022-07-18,150.0,Bezhotovostný príjem,Naďa Kovárová,/DO2022-07-16/SPNaďa Kovárová,,,,Naďa Kovárová
 4,2022-07-13,150.0,Bezhotovostný príjem,Ján Bača,/DO2022-07-13/SP jan Baca kampan,,,,Ján Bača
-5,2022-06-20,-576.0,Bezhotovostná platba,,,0558,2270124,,
+5,2022-06-20,-576.0,Bezhotovostná platba,,,0558,2270124,,Reklamné plochy
 6,2022-06-19,200.0,Platba prevodom v rámci banky,"Ing. Zigo, Ján",Volby 2022,,,,Volby 2022
 7,2022-06-15,100.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-06-15/SP,,,,Andrea Kukumbergová
 8,2022-06-15,200.0,Bezhotovostný príjem,Marián Gavorník,/DO2022-06-14/SPGavornik,0558,14062022,,Marián Gavorník
