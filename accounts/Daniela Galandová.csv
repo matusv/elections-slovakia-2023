@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Marián Špilár - MASPHOTO,2022-08-23,-200.0,EUR,Video - ohlasenie kandidatury do PSK,Platobný príkaz na úhradu / FIT 2.0 (EB),20220012,
-1,Marián Špilár - MASPHOTO,2022-08-19,-350.0,EUR,Teaser DG,Platobný príkaz na úhradu / FIT 2.0 (EB),20220011,
-2,,2022-08-15,-0.59,EUR,"Vedenie Platobnej karty elektronickej,2001,5,Karta č. 4544 12** **** 8401Poplatok za Platobnú kartu",Kartový poplatok,,
-3,"Daniela Galandová, Marián Galanda",2022-08-14,1500.0,EUR,osobny vklad pre ucely vydavkov na kampan,Bezhotovostný vklad - okamžitá platba,01,
+0,Aktivny_klient_new_pool,2022-08-25,5.0,EUR,Odmena za aktiváciu platobnej karty,Bezhotovostný vklad,,
+1,Marián Špilár - MASPHOTO,2022-08-23,-200.0,EUR,Video - ohlasenie kandidatury do PSK,Platobný príkaz na úhradu / FIT 2.0 (EB),20220012,
+2,Marián Špilár - MASPHOTO,2022-08-19,-350.0,EUR,Teaser DG,Platobný príkaz na úhradu / FIT 2.0 (EB),20220011,
+3,,2022-08-15,-0.59,EUR,"Vedenie Platobnej karty elektronickej,2001,5,Karta č. 4544 12** **** 8401Poplatok za Platobnú kartu",Kartový poplatok,,
+4,"Daniela Galandová, Marián Galanda",2022-08-14,1500.0,EUR,osobny vklad pre ucely vydavkov na kampan,Bezhotovostný vklad - okamžitá platba,01,
