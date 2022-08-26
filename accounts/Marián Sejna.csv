@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Sejna Marian,2022-08-25,500.0,EUR,23282958,Bezhotovostný vklad,,
+1,Mesto Sobrance,2022-08-24,-50.0,EUR,"Daň/poplatok 2022 UVP DAN č. 106,",Okamžitá platba (EB),1211200106,
+2,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-07-31,-5.42,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,Sejna Marian,2022-07-11,300.0,EUR,22818598,Bezhotovostný vklad,,

@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,euroawk,2022-08-26,-156,EUR,Reklama,Platobný príkaz na úhradu / FIT 2.0 (EB),2270436,
+1,Lebeda Roman,2022-08-26,300,EUR,F001260820225437090,Bezhotovostný vklad,,
+2,Lebeda Roman,2022-08-26,122,EUR,F001260820225436805,Bezhotovostný vklad,,
