@@ -1,5 +1,6 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-24,1000.0,Bezhotovostný príjem,Martin Alföldi,/DO2022-08-24/SP,,,,Martin Alföldi
-1,2022-08-15,-11.99,Bezhotovostná platba,,meszaros2022.sk,0308,1022242447,,
-2,2022-08-11,500.0,Bezhotovostný príjem,Mészáros Tomáš,/DO2022-08-11/SP,,,,Mészáros Tomáš
-3,2022-07-26,10.0,Platba prevodom v rámci banky,"Ing. Mészáros, Tomáš",,,,,
+0,2022-08-26,-146.72,Transakcia kartou,,"Nákup: FACEBK *7LNUMGX2V2, fb.me/ads, IE, dne 25.8.2022, částka  146.72 EUR",,2031,,"Nákup: FACEBK *7LNUMGX2V2, fb.me/ads, IE, dne 25.8.2022, částka  146.72 EUR"
+1,2022-08-24,1000.0,Bezhotovostný príjem,Martin Alföldi,/DO2022-08-24/SP,,,,Martin Alföldi
+2,2022-08-15,-11.99,Bezhotovostná platba,,meszaros2022.sk,0308,1022242447,,
+3,2022-08-11,500.0,Bezhotovostný príjem,Mészáros Tomáš,/DO2022-08-11/SP,,,,Mészáros Tomáš
+4,2022-07-26,10.0,Platba prevodom v rámci banky,"Ing. Mészáros, Tomáš",,,,,
