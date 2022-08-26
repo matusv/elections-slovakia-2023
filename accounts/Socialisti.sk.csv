@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Jágrik Martin,2022-08-24,600,EUR,vklad na kampaň Trenčín,Bezhotovostný vklad,,
-1,Arton s.r.o,2022-08-23,-24,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220460,
-2,Arton s.r.o,2022-08-23,-216,EUR,0220823141730.114440,Okamžitá platba (EB),220459,
-3,Socialisti.sk,2022-08-23,2000,EUR,príspevok na komunálne voľby,Bezhotovostný vklad,,
-4,Socialisti.sk,2022-08-22,70,EUR,Počiatočný vklad,Bezhotovostný vklad,,
+0,Arton s.r.o,2022-08-26,-216,EUR,0220826094726.339674,Okamžitá platba (EB),220425,
+1,Jágrik Martin,2022-08-24,600,EUR,vklad na kampaň Trenčín,Bezhotovostný vklad,,
+2,Arton s.r.o,2022-08-23,-24,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220460,
+3,Arton s.r.o,2022-08-23,-216,EUR,0220823141730.114440,Okamžitá platba (EB),220459,
+4,Socialisti.sk,2022-08-23,2000,EUR,príspevok na komunálne voľby,Bezhotovostný vklad,,
+5,Socialisti.sk,2022-08-22,70,EUR,Počiatočný vklad,Bezhotovostný vklad,,
