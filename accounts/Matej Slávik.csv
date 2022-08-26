@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-26,-1.5,EUR,"B1355809256-44544 12** **** 1645;FACEBK TA9K8GB2D2 ,fb.me/ads ,IE ;24.08.2022 07:00:11 ;CashBack:0 EUR",Platba kartou,,
-1,"EMES CREATIVE, S.R.O",2022-08-15,-30.0,EUR,domena matejslavik.sk,Platobný príkaz na úhradu / FIT 2.0 (EB),2022021,
-2,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,Slávik Matej,2022-07-15,500.0,EUR,osobny vklad na kampan,Bezhotovostný vklad,,
+0,,2022-08-26,-1.5,EUR,"B1356458552-44544 12** **** 1645;FACEBK T8USSFXZC2 ,fb.me/ads ,IE ;25.08.2022 12:35:06 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-08-26,-1.5,EUR,"B1355809256-44544 12** **** 1645;FACEBK TA9K8GB2D2 ,fb.me/ads ,IE ;24.08.2022 07:00:11 ;CashBack:0 EUR",Platba kartou,,
+2,"EMES CREATIVE, S.R.O",2022-08-15,-30.0,EUR,domena matejslavik.sk,Platobný príkaz na úhradu / FIT 2.0 (EB),2022021,
+3,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,Slávik Matej,2022-07-15,500.0,EUR,osobny vklad na kampan,Bezhotovostný vklad,,
