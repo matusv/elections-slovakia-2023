@@ -3,19 +3,25 @@ index,index,account_name,date,amount,currency,message,tx_type,vs,ss,name
 1,36,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2022-07-13,161.7,EUR,2X UHRADENA FAKTURA,Bezhotovostný vklad,1200672.0,,Kotlebovci - Ľudová strana Naše Slovensko
 2,23,Kresťanskodemokratické hnutie,2022-07-20,-50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,Platobný príkaz na úhradu / FIT 2.0 (EB),20072022.0,,Kresťanskodemokratické hnutie
 3,24,Kresťanskodemokratické hnutie,2022-07-20,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,20072022.0,,Kresťanskodemokratické hnutie
-4,138,Mesto Dubnica nad Váhom,2022-06-09,-40.0,EUR,Mesto Dubnica nad Váhom,Platobný príkaz na úhradu / FIT 2.0 (EB),41220012.0,,SME RODINA
-5,0,MESTO DUBNICA NAD VÁHOM,2022-08-25,40.0,EUR,Vratka duplicitnej platby - pouzitie dreveneho podia,Bezhotovostný vklad,6049022.0,,SME RODINA
-6,128,Roda press s.r.o.,2022-06-15,-1086.78,EUR,Roda press s.r.o.,Platobný príkaz na úhradu / FIT 2.0 (EB),2022225.0,,SME RODINA
-7,19,RODA PRESS S.R.O.,2022-08-16,1086.78,EUR,preplatok,Bezhotovostný vklad,2022225.0,,SME RODINA
-8,35,Sagatova Vanessa,2022-06-15,-1.0,EUR,Vratenie fin.prostriedkov,Platobný príkaz na úhradu / FIT 2.0 (EB),13062022.0,,SMER - sociálna demokracia
-9,40,SAGATOVA VANESSA,2022-06-13,1.0,EUR,Zafo,Bezhotovostný vklad,,,SMER - sociálna demokracia
-10,32,"Kratochvílová Tatiana, Ing.",2022-07-23,-100.0,EUR,vrateny dar,Okamžitá platba (EB),23072022.0,,Team Bratislava
-11,33,"Kratochvílová Tatiana, Ing.",2022-07-22,100.0,EUR,clenske Kratochvilova,Bezhotovostný vklad - okamžitá platba,220722.0,,Team Bratislava
-12,11,Dubec Milan,2022-08-15,-40000.0,EUR,dar vrateny kvoli nespravnemu postupu pri darovani,Platobný príkaz na úhradu / FIT 2.0 (EB),1082022.0,,Team Bratislava
-13,21,Dubec Milan,2022-08-01,40000.0,EUR,Dar - Team Bratislava - Milan Dubec,Bezhotovostný vklad,,,Team Bratislava
-14,3,Pharmevid s.r.o.,2022-08-15,-3000.0,EUR,Vratenie platby,Okamžitá platba (EB),82022.0,,Peter Novisedlák
-15,4,Pharmevid s.r.o.,2022-08-15,3000.0,EUR,VKLAD,Bezhotovostný vklad - okamžitá platba,82022.0,,Peter Novisedlák
-16,6,Eva Psotná,2022-08-05,-2000.0,EUR,vrátenie zrejme omylom zaslaného daru,Platobný príkaz na úhradu / FIT 2.0 (EB),,,Katarína Heneková
-17,7,Eva Psotná,2022-08-05,2000.0,EUR,Dar pre mesto od EVIScleaning,Bezhotovostný vklad,,,Katarína Heneková
-18,51,"Alfa PRINT, s.r.o.",2022-06-17,-360.0,EUR,Tlač letákov,Okamžitá platba (EB),97422.0,,Stanislav Thomka
-19,46,"Alfa print, s.r.o.",2022-06-22,360.0,EUR,Vratenie duplicitnej platby,Bezhotovostný vklad - okamžitá platba,97422.0,,Stanislav Thomka
+4,140,Mesto Dubnica nad Váhom,2022-06-09,-40.0,EUR,Mesto Dubnica nad Váhom,Platobný príkaz na úhradu / FIT 2.0 (EB),41220012.0,,SME RODINA
+5,2,MESTO DUBNICA NAD VÁHOM,2022-08-25,40.0,EUR,Vratka duplicitnej platby - pouzitie dreveneho podia,Bezhotovostný vklad,6049022.0,,SME RODINA
+6,130,Roda press s.r.o.,2022-06-15,-1086.78,EUR,Roda press s.r.o.,Platobný príkaz na úhradu / FIT 2.0 (EB),2022225.0,,SME RODINA
+7,21,RODA PRESS S.R.O.,2022-08-16,1086.78,EUR,preplatok,Bezhotovostný vklad,2022225.0,,SME RODINA
+8,7,Ochrana Zamestnanca,2022-08-21,-4500.0,EUR,Jul 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),220100005.0,,SME RODINA
+9,1,Ochrana Zamestnanca,2022-08-26,4500.0,EUR,chybna platba,Bezhotovostný vklad,220100005.0,,SME RODINA
+10,8,Ochrana Zamestnanca,2022-08-21,-4500.0,EUR,Jun 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),220100004.0,,SME RODINA
+11,0,Ochrana Zamestnanca,2022-08-26,4500.0,EUR,chybna platba,Bezhotovostný vklad,220100004.0,,SME RODINA
+12,35,Sagatova Vanessa,2022-06-15,-1.0,EUR,Vratenie fin.prostriedkov,Platobný príkaz na úhradu / FIT 2.0 (EB),13062022.0,,SMER - sociálna demokracia
+13,40,SAGATOVA VANESSA,2022-06-13,1.0,EUR,Zafo,Bezhotovostný vklad,,,SMER - sociálna demokracia
+14,32,"Kratochvílová Tatiana, Ing.",2022-07-23,-100.0,EUR,vrateny dar,Okamžitá platba (EB),23072022.0,,Team Bratislava
+15,33,"Kratochvílová Tatiana, Ing.",2022-07-22,100.0,EUR,clenske Kratochvilova,Bezhotovostný vklad - okamžitá platba,220722.0,,Team Bratislava
+16,11,Dubec Milan,2022-08-15,-40000.0,EUR,dar vrateny kvoli nespravnemu postupu pri darovani,Platobný príkaz na úhradu / FIT 2.0 (EB),1082022.0,,Team Bratislava
+17,21,Dubec Milan,2022-08-01,40000.0,EUR,Dar - Team Bratislava - Milan Dubec,Bezhotovostný vklad,,,Team Bratislava
+18,3,Pharmevid s.r.o.,2022-08-15,-3000.0,EUR,Vratenie platby,Okamžitá platba (EB),82022.0,,Peter Novisedlák
+19,4,Pharmevid s.r.o.,2022-08-15,3000.0,EUR,VKLAD,Bezhotovostný vklad - okamžitá platba,82022.0,,Peter Novisedlák
+20,6,Eva Psotná,2022-08-05,-2000.0,EUR,vrátenie zrejme omylom zaslaného daru,Platobný príkaz na úhradu / FIT 2.0 (EB),,,Katarína Heneková
+21,7,Eva Psotná,2022-08-05,2000.0,EUR,Dar pre mesto od EVIScleaning,Bezhotovostný vklad,,,Katarína Heneková
+22,52,"Alfa PRINT, s.r.o.",2022-06-17,-360.0,EUR,Tlač letákov,Okamžitá platba (EB),97422.0,,Stanislav Thomka
+23,47,"Alfa print, s.r.o.",2022-06-22,360.0,EUR,Vratenie duplicitnej platby,Bezhotovostný vklad - okamžitá platba,97422.0,,Stanislav Thomka
+24,1,"BigMedia, spol. s r.o.",2022-08-19,-22452.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),1222205521.0,,Adrian Polóny
+25,0,"BIGMEDIA, SPOL. S R.O.",2022-08-26,22452.0,EUR,32221/0037 25.08.2022,Bezhotovostný vklad,,,Adrian Polóny

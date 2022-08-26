@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Temper Communication a.s.,2022-08-12,-35000,EUR,Zalohova platba na kampan BA,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-1,Strana DOBRÁ VOĽBA,2022-08-05,40000,EUR,Prevod medzi účtami Dobrá voľba a Umierneni´,Bezhotovostný vklad,,
+0,Guldan-Studio sro,2022-08-26,-1602,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),22011,
+1,Temper Communication a.s.,2022-08-12,-35000,EUR,Zalohova platba na kampan BA,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+2,Strana DOBRÁ VOĽBA,2022-08-05,40000,EUR,Prevod medzi účtami Dobrá voľba a Umierneni´,Bezhotovostný vklad,,
