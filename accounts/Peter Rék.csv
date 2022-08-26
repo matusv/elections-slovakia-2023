@@ -1,8 +1,9 @@
 index,date,amount,account_name,message,vs
-0,2022-08-25,-9.0,Platba kartou,Platba kartou u obchodníka,****8625
-1,2022-08-12,500.0,Peter Rék,podpora kampane,
-2,2022-08-10,-252.0,Red design s.r.o.,platba za tovar / letak,10220150
-3,2022-08-10,253.0,Peter Rék,dar,
-4,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-5,2022-07-29,-5.0,,Vedenie účtu,9
-6,2022-07-29,-0.05,,POPLATKY ZA RECYKLACIU,9
+0,2022-08-26,-9.0,Platba kartou,Platba kartou u obchodníka,****8625
+1,2022-08-25,-9.0,Platba kartou,Platba kartou u obchodníka,****8625
+2,2022-08-12,500.0,Peter Rék,podpora kampane,
+3,2022-08-10,-252.0,Red design s.r.o.,platba za tovar / letak,10220150
+4,2022-08-10,253.0,Peter Rék,dar,
+5,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+6,2022-07-29,-5.0,,Vedenie účtu,9
+7,2022-07-29,-0.05,,POPLATKY ZA RECYKLACIU,9

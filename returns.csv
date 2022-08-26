@@ -1,8 +1,8 @@
 index,index,account_name,date,amount,currency,message,tx_type,vs,ss,name
 0,43,Poľnohospodárske družstvo Chtelnica,2022-07-04,-161.7,EUR,potraviny na podujatie,Platobný príkaz na úhradu / FIT 2.0 (EB),1200672.0,,Kotlebovci - Ľudová strana Naše Slovensko
 1,36,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2022-07-13,161.7,EUR,2X UHRADENA FAKTURA,Bezhotovostný vklad,1200672.0,,Kotlebovci - Ľudová strana Naše Slovensko
-2,21,Kresťanskodemokratické hnutie,2022-07-20,-50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,Platobný príkaz na úhradu / FIT 2.0 (EB),20072022.0,,Kresťanskodemokratické hnutie
-3,22,Kresťanskodemokratické hnutie,2022-07-20,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,20072022.0,,Kresťanskodemokratické hnutie
+2,23,Kresťanskodemokratické hnutie,2022-07-20,-50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,Platobný príkaz na úhradu / FIT 2.0 (EB),20072022.0,,Kresťanskodemokratické hnutie
+3,24,Kresťanskodemokratické hnutie,2022-07-20,50000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,20072022.0,,Kresťanskodemokratické hnutie
 4,138,Mesto Dubnica nad Váhom,2022-06-09,-40.0,EUR,Mesto Dubnica nad Váhom,Platobný príkaz na úhradu / FIT 2.0 (EB),41220012.0,,SME RODINA
 5,0,MESTO DUBNICA NAD VÁHOM,2022-08-25,40.0,EUR,Vratka duplicitnej platby - pouzitie dreveneho podia,Bezhotovostný vklad,6049022.0,,SME RODINA
 6,128,Roda press s.r.o.,2022-06-15,-1086.78,EUR,Roda press s.r.o.,Platobný príkaz na úhradu / FIT 2.0 (EB),2022225.0,,SME RODINA
