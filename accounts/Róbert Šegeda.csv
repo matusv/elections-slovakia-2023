@@ -1,15 +1,16 @@
 index,date,amount,account_name,message,vs
 0,2022-08-25,-39.75,Platba kartou,Platba kartou u obchodníka,****1968
-1,2022-08-22,-40.0,Platba kartou,FACEBK DJK6HEFR fb.me/ads,****1968
-2,2022-08-15,-30.0,Platba kartou,FACEBK THE79E7S fb.me/ads,****1968
-3,2022-08-08,-20.0,Platba kartou,FACEBK ZVKKEETR fb.me/ads,****1968
-4,2022-08-03,-12.0,Platba kartou,FACEBK 8BF92FXR fb.me/ads,****1968
-5,2022-08-02,-12.0,Platba kartou,FACEBK AQUSEE3S fb.me/ads,****1968
-6,2022-08-01,-9.0,Platba kartou,FACEBK N5EBCE3S fb.me/ads,****1968
-7,2022-08-01,-9.0,Platba kartou,FACEBK 7NLPWD7S fb.me/ads,****1968
-8,2022-08-01,-9.0,Platba kartou,FACEBK 8SSZVD7S fb.me/ads,****1968
-9,2022-07-29,6.0,,Odpustenie vedenie konta,9
-10,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-11,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-12,2022-06-30,-5.0,,Vedenie účtu,9
-13,2022-06-14,200.0,"Šegeda Róbert, JUDr.",Volby 2022,
+1,2022-08-26,-39.75,Platba kartou,FACEBK 6WBXZE3S fb.me/ads,****1968
+2,2022-08-22,-40.0,Platba kartou,FACEBK DJK6HEFR fb.me/ads,****1968
+3,2022-08-15,-30.0,Platba kartou,FACEBK THE79E7S fb.me/ads,****1968
+4,2022-08-08,-20.0,Platba kartou,FACEBK ZVKKEETR fb.me/ads,****1968
+5,2022-08-03,-12.0,Platba kartou,FACEBK 8BF92FXR fb.me/ads,****1968
+6,2022-08-02,-12.0,Platba kartou,FACEBK AQUSEE3S fb.me/ads,****1968
+7,2022-08-01,-9.0,Platba kartou,FACEBK N5EBCE3S fb.me/ads,****1968
+8,2022-08-01,-9.0,Platba kartou,FACEBK 7NLPWD7S fb.me/ads,****1968
+9,2022-08-01,-9.0,Platba kartou,FACEBK 8SSZVD7S fb.me/ads,****1968
+10,2022-07-29,6.0,,Odpustenie vedenie konta,9
+11,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+12,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+13,2022-06-30,-5.0,,Vedenie účtu,9
+14,2022-06-14,200.0,"Šegeda Róbert, JUDr.",Volby 2022,
