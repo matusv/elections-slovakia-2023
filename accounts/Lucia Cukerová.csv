@@ -1,13 +1,16 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-25,200.0,Bezhotovostný príjem,"Ravinger Peter, Ing.",/DO2022-08-24/SPPodpora,,,,"Ravinger Peter, Ing."
-1,2022-08-22,200.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-08-20/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová
-2,2022-08-19,-278.29,Bezhotovostná platba,,,,6221236,,"letáky, RollUp, tričká, polepy"
-3,2022-08-19,100.0,Bezhotovostný príjem,BOBAK JOZEF,/DO2022-08-18/SPprva cast tricka pre kampan a ine Jozef Bobak,0158,18082022,,BOBAK JOZEF
-4,2022-08-16,20.0,Bezhotovostný príjem,Mudroňová Petra,/DO2022-08-15/SP,,,,Mudroňová Petra
-5,2022-08-10,400.0,Bezhotovostný príjem,RASTISLAV STRCULA,,,,,RASTISLAV STRCULA
-6,2022-08-09,100.0,Bezhotovostný príjem,Čefo Jaroslav,/DO2022-08-08/SPVeriiime...;-),0558,08082022,,Čefo Jaroslav
-7,2022-08-02,50.0,Bezhotovostný príjem,"Križan Ján, Ing.",/DO2022-08-01/SP,,,,"Križan Ján, Ing."
-8,2022-08-02,50.0,Bezhotovostný príjem,Jozef Hrošovský,/DO2022-08-01/SP,,3105680000,,Jozef Hrošovský
-9,2022-08-01,200.0,Bezhotovostný príjem,"Sukupčák Martin, Ing",/DO2022-07-31/SPpodpora,,,,"Sukupčák Martin, Ing"
-10,2022-08-01,100.0,Bezhotovostný príjem,Ivan Vnučko,/DO2022-07-31/SPPrajeme vam uspiet,,,,Ivan Vnučko
-11,2022-07-22,100.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-07-21/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová
+0,2022-08-30,200.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-08-27/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová
+1,2022-08-30,150.0,Bezhotovostný príjem,Sukupčák Michal,/DO2022-08-26/SP,,,,Sukupčák Michal
+2,2022-08-30,100.0,Bezhotovostný príjem,Miroslav Vyšný,/DO2022-08-26/SPApartmány&študia Miroslav Dem.Dolina,,,,Miroslav Vyšný
+3,2022-08-25,200.0,Bezhotovostný príjem,"Ravinger Peter, Ing.",/DO2022-08-24/SPPodpora,,,,"Ravinger Peter, Ing."
+4,2022-08-22,200.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-08-20/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová
+5,2022-08-19,-278.29,Bezhotovostná platba,,,,6221236,,"letáky, RollUp, tričká, polepy"
+6,2022-08-19,100.0,Bezhotovostný príjem,BOBAK JOZEF,/DO2022-08-18/SPprva cast tricka pre kampan a ine Jozef Bobak,0158,18082022,,BOBAK JOZEF
+7,2022-08-16,20.0,Bezhotovostný príjem,Mudroňová Petra,/DO2022-08-15/SP,,,,Mudroňová Petra
+8,2022-08-10,400.0,Bezhotovostný príjem,RASTISLAV STRCULA,,,,,RASTISLAV STRCULA
+9,2022-08-09,100.0,Bezhotovostný príjem,Čefo Jaroslav,/DO2022-08-08/SPVeriiime...;-),0558,08082022,,Čefo Jaroslav
+10,2022-08-02,50.0,Bezhotovostný príjem,"Križan Ján, Ing.",/DO2022-08-01/SP,,,,"Križan Ján, Ing."
+11,2022-08-02,50.0,Bezhotovostný príjem,Jozef Hrošovský,/DO2022-08-01/SP,,3105680000,,Jozef Hrošovský
+12,2022-08-01,200.0,Bezhotovostný príjem,"Sukupčák Martin, Ing",/DO2022-07-31/SPpodpora,,,,"Sukupčák Martin, Ing"
+13,2022-08-01,100.0,Bezhotovostný príjem,Ivan Vnučko,/DO2022-07-31/SPPrajeme vam uspiet,,,,Ivan Vnučko
+14,2022-07-22,100.0,Bezhotovostný príjem,Lucia Cukerová,/DO2022-07-21/SPLucia Cukerová - vklad na kampaň,,,,Lucia Cukerová

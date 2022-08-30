@@ -1,43 +1,44 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-25,2800.0,Bezhotovostný príjem,FIABANE MICHAL,/DO2022-08-24/SPPodpora kampane - nemas za co. :),,,,FIABANE MICHAL
-1,2022-08-23,100.0,Bezhotovostný príjem,Adamčík Marcel,/DO2022-08-22/SPMarcel Adamcik podpora kampane,0558,7101038428,,Adamčík Marcel
-2,2022-08-23,100.0,Bezhotovostný príjem,Klub športového potá,/DO2022-08-22/SPpodpora kandidatúry na primatora mesta Zilina,,,,Klub športového potá
-3,2022-08-22,10.0,Bezhotovostný príjem,Marcela Benická,/DO2022-08-22/SP,0308,20220822,,Marcela Benická
-4,2022-08-22,50.0,Bezhotovostný príjem,Brokes Jan,"/DO2022-08-21/SPBroky, Not Provided",,,,Brokes Jan
-5,2022-08-21,-54.0,Bezhotovostná platba,,,0558,1510116181,2203079214,Mesto Žilina - daň za užívanie verejného priestranstva 27.07.2022 - 29.07.2022
-6,2022-08-21,-18.0,Bezhotovostná platba,,,0558,1510116181,,Mesto Žilina - daň za užívanie verejného priestranstva 25.07.2022
-7,2022-08-21,-685.0,Bezhotovostná platba,,platba fa c. 068/2022,,0682022,,Profigrafik.sk s.r.o. - grafické práce
-8,2022-08-19,350.0,Bezhotovostný príjem,BRNAKOVA ZUZANA,/DO2022-08-18/SPPodpora,,,,BRNAKOVA ZUZANA
-9,2022-08-18,-270.0,Transakcia kartou,,"Nákup: FACEBK 5SBPDFXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.8.2022, částka  270.00 EUR",,4317,,"Nákup: FACEBK 5SBPDFXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.8.2022, částka  270.00 EUR"
-10,2022-08-18,100.0,Bezhotovostný príjem,Vladimír Baron,/DO2022-08-18/SPvlado baron,,,,Vladimír Baron
-11,2022-08-09,-190.92,Transakcia kartou,,"Nákup: FACEBK RB9WEETZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  190.92 EUR",,4317,,"Nákup: FACEBK RB9WEETZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  190.92 EUR"
-12,2022-08-08,10000.0,Bezhotovostný príjem,"Fiabánová Anna, RNDr",/DO2022-08-07/SP,,,,"Fiabánová Anna, RNDr"
-13,2022-08-07,-90.72,Bezhotovostná platba,,platba fa c. 2022354,0308,2022354,,KRUPA print BIZ s.r.o. - tlač letáky
-14,2022-08-03,300.0,Bezhotovostný príjem,"Tomašec Marian, Ing.",/DO2022-08-02/SPPodpora,,,,"Tomašec Marian, Ing."
-15,2022-08-02,-107.11,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  107.11 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  107.11 EUR"
-16,2022-08-01,1000.0,Bezhotovostný príjem,"Sukupčák Martin, Ing",/DO2022-07-31/SPpodpora,,,,"Sukupčák Martin, Ing"
-17,2022-07-30,-270.0,Transakcia kartou,,"Nákup: FACEBK 883VWEXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.7.2022, částka  270.00 EUR",,4317,,"Nákup: FACEBK 883VWEXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.7.2022, částka  270.00 EUR"
-18,2022-07-27,-1625.64,Bezhotovostná platba,,platba fa c. PF20220067,0008,20220067,,"L""FABRICA, s.r.o. - zaloha na vyrobu promovybavenia"
-19,2022-07-27,-962.4,Bezhotovostná platba,,platba fa. 20210028,,20210028,,"Richard Kohler s.r.o. - fotografické práce, digitálne snímky"
-20,2022-07-19,-540.0,Bezhotovostná platba,,platba fa c. 058/2022,0308,0582022,,Profigrafik.sk s.r.o. - grafické práce
-21,2022-07-19,-759.79,Platba prevodom v rámci banky,,platba fa.c. 2022133,0308,2022133,,"Mouton, s.r.o. - reklamný textil s potlačou"
-22,2022-07-16,-87.0,Transakcia kartou,,"Nákup: FACEBK ZL6R5EP262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  87.00 EUR",,4317,,"Nákup: FACEBK ZL6R5EP262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  87.00 EUR"
-23,2022-07-09,-170.92,Transakcia kartou,,"Nákup: FACEBK G9FJ4E3262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.7.2022, částka  170.92 EUR",,4317,,"Nákup: FACEBK G9FJ4E3262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.7.2022, částka  170.92 EUR"
-24,2022-07-05,-682.6,Bezhotovostná platba,,platba fa c.20210025,,20210025,,"Richard Kohler, s.r.o. - digitálne snímky, fotografické služby"
-25,2022-07-05,-601.2,Bezhotovostná platba,,"platba fa.c, 2235107090",0308,2235107090,,"Petit Press, a.s. - platená inzercia MY"
-26,2022-07-05,-120.0,Bezhotovostná platba,,platba fa c.20220019,0308,20220019,,NEO-TECH s.r.o. - výroba a strih audio vizuálneho záznamu
-27,2022-07-02,-293.98,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.7.2022, částka  293.98 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.7.2022, částka  293.98 EUR"
-28,2022-06-24,-350.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.6.2022, částka  350.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.6.2022, částka  350.00 EUR"
-29,2022-06-22,-270.0,Transakcia kartou,,"Nákup: FACEBK 9SHFQDF262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.6.2022, částka  270.00 EUR",,4317,,"Nákup: FACEBK 9SHFQDF262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.6.2022, částka  270.00 EUR"
-30,2022-06-21,-995.78,Bezhotovostná platba,,platba fa 20220003,,20220003,,Juraj Tajcnar - grafické práce
-31,2022-06-20,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 19.6.2022, částka  200.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 19.6.2022, částka  200.00 EUR"
-32,2022-06-18,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  50.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  50.00 EUR"
-33,2022-06-18,-10.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  10.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  10.00 EUR"
-34,2022-06-16,-672.0,Bezhotovostná platba,,platba fa 300220540,,300220540,,"PUBLISHING HOUSE, a.s. - plošná inzercia P-2906"
-35,2022-06-16,-2016.0,Bezhotovostná platba,,platba fa 100220007,,100220007,,"PUBLISHING HOUSE, a.s. - záloha k plošnej inzercii"
-36,2022-06-16,-1120.0,Bezhotovostná platba,,platba fa O51/2022,,0512022,,Profigrafik.sk s.r.o. - dizajn manual kampane
-37,2022-06-16,-2500.0,Platba prevodom v rámci banky,,platba fa 2022003,0308,2022003,,"Inako, s.r.o. - marketingové poradenstvo"
-38,2022-06-09,-200.6,Transakcia kartou,,"Nákup: FACEBK 2Q4WZCT262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.6.2022, částka  200.60 EUR",,4317,,"Nákup: FACEBK 2Q4WZCT262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.6.2022, částka  200.60 EUR"
-39,2022-03-24,-6216.0,Bezhotovostná platba,,platba fa 220100066,0308,220100066,,"2muse, s.r.o. - telefonický zber dát"
-40,2022-03-17,-2940.0,Bezhotovostná platba,,platba fa c.22VF00061,0308,2200061,,"MEDIAN SK, s.r.o - skupinova diskusia"
-41,2022-03-15,25000.0,Bezhotovostný príjem,"Fiabánová Anna, RNDr",/DO2022-03-14/SPvklad na ucet Fiba,,,,"Fiabánová Anna, RNDr"
+0,2022-08-30,200.0,Bezhotovostný príjem,"Bittšanský Ladislav,",/DO2022-08-26/SPp. fiab,,,,"Bittšanský Ladislav,"
+1,2022-08-25,2800.0,Bezhotovostný príjem,FIABANE MICHAL,/DO2022-08-24/SPPodpora kampane - nemas za co. :),,,,FIABANE MICHAL
+2,2022-08-23,100.0,Bezhotovostný príjem,Adamčík Marcel,/DO2022-08-22/SPMarcel Adamcik podpora kampane,0558,7101038428,,Adamčík Marcel
+3,2022-08-23,100.0,Bezhotovostný príjem,Klub športového potá,/DO2022-08-22/SPpodpora kandidatúry na primatora mesta Zilina,,,,Klub športového potá
+4,2022-08-22,10.0,Bezhotovostný príjem,Marcela Benická,/DO2022-08-22/SP,0308,20220822,,Marcela Benická
+5,2022-08-22,50.0,Bezhotovostný príjem,Brokes Jan,"/DO2022-08-21/SPBroky, Not Provided",,,,Brokes Jan
+6,2022-08-21,-54.0,Bezhotovostná platba,,,0558,1510116181,2203079214,Mesto Žilina - daň za užívanie verejného priestranstva 27.07.2022 - 29.07.2022
+7,2022-08-21,-18.0,Bezhotovostná platba,,,0558,1510116181,,Mesto Žilina - daň za užívanie verejného priestranstva 25.07.2022
+8,2022-08-21,-685.0,Bezhotovostná platba,,platba fa c. 068/2022,,0682022,,Profigrafik.sk s.r.o. - grafické práce
+9,2022-08-19,350.0,Bezhotovostný príjem,BRNAKOVA ZUZANA,/DO2022-08-18/SPPodpora,,,,BRNAKOVA ZUZANA
+10,2022-08-18,-270.0,Transakcia kartou,,"Nákup: FACEBK 5SBPDFXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.8.2022, částka  270.00 EUR",,4317,,"Nákup: FACEBK 5SBPDFXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.8.2022, částka  270.00 EUR"
+11,2022-08-18,100.0,Bezhotovostný príjem,Vladimír Baron,/DO2022-08-18/SPvlado baron,,,,Vladimír Baron
+12,2022-08-09,-190.92,Transakcia kartou,,"Nákup: FACEBK RB9WEETZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  190.92 EUR",,4317,,"Nákup: FACEBK RB9WEETZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.8.2022, částka  190.92 EUR"
+13,2022-08-08,10000.0,Bezhotovostný príjem,"Fiabánová Anna, RNDr",/DO2022-08-07/SP,,,,"Fiabánová Anna, RNDr"
+14,2022-08-07,-90.72,Bezhotovostná platba,,platba fa c. 2022354,0308,2022354,,KRUPA print BIZ s.r.o. - tlač letáky
+15,2022-08-03,300.0,Bezhotovostný príjem,"Tomašec Marian, Ing.",/DO2022-08-02/SPPodpora,,,,"Tomašec Marian, Ing."
+16,2022-08-02,-107.11,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  107.11 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  107.11 EUR"
+17,2022-08-01,1000.0,Bezhotovostný príjem,"Sukupčák Martin, Ing",/DO2022-07-31/SPpodpora,,,,"Sukupčák Martin, Ing"
+18,2022-07-30,-270.0,Transakcia kartou,,"Nákup: FACEBK 883VWEXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.7.2022, částka  270.00 EUR",,4317,,"Nákup: FACEBK 883VWEXZ52,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.7.2022, částka  270.00 EUR"
+19,2022-07-27,-1625.64,Bezhotovostná platba,,platba fa c. PF20220067,0008,20220067,,"L""FABRICA, s.r.o. - zaloha na vyrobu promovybavenia"
+20,2022-07-27,-962.4,Bezhotovostná platba,,platba fa. 20210028,,20210028,,"Richard Kohler s.r.o. - fotografické práce, digitálne snímky"
+21,2022-07-19,-540.0,Bezhotovostná platba,,platba fa c. 058/2022,0308,0582022,,Profigrafik.sk s.r.o. - grafické práce
+22,2022-07-19,-759.79,Platba prevodom v rámci banky,,platba fa.c. 2022133,0308,2022133,,"Mouton, s.r.o. - reklamný textil s potlačou"
+23,2022-07-16,-87.0,Transakcia kartou,,"Nákup: FACEBK ZL6R5EP262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  87.00 EUR",,4317,,"Nákup: FACEBK ZL6R5EP262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.7.2022, částka  87.00 EUR"
+24,2022-07-09,-170.92,Transakcia kartou,,"Nákup: FACEBK G9FJ4E3262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.7.2022, částka  170.92 EUR",,4317,,"Nákup: FACEBK G9FJ4E3262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.7.2022, částka  170.92 EUR"
+25,2022-07-05,-682.6,Bezhotovostná platba,,platba fa c.20210025,,20210025,,"Richard Kohler, s.r.o. - digitálne snímky, fotografické služby"
+26,2022-07-05,-601.2,Bezhotovostná platba,,"platba fa.c, 2235107090",0308,2235107090,,"Petit Press, a.s. - platená inzercia MY"
+27,2022-07-05,-120.0,Bezhotovostná platba,,platba fa c.20220019,0308,20220019,,NEO-TECH s.r.o. - výroba a strih audio vizuálneho záznamu
+28,2022-07-02,-293.98,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.7.2022, částka  293.98 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.7.2022, částka  293.98 EUR"
+29,2022-06-24,-350.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.6.2022, částka  350.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.6.2022, částka  350.00 EUR"
+30,2022-06-22,-270.0,Transakcia kartou,,"Nákup: FACEBK 9SHFQDF262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.6.2022, částka  270.00 EUR",,4317,,"Nákup: FACEBK 9SHFQDF262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.6.2022, částka  270.00 EUR"
+31,2022-06-21,-995.78,Bezhotovostná platba,,platba fa 20220003,,20220003,,Juraj Tajcnar - grafické práce
+32,2022-06-20,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 19.6.2022, částka  200.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 19.6.2022, částka  200.00 EUR"
+33,2022-06-18,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  50.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  50.00 EUR"
+34,2022-06-18,-10.0,Transakcia kartou,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  10.00 EUR",,4317,,"Nákup: GOOGLE *ADS7242830201,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.6.2022, částka  10.00 EUR"
+35,2022-06-16,-672.0,Bezhotovostná platba,,platba fa 300220540,,300220540,,"PUBLISHING HOUSE, a.s. - plošná inzercia P-2906"
+36,2022-06-16,-2016.0,Bezhotovostná platba,,platba fa 100220007,,100220007,,"PUBLISHING HOUSE, a.s. - záloha k plošnej inzercii"
+37,2022-06-16,-1120.0,Bezhotovostná platba,,platba fa O51/2022,,0512022,,Profigrafik.sk s.r.o. - dizajn manual kampane
+38,2022-06-16,-2500.0,Platba prevodom v rámci banky,,platba fa 2022003,0308,2022003,,"Inako, s.r.o. - marketingové poradenstvo"
+39,2022-06-09,-200.6,Transakcia kartou,,"Nákup: FACEBK 2Q4WZCT262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.6.2022, částka  200.60 EUR",,4317,,"Nákup: FACEBK 2Q4WZCT262,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.6.2022, částka  200.60 EUR"
+40,2022-03-24,-6216.0,Bezhotovostná platba,,platba fa 220100066,0308,220100066,,"2muse, s.r.o. - telefonický zber dát"
+41,2022-03-17,-2940.0,Bezhotovostná platba,,platba fa c.22VF00061,0308,2200061,,"MEDIAN SK, s.r.o - skupinova diskusia"
+42,2022-03-15,25000.0,Bezhotovostný príjem,"Fiabánová Anna, RNDr",/DO2022-03-14/SPvklad na ucet Fiba,,,,"Fiabánová Anna, RNDr"
