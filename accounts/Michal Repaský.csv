@@ -1,14 +1,15 @@
 index,date,amount,account_name,message,vs
-0,2022-08-28,-9.0,Platba kartou,Platba kartou u obchodníka,****9941
-1,2022-08-27,-6.0,Platba kartou,Platba kartou u obchodníka,****9941
-2,2022-08-26,-2.0,Platba kartou,Platba kartou u obchodníka,****9941
+0,2022-08-30,-12.0,Platba kartou,Platba kartou u obchodníka,****9941
+1,2022-08-28,-9.0,Platba kartou,Platba kartou u obchodníka,****9941
+2,2022-08-27,-6.0,Platba kartou,Platba kartou u obchodníka,****9941
 3,2022-08-26,-2.0,Platba kartou,Platba kartou u obchodníka,****9941
-4,2022-08-25,-1.5,Platba kartou,Platba kartou u obchodníka,****9941
+4,2022-08-26,-2.0,Platba kartou,Platba kartou u obchodníka,****9941
 5,2022-08-25,-1.5,Platba kartou,Platba kartou u obchodníka,****9941
 6,2022-08-25,-1.5,Platba kartou,Platba kartou u obchodníka,****9941
-7,2022-08-24,-1000.0,,Reklamne video c.1,20220005
-8,2022-08-10,-720.0,,reklamne sluzby kampan Volby Repasky 1.9.-31.10.2022- 5ks bilboards,9202203
-9,2022-08-08,2000.0,Michal Repaský,,
-10,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-11,2022-07-29,-5.0,,Vedenie účtu,9
-12,2022-07-28,11000.0,Michal Repaský,,
+7,2022-08-25,-1.5,Platba kartou,Platba kartou u obchodníka,****9941
+8,2022-08-24,-1000.0,,Reklamne video c.1,20220005
+9,2022-08-10,-720.0,,reklamne sluzby kampan Volby Repasky 1.9.-31.10.2022- 5ks bilboards,9202203
+10,2022-08-08,2000.0,Michal Repaský,,
+11,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+12,2022-07-29,-5.0,,Vedenie účtu,9
+13,2022-07-28,11000.0,Michal Repaský,,
