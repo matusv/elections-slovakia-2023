@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Zdenko Čambal,2022-08-16,9900.0,EUR,Z.C.VOLBY 2022,Bezhotovostný vklad,150822,
+1,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-07-31,-2.13,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,Zdenko Čambal,2022-07-22,9900.0,EUR,VOLBY 2022,Bezhotovostný vklad,210722,
