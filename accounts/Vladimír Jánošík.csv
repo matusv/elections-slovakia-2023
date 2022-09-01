@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,EXO Hosting,2022-08-24,-35.74,EUR,Doména vladojanosik.sk,Okamžitá platba (EB),2208929438,
-1,"Jánošík Vladimír,Jánošíková Daniela",2022-08-24,150.0,EUR,vklad,Bezhotovostný vklad,,
+0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,EXO Hosting,2022-08-24,-35.74,EUR,Doména vladojanosik.sk,Okamžitá platba (EB),2208929438,
+2,"Jánošík Vladimír,Jánošíková Daniela",2022-08-24,150.0,EUR,vklad,Bezhotovostný vklad,,

@@ -1,6 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"REGIONPRESS, s.r.o.",2022-08-20,-731.4,EUR,REKLAMA PRIEVIDZSKO,Okamžitá platba (EB),134220306,
-1,"euroAWK, spol s r.o.",2022-08-18,-1284.0,EUR,Prenájom CLV,Platobný príkaz na úhradu / FIT 2.0 (EB),2270378,
-2,"euroAWK, spol s r.o.",2022-08-18,-312.0,EUR,Kampan,Platobný príkaz na úhradu / FIT 2.0 (EB),2270367,
-3,BigMedia s.r.o,2022-08-18,-504.0,EUR,Reklamná sluzba,Platobný príkaz na úhradu / FIT 2.0 (EB),122290231,
-4,"Stopková Martina, Ing.Mgr.",2022-08-17,4000.0,EUR,volby 2022,Bezhotovostný vklad,,
+0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-08-31,-3.29,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,"REGIONPRESS, s.r.o.",2022-08-20,-731.4,EUR,REKLAMA PRIEVIDZSKO,Okamžitá platba (EB),134220306,
+3,"euroAWK, spol s r.o.",2022-08-18,-1284.0,EUR,Prenájom CLV,Platobný príkaz na úhradu / FIT 2.0 (EB),2270378,
+4,"euroAWK, spol s r.o.",2022-08-18,-312.0,EUR,Kampan,Platobný príkaz na úhradu / FIT 2.0 (EB),2270367,
+5,BigMedia s.r.o,2022-08-18,-504.0,EUR,Reklamná sluzba,Platobný príkaz na úhradu / FIT 2.0 (EB),122290231,
+6,"Stopková Martina, Ing.Mgr.",2022-08-17,4000.0,EUR,volby 2022,Bezhotovostný vklad,,

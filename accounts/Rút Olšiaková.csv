@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,LUCENEC MESTO,2022-08-31,-1501.0,EUR,Ing.Rút Olšiaková inzercia v mestských novinách,Platobný príkaz na úhradu / FIT 2.0 (EB),20220183,
-1,"ŠTÚDIO s.r.o., Lučenec",2022-08-27,-108.0,EUR,"Fa.č.2022082, Ing. Rút Olšiaková, plagáty A2",Platobný príkaz na úhradu / FIT 2.0 (EB),,
-2,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,MANAGER - Ing.Jaroslav Ivan,2022-07-25,-519.98,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022074,
-4,Olšiaková Rút,2022-07-04,3000.0,EUR,Príspevok Ing. Rút Olšiaková- transparentný účet,Bezhotovostný vklad,,
+0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,LUCENEC MESTO,2022-08-31,-1501.0,EUR,Ing.Rút Olšiaková inzercia v mestských novinách,Platobný príkaz na úhradu / FIT 2.0 (EB),20220183,
+2,"ŠTÚDIO s.r.o., Lučenec",2022-08-27,-108.0,EUR,"Fa.č.2022082, Ing. Rút Olšiaková, plagáty A2",Platobný príkaz na úhradu / FIT 2.0 (EB),,
+3,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,MANAGER - Ing.Jaroslav Ivan,2022-07-25,-519.98,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022074,
+5,Olšiaková Rút,2022-07-04,3000.0,EUR,Príspevok Ing. Rút Olšiaková- transparentný účet,Bezhotovostný vklad,,

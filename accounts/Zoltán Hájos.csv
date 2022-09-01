@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,HAJOS ZOLTAN,2022-07-29,1000,EUR,22985561,Bezhotovostný vklad,28072022,
+0,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,HAJOS ZOLTAN,2022-07-29,1000,EUR,22985561,Bezhotovostný vklad,28072022,

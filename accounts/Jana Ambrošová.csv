@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Dwelton s.r.o.,2022-08-03,1000,EUR,Podpora do volieb,Bezhotovostný vklad,,
+0,,2022-08-31,-6,EUR,Poplatok za vedenie účtu,Poplatok,,
+1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Dwelton s.r.o.,2022-08-03,1000,EUR,Podpora do volieb,Bezhotovostný vklad,,
