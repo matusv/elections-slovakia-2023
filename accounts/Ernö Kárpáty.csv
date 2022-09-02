@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Michal Zuber,2022-09-02,10,EUR,Kampan,Bezhotovostný vklad,,
+1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
