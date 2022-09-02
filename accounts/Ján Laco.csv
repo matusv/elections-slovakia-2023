@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-08-31,-2.9,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,ARTON s.r.o,2022-08-23,-1026.0,EUR,priestor reklama od 1.9 -30.10,Platobný príkaz na úhradu / FIT 2.0 (EB),220380,
-3,Laco Ján,2022-08-22,550.0,EUR,OO22082200024878,Bezhotovostný vklad - okamžitá platba,,
-4,Laco Ján,2022-08-21,550.0,EUR,OO22082100012343,Bezhotovostný vklad - okamžitá platba,,
+0,Laco Ján,2022-09-02,1000.0,EUR,OO22090200017466,Bezhotovostný vklad - okamžitá platba,,
+1,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-08-31,-2.9,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,ARTON s.r.o,2022-08-23,-1026.0,EUR,priestor reklama od 1.9 -30.10,Platobný príkaz na úhradu / FIT 2.0 (EB),220380,
+4,Laco Ján,2022-08-22,550.0,EUR,OO22082200024878,Bezhotovostný vklad - okamžitá platba,,
+5,Laco Ján,2022-08-21,550.0,EUR,OO22082100012343,Bezhotovostný vklad - okamžitá platba,,

@@ -1,39 +1,41 @@
 index,date,amount,account_name,message,vs
-0,2022-09-02,100.0,Peter Biro,,
-1,2022-08-31,6.0,,Odpustenie vedenie konta,9
-2,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-3,2022-08-30,-90.0,Platba kartou,SLOVENSKA POSTA BOJNICE,****1306
-4,2022-08-30,100.0,Martin Bednár,plan Bojnice,27082022
-5,2022-08-26,-262.08,Creative Studio s.r.o.,Tlac letaku 3 na kampan vratane pozvanky,2022237
-6,2022-08-18,200.0,"Habodász Matej, Ing.",LACO NA HRAD 2,
-7,2022-08-17,-744.0,ADRA ATTIS s.r.o.,2x baner volebny team a logo,11222175
-8,2022-08-16,-138.51,Platba kartou,"KAUFLAND 1720, PRIEVIDZA",****1306
-9,2022-08-16,-453.6,Creative Studio s.r.o.,"Tlac letakov, brozury na kampan, graf uprava",202232
-10,2022-08-15,-563.2,"VUB,A.S.",DDADALEX~U~ARPIHOPRIEVIDZA~~~~~~P1,****1306
-11,2022-08-15,-344.0,Platba kartou,MASIARSTVO U BO PRIEVIDZA 11:19,****1306
-12,2022-08-15,-90.0,Platba kartou,SLOVENSKA POSTA BOJNICE,****1306
-13,2022-08-15,-50.33,Platba kartou,MERKURY SHOP s. PRIEVIDZA 15:22,****1306
-14,2022-08-12,-55.2,Hriko s.r.o.,Smatana kampan potlac triciek,220100267
-15,2022-08-11,200.0,Radomir Roman,Lacko bude dobry primator,
-16,2022-08-02,-500.0,B62s.r.o.,Prenajom Billboardu na volby,20220003
-17,2022-08-01,200.0,PACESA PATRIK,Lacko na hrad,
-18,2022-07-29,6.0,,Odpustenie vedenie konta,9
-19,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-20,2022-07-28,200.0,"Habodász Matej, Ing.",LACO NA HRAD,
-21,2022-07-25,2000.0,"Kriváň Senčeková Daniela, Ing.",,25072022
-22,2022-07-22,-432.0,ADRA ATTIS s.r.o.,Volebny baner,11222161
-23,2022-07-06,100.0,"Valchovník Ivan, Ing.",May the force be with you,
-24,2022-07-04,100.0,Kóňa Ľudovít,Ludvik Kona,
-25,2022-07-04,200.0,Miroslav Zlocha,Miroslav Zlocha - drzim palce anech to vyjde,650420
-26,2022-06-30,6.0,,Odpustenie vedenie konta,9
-27,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
-28,2022-06-27,-7.6,"VUB,A.S.",DDDAFFER~S~R~O~~~PRIEVIDZA~~~~~~P1,****1306
-29,2022-06-27,-6.0,Platba kartou,FACEBK LYFNNEKR fb.me/ads,****1306
-30,2022-06-22,-156.0,Creative Studio s.r.o.,Tlac letakov na kampan,2022178
-31,2022-06-22,-196.0,Mgr. Andrea Blaho Zerola Atelier,Za fotky do kampane,202206004
-32,2022-05-31,6.0,,Odpustenie vedenie konta,9
-33,2022-05-31,-6.0,,Vedenie konta Transparentný účet,9
-34,2022-05-17,-3.5,,Poplatok Zmena PIN k PK cez ATM,1306
-35,2022-04-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-36,2022-04-29,-5.0,,Vedenie účtu,9
-37,2022-04-21,2000.0,LADISLAV SMATANA,Vklad majitela uctu,
+0,2022-09-02,-17.54,Platba kartou,Platba kartou u obchodníka,****1306
+1,2022-09-02,-66.5,Platba kartou,Platba kartou u obchodníka,****1306
+2,2022-09-02,100.0,Peter Biro,,
+3,2022-08-31,6.0,,Odpustenie vedenie konta,9
+4,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-08-30,-90.0,Platba kartou,SLOVENSKA POSTA BOJNICE,****1306
+6,2022-08-30,100.0,Martin Bednár,plan Bojnice,27082022
+7,2022-08-26,-262.08,Creative Studio s.r.o.,Tlac letaku 3 na kampan vratane pozvanky,2022237
+8,2022-08-18,200.0,"Habodász Matej, Ing.",LACO NA HRAD 2,
+9,2022-08-17,-744.0,ADRA ATTIS s.r.o.,2x baner volebny team a logo,11222175
+10,2022-08-16,-138.51,Platba kartou,"KAUFLAND 1720, PRIEVIDZA",****1306
+11,2022-08-16,-453.6,Creative Studio s.r.o.,"Tlac letakov, brozury na kampan, graf uprava",202232
+12,2022-08-15,-563.2,"VUB,A.S.",DDADALEX~U~ARPIHOPRIEVIDZA~~~~~~P1,****1306
+13,2022-08-15,-344.0,Platba kartou,MASIARSTVO U BO PRIEVIDZA 11:19,****1306
+14,2022-08-15,-90.0,Platba kartou,SLOVENSKA POSTA BOJNICE,****1306
+15,2022-08-15,-50.33,Platba kartou,MERKURY SHOP s. PRIEVIDZA 15:22,****1306
+16,2022-08-12,-55.2,Hriko s.r.o.,Smatana kampan potlac triciek,220100267
+17,2022-08-11,200.0,Radomir Roman,Lacko bude dobry primator,
+18,2022-08-02,-500.0,B62s.r.o.,Prenajom Billboardu na volby,20220003
+19,2022-08-01,200.0,PACESA PATRIK,Lacko na hrad,
+20,2022-07-29,6.0,,Odpustenie vedenie konta,9
+21,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+22,2022-07-28,200.0,"Habodász Matej, Ing.",LACO NA HRAD,
+23,2022-07-25,2000.0,"Kriváň Senčeková Daniela, Ing.",,25072022
+24,2022-07-22,-432.0,ADRA ATTIS s.r.o.,Volebny baner,11222161
+25,2022-07-06,100.0,"Valchovník Ivan, Ing.",May the force be with you,
+26,2022-07-04,100.0,Kóňa Ľudovít,Ludvik Kona,
+27,2022-07-04,200.0,Miroslav Zlocha,Miroslav Zlocha - drzim palce anech to vyjde,650420
+28,2022-06-30,6.0,,Odpustenie vedenie konta,9
+29,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
+30,2022-06-27,-7.6,"VUB,A.S.",DDDAFFER~S~R~O~~~PRIEVIDZA~~~~~~P1,****1306
+31,2022-06-27,-6.0,Platba kartou,FACEBK LYFNNEKR fb.me/ads,****1306
+32,2022-06-22,-156.0,Creative Studio s.r.o.,Tlac letakov na kampan,2022178
+33,2022-06-22,-196.0,Mgr. Andrea Blaho Zerola Atelier,Za fotky do kampane,202206004
+34,2022-05-31,6.0,,Odpustenie vedenie konta,9
+35,2022-05-31,-6.0,,Vedenie konta Transparentný účet,9
+36,2022-05-17,-3.5,,Poplatok Zmena PIN k PK cez ATM,1306
+37,2022-04-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+38,2022-04-29,-5.0,,Vedenie účtu,9
+39,2022-04-21,2000.0,LADISLAV SMATANA,Vklad majitela uctu,
