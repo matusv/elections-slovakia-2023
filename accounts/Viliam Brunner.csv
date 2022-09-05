@@ -1,9 +1,10 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,TOTH GABOR,2022-09-02,990.0,EUR,F001020920228771266,Bezhotovostný vklad,2022,2022
-1,Miroslav Cicko,2022-09-02,-500.0,EUR,Viliam Brunner - volebná kampaňSladkovičovo 14.10.2022 o 20.00,Okamžitá platba (EB),,
-2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-08-31,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-4,DANKOVA ANNA,2022-08-15,500.0,EUR,financny dar,Bezhotovostný vklad,,
-5,BENDE ALEXANDER,2022-08-12,2000.0,EUR,23114197,Bezhotovostný vklad,,
-6,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-7,,2022-07-31,-3.68,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,Ostrožanský Karol,2022-09-05,100.0,EUR,Karol Ostrožanský,Bezhotovostný vklad,12022,
+1,TOTH GABOR,2022-09-02,990.0,EUR,F001020920228771266,Bezhotovostný vklad,2022,2022
+2,Miroslav Cicko,2022-09-02,-500.0,EUR,Viliam Brunner - volebná kampaňSladkovičovo 14.10.2022 o 20.00,Okamžitá platba (EB),,
+3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-08-31,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,DANKOVA ANNA,2022-08-15,500.0,EUR,financny dar,Bezhotovostný vklad,,
+6,BENDE ALEXANDER,2022-08-12,2000.0,EUR,23114197,Bezhotovostný vklad,,
+7,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+8,,2022-07-31,-3.68,EUR,Poplatok za vedenie účtu,Poplatok,,
