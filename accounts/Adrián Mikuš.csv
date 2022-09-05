@@ -1,4 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-08-31,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,"Mikuš Adrián, Ing.",2022-08-25,6000.0,EUR,23282909,Bezhotovostný vklad,,
+0,"GRYF MEDIA,s.r.o.",2022-09-04,-1728.0,EUR,Mikuš Adrián,Okamžitá platba (EB),22031,
+1,"GRYF MEDIA,s.r.o.",2022-09-04,-1296.0,EUR,Mikuš Adrián,Okamžitá platba (EB),2200183,
+2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-08-31,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,"Mikuš Adrián, Ing.",2022-08-25,6000.0,EUR,23282909,Bezhotovostný vklad,,
