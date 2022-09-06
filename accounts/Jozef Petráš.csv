@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Mgr. Jozef Petráš,2022-08-25,2000,EUR,Vlastne prostriedky,Bezhotovostný vklad,,
+2,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-06-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,Petráš Jozef,2022-06-30,100,EUR,Vlastne prostriedky,Bezhotovostný vklad,,
