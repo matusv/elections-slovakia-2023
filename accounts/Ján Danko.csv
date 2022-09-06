@@ -1,0 +1,8 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,STRATEGY CONSULTING,2022-09-01,-5880.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),202221,
+1,"Danko Ján,Danková Helena",2022-09-01,7000.0,EUR,F001010920227933805,Bezhotovostný vklad,,
+2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,STARSKI,2022-08-13,-4560.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),22020105,
+4,EXO TECHNOLOGIES,2022-08-13,-39.12,EUR,,Okamžitá platba (EB),2208924551,
+5,Danko Ján,2022-08-13,5000.0,EUR,,Bezhotovostný vklad,,
+6,"Danko Ján,Danková Helena",2022-08-08,1000.0,EUR,F001080820220306556,Bezhotovostný vklad,,

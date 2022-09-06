@@ -1,24 +1,25 @@
 index,date,amount,account_name,message,vs
-0,2022-09-06,100.0,Převrátil Martin,,
-1,2022-08-31,6.0,,Odpustenie vedenie konta,9
-2,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-3,2022-08-30,-400.0,Obec Rovinka,dan za uzivanie priestranstva 13.8.2022,2514200048
-4,2022-08-30,-1443.0,KINGART s.r.o.,2ks bilboard a montaz,30082022
-5,2022-08-19,-467.8,ERINACEUS s.r.o.,Prenajom vycapneho zariadenia + instalacia - akcia 17.08.2022,2022117
-6,2022-08-19,-500.0,Hero&Pulc s.r.o.,Cateringove sluzby a technicke zabezpecenie akcia 17.08.2022,20220030
-7,2022-08-15,-240.0,Show portal,Kuzelnicke vystupenie 13.08.2022-kampan,551012022
-8,2022-08-12,-60.0,Alexander Mandlik,Odmena na zaklade prikaznej zmluvy zo dna 12.08.2022,
-9,2022-08-12,-60.0,Jaroslav Leiger,Odmena na Zaklade prikaznej zmluvy z dna 12.08.2022,
-10,2022-08-12,3000.0,Benko Peter,,
-11,2022-08-11,200.0,Převrátil Martin,,
-12,2022-08-08,-49.0,Platba kartou,SLOVENSKA POSTA ROVINKA,****5260
-13,2022-08-04,-12.0,Platba kartou,Obecny urad Rov ROVINKA 13:08,****5260
-14,2022-08-04,100.0,Převrátil Martin,,
-15,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
-16,2022-07-29,-0.44,,Poplatky za platby spolu,9
-17,2022-07-29,-5.0,,Vedenie účtu,9
-18,2022-07-26,-28.66,,,
-19,2022-07-18,-1.0,,Popl. Zobr. zostatku cez ATM,5260
-20,2022-07-18,-24.0,,,1022208736
-21,2022-07-15,100.0,Převrátil Martin,,
-22,2022-07-15,20.0,Benko Sandra,,
+0,2022-09-06,-100.0,Obec Rovinka,Prenajom hasicskeho auta akcia 09.09.2022,4013200110
+1,2022-09-06,100.0,Převrátil Martin,,
+2,2022-08-31,6.0,,Odpustenie vedenie konta,9
+3,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+4,2022-08-30,-400.0,Obec Rovinka,dan za uzivanie priestranstva 13.8.2022,2514200048
+5,2022-08-30,-1443.0,KINGART s.r.o.,2ks bilboard a montaz,30082022
+6,2022-08-19,-467.8,ERINACEUS s.r.o.,Prenajom vycapneho zariadenia + instalacia - akcia 17.08.2022,2022117
+7,2022-08-19,-500.0,Hero&Pulc s.r.o.,Cateringove sluzby a technicke zabezpecenie akcia 17.08.2022,20220030
+8,2022-08-15,-240.0,Show portal,Kuzelnicke vystupenie 13.08.2022-kampan,551012022
+9,2022-08-12,-60.0,Alexander Mandlik,Odmena na zaklade prikaznej zmluvy zo dna 12.08.2022,
+10,2022-08-12,-60.0,Jaroslav Leiger,Odmena na Zaklade prikaznej zmluvy z dna 12.08.2022,
+11,2022-08-12,3000.0,Benko Peter,,
+12,2022-08-11,200.0,Převrátil Martin,,
+13,2022-08-08,-49.0,Platba kartou,SLOVENSKA POSTA ROVINKA,****5260
+14,2022-08-04,-12.0,Platba kartou,Obecny urad Rov ROVINKA 13:08,****5260
+15,2022-08-04,100.0,Převrátil Martin,,
+16,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
+17,2022-07-29,-0.44,,Poplatky za platby spolu,9
+18,2022-07-29,-5.0,,Vedenie účtu,9
+19,2022-07-26,-28.66,,,
+20,2022-07-18,-1.0,,Popl. Zobr. zostatku cez ATM,5260
+21,2022-07-18,-24.0,,,1022208736
+22,2022-07-15,100.0,Převrátil Martin,,
+23,2022-07-15,20.0,Benko Sandra,,
