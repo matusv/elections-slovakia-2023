@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Nemšovský Spravodajca,2022-09-07,-100,EUR,Juraj Krištofovič - voľby 2022,Okamžitá platba (EB),11,
-1,Juraj Krištofovič,2022-09-07,550,EUR,Vlastna podpora volebnej kampane,Bezhotovostný vklad - okamžitá platba,,
-2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Lajka ADV s.r.o,2022-09-07,-396,EUR,Juraj Krištofovič volby 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),2022238922,
+1,Nemšovský Spravodajca,2022-09-07,-100,EUR,Juraj Krištofovič - voľby 2022,Okamžitá platba (EB),11,
+2,Juraj Krištofovič,2022-09-07,550,EUR,Vlastna podpora volebnej kampane,Bezhotovostný vklad - okamžitá platba,,
+3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
