@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Nemšovský Spravodajca,2022-09-07,-100,EUR,Juraj Krištofovič - voľby 2022,Okamžitá platba (EB),11,
+1,Juraj Krištofovič,2022-09-07,550,EUR,Vlastna podpora volebnej kampane,Bezhotovostný vklad - okamžitá platba,,
+2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
