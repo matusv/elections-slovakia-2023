@@ -165,7 +165,7 @@ index;name;typ volieb;samospráva;num_incoming;num_outgoing;sum_incoming;sum_out
 24;Martin Chren;miestne;Bratislava - Ružinov;5;11;42100.0;-258.39;41841.61;8420.0;-23.49;4;10525.0;BA;1662301366.1736;https://www.transparentneucty.sk/#/ucet/SK5909000000005188209617;;;
 31;Vladimír Píš;miestne;Dunajská Lužná;16;19;5497.900000000001;-1728.6899999999998;3769.210000000001;343.61875000000003;-90.9836842105263;10;549.7900000000001;BA;1662301366.28599;https://ib.vub.sk/pch/transparentne-ucty?iban=SK4802000000004603477754;;;
 41;Vladimír Bakita;;;1;0;20.0;0.0;20.0;20.0;-1.0;1;20.0;TT;1662301366.382506;https://ib.fio.sk/ib/transparent?a=2602297664;;;
-47;Zdenko Čambal;miestne / župné;Holíč / Trnavský samosprávny kraj;2;4;19800.0;-18.13;19781.87;9900.0;-4.5325;1;19800.0;TT;1662301366.4437351;https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849;;;
+47;Zdenko Čambal;miestne;Holíč;2;4;19800.0;-18.13;19781.87;9900.0;-4.5325;1;19800.0;TT;1662301366.4437351;https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849;;;
 48;Edita Červeňová;;;0;1;0.0;-5.0;-5.0;-1.0;-5.0;0;-1.0;TT;1662301366.4498932;https://www.transparentneucty.sk/#/ucet/SK7509000000005194337498;;;
 51;Peter Jančovič;miestne;Piešťany;1;5;1600.0;-47.6;1552.4;1600.0;-9.52;1;1600.0;TT;1662301366.484239;https://www.transparentneucty.sk/#/ucet/SK6509000000005190829479;;;
 53;Peter Kolek;miestne;Galanta;5;0;5480.0;0.0;5480.0;1096.0;-1.0;5;1096.0;TT;1662301366.498972;https://ib.fio.sk/ib/transparent?a=2202198712;;;
@@ -193,4 +193,5 @@ index;name;typ volieb;samospráva;num_incoming;num_outgoing;sum_incoming;sum_out
 183;Štefan Lasky;miestne;Košice;5;17;20000.0;-17761.399999999998;2238.600000000002;4000.0;-1044.7882352941176;4;5000.0;KE;1662301368.127761;https://www.transparentneucty.sk/#/ucet/SK9309000000005190196341;;;
 186;Marián Sejna;miestne;Sobrance;2;5;800.0;-71.42;728.58;400.0;-14.284;1;800.0;KE;1662301368.186302;https://www.transparentneucty.sk/#/ucet/SK0909000000005192562907;;;
 188;Dušana Sobodová;;;0;1;0.0;-5.0;-5.0;-1.0;-5.0;0;-1.0;KE;1662301368.207597;https://www.transparentneucty.sk/#/ucet/SK9009000000005193999086;;;
+199;Zdenko Čambal;župné;Trnavský samosprávny kraj;2;4;19800.0;-18.13;19781.87;9900.0;-4.5325;1;19800.0;TT;1662301366.4437351;https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849;;;
 ;;;;;;;;;;;;;;;;;;
