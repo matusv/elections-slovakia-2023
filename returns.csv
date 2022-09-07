@@ -3,12 +3,12 @@ index,index,date,amount,account_name,message,vs,name
 1,50,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
 2,11,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
 3,18,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
-4,46,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
-5,47,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
-6,45,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-7,16,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-8,0,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-9,1,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
+4,50,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
+5,51,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
+6,48,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+7,19,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+8,3,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+9,4,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
 10,18,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 11,0,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 12,182,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
