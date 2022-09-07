@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,F.L.R. INVEST s.r.o.ZC,2022-09-06,-144,EUR,prenájom rekl.plochy-voľby 2022,Okamžitá platba (EB),10220051,
-1,GREGER JAN,2022-09-01,200,EUR,Ján a Jolka Gregerova,Bezhotovostný vklad,2022,
-2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,"MISTRO, s.r.o. Nová Baňa",2022-09-07,-696,EUR,prenájom bilbordov a tlač volby2022,Okamžitá platba (EB),22020109,
+1,F.L.R. INVEST s.r.o.ZC,2022-09-06,-144,EUR,prenájom rekl.plochy-voľby 2022,Okamžitá platba (EB),10220051,
+2,GREGER JAN,2022-09-01,200,EUR,Ján a Jolka Gregerova,Bezhotovostný vklad,2022,
+3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
