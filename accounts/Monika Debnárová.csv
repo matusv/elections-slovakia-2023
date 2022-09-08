@@ -1,6 +1,7 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-08,150.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-07/SPna volby,,,,DEBNAROVA MONIKA
-1,2022-09-07,-180.0,Bezhotovostná platba,,,,,,fotografie volby
-2,2022-09-06,400.0,Bezhotovostný príjem,Jiřina Perényiová,"/DO2022-09-05/SPpríspevok na voľby 2022, J. Perényiová",,29102022,,Jiřina Perényiová
-3,2022-08-22,500.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-08-22/SPna volby,,,,DEBNAROVA MONIKA
-4,2022-08-22,300.0,Bezhotovostný príjem,"Debnár Jozef, Ing.",/DO2022-08-20/SPPrispevok na volby 2022,,,,"Debnár Jozef, Ing."
+0,2022-09-08,-1152.0,Bezhotovostná platba,,,0308,12120541,,bilboardova kampan volby
+1,2022-09-08,150.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-07/SPna volby,,,,DEBNAROVA MONIKA
+2,2022-09-07,-180.0,Bezhotovostná platba,,,,,,fotografie volby
+3,2022-09-06,400.0,Bezhotovostný príjem,Jiřina Perényiová,"/DO2022-09-05/SPpríspevok na voľby 2022, J. Perényiová",,29102022,,Jiřina Perényiová
+4,2022-08-22,500.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-08-22/SPna volby,,,,DEBNAROVA MONIKA
+5,2022-08-22,300.0,Bezhotovostný príjem,"Debnár Jozef, Ing.",/DO2022-08-20/SPPrispevok na volby 2022,,,,"Debnár Jozef, Ing."
