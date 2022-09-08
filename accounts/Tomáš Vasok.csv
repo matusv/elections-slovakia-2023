@@ -1,6 +1,7 @@
 index,date,amount,account_name,message,vs
-0,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
-1,2022-09-05,-150.0,,,
-2,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-3,2022-08-31,-5.0,,Vedenie účtu,9
-4,2022-08-31,500.0,Tomáš VASOK,,
+0,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
+1,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
+2,2022-09-05,-150.0,,,
+3,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+4,2022-08-31,-5.0,,Vedenie účtu,9
+5,2022-08-31,500.0,Tomáš VASOK,,
