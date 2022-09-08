@@ -1,10 +1,11 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-23,50.0,Bezhotovostný príjem,CERNAN PETER,/DO2022-08-22/SPPrispevok na kampan,,,,CERNAN PETER
-1,2022-08-22,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-19/SP lepsia zilina,,,,Mária Wágnerová
-2,2022-08-18,20.0,Bezhotovostný príjem,DARINA MIKUSOVA,/DO2022-08-17/SPDRZIM PALCE,,,,DARINA MIKUSOVA
-3,2022-08-18,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-17/SP maria wagnerova,,,,Mária Wágnerová
-4,2022-08-18,50.0,Bezhotovostný príjem,VALACH MAROS,za peknu Zilinu,,,,VALACH MAROS
-5,2022-08-18,10.0,Bezhotovostný príjem,DURIS JAROSLAV,/DO2022-08-17/SPJaroslav Duris,,,,DURIS JAROSLAV
-6,2022-07-11,20.0,Bezhotovostný príjem,Zuzana Grúňová,/DO2022-07-09/SPDržím palce.,,,,Zuzana Grúňová
-7,2022-07-01,200.0,Bezhotovostný príjem,MARTINKOVA IVETA,/DO2022-06-30/SPNasa Zilina - Nas zivot,,,,MARTINKOVA IVETA
-8,2022-05-30,10.0,Vklad v hotovosti,,,0558,,,
+0,2022-09-08,10.0,Bezhotovostný príjem,"Mikula Radoslav, Ing",/DO2022-09-07/SP,,,,"Mikula Radoslav, Ing"
+1,2022-08-23,50.0,Bezhotovostný príjem,CERNAN PETER,/DO2022-08-22/SPPrispevok na kampan,,,,CERNAN PETER
+2,2022-08-22,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-19/SP lepsia zilina,,,,Mária Wágnerová
+3,2022-08-18,20.0,Bezhotovostný príjem,DARINA MIKUSOVA,/DO2022-08-17/SPDRZIM PALCE,,,,DARINA MIKUSOVA
+4,2022-08-18,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-17/SP maria wagnerova,,,,Mária Wágnerová
+5,2022-08-18,50.0,Bezhotovostný príjem,VALACH MAROS,za peknu Zilinu,,,,VALACH MAROS
+6,2022-08-18,10.0,Bezhotovostný príjem,DURIS JAROSLAV,/DO2022-08-17/SPJaroslav Duris,,,,DURIS JAROSLAV
+7,2022-07-11,20.0,Bezhotovostný príjem,Zuzana Grúňová,/DO2022-07-09/SPDržím palce.,,,,Zuzana Grúňová
+8,2022-07-01,200.0,Bezhotovostný príjem,MARTINKOVA IVETA,/DO2022-06-30/SPNasa Zilina - Nas zivot,,,,MARTINKOVA IVETA
+9,2022-05-30,10.0,Vklad v hotovosti,,,0558,,,

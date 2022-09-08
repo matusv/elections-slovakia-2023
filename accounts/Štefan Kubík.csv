@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Štefan Kubík,2022-08-15,1000,EUR,,Plánovaný výber z TV - došlá úhrada,,
-2,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-3,Kubík Štefan,2022-07-25,70,EUR,F001250720222531203,Bezhotovostný vklad,,
+0,Matúš Opatovský,2022-09-08,500,EUR,DAR - kandidatura na primatora mesta (1/2),Bezhotovostný vklad,,
+1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Štefan Kubík,2022-08-15,1000,EUR,,Plánovaný výber z TV - došlá úhrada,,
+3,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,Kubík Štefan,2022-07-25,70,EUR,F001250720222531203,Bezhotovostný vklad,,
