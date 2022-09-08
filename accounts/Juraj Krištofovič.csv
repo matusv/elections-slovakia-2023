@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Gerek Igor, Ing.",2022-09-08,200,EUR,OO22090800031041,Bezhotovostný vklad - okamžitá platba,08092022,
-1,Lajka ADV s.r.o,2022-09-07,-396,EUR,Juraj Krištofovič volby 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),2022238922,
-2,Nemšovský Spravodajca,2022-09-07,-100,EUR,Juraj Krištofovič - voľby 2022,Okamžitá platba (EB),11,
-3,Juraj Krištofovič,2022-09-07,550,EUR,Vlastna podpora volebnej kampane,Bezhotovostný vklad - okamžitá platba,,
-4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Juraj Krištofovič,2022-09-08,100,EUR,Vlastna podpora volebnej kampane,Bezhotovostný vklad - okamžitá platba,,
+1,"Gerek Igor, Ing.",2022-09-08,200,EUR,OO22090800031041,Bezhotovostný vklad - okamžitá platba,08092022,
+2,Lajka ADV s.r.o,2022-09-07,-396,EUR,Juraj Krištofovič volby 2022,Platobný príkaz na úhradu / FIT 2.0 (EB),2022238922,
+3,Nemšovský Spravodajca,2022-09-07,-100,EUR,Juraj Krištofovič - voľby 2022,Okamžitá platba (EB),11,
+4,Juraj Krištofovič,2022-09-07,550,EUR,Vlastna podpora volebnej kampane,Bezhotovostný vklad - okamžitá platba,,
+5,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
