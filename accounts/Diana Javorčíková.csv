@@ -178,7 +178,7 @@ index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 174,2022-05-09,35.0,Bezhotovostný príjem,Rossová Lucia,/DO2022-05-09/SP,,20222906,,Rossová Lucia
 175,2022-05-09,-234.0,Bezhotovostná platba,,"TP22315003/005 - 22.4.2022 Banskoby
 stricke ECHO - 1/3 strany Diana Jav
-orcikova",0308,2235104288,,TP22315003/005 - 22.4.2022 Banskobystrické ECHO - 1/3 strany
+orcikova",0308,2235104288,,"Petit press, TP22315003/005 - 22.4.2022 Banskobystrické ECHO - 1/3 strany"
 176,2022-05-09,-709.2,Bezhotovostná platba,,"Prenajom reklamnych ploch, tlac pla
 gatov",,2022061,,"Prenájom reklamných plôch, tlač plagátov, Producentské centrum TOMAX film, s.r.o."
 177,2022-05-06,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-05-05/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
@@ -199,12 +199,12 @@ im Diana Javorcikova",,2022009,,"Videomedailóny členov tímu, január – apr�
 191,2022-04-23,-8.03,Transakcia kartou,,"Nákup: FACEBK QDBP3DTLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.4.2022, částka  8.03 EUR",,4195,,"Nákup: FACEBK QDBP3DTLC2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.4.2022, částka  8.03 EUR"
 192,2022-04-22,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-21/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
 193,2022-04-21,-242.5,Bezhotovostná platba,,Diana Javorcikova 20220012,,20220012,,"Odznaky, tricka s potlacou"
-194,2022-04-21,-360.0,Bezhotovostná platba,,Diana Javorcikova,,20220011,,"Ozvučenie a prenájom LED TV, 29.3. a 12.4.2022"
+194,2022-04-21,-360.0,Bezhotovostná platba,,Diana Javorcikova,,20220011,,"ORPHEA s.r.o., Ozvučenie a prenájom LED TV, 29.3. a 12.4.2022"
 195,2022-04-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-04-21/SPMartin Kvietok,,,,Martin Kvietok
 196,2022-04-21,30.0,Bezhotovostný príjem,Belička Ivan,/DO2022-04-20/SP,,20222821,,Belička Ivan
 197,2022-04-20,-234.0,Bezhotovostná platba,,"Diana Javorcikova TP22315003/004 -8
 .4.2022 Banskobystricke ECHO - 1/3
-strany",,2235103844,,TP22315003/004 - 8.4.2022 Banskobystrické ECHO - 1/3 strany
+strany",,2235103844,,"Petit press, TP22315003/004 - 8.4.2022 Banskobystrické ECHO - 1/3 strany"
 198,2022-04-19,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-04-14/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
 199,2022-04-19,50.0,Bezhotovostný príjem,Jozef Malatinec,/DO2022-04-19/SP na podporu vitazstva,,,,Jozef Malatinec
 200,2022-04-19,30.0,Bezhotovostný príjem,Irena Klimentová,/DO2022-04-16/SP,,,,Irena Klimentová
@@ -241,7 +241,7 @@ strany",,2235103844,,TP22315003/004 - 8.4.2022 Banskobystrické ECHO - 1/3 stran
 231,2022-03-25,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-24/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
 232,2022-03-24,50.0,Bezhotovostný príjem,"Cochová Silvia, Mgr.",/DO2022-03-23/SPPrispevok na kampan,,,,"Cochová Silvia, Mgr."
 233,2022-03-21,-234.0,Bezhotovostná platba,,"Diana Javorcikova TP22315003/003 -1
-1.3.2022 Banskobystricke ECHO",0308,2235102586,,TP22315003/003 - 11.3.2022 Banskobystrické ECHO
+1.3.2022 Banskobystricke ECHO",0308,2235102586,,"Petit press, TP22315003/003 - 11.3.2022 Banskobystrické ECHO"
 234,2022-03-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-03-21/SPMartin Kvietok,,,,Martin Kvietok
 235,2022-03-18,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-03-17/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
 236,2022-03-14,50.0,Bezhotovostný príjem,Dušan Vigaš,/DO2022-03-11/SP,,,,Dušan Vigaš
@@ -255,7 +255,7 @@ strany",,2235103844,,TP22315003/004 - 8.4.2022 Banskobystrické ECHO - 1/3 stran
 244,2022-03-04,30.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-03-03/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
 245,2022-02-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-02-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
 246,2022-02-25,3.0,Bezhotovostný príjem,JAVORCIK ROBERT,"/DO2022-02-24/SPPrispevok na kampan, Pr spevok na kampa",,,,JAVORCIK ROBERT
-247,2022-02-21,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235101382,,TP22315003/002 - 11.2.2022 Banskobystrické ECHO - 1/3 strany
+247,2022-02-21,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235101382,,"Petit press, TP22315003/002 - 11.2.2022 Banskobystrické ECHO - 1/3 strany"
 248,2022-02-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-02-21/SPMartin Kvietok,,,,Martin Kvietok
 249,2022-02-21,40.0,Bezhotovostný príjem,Miroslava Vranovská,/DO2022-02-18/SP,0968,,,Miroslava Vranovská
 250,2022-02-11,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-02-11/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
@@ -267,21 +267,21 @@ strany",,2235103844,,TP22315003/004 - 8.4.2022 Banskobystrické ECHO - 1/3 stran
 256,2022-01-31,10.0,Bezhotovostný príjem,JANA MOJSOVA,/DO2022-01-31/SPDAR JANA MOJSOVA,,,,JANA MOJSOVA
 257,2022-01-25,35.0,Bezhotovostný príjem,INGRID KRAJCOVICOVA,/DO2022-01-25/SPBYSTRICA MA NA VIAC - DAR,,0000002022,,INGRID KRAJCOVICOVA
 258,2022-01-21,35.0,Bezhotovostný príjem,Martin Kvietok,/DO2022-01-21/SPMartin Kvietok,,,,Martin Kvietok
-259,2022-01-19,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235100218,,ECHO januar 2022
+259,2022-01-19,-234.0,Bezhotovostná platba,,ECHO Diana Javorcikova,,2235100218,,"Petit press, ECHO januar 2022"
 260,2022-01-18,50.0,Bezhotovostný príjem,VRBICKY LUBOS,"/DO2022-01-17/SPPrispevok na kampan, Prispevok na kampan",,,,VRBICKY LUBOS
-261,2022-01-16,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,04012022,,tvorba videa
-262,2022-01-14,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,1012022,,tvorba videa
-263,2022-01-13,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,03012022,,tvorba videa
+261,2022-01-16,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,04012022,,"Ján Čorba foto video, tvorba videa"
+262,2022-01-14,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,1012022,,"Ján Čorba foto video, tvorba videa"
+263,2022-01-13,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,03012022,,"Ján Čorba foto video, tvorba videa"
 264,2022-01-12,300.0,Bezhotovostný príjem,"Nemčeková Ivica, PhD",/DO2022-01-11/SPkampan bystricamanaviac,,,,"Nemčeková Ivica, PhD"
-265,2021-12-28,-180.0,Bezhotovostná platba,,Diana Javorcikova,,2135116661,,ECHO december 2021
-266,2021-12-28,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,29122021,,video Kostiviarska
-267,2021-12-20,-100.0,Bezhotovostná platba,,Diana Javorcikova,,28122021,,video aktivne starnutie
+265,2021-12-28,-180.0,Bezhotovostná platba,,Diana Javorcikova,,2135116661,,"Petit Press, ECHO december 2021"
+266,2021-12-28,-120.0,Bezhotovostná platba,,video Diana Javorcikova,,29122021,,"Ján Čorba foto video, video Kostiviarska"
+267,2021-12-20,-100.0,Bezhotovostná platba,,Diana Javorcikova,,28122021,,"Ján Čorba foto video, video aktivne starnutie"
 268,2021-12-14,20.0,Bezhotovostný príjem,HOFBAUEROVA VERONIKA,/DO2021-12-13/SP,,,,HOFBAUEROVA VERONIKA
 269,2021-12-13,20.0,Bezhotovostný príjem,Lichanec Filip,/DO2021-12-11/SP,,,,Lichanec Filip
 270,2021-12-02,50.0,Bezhotovostný príjem,Fedor Papánek,"/DO2021-12-02/SPPríspevok na kampaň, Fedor Papanek, Bratislava",,,,Fedor Papánek
 271,2021-12-01,600.0,Bezhotovostný príjem,"Droppa Juraj, Ing.",/DO2021-11-30/SPdar,,,,"Droppa Juraj, Ing."
 272,2021-11-30,50.0,Bezhotovostný príjem,MOJZISOVA DANIELA,/DO2021-11-29/SP,,,,MOJZISOVA DANIELA
-273,2021-11-29,-300.0,Bezhotovostná platba,,Diana Javorcikova,,24112021,,video zaciatok kampane
+273,2021-11-29,-300.0,Bezhotovostná platba,,Diana Javorcikova,,24112021,,"Ján čorba foto video, video zaciatok kampane"
 274,2021-11-29,50.0,Bezhotovostný príjem,Michaela Lípová,/DO2021-11-29/SP,,,,Michaela Lípová
 275,2021-11-25,-53.1,Platba prevodom v rámci banky,,Diana Javorcikova,,21010335,,odznaky
 276,2021-11-24,50.0,Bezhotovostný príjem,Lucia Rendlová,/DO2021-11-23/SP,,,,Lucia Rendlová
