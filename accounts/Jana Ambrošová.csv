@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-07,-7.08,EUR,"B1363003672-44544 12** **** 8513;Wix.com ,Luxembourg ,LU ;02.09.2022 16:51:18 ;CashBack:0 EUR",Platba kartou,,
-1,,2022-09-03,-24.0,EUR,"B1360842536-44544 12** **** 8513;FACEBK *E2ALDHKTK2 ,fb.me/ads ,IE ;01.09.2022 21:40:28 ;CashBack:0 EUR",Platba kartou,,
-2,,2022-08-31,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-4,Dwelton s.r.o.,2022-08-03,1000.0,EUR,Podpora do volieb,Bezhotovostný vklad,,
+0,,2022-09-08,-36.0,EUR,"B1363655951-44544 12** **** 8513;FACEBK *U2TPZGTTK2 ,fb.me/ads ,IE ;06.09.2022 11:24:32 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-09-07,-7.08,EUR,"B1363003672-44544 12** **** 8513;Wix.com ,Luxembourg ,LU ;02.09.2022 16:51:18 ;CashBack:0 EUR",Platba kartou,,
+2,,2022-09-03,-24.0,EUR,"B1360842536-44544 12** **** 8513;FACEBK *E2ALDHKTK2 ,fb.me/ads ,IE ;01.09.2022 21:40:28 ;CashBack:0 EUR",Platba kartou,,
+3,,2022-08-31,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,Dwelton s.r.o.,2022-08-03,1000.0,EUR,Podpora do volieb,Bezhotovostný vklad,,
