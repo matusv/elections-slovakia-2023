@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,CPIN ANDREJ,2022-09-09,1500.0,EUR,IN,Bezhotovostný vklad,,
-1,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,,2022-08-31,-1.74,EUR,Poplatok za vedenie účtu,Poplatok,,
-3,,2022-08-23,-3.0,EUR,Poplatok za vklad hotovosti - Bežný účet,Poplatok,,
-4,,2022-08-23,73.0,EUR,,Vklad hotovosti,,
+0,CPIN ANDREJ,2022-09-09,-73.0,EUR,vratenie vkladu,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,CPIN ANDREJ,2022-09-09,1500.0,EUR,IN,Bezhotovostný vklad,,
+2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-08-31,-1.74,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,,2022-08-23,-3.0,EUR,Poplatok za vklad hotovosti - Bežný účet,Poplatok,,
+5,,2022-08-23,73.0,EUR,,Vklad hotovosti,,
