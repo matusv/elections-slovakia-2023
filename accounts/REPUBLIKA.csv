@@ -1,81 +1,82 @@
 index,date,amount,account_name,message,vs
 0,2022-09-09,-120.0,Tlačiareň Kubík,tlac letakov,220101082
 1,2022-09-09,12000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-2,2022-09-08,-1000.0,Andrea Koreňová - Zdravie a imunita,reklamna a propagacna cinnost podujatia,2022013
-3,2022-09-08,100.0,Peter Holý,"Peter Holy, Hlavna 94 Tesarske Mlynany - dar",
-4,2022-09-08,500.0,MLYNAR JAN,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",
-5,2022-09-07,-408.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22141
-6,2022-09-07,-300.0,Network engineering s.r.o.,priprava na tlac letakov,2202001
-7,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",
-8,2022-09-07,-408.0,Mária Prešinská,vratenie daru,
-9,2022-09-07,408.0,Maria Presinska,Dar,
-10,2022-09-06,-500.0,Jan Mlynar,Vratenie daru,
-11,2022-09-06,500.0,MLYNAR JAN,DAR,
-12,2022-09-05,-9.0,Platba kartou,FACEBK STGNKGFS fb.me/ads,****9638
-13,2022-09-02,-250.0,Henrich Bečka st.,Prenajom detskych atrakcii,52022
-14,2022-08-31,11.0,,Odpustenie vedenie konta,9
-15,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
-16,2022-08-30,-528.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22124
-17,2022-08-30,-504.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22125
-18,2022-08-30,499.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
-19,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270421
-20,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270420
-21,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082
-22,2022-08-30,-2880.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22108
-23,2022-08-30,-864.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22109
-24,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090
-25,2022-08-22,-180.0,euroAWK spol. s.r.o.,kampan,2270379
-26,2022-08-22,-1080.0,euroAWK spol. s.r.o.,kampan,2270381
-27,2022-08-22,-810.0,NUBIUM s.r.o.,billboardy,1220408
-28,2022-08-22,-152.4,BigMedia spol. s.r.o.,billboard,122290233
-29,2022-08-22,-840.0,euroAWK spol. s.r.o.,kampan,2270380
-30,2022-08-22,-194.4,"ISPA, spol. s.r.o.",billboardy,22950295
-31,2022-08-22,-60.0,euroAWK spol. s.r.o.,kampan,2270386
-32,2022-08-19,500.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
-33,2022-08-18,-732.0,"NUBIUM, s.r.o.","prenajom rekl. panelov, tlac plagatov",12120491
-34,2022-08-18,-504.0,"euroAWK, spol. s.r.o.",kampan,2270355
-35,2022-08-18,-192.0,GRYF reklamné štúdio s.r.o.,Reklamna plocha,22090
-36,2022-08-17,-2212.5,RCS reklama,nalepky,1020220429
-37,2022-08-17,504.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
-38,2022-08-16,-372.0,"BigMedia, spol. s.r.o.",Billboardy,
-39,2022-08-16,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-40,2022-08-16,316.8,"Pšenák Roman, Mgr.",2 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
-41,2022-08-15,3000.0,"Pšenák Roman, Mgr.",1 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
-42,2022-08-15,372.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
-43,2022-08-12,300.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
-44,2022-08-11,732.0,"Solčanský Dalimír, JUDr., PhD.","Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",2022
-45,2022-08-03,-1440.0,GRYF reklamné štúdio s.r.o.,Reklamne plochy,22081
-46,2022-08-03,-751.2,"ISPA, spol s.r.o.",Billboardy,
-47,2022-08-03,2191.2,CARNANSKY ADAM,"Adam Carnansky, Gorazdova 1723/6, 052 01 Spisska Nova Ves - dar",
-48,2022-07-29,11.0,,Odpustenie vedenie konta,9
-49,2022-07-29,-11.0,,Vedenie konta Transparentný účet P,9
-50,2022-07-26,-291.6,GL-REKLAMA s.r.o.,"tlac letakov, banner, tlac billboardu",20220025
-51,2022-07-26,192.0,Gánovská Michala,"Michala Ganovska, Rastislavova 3486/18, Poprad 058 01-DAR",
-52,2022-07-26,-192.0,Michaela Gánovská,Vratenie daru,
-53,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,
-54,2022-07-26,300.0,BENKO STEFAN,"Stefan Benko, Hlinkova 17, Kosice -Dar",
-55,2022-07-26,192.0,Gánovská Michala,Dar,
-56,2022-07-19,-1976.45,GL-REKLAMA s.r.o.,promo stoly REPUBLIKA,20220026
-57,2022-07-19,-3.5,,P-Zmena pod. vzoru právnická osoba,
-58,2022-07-14,-612.0,Dataprint sk s.r.o.,balony s potlacou REPUBLIKA,20220065
-59,2022-07-14,-346.8,Dataprint sk s.r.o.,tlac letakov A5 REPUBLIKA,20220064
-60,2022-07-14,5000.0,REPUBLIKA,vklad prostriedkov na transparentny ucet,
-61,2022-07-04,-3240.0,Arton,najom billboardov,220275
-62,2022-06-30,11.0,,Odpustenie vedenie konta,9
-63,2022-06-30,-11.0,,Vedenie konta Transparentný účet P,9
-64,2022-06-16,-78.8,Platba kartou,HNONLINE.SK BRATISLAVA,****9638
-65,2022-06-16,-75.9,Platba kartou,WWW.DENNIKN.SK BRATISLAVA,****9638
-66,2022-06-16,-48.0,Platba kartou,PREDPLATNE.DENN BRATISLAVA,****9638
-67,2022-06-16,-39.9,Platba kartou,WWW.SME.SK BRATISLAVA,****9638
-68,2022-06-14,-1996.8,"NUBIUM, sro",reklamne panely REPUBLIKA,22064295
-69,2022-06-14,-4200.0,"GRYF reklamne studio, sro",reklamne plochy REPUBLIKA,20221723
-70,2022-06-06,10000.0,REPUBLIKA,prevod na transparentny ucet,
-71,2022-05-31,11.0,,Odpustenie vedenie konta,9
-72,2022-05-31,-11.0,,Vedenie konta Transparentný účet P,9
-73,2022-05-06,-864.0,data print,plachta na stan,20220034
-74,2022-05-03,-116.4,dataprint,,20220032
-75,2022-04-29,11.0,,Odpustenie vedenie konta,9
-76,2022-04-29,-11.0,,Vedenie konta Transparentný účet P,9
-77,2022-04-21,1000.0,REPUBLIKA,prevod na transparentny ucet,
-78,2022-03-31,6.0,,Odpust.-popl.za platby a ved.úč/ko,9
-79,2022-03-31,-6.0,,Vedenie účtu,9
+2,2022-09-09,-117.13,TigerPrint,tlac letakov A6,20220707
+3,2022-09-08,-1000.0,Andrea Koreňová - Zdravie a imunita,reklamna a propagacna cinnost podujatia,2022013
+4,2022-09-08,100.0,Peter Holý,"Peter Holy, Hlavna 94 Tesarske Mlynany - dar",
+5,2022-09-08,500.0,MLYNAR JAN,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",
+6,2022-09-07,-408.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22141
+7,2022-09-07,-300.0,Network engineering s.r.o.,priprava na tlac letakov,2202001
+8,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",
+9,2022-09-07,-408.0,Mária Prešinská,vratenie daru,
+10,2022-09-07,408.0,Maria Presinska,Dar,
+11,2022-09-06,-500.0,Jan Mlynar,Vratenie daru,
+12,2022-09-06,500.0,MLYNAR JAN,DAR,
+13,2022-09-05,-9.0,Platba kartou,FACEBK STGNKGFS fb.me/ads,****9638
+14,2022-09-02,-250.0,Henrich Bečka st.,Prenajom detskych atrakcii,52022
+15,2022-08-31,11.0,,Odpustenie vedenie konta,9
+16,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
+17,2022-08-30,-528.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22124
+18,2022-08-30,-504.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22125
+19,2022-08-30,499.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
+20,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270421
+21,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270420
+22,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082
+23,2022-08-30,-2880.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22108
+24,2022-08-30,-864.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22109
+25,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090
+26,2022-08-22,-180.0,euroAWK spol. s.r.o.,kampan,2270379
+27,2022-08-22,-1080.0,euroAWK spol. s.r.o.,kampan,2270381
+28,2022-08-22,-810.0,NUBIUM s.r.o.,billboardy,1220408
+29,2022-08-22,-152.4,BigMedia spol. s.r.o.,billboard,122290233
+30,2022-08-22,-840.0,euroAWK spol. s.r.o.,kampan,2270380
+31,2022-08-22,-194.4,"ISPA, spol. s.r.o.",billboardy,22950295
+32,2022-08-22,-60.0,euroAWK spol. s.r.o.,kampan,2270386
+33,2022-08-19,500.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
+34,2022-08-18,-732.0,"NUBIUM, s.r.o.","prenajom rekl. panelov, tlac plagatov",12120491
+35,2022-08-18,-504.0,"euroAWK, spol. s.r.o.",kampan,2270355
+36,2022-08-18,-192.0,GRYF reklamné štúdio s.r.o.,Reklamna plocha,22090
+37,2022-08-17,-2212.5,RCS reklama,nalepky,1020220429
+38,2022-08-17,504.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
+39,2022-08-16,-372.0,"BigMedia, spol. s.r.o.",Billboardy,
+40,2022-08-16,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+41,2022-08-16,316.8,"Pšenák Roman, Mgr.",2 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
+42,2022-08-15,3000.0,"Pšenák Roman, Mgr.",1 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
+43,2022-08-15,372.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
+44,2022-08-12,300.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
+45,2022-08-11,732.0,"Solčanský Dalimír, JUDr., PhD.","Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",2022
+46,2022-08-03,-1440.0,GRYF reklamné štúdio s.r.o.,Reklamne plochy,22081
+47,2022-08-03,-751.2,"ISPA, spol s.r.o.",Billboardy,
+48,2022-08-03,2191.2,CARNANSKY ADAM,"Adam Carnansky, Gorazdova 1723/6, 052 01 Spisska Nova Ves - dar",
+49,2022-07-29,11.0,,Odpustenie vedenie konta,9
+50,2022-07-29,-11.0,,Vedenie konta Transparentný účet P,9
+51,2022-07-26,-291.6,GL-REKLAMA s.r.o.,"tlac letakov, banner, tlac billboardu",20220025
+52,2022-07-26,192.0,Gánovská Michala,"Michala Ganovska, Rastislavova 3486/18, Poprad 058 01-DAR",
+53,2022-07-26,-192.0,Michaela Gánovská,Vratenie daru,
+54,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,
+55,2022-07-26,300.0,BENKO STEFAN,"Stefan Benko, Hlinkova 17, Kosice -Dar",
+56,2022-07-26,192.0,Gánovská Michala,Dar,
+57,2022-07-19,-1976.45,GL-REKLAMA s.r.o.,promo stoly REPUBLIKA,20220026
+58,2022-07-19,-3.5,,P-Zmena pod. vzoru právnická osoba,
+59,2022-07-14,-612.0,Dataprint sk s.r.o.,balony s potlacou REPUBLIKA,20220065
+60,2022-07-14,-346.8,Dataprint sk s.r.o.,tlac letakov A5 REPUBLIKA,20220064
+61,2022-07-14,5000.0,REPUBLIKA,vklad prostriedkov na transparentny ucet,
+62,2022-07-04,-3240.0,Arton,najom billboardov,220275
+63,2022-06-30,11.0,,Odpustenie vedenie konta,9
+64,2022-06-30,-11.0,,Vedenie konta Transparentný účet P,9
+65,2022-06-16,-78.8,Platba kartou,HNONLINE.SK BRATISLAVA,****9638
+66,2022-06-16,-75.9,Platba kartou,WWW.DENNIKN.SK BRATISLAVA,****9638
+67,2022-06-16,-48.0,Platba kartou,PREDPLATNE.DENN BRATISLAVA,****9638
+68,2022-06-16,-39.9,Platba kartou,WWW.SME.SK BRATISLAVA,****9638
+69,2022-06-14,-1996.8,"NUBIUM, sro",reklamne panely REPUBLIKA,22064295
+70,2022-06-14,-4200.0,"GRYF reklamne studio, sro",reklamne plochy REPUBLIKA,20221723
+71,2022-06-06,10000.0,REPUBLIKA,prevod na transparentny ucet,
+72,2022-05-31,11.0,,Odpustenie vedenie konta,9
+73,2022-05-31,-11.0,,Vedenie konta Transparentný účet P,9
+74,2022-05-06,-864.0,data print,plachta na stan,20220034
+75,2022-05-03,-116.4,dataprint,,20220032
+76,2022-04-29,11.0,,Odpustenie vedenie konta,9
+77,2022-04-29,-11.0,,Vedenie konta Transparentný účet P,9
+78,2022-04-21,1000.0,REPUBLIKA,prevod na transparentny ucet,
+79,2022-03-31,6.0,,Odpust.-popl.za platby a ved.úč/ko,9
+80,2022-03-31,-6.0,,Vedenie účtu,9
