@@ -5,10 +5,10 @@ index,index,date,amount,account_name,message,vs,name
 3,18,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
 4,59,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
 5,60,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
-6,56,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-7,27,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-8,11,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-9,12,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
+6,57,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+7,28,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+8,12,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+9,13,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
 10,28,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 11,10,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 12,182,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
@@ -31,8 +31,8 @@ index,index,date,amount,account_name,message,vs,name
 29,7,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
 30,11,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
 31,12,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
-32,10,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
-33,11,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
+32,11,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
+33,12,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
 34,72,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
 35,67,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 36,4,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
