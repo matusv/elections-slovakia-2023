@@ -21,18 +21,18 @@ index,index,date,amount,account_name,message,vs,name
 19,45,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
 20,52,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
 21,44,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
-22,47,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
-23,52,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
+22,54,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
+23,59,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
 24,62,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
 25,63,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
 26,41,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
 27,51,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
 28,6,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
 29,7,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
-30,11,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
-31,12,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
-32,12,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
-33,13,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
+30,12,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
+31,13,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
+32,13,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
+33,14,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
 34,73,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
 35,68,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 36,4,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny

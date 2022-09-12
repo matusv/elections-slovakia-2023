@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-08-31,-2.03,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,BELICA MILAN,2022-08-24,3000.0,EUR,23272460,Bezhotovostný vklad,,
-3,,2022-08-23,-2.0,EUR,Poplatok za zmenu nakladania,Poplatok,,
-4,BELICA MILAN,2022-08-12,100.0,EUR,23114032,Bezhotovostný vklad,,
+0,HORKA MILOSLAV,2022-09-12,5000.0,EUR,23456203,Bezhotovostný vklad,,
+1,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-08-31,-2.03,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,BELICA MILAN,2022-08-24,3000.0,EUR,23272460,Bezhotovostný vklad,,
+4,,2022-08-23,-2.0,EUR,Poplatok za zmenu nakladania,Poplatok,,
+5,BELICA MILAN,2022-08-12,100.0,EUR,23114032,Bezhotovostný vklad,,
