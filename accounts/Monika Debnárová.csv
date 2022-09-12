@@ -1,12 +1,13 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-12,200.0,Bezhotovostný príjem,LUDMILA ZAJKOVA,/DO2022-09-12/SPPODPORA,,,,LUDMILA ZAJKOVA
-1,2022-09-12,20.0,Bezhotovostný príjem,BARBORA JASLOVSKA,/DO2022-09-09/SPPRISPEVOK,,,,BARBORA JASLOVSKA
-2,2022-09-12,20.0,Bezhotovostný príjem,IVAN KULA,/DO2022-09-09/SPPREVOD PROSTRIEDKOV,,,,IVAN KULA
-3,2022-09-12,100.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-12/SPna volby,,,,DEBNAROVA MONIKA
-4,2022-09-12,30.0,Bezhotovostný príjem,Marčišová Karin,/DO2022-09-09/SP,,,,Marčišová Karin
-5,2022-09-08,-1152.0,Bezhotovostná platba,,,0308,12120541,,bilboardova kampan volby
-6,2022-09-08,150.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-07/SPna volby,,,,DEBNAROVA MONIKA
-7,2022-09-07,-180.0,Bezhotovostná platba,,,,,,fotografie volby
-8,2022-09-06,400.0,Bezhotovostný príjem,Jiřina Perényiová,"/DO2022-09-05/SPpríspevok na voľby 2022, J. Perényiová",,29102022,,Jiřina Perényiová
-9,2022-08-22,500.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-08-22/SPna volby,,,,DEBNAROVA MONIKA
-10,2022-08-22,300.0,Bezhotovostný príjem,"Debnár Jozef, Ing.",/DO2022-08-20/SPPrispevok na volby 2022,,,,"Debnár Jozef, Ing."
+0,2022-09-12,-15.95,Transakcia kartou,,"Nákup: LIDL 291 BA, Pri letis,  Pri starom letisku, Bratislava, 83107, SVK, dne 11.9.2022, částka  15.95 EUR",,2380,,"Nákup: LIDL 291 BA, Pri letis,  Pri starom letisku, Bratislava, 83107, SVK, dne 11.9.2022, částka  15.95 EUR"
+1,2022-09-12,200.0,Bezhotovostný príjem,LUDMILA ZAJKOVA,/DO2022-09-12/SPPODPORA,,,,LUDMILA ZAJKOVA
+2,2022-09-12,20.0,Bezhotovostný príjem,BARBORA JASLOVSKA,/DO2022-09-09/SPPRISPEVOK,,,,BARBORA JASLOVSKA
+3,2022-09-12,20.0,Bezhotovostný príjem,IVAN KULA,/DO2022-09-09/SPPREVOD PROSTRIEDKOV,,,,IVAN KULA
+4,2022-09-12,100.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-12/SPna volby,,,,DEBNAROVA MONIKA
+5,2022-09-12,30.0,Bezhotovostný príjem,Marčišová Karin,/DO2022-09-09/SP,,,,Marčišová Karin
+6,2022-09-08,-1152.0,Bezhotovostná platba,,,0308,12120541,,bilboardova kampan volby
+7,2022-09-08,150.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-07/SPna volby,,,,DEBNAROVA MONIKA
+8,2022-09-07,-180.0,Bezhotovostná platba,,,,,,fotografie volby
+9,2022-09-06,400.0,Bezhotovostný príjem,Jiřina Perényiová,"/DO2022-09-05/SPpríspevok na voľby 2022, J. Perényiová",,29102022,,Jiřina Perényiová
+10,2022-08-22,500.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-08-22/SPna volby,,,,DEBNAROVA MONIKA
+11,2022-08-22,300.0,Bezhotovostný príjem,"Debnár Jozef, Ing.",/DO2022-08-20/SPPrispevok na volby 2022,,,,"Debnár Jozef, Ing."
