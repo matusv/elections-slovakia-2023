@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Šimon Jeseňák,2022-09-12,10,EUR,2225550000053474,Bezhotovostný vklad - okamžitá platba,,
-1,Mestska cast Bratislava - Stare Mesto,2022-09-12,-75,EUR,Prenajom priestorov,Okamžitá platba (EB),7320220904,
-2,Mlýnek Martin,2022-09-11,502,EUR,OO22091100005696,Bezhotovostný vklad - okamžitá platba,,
-3,Mlýnek Martin,2022-09-10,999,EUR,OO22091000008705,Bezhotovostný vklad - okamžitá platba,,
-4,Mlýnek Martin,2022-09-08,999,EUR,OO22090800041088,Bezhotovostný vklad - okamžitá platba,,
+0,Mlynkova Jana,2022-09-13,200,EUR,23467470,Bezhotovostný vklad,,
+1,Šimon Jeseňák,2022-09-12,10,EUR,2225550000053474,Bezhotovostný vklad - okamžitá platba,,
+2,Mestska cast Bratislava - Stare Mesto,2022-09-12,-75,EUR,Prenajom priestorov,Okamžitá platba (EB),7320220904,
+3,Mlýnek Martin,2022-09-11,502,EUR,OO22091100005696,Bezhotovostný vklad - okamžitá platba,,
+4,Mlýnek Martin,2022-09-10,999,EUR,OO22091000008705,Bezhotovostný vklad - okamžitá platba,,
+5,Mlýnek Martin,2022-09-08,999,EUR,OO22090800041088,Bezhotovostný vklad - okamžitá platba,,
