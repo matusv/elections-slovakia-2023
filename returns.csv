@@ -11,29 +11,31 @@ index,index,date,amount,account_name,message,vs,name
 9,23,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
 10,39,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 11,21,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
-12,196,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
-13,67,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
-14,187,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
-15,49,2022-08-25,40.0,MESTO DUBNICA NAD VÁHOM,Vratka duplicitnej platby - pouzitie dreveneho podia,6049022.0,SME RODINA
-16,177,2022-06-15,-1086.78,Roda press s.r.o.,Roda press s.r.o.,2022225.0,SME RODINA
-17,68,2022-08-16,1086.78,RODA PRESS S.R.O.,preplatok,2022225.0,SME RODINA
-18,55,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
-19,48,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
-20,54,2022-08-21,-4500.0,Ochrana Zamestnanca,Jul 2022,220100005.0,SME RODINA
-21,47,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
-22,56,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
-23,61,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
-24,110,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
-25,111,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
-26,89,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
-27,99,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
-28,6,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
-29,7,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
-30,12,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
-31,13,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
-32,13,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
-33,14,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
-34,74,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
-35,69,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
-36,4,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
-37,3,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
+12,197,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
+13,68,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
+14,188,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
+15,50,2022-08-25,40.0,MESTO DUBNICA NAD VÁHOM,Vratka duplicitnej platby - pouzitie dreveneho podia,6049022.0,SME RODINA
+16,178,2022-06-15,-1086.78,Roda press s.r.o.,Roda press s.r.o.,2022225.0,SME RODINA
+17,69,2022-08-16,1086.78,RODA PRESS S.R.O.,preplatok,2022225.0,SME RODINA
+18,56,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
+19,49,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
+20,55,2022-08-21,-4500.0,Ochrana Zamestnanca,Jul 2022,220100005.0,SME RODINA
+21,48,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
+22,0,2022-09-13,-200.0,Veronika Žilinčanová - IMAGELOOK,Vrátenie mylnej pladby,,SME RODINA
+23,15,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
+24,56,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
+25,61,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
+26,113,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
+27,114,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
+28,92,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
+29,102,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
+30,6,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
+31,7,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
+32,12,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
+33,13,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
+34,13,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
+35,14,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
+36,74,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
+37,69,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
+38,5,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
+39,4,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
