@@ -1,13 +1,14 @@
 index,date,amount,account_name,message,vs
-0,2022-09-09,100.0,Rastislav Uhlíř,,
-1,2022-08-31,6.0,,Odpustenie vedenie konta,9
-2,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-3,2022-08-30,-717.6,AZET,reklamny baner,1252022
-4,2022-08-30,-450.0,Nopus s. r. o,kampan bilboard,
-5,2022-08-26,1000.0,Jaroslav Hanzel,,80455
-6,2022-08-26,1000.0,Tomas Gresner,na kampan 2022,
-7,2022-07-29,6.0,,Odpustenie vedenie konta,9
-8,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-07-28,1000.0,Maroš Greschner,,
-10,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-11,2022-06-30,-5.0,,Vedenie účtu,9
+0,2022-09-12,-0.1,,Popl. Zobr. zostatku cez ATM VUB,3627
+1,2022-09-09,100.0,Rastislav Uhlíř,,
+2,2022-08-31,6.0,,Odpustenie vedenie konta,9
+3,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+4,2022-08-30,-717.6,AZET,reklamny baner,1252022
+5,2022-08-30,-450.0,Nopus s. r. o,kampan bilboard,
+6,2022-08-26,1000.0,Jaroslav Hanzel,,80455
+7,2022-08-26,1000.0,Tomas Gresner,na kampan 2022,
+8,2022-07-29,6.0,,Odpustenie vedenie konta,9
+9,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+10,2022-07-28,1000.0,Maroš Greschner,,
+11,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+12,2022-06-30,-5.0,,Vedenie účtu,9
