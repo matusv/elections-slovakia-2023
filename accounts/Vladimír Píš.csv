@@ -1,39 +1,37 @@
 index,date,amount,account_name,message,vs
-0,2022-09-12,-30.0,Platba kartou,Platba kartou u obchodníka,****7522
-1,2022-09-10,-20.0,Platba kartou,Platba kartou u obchodníka,****7522
-2,2022-09-09,-12.0,Platba kartou,FACEBK CZAQTFBL fb.me/ads,****7522
-3,2022-09-06,-12.0,Platba kartou,FACEBK VU5CXEXL fb.me/ads,****7522
-4,2022-09-05,-9.0,Platba kartou,FACEBK 8PR7VEXL fb.me/ads,****7522
-5,2022-09-05,-9.0,Platba kartou,FACEBK ANXNVE3M fb.me/ads,****7522
-6,2022-09-02,-56.06,Platba kartou,"HORNBACH BA, GA BRATISLAVA",****7522
-7,2022-09-02,-9.0,Platba kartou,FACEBK M4BBVFKL fb.me/ads,****7522
-8,2022-08-31,6.0,,Odpustenie vedenie konta,9
-9,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-10,2022-08-18,49.0,Vladimír Píš,Oprava platby,
-11,2022-07-29,6.0,,Odpustenie vedenie konta,9
-12,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-13,2022-07-22,-49.0,,poistne za obdobie 17.07.2022 - 17.07.2023,6821720328
-14,2022-07-13,-427.2,Promo activity sro,Prenajom stanov a setov Vladimir Pis,220236
-15,2022-07-13,-219.6,KO&KA,Letaky Vladimir Pis Skolska 63 Dunajska Luzna,29220436
-16,2022-07-11,-172.48,IMI TRADE s.r.o.,Vladimir Pis Skolska 63 Dunajska Luzna,
-17,2022-06-30,6.0,,Odpustenie vedenie konta,9
-18,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
-19,2022-06-30,-0.05,,POPLATKY ZA RECYKLACIU,9
-20,2022-06-28,-244.8,Ko&Ka,Vladimir Pis Letaky 1,29220406
-21,2022-06-22,25.8,Vladimír Píš,Oprava platby,
-22,2022-06-22,-201.6,"TOI TOI & DIXI, s.r.o.",Vladimir Pis - Dunajska Luzna,939220410
-23,2022-06-21,-25.8,bio bronze,obj 752583,752583
-24,2022-06-13,-270.0,Lubie Sutton photography,/DO2022-06-13/SP Vladimir Pis (foto na kampan),242022
-25,2022-06-13,300.0,"Gajdošech Peter, Ing.",Prispevok kandidata na kampan,20221029
-26,2022-06-10,300.0,Hercová Miroslava,,
-27,2022-06-10,300.0,"Mosný Martin, Ing.",prispevok kandidata,
-28,2022-06-10,300.0,BARATH MATUS,prispevok kandidata - VBF,
-29,2022-06-10,300.0,PETER PALAGA,PRISPEVOK KANDIDATA NA KAMPAN,
-30,2022-06-10,300.0,KAROVIC BRANISLAV,Prispevok kandidata na kampan,202206
-31,2022-06-10,300.0,LINDVAYOVA KATARINA,Katarina Lindvayova - prisevok na volebnu kampan,9
-32,2022-06-09,300.0,"Kučera Marián, Ing.",Marian Kucera - prispevok na kampan,
-33,2022-06-09,3000.0,Vladimír Píš,,
-34,2022-06-08,0.1,Peter Procházka,riesenie problemu,
-35,2022-05-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-36,2022-05-31,-5.0,,Vedenie účtu,9
-37,2022-05-31,-0.1,,POPLATKY ZA RECYKLACIU,9
+0,2022-09-09,-12.0,Platba kartou,FACEBK CZAQTFBL fb.me/ads,****7522
+1,2022-09-06,-12.0,Platba kartou,FACEBK VU5CXEXL fb.me/ads,****7522
+2,2022-09-05,-9.0,Platba kartou,FACEBK 8PR7VEXL fb.me/ads,****7522
+3,2022-09-05,-9.0,Platba kartou,FACEBK ANXNVE3M fb.me/ads,****7522
+4,2022-09-02,-56.06,Platba kartou,"HORNBACH BA, GA BRATISLAVA",****7522
+5,2022-09-02,-9.0,Platba kartou,FACEBK M4BBVFKL fb.me/ads,****7522
+6,2022-08-31,6.0,,Odpustenie vedenie konta,9
+7,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+8,2022-08-18,49.0,Vladimír Píš,Oprava platby,
+9,2022-07-29,6.0,,Odpustenie vedenie konta,9
+10,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+11,2022-07-22,-49.0,,poistne za obdobie 17.07.2022 - 17.07.2023,6821720328
+12,2022-07-13,-427.2,Promo activity sro,Prenajom stanov a setov Vladimir Pis,220236
+13,2022-07-13,-219.6,KO&KA,Letaky Vladimir Pis Skolska 63 Dunajska Luzna,29220436
+14,2022-07-11,-172.48,IMI TRADE s.r.o.,Vladimir Pis Skolska 63 Dunajska Luzna,
+15,2022-06-30,6.0,,Odpustenie vedenie konta,9
+16,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
+17,2022-06-30,-0.05,,POPLATKY ZA RECYKLACIU,9
+18,2022-06-28,-244.8,Ko&Ka,Vladimir Pis Letaky 1,29220406
+19,2022-06-22,25.8,Vladimír Píš,Oprava platby,
+20,2022-06-22,-201.6,"TOI TOI & DIXI, s.r.o.",Vladimir Pis - Dunajska Luzna,939220410
+21,2022-06-21,-25.8,bio bronze,obj 752583,752583
+22,2022-06-13,-270.0,Lubie Sutton photography,/DO2022-06-13/SP Vladimir Pis (foto na kampan),242022
+23,2022-06-13,300.0,"Gajdošech Peter, Ing.",Prispevok kandidata na kampan,20221029
+24,2022-06-10,300.0,Hercová Miroslava,,
+25,2022-06-10,300.0,"Mosný Martin, Ing.",prispevok kandidata,
+26,2022-06-10,300.0,BARATH MATUS,prispevok kandidata - VBF,
+27,2022-06-10,300.0,PETER PALAGA,PRISPEVOK KANDIDATA NA KAMPAN,
+28,2022-06-10,300.0,KAROVIC BRANISLAV,Prispevok kandidata na kampan,202206
+29,2022-06-10,300.0,LINDVAYOVA KATARINA,Katarina Lindvayova - prisevok na volebnu kampan,9
+30,2022-06-09,300.0,"Kučera Marián, Ing.",Marian Kucera - prispevok na kampan,
+31,2022-06-09,3000.0,Vladimír Píš,,
+32,2022-06-08,0.1,Peter Procházka,riesenie problemu,
+33,2022-05-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+34,2022-05-31,-5.0,,Vedenie účtu,9
+35,2022-05-31,-0.1,,POPLATKY ZA RECYKLACIU,9
