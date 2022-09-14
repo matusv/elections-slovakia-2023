@@ -1,40 +1,41 @@
 index,date,amount,account_name,message,vs
-0,2022-09-12,-30.0,Platba kartou,Platba kartou u obchodníka,****7522
-1,2022-09-13,-120.0,Pc micro - Ing. Jan Wittenberger,Sluzby,2022344
-2,2022-09-12,-20.0,"VUB,A.S.",DDFACEBK~FHKT4GKLfb.me/ads~~~~~~P1,****7522
-3,2022-09-09,-12.0,Platba kartou,FACEBK CZAQTFBL fb.me/ads,****7522
-4,2022-09-06,-12.0,Platba kartou,FACEBK VU5CXEXL fb.me/ads,****7522
-5,2022-09-05,-9.0,Platba kartou,FACEBK 8PR7VEXL fb.me/ads,****7522
-6,2022-09-05,-9.0,Platba kartou,FACEBK ANXNVE3M fb.me/ads,****7522
-7,2022-09-02,-56.06,Platba kartou,"HORNBACH BA, GA BRATISLAVA",****7522
-8,2022-09-02,-9.0,Platba kartou,FACEBK M4BBVFKL fb.me/ads,****7522
-9,2022-08-31,6.0,,Odpustenie vedenie konta,9
-10,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-11,2022-08-18,49.0,Vladimír Píš,Oprava platby,
-12,2022-07-29,6.0,,Odpustenie vedenie konta,9
-13,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-14,2022-07-22,-49.0,,poistne za obdobie 17.07.2022 - 17.07.2023,6821720328
-15,2022-07-13,-427.2,Promo activity sro,Prenajom stanov a setov Vladimir Pis,220236
-16,2022-07-13,-219.6,KO&KA,Letaky Vladimir Pis Skolska 63 Dunajska Luzna,29220436
-17,2022-07-11,-172.48,IMI TRADE s.r.o.,Vladimir Pis Skolska 63 Dunajska Luzna,
-18,2022-06-30,6.0,,Odpustenie vedenie konta,9
-19,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
-20,2022-06-30,-0.05,,POPLATKY ZA RECYKLACIU,9
-21,2022-06-28,-244.8,Ko&Ka,Vladimir Pis Letaky 1,29220406
-22,2022-06-22,25.8,Vladimír Píš,Oprava platby,
-23,2022-06-22,-201.6,"TOI TOI & DIXI, s.r.o.",Vladimir Pis - Dunajska Luzna,939220410
-24,2022-06-21,-25.8,bio bronze,obj 752583,752583
-25,2022-06-13,-270.0,Lubie Sutton photography,/DO2022-06-13/SP Vladimir Pis (foto na kampan),242022
-26,2022-06-13,300.0,"Gajdošech Peter, Ing.",Prispevok kandidata na kampan,20221029
-27,2022-06-10,300.0,Hercová Miroslava,,
-28,2022-06-10,300.0,"Mosný Martin, Ing.",prispevok kandidata,
-29,2022-06-10,300.0,BARATH MATUS,prispevok kandidata - VBF,
-30,2022-06-10,300.0,PETER PALAGA,PRISPEVOK KANDIDATA NA KAMPAN,
-31,2022-06-10,300.0,KAROVIC BRANISLAV,Prispevok kandidata na kampan,202206
-32,2022-06-10,300.0,LINDVAYOVA KATARINA,Katarina Lindvayova - prisevok na volebnu kampan,9
-33,2022-06-09,300.0,"Kučera Marián, Ing.",Marian Kucera - prispevok na kampan,
-34,2022-06-09,3000.0,Vladimír Píš,,
-35,2022-06-08,0.1,Peter Procházka,riesenie problemu,
-36,2022-05-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-37,2022-05-31,-5.0,,Vedenie účtu,9
-38,2022-05-31,-0.1,,POPLATKY ZA RECYKLACIU,9
+0,2022-09-14,-119.68,Platba kartou,Platba kartou u obchodníka,****7522
+1,2022-09-12,-30.0,Platba kartou,Platba kartou u obchodníka,****7522
+2,2022-09-13,-120.0,Pc micro - Ing. Jan Wittenberger,Sluzby,2022344
+3,2022-09-12,-20.0,"VUB,A.S.",DDFACEBK~FHKT4GKLfb.me/ads~~~~~~P1,****7522
+4,2022-09-09,-12.0,Platba kartou,FACEBK CZAQTFBL fb.me/ads,****7522
+5,2022-09-06,-12.0,Platba kartou,FACEBK VU5CXEXL fb.me/ads,****7522
+6,2022-09-05,-9.0,Platba kartou,FACEBK 8PR7VEXL fb.me/ads,****7522
+7,2022-09-05,-9.0,Platba kartou,FACEBK ANXNVE3M fb.me/ads,****7522
+8,2022-09-02,-56.06,Platba kartou,"HORNBACH BA, GA BRATISLAVA",****7522
+9,2022-09-02,-9.0,Platba kartou,FACEBK M4BBVFKL fb.me/ads,****7522
+10,2022-08-31,6.0,,Odpustenie vedenie konta,9
+11,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+12,2022-08-18,49.0,Vladimír Píš,Oprava platby,
+13,2022-07-29,6.0,,Odpustenie vedenie konta,9
+14,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+15,2022-07-22,-49.0,,poistne za obdobie 17.07.2022 - 17.07.2023,6821720328
+16,2022-07-13,-427.2,Promo activity sro,Prenajom stanov a setov Vladimir Pis,220236
+17,2022-07-13,-219.6,KO&KA,Letaky Vladimir Pis Skolska 63 Dunajska Luzna,29220436
+18,2022-07-11,-172.48,IMI TRADE s.r.o.,Vladimir Pis Skolska 63 Dunajska Luzna,
+19,2022-06-30,6.0,,Odpustenie vedenie konta,9
+20,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
+21,2022-06-30,-0.05,,POPLATKY ZA RECYKLACIU,9
+22,2022-06-28,-244.8,Ko&Ka,Vladimir Pis Letaky 1,29220406
+23,2022-06-22,25.8,Vladimír Píš,Oprava platby,
+24,2022-06-22,-201.6,"TOI TOI & DIXI, s.r.o.",Vladimir Pis - Dunajska Luzna,939220410
+25,2022-06-21,-25.8,bio bronze,obj 752583,752583
+26,2022-06-13,-270.0,Lubie Sutton photography,/DO2022-06-13/SP Vladimir Pis (foto na kampan),242022
+27,2022-06-13,300.0,"Gajdošech Peter, Ing.",Prispevok kandidata na kampan,20221029
+28,2022-06-10,300.0,Hercová Miroslava,,
+29,2022-06-10,300.0,"Mosný Martin, Ing.",prispevok kandidata,
+30,2022-06-10,300.0,BARATH MATUS,prispevok kandidata - VBF,
+31,2022-06-10,300.0,PETER PALAGA,PRISPEVOK KANDIDATA NA KAMPAN,
+32,2022-06-10,300.0,KAROVIC BRANISLAV,Prispevok kandidata na kampan,202206
+33,2022-06-10,300.0,LINDVAYOVA KATARINA,Katarina Lindvayova - prisevok na volebnu kampan,9
+34,2022-06-09,300.0,"Kučera Marián, Ing.",Marian Kucera - prispevok na kampan,
+35,2022-06-09,3000.0,Vladimír Píš,,
+36,2022-06-08,0.1,Peter Procházka,riesenie problemu,
+37,2022-05-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+38,2022-05-31,-5.0,,Vedenie účtu,9
+39,2022-05-31,-0.1,,POPLATKY ZA RECYKLACIU,9
