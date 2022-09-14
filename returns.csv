@@ -25,10 +25,10 @@ index,index,date,amount,account_name,message,vs,name
 23,15,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
 24,56,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
 25,61,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
-26,124,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
-27,125,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
-28,103,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
-29,113,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
+26,128,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
+27,129,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
+28,107,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
+29,117,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
 30,6,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
 31,7,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
 32,12,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
@@ -37,5 +37,5 @@ index,index,date,amount,account_name,message,vs,name
 35,14,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
 36,74,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
 37,69,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
-38,5,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
-39,4,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
+38,7,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
+39,6,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
