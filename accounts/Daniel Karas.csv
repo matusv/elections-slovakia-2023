@@ -1,6 +1,6 @@
 index,date,amount,account_name,message,vs
-0,2022-09-12,-657.6,,SEPA Europrevod/NonSEPAPrevod,20220190
-1,2022-09-12,-240.0,,SEPA Europrevod/NonSEPAPrevod,1020220007
+0,2022-09-12,-657.6,,/DO2022-09-12/SP,20220190
+1,2022-09-12,-240.0,,/DO2022-09-12/SP,1020220007
 2,2022-09-12,-432.0,,,2800000138
 3,2022-09-12,1500.0,Daniel Karas,,
 4,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
