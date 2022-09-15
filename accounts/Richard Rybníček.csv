@@ -1,7 +1,7 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
 0,2022-09-14,-384.0,Bezhotovostná platba,,uhrada faktury za reklamne plochy,,2270489,,euroAWK - úhrada faktúry za reklamné plochy
-1,2022-09-09,-288.0,Bezhotovostná platba,,uhrada faktury c.: 20223123,0308,20223123,,uhrada faktury c.: 20223123
-2,2022-09-08,-4000.0,Bezhotovostná platba,,uhrada faktury c.220100240,0308,220100240,,uhrada faktury c.220100240
+1,2022-09-09,-288.0,Bezhotovostná platba,,uhrada faktury c.: 20223123,0308,20223123,,uhrada faktury c.: 20223123 za reklamné plochy
+2,2022-09-08,-4000.0,Bezhotovostná platba,,uhrada faktury c.220100240,0308,220100240,,uhrada faktury c.220100240 - realizácia kvantitatívneho prieskumu:
 3,2022-09-08,30.0,Bezhotovostný príjem,Lalík Mária,/DO2022-09-07/SP,,,,Lalík Mária
 4,2022-08-30,1200.0,Bezhotovostný príjem,Ľubica Slopovská,/DO2022-08-29/SP,,,,Ľubica Slopovská
 5,2022-08-26,475.0,Bezhotovostný príjem,"Hozlár Peter, Ing.",/DO2022-08-25/SP,,,,"Hozlár Peter, Ing."
