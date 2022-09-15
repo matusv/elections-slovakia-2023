@@ -11,8 +11,8 @@ index,index,date,amount,account_name,message,vs,name
 9,2,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
 10,26,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
 11,27,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-12,39,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
-13,21,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
+12,41,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
+13,23,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 14,197,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
 15,68,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
 16,188,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
@@ -27,10 +27,10 @@ index,index,date,amount,account_name,message,vs,name
 25,15,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
 26,56,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
 27,61,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
-28,192,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
-29,193,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
-30,171,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
-31,181,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
+28,199,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
+29,200,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
+30,178,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
+31,188,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
 32,6,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
 33,7,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
 34,12,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
