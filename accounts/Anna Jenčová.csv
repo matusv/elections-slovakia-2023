@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,stoklasa,2022-09-06,-36.52,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2078891,
-1,Big media,2022-09-02,-144.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),122290221,
-2,"MVDr.,Mgr.Anna Jencova",2022-09-02,1700.0,EUR,,Bezhotovostný vklad,,
-3,,2022-08-31,-0.77,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,Papier servis,2022-09-16,-20.04,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220821,
+1,stoklasa,2022-09-06,-36.52,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2078891,
+2,Big media,2022-09-02,-144.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),122290221,
+3,"MVDr.,Mgr.Anna Jencova",2022-09-02,1700.0,EUR,,Bezhotovostný vklad,,
+4,,2022-08-31,-0.77,EUR,Poplatok za vedenie účtu,Poplatok,,

@@ -1,44 +1,45 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-15,-69.5,Transakcia kartou,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 14.9.2022, částka  69.50 EUR",,5706,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 14.9.2022, částka  69.50 EUR"
-1,2022-09-14,-1200.0,Bezhotovostná platba,,"reklama Seredsity.sk a Magazin Sere
+0,2022-09-16,-8.13,Transakcia kartou,,"Nákup: FACEBK 4EEB3G3T92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.9.2022, částka  8.13 EUR",,5706,,"Nákup: FACEBK 4EEB3G3T92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.9.2022, částka  8.13 EUR"
+1,2022-09-15,-69.5,Transakcia kartou,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 14.9.2022, částka  69.50 EUR",,5706,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 14.9.2022, částka  69.50 EUR"
+2,2022-09-14,-1200.0,Bezhotovostná platba,,"reklama Seredsity.sk a Magazin Sere
 dsity.sk",0308,220202,,reklama Seredsity.sk a Magazín Seredsity.sk
-2,2022-09-14,-700.0,Platba prevodom v rámci banky,,"MajkoDesignStudio, s.r.o.",0308,22200903,,reklama v médiu SOL
-3,2022-09-12,150.0,Bezhotovostný príjem,Hanus Michal,/DO2022-09-10/SPTy to das Ondrej,,,,Hanus Michal
-4,2022-09-10,-93.9,Transakcia kartou,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 9.9.2022, částka  93.90 EUR",,5706,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 9.9.2022, částka  93.90 EUR"
-5,2022-09-09,-90.0,Bezhotovostná platba,,tlac letak,0308,2022157,2022157,Foreko_tlač letáky
-6,2022-09-08,-20.0,Bezhotovostná platba,,vyhlasenie v rozhlase,0308,20220214,,vyhlasenie v rozhlase
-7,2022-09-06,-445.2,Bezhotovostná platba,,Reklamne plochy?BRANMEDIA,0308,1020220209,,BRANMEDIA_Kurbel_reklamné plochy
-8,2022-09-06,-93.0,Bezhotovostná platba,,Foreko tlac,0308,2022147,2022147,Foreko tlač poster
-9,2022-09-06,-192.0,Bezhotovostná platba,,Foreko press,0308,2022146,2022146,Foreko_reklama
-10,2022-09-06,3000.0,Bezhotovostný príjem,Ing. Ondrej Kurbel,/DO2022-09-05/SPVolby Sered2022,0558,,,Ing. Ondrej Kurbel
-11,2022-09-05,-30.0,Transakcia kartou,,"Nákup: FACEBK T3RX5GFT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  30.00 EUR",,5706,,"Nákup: FACEBK T3RX5GFT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  30.00 EUR"
-12,2022-09-04,-162.0,Bezhotovostná platba,,Gryf?reklamna plocha,0308,20222946,,Gryf_reklamná plocha
-13,2022-09-04,-20.0,Transakcia kartou,,"Nákup: FACEBK 2EGHLE3U92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2022, částka  20.00 EUR",,5706,,"Nákup: FACEBK 2EGHLE3U92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2022, částka  20.00 EUR"
-14,2022-08-31,-1982.4,Bezhotovostná platba,,"ARDsystem?Kurbel?prenajom a realiza
+3,2022-09-14,-700.0,Platba prevodom v rámci banky,,"MajkoDesignStudio, s.r.o.",0308,22200903,,reklama v médiu SOL
+4,2022-09-12,150.0,Bezhotovostný príjem,Hanus Michal,/DO2022-09-10/SPTy to das Ondrej,,,,Hanus Michal
+5,2022-09-10,-93.9,Transakcia kartou,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 9.9.2022, částka  93.90 EUR",,5706,,"Nákup: COPY CENTRUM PERLOVK,  VINARSKA 44502B, SERED, 92601, SVK, dne 9.9.2022, částka  93.90 EUR"
+6,2022-09-09,-90.0,Bezhotovostná platba,,tlac letak,0308,2022157,2022157,Foreko_tlač letáky
+7,2022-09-08,-20.0,Bezhotovostná platba,,vyhlasenie v rozhlase,0308,20220214,,vyhlasenie v rozhlase
+8,2022-09-06,-445.2,Bezhotovostná platba,,Reklamne plochy?BRANMEDIA,0308,1020220209,,BRANMEDIA_Kurbel_reklamné plochy
+9,2022-09-06,-93.0,Bezhotovostná platba,,Foreko tlac,0308,2022147,2022147,Foreko tlač poster
+10,2022-09-06,-192.0,Bezhotovostná platba,,Foreko press,0308,2022146,2022146,Foreko_reklama
+11,2022-09-06,3000.0,Bezhotovostný príjem,Ing. Ondrej Kurbel,/DO2022-09-05/SPVolby Sered2022,0558,,,Ing. Ondrej Kurbel
+12,2022-09-05,-30.0,Transakcia kartou,,"Nákup: FACEBK T3RX5GFT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  30.00 EUR",,5706,,"Nákup: FACEBK T3RX5GFT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  30.00 EUR"
+13,2022-09-04,-162.0,Bezhotovostná platba,,Gryf?reklamna plocha,0308,20222946,,Gryf_reklamná plocha
+14,2022-09-04,-20.0,Transakcia kartou,,"Nákup: FACEBK 2EGHLE3U92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2022, částka  20.00 EUR",,5706,,"Nákup: FACEBK 2EGHLE3U92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2022, částka  20.00 EUR"
+15,2022-08-31,-1982.4,Bezhotovostná platba,,"ARDsystem?Kurbel?prenajom a realiza
 cia reklamnych ploch",0308,20422054,,ARDsystém_Kurbel_prenájom a realizácia reklamných plôch
-15,2022-08-27,-12.0,Transakcia kartou,,"Nákup: FACEBK N3WUFEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.8.2022, částka  12.00 EUR",,5706,,"Nákup: FACEBK N3WUFEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.8.2022, částka  12.00 EUR"
-16,2022-08-25,-540.0,Bezhotovostná platba,,"reklama?euroAWK?komunalne volby?Ser
+16,2022-08-27,-12.0,Transakcia kartou,,"Nákup: FACEBK N3WUFEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.8.2022, částka  12.00 EUR",,5706,,"Nákup: FACEBK N3WUFEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.8.2022, částka  12.00 EUR"
+17,2022-08-25,-540.0,Bezhotovostná platba,,"reklama?euroAWK?komunalne volby?Ser
 ed",,2270354,,
-17,2022-08-25,-180.0,Bezhotovostná platba,,reklamne plochy euroAWK?Kurbel KV,,2270353,2270353,reklamné plochy euroAWK_Kurbel KV
-18,2022-08-24,100.0,Bezhotovostný príjem,Karmazinova Pavlina,"/DO2022-08-23/SPVerim, ze to das",,,,Karmazinova Pavlina
-19,2022-08-23,-12.0,Transakcia kartou,,"Nákup: FACEBK 4SNDGF7T92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.8.2022, částka  12.00 EUR",,5706,,"Nákup: FACEBK 4SNDGF7T92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.8.2022, částka  12.00 EUR"
-20,2022-08-23,-9.0,Transakcia kartou,,"Nákup: FACEBK 99TQFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  9.00 EUR",,5706,,"Nákup: FACEBK 99TQFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  9.00 EUR"
-21,2022-08-23,-6.0,Transakcia kartou,,"Nákup: FACEBK EGYHFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR",,5706,,"Nákup: FACEBK EGYHFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR"
-22,2022-08-22,-6.0,Transakcia kartou,,"Nákup: FACEBK 3W29CEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR",,5706,,"Nákup: FACEBK 3W29CEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR"
-23,2022-08-22,-6.56,Transakcia kartou,,"Nákup: FACEBK WTZZTEBT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.8.2022, částka  6.56 EUR",,5706,,"Nákup: FACEBK WTZZTEBT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.8.2022, částka  6.56 EUR"
-24,2022-08-15,-159.24,Bezhotovostná platba,,tlac,0308,2022135,2022135,tlač
-25,2022-08-11,-90.0,Bezhotovostná platba,,fotograficke prace,0308,122022,,fotografické práce
-26,2022-08-03,-918.0,Bezhotovostná platba,,"prenajom a realizacia reklamnych pl
+18,2022-08-25,-180.0,Bezhotovostná platba,,reklamne plochy euroAWK?Kurbel KV,,2270353,2270353,reklamné plochy euroAWK_Kurbel KV
+19,2022-08-24,100.0,Bezhotovostný príjem,Karmazinova Pavlina,"/DO2022-08-23/SPVerim, ze to das",,,,Karmazinova Pavlina
+20,2022-08-23,-12.0,Transakcia kartou,,"Nákup: FACEBK 4SNDGF7T92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.8.2022, částka  12.00 EUR",,5706,,"Nákup: FACEBK 4SNDGF7T92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.8.2022, částka  12.00 EUR"
+21,2022-08-23,-9.0,Transakcia kartou,,"Nákup: FACEBK 99TQFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  9.00 EUR",,5706,,"Nákup: FACEBK 99TQFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  9.00 EUR"
+22,2022-08-23,-6.0,Transakcia kartou,,"Nákup: FACEBK EGYHFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR",,5706,,"Nákup: FACEBK EGYHFEXT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR"
+23,2022-08-22,-6.0,Transakcia kartou,,"Nákup: FACEBK 3W29CEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR",,5706,,"Nákup: FACEBK 3W29CEKT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.8.2022, částka  6.00 EUR"
+24,2022-08-22,-6.56,Transakcia kartou,,"Nákup: FACEBK WTZZTEBT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.8.2022, částka  6.56 EUR",,5706,,"Nákup: FACEBK WTZZTEBT92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.8.2022, částka  6.56 EUR"
+25,2022-08-15,-159.24,Bezhotovostná platba,,tlac,0308,2022135,2022135,tlač
+26,2022-08-11,-90.0,Bezhotovostná platba,,fotograficke prace,0308,122022,,fotografické práce
+27,2022-08-03,-918.0,Bezhotovostná platba,,"prenajom a realizacia reklamnych pl
 och",0308,22063,,GRYF reklamné štúdio
-27,2022-08-02,-45.0,Platba prevodom v rámci banky,,fotografie,0308,202221,,fotografie
-28,2022-08-01,2000.0,Bezhotovostný príjem,Robert Hilkovič,/DO2022-07-29/SP IDEMEDO TOHO SPOLU,,,,Robert Hilkovič
-29,2022-07-26,410.58,Bezhotovostný príjem,IRSAK DUSAN,/DO2022-07-25/SPMzda poslanca venovan na dobr ucel.Verim ze to das,,,,IRSAK DUSAN
-30,2022-07-21,1000.0,Bezhotovostný príjem,ERIK STEFANEK,/DO2022-07-21/SPVOLBY 2022,,,,ERIK STEFANEK
-31,2022-07-19,99.0,Bezhotovostný príjem,Stripe Technology Eu,", DSOMHQOBZGFBEOQC, důvod vrácení (AG01)",,,,Stripe Technology Eu
-32,2022-07-15,-99.0,Bezhotovostná platba,,BE39ZZZCITD000000037,,,,Vertigo Studio SA by Stripe via PPRO
-33,2022-07-06,-58.0,Bezhotovostná platba,,WordPress hosting,0308,1022199823,,Websupport s.r.o.
-34,2022-07-06,-24.0,Bezhotovostná platba,,.sk domeny,,1022192818,,Websupport .sk domeny
-35,2022-07-06,-24.0,Bezhotovostná platba,,.sk domeny,,1022189964,,.sk domény
-36,2022-06-27,5000.0,Bezhotovostný príjem,Mária Fačkovcová,/DO2022-06-27/SP volby 2022,,,,Mária Fačkovcová
-37,2022-06-21,250.0,Platba prevodom v rámci banky,"Ing. Kurbel, Ondrej",voľby 2022,,,,voľby 2022
-38,2022-05-10,20.0,Platba prevodom v rámci banky,"Ing. Kurbel, Ondrej",transparentný účet FIO,,,,transparentný účet FIO
+28,2022-08-02,-45.0,Platba prevodom v rámci banky,,fotografie,0308,202221,,fotografie
+29,2022-08-01,2000.0,Bezhotovostný príjem,Robert Hilkovič,/DO2022-07-29/SP IDEMEDO TOHO SPOLU,,,,Robert Hilkovič
+30,2022-07-26,410.58,Bezhotovostný príjem,IRSAK DUSAN,/DO2022-07-25/SPMzda poslanca venovan na dobr ucel.Verim ze to das,,,,IRSAK DUSAN
+31,2022-07-21,1000.0,Bezhotovostný príjem,ERIK STEFANEK,/DO2022-07-21/SPVOLBY 2022,,,,ERIK STEFANEK
+32,2022-07-19,99.0,Bezhotovostný príjem,Stripe Technology Eu,", DSOMHQOBZGFBEOQC, důvod vrácení (AG01)",,,,Stripe Technology Eu
+33,2022-07-15,-99.0,Bezhotovostná platba,,BE39ZZZCITD000000037,,,,Vertigo Studio SA by Stripe via PPRO
+34,2022-07-06,-58.0,Bezhotovostná platba,,WordPress hosting,0308,1022199823,,Websupport s.r.o.
+35,2022-07-06,-24.0,Bezhotovostná platba,,.sk domeny,,1022192818,,Websupport .sk domeny
+36,2022-07-06,-24.0,Bezhotovostná platba,,.sk domeny,,1022189964,,.sk domény
+37,2022-06-27,5000.0,Bezhotovostný príjem,Mária Fačkovcová,/DO2022-06-27/SP volby 2022,,,,Mária Fačkovcová
+38,2022-06-21,250.0,Platba prevodom v rámci banky,"Ing. Kurbel, Ondrej",voľby 2022,,,,voľby 2022
+39,2022-05-10,20.0,Platba prevodom v rámci banky,"Ing. Kurbel, Ondrej",transparentný účet FIO,,,,transparentný účet FIO

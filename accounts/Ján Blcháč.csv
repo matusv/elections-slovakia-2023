@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Áč Marián Ing.,2022-09-14,300,EUR,Gen .v.v MAC,Bezhotovostný vklad,,
-1,Ján Blcháč,2022-09-06,5000,EUR,Osobny prispevok,Bezhotovostný vklad - okamžitá platba,06092022,
+0,Marta Jančušová,2022-09-16,300,EUR,Marta Jancusova,Bezhotovostný vklad,,
+1,Áč Marián Ing.,2022-09-14,300,EUR,Gen .v.v MAC,Bezhotovostný vklad,,
+2,Ján Blcháč,2022-09-06,5000,EUR,Osobny prispevok,Bezhotovostný vklad - okamžitá platba,06092022,

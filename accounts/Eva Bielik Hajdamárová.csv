@@ -1,6 +1,8 @@
 index,date,amount,account_name,message,vs
-0,2022-09-13,-10.8,Platba kartou,FACEBK XYHJ5HKQ fb.me/ads,****562
-1,2022-09-09,-450.0,,FA2022010,
-2,2022-09-08,3000.0,BIELIK HAJDAMAROVA E,,
-3,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-4,2022-08-31,-5.0,,Vedenie účtu,9
+0,2022-09-16,-10.8,Platba kartou,Platba kartou u obchodníka,****562
+1,2022-09-16,-192.0,,22038,
+2,2022-09-13,-10.8,Platba kartou,FACEBK XYHJ5HKQ fb.me/ads,****562
+3,2022-09-09,-450.0,,FA2022010,
+4,2022-09-08,3000.0,BIELIK HAJDAMAROVA E,,
+5,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+6,2022-08-31,-5.0,,Vedenie účtu,9

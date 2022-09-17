@@ -1,4 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-08-31,-0.19,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,Soroková Lenka,2022-08-31,10000.0,EUR,F001310820227605691,Bezhotovostný vklad,,
+0,Pro Studio,2022-09-16,-132.0,EUR,Úhrada faktúry: 22090001,Okamžitá platba (EB),22090001,
+1,"Regionpress, s.r.o.",2022-09-16,-2484.0,EUR,Úhrada faktúry 85 422 0087,Okamžitá platba (EB),854220087,
+2,"WebSupport, s.r.o.",2022-09-16,-28.66,EUR,0220916133926.171035,Okamžitá platba (EB),1022266503,
+3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-08-31,-0.19,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,Soroková Lenka,2022-08-31,10000.0,EUR,F001310820227605691,Bezhotovostný vklad,,

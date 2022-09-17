@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,BRICOL s.r.o.,2022-09-16,-1683.61,EUR,poháre med,Okamžitá platba (EB),81141454,
+1,RATTAJOVA ZUZANA,2022-09-16,2000.0,EUR,Zuzana Rattajova,Bezhotovostný vklad,,
+2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-08-31,-0.19,EUR,Poplatok za vedenie účtu,Poplatok,,
