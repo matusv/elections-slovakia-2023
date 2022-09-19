@@ -1,5 +1,5 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-16,2000.0,Platba prevodom v rámci banky,"Ing. Panáček, Milan",,,2022,,
+0,2022-09-16,2000.0,Platba prevodom v rámci banky,"Ing. Panáček, Milan",,,2022,,"Ing. Panáček, Milan"
 1,2022-09-14,-300.0,Bezhotovostná platba,,"vystupenie hudobneho zoskupenia poc
 as vol. kampane Tour de Baska 2022d
 na 2.9.2022 v Puchove",0308,6112022,,"Heligonica o.z., Košťany nad Turcom 349"
