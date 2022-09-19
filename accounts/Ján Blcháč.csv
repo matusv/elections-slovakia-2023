@@ -1,5 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Pavkovčeková Marcela,2022-09-17,200,EUR,Pavkovcekova Marcela,Bezhotovostný vklad - okamžitá platba,14092022,
-1,Marta Jančušová,2022-09-16,300,EUR,Marta Jancusova,Bezhotovostný vklad,,
-2,Áč Marián Ing.,2022-09-14,300,EUR,Gen .v.v MAC,Bezhotovostný vklad,,
-3,Ján Blcháč,2022-09-06,5000,EUR,Osobny prispevok,Bezhotovostný vklad - okamžitá platba,06092022,
+0,DOLINSKY VILIAM,2022-09-19,200,EUR,Prispevok na kampan,Bezhotovostný vklad,,
+1,GARAJ JAN,2022-09-19,200,EUR,Garaj Jan,Bezhotovostný vklad,2022,
+2,TATRA BANKA A.S. - CENTRÁLA,2022-09-19,300,EUR,Peter Bonko,Bezhotovostný vklad,18092022,
+3,Pavkovčeková Marcela,2022-09-17,200,EUR,Pavkovcekova Marcela,Bezhotovostný vklad - okamžitá platba,14092022,
+4,Marta Jančušová,2022-09-16,300,EUR,Marta Jancusova,Bezhotovostný vklad,,
+5,Áč Marián Ing.,2022-09-14,300,EUR,Gen .v.v MAC,Bezhotovostný vklad,,
+6,Ján Blcháč,2022-09-06,5000,EUR,Osobny prispevok,Bezhotovostný vklad - okamžitá platba,06092022,

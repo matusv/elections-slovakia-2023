@@ -1,179 +1,182 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-19,-15.4,EUR,"B1371449335-44544 12** **** 7232;PAPIERNICTVO SINOVA ,NOVE MESTO NA ,SK ;17.09.2022 09:17:50 ;CashBack:0 EUR",Platba kartou,,
-1,,2022-09-19,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-2,,2022-09-19,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-3,,2022-09-19,-109.0,EUR,"B1371369782-44544 12** **** 7232;MINI DISKONT ,NOVE MESTO NA ,SK ;17.09.2022 09:14:55 ;CashBack:0 EUR",Platba kartou,,
+0,,2022-09-19,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022377,2022
+1,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-09-19,-1040.88,EUR,Maslonka,Platobný príkaz na úhradu / FIT 2.0 (EB),2022377,2022
+2,MASLONKA FRANTISEK,2022-09-19,500.0,EUR,23514380,Bezhotovostný vklad,2022,
+3,,2022-09-19,-15.4,EUR,"B1371449335-44544 12** **** 7232;PAPIERNICTVO SINOVA ,NOVE MESTO NA ,SK ;17.09.2022 09:17:50 ;CashBack:0 EUR",Platba kartou,,
 4,,2022-09-19,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-5,,2022-09-19,-4.5,EUR,"B1370847460-44544 12** **** 7232;PAPIERNICTVO SINOVA ,NOVE MESTO NA ,SK ;16.09.2022 12:29:20 ;CashBack:0 EUR",Platba kartou,,
-6,,2022-09-18,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-7,,2022-09-18,-109.0,EUR,"B1370634619-44544 12** **** 7232;MINI DISKONT ,NOVE MESTO NA ,SK ;16.09.2022 10:49:50 ;CashBack:0 EUR",Platba kartou,,
-8,,2022-09-16,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-9,,2022-09-16,-5.37,EUR,"B1369280355-44544 12** **** 7232;Galanteria Efekt ,Nove Mesto Na ,SK ;14.09.2022 13:49:00 ;CashBack:0 EUR",Platba kartou,,
-10,,2022-09-16,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-11,,2022-09-16,-6.6,EUR,"B1369119118-44544 12** **** 7232;PAPIERNICTVO SINOVA ,NOVE MESTO NA ,SK ;14.09.2022 13:53:22 ;CashBack:0 EUR",Platba kartou,,
-12,Mačica Miroslav,2022-09-15,100.0,EUR,OO22091500003053,Bezhotovostný vklad - okamžitá platba,,
-13,,2022-09-13,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,
-14,Mesto Nové Mesto nad Váhom,2022-09-13,-28.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,
-15,,2022-09-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2223,2022
-16,GS point s.r.o. elektrocentála,2022-09-12,-70.0,EUR,Maslonka,Platobný príkaz na úhradu / FIT 2.0 (EB),2223,2022
-17,OSTRENKA MIROSLAV,2022-09-12,100.0,EUR,23456070,Bezhotovostný vklad,062022,
-18,,2022-09-09,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,77176,
-19,Mesto Nové Mesto nad Váhom,2022-09-09,-90.0,EUR,Mašlonka František_NMJ,Platobný príkaz na úhradu / FIT 2.0 (EB),77176,
-20,Tomáš Urminský,2022-09-09,200.0,EUR,TU,Bezhotovostný vklad - okamžitá platba,,
-21,,2022-09-09,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,220100230,2022
-22,GASTRO GROUP s.r.o_gulas,2022-09-09,-700.0,EUR,Maslonka_Trencianska gulas,Platobný príkaz na úhradu / FIT 2.0 (EB),220100230,2022
-23,,2022-09-09,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-24,,2022-09-09,-32.3,EUR,"B1364766537-44544 12** **** 7232;LIDL 259,NM,BZINSKA ,NOVE MESTO NA ,SK ;07.09.2022 10:47:22 ;CashBack:0 EUR",Platba kartou,,
-25,,2022-09-09,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-26,,2022-09-09,-7.81,EUR,"B1364736058-44544 12** **** 7232;OMV 2338 ,N Mesto n V ,SK ;07.09.2022 19:30:43 ;CashBack:0 EUR",Platba kartou,,
-27,Sedlák Radoslav,2022-09-08,240.0,EUR,Sedlak Radoslav,Bezhotovostný vklad,,
-28,,2022-09-08,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022,092022
-29,Hudba Trenčianska ul.,2022-09-08,-250.0,EUR,Mašlonka,Okamžitá platba (EB),2022,092022
-30,VOJTEK JAN,2022-09-07,150.0,EUR,23398017,Bezhotovostný vklad,,
-31,HUNCIKOVA ZUZANA,2022-09-07,150.0,EUR,Zuzana Huncikova team Nm,Bezhotovostný vklad,,
-32,Lukáš Michalik,2022-09-06,180.0,EUR,2224950000041045,Bezhotovostný vklad - okamžitá platba,152022,
-33,Hunová Jana,2022-09-06,150.0,EUR,F001060920220975136,Bezhotovostný vklad,,
-34,,2022-09-06,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
-35,DJ T Vaško,2022-09-06,-150.0,EUR,DJ Klcove_Luka,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
-36,Tomáš Malec,2022-09-05,200.0,EUR,2224850000006917,Bezhotovostný vklad - okamžitá platba,032022,
-37,,2022-09-02,300.0,EUR,"Ján Vojtek , Vojtek",Vklad hotovosti,,
-38,,2022-09-02,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202205,
-39,"H.D.O. s.r.o. , kolotoč",2022-09-02,-150.0,EUR,Maslonka_Luka,Platobný príkaz na úhradu / FIT 2.0 (EB),202205,
-40,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-41,,2022-08-31,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-42,,2022-08-31,-1.3,EUR,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7232Poplatok za Platobnú kartu",Kartový poplatok,,
-43,,2022-08-31,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022114,2022
-44,"CREA:TINK, grafické práce, letáky, tlač",2022-08-31,-432.0,EUR,Mašlonka_letaky,Okamžitá platba (EB),2022114,2022
-45,Pavlíček Jakub,2022-08-31,400.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
-46,MASLONKA FRANTISEK,2022-08-31,300.0,EUR,23326616,Bezhotovostný vklad,2022,
-47,,2022-08-30,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022029,2022
-48,"CREA: THINK LAB s.r.o., web, grafika, letaky",2022-08-30,-600.0,EUR,0220830104742.841590,Okamžitá platba (EB),2022029,2022
-49,,2022-08-30,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,2022
-50,Mesto Nové Mesto nad Váhom,2022-08-30,-42.0,EUR,Maslonka_Lúka,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,2022
-51,Andrej Neuschl,2022-08-28,60.0,EUR,2224050000001741,Bezhotovostný vklad - okamžitá platba,,
-52,,2022-08-23,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2223,2022
-53,GS point s.r.o. elektrocentála,2022-08-23,-35.0,EUR,Maslonka,Okamžitá platba (EB),2223,2022
-54,UHRADA DO IPU,2022-08-22,100.0,EUR,Košťál Jaroslav-volby,Bezhotovostný vklad,,
-55,,2022-08-19,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
-56,DJ T Vaško,2022-08-19,-300.0,EUR,DJ Klcove_Hajovky,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
-57,,2022-08-19,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202203,82022
-58,"H.D.O. s.r.o. , kolotoč",2022-08-19,-150.0,EUR,kolotoc_Hájovky,Platobný príkaz na úhradu / FIT 2.0 (EB),202203,82022
-59,MASLONKA FRANTISEK,2022-08-17,300.0,EUR,23213946,Bezhotovostný vklad,2022,
-60,Ehsan Noman MUDr.,2022-08-16,30.0,EUR,Od MUDr.Noman EHSAN za sept2022,Bezhotovostný vklad,92022,62022
-61,,2022-08-15,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,10220045,082022
-62,Róbert Ergang - AREGO _ prenájom atrakcií,2022-08-15,-500.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),10220045,082022
-63,,2022-08-15,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022324,082022
-64,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-08-15,-207.0,EUR,"plagáty, letáky, banner, rekl. predmet",Platobný príkaz na úhradu / FIT 2.0 (EB),2022324,082022
-65,VOJTEK JAN,2022-08-15,300.0,EUR,23138323,Bezhotovostný vklad,,
-66,HUNCIKOVA ZUZANA,2022-08-15,100.0,EUR,Zuzana Huncikova team Nm,Bezhotovostný vklad,,
-67,OSTRENKA MIROSLAV,2022-08-12,50.0,EUR,23114423,Bezhotovostný vklad,062022,
-68,,2022-08-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202202,082022
-69,"H.D.O. s.r.o. , kolotoč",2022-08-12,-150.0,EUR,kolotoc_Klcove,Platobný príkaz na úhradu / FIT 2.0 (EB),202202,082022
-70,Ehsan Noman MUDr.,2022-08-11,30.0,EUR,Od MUDr.Noman EHSAN za august2022,Bezhotovostný vklad,92022,62022
-71,Hunová Jana,2022-08-08,100.0,EUR,F001080820220288882,Bezhotovostný vklad,,
-72,Andrej Neuschl,2022-08-07,30.0,EUR,,Bezhotovostný vklad - okamžitá platba,,
-73,,2022-08-05,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,
-74,Mesto Nové Mesto nad Váhom,2022-08-05,-70.0,EUR,Mašlonka,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,
-75,Lukáš Michalik,2022-08-04,60.0,EUR,2221650000034165,Bezhotovostný vklad - okamžitá platba,152022,
-76,Mačica Miroslav,2022-08-01,100.0,EUR,Miroslav Macica,Bezhotovostný vklad - okamžitá platba,,
-77,Ehsan Noman MUDr.,2022-08-01,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,92022,62022
-78,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-79,,2022-07-31,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-80,,2022-07-31,-0.5,EUR,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7232Poplatok za Platobnú kartu",Kartový poplatok,,
-81,,2022-07-29,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220244,2022
-82,TSM_výlep plagátov,2022-07-29,-91.0,EUR,20220244_Mašlonka,Platobný príkaz na úhradu / FIT 2.0 (EB),20220244,2022
-83,,2022-07-29,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220243,2022
-84,TSM_výlep plagátov,2022-07-29,-91.0,EUR,20220243_Mašlonka,Platobný príkaz na úhradu / FIT 2.0 (EB),20220243,2022
-85,Jana Krištofovičová,2022-07-28,100.0,EUR,2220950000018436,Bezhotovostný vklad - okamžitá platba,132022,
-86,,2022-07-28,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022102,
-87,"CREA:TINK, grafické práce, letáky, tlač",2022-07-28,-736.8,EUR,Uhrada faktury 2022102,Okamžitá platba (EB),2022102,
-88,,2022-07-28,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022302,
-89,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-07-28,-564.0,EUR,"UNIVERSALPRINT, s. r. o.: 2022302 - Ing. František Mašlonka - 2022/07",Platobný príkaz na úhradu / FIT 2.0 (EB),2022302,
-90,Tomáš Urminský,2022-07-22,100.0,EUR,2220350000026313,Bezhotovostný vklad - okamžitá platba,,
-91,MASLONKA FRANTISEK,2022-07-22,1000.0,EUR,22924731,Bezhotovostný vklad,2822,
-92,Jana Krištofovičová,2022-07-21,50.0,EUR,2220250000034805,Bezhotovostný vklad - okamžitá platba,132022,
-93,,2022-07-20,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022,
-94,Tomáš Malec,2022-07-20,-34.0,EUR,FB_TM,Okamžitá platba (EB),2022,
-95,MASLONKA FRANTISEK,2022-07-20,1000.0,EUR,22904058,Bezhotovostný vklad,2022,
-96,Tomáš Malec,2022-07-19,200.0,EUR,2220050000039465,Bezhotovostný vklad - okamžitá platba,032022,
-97,MRAZ JAN,2022-07-19,150.0,EUR,22894550,Bezhotovostný vklad,162022,
-98,,2022-07-15,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202201,
-99,H.D.O. s.r.o.,2022-07-15,-120.0,EUR,František Mašlonka; ; 13.07.2022,Platobný príkaz na úhradu / FIT 2.0 (EB),202201,
-100,,2022-07-14,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
-101,A_Lehotský_vystupenie_zvucenie,2022-07-14,-250.0,EUR,vystupenie_zvucenie 13072022,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
-102,,2022-07-14,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022,
-103,I_Ožvát_vystúpenie,2022-07-14,-1000.0,EUR,vystupenie 13072022,Okamžitá platba (EB),2022,
-104,MASLONKA FRANTISEK,2022-07-14,150.0,EUR,22851708,Bezhotovostný vklad,2022,
-105,,2022-07-13,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2201221,
-106,DECORE,2022-07-13,-72.2,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2201221,
-107,UHRADA DO IPU,2022-07-13,100.0,EUR,Jaroslav Kostaĺ komunálne voľby,Bezhotovostný vklad,,
-108,MASLONKA FRANTISEK,2022-07-13,250.0,EUR,maslonka,Bezhotovostný vklad,2828,
-109,Leitner Michal,2022-07-12,250.0,EUR,OO22071200037402,Bezhotovostný vklad - okamžitá platba,142022,
-110,"Morová Alexandra, Mgr.",2022-07-12,500.0,EUR,OO22071200026165,Bezhotovostný vklad - okamžitá platba,,
-111,,2022-07-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,2022
-112,Mesto Nové Mesto nad Váhom,2022-07-12,-28.0,EUR,Zaujatie VP,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,2022
-113,OSTRENKA MIROSLAV,2022-07-11,50.0,EUR,22818278,Bezhotovostný vklad,062022,
-114,Andrej Neuschl,2022-07-04,60.0,EUR,jun/jul,Bezhotovostný vklad,,
-115,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-116,,2022-06-30,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-117,UHRADA DO IPU,2022-06-28,100.0,EUR,Kampaň komunálne volby,Bezhotovostný vklad,,
-118,,2022-06-27,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,0422022,
-119,Ozvučenie Mudríková,2022-06-27,-120.0,EUR,0220627144757.027254,Okamžitá platba (EB),0422022,
-120,,2022-06-27,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022244,
-121,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-06-27,-955.81,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022244,
-122,Mačica Miroslav,2022-06-27,100.0,EUR,Miroslav Macica,Bezhotovostný vklad - okamžitá platba,,
-123,,2022-06-24,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
-124,DJ T Vaško,2022-06-24,-150.0,EUR,DJ námestie,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
-125,,2022-06-23,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,22020,
-126,Mgr. art. Vlasta Mudríková,2022-06-23,-750.0,EUR,Vystupenie NMnV Maslonka,Platobný príkaz na úhradu / FIT 2.0 (EB),22020,
-127,Jana Krištofovičová,2022-06-23,50.0,EUR,2217450000015116,Bezhotovostný vklad - okamžitá platba,132022,
-128,Pavlíček Jakub,2022-06-21,100.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
-129,Tomáš Urminský,2022-06-20,100.0,EUR,Tomas Urminsky,Bezhotovostný vklad - okamžitá platba,062022,
-130,Tomáš Malec,2022-06-19,200.0,EUR,2217050000013931,Bezhotovostný vklad - okamžitá platba,32022,
-131,OSTRENKA MIROSLAV,2022-06-15,50.0,EUR,22600772,Bezhotovostný vklad,062022,
-132,,2022-06-14,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,
-133,Mesto Nové Mesto nad Váhom,2022-06-14,-21.0,EUR,Mašlonka_ver_priestranstvo,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,
-134,Ehsan Noman MUDr.,2022-06-13,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,92022,062022
-135,Lukáš Michalik,2022-06-06,60.0,EUR,2215750000047245,Bezhotovostný vklad - okamžitá platba,,
-136,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-137,,2022-05-31,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-138,Andrej Neuschl,2022-05-24,30.0,EUR,Andrej Neuschl,Bezhotovostný vklad - okamžitá platba,172022,
-139,Jana Krištofovičová,2022-05-23,50.0,EUR,2214350000035176,Bezhotovostný vklad - okamžitá platba,132022,
-140,Pavlíček Jakub,2022-05-20,100.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
-141,Hunová Jana,2022-05-17,100.0,EUR,F001170520221806584,Bezhotovostný vklad,,
-142,OLACH JURAJ,2022-05-16,30.0,EUR,22336117,Bezhotovostný vklad,182022,
-143,OSTRENKA MIROSLAV,2022-05-13,50.0,EUR,22315375,Bezhotovostný vklad,062022,
-144,,2022-05-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022014,
-145,CREA: THINK LAB s.r.o.,2022-05-12,-39.6,EUR,Doplatok Fa foto a video služby,Platobný príkaz na úhradu / FIT 2.0 (EB),2022014,
-146,MASLONKA FRANTISEK,2022-05-11,250.0,EUR,22293218,Bezhotovostný vklad,022022,
-147,,2022-05-10,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022014,2022
-148,CREA: THINK LAB s.r.o.,2022-05-10,-800.4,EUR,Team NM Mašlonka,Okamžitá platba (EB),2022014,2022
-149,,2022-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-150,,2022-04-30,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-151,Lukáš Michalik,2022-04-28,30.0,EUR,22181087,Bezhotovostný vklad,152022,
-152,Tomáš Malec,2022-04-25,200.0,EUR,22151438,Bezhotovostný vklad,32022,
-153,HUNCIKOVA ZUZANA,2022-04-20,90.0,EUR,Huncikova,Bezhotovostný vklad,112022,
-154,Pavlíček Jakub,2022-04-13,100.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
-155,OSTRENKA MIROSLAV,2022-04-13,50.0,EUR,22063309,Bezhotovostný vklad,062022,
-156,Ehsan Noman MUDr.,2022-04-13,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,92022,
-157,OLACH JURAJ,2022-04-12,60.0,EUR,22052529,Bezhotovostný vklad,182022,
-158,KRISTOFOVICOVA JANA,2022-04-11,50.0,EUR,22041287,Bezhotovostný vklad,132022,
-159,GOMBARSKA VERONIKA,2022-04-06,50.0,EUR,22001402,Bezhotovostný vklad,102022,
-160,Andrej Neuschl,2022-04-06,30.0,EUR,Andrej Neuschl,Bezhotovostný vklad,172022,
-161,MRAZ JAN,2022-04-06,30.0,EUR,22001321,Bezhotovostný vklad,162022,
-162,MRAZ JAN,2022-04-06,30.0,EUR,22001321,Bezhotovostný vklad,162022,
-163,GOMBARSKA VERONIKA,2022-04-06,10.0,EUR,22001033,Bezhotovostný vklad,102022,
-164,Štefan Rehák,2022-04-05,500.0,EUR,Stefan Rehak,Bezhotovostný vklad - okamžitá platba,192022,
-165,,2022-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-166,,2022-03-31,-3.87,EUR,Poplatok za vedenie účtu,Poplatok,,
-167,Lukáš Michalik,2022-03-30,30.0,EUR,Lukas Michalik,Bezhotovostný vklad,152022,
-168,"Morová Alexandra, Mg",2022-03-29,150.0,EUR,OO22032900006067,Bezhotovostný vklad - okamžitá platba,,
-169,Jana Krištofovičová,2022-03-14,50.0,EUR,21814755,Bezhotovostný vklad,13202,
-170,Pavlíček Ján,2022-03-13,100.0,EUR,F001130320221887246,Bezhotovostný vklad,052022,
-171,,2022-03-10,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220004,2022
-172,BY KIX s.r.o.,2022-03-10,-720.0,EUR,LOGO Team NM,Platobný príkaz na úhradu / FIT 2.0 (EB),20220004,2022
-173,Ehsan Noman MUDr.,2022-03-09,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,092022,
-174,OSTRENKA MIROSLAV,2022-03-09,50.0,EUR,21773885,Bezhotovostný vklad,062022,
-175,Milan Špánik,2022-03-08,100.0,EUR,Milan Spanik,Bezhotovostný vklad,72022,
-176,VOJTEK JAN,2022-03-04,100.0,EUR,21735854,Bezhotovostný vklad,082022,
-177,MASLONKA FRANTISEK,2022-03-03,500.0,EUR,maslonka,Bezhotovostný vklad,2022,
+5,,2022-09-19,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+6,,2022-09-19,-109.0,EUR,"B1371369782-44544 12** **** 7232;MINI DISKONT ,NOVE MESTO NA ,SK ;17.09.2022 09:14:55 ;CashBack:0 EUR",Platba kartou,,
+7,,2022-09-19,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+8,,2022-09-19,-4.5,EUR,"B1370847460-44544 12** **** 7232;PAPIERNICTVO SINOVA ,NOVE MESTO NA ,SK ;16.09.2022 12:29:20 ;CashBack:0 EUR",Platba kartou,,
+9,,2022-09-18,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+10,,2022-09-18,-109.0,EUR,"B1370634619-44544 12** **** 7232;MINI DISKONT ,NOVE MESTO NA ,SK ;16.09.2022 10:49:50 ;CashBack:0 EUR",Platba kartou,,
+11,,2022-09-16,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+12,,2022-09-16,-5.37,EUR,"B1369280355-44544 12** **** 7232;Galanteria Efekt ,Nove Mesto Na ,SK ;14.09.2022 13:49:00 ;CashBack:0 EUR",Platba kartou,,
+13,,2022-09-16,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+14,,2022-09-16,-6.6,EUR,"B1369119118-44544 12** **** 7232;PAPIERNICTVO SINOVA ,NOVE MESTO NA ,SK ;14.09.2022 13:53:22 ;CashBack:0 EUR",Platba kartou,,
+15,Mačica Miroslav,2022-09-15,100.0,EUR,OO22091500003053,Bezhotovostný vklad - okamžitá platba,,
+16,,2022-09-13,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,
+17,Mesto Nové Mesto nad Váhom,2022-09-13,-28.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,
+18,,2022-09-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2223,2022
+19,GS point s.r.o. elektrocentála,2022-09-12,-70.0,EUR,Maslonka,Platobný príkaz na úhradu / FIT 2.0 (EB),2223,2022
+20,OSTRENKA MIROSLAV,2022-09-12,100.0,EUR,23456070,Bezhotovostný vklad,062022,
+21,,2022-09-09,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,77176,
+22,Mesto Nové Mesto nad Váhom,2022-09-09,-90.0,EUR,Mašlonka František_NMJ,Platobný príkaz na úhradu / FIT 2.0 (EB),77176,
+23,Tomáš Urminský,2022-09-09,200.0,EUR,TU,Bezhotovostný vklad - okamžitá platba,,
+24,,2022-09-09,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,220100230,2022
+25,GASTRO GROUP s.r.o_gulas,2022-09-09,-700.0,EUR,Maslonka_Trencianska gulas,Platobný príkaz na úhradu / FIT 2.0 (EB),220100230,2022
+26,,2022-09-09,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+27,,2022-09-09,-32.3,EUR,"B1364766537-44544 12** **** 7232;LIDL 259,NM,BZINSKA ,NOVE MESTO NA ,SK ;07.09.2022 10:47:22 ;CashBack:0 EUR",Platba kartou,,
+28,,2022-09-09,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+29,,2022-09-09,-7.81,EUR,"B1364736058-44544 12** **** 7232;OMV 2338 ,N Mesto n V ,SK ;07.09.2022 19:30:43 ;CashBack:0 EUR",Platba kartou,,
+30,Sedlák Radoslav,2022-09-08,240.0,EUR,Sedlak Radoslav,Bezhotovostný vklad,,
+31,,2022-09-08,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022,092022
+32,Hudba Trenčianska ul.,2022-09-08,-250.0,EUR,Mašlonka,Okamžitá platba (EB),2022,092022
+33,VOJTEK JAN,2022-09-07,150.0,EUR,23398017,Bezhotovostný vklad,,
+34,HUNCIKOVA ZUZANA,2022-09-07,150.0,EUR,Zuzana Huncikova team Nm,Bezhotovostný vklad,,
+35,Lukáš Michalik,2022-09-06,180.0,EUR,2224950000041045,Bezhotovostný vklad - okamžitá platba,152022,
+36,Hunová Jana,2022-09-06,150.0,EUR,F001060920220975136,Bezhotovostný vklad,,
+37,,2022-09-06,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
+38,DJ T Vaško,2022-09-06,-150.0,EUR,DJ Klcove_Luka,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
+39,Tomáš Malec,2022-09-05,200.0,EUR,2224850000006917,Bezhotovostný vklad - okamžitá platba,032022,
+40,,2022-09-02,300.0,EUR,"Ján Vojtek , Vojtek",Vklad hotovosti,,
+41,,2022-09-02,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202205,
+42,"H.D.O. s.r.o. , kolotoč",2022-09-02,-150.0,EUR,Maslonka_Luka,Platobný príkaz na úhradu / FIT 2.0 (EB),202205,
+43,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+44,,2022-08-31,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+45,,2022-08-31,-1.3,EUR,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7232Poplatok za Platobnú kartu",Kartový poplatok,,
+46,,2022-08-31,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022114,2022
+47,"CREA:TINK, grafické práce, letáky, tlač",2022-08-31,-432.0,EUR,Mašlonka_letaky,Okamžitá platba (EB),2022114,2022
+48,Pavlíček Jakub,2022-08-31,400.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
+49,MASLONKA FRANTISEK,2022-08-31,300.0,EUR,23326616,Bezhotovostný vklad,2022,
+50,,2022-08-30,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022029,2022
+51,"CREA: THINK LAB s.r.o., web, grafika, letaky",2022-08-30,-600.0,EUR,0220830104742.841590,Okamžitá platba (EB),2022029,2022
+52,,2022-08-30,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,2022
+53,Mesto Nové Mesto nad Váhom,2022-08-30,-42.0,EUR,Maslonka_Lúka,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,2022
+54,Andrej Neuschl,2022-08-28,60.0,EUR,2224050000001741,Bezhotovostný vklad - okamžitá platba,,
+55,,2022-08-23,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2223,2022
+56,GS point s.r.o. elektrocentála,2022-08-23,-35.0,EUR,Maslonka,Okamžitá platba (EB),2223,2022
+57,UHRADA DO IPU,2022-08-22,100.0,EUR,Košťál Jaroslav-volby,Bezhotovostný vklad,,
+58,,2022-08-19,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
+59,DJ T Vaško,2022-08-19,-300.0,EUR,DJ Klcove_Hajovky,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
+60,,2022-08-19,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202203,82022
+61,"H.D.O. s.r.o. , kolotoč",2022-08-19,-150.0,EUR,kolotoc_Hájovky,Platobný príkaz na úhradu / FIT 2.0 (EB),202203,82022
+62,MASLONKA FRANTISEK,2022-08-17,300.0,EUR,23213946,Bezhotovostný vklad,2022,
+63,Ehsan Noman MUDr.,2022-08-16,30.0,EUR,Od MUDr.Noman EHSAN za sept2022,Bezhotovostný vklad,92022,62022
+64,,2022-08-15,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,10220045,082022
+65,Róbert Ergang - AREGO _ prenájom atrakcií,2022-08-15,-500.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),10220045,082022
+66,,2022-08-15,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022324,082022
+67,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-08-15,-207.0,EUR,"plagáty, letáky, banner, rekl. predmet",Platobný príkaz na úhradu / FIT 2.0 (EB),2022324,082022
+68,VOJTEK JAN,2022-08-15,300.0,EUR,23138323,Bezhotovostný vklad,,
+69,HUNCIKOVA ZUZANA,2022-08-15,100.0,EUR,Zuzana Huncikova team Nm,Bezhotovostný vklad,,
+70,OSTRENKA MIROSLAV,2022-08-12,50.0,EUR,23114423,Bezhotovostný vklad,062022,
+71,,2022-08-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202202,082022
+72,"H.D.O. s.r.o. , kolotoč",2022-08-12,-150.0,EUR,kolotoc_Klcove,Platobný príkaz na úhradu / FIT 2.0 (EB),202202,082022
+73,Ehsan Noman MUDr.,2022-08-11,30.0,EUR,Od MUDr.Noman EHSAN za august2022,Bezhotovostný vklad,92022,62022
+74,Hunová Jana,2022-08-08,100.0,EUR,F001080820220288882,Bezhotovostný vklad,,
+75,Andrej Neuschl,2022-08-07,30.0,EUR,,Bezhotovostný vklad - okamžitá platba,,
+76,,2022-08-05,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,
+77,Mesto Nové Mesto nad Váhom,2022-08-05,-70.0,EUR,Mašlonka,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,
+78,Lukáš Michalik,2022-08-04,60.0,EUR,2221650000034165,Bezhotovostný vklad - okamžitá platba,152022,
+79,Mačica Miroslav,2022-08-01,100.0,EUR,Miroslav Macica,Bezhotovostný vklad - okamžitá platba,,
+80,Ehsan Noman MUDr.,2022-08-01,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,92022,62022
+81,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+82,,2022-07-31,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+83,,2022-07-31,-0.5,EUR,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7232Poplatok za Platobnú kartu",Kartový poplatok,,
+84,,2022-07-29,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220244,2022
+85,TSM_výlep plagátov,2022-07-29,-91.0,EUR,20220244_Mašlonka,Platobný príkaz na úhradu / FIT 2.0 (EB),20220244,2022
+86,,2022-07-29,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220243,2022
+87,TSM_výlep plagátov,2022-07-29,-91.0,EUR,20220243_Mašlonka,Platobný príkaz na úhradu / FIT 2.0 (EB),20220243,2022
+88,Jana Krištofovičová,2022-07-28,100.0,EUR,2220950000018436,Bezhotovostný vklad - okamžitá platba,132022,
+89,,2022-07-28,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022102,
+90,"CREA:TINK, grafické práce, letáky, tlač",2022-07-28,-736.8,EUR,Uhrada faktury 2022102,Okamžitá platba (EB),2022102,
+91,,2022-07-28,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022302,
+92,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-07-28,-564.0,EUR,"UNIVERSALPRINT, s. r. o.: 2022302 - Ing. František Mašlonka - 2022/07",Platobný príkaz na úhradu / FIT 2.0 (EB),2022302,
+93,Tomáš Urminský,2022-07-22,100.0,EUR,2220350000026313,Bezhotovostný vklad - okamžitá platba,,
+94,MASLONKA FRANTISEK,2022-07-22,1000.0,EUR,22924731,Bezhotovostný vklad,2822,
+95,Jana Krištofovičová,2022-07-21,50.0,EUR,2220250000034805,Bezhotovostný vklad - okamžitá platba,132022,
+96,,2022-07-20,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022,
+97,Tomáš Malec,2022-07-20,-34.0,EUR,FB_TM,Okamžitá platba (EB),2022,
+98,MASLONKA FRANTISEK,2022-07-20,1000.0,EUR,22904058,Bezhotovostný vklad,2022,
+99,Tomáš Malec,2022-07-19,200.0,EUR,2220050000039465,Bezhotovostný vklad - okamžitá platba,032022,
+100,MRAZ JAN,2022-07-19,150.0,EUR,22894550,Bezhotovostný vklad,162022,
+101,,2022-07-15,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202201,
+102,H.D.O. s.r.o.,2022-07-15,-120.0,EUR,František Mašlonka; ; 13.07.2022,Platobný príkaz na úhradu / FIT 2.0 (EB),202201,
+103,,2022-07-14,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
+104,A_Lehotský_vystupenie_zvucenie,2022-07-14,-250.0,EUR,vystupenie_zvucenie 13072022,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
+105,,2022-07-14,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022,
+106,I_Ožvát_vystúpenie,2022-07-14,-1000.0,EUR,vystupenie 13072022,Okamžitá platba (EB),2022,
+107,MASLONKA FRANTISEK,2022-07-14,150.0,EUR,22851708,Bezhotovostný vklad,2022,
+108,,2022-07-13,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2201221,
+109,DECORE,2022-07-13,-72.2,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2201221,
+110,UHRADA DO IPU,2022-07-13,100.0,EUR,Jaroslav Kostaĺ komunálne voľby,Bezhotovostný vklad,,
+111,MASLONKA FRANTISEK,2022-07-13,250.0,EUR,maslonka,Bezhotovostný vklad,2828,
+112,Leitner Michal,2022-07-12,250.0,EUR,OO22071200037402,Bezhotovostný vklad - okamžitá platba,142022,
+113,"Morová Alexandra, Mgr.",2022-07-12,500.0,EUR,OO22071200026165,Bezhotovostný vklad - okamžitá platba,,
+114,,2022-07-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,2022
+115,Mesto Nové Mesto nad Váhom,2022-07-12,-28.0,EUR,Zaujatie VP,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,2022
+116,OSTRENKA MIROSLAV,2022-07-11,50.0,EUR,22818278,Bezhotovostný vklad,062022,
+117,Andrej Neuschl,2022-07-04,60.0,EUR,jun/jul,Bezhotovostný vklad,,
+118,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+119,,2022-06-30,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+120,UHRADA DO IPU,2022-06-28,100.0,EUR,Kampaň komunálne volby,Bezhotovostný vklad,,
+121,,2022-06-27,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,0422022,
+122,Ozvučenie Mudríková,2022-06-27,-120.0,EUR,0220627144757.027254,Okamžitá platba (EB),0422022,
+123,,2022-06-27,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022244,
+124,"UNIVERSALPRINT, s.r.o. - plagáty, reklamné predmet",2022-06-27,-955.81,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022244,
+125,Mačica Miroslav,2022-06-27,100.0,EUR,Miroslav Macica,Bezhotovostný vklad - okamžitá platba,,
+126,,2022-06-24,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022,
+127,DJ T Vaško,2022-06-24,-150.0,EUR,DJ námestie,Platobný príkaz na úhradu / FIT 2.0 (EB),2022,
+128,,2022-06-23,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,22020,
+129,Mgr. art. Vlasta Mudríková,2022-06-23,-750.0,EUR,Vystupenie NMnV Maslonka,Platobný príkaz na úhradu / FIT 2.0 (EB),22020,
+130,Jana Krištofovičová,2022-06-23,50.0,EUR,2217450000015116,Bezhotovostný vklad - okamžitá platba,132022,
+131,Pavlíček Jakub,2022-06-21,100.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
+132,Tomáš Urminský,2022-06-20,100.0,EUR,Tomas Urminsky,Bezhotovostný vklad - okamžitá platba,062022,
+133,Tomáš Malec,2022-06-19,200.0,EUR,2217050000013931,Bezhotovostný vklad - okamžitá platba,32022,
+134,OSTRENKA MIROSLAV,2022-06-15,50.0,EUR,22600772,Bezhotovostný vklad,062022,
+135,,2022-06-14,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,31906,
+136,Mesto Nové Mesto nad Váhom,2022-06-14,-21.0,EUR,Mašlonka_ver_priestranstvo,Platobný príkaz na úhradu / FIT 2.0 (EB),31906,
+137,Ehsan Noman MUDr.,2022-06-13,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,92022,062022
+138,Lukáš Michalik,2022-06-06,60.0,EUR,2215750000047245,Bezhotovostný vklad - okamžitá platba,,
+139,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+140,,2022-05-31,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+141,Andrej Neuschl,2022-05-24,30.0,EUR,Andrej Neuschl,Bezhotovostný vklad - okamžitá platba,172022,
+142,Jana Krištofovičová,2022-05-23,50.0,EUR,2214350000035176,Bezhotovostný vklad - okamžitá platba,132022,
+143,Pavlíček Jakub,2022-05-20,100.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
+144,Hunová Jana,2022-05-17,100.0,EUR,F001170520221806584,Bezhotovostný vklad,,
+145,OLACH JURAJ,2022-05-16,30.0,EUR,22336117,Bezhotovostný vklad,182022,
+146,OSTRENKA MIROSLAV,2022-05-13,50.0,EUR,22315375,Bezhotovostný vklad,062022,
+147,,2022-05-12,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,2022014,
+148,CREA: THINK LAB s.r.o.,2022-05-12,-39.6,EUR,Doplatok Fa foto a video služby,Platobný príkaz na úhradu / FIT 2.0 (EB),2022014,
+149,MASLONKA FRANTISEK,2022-05-11,250.0,EUR,22293218,Bezhotovostný vklad,022022,
+150,,2022-05-10,-0.2,EUR,Popl. za Okamžitú platbu (EB),Popl. za Okamžitú platbu,2022014,2022
+151,CREA: THINK LAB s.r.o.,2022-05-10,-800.4,EUR,Team NM Mašlonka,Okamžitá platba (EB),2022014,2022
+152,,2022-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+153,,2022-04-30,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+154,Lukáš Michalik,2022-04-28,30.0,EUR,22181087,Bezhotovostný vklad,152022,
+155,Tomáš Malec,2022-04-25,200.0,EUR,22151438,Bezhotovostný vklad,32022,
+156,HUNCIKOVA ZUZANA,2022-04-20,90.0,EUR,Huncikova,Bezhotovostný vklad,112022,
+157,Pavlíček Jakub,2022-04-13,100.0,EUR,Pavlicek,Bezhotovostný vklad - okamžitá platba,,
+158,OSTRENKA MIROSLAV,2022-04-13,50.0,EUR,22063309,Bezhotovostný vklad,062022,
+159,Ehsan Noman MUDr.,2022-04-13,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,92022,
+160,OLACH JURAJ,2022-04-12,60.0,EUR,22052529,Bezhotovostný vklad,182022,
+161,KRISTOFOVICOVA JANA,2022-04-11,50.0,EUR,22041287,Bezhotovostný vklad,132022,
+162,GOMBARSKA VERONIKA,2022-04-06,50.0,EUR,22001402,Bezhotovostný vklad,102022,
+163,Andrej Neuschl,2022-04-06,30.0,EUR,Andrej Neuschl,Bezhotovostný vklad,172022,
+164,MRAZ JAN,2022-04-06,30.0,EUR,22001321,Bezhotovostný vklad,162022,
+165,MRAZ JAN,2022-04-06,30.0,EUR,22001321,Bezhotovostný vklad,162022,
+166,GOMBARSKA VERONIKA,2022-04-06,10.0,EUR,22001033,Bezhotovostný vklad,102022,
+167,Štefan Rehák,2022-04-05,500.0,EUR,Stefan Rehak,Bezhotovostný vklad - okamžitá platba,192022,
+168,,2022-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+169,,2022-03-31,-3.87,EUR,Poplatok za vedenie účtu,Poplatok,,
+170,Lukáš Michalik,2022-03-30,30.0,EUR,Lukas Michalik,Bezhotovostný vklad,152022,
+171,"Morová Alexandra, Mg",2022-03-29,150.0,EUR,OO22032900006067,Bezhotovostný vklad - okamžitá platba,,
+172,Jana Krištofovičová,2022-03-14,50.0,EUR,21814755,Bezhotovostný vklad,13202,
+173,Pavlíček Ján,2022-03-13,100.0,EUR,F001130320221887246,Bezhotovostný vklad,052022,
+174,,2022-03-10,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220004,2022
+175,BY KIX s.r.o.,2022-03-10,-720.0,EUR,LOGO Team NM,Platobný príkaz na úhradu / FIT 2.0 (EB),20220004,2022
+176,Ehsan Noman MUDr.,2022-03-09,30.0,EUR,Od MUDr.Noman EHSAN za marec 2022,Bezhotovostný vklad,092022,
+177,OSTRENKA MIROSLAV,2022-03-09,50.0,EUR,21773885,Bezhotovostný vklad,062022,
+178,Milan Špánik,2022-03-08,100.0,EUR,Milan Spanik,Bezhotovostný vklad,72022,
+179,VOJTEK JAN,2022-03-04,100.0,EUR,21735854,Bezhotovostný vklad,082022,
+180,MASLONKA FRANTISEK,2022-03-03,500.0,EUR,maslonka,Bezhotovostný vklad,2022,

@@ -1,0 +1,4 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2022-09-15,-59.09,Transakcia kartou,,"Nákup: FAXCOPY52,LC,GALERIA,  NAMESTIE REPUBLIKY 5994/32, LUCENEC, 98401, SVK, dne 14.9.2022, částka  59.09 EUR",,5117,,"Nákup: FAXCOPY52,LC,GALERIA,  NAMESTIE REPUBLIKY 5994/32, LUCENEC, 98401, SVK, dne 14.9.2022, částka  59.09 EUR"
+1,2022-09-14,-519.98,Bezhotovostná platba,,uhrada faktury,0308,2022096,,
+2,2022-09-13,3000.0,Bezhotovostný príjem,"Endrödyová Renáta, J",/DO2022-09-12/SPPrevod na ucet,,,,"Endrödyová Renáta, J"

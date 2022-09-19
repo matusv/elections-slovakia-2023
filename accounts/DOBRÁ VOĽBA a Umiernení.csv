@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-08-31,-4.35,EUR,Poplatok za vedenie účtu,Poplatok,,
-2,Guldan-Studio sro,2022-08-26,-1602.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),22011,
-3,Temper Communication a.s.,2022-08-12,-35000.0,EUR,Zalohova platba na kampan BA,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-4,Strana DOBRÁ VOĽBA,2022-08-05,40000.0,EUR,Prevod medzi účtami Dobrá voľba a Umierneni´,Bezhotovostný vklad,,
+0,GRYF MEDIA sro,2022-09-19,-192.0,EUR,Martina Činovská - Dobra volba a Umierneni´,Platobný príkaz na úhradu / FIT 2.0 (EB),22036,
+1,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-08-31,-4.35,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,Guldan-Studio sro,2022-08-26,-1602.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),22011,
+4,Temper Communication a.s.,2022-08-12,-35000.0,EUR,Zalohova platba na kampan BA,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+5,Strana DOBRÁ VOĽBA,2022-08-05,40000.0,EUR,Prevod medzi účtami Dobrá voľba a Umierneni´,Bezhotovostný vklad,,

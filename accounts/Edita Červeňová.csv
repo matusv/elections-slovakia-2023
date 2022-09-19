@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Artmaker s.r.o.,2022-09-13,-45,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),202226,13092022
-1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Červeňová Edita,2022-09-19,600,EUR,F001190920222459940,Bezhotovostný vklad,20220919,
+1,Artmaker s.r.o.,2022-09-13,-45,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),202226,13092022
+2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
