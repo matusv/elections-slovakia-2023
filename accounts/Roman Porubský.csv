@@ -1,12 +1,14 @@
 index,date,amount,account_name,message,vs
-0,2022-09-16,-42.05,,"Vyhotovenie diplomov, plagatov,med",
-1,2022-08-31,6.0,,Odpustenie vedenie konta,9
-2,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-3,2022-08-08,-120.0,František Téglás-Syntex,Vyhotovenie plagatov a bannerov,18
-4,2022-07-29,6.0,,Odpustenie vedenie konta,9
-5,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-6,2022-06-30,5.22,,Odpust.-popl.za platby a ved.úč/ko,9
-7,2022-06-30,-0.22,,Poplatky za platby spolu,9
-8,2022-06-30,-5.0,,Vedenie účtu,9
-9,2022-06-28,-110.0,Roman Porubský,Obcerstvenie zraz veteranov Salianskych 100 km Surany 25.06.2022,
-10,2022-06-14,3000.0,PORUBSKY ROMAN,Prispevok na volebnU kampan - Volby 2022,
+0,2022-09-19,-56.68,Roman Porubský,Platba za reklamu na socialnej sieti Facebook Meta Platforms,700516
+1,2022-09-19,-350.0,Spolok hudobníkov MAXIM,Uhrada faktury: 20220004 vystupenie hud.skupiny na Leco fest Surany,20220004
+2,2022-09-16,-42.05,,"Vyhotovenie diplomov, plagatov,med",
+3,2022-08-31,6.0,,Odpustenie vedenie konta,9
+4,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-08-08,-120.0,František Téglás-Syntex,Vyhotovenie plagatov a bannerov,18
+6,2022-07-29,6.0,,Odpustenie vedenie konta,9
+7,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+8,2022-06-30,5.22,,Odpust.-popl.za platby a ved.úč/ko,9
+9,2022-06-30,-0.22,,Poplatky za platby spolu,9
+10,2022-06-30,-5.0,,Vedenie účtu,9
+11,2022-06-28,-110.0,Roman Porubský,Obcerstvenie zraz veteranov Salianskych 100 km Surany 25.06.2022,
+12,2022-06-14,3000.0,PORUBSKY ROMAN,Prispevok na volebnU kampan - Volby 2022,
