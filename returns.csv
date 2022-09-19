@@ -3,8 +3,8 @@ index,index,date,amount,account_name,message,vs,name
 1,60,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
 2,21,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
 3,28,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
-4,72,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
-5,73,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
+4,73,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
+5,74,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
 6,75,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
 7,46,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
 8,43,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
