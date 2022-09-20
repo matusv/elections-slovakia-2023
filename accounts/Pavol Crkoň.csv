@@ -1,2 +1,3 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Crkoň Pavol, JUDr.",2022-09-19,1000,EUR,Volby,Bezhotovostný vklad - okamžitá platba,9,
+0,RETYP,2022-09-20,-229.2,EUR,0220920141707.733531,Okamžitá platba (EB),01092022,
+1,"Crkoň Pavol, JUDr.",2022-09-19,1000.0,EUR,Volby,Bezhotovostný vklad - okamžitá platba,9,
