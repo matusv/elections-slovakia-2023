@@ -1,9 +1,10 @@
 index,date,amount,account_name,message,vs
 0,2022-09-18,-12.0,Platba kartou,Platba kartou u obchodníka,****2777
-1,2022-09-19,-12.0,Platba kartou,FACEBK JPQJ6JPP fb.me/ads,****2777
-2,2022-09-19,-9.0,Platba kartou,FACEBK CT2CPGTP fb.me/ads,****2777
-3,2022-09-14,-9.0,Platba kartou,FACEBK BD27AHXP fb.me/ads,****2777
-4,2022-09-12,-9.0,"VUB,A.S.",DDFACEBK~MXF62J7Pfb.me/ads~~~~~~P1,****2777
-5,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-6,2022-08-31,-5.0,,Vedenie účtu,9
-7,2022-08-23,3000.0,"Solčanský Dalimír, JUDr., PhD.",dotacia transp ucet KV 22,2022
+1,2022-09-20,-12.0,Platba kartou,FACEBK VQ9DRGTP fb.me/ads,****2777
+2,2022-09-19,-12.0,Platba kartou,FACEBK JPQJ6JPP fb.me/ads,****2777
+3,2022-09-19,-9.0,Platba kartou,FACEBK CT2CPGTP fb.me/ads,****2777
+4,2022-09-14,-9.0,Platba kartou,FACEBK BD27AHXP fb.me/ads,****2777
+5,2022-09-12,-9.0,"VUB,A.S.",DDFACEBK~MXF62J7Pfb.me/ads~~~~~~P1,****2777
+6,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+7,2022-08-31,-5.0,,Vedenie účtu,9
+8,2022-08-23,3000.0,"Solčanský Dalimír, JUDr., PhD.",dotacia transp ucet KV 22,2022
