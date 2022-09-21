@@ -1,10 +1,11 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"ARDSYSTÉM, s.r.o.",2022-09-21,3916.76,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
-1,"ARDSYSTÉM, s.r.o.",2022-09-21,9000.0,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
-2,,2022-09-21,-152.75,EUR,"B1372106260-44544 12** **** 5471;FACEBK RPVNHE7P72 ,fb.me/ads ,IE ;19.09.2022 14:44:54 ;CashBack:0 EUR",Platba kartou,,
-3,,2022-09-16,-10.0,EUR,"B3345243977-214544 12** **** 5471;OM OC Novum II. Prešov ,Prešov ,SK ;16.09.2022 16:40:11 ",Výber kartou,,
-4,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-5,,2022-08-31,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-6,SME RODINA_Boris Kollár_členské,2022-08-27,30000.0,EUR,F001270820225814672,Bezhotovostný vklad,26082022,
-7,ARDSSYSTEM s.r.o.,2022-08-15,-3916.76,EUR,0220815102511.201742,Okamžitá platba (EB),,
-8,Bačo Jakub,2022-08-12,5000.0,EUR,F001120820223966563,Bezhotovostný vklad,,
+0,"EUROPE media services, spol. s.r.o.",2022-09-21,-25000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,"ARDSYSTÉM, s.r.o.",2022-09-21,3916.76,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
+2,"ARDSYSTÉM, s.r.o.",2022-09-21,9000.0,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
+3,,2022-09-21,-152.75,EUR,"B1372106260-44544 12** **** 5471;FACEBK RPVNHE7P72 ,fb.me/ads ,IE ;19.09.2022 14:44:54 ;CashBack:0 EUR",Platba kartou,,
+4,,2022-09-16,-10.0,EUR,"B3345243977-214544 12** **** 5471;OM OC Novum II. Prešov ,Prešov ,SK ;16.09.2022 16:40:11 ",Výber kartou,,
+5,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+6,,2022-08-31,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+7,SME RODINA_Boris Kollár_členské,2022-08-27,30000.0,EUR,F001270820225814672,Bezhotovostný vklad,26082022,
+8,ARDSSYSTEM s.r.o.,2022-08-15,-3916.76,EUR,0220815102511.201742,Okamžitá platba (EB),,
+9,Bačo Jakub,2022-08-12,5000.0,EUR,F001120820223966563,Bezhotovostný vklad,,

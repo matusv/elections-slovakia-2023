@@ -1,0 +1,7 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Prognessa,2022-09-20,-660.0,EUR,Úhrada faktúry 20220313,Okamžitá platba (EB),20220313,
+1,Prognessa,2022-09-19,-720.0,EUR,Úhrada faktúry 20220133,Okamžitá platba (EB),20220133,
+2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-08-31,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,,2022-07-31,-1.65,EUR,Poplatok za vedenie účtu,Poplatok,,

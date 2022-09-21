@@ -1,11 +1,13 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-20,200.0,Bezhotovostný príjem,DOSTAV - strešné okn,"/DO2022-09-19/SPDOSTAV - stresne okna, s.r.o.,",,,,DOSTAV - strešné okn
-1,2022-09-19,620.0,Bezhotovostný príjem,Tomáš Horváth,/DO2022-09-16/SP Kolek Peter - nezavisly kandidat na primatora mesta Galanta rok 2022,0558,16092022,,Tomáš Horváth
-2,2022-09-16,-80.0,Bezhotovostná platba,,prenajom priestoru ku kampani,,16092022,,prenajom priestoru ku kampani
-3,2022-09-09,-1340.0,Bezhotovostná platba,,,,20220902,,platba propagácia
-4,2022-09-05,100.0,Bezhotovostný príjem,PAPANEK JAN,/DO2022-09-02/SPDar od Jan Papanek,,02092022,,PAPANEK JAN
-5,2022-09-02,300.0,Bezhotovostný príjem,Šesták Bohuš,/DO2022-08-31/SP,,,,Šesták Bohuš
-6,2022-08-24,50.0,Bezhotovostný príjem,"Hauko Peter, Bc.",/DO2022-08-23/SP,,,,"Hauko Peter, Bc."
-7,2022-08-24,120.0,Bezhotovostný príjem,KLEMENT ADRIAN,Ing.Adrian Klement,,,,KLEMENT ADRIAN
-8,2022-08-04,5000.0,Bezhotovostný príjem,AGROREAL,Agroreal spol s r.o.,0308,03082022,,AGROREAL
-9,2022-05-05,10.0,Vklad v hotovosti,založenie transparentného účtu,,0558,,,založenie transparentného účtu
+0,2022-09-21,-619.2,Bezhotovostná platba,,Uhrada faktury 20220224,,20220224,,Infomax
+1,2022-09-21,-350.0,Bezhotovostná platba,,platba grafika,,22016,,graficke prace propagacie
+2,2022-09-20,200.0,Bezhotovostný príjem,DOSTAV - strešné okn,"/DO2022-09-19/SPDOSTAV - stresne okna, s.r.o.,",,,,DOSTAV - strešné okn
+3,2022-09-19,620.0,Bezhotovostný príjem,Tomáš Horváth,/DO2022-09-16/SP Kolek Peter - nezavisly kandidat na primatora mesta Galanta rok 2022,0558,16092022,,Tomáš Horváth
+4,2022-09-16,-80.0,Bezhotovostná platba,,prenajom priestoru ku kampani,,16092022,,prenajom priestoru ku kampani
+5,2022-09-09,-1340.0,Bezhotovostná platba,,,,20220902,,platba propagácia
+6,2022-09-05,100.0,Bezhotovostný príjem,PAPANEK JAN,/DO2022-09-02/SPDar od Jan Papanek,,02092022,,PAPANEK JAN
+7,2022-09-02,300.0,Bezhotovostný príjem,Šesták Bohuš,/DO2022-08-31/SP,,,,Šesták Bohuš
+8,2022-08-24,50.0,Bezhotovostný príjem,"Hauko Peter, Bc.",/DO2022-08-23/SP,,,,"Hauko Peter, Bc."
+9,2022-08-24,120.0,Bezhotovostný príjem,KLEMENT ADRIAN,Ing.Adrian Klement,,,,KLEMENT ADRIAN
+10,2022-08-04,5000.0,Bezhotovostný príjem,AGROREAL,Agroreal spol s r.o.,0308,03082022,,AGROREAL
+11,2022-05-05,10.0,Vklad v hotovosti,založenie transparentného účtu,,0558,,,založenie transparentného účtu
