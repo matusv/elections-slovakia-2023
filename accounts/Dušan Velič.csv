@@ -1,89 +1,90 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-21,-200.0,Bezhotovostná platba,,,,622022,,"- prenajom miesta Ruzinovske hody, outdoor kampan"
-1,2022-09-21,390.0,Bezhotovostný príjem,JANECEK PETER,/DO2022-09-20/SPdar - Peter Janecek - Zupna kampan 2022,0000,202200025,,JANECEK PETER
-2,2022-09-21,144.0,Bezhotovostný príjem,Hamšík František,/DO2022-09-20/SPdar  Frantisek Hamsik  Zupna kampan 2022,,202200023,,Hamšík František
-3,2022-09-21,4815.0,Bezhotovostný príjem,"Kaňuščák Milín, Ing.",/DO2022-09-20/SPdar pre Velica,0558,092022,092022,"Kaňuščák Milín, Ing."
-4,2022-09-21,420.0,Bezhotovostný príjem,Martin Florián,/DO2022-09-20/SP Dar - Martin Florian Tomankova 1 84105 BA - Zupna kampan 2022,,202200024,,Martin Florián
-5,2022-09-21,-310.2,Bezhotovostná platba,,,,221101052,,reklamne predmety REPRE
-6,2022-09-21,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 20.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 20.9.2022, částka  500.00 EUR"
-7,2022-09-20,-263.02,Transakcia kartou,,"Nákup: Projects s.r.o.,  Devinska Nova Ves 7465, Bratislava, 84107, SVK, dne 19.9.2022, částka  263.02 EUR",,7894,,"Nákup: Projects s.r.o.,  Devinska Nova Ves 7465, Bratislava, 84107, SVK, dne 19.9.2022, částka  263.02 EUR"
-8,2022-09-20,-540.0,Bezhotovostná platba,,social media organic booster,,,,
-9,2022-09-19,-448.8,Bezhotovostná platba,,REPRE baloby,,,,repre balony
-10,2022-09-19,-600.0,Bezhotovostná platba,,inzercia Karloveske noviny,,330,,
-11,2022-09-19,-613.56,Bezhotovostná platba,,Dusan Velic,,221101037,,
-12,2022-09-19,60.0,Bezhotovostný príjem,"Haščák Henrich, JUDr",/DO2022-09-16/SPHenrich Hascak - zupna kampan 2022,,,,"Haščák Henrich, JUDr"
-13,2022-09-18,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.9.2022, částka  500.00 EUR"
-14,2022-09-16,1320.0,Bezhotovostný príjem,"Rosival Ladislav, Mg",/DO2022-09-15/SPdar - Ladislav  Rosival - Zupna kampan 2022,,202200021,,"Rosival Ladislav, Mg"
-15,2022-09-16,60.0,Bezhotovostný príjem,"Beck Peter, Ing.",/DO2022-09-15/SPPeter Beck -Zupna kampan 2022,,,,"Beck Peter, Ing."
-16,2022-09-16,60.0,Bezhotovostný príjem,"Mucha Emil, Mgr.",/DO2022-09-14/SPZupna kampan 2022 - E.Mucha,,2022,,"Mucha Emil, Mgr."
-17,2022-09-15,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 14.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 14.9.2022, částka  500.00 EUR"
-18,2022-09-14,60.0,Bezhotovostný príjem,Marián Šípoš,/DO2022-09-14/SP Marian Sipos - Zupna kampan 2022,,,,Marián Šípoš
-19,2022-09-14,1200.0,Bezhotovostný príjem,Oppenbergerová Ingri,/DO2022-09-13/SPpodpora,,,,Oppenbergerová Ingri
-20,2022-09-14,15000.0,Bezhotovostný príjem,ZA ĽUDÍ,/DO2022-09-13/SPZA LUDI DUSAN VELIC VOLBY 2022,,13092022,,ZA ĽUDÍ
-21,2022-09-14,60.0,Bezhotovostný príjem,KUNST RASTISLAV,/DO2022-09-13/SPRastislav Kunst - Zupna kampan 2022,0308,092022,,KUNST RASTISLAV
-22,2022-09-14,60.0,Bezhotovostný príjem,Róbert Pajdlhauser,/DO2022-09-13/SP Robert Pajdlhauser - Zupna kampan 2022,,,,Róbert Pajdlhauser
-23,2022-09-14,-960.0,Bezhotovostná platba,,,,22144,,Prenájom reklamnej plochy
-24,2022-09-13,60.0,Bezhotovostný príjem,Janeček Peter,/DO2022-09-13/SPPeter Janecek - zupna kampan 2022,,,,Janeček Peter
-25,2022-09-13,60.0,Bezhotovostný príjem,Tóth Martin,/DO2022-09-12/SPMartin Toth - Zupna kampan 2022,,,,Tóth Martin
-26,2022-09-13,60.0,Bezhotovostný príjem,Martin Florián,/DO2022-09-13/SP Martin Florian - Zupna kampan 2022,,,,Martin Florián
-27,2022-09-13,100.0,Bezhotovostný príjem,BEHUN FRANTISEK,/DO2022-09-12/SPdar - Frantisek Behun - Zupna kampan 2022,,202200020,,BEHUN FRANTISEK
-28,2022-09-12,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 12.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 12.9.2022, částka  500.00 EUR"
-29,2022-09-10,-61.79,Transakcia kartou,,"Nákup: DIW print,  Galvaniho 2/A, Bratislava, 82104, SVK, dne 9.9.2022, částka  61.79 EUR",,7894,,"Nákup: DIW print,  Galvaniho 2/A, Bratislava, 82104, SVK, dne 9.9.2022, částka  61.79 EUR"
-30,2022-09-08,60.0,Bezhotovostný príjem,Pavol Čery,/DO2022-09-07/SPdar - Pavol Čery - Župná kampaň2022,,202200019,,Pavol Čery
-31,2022-09-08,-478.95,Transakcia kartou,,"Nákup: FACEBK SVTMVH7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.9.2022, částka  478.95 EUR",,7894,,"Nákup: FACEBK SVTMVH7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.9.2022, částka  478.95 EUR"
-32,2022-09-07,60.0,Bezhotovostný príjem,Matej Krčmár,/DO2022-09-06/SPMatej Krcmar - Župná kampaň 2022,0308,,,Matej Krčmár
-33,2022-09-07,60.0,Bezhotovostný príjem,HUMENSKY JOZEF,/DO2022-09-06/SPjozef humensky,,,,HUMENSKY JOZEF
-34,2022-09-06,60.0,Bezhotovostný príjem,Matej Šiškovič,/DO2022-09-06/SP Matej Siskovic - Zupna kampan 2022,,,,Matej Šiškovič
-35,2022-09-06,60.0,Bezhotovostný príjem,Emília Orlíková,/DO2022-09-05/SP Milos Orlik Zupna kampan 2022,,,,Emília Orlíková
-36,2022-09-06,-3555.46,Bezhotovostná platba,,Platba faktury 2211B00946,0008,221100946,,potlač merch zupanvelic
-37,2022-09-05,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 5.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 5.9.2022, částka  500.00 EUR"
-38,2022-09-05,500.0,Bezhotovostný príjem,STANCIKOVA MARIA,/DO2022-09-05/SP,,,,STANCIKOVA MARIA
-39,2022-09-05,60.0,Bezhotovostný príjem,Dušan Pekár,/DO2022-09-05/SPDušan Pekár - Župná kampaň 2022,,,,Dušan Pekár
-40,2022-09-02,-662.0,Platba prevodom v rámci banky,,VS22080016 SS KS,,22080016,,služby za správu online kampaní
-41,2022-09-02,-2208.0,Bezhotovostná platba,,,,,,bigboard
-42,2022-09-02,-1716.0,Bezhotovostná platba,,,,,,prenájom bigboard
-43,2022-09-02,-168.28,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.9.2022, částka  168.28 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.9.2022, částka  168.28 EUR"
-44,2022-08-30,100.0,Bezhotovostný príjem,Zdenka Šujanová,/DO2022-08-30/SPdar - Matej Šujan - Župná kampaň 2022,,202200018,,Zdenka Šujanová
-45,2022-08-30,60.0,Bezhotovostný príjem,Ľubomír Boháč,/DO2022-08-30/SP Dar Lubomir Bohac- Zupna kampan 2022,,202200017,2022,Ľubomír Boháč
-46,2022-08-30,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.8.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.8.2022, částka  500.00 EUR"
-47,2022-08-26,-11.99,Bezhotovostná platba,,Velic,0308,1022251318,,Ročná platba za doménu zupanvelic.sk
-48,2022-08-26,60.0,Bezhotovostný príjem,Sterbak Roman,/DO2022-08-25/SPRoman Sterbak fotenie,0308,0000000000,0000000000,Sterbak Roman
-49,2022-08-26,100.0,Bezhotovostný príjem,"Kaňuščák Milín, Ing.",/DO2022-08-25/SPMilin Kanuscak - podpora,0558,710519,2022,"Kaňuščák Milín, Ing."
-50,2022-08-26,100.0,Bezhotovostný príjem,"Rosival Ladislav, Mg",/DO2022-08-25/SPLadislav Rosival - podpora,,,,"Rosival Ladislav, Mg"
-51,2022-08-23,-74.9,Transakcia kartou,,"Nákup: Alza.cz a.s.,  Jankovcova, Prague, 170 00, CZE, dne 22.8.2022, částka  74.90 EUR",,7894,,"Nákup: Alza.cz a.s.,  Jankovcova, Prague, 170 00, CZE, dne 22.8.2022, částka  74.90 EUR"
-52,2022-08-23,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 22.8.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 22.8.2022, částka  500.00 EUR"
-53,2022-08-22,255.0,Bezhotovostný príjem,SCERBOVSKA ZUZANA,/DO2022-08-19/SPdar - Zuzana Scerbovska - Zupna kampan 2022,,,,SCERBOVSKA ZUZANA
-54,2022-08-19,250.0,Bezhotovostný príjem,"Klas Rudolf, JUDr.",/DO2022-08-18/SPdar - Rudo Klas - Zupna kampan 2022,,202200014,,"Klas Rudolf, JUDr."
-55,2022-08-19,220.0,Bezhotovostný príjem,Maroš Kľúčik,/DO2022-08-18/SPdar - Maroš Kľúčik - Župná kampaň 2022,,202200013,,Maroš Kľúčik
-56,2022-08-19,5.0,Bezhotovostný príjem,SCERBOVSKA ZUZANA,/DO2022-08-18/SPdar Zuzana Scerbovska Zupna kampan2022,,,,SCERBOVSKA ZUZANA
+0,2022-09-22,5.0,Bezhotovostný príjem,LABUDA MAREK,/DO2022-09-21/SP,,,,LABUDA MAREK
+1,2022-09-21,-200.0,Bezhotovostná platba,,,,622022,,"- prenajom miesta Ruzinovske hody, outdoor kampan"
+2,2022-09-21,390.0,Bezhotovostný príjem,JANECEK PETER,/DO2022-09-20/SPdar - Peter Janecek - Zupna kampan 2022,0000,202200025,,JANECEK PETER
+3,2022-09-21,144.0,Bezhotovostný príjem,Hamšík František,/DO2022-09-20/SPdar  Frantisek Hamsik  Zupna kampan 2022,,202200023,,Hamšík František
+4,2022-09-21,4815.0,Bezhotovostný príjem,"Kaňuščák Milín, Ing.",/DO2022-09-20/SPdar pre Velica,0558,092022,092022,"Kaňuščák Milín, Ing."
+5,2022-09-21,420.0,Bezhotovostný príjem,Martin Florián,/DO2022-09-20/SP Dar - Martin Florian Tomankova 1 84105 BA - Zupna kampan 2022,,202200024,,Martin Florián
+6,2022-09-21,-310.2,Bezhotovostná platba,,,,221101052,,reklamne predmety REPRE
+7,2022-09-21,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 20.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 20.9.2022, částka  500.00 EUR"
+8,2022-09-20,-263.02,Transakcia kartou,,"Nákup: Projects s.r.o.,  Devinska Nova Ves 7465, Bratislava, 84107, SVK, dne 19.9.2022, částka  263.02 EUR",,7894,,"Nákup: Projects s.r.o.,  Devinska Nova Ves 7465, Bratislava, 84107, SVK, dne 19.9.2022, částka  263.02 EUR"
+9,2022-09-20,-540.0,Bezhotovostná platba,,social media organic booster,,,,
+10,2022-09-19,-448.8,Bezhotovostná platba,,REPRE baloby,,,,repre balony
+11,2022-09-19,-600.0,Bezhotovostná platba,,inzercia Karloveske noviny,,330,,
+12,2022-09-19,-613.56,Bezhotovostná platba,,Dusan Velic,,221101037,,
+13,2022-09-19,60.0,Bezhotovostný príjem,"Haščák Henrich, JUDr",/DO2022-09-16/SPHenrich Hascak - zupna kampan 2022,,,,"Haščák Henrich, JUDr"
+14,2022-09-18,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 17.9.2022, částka  500.00 EUR"
+15,2022-09-16,1320.0,Bezhotovostný príjem,"Rosival Ladislav, Mg",/DO2022-09-15/SPdar - Ladislav  Rosival - Zupna kampan 2022,,202200021,,"Rosival Ladislav, Mg"
+16,2022-09-16,60.0,Bezhotovostný príjem,"Beck Peter, Ing.",/DO2022-09-15/SPPeter Beck -Zupna kampan 2022,,,,"Beck Peter, Ing."
+17,2022-09-16,60.0,Bezhotovostný príjem,"Mucha Emil, Mgr.",/DO2022-09-14/SPZupna kampan 2022 - E.Mucha,,2022,,"Mucha Emil, Mgr."
+18,2022-09-15,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 14.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 14.9.2022, částka  500.00 EUR"
+19,2022-09-14,60.0,Bezhotovostný príjem,Marián Šípoš,/DO2022-09-14/SP Marian Sipos - Zupna kampan 2022,,,,Marián Šípoš
+20,2022-09-14,1200.0,Bezhotovostný príjem,Oppenbergerová Ingri,/DO2022-09-13/SPpodpora,,,,Oppenbergerová Ingri
+21,2022-09-14,15000.0,Bezhotovostný príjem,ZA ĽUDÍ,/DO2022-09-13/SPZA LUDI DUSAN VELIC VOLBY 2022,,13092022,,ZA ĽUDÍ
+22,2022-09-14,60.0,Bezhotovostný príjem,KUNST RASTISLAV,/DO2022-09-13/SPRastislav Kunst - Zupna kampan 2022,0308,092022,,KUNST RASTISLAV
+23,2022-09-14,60.0,Bezhotovostný príjem,Róbert Pajdlhauser,/DO2022-09-13/SP Robert Pajdlhauser - Zupna kampan 2022,,,,Róbert Pajdlhauser
+24,2022-09-14,-960.0,Bezhotovostná platba,,,,22144,,Prenájom reklamnej plochy
+25,2022-09-13,60.0,Bezhotovostný príjem,Janeček Peter,/DO2022-09-13/SPPeter Janecek - zupna kampan 2022,,,,Janeček Peter
+26,2022-09-13,60.0,Bezhotovostný príjem,Tóth Martin,/DO2022-09-12/SPMartin Toth - Zupna kampan 2022,,,,Tóth Martin
+27,2022-09-13,60.0,Bezhotovostný príjem,Martin Florián,/DO2022-09-13/SP Martin Florian - Zupna kampan 2022,,,,Martin Florián
+28,2022-09-13,100.0,Bezhotovostný príjem,BEHUN FRANTISEK,/DO2022-09-12/SPdar - Frantisek Behun - Zupna kampan 2022,,202200020,,BEHUN FRANTISEK
+29,2022-09-12,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 12.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 12.9.2022, částka  500.00 EUR"
+30,2022-09-10,-61.79,Transakcia kartou,,"Nákup: DIW print,  Galvaniho 2/A, Bratislava, 82104, SVK, dne 9.9.2022, částka  61.79 EUR",,7894,,"Nákup: DIW print,  Galvaniho 2/A, Bratislava, 82104, SVK, dne 9.9.2022, částka  61.79 EUR"
+31,2022-09-08,60.0,Bezhotovostný príjem,Pavol Čery,/DO2022-09-07/SPdar - Pavol Čery - Župná kampaň2022,,202200019,,Pavol Čery
+32,2022-09-08,-478.95,Transakcia kartou,,"Nákup: FACEBK SVTMVH7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.9.2022, částka  478.95 EUR",,7894,,"Nákup: FACEBK SVTMVH7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.9.2022, částka  478.95 EUR"
+33,2022-09-07,60.0,Bezhotovostný príjem,Matej Krčmár,/DO2022-09-06/SPMatej Krcmar - Župná kampaň 2022,0308,,,Matej Krčmár
+34,2022-09-07,60.0,Bezhotovostný príjem,HUMENSKY JOZEF,/DO2022-09-06/SPjozef humensky,,,,HUMENSKY JOZEF
+35,2022-09-06,60.0,Bezhotovostný príjem,Matej Šiškovič,/DO2022-09-06/SP Matej Siskovic - Zupna kampan 2022,,,,Matej Šiškovič
+36,2022-09-06,60.0,Bezhotovostný príjem,Emília Orlíková,/DO2022-09-05/SP Milos Orlik Zupna kampan 2022,,,,Emília Orlíková
+37,2022-09-06,-3555.46,Bezhotovostná platba,,Platba faktury 2211B00946,0008,221100946,,potlač merch zupanvelic
+38,2022-09-05,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 5.9.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 5.9.2022, částka  500.00 EUR"
+39,2022-09-05,500.0,Bezhotovostný príjem,STANCIKOVA MARIA,/DO2022-09-05/SP,,,,STANCIKOVA MARIA
+40,2022-09-05,60.0,Bezhotovostný príjem,Dušan Pekár,/DO2022-09-05/SPDušan Pekár - Župná kampaň 2022,,,,Dušan Pekár
+41,2022-09-02,-662.0,Platba prevodom v rámci banky,,VS22080016 SS KS,,22080016,,služby za správu online kampaní
+42,2022-09-02,-2208.0,Bezhotovostná platba,,,,,,bigboard
+43,2022-09-02,-1716.0,Bezhotovostná platba,,,,,,prenájom bigboard
+44,2022-09-02,-168.28,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.9.2022, částka  168.28 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.9.2022, částka  168.28 EUR"
+45,2022-08-30,100.0,Bezhotovostný príjem,Zdenka Šujanová,/DO2022-08-30/SPdar - Matej Šujan - Župná kampaň 2022,,202200018,,Zdenka Šujanová
+46,2022-08-30,60.0,Bezhotovostný príjem,Ľubomír Boháč,/DO2022-08-30/SP Dar Lubomir Bohac- Zupna kampan 2022,,202200017,2022,Ľubomír Boháč
+47,2022-08-30,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.8.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.8.2022, částka  500.00 EUR"
+48,2022-08-26,-11.99,Bezhotovostná platba,,Velic,0308,1022251318,,Ročná platba za doménu zupanvelic.sk
+49,2022-08-26,60.0,Bezhotovostný príjem,Sterbak Roman,/DO2022-08-25/SPRoman Sterbak fotenie,0308,0000000000,0000000000,Sterbak Roman
+50,2022-08-26,100.0,Bezhotovostný príjem,"Kaňuščák Milín, Ing.",/DO2022-08-25/SPMilin Kanuscak - podpora,0558,710519,2022,"Kaňuščák Milín, Ing."
+51,2022-08-26,100.0,Bezhotovostný príjem,"Rosival Ladislav, Mg",/DO2022-08-25/SPLadislav Rosival - podpora,,,,"Rosival Ladislav, Mg"
+52,2022-08-23,-74.9,Transakcia kartou,,"Nákup: Alza.cz a.s.,  Jankovcova, Prague, 170 00, CZE, dne 22.8.2022, částka  74.90 EUR",,7894,,"Nákup: Alza.cz a.s.,  Jankovcova, Prague, 170 00, CZE, dne 22.8.2022, částka  74.90 EUR"
+53,2022-08-23,-500.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 22.8.2022, částka  500.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 22.8.2022, částka  500.00 EUR"
+54,2022-08-22,255.0,Bezhotovostný príjem,SCERBOVSKA ZUZANA,/DO2022-08-19/SPdar - Zuzana Scerbovska - Zupna kampan 2022,,,,SCERBOVSKA ZUZANA
+55,2022-08-19,250.0,Bezhotovostný príjem,"Klas Rudolf, JUDr.",/DO2022-08-18/SPdar - Rudo Klas - Zupna kampan 2022,,202200014,,"Klas Rudolf, JUDr."
+56,2022-08-19,220.0,Bezhotovostný príjem,Maroš Kľúčik,/DO2022-08-18/SPdar - Maroš Kľúčik - Župná kampaň 2022,,202200013,,Maroš Kľúčik
 57,2022-08-19,5.0,Bezhotovostný príjem,SCERBOVSKA ZUZANA,/DO2022-08-18/SPdar Zuzana Scerbovska Zupna kampan2022,,,,SCERBOVSKA ZUZANA
-58,2022-08-18,25.0,Bezhotovostný príjem,MIROSLAV BURDYCH,/DO2022-08-17/SPDAR - MIROSLAV BURDYCH - ZUPNA KAMPAN 2022,,0202200011,,MIROSLAV BURDYCH
-59,2022-08-17,200.0,Bezhotovostný príjem,SEKAN FILIP,/DO2022-08-16/SPdar - Filip Sekan - Zupna kampan 2022,,202200010,,SEKAN FILIP
-60,2022-08-16,-350.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 15.8.2022, částka  350.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 15.8.2022, částka  350.00 EUR"
-61,2022-08-15,-1024.6,Platba prevodom v rámci banky,,,,22080004,,Dušan Velič - správa kampaní na sociálnych sieťach
-62,2022-08-15,25.0,Bezhotovostný príjem,Macák Nicolas,/DO2022-08-12/SPdar - Nicolas Macak - Zupna kampan 2022,,202200009,,Macák Nicolas
-63,2022-08-12,25.0,Bezhotovostný príjem,Róbert Duba,/DO2022-08-12/SP dar - Robert Duba - Zupna kampan 2022,,,,Róbert Duba
-64,2022-08-11,-12.0,Platba prevodom v rámci banky,,Digitalizacia videokaziet Velic,,2201550111,,Digitalizácia videokaziet
-65,2022-08-08,-443.72,Transakcia kartou,,"Nákup: FACEBK TY38XGKHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.8.2022, částka  443.72 EUR",,7894,,"Nákup: FACEBK TY38XGKHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.8.2022, částka  443.72 EUR"
-66,2022-08-02,-277.2,Bezhotovostná platba,,"Inzercia Dusan Velic, kandidat na Z
+58,2022-08-19,5.0,Bezhotovostný príjem,SCERBOVSKA ZUZANA,/DO2022-08-18/SPdar Zuzana Scerbovska Zupna kampan2022,,,,SCERBOVSKA ZUZANA
+59,2022-08-18,25.0,Bezhotovostný príjem,MIROSLAV BURDYCH,/DO2022-08-17/SPDAR - MIROSLAV BURDYCH - ZUPNA KAMPAN 2022,,0202200011,,MIROSLAV BURDYCH
+60,2022-08-17,200.0,Bezhotovostný príjem,SEKAN FILIP,/DO2022-08-16/SPdar - Filip Sekan - Zupna kampan 2022,,202200010,,SEKAN FILIP
+61,2022-08-16,-350.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 15.8.2022, částka  350.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 15.8.2022, částka  350.00 EUR"
+62,2022-08-15,-1024.6,Platba prevodom v rámci banky,,,,22080004,,Dušan Velič - správa kampaní na sociálnych sieťach
+63,2022-08-15,25.0,Bezhotovostný príjem,Macák Nicolas,/DO2022-08-12/SPdar - Nicolas Macak - Zupna kampan 2022,,202200009,,Macák Nicolas
+64,2022-08-12,25.0,Bezhotovostný príjem,Róbert Duba,/DO2022-08-12/SP dar - Robert Duba - Zupna kampan 2022,,,,Róbert Duba
+65,2022-08-11,-12.0,Platba prevodom v rámci banky,,Digitalizacia videokaziet Velic,,2201550111,,Digitalizácia videokaziet
+66,2022-08-08,-443.72,Transakcia kartou,,"Nákup: FACEBK TY38XGKHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.8.2022, částka  443.72 EUR",,7894,,"Nákup: FACEBK TY38XGKHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.8.2022, částka  443.72 EUR"
+67,2022-08-02,-277.2,Bezhotovostná platba,,"Inzercia Dusan Velic, kandidat na Z
 upana, transparentny ucet, volby 20
 22, strana Za ludi",0308,,,"Inzercia v Bratislavských novinách: Dušan Velič, kandidát na Župana, transparentný účet, voľby 2022, strana Za ľudí"
-67,2022-08-02,-10.54,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR",,7894,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR"
-68,2022-08-02,-71.03,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR"
-69,2022-07-30,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR"
-70,2022-07-25,4000.0,Bezhotovostný príjem,ZA ĽUDÍ,/DO2022-07-22/SPZA LUDI DUSAN VELIC VOLBY 2022,,22072022,,ZA ĽUDÍ
-71,2022-07-23,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR"
-72,2022-07-22,-10.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR"
-73,2022-07-18,5.0,Bezhotovostný príjem,Boris Vereš,/DO2022-07-17/SPdar - Boris Vereš - Župná kampaň 2022,,202200007,,Boris Vereš
-74,2022-07-16,-9.0,Transakcia kartou,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR"
-75,2022-07-15,-9.0,Transakcia kartou,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR"
-76,2022-07-14,25.0,Bezhotovostný príjem,Gajdosikova Adriana,/DO2022-07-13/SPdar Adriana Gajdosikova Zupna kampan 2022,,,,Gajdosikova Adriana
-77,2022-07-14,-9.0,Transakcia kartou,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR"
-78,2022-07-11,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-07-09/SPdar - Annamarie Velic - Zupna kampan 2022,,,,"Velič Annamarie, Ing"
-79,2022-07-10,-300.0,Transakcia kartou,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR",,7894,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR"
-80,2022-07-01,-88.0,Platba prevodom v rámci banky,,Digitalizacia videokaziet,,2201550110,,Digitalizacia videokaziet
-81,2022-06-27,10000.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
-82,2022-06-27,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
-83,2022-06-24,100.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",dar - Dušan Velič - Župná kampaň 2022,,202200001,,dar - Dušan Velič - Župná kampaň 2022
-84,2022-06-17,-35.0,Poplatok - platobná karta,,"Založení expres karty, číslo bylo přiděleno",,7894,,"Založení expres karty, číslo bylo přiděleno"
-85,2022-06-16,35.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",založenie nového trans. účtu,,,,založenie nového trans. účtu
+68,2022-08-02,-10.54,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR",,7894,,"Nákup: GoogleAdwordsEU ADS945,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.8.2022, částka  10.54 EUR"
+69,2022-08-02,-71.03,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  71.03 EUR"
+70,2022-07-30,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 29.7.2022, částka  200.00 EUR"
+71,2022-07-25,4000.0,Bezhotovostný príjem,ZA ĽUDÍ,/DO2022-07-22/SPZA LUDI DUSAN VELIC VOLBY 2022,,22072022,,ZA ĽUDÍ
+72,2022-07-23,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.7.2022, částka  50.00 EUR"
+73,2022-07-22,-10.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR",,7894,,"Nákup: GOOGLE *ADS2088440911,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 21.7.2022, částka  10.00 EUR"
+74,2022-07-18,5.0,Bezhotovostný príjem,Boris Vereš,/DO2022-07-17/SPdar - Boris Vereš - Župná kampaň 2022,,202200007,,Boris Vereš
+75,2022-07-16,-9.0,Transakcia kartou,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK A8RUMGFHN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.7.2022, částka  9.00 EUR"
+76,2022-07-15,-9.0,Transakcia kartou,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK PV9YHG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  9.00 EUR"
+77,2022-07-14,25.0,Bezhotovostný príjem,Gajdosikova Adriana,/DO2022-07-13/SPdar Adriana Gajdosikova Zupna kampan 2022,,,,Gajdosikova Adriana
+78,2022-07-14,-9.0,Transakcia kartou,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR",,7894,,"Nákup: FACEBK TM9SGG7JN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.7.2022, částka  9.00 EUR"
+79,2022-07-11,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-07-09/SPdar - Annamarie Velic - Zupna kampan 2022,,,,"Velič Annamarie, Ing"
+80,2022-07-10,-300.0,Transakcia kartou,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR",,7894,,"Nákup: AUSPIC,  VIEDENSKA CESTA 24, BRATISLAVA, 85101, SVK, dne 8.7.2022, částka  300.00 EUR"
+81,2022-07-01,-88.0,Platba prevodom v rámci banky,,Digitalizacia videokaziet,,2201550110,,Digitalizacia videokaziet
+82,2022-06-27,10000.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
+83,2022-06-27,5.0,Bezhotovostný príjem,"Velič Annamarie, Ing",/DO2022-06-26/SPdar - Annamarie Velic - Zupna kampan 2022,,202200001,,"Velič Annamarie, Ing"
+84,2022-06-24,100.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",dar - Dušan Velič - Župná kampaň 2022,,202200001,,dar - Dušan Velič - Župná kampaň 2022
+85,2022-06-17,-35.0,Poplatok - platobná karta,,"Založení expres karty, číslo bylo přiděleno",,7894,,"Založení expres karty, číslo bylo přiděleno"
+86,2022-06-16,35.0,Platba prevodom v rámci banky,"doc., Ing. Velič, Dušan PhD.",založenie nového trans. účtu,,,,založenie nového trans. účtu

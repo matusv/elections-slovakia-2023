@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Máté István,2022-09-12,25,EUR,,Bezhotovostný vklad - okamžitá platba,,
-1,Kucsora Zsolt,2022-09-07,50,EUR,F001070920221704439,Bezhotovostný vklad,,
-2,Michal Zuber,2022-09-02,10,EUR,Kampan,Bezhotovostný vklad,,
-3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-4,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Kárpáty Ernö,2022-09-22,50,EUR,F001220920225457013,Bezhotovostný vklad,,
+1,Máté István,2022-09-12,25,EUR,,Bezhotovostný vklad - okamžitá platba,,
+2,Kucsora Zsolt,2022-09-07,50,EUR,F001070920221704439,Bezhotovostný vklad,,
+3,Michal Zuber,2022-09-02,10,EUR,Kampan,Bezhotovostný vklad,,
+4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+5,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
