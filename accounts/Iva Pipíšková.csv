@@ -1,0 +1,12 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,,2022-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+6,DENKI.SK s.r.o.,2022-03-23,-207.9,EUR,tlac letakov A5,Okamžitá platba (EB),132022,
+7,,2022-02-28,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+8,"Tomáš Vida - vizáž, fotenie volebnej kampane",2022-02-08,-80.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022007,
+9,"JFJ, spol.s r.o./vyhotovenie fotografií na volebnú",2022-02-07,-100.0,EUR,0220207134014.538853,Okamžitá platba (EB),022022,
+10,Pipíšková Iva,2022-02-02,500.0,EUR,F001020220223947128,Bezhotovostný vklad,,

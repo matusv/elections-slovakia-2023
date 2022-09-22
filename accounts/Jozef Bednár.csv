@@ -1,0 +1,10 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-09-21,-12.0,EUR,"B1372389105-44544 12** **** 6531;FACEBK ZSNXBGPPX2 ,fb.me/ads ,IE ;19.09.2022 21:25:21 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-09-19,-9.0,EUR,"B1371055974-44544 12** **** 6531;FACEBK 4DVS4H7PX2 ,fb.me/ads ,IE ;17.09.2022 22:07:36 ;CashBack:0 EUR",Platba kartou,,
+2,,2022-09-19,-9.0,EUR,"B1370962825-44544 12** **** 6531;FACEBK 296R7HBPX2 ,fb.me/ads ,IE ;17.09.2022 07:06:51 ;CashBack:0 EUR",Platba kartou,,
+3,,2022-09-16,-9.0,EUR,"B1369838178-44544 12** **** 6531;FACEBK CYPVTGKPX2 ,fb.me/ads ,IE ;15.09.2022 20:39:56 ;CashBack:0 EUR",Platba kartou,,
+4,EMSI s.r.o.,2022-09-12,500.0,EUR,Prispevok,Bezhotovostný vklad - okamžitá platba,,
+5,TATRA BANKA A.S. - CENTRÁLA,2022-09-12,700.0,EUR,prevod na transparentny ucet vlastne prostriedky,Bezhotovostný vklad,72012573,
+6,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+7,,2022-08-31,-1.35,EUR,Poplatok za vedenie účtu,Poplatok,,
+8,"Bednár Jozef, PhDr., PhD.",2022-08-29,20.0,EUR,"Poplatok transparentny ucet 8/2022, Slovenska sporitelna, a.s.",Bezhotovostný vklad - okamžitá platba,720125,28082022

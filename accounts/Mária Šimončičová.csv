@@ -1,2 +1,4 @@
 index,date,amount,account_name,message,vs
-0,2022-09-21,600.0,Mária Šimončičová,"Maria Simoncicova, Rajtakova 8, BA",
+0,2022-09-22,-228.83,Platba kartou,Platba kartou u obchodníka,****7165
+1,2022-09-22,600.0,Kern Ladislav,"Ladislav Kern, Vrancovicova 89, Bratislava",
+2,2022-09-21,600.0,Mária Šimončičová,"Maria Simoncicova, Rajtakova 8, BA",

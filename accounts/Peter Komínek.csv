@@ -1,3 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
 0,"DAVE spol, s.r.o.",2022-09-21,-188.4,EUR,Prenájom reklamného pútača,Okamžitá platba (EB),202221295,
-1,Milan Bodnár,2022-09-15,1.0,EUR,F001150920229082353,Bezhotovostný vklad,,
+1,Milan Bodnár,2022-09-15,1.0,EUR,,Bezhotovostný vklad,,
+2,"GRYF MEDIA, s.r.o.",2022-09-12,-264.0,EUR,prenajom reklamnej plochy,Okamžitá platba (EB),2200182,
+3,"DAVE spol, s.r.o.",2022-09-12,-228.0,EUR,Prenajom reklamneho putaca,Okamžitá platba (EB),202221262,
+4,"Tatiana Štrausova, Vojenská ul. 1270/2, 90041 Rovi",2022-09-12,-100.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+5,"Komínek Peter, Ing.",2022-09-12,1000.0,EUR,,Bezhotovostný vklad - okamžitá platba,,
