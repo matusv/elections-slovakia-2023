@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Holubová Viera Ing.,2022-09-21,50,EUR,F001210920224527867,Bezhotovostný vklad,21092022,
+1,Guláš Robert,2022-09-14,50,EUR,mas nasu podporu,Bezhotovostný vklad - okamžitá platba,14092022,
+2,,2022-09-02,-3,EUR,Poplatok za vklad hotovosti - Bežný účet,Poplatok,,
+3,,2022-09-02,300,EUR,,Vklad hotovosti,,
