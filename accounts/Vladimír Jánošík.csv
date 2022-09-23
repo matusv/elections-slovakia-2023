@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Jánošík Vladimír,Jánošíková Daniela",2022-09-23,600.0,EUR,F001230920225954185,Bezhotovostný vklad,,
-1,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,EXO Hosting,2022-08-24,-35.74,EUR,Doména vladojanosik.sk,Okamžitá platba (EB),2208929438,
-3,"Jánošík Vladimír,Jánošíková Daniela",2022-08-24,150.0,EUR,vklad,Bezhotovostný vklad,,
+0,Kandráč Peter,2022-09-23,600.0,EUR,Peter Kandrac,Bezhotovostný vklad,,
+1,"Jánošík Vladimír,Jánošíková Daniela",2022-09-23,600.0,EUR,F001230920225954185,Bezhotovostný vklad,,
+2,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,EXO Hosting,2022-08-24,-35.74,EUR,Doména vladojanosik.sk,Okamžitá platba (EB),2208929438,
+4,"Jánošík Vladimír,Jánošíková Daniela",2022-08-24,150.0,EUR,vklad,Bezhotovostný vklad,,
