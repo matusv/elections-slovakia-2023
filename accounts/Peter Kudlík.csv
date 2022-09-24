@@ -1,6 +1,8 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-02,2000.0,Bezhotovostný príjem,Hlatký Andrej,/DO2022-08-31/SP,,,,Hlatký Andrej
-1,2022-08-22,-2801.4,Bezhotovostná platba,,"Sluzby digitalneho marketingu (zalo
+0,2022-09-24,-120.0,Bezhotovostná platba,,Portretne atelierove fotografovanie,,0032022,,Portrétne ateliérové fotografovanie
+1,2022-09-24,120.0,Platba prevodom v rámci banky,"Kudlík, Peter",,,,,
+2,2022-09-02,2000.0,Bezhotovostný príjem,Hlatký Andrej,/DO2022-08-31/SP,,,,Hlatký Andrej
+3,2022-08-22,-2801.4,Bezhotovostná platba,,"Sluzby digitalneho marketingu (zalo
 hova faktura 50?) socialne siete, t
 vorba marketingovej strategie...",,30220063,,"Služby digitálneho marketingu (zálohová faktúra 50%) sociálne siete, tvorba marketingovej stratégie, vizuálnej identity a promo videa"
-2,2022-08-22,2815.0,Platba prevodom v rámci banky,"Kudlík, Peter","Služby digitálneho marketingu (zálohová faktúra 50%) ? sociálne siete, tvorba marketingovej stratégie, vizuálnej identity a promo videa",,,,
+4,2022-08-22,2815.0,Platba prevodom v rámci banky,"Kudlík, Peter","Služby digitálneho marketingu (zálohová faktúra 50%) ? sociálne siete, tvorba marketingovej stratégie, vizuálnej identity a promo videa",,,,
