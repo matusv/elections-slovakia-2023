@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Mesto Námestovo,2022-09-25,-357.8,EUR,mestské noviny Námestovčan,Okamžitá platba (EB),1314200100,
-1,Webglobe,2022-09-06,-12.0,EUR,,Okamžitá platba (EB),2289042737,
+0,"ImmerBest,s.r.o.",2022-09-25,-1800.0,EUR,reklamné plochy,Okamžitá platba (EB),20220237,
+1,Mesto Námestovo,2022-09-25,-357.8,EUR,mestské noviny Námestovčan,Okamžitá platba (EB),1314200100,
+2,Webglobe,2022-09-06,-12.0,EUR,,Okamžitá platba (EB),2289042737,
