@@ -27,10 +27,10 @@ index,index,date,amount,account_name,message,vs,name
 25,39,2022-08-22,0.01,Tomko Dalibor,Na solarko pre smerakov.,,HLAS - sociálna demokracia
 26,15,2022-09-21,-0.01,Sitáš Pavol,na granulky a pre fotografa geryhoci leryho. proste psa jak mal byvaly šefinko.a ak vyda aj na solarko anejakeho typka čo da šutajovi pusu,,HLAS - sociálna demokracia
 27,35,2022-08-23,0.01,Sitáš Pavol,na granulky a pre fotografa geryhoci leryho. proste psa jak mal byvaly šefinko.a ak vyda aj na solarko anejakeho typka čo da šutajovi pusu,,HLAS - sociálna demokracia
-28,86,2022-07-04,-161.7,Poľnohospodárske družstvo Chtelnica,potraviny na podujatie,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
-29,79,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
-30,40,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
-31,47,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
+28,87,2022-07-04,-161.7,Poľnohospodárske družstvo Chtelnica,potraviny na podujatie,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
+29,80,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
+30,41,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
+31,48,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
 32,101,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
 33,102,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
 34,100,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
@@ -59,12 +59,12 @@ index,index,date,amount,account_name,message,vs,name
 57,94,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
 58,69,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
 59,74,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
-60,493,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
-61,494,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
-62,472,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
-63,482,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
-64,102,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
-65,152,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
+60,494,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
+61,495,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
+62,473,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
+63,483,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
+64,103,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
+65,153,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
 66,16,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
 67,17,2022-09-16,300.0,"GFD, s.r.o.",F001160920220820044,,Branislav Filipovič
 68,8,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák

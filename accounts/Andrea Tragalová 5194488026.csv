@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Tragalova Margita,2022-09-26,1000,EUR,Margita Tragalova Partizanska 3 04001 Kosice,Bezhotovostný vklad,,
-1,Tragalova Andrea,2022-09-20,2000,EUR,23524930,Bezhotovostný vklad,,
-2,Tragalova Andrea,2022-09-06,500,EUR,23377962,Bezhotovostný vklad,,
+0,BUSINESS BROTHERS,2022-09-26,-1722.24,EUR,PhDr. Andrea Tragalová; ; 20.09.2022,Platobný príkaz na úhradu / FIT 2.0 (EB),20220915,
+1,Tragalova Margita,2022-09-26,1000.0,EUR,Margita Tragalova Partizanska 3 04001 Kosice,Bezhotovostný vklad,,
+2,Tragalova Andrea,2022-09-20,2000.0,EUR,23524930,Bezhotovostný vklad,,
+3,Tragalova Andrea,2022-09-06,500.0,EUR,23377962,Bezhotovostný vklad,,
