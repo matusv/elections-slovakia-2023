@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Creo advertising, s. r. o.",2022-09-08,-24900.0,EUR,prenájom reklamných plôch podľa objednávky,Platobný príkaz na úhradu / FIT 2.0 (EB),2022014,
-1,HLAS - voľby do VÚC a KV 2022,2022-09-05,10000.0,EUR,F001050920220223754,Bezhotovostný vklad,,
-2,KALINAK MICHAL,2022-09-02,15000.0,EUR,TRANSPARENTNY UCET MICHAL KALINAKVOLBY 2022,Bezhotovostný vklad,,
-3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-4,,2022-08-31,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,BASISTA VLADISLAV,2022-09-26,4000.0,EUR,dar,Bezhotovostný vklad,,
+1,"Creo advertising, s. r. o.",2022-09-08,-24900.0,EUR,prenájom reklamných plôch podľa objednávky,Platobný príkaz na úhradu / FIT 2.0 (EB),2022014,
+2,HLAS - voľby do VÚC a KV 2022,2022-09-05,10000.0,EUR,F001050920220223754,Bezhotovostný vklad,,
+3,KALINAK MICHAL,2022-09-02,15000.0,EUR,TRANSPARENTNY UCET MICHAL KALINAKVOLBY 2022,Bezhotovostný vklad,,
+4,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,,2022-08-31,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,

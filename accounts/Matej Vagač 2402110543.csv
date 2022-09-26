@@ -1,159 +1,160 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-24,-270.0,Transakcia kartou,,"Nákup: FACEBK EP4FVG7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2022, částka  270.00 EUR",,4926,,"Nákup: FACEBK EP4FVG7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2022, částka  270.00 EUR"
-1,2022-09-24,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2082459341,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.9.2022, částka  50.00 EUR",,4926,,"Nákup: GOOGLE *ADS2082459341,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.9.2022, částka  50.00 EUR"
-2,2022-09-23,300.0,Bezhotovostný príjem,DEBRECKY ERIK,/DO2022-09-22/SPDebrecky Erik,,,,DEBRECKY ERIK
-3,2022-09-22,1000.0,Bezhotovostný príjem,Szombath Dominik,/DO2022-09-21/SPdar,,202251,,Szombath Dominik
-4,2022-09-22,500.0,Bezhotovostný príjem,GEODÉZIA UHLÍK s.r.o,/DO2022-09-21/SPdar,,202252,,GEODÉZIA UHLÍK s.r.o
-5,2022-09-21,38.0,Bezhotovostný príjem,Andrej Jaroš,/DO2022-09-21/SP platba za mikinu a tricko Stare Mesto,0008,,,Andrej Jaroš
-6,2022-09-21,-500.0,Bezhotovostná platba,,,0308,2022017,,copywriting
-7,2022-09-18,-270.0,Transakcia kartou,,"Nákup: FACEBK PGWPRHPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2022, částka  270.00 EUR",,4926,,"Nákup: FACEBK PGWPRHPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2022, částka  270.00 EUR"
-8,2022-09-17,-200.0,Bezhotovostná platba,,Zalamovanie katalogu,,2022003,,zalomenie katalóg č.2
-9,2022-09-17,-635.92,Bezhotovostná platba,,preddavok za sluzbu,,12022001,,Letákovenie 1.
-10,2022-09-16,-2621.71,Platba prevodom v rámci banky,,Tlac,,20220111,,Rastúci papier semienka: lúčne kvety
-11,2022-09-16,25.0,Bezhotovostný príjem,Zuzana Mrvová,/DO2022-09-15/SPdar,,202250,,Zuzana Mrvová
-12,2022-09-16,10.0,Bezhotovostný príjem,Štefánková Marta,/DO2022-09-14/SPdar,,202249,,Štefánková Marta
-13,2022-09-15,-110.5,Bezhotovostná platba,,podporte.vagac.sk,,2022016,,darovací formulář
-14,2022-09-15,-2614.8,Bezhotovostná platba,,tlac novin,,202209042,,Noviny 2
-15,2022-09-14,50.0,Bezhotovostný príjem,MONIKA BOSNAKOVA,/DO2022-09-13/SPPREVOD PROSTRIEDKOV,,0000202248,,MONIKA BOSNAKOVA
-16,2022-09-14,1000.0,Bezhotovostný príjem,PETR SKALNIK,dar,,202247,,PETR SKALNIK
-17,2022-09-12,-720.0,Bezhotovostná platba,,Platba faktury 226020052,0008,226020052,,prenájom bicykla
-18,2022-09-08,20.0,Bezhotovostný príjem,HITKOVA PETRA,/DO2022-09-07/SPdar,,202246,,HITKOVA PETRA
-19,2022-09-07,1000.0,Bezhotovostný príjem,Kavanová Jana,/DO2022-09-06/SP,,,,Kavanová Jana
-20,2022-09-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-09-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-21,2022-09-05,-48.0,Bezhotovostná platba,,,,20221400,,Pečiatky
-22,2022-09-05,80.0,Platba prevodom v rámci banky,"Mgr. Mikulášek, Juraj",Dar,,202208,,Dar
-23,2022-09-05,250.0,Bezhotovostný príjem,Jozef Kožár,/DO2022-09-04/SPdar,,202245,,Jozef Kožár
-24,2022-09-05,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-09-02/SP,,,,Hošovský Gabriel
-25,2022-09-05,-180.0,Transakcia kartou,,"Nákup: FACEBK LM8DFJBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  180.00 EUR",,4926,,"Nákup: FACEBK LM8DFJBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  180.00 EUR"
-26,2022-08-30,-20000.0,Bezhotovostná platba,,Reklamne sluzby,,122290254,,BigMedia spol. s r.o.
-27,2022-08-27,-173.96,Transakcia kartou,,"Nákup: FACEBK MBESUHTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.8.2022, částka  173.96 EUR",,4926,,"Nákup: FACEBK MBESUHTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.8.2022, částka  173.96 EUR"
-28,2022-08-25,10.0,Bezhotovostný príjem,BORIS HOCHEL,/DO2022-08-24/SPTRICKO SM,,,,BORIS HOCHEL
-29,2022-08-25,66.0,Bezhotovostný príjem,"Kulich Marián, Mgr.",/DO2022-08-24/SP,,,,"Kulich Marián, Mgr."
-30,2022-08-25,10.0,Bezhotovostný príjem,Beňuška Matej,/DO2022-08-24/SPmatej benuska merch,,,,Beňuška Matej
-31,2022-08-25,20.0,Bezhotovostný príjem,Martin Švec,/DO2022-08-24/SP Dar,0298,82022,82022,Martin Švec
-32,2022-08-25,10.0,Bezhotovostný príjem,Monika Šmondrková,/DO2022-08-24/SP,,,,Monika Šmondrková
-33,2022-08-25,30.0,Bezhotovostný príjem,PETR SKALNIK,dar,,202244,,PETR SKALNIK
-34,2022-08-18,-450.0,Bezhotovostná platba,,,0308,2022015,,copywriting
-35,2022-08-18,50.0,Bezhotovostný príjem,Bútora Ivan,/DO2022-08-17/SPBRATISKA,,,,Bútora Ivan
-36,2022-08-17,58.0,Bezhotovostný príjem,JUST IGOR,/DO2022-08-16/SPTricka,,,,JUST IGOR
-37,2022-08-15,-180.0,Transakcia kartou,,"Nákup: FACEBK N83YYFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.8.2022, částka  180.00 EUR",,4926,,"Nákup: FACEBK N83YYFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.8.2022, částka  180.00 EUR"
-38,2022-08-12,15.0,Bezhotovostný príjem,JOZSOVA RENATA,/DO2022-08-11/SPRenata DAR,,,,JOZSOVA RENATA
-39,2022-08-11,10.0,Bezhotovostný príjem,MIROSLAVA JAKUBIKOVA,/DO2022-08-10/SPDAR,,0000202242,,MIROSLAVA JAKUBIKOVA
-40,2022-08-10,-100.0,Bezhotovostná platba,,podporte.vagac.sk,,2022011,,darovací formulář
-41,2022-08-09,-1426.0,Bezhotovostná platba,,"Bratiska, s.r.o.: 2022057 - Matej V
+0,2022-09-26,100.0,Bezhotovostný príjem,"Sukniaková Zuzana, I",/DO2022-09-23/SPdar,,202253,,"Sukniaková Zuzana, I"
+1,2022-09-24,-270.0,Transakcia kartou,,"Nákup: FACEBK EP4FVG7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2022, částka  270.00 EUR",,4926,,"Nákup: FACEBK EP4FVG7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2022, částka  270.00 EUR"
+2,2022-09-24,-50.0,Transakcia kartou,,"Nákup: GOOGLE *ADS2082459341,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.9.2022, částka  50.00 EUR",,4926,,"Nákup: GOOGLE *ADS2082459341,  70 Sir John Rogerson's Quay, 650-253-0000, UNKNOWN, IRL, dne 23.9.2022, částka  50.00 EUR"
+3,2022-09-23,300.0,Bezhotovostný príjem,DEBRECKY ERIK,/DO2022-09-22/SPDebrecky Erik,,,,DEBRECKY ERIK
+4,2022-09-22,1000.0,Bezhotovostný príjem,Szombath Dominik,/DO2022-09-21/SPdar,,202251,,Szombath Dominik
+5,2022-09-22,500.0,Bezhotovostný príjem,GEODÉZIA UHLÍK s.r.o,/DO2022-09-21/SPdar,,202252,,GEODÉZIA UHLÍK s.r.o
+6,2022-09-21,38.0,Bezhotovostný príjem,Andrej Jaroš,/DO2022-09-21/SP platba za mikinu a tricko Stare Mesto,0008,,,Andrej Jaroš
+7,2022-09-21,-500.0,Bezhotovostná platba,,,0308,2022017,,copywriting
+8,2022-09-18,-270.0,Transakcia kartou,,"Nákup: FACEBK PGWPRHPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2022, částka  270.00 EUR",,4926,,"Nákup: FACEBK PGWPRHPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2022, částka  270.00 EUR"
+9,2022-09-17,-200.0,Bezhotovostná platba,,Zalamovanie katalogu,,2022003,,zalomenie katalóg č.2
+10,2022-09-17,-635.92,Bezhotovostná platba,,preddavok za sluzbu,,12022001,,Letákovenie 1.
+11,2022-09-16,-2621.71,Platba prevodom v rámci banky,,Tlac,,20220111,,Rastúci papier semienka: lúčne kvety
+12,2022-09-16,25.0,Bezhotovostný príjem,Zuzana Mrvová,/DO2022-09-15/SPdar,,202250,,Zuzana Mrvová
+13,2022-09-16,10.0,Bezhotovostný príjem,Štefánková Marta,/DO2022-09-14/SPdar,,202249,,Štefánková Marta
+14,2022-09-15,-110.5,Bezhotovostná platba,,podporte.vagac.sk,,2022016,,darovací formulář
+15,2022-09-15,-2614.8,Bezhotovostná platba,,tlac novin,,202209042,,Noviny 2
+16,2022-09-14,50.0,Bezhotovostný príjem,MONIKA BOSNAKOVA,/DO2022-09-13/SPPREVOD PROSTRIEDKOV,,0000202248,,MONIKA BOSNAKOVA
+17,2022-09-14,1000.0,Bezhotovostný príjem,PETR SKALNIK,dar,,202247,,PETR SKALNIK
+18,2022-09-12,-720.0,Bezhotovostná platba,,Platba faktury 226020052,0008,226020052,,prenájom bicykla
+19,2022-09-08,20.0,Bezhotovostný príjem,HITKOVA PETRA,/DO2022-09-07/SPdar,,202246,,HITKOVA PETRA
+20,2022-09-07,1000.0,Bezhotovostný príjem,Kavanová Jana,/DO2022-09-06/SP,,,,Kavanová Jana
+21,2022-09-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-09-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+22,2022-09-05,-48.0,Bezhotovostná platba,,,,20221400,,Pečiatky
+23,2022-09-05,80.0,Platba prevodom v rámci banky,"Mgr. Mikulášek, Juraj",Dar,,202208,,Dar
+24,2022-09-05,250.0,Bezhotovostný príjem,Jozef Kožár,/DO2022-09-04/SPdar,,202245,,Jozef Kožár
+25,2022-09-05,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-09-02/SP,,,,Hošovský Gabriel
+26,2022-09-05,-180.0,Transakcia kartou,,"Nákup: FACEBK LM8DFJBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  180.00 EUR",,4926,,"Nákup: FACEBK LM8DFJBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.9.2022, částka  180.00 EUR"
+27,2022-08-30,-20000.0,Bezhotovostná platba,,Reklamne sluzby,,122290254,,BigMedia spol. s r.o.
+28,2022-08-27,-173.96,Transakcia kartou,,"Nákup: FACEBK MBESUHTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.8.2022, částka  173.96 EUR",,4926,,"Nákup: FACEBK MBESUHTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.8.2022, částka  173.96 EUR"
+29,2022-08-25,10.0,Bezhotovostný príjem,BORIS HOCHEL,/DO2022-08-24/SPTRICKO SM,,,,BORIS HOCHEL
+30,2022-08-25,66.0,Bezhotovostný príjem,"Kulich Marián, Mgr.",/DO2022-08-24/SP,,,,"Kulich Marián, Mgr."
+31,2022-08-25,10.0,Bezhotovostný príjem,Beňuška Matej,/DO2022-08-24/SPmatej benuska merch,,,,Beňuška Matej
+32,2022-08-25,20.0,Bezhotovostný príjem,Martin Švec,/DO2022-08-24/SP Dar,0298,82022,82022,Martin Švec
+33,2022-08-25,10.0,Bezhotovostný príjem,Monika Šmondrková,/DO2022-08-24/SP,,,,Monika Šmondrková
+34,2022-08-25,30.0,Bezhotovostný príjem,PETR SKALNIK,dar,,202244,,PETR SKALNIK
+35,2022-08-18,-450.0,Bezhotovostná platba,,,0308,2022015,,copywriting
+36,2022-08-18,50.0,Bezhotovostný príjem,Bútora Ivan,/DO2022-08-17/SPBRATISKA,,,,Bútora Ivan
+37,2022-08-17,58.0,Bezhotovostný príjem,JUST IGOR,/DO2022-08-16/SPTricka,,,,JUST IGOR
+38,2022-08-15,-180.0,Transakcia kartou,,"Nákup: FACEBK N83YYFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.8.2022, částka  180.00 EUR",,4926,,"Nákup: FACEBK N83YYFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.8.2022, částka  180.00 EUR"
+39,2022-08-12,15.0,Bezhotovostný príjem,JOZSOVA RENATA,/DO2022-08-11/SPRenata DAR,,,,JOZSOVA RENATA
+40,2022-08-11,10.0,Bezhotovostný príjem,MIROSLAVA JAKUBIKOVA,/DO2022-08-10/SPDAR,,0000202242,,MIROSLAVA JAKUBIKOVA
+41,2022-08-10,-100.0,Bezhotovostná platba,,podporte.vagac.sk,,2022011,,darovací formulář
+42,2022-08-09,-1426.0,Bezhotovostná platba,,"Bratiska, s.r.o.: 2022057 - Matej V
 agac - 2022/08",,2022057,,Tričká
-42,2022-08-08,10.0,Bezhotovostný príjem,"Dojčánová Anna, Mgr.",/DO2022-08-07/SPDar Dojcanova,,,,"Dojčánová Anna, Mgr."
-43,2022-08-08,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-08-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-44,2022-08-02,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-08-01/SP,,,,Hošovský Gabriel
-45,2022-08-02,15000.0,Bezhotovostný príjem,"Horváth Tomáš, Ing.","/DO2022-08-01/SP, MV SSMB",,,,"Horváth Tomáš, Ing."
-46,2022-08-02,40.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-08-01/SP,,,,"Illéš Erik, Mgr."
-47,2022-08-02,100.0,Bezhotovostný príjem,Tomáš Murgaš,/DO2022-08-01/SP DAR,,,,Tomáš Murgaš
-48,2022-08-01,20.0,Bezhotovostný príjem,Gaálová Milena,/DO2022-07-31/SPGaalova Milena tricka Team BA,,,,Gaálová Milena
-49,2022-08-01,20.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-07-29/SPDAR,,,,"Illéš Erik, Mgr."
-50,2022-07-29,30.0,Bezhotovostný príjem,Ondrejčáková Skarlet,/DO2022-07-28/SPDar,,,,Ondrejčáková Skarlet
-51,2022-07-29,50.0,Bezhotovostný príjem,KORMAN MAROS,/DO2022-07-28/SPdar,,,,KORMAN MAROS
-52,2022-07-29,80.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-07-28/SPDar,,,,"Kleinert Dana, Mgr.a"
-53,2022-07-29,10.0,Bezhotovostný príjem,Samuel Ondrek,/DO2022-07-28/SPDar,,,,Samuel Ondrek
-54,2022-07-29,10.0,Bezhotovostný príjem,SLADEK MICHAL,/DO2022-07-28/SPSladek Bratiska,,,,SLADEK MICHAL
-55,2022-07-29,20.0,Bezhotovostný príjem,TEREN LUKAS,/DO2022-07-28/SPDar,,,,TEREN LUKAS
-56,2022-07-27,-54.35,Transakcia kartou,,"Nákup: FACEBK SMMSTFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.7.2022, částka  54.35 EUR",,4926,,"Nákup: FACEBK SMMSTFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.7.2022, částka  54.35 EUR"
-57,2022-07-25,-250.0,Bezhotovostná platba,,vratenie platby,,,,vrátenie platby Mw B Kerkhof
-58,2022-07-25,250.0,Bezhotovostný príjem,Mw B Kerkhof,202241,,,,Mw B Kerkhof
-59,2022-07-23,-120.0,Transakcia kartou,,"Nákup: FACEBK 5R6FFFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.7.2022, částka  120.00 EUR",,4926,,"Nákup: FACEBK 5R6FFFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.7.2022, částka  120.00 EUR"
-60,2022-07-18,100.0,Bezhotovostný príjem,"Schmidt Andrej, Ing.",/DO2022-07-15/SPdar,,202240,,"Schmidt Andrej, Ing."
-61,2022-07-15,-84.0,Transakcia kartou,,"Nákup: FACEBK L3J6JFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  84.00 EUR",,4926,,"Nákup: FACEBK L3J6JFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  84.00 EUR"
-62,2022-07-07,-48.0,Transakcia kartou,,"Nákup: FACEBK RKSKWFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  48.00 EUR",,4926,,"Nákup: FACEBK RKSKWFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  48.00 EUR"
-63,2022-07-06,-900.0,Bezhotovostná platba,,,,202204,,Propagačné videá
-64,2022-07-06,10.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-07-05/SPdar,,202237,,"Kleinert Dana, Mgr.a"
-65,2022-07-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-07-04/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-66,2022-07-05,-48.0,Platba prevodom v rámci banky,,,0308,22133,,odznak
-67,2022-07-04,50.0,Bezhotovostný príjem,KORMAN MAROS,/DO2022-07-04/SPdar,0000,202236,,KORMAN MAROS
-68,2022-07-04,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-07-01/SP,,,,Hošovský Gabriel
-69,2022-07-04,40.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-07-01/SP,,,,"Illéš Erik, Mgr."
-70,2022-07-04,1000.0,Bezhotovostný príjem,Matys Michal,/DO2022-07-01/SP,,,,Matys Michal
-71,2022-07-03,-150.0,Bezhotovostná platba,,podporte.vagac.sk,,2022009,,darovací formulář
-72,2022-07-03,-600.0,Bezhotovostná platba,,,0308,2022009,,copywriting
-73,2022-07-01,-36.0,Transakcia kartou,,"Nákup: FACEBK 78QVTFPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  36.00 EUR",,4926,,"Nákup: FACEBK 78QVTFPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  36.00 EUR"
-74,2022-07-01,-24.0,Transakcia kartou,,"Nákup: FACEBK 5HQ5YEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  24.00 EUR",,4926,,"Nákup: FACEBK 5HQ5YEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  24.00 EUR"
-75,2022-06-30,-24.0,Transakcia kartou,,"Nákup: FACEBK PYU2FGTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR",,4926,,"Nákup: FACEBK PYU2FGTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR"
-76,2022-06-30,-24.0,Transakcia kartou,,"Nákup: FACEBK CENVRGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR",,4926,,"Nákup: FACEBK CENVRGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR"
-77,2022-06-30,2600.0,Bezhotovostný príjem,HELENA TUZINSKA,/DO2022-06-30/SPDAR,,0000202235,,HELENA TUZINSKA
-78,2022-06-30,600.0,Bezhotovostný príjem,SCHNORRER LUCIA,/DO2022-06-29/SPdar,,202234,,SCHNORRER LUCIA
-79,2022-06-29,-1800.0,Bezhotovostná platba,,,,202224,,Reklamný spot postprodukcia
-80,2022-06-29,-14.4,Transakcia kartou,,"Nákup: FACEBK 92VULF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR",,4926,,"Nákup: FACEBK 92VULF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR"
-81,2022-06-29,-4.8,Transakcia kartou,,"Nákup: FACEBK 8BMSWEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  4.80 EUR",,4926,,"Nákup: FACEBK 8BMSWEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  4.80 EUR"
-82,2022-06-29,-14.4,Transakcia kartou,,"Nákup: FACEBK 74ABRFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR",,4926,,"Nákup: FACEBK 74ABRFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR"
-83,2022-06-29,-7.2,Transakcia kartou,,"Nákup: FACEBK FV8TLF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  7.20 EUR",,4926,,"Nákup: FACEBK FV8TLF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  7.20 EUR"
-84,2022-06-29,-10.8,Transakcia kartou,,"Nákup: FACEBK AQJJRE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  10.80 EUR",,4926,,"Nákup: FACEBK AQJJRE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  10.80 EUR"
-85,2022-06-29,-918.0,Bezhotovostná platba,,"doplatenie tlace - druha cast faktu
+43,2022-08-08,10.0,Bezhotovostný príjem,"Dojčánová Anna, Mgr.",/DO2022-08-07/SPDar Dojcanova,,,,"Dojčánová Anna, Mgr."
+44,2022-08-08,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-08-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+45,2022-08-02,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-08-01/SP,,,,Hošovský Gabriel
+46,2022-08-02,15000.0,Bezhotovostný príjem,"Horváth Tomáš, Ing.","/DO2022-08-01/SP, MV SSMB",,,,"Horváth Tomáš, Ing."
+47,2022-08-02,40.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-08-01/SP,,,,"Illéš Erik, Mgr."
+48,2022-08-02,100.0,Bezhotovostný príjem,Tomáš Murgaš,/DO2022-08-01/SP DAR,,,,Tomáš Murgaš
+49,2022-08-01,20.0,Bezhotovostný príjem,Gaálová Milena,/DO2022-07-31/SPGaalova Milena tricka Team BA,,,,Gaálová Milena
+50,2022-08-01,20.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-07-29/SPDAR,,,,"Illéš Erik, Mgr."
+51,2022-07-29,30.0,Bezhotovostný príjem,Ondrejčáková Skarlet,/DO2022-07-28/SPDar,,,,Ondrejčáková Skarlet
+52,2022-07-29,50.0,Bezhotovostný príjem,KORMAN MAROS,/DO2022-07-28/SPdar,,,,KORMAN MAROS
+53,2022-07-29,80.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-07-28/SPDar,,,,"Kleinert Dana, Mgr.a"
+54,2022-07-29,10.0,Bezhotovostný príjem,Samuel Ondrek,/DO2022-07-28/SPDar,,,,Samuel Ondrek
+55,2022-07-29,10.0,Bezhotovostný príjem,SLADEK MICHAL,/DO2022-07-28/SPSladek Bratiska,,,,SLADEK MICHAL
+56,2022-07-29,20.0,Bezhotovostný príjem,TEREN LUKAS,/DO2022-07-28/SPDar,,,,TEREN LUKAS
+57,2022-07-27,-54.35,Transakcia kartou,,"Nákup: FACEBK SMMSTFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.7.2022, částka  54.35 EUR",,4926,,"Nákup: FACEBK SMMSTFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.7.2022, částka  54.35 EUR"
+58,2022-07-25,-250.0,Bezhotovostná platba,,vratenie platby,,,,vrátenie platby Mw B Kerkhof
+59,2022-07-25,250.0,Bezhotovostný príjem,Mw B Kerkhof,202241,,,,Mw B Kerkhof
+60,2022-07-23,-120.0,Transakcia kartou,,"Nákup: FACEBK 5R6FFFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.7.2022, částka  120.00 EUR",,4926,,"Nákup: FACEBK 5R6FFFFTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.7.2022, částka  120.00 EUR"
+61,2022-07-18,100.0,Bezhotovostný príjem,"Schmidt Andrej, Ing.",/DO2022-07-15/SPdar,,202240,,"Schmidt Andrej, Ing."
+62,2022-07-15,-84.0,Transakcia kartou,,"Nákup: FACEBK L3J6JFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  84.00 EUR",,4926,,"Nákup: FACEBK L3J6JFXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.7.2022, částka  84.00 EUR"
+63,2022-07-07,-48.0,Transakcia kartou,,"Nákup: FACEBK RKSKWFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  48.00 EUR",,4926,,"Nákup: FACEBK RKSKWFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  48.00 EUR"
+64,2022-07-06,-900.0,Bezhotovostná platba,,,,202204,,Propagačné videá
+65,2022-07-06,10.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-07-05/SPdar,,202237,,"Kleinert Dana, Mgr.a"
+66,2022-07-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-07-04/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+67,2022-07-05,-48.0,Platba prevodom v rámci banky,,,0308,22133,,odznak
+68,2022-07-04,50.0,Bezhotovostný príjem,KORMAN MAROS,/DO2022-07-04/SPdar,0000,202236,,KORMAN MAROS
+69,2022-07-04,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-07-01/SP,,,,Hošovský Gabriel
+70,2022-07-04,40.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-07-01/SP,,,,"Illéš Erik, Mgr."
+71,2022-07-04,1000.0,Bezhotovostný príjem,Matys Michal,/DO2022-07-01/SP,,,,Matys Michal
+72,2022-07-03,-150.0,Bezhotovostná platba,,podporte.vagac.sk,,2022009,,darovací formulář
+73,2022-07-03,-600.0,Bezhotovostná platba,,,0308,2022009,,copywriting
+74,2022-07-01,-36.0,Transakcia kartou,,"Nákup: FACEBK 78QVTFPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  36.00 EUR",,4926,,"Nákup: FACEBK 78QVTFPTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  36.00 EUR"
+75,2022-07-01,-24.0,Transakcia kartou,,"Nákup: FACEBK 5HQ5YEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  24.00 EUR",,4926,,"Nákup: FACEBK 5HQ5YEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.7.2022, částka  24.00 EUR"
+76,2022-06-30,-24.0,Transakcia kartou,,"Nákup: FACEBK PYU2FGTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR",,4926,,"Nákup: FACEBK PYU2FGTTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR"
+77,2022-06-30,-24.0,Transakcia kartou,,"Nákup: FACEBK CENVRGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR",,4926,,"Nákup: FACEBK CENVRGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  24.00 EUR"
+78,2022-06-30,2600.0,Bezhotovostný príjem,HELENA TUZINSKA,/DO2022-06-30/SPDAR,,0000202235,,HELENA TUZINSKA
+79,2022-06-30,600.0,Bezhotovostný príjem,SCHNORRER LUCIA,/DO2022-06-29/SPdar,,202234,,SCHNORRER LUCIA
+80,2022-06-29,-1800.0,Bezhotovostná platba,,,,202224,,Reklamný spot postprodukcia
+81,2022-06-29,-14.4,Transakcia kartou,,"Nákup: FACEBK 92VULF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR",,4926,,"Nákup: FACEBK 92VULF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR"
+82,2022-06-29,-4.8,Transakcia kartou,,"Nákup: FACEBK 8BMSWEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  4.80 EUR",,4926,,"Nákup: FACEBK 8BMSWEKTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  4.80 EUR"
+83,2022-06-29,-14.4,Transakcia kartou,,"Nákup: FACEBK 74ABRFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR",,4926,,"Nákup: FACEBK 74ABRFBUH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  14.40 EUR"
+84,2022-06-29,-7.2,Transakcia kartou,,"Nákup: FACEBK FV8TLF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  7.20 EUR",,4926,,"Nákup: FACEBK FV8TLF3UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  7.20 EUR"
+85,2022-06-29,-10.8,Transakcia kartou,,"Nákup: FACEBK AQJJRE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  10.80 EUR",,4926,,"Nákup: FACEBK AQJJRE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.6.2022, částka  10.80 EUR"
+86,2022-06-29,-918.0,Bezhotovostná platba,,"doplatenie tlace - druha cast faktu
 ry",,202206041,,Noviny
-86,2022-06-29,-200.0,Bezhotovostná platba,,"Tvrdo, spol. s r. o.: 2022002 - Mat
+87,2022-06-29,-200.0,Bezhotovostná platba,,"Tvrdo, spol. s r. o.: 2022002 - Mat
 ej Vagac - 2022/06",,2022002,,zalomenie katalóg
-87,2022-06-29,-36.0,Bezhotovostná platba,,Platba faktury VF922149,0308,922149,,pult
-88,2022-06-29,-24.0,Platba prevodom v rámci banky,,,0308,22123,,odznak
-89,2022-06-28,-1.8,Transakcia kartou,,"Nákup: FACEBK 6SX75FXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR",,4926,,"Nákup: FACEBK 6SX75FXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR"
-90,2022-06-28,-1.8,Transakcia kartou,,"Nákup: FACEBK 45CQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR",,4926,,"Nákup: FACEBK 45CQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR"
-91,2022-06-28,-1.8,Transakcia kartou,,"Nákup: FACEBK UP4FQGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR",,4926,,"Nákup: FACEBK UP4FQGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR"
-92,2022-06-28,-2.4,Transakcia kartou,,"Nákup: FACEBK KNTQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR",,4926,,"Nákup: FACEBK KNTQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR"
-93,2022-06-28,-2.4,Transakcia kartou,,"Nákup: FACEBK JTHRQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR",,4926,,"Nákup: FACEBK JTHRQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR"
-94,2022-06-28,10.0,Bezhotovostný príjem,"Ondrejčák Marek, Ing",/DO2022-06-27/SPdar,,202219,,"Ondrejčák Marek, Ing"
-95,2022-06-28,10.0,Bezhotovostný príjem,Samuel Ondrek,/DO2022-06-27/SPdar,,202233,,Samuel Ondrek
-96,2022-06-27,-2708.4,Bezhotovostná platba,,Uhrada faktury 202206041,,202206041,,Noviny
-97,2022-06-27,-120.0,Bezhotovostná platba,,"Dana Kleinert Design s.r.o.: 202200
+88,2022-06-29,-36.0,Bezhotovostná platba,,Platba faktury VF922149,0308,922149,,pult
+89,2022-06-29,-24.0,Platba prevodom v rámci banky,,,0308,22123,,odznak
+90,2022-06-28,-1.8,Transakcia kartou,,"Nákup: FACEBK 6SX75FXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR",,4926,,"Nákup: FACEBK 6SX75FXTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR"
+91,2022-06-28,-1.8,Transakcia kartou,,"Nákup: FACEBK 45CQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR",,4926,,"Nákup: FACEBK 45CQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR"
+92,2022-06-28,-1.8,Transakcia kartou,,"Nákup: FACEBK UP4FQGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR",,4926,,"Nákup: FACEBK UP4FQGBTH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  1.80 EUR"
+93,2022-06-28,-2.4,Transakcia kartou,,"Nákup: FACEBK KNTQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR",,4926,,"Nákup: FACEBK KNTQQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR"
+94,2022-06-28,-2.4,Transakcia kartou,,"Nákup: FACEBK JTHRQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR",,4926,,"Nákup: FACEBK JTHRQE7UH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.6.2022, částka  2.40 EUR"
+95,2022-06-28,10.0,Bezhotovostný príjem,"Ondrejčák Marek, Ing",/DO2022-06-27/SPdar,,202219,,"Ondrejčák Marek, Ing"
+96,2022-06-28,10.0,Bezhotovostný príjem,Samuel Ondrek,/DO2022-06-27/SPdar,,202233,,Samuel Ondrek
+97,2022-06-27,-2708.4,Bezhotovostná platba,,Uhrada faktury 202206041,,202206041,,Noviny
+98,2022-06-27,-120.0,Bezhotovostná platba,,"Dana Kleinert Design s.r.o.: 202200
 7 - Matej Vagac - 2022/06",,2022007,,video
-98,2022-06-25,-60.0,Transakcia kartou,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81108, SVK, dne 24.6.2022, částka  60.00 EUR",,4926,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81108, SVK, dne 24.6.2022, částka  60.00 EUR"
-99,2022-06-23,-200.0,Bezhotovostná platba,,,0308,2022004,,copywriting
-100,2022-06-23,-1732.8,Bezhotovostná platba,,,,202223,,Reklamný spot
-101,2022-06-17,2500.0,Platba prevodom v rámci banky,"RNDr. Vagačová, Martina",Dar,,,,Dar
-102,2022-06-17,-19.2,Transakcia kartou,,"Nákup: Schondorf bio cafe,  Obchodna 48, Bratislava, 811 06, SVK, dne 16.6.2022, částka  19.20 EUR",,4926,,"Nákup: Schondorf bio cafe,  Obchodna 48, Bratislava, 811 06, SVK, dne 16.6.2022, částka  19.20 EUR"
-103,2022-06-17,200.0,Bezhotovostný príjem,STELTENPOHL PAVOL,"/DO2022-06-16/SPna kampan, Danka, Lucia, Klara a Palo",,,,STELTENPOHL PAVOL
-104,2022-06-10,1000.0,Bezhotovostný príjem,Tomáš Freylich,/DO2022-06-10/SP Tana a Tomas Freylichovi,,,,Tomáš Freylich
-105,2022-06-09,400.0,Bezhotovostný príjem,JANULIK LUKAS,,,,,JANULIK LUKAS
-106,2022-06-07,30.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-06-06/SP,,,,"Illéš Erik, Mgr."
-107,2022-06-07,300.0,Bezhotovostný príjem,Tothova Darina,/DO2022-06-06/SP,,,,Tothova Darina
-108,2022-06-07,500.0,Bezhotovostný príjem,Šmondrková Henrieta,/DO2022-06-06/SP,,,,Šmondrková Henrieta
-109,2022-06-07,300.0,Bezhotovostný príjem,"Schwarzová Katarína,",/DO2022-06-06/SP,,,,"Schwarzová Katarína,"
-110,2022-06-07,300.0,Bezhotovostný príjem,Maďar Ján,/DO2022-06-06/SPDar,,,,Maďar Ján
-111,2022-06-07,200.0,Bezhotovostný príjem,Anna Hrabovská,/DO2022-06-06/SPANNA,,,,Anna Hrabovská
-112,2022-06-07,450.0,Bezhotovostný príjem,Stanislava Kleinová,/DO2022-06-06/SP,,,,Stanislava Kleinová
-113,2022-06-07,250.0,Bezhotovostný príjem,Marian Hrabovský,/DO2022-06-06/SPANNA,,,,Marian Hrabovský
-114,2022-06-07,300.0,Bezhotovostný príjem,SZEKELY LADISLAV,/DO2022-06-06/SP,,,,SZEKELY LADISLAV
-115,2022-06-06,40.0,Platba prevodom v rámci banky,"Mgr. Mikulášek, Juraj",Juraj Mikulasek,,,,Juraj Mikulasek
-116,2022-06-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-06-03/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-117,2022-06-02,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-06-01/SP,,,,Hošovský Gabriel
-118,2022-05-23,-560.0,Bezhotovostná platba,,Matej Vagac,,202218,,PR fotografie pre komunalne volby
-119,2022-05-19,80.0,Bezhotovostný príjem,Berka Adam,"/DO2022-05-18/SPDar - kampan, Adam Berka",,,,Berka Adam
-120,2022-05-16,250.0,Bezhotovostný príjem,"Suško Ladislav, Ing.","/DO2022-05-15/SPMatej Vagac kampan, volby stare mesto",0308,,,"Suško Ladislav, Ing."
-121,2022-05-10,100.0,Bezhotovostný príjem,Dominika Oravkinová,/DO2022-05-09/SPDržim palce :),,,,Dominika Oravkinová
-122,2022-05-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-05-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-123,2022-05-03,1000.0,Bezhotovostný príjem,Heuger Martin,"/DO2022-05-02/SPMartin Heuger, vagac matej kampan",,,,Heuger Martin
-124,2022-05-03,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-05-02/SP,,,,Hošovský Gabriel
-125,2022-04-28,3000.0,Bezhotovostný príjem,Pavol Janota,/DO2022-04-28/SP,,,,Pavol Janota
-126,2022-04-28,200.0,Bezhotovostný príjem,"Hošovský Roman, JUDr","/DO2022-04-27/SPvolby, volby Stare mesto",,,,"Hošovský Roman, JUDr"
-127,2022-04-26,1000.0,Bezhotovostný príjem,Beňuška Matej,/DO2022-04-25/SPMatej na hrad,,,,Beňuška Matej
-128,2022-04-22,2500.0,Bezhotovostný príjem,"Krivda František, Mg",/DO2022-04-21/SPDar,,,,"Krivda František, Mg"
-129,2022-04-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-04-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-130,2022-04-05,100.0,Bezhotovostný príjem,Dominika Oravkinová,/DO2022-04-05/SPDržim palce :),,,,Dominika Oravkinová
-131,2022-03-24,500.0,Bezhotovostný príjem,Vagačová Gabriela,/DO2022-03-23/SPDar,,1,,Vagačová Gabriela
-132,2022-03-16,40.0,Bezhotovostný príjem,Bútora Ivan,/DO2022-03-15/SPFOTO 16.02.2022,,,,Bútora Ivan
-133,2022-03-07,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-03-04/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-134,2022-03-01,200.0,Bezhotovostný príjem,Ján Ďurinda,/DO2022-02-28/SPDrzim palce !!!,,,,Ján Ďurinda
-135,2022-02-24,1000.0,Bezhotovostný príjem,"Krajňak Kamil, Ing.","/DO2022-02-23/SPdarovacia zmluva, Matej Vagac, starosta Stare mesto, md",,,,"Krajňak Kamil, Ing."
-136,2022-02-22,100.0,Bezhotovostný príjem,Dominika Oravkinová,/DO2022-02-21/SPPodpora,,,,Dominika Oravkinová
-137,2022-02-18,3000.0,Bezhotovostný príjem,Jakub Ďurinda,/DO2022-02-17/SPDrzim palce. Konecne dobry starosta :),,,,Jakub Ďurinda
-138,2022-02-17,50.0,Bezhotovostný príjem,SLADEK MICHAL,/DO2022-02-16/SPFoto Sladek,,,,SLADEK MICHAL
-139,2022-02-16,140.0,Bezhotovostný príjem,Beňuška Matej,/DO2022-02-16/SPmatej benuska fotenie + prispevok,,,,Beňuška Matej
-140,2022-02-16,40.0,Bezhotovostný príjem,Monika Šmondrková,/DO2022-02-16/SPMonika Šmondrková,,,,Monika Šmondrková
-141,2022-02-15,50.0,Platba prevodom v rámci banky,"Mgr. Mikulášek, Juraj",Juraj Mikulasek,,,,Juraj Mikulasek
-142,2022-02-15,40.0,Bezhotovostný príjem,"Dojčánová Anna, Mgr.",/DO2022-02-14/SPAnna Dojcanova,,,,"Dojčánová Anna, Mgr."
-143,2022-02-15,40.0,Bezhotovostný príjem,"Hitková Petra, Mgr.",/DO2022-02-14/SPPetra Pre nase Stare Mesto,0558,2022,2022,"Hitková Petra, Mgr."
-144,2022-02-15,50.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-02-14/SPErik Illes,,,,"Illéš Erik, Mgr."
-145,2022-02-14,15.0,Bezhotovostný príjem,Soňa Párnická,/DO2022-02-12/SP,,,,Soňa Párnická
-146,2022-02-11,50.0,Bezhotovostný príjem,"Uhliariková Eva, Ing",/DO2022-02-10/SP,,,,"Uhliariková Eva, Ing"
-147,2022-02-10,60.0,Bezhotovostný príjem,KORMAN MAROS,/DO2022-02-09/SPgo Matej go  ),,,,KORMAN MAROS
-148,2022-02-10,40.0,Bezhotovostný príjem,Andrej Jaroš,/DO2022-02-09/SP platba za foto,0308,,,Andrej Jaroš
-149,2022-02-10,40.0,Bezhotovostný príjem,PETR SKALNIK,,,,,PETR SKALNIK
-150,2022-02-10,50.0,Bezhotovostný príjem,JOZSOVA RENATA,/DO2022-02-09/SPFotenie Renata J.,,,,JOZSOVA RENATA
-151,2022-02-07,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-02-04/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-152,2022-02-03,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-02-02/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
-153,2022-01-31,1000.0,Platba prevodom v rámci banky,"RNDr. Vagačová, Martina",Dar,,,,Dar
+99,2022-06-25,-60.0,Transakcia kartou,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81108, SVK, dne 24.6.2022, částka  60.00 EUR",,4926,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81108, SVK, dne 24.6.2022, částka  60.00 EUR"
+100,2022-06-23,-200.0,Bezhotovostná platba,,,0308,2022004,,copywriting
+101,2022-06-23,-1732.8,Bezhotovostná platba,,,,202223,,Reklamný spot
+102,2022-06-17,2500.0,Platba prevodom v rámci banky,"RNDr. Vagačová, Martina",Dar,,,,Dar
+103,2022-06-17,-19.2,Transakcia kartou,,"Nákup: Schondorf bio cafe,  Obchodna 48, Bratislava, 811 06, SVK, dne 16.6.2022, částka  19.20 EUR",,4926,,"Nákup: Schondorf bio cafe,  Obchodna 48, Bratislava, 811 06, SVK, dne 16.6.2022, částka  19.20 EUR"
+104,2022-06-17,200.0,Bezhotovostný príjem,STELTENPOHL PAVOL,"/DO2022-06-16/SPna kampan, Danka, Lucia, Klara a Palo",,,,STELTENPOHL PAVOL
+105,2022-06-10,1000.0,Bezhotovostný príjem,Tomáš Freylich,/DO2022-06-10/SP Tana a Tomas Freylichovi,,,,Tomáš Freylich
+106,2022-06-09,400.0,Bezhotovostný príjem,JANULIK LUKAS,,,,,JANULIK LUKAS
+107,2022-06-07,30.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-06-06/SP,,,,"Illéš Erik, Mgr."
+108,2022-06-07,300.0,Bezhotovostný príjem,Tothova Darina,/DO2022-06-06/SP,,,,Tothova Darina
+109,2022-06-07,500.0,Bezhotovostný príjem,Šmondrková Henrieta,/DO2022-06-06/SP,,,,Šmondrková Henrieta
+110,2022-06-07,300.0,Bezhotovostný príjem,"Schwarzová Katarína,",/DO2022-06-06/SP,,,,"Schwarzová Katarína,"
+111,2022-06-07,300.0,Bezhotovostný príjem,Maďar Ján,/DO2022-06-06/SPDar,,,,Maďar Ján
+112,2022-06-07,200.0,Bezhotovostný príjem,Anna Hrabovská,/DO2022-06-06/SPANNA,,,,Anna Hrabovská
+113,2022-06-07,450.0,Bezhotovostný príjem,Stanislava Kleinová,/DO2022-06-06/SP,,,,Stanislava Kleinová
+114,2022-06-07,250.0,Bezhotovostný príjem,Marian Hrabovský,/DO2022-06-06/SPANNA,,,,Marian Hrabovský
+115,2022-06-07,300.0,Bezhotovostný príjem,SZEKELY LADISLAV,/DO2022-06-06/SP,,,,SZEKELY LADISLAV
+116,2022-06-06,40.0,Platba prevodom v rámci banky,"Mgr. Mikulášek, Juraj",Juraj Mikulasek,,,,Juraj Mikulasek
+117,2022-06-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-06-03/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+118,2022-06-02,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-06-01/SP,,,,Hošovský Gabriel
+119,2022-05-23,-560.0,Bezhotovostná platba,,Matej Vagac,,202218,,PR fotografie pre komunalne volby
+120,2022-05-19,80.0,Bezhotovostný príjem,Berka Adam,"/DO2022-05-18/SPDar - kampan, Adam Berka",,,,Berka Adam
+121,2022-05-16,250.0,Bezhotovostný príjem,"Suško Ladislav, Ing.","/DO2022-05-15/SPMatej Vagac kampan, volby stare mesto",0308,,,"Suško Ladislav, Ing."
+122,2022-05-10,100.0,Bezhotovostný príjem,Dominika Oravkinová,/DO2022-05-09/SPDržim palce :),,,,Dominika Oravkinová
+123,2022-05-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-05-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+124,2022-05-03,1000.0,Bezhotovostný príjem,Heuger Martin,"/DO2022-05-02/SPMartin Heuger, vagac matej kampan",,,,Heuger Martin
+125,2022-05-03,50.0,Bezhotovostný príjem,Hošovský Gabriel,/DO2022-05-02/SP,,,,Hošovský Gabriel
+126,2022-04-28,3000.0,Bezhotovostný príjem,Pavol Janota,/DO2022-04-28/SP,,,,Pavol Janota
+127,2022-04-28,200.0,Bezhotovostný príjem,"Hošovský Roman, JUDr","/DO2022-04-27/SPvolby, volby Stare mesto",,,,"Hošovský Roman, JUDr"
+128,2022-04-26,1000.0,Bezhotovostný príjem,Beňuška Matej,/DO2022-04-25/SPMatej na hrad,,,,Beňuška Matej
+129,2022-04-22,2500.0,Bezhotovostný príjem,"Krivda František, Mg",/DO2022-04-21/SPDar,,,,"Krivda František, Mg"
+130,2022-04-06,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-04-05/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+131,2022-04-05,100.0,Bezhotovostný príjem,Dominika Oravkinová,/DO2022-04-05/SPDržim palce :),,,,Dominika Oravkinová
+132,2022-03-24,500.0,Bezhotovostný príjem,Vagačová Gabriela,/DO2022-03-23/SPDar,,1,,Vagačová Gabriela
+133,2022-03-16,40.0,Bezhotovostný príjem,Bútora Ivan,/DO2022-03-15/SPFOTO 16.02.2022,,,,Bútora Ivan
+134,2022-03-07,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-03-04/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+135,2022-03-01,200.0,Bezhotovostný príjem,Ján Ďurinda,/DO2022-02-28/SPDrzim palce !!!,,,,Ján Ďurinda
+136,2022-02-24,1000.0,Bezhotovostný príjem,"Krajňak Kamil, Ing.","/DO2022-02-23/SPdarovacia zmluva, Matej Vagac, starosta Stare mesto, md",,,,"Krajňak Kamil, Ing."
+137,2022-02-22,100.0,Bezhotovostný príjem,Dominika Oravkinová,/DO2022-02-21/SPPodpora,,,,Dominika Oravkinová
+138,2022-02-18,3000.0,Bezhotovostný príjem,Jakub Ďurinda,/DO2022-02-17/SPDrzim palce. Konecne dobry starosta :),,,,Jakub Ďurinda
+139,2022-02-17,50.0,Bezhotovostný príjem,SLADEK MICHAL,/DO2022-02-16/SPFoto Sladek,,,,SLADEK MICHAL
+140,2022-02-16,140.0,Bezhotovostný príjem,Beňuška Matej,/DO2022-02-16/SPmatej benuska fotenie + prispevok,,,,Beňuška Matej
+141,2022-02-16,40.0,Bezhotovostný príjem,Monika Šmondrková,/DO2022-02-16/SPMonika Šmondrková,,,,Monika Šmondrková
+142,2022-02-15,50.0,Platba prevodom v rámci banky,"Mgr. Mikulášek, Juraj",Juraj Mikulasek,,,,Juraj Mikulasek
+143,2022-02-15,40.0,Bezhotovostný príjem,"Dojčánová Anna, Mgr.",/DO2022-02-14/SPAnna Dojcanova,,,,"Dojčánová Anna, Mgr."
+144,2022-02-15,40.0,Bezhotovostný príjem,"Hitková Petra, Mgr.",/DO2022-02-14/SPPetra Pre nase Stare Mesto,0558,2022,2022,"Hitková Petra, Mgr."
+145,2022-02-15,50.0,Bezhotovostný príjem,"Illéš Erik, Mgr.",/DO2022-02-14/SPErik Illes,,,,"Illéš Erik, Mgr."
+146,2022-02-14,15.0,Bezhotovostný príjem,Soňa Párnická,/DO2022-02-12/SP,,,,Soňa Párnická
+147,2022-02-11,50.0,Bezhotovostný príjem,"Uhliariková Eva, Ing",/DO2022-02-10/SP,,,,"Uhliariková Eva, Ing"
+148,2022-02-10,60.0,Bezhotovostný príjem,KORMAN MAROS,/DO2022-02-09/SPgo Matej go  ),,,,KORMAN MAROS
+149,2022-02-10,40.0,Bezhotovostný príjem,Andrej Jaroš,/DO2022-02-09/SP platba za foto,0308,,,Andrej Jaroš
+150,2022-02-10,40.0,Bezhotovostný príjem,PETR SKALNIK,,,,,PETR SKALNIK
+151,2022-02-10,50.0,Bezhotovostný príjem,JOZSOVA RENATA,/DO2022-02-09/SPFotenie Renata J.,,,,JOZSOVA RENATA
+152,2022-02-07,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-02-04/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+153,2022-02-03,200.0,Bezhotovostný príjem,"Kleinert Dana, Mgr.a",/DO2022-02-02/SPPre nase Stare Mesto,0558,2022,2022,"Kleinert Dana, Mgr.a"
+154,2022-01-31,1000.0,Platba prevodom v rámci banky,"RNDr. Vagačová, Martina",Dar,,,,Dar

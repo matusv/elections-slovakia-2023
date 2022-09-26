@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Tragalova Andrea,2022-09-20,2000,EUR,23524930,Bezhotovostný vklad,,
-1,Tragalova Andrea,2022-09-06,500,EUR,23377962,Bezhotovostný vklad,,
+0,Tragalova Margita,2022-09-26,1000,EUR,Margita Tragalova Partizanska 3 04001 Kosice,Bezhotovostný vklad,,
+1,Tragalova Andrea,2022-09-20,2000,EUR,23524930,Bezhotovostný vklad,,
+2,Tragalova Andrea,2022-09-06,500,EUR,23377962,Bezhotovostný vklad,,
