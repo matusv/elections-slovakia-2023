@@ -33,18 +33,18 @@ index,index,date,amount,account_name,message,vs,name
 31,49,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
 32,103,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
 33,104,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
-34,100,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-35,71,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-36,68,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
-37,31,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-38,55,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-39,54,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA
-40,7,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-41,10,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-42,5,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-43,9,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",,REPUBLIKA
-44,85,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
-45,67,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
+34,101,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+35,72,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+36,69,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+37,32,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
+38,56,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+39,55,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA
+40,6,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+41,11,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
+42,8,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+43,9,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
+44,88,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
+45,70,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 46,276,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
 47,147,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
 48,267,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
@@ -65,8 +65,8 @@ index,index,date,amount,account_name,message,vs,name
 63,490,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
 64,110,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
 65,160,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
-66,9,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
-67,4,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
+66,11,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
+67,6,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
 68,16,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
 69,17,2022-09-16,300.0,"GFD, s.r.o.",F001160920220820044,,Branislav Filipovič
 70,8,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
