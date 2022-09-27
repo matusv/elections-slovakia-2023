@@ -1,30 +1,31 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-23,100.0,Bezhotovostný príjem,MARTINKOVA IVETA,/DO2022-09-22/SPTH podpora kandidatury,,,,MARTINKOVA IVETA
-1,2022-09-22,5.0,Bezhotovostný príjem,Hádek Peter,/DO2022-09-21/SP,,,,Hádek Peter
-2,2022-09-21,25.0,Bezhotovostný príjem,IVONA STANIKOVA,/DO2022-09-20/SPPREVOD PROSTRIEDKOV,,,,IVONA STANIKOVA
-3,2022-09-21,20.0,Bezhotovostný príjem,Milan Macek,/DO2022-09-20/SPŽilina pre ludí,,,,Milan Macek
-4,2022-09-19,25.0,Bezhotovostný príjem,BRNAK ROMAN,,,,,BRNAK ROMAN
-5,2022-09-16,50.0,Bezhotovostný príjem,Pavel Kyseľ,/DO2022-09-16/SP Pali No podporuje Mgr. Jana Rzeszota,,,,Pavel Kyseľ
-6,2022-09-16,150.0,Bezhotovostný príjem,"Kopalová Iveta, MUDr",/DO2022-09-14/SPBurgermajster Janko,0558,19992005,,"Kopalová Iveta, MUDr"
-7,2022-09-14,50.0,Bezhotovostný príjem,Škubáková Martina,/DO2022-09-13/SPMartina Skubakova,,,,Škubáková Martina
-8,2022-09-14,15.0,Bezhotovostný príjem,Mikušová Zuzana,/DO2022-09-13/SP,,,,Mikušová Zuzana
-9,2022-09-14,20.0,Bezhotovostný príjem,FENO DUSAN,,,,,FENO DUSAN
-10,2022-09-13,10.0,Bezhotovostný príjem,ZUZANA LOVRITSOVA,/DO2022-09-12/SPPODPORA KAMPANE,0558,,,ZUZANA LOVRITSOVA
-11,2022-09-13,30.0,Bezhotovostný príjem,Uhercik Peter,/DO2022-09-12/SP,,,,Uhercik Peter
-12,2022-09-13,15.0,Bezhotovostný príjem,"Hlavačová Daniela, M",/DO2022-09-12/SPVolby,,,,"Hlavačová Daniela, M"
-13,2022-09-13,10.0,Bezhotovostný príjem,Daniela Gavláková,/DO2022-09-12/SPDaniela G,,,,Daniela Gavláková
-14,2022-09-12,10.0,Platba prevodom v rámci banky,"Malichová, Stanislava",,0558,12092022,,
-15,2022-09-12,50.0,Bezhotovostný príjem,"Turčányiová Soňa, In",/DO2022-09-10/SP,,,,"Turčányiová Soňa, In"
-16,2022-09-12,50.0,Bezhotovostný príjem,Čižmárik Martin,/DO2022-09-12/SPdrzim vsetky,,,,Čižmárik Martin
-17,2022-09-09,300.0,Bezhotovostný príjem,Súlovec Roman,/DO2022-09-09/SPPrispevok na kampan,,,,Súlovec Roman
-18,2022-09-08,-79.2,Bezhotovostná platba,,Uhrada faktury 2022366,,2022366,,
-19,2022-09-08,10.0,Bezhotovostný príjem,"Mikula Radoslav, Ing",/DO2022-09-07/SP,,,,"Mikula Radoslav, Ing"
-20,2022-08-23,50.0,Bezhotovostný príjem,CERNAN PETER,/DO2022-08-22/SPPrispevok na kampan,,,,CERNAN PETER
-21,2022-08-22,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-19/SP lepsia zilina,,,,Mária Wágnerová
-22,2022-08-18,20.0,Bezhotovostný príjem,DARINA MIKUSOVA,/DO2022-08-17/SPDRZIM PALCE,,,,DARINA MIKUSOVA
-23,2022-08-18,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-17/SP maria wagnerova,,,,Mária Wágnerová
-24,2022-08-18,50.0,Bezhotovostný príjem,VALACH MAROS,za peknu Zilinu,,,,VALACH MAROS
-25,2022-08-18,10.0,Bezhotovostný príjem,DURIS JAROSLAV,/DO2022-08-17/SPJaroslav Duris,,,,DURIS JAROSLAV
-26,2022-07-11,20.0,Bezhotovostný príjem,Zuzana Grúňová,/DO2022-07-09/SPDržím palce.,,,,Zuzana Grúňová
-27,2022-07-01,200.0,Bezhotovostný príjem,MARTINKOVA IVETA,/DO2022-06-30/SPNasa Zilina - Nas zivot,,,,MARTINKOVA IVETA
-28,2022-05-30,10.0,Vklad v hotovosti,,,0558,,,
+0,2022-09-27,40.0,Bezhotovostný príjem,MIROSLAV DOBIAS,/DO2022-09-26/SPPLATBA,,,,MIROSLAV DOBIAS
+1,2022-09-23,100.0,Bezhotovostný príjem,MARTINKOVA IVETA,/DO2022-09-22/SPTH podpora kandidatury,,,,MARTINKOVA IVETA
+2,2022-09-22,5.0,Bezhotovostný príjem,Hádek Peter,/DO2022-09-21/SP,,,,Hádek Peter
+3,2022-09-21,25.0,Bezhotovostný príjem,IVONA STANIKOVA,/DO2022-09-20/SPPREVOD PROSTRIEDKOV,,,,IVONA STANIKOVA
+4,2022-09-21,20.0,Bezhotovostný príjem,Milan Macek,/DO2022-09-20/SPŽilina pre ludí,,,,Milan Macek
+5,2022-09-19,25.0,Bezhotovostný príjem,BRNAK ROMAN,,,,,BRNAK ROMAN
+6,2022-09-16,50.0,Bezhotovostný príjem,Pavel Kyseľ,/DO2022-09-16/SP Pali No podporuje Mgr. Jana Rzeszota,,,,Pavel Kyseľ
+7,2022-09-16,150.0,Bezhotovostný príjem,"Kopalová Iveta, MUDr",/DO2022-09-14/SPBurgermajster Janko,0558,19992005,,"Kopalová Iveta, MUDr"
+8,2022-09-14,50.0,Bezhotovostný príjem,Škubáková Martina,/DO2022-09-13/SPMartina Skubakova,,,,Škubáková Martina
+9,2022-09-14,15.0,Bezhotovostný príjem,Mikušová Zuzana,/DO2022-09-13/SP,,,,Mikušová Zuzana
+10,2022-09-14,20.0,Bezhotovostný príjem,FENO DUSAN,,,,,FENO DUSAN
+11,2022-09-13,10.0,Bezhotovostný príjem,ZUZANA LOVRITSOVA,/DO2022-09-12/SPPODPORA KAMPANE,0558,,,ZUZANA LOVRITSOVA
+12,2022-09-13,30.0,Bezhotovostný príjem,Uhercik Peter,/DO2022-09-12/SP,,,,Uhercik Peter
+13,2022-09-13,15.0,Bezhotovostný príjem,"Hlavačová Daniela, M",/DO2022-09-12/SPVolby,,,,"Hlavačová Daniela, M"
+14,2022-09-13,10.0,Bezhotovostný príjem,Daniela Gavláková,/DO2022-09-12/SPDaniela G,,,,Daniela Gavláková
+15,2022-09-12,10.0,Platba prevodom v rámci banky,"Malichová, Stanislava",,0558,12092022,,
+16,2022-09-12,50.0,Bezhotovostný príjem,"Turčányiová Soňa, In",/DO2022-09-10/SP,,,,"Turčányiová Soňa, In"
+17,2022-09-12,50.0,Bezhotovostný príjem,Čižmárik Martin,/DO2022-09-12/SPdrzim vsetky,,,,Čižmárik Martin
+18,2022-09-09,300.0,Bezhotovostný príjem,Súlovec Roman,/DO2022-09-09/SPPrispevok na kampan,,,,Súlovec Roman
+19,2022-09-08,-79.2,Bezhotovostná platba,,Uhrada faktury 2022366,,2022366,,
+20,2022-09-08,10.0,Bezhotovostný príjem,"Mikula Radoslav, Ing",/DO2022-09-07/SP,,,,"Mikula Radoslav, Ing"
+21,2022-08-23,50.0,Bezhotovostný príjem,CERNAN PETER,/DO2022-08-22/SPPrispevok na kampan,,,,CERNAN PETER
+22,2022-08-22,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-19/SP lepsia zilina,,,,Mária Wágnerová
+23,2022-08-18,20.0,Bezhotovostný príjem,DARINA MIKUSOVA,/DO2022-08-17/SPDRZIM PALCE,,,,DARINA MIKUSOVA
+24,2022-08-18,20.0,Bezhotovostný príjem,Mária Wágnerová,/DO2022-08-17/SP maria wagnerova,,,,Mária Wágnerová
+25,2022-08-18,50.0,Bezhotovostný príjem,VALACH MAROS,za peknu Zilinu,,,,VALACH MAROS
+26,2022-08-18,10.0,Bezhotovostný príjem,DURIS JAROSLAV,/DO2022-08-17/SPJaroslav Duris,,,,DURIS JAROSLAV
+27,2022-07-11,20.0,Bezhotovostný príjem,Zuzana Grúňová,/DO2022-07-09/SPDržím palce.,,,,Zuzana Grúňová
+28,2022-07-01,200.0,Bezhotovostný príjem,MARTINKOVA IVETA,/DO2022-06-30/SPNasa Zilina - Nas zivot,,,,MARTINKOVA IVETA
+29,2022-05-30,10.0,Vklad v hotovosti,,,0558,,,
