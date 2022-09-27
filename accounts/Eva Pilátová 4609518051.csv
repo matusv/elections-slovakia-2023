@@ -1,59 +1,60 @@
 index,date,amount,account_name,message,vs
 0,2022-09-22,-53.27,Platba kartou,Platba kartou u obchodníka,****4194
-1,2022-09-26,-360.0,euroAWK,vyroba a prenajom billboardov,2270560
-2,2022-09-26,-998.4,euroAWK,vyroba a prenajom CityLightov,2270561
-3,2022-09-23,600.0,Šteflovičová Michaela,,
-4,2022-09-23,-708.0,TOP4YOU,Vyroba bigboard banneru,2210002
-5,2022-09-23,1000.0,TATRA BANKA A.S. - CENTRÁLA,Vela sil zelame,
-6,2022-09-22,-240.0,Arton,prenajom billboardov,220634
-7,2022-09-22,-48.0,Arton,tlac plagatov,220635
-8,2022-09-21,200.0,Pavel Handreich,Drzim palce,
-9,2022-09-21,1111.0,Milčik Robert,"Tvoja cesta je zmysluplna, dakujeme",
-10,2022-09-21,-175.0,Zuzana Nagyova,navrhy bannerov,2022025
-11,2022-09-21,-226.0,VISTA Real,LED Panorama,2201271
-12,2022-09-20,200.0,Denisa Plackova,"Vela stastiapri nadchadzajucich komunalnych volbach a vela skvelych napadov, ktoremas stale :)",
-13,2022-09-20,1000.0,Marek Fajnor,Drzime palce,
-14,2022-09-19,-194.4,ISPA,billboard,22950390
-15,2022-09-12,-359.0,Mesto Pezinok,Inzercia Pezincan,2022345
-16,2022-09-02,-264.78,Led promotion,led obrazovka,220800007
-17,2022-08-31,6.0,,Odpustenie vedenie konta,9
-18,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-19,2022-08-24,-170.0,VVDP Karpaty,prenajom priestorov 11.8.2022,20220017
-20,2022-08-22,100.0,Maria Holicka,Nech ti to vyjde,
-21,2022-08-22,101.0,Juraj Kocka,Drzime palce....,
-22,2022-08-19,-226.0,VISTA real,prenajom LED Panorama,3853702454
-23,2022-08-16,-350.0,FAJNOVO,vystupenie - stretnutie s obcanmi 6.8.2022,22073
-24,2022-08-15,-58.0,Platba kartou,POD HRUSKOU PEZINOK,****4194
-25,2022-08-15,-120.0,Zuzana Nagyova SUEWWB,navrhy bannerov,2022020
-26,2022-08-15,-915.0,Vitamin Gallery Pub,stretnutie s obcanmi 6.8.2022,2022026
-27,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026
-28,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026
-29,2022-08-08,-1098.72,ARDOX SK s.r.o.,Propagacne predmety,2022424
-30,2022-07-29,6.0,,Odpustenie vedenie konta,9
-31,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-32,2022-07-29,-509.1,LED promotion,Reklama na LED obrazovke pri Tesco,220800005
-33,2022-07-15,-66.6,ARDOX,"Rollup, banner",2022387
-34,2022-07-11,-514.73,VVDP Karpaty,Vino - Grinavsky den 2022,20220014
-35,2022-07-11,-200.0,Richard Estok RIAL STUDIO,Video - Grinavsky den 2022,20220015
-36,2022-07-08,-654.7,Anta Agni,Svetelna sou - Grinavsky den 2022,20220031
-37,2022-07-06,-243.4,Platba kartou,WEBNODE AG ZURICH,****4194
-38,2022-07-06,-200.0,Rial Studio Richard Estok,Vyroba videa,20220014
-39,2022-07-01,-600.0,Za srdcom OZ,Vystupenie Ludovej hudby Andreja Zahorca - Grinavsky den 2022,2022010
-40,2022-06-30,6.54,,Odpust.-popl.za platby a ved.úč/ko,9
-41,2022-06-30,-1.54,,Poplatky za platby spolu,9
-42,2022-06-30,-5.0,,Vedenie účtu,9
-43,2022-06-29,-50.0,Pavol Sandtner,Zapozicanie pristresku - Grinavsky den 2022,20220625
-44,2022-06-29,-500.0,Eduard Polakovic,Sluzby DJ - Grinavsky den 2022,20220625
-45,2022-06-27,-500.0,Slavomir Sedlak,Prenajom nafukovacej smyklavky - Grinavsky den 2022,2022025
-46,2022-06-27,-150.0,Zuzana Nagyova SUEWWB,Fotografovanie - Grinavsky den 2022,2022017
-47,2022-06-27,-300.0,Silvia Svarcova,Hudobna produkcia - Grinavsky den 2022,20220625
-48,2022-06-27,-500.0,Frantisek Seckar,Kolotoc pre deti - Grinavsky den 2022,200201
-49,2022-06-27,700.0,Marek Hančík,,
-50,2022-06-23,500.0,Zdenka Maderičová,Prispevok,
-51,2022-06-23,100.0,Jaroslava Holická,Vela stastia,
-52,2022-06-23,500.0,Klaudia Virgovičová,Pre tu najlepsiu kandidatku pod Slnkom,
-53,2022-06-23,1000.0,Roman Šmahovský,Pre dobro Pezinka,1105
-54,2022-06-23,1000.0,Ľuboš Bobák,Drzim palce,
-55,2022-06-23,3000.0,Eva Pilátová,,
-56,2022-06-22,-90.0,Zuzana Nagyova SUEWWB,dizajnerske sluzby - navrh loga,2022015
-57,2022-06-20,3000.0,VLACHOVIC TOMAS,Prispevok Eva Pilatova,
+1,2022-09-26,-53.27,Platba kartou,"HORNBACH BA, GA BRATISLAVA",****4194
+2,2022-09-26,-360.0,euroAWK,vyroba a prenajom billboardov,2270560
+3,2022-09-26,-998.4,euroAWK,vyroba a prenajom CityLightov,2270561
+4,2022-09-23,600.0,Šteflovičová Michaela,,
+5,2022-09-23,-708.0,TOP4YOU,Vyroba bigboard banneru,2210002
+6,2022-09-23,1000.0,TATRA BANKA A.S. - CENTRÁLA,Vela sil zelame,
+7,2022-09-22,-240.0,Arton,prenajom billboardov,220634
+8,2022-09-22,-48.0,Arton,tlac plagatov,220635
+9,2022-09-21,200.0,Pavel Handreich,Drzim palce,
+10,2022-09-21,1111.0,Milčik Robert,"Tvoja cesta je zmysluplna, dakujeme",
+11,2022-09-21,-175.0,Zuzana Nagyova,navrhy bannerov,2022025
+12,2022-09-21,-226.0,VISTA Real,LED Panorama,2201271
+13,2022-09-20,200.0,Denisa Plackova,"Vela stastiapri nadchadzajucich komunalnych volbach a vela skvelych napadov, ktoremas stale :)",
+14,2022-09-20,1000.0,Marek Fajnor,Drzime palce,
+15,2022-09-19,-194.4,ISPA,billboard,22950390
+16,2022-09-12,-359.0,Mesto Pezinok,Inzercia Pezincan,2022345
+17,2022-09-02,-264.78,Led promotion,led obrazovka,220800007
+18,2022-08-31,6.0,,Odpustenie vedenie konta,9
+19,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+20,2022-08-24,-170.0,VVDP Karpaty,prenajom priestorov 11.8.2022,20220017
+21,2022-08-22,100.0,Maria Holicka,Nech ti to vyjde,
+22,2022-08-22,101.0,Juraj Kocka,Drzime palce....,
+23,2022-08-19,-226.0,VISTA real,prenajom LED Panorama,3853702454
+24,2022-08-16,-350.0,FAJNOVO,vystupenie - stretnutie s obcanmi 6.8.2022,22073
+25,2022-08-15,-58.0,Platba kartou,POD HRUSKOU PEZINOK,****4194
+26,2022-08-15,-120.0,Zuzana Nagyova SUEWWB,navrhy bannerov,2022020
+27,2022-08-15,-915.0,Vitamin Gallery Pub,stretnutie s obcanmi 6.8.2022,2022026
+28,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026
+29,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026
+30,2022-08-08,-1098.72,ARDOX SK s.r.o.,Propagacne predmety,2022424
+31,2022-07-29,6.0,,Odpustenie vedenie konta,9
+32,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+33,2022-07-29,-509.1,LED promotion,Reklama na LED obrazovke pri Tesco,220800005
+34,2022-07-15,-66.6,ARDOX,"Rollup, banner",2022387
+35,2022-07-11,-514.73,VVDP Karpaty,Vino - Grinavsky den 2022,20220014
+36,2022-07-11,-200.0,Richard Estok RIAL STUDIO,Video - Grinavsky den 2022,20220015
+37,2022-07-08,-654.7,Anta Agni,Svetelna sou - Grinavsky den 2022,20220031
+38,2022-07-06,-243.4,Platba kartou,WEBNODE AG ZURICH,****4194
+39,2022-07-06,-200.0,Rial Studio Richard Estok,Vyroba videa,20220014
+40,2022-07-01,-600.0,Za srdcom OZ,Vystupenie Ludovej hudby Andreja Zahorca - Grinavsky den 2022,2022010
+41,2022-06-30,6.54,,Odpust.-popl.za platby a ved.úč/ko,9
+42,2022-06-30,-1.54,,Poplatky za platby spolu,9
+43,2022-06-30,-5.0,,Vedenie účtu,9
+44,2022-06-29,-50.0,Pavol Sandtner,Zapozicanie pristresku - Grinavsky den 2022,20220625
+45,2022-06-29,-500.0,Eduard Polakovic,Sluzby DJ - Grinavsky den 2022,20220625
+46,2022-06-27,-500.0,Slavomir Sedlak,Prenajom nafukovacej smyklavky - Grinavsky den 2022,2022025
+47,2022-06-27,-150.0,Zuzana Nagyova SUEWWB,Fotografovanie - Grinavsky den 2022,2022017
+48,2022-06-27,-300.0,Silvia Svarcova,Hudobna produkcia - Grinavsky den 2022,20220625
+49,2022-06-27,-500.0,Frantisek Seckar,Kolotoc pre deti - Grinavsky den 2022,200201
+50,2022-06-27,700.0,Marek Hančík,,
+51,2022-06-23,500.0,Zdenka Maderičová,Prispevok,
+52,2022-06-23,100.0,Jaroslava Holická,Vela stastia,
+53,2022-06-23,500.0,Klaudia Virgovičová,Pre tu najlepsiu kandidatku pod Slnkom,
+54,2022-06-23,1000.0,Roman Šmahovský,Pre dobro Pezinka,1105
+55,2022-06-23,1000.0,Ľuboš Bobák,Drzim palce,
+56,2022-06-23,3000.0,Eva Pilátová,,
+57,2022-06-22,-90.0,Zuzana Nagyova SUEWWB,dizajnerske sluzby - navrh loga,2022015
+58,2022-06-20,3000.0,VLACHOVIC TOMAS,Prispevok Eva Pilatova,
