@@ -1,10 +1,12 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-27,100.0,Bezhotovostný príjem,DULA ANDREJ,prispevok na kampan,,,,DULA ANDREJ
-1,2022-09-26,50.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Lenka Bodnarova - dar, prevod z t.u. Lepsi Lamac",,,,"Lenka Bodnarova - dar, prevod z t.u. Lepsi Lamac"
-2,2022-09-26,200.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Stanislav Babic - dar, prevod z t.u. Lepsi Lamac",,,,"Stanislav Babic - dar, prevod z t.u. Lepsi Lamac"
-3,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Petra Mitasikova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Petra Mitasikova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
-4,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Veronika Hagovska - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Veronika Hagovska - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
-5,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Matus Harmanos - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Matus Harmanos - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
-6,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Alexandra Krissova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Alexandra Krissova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
-7,2022-09-23,700.0,Bezhotovostný príjem,IGOR POLAKOVIC,/DO2022-09-23/SPVKLAD NA KAMPAN,,,,IGOR POLAKOVIC
-8,2022-07-29,200.0,Bezhotovostný príjem,IGOR POLAKOVIC,/DO2022-07-28/SPVKLAD NA KAMPAN,,,,IGOR POLAKOVIC
+0,2022-09-27,-760.8,Bezhotovostná platba,,"tlac novin - volby 2022 (VS: 202209
+069)",,202209069,,komunálne voľby 2022 - tlač novín Lepší Lamač
+1,2022-09-27,100.0,Bezhotovostný príjem,DULA ANDREJ,prispevok na kampan,,,,DULA ANDREJ
+2,2022-09-26,50.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Lenka Bodnarova - dar, prevod z t.u. Lepsi Lamac",,,,"Lenka Bodnarova - dar, prevod z t.u. Lepsi Lamac"
+3,2022-09-26,200.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Stanislav Babic - dar, prevod z t.u. Lepsi Lamac",,,,"Stanislav Babic - dar, prevod z t.u. Lepsi Lamac"
+4,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Petra Mitasikova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Petra Mitasikova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
+5,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Veronika Hagovska - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Veronika Hagovska - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
+6,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Matus Harmanos - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Matus Harmanos - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
+7,2022-09-26,500.0,Platba prevodom v rámci banky,"Mgr. Kriššová, Alexandra","Alexandra Krissova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac",,,,"Alexandra Krissova - spolocne vedenie kampane, prevod z t.u. Lepsi Lamac"
+8,2022-09-23,700.0,Bezhotovostný príjem,IGOR POLAKOVIC,/DO2022-09-23/SPVKLAD NA KAMPAN,,,,IGOR POLAKOVIC
+9,2022-07-29,200.0,Bezhotovostný príjem,IGOR POLAKOVIC,/DO2022-07-28/SPVKLAD NA KAMPAN,,,,IGOR POLAKOVIC
