@@ -1,11 +1,12 @@
 index,date,amount,account_name,message,vs
-0,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
-1,2022-09-22,-603.6,Element design s.r.o,,20220130
-2,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
-3,2022-09-13,-40.64,Websupport,,1022258311
-4,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
-5,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
-6,2022-09-05,-150.0,,,
-7,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-8,2022-08-31,-5.0,,Vedenie účtu,9
-9,2022-08-31,500.0,Tomáš VASOK,,
+0,2022-09-27,-40.0,Platba kartou,Platba kartou u obchodníka,****942
+1,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
+2,2022-09-22,-603.6,Element design s.r.o,,20220130
+3,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
+4,2022-09-13,-40.64,Websupport,,1022258311
+5,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
+6,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
+7,2022-09-05,-150.0,,,
+8,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+9,2022-08-31,-5.0,,Vedenie účtu,9
+10,2022-08-31,500.0,Tomáš VASOK,,
