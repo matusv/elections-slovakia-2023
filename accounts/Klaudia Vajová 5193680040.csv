@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,FARKAS LADISLAV,2022-09-25,2000,EUR,Ladislav Farkaspodpora na kampaňkomunálne voľby,Bezhotovostný vklad,,
-1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,,2022-09-28,-225,EUR,"B1376779001-44544 12** **** 0324;SLOVENSKA POSTA A S ,VELKY KRTIS ,SK ;26.09.2022 15:01:55 ;CashBack:0 EUR",Platba kartou,,
+1,FARKAS LADISLAV,2022-09-25,2000,EUR,Ladislav Farkaspodpora na kampaňkomunálne voľby,Bezhotovostný vklad,,
+2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
