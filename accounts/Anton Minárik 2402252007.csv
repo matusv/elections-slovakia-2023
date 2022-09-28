@@ -1,4 +1,6 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-08-18,-40.64,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.8.2022, částka  40.64 EUR",,9338,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.8.2022, částka  40.64 EUR"
-1,2022-08-16,50.0,Platba prevodom v rámci banky,"PaedDr. Minárik, Anton",,,,,
-2,2022-07-04,10.0,Vklad v hotovosti,,,0558,,,
+0,2022-09-28,-200.0,Bezhotovostná platba,,Platba za web,,20220018,,Platba za web
+1,2022-09-28,200.0,Platba prevodom v rámci banky,"PaedDr. Minárik, Anton",,,,,
+2,2022-08-18,-40.64,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.8.2022, částka  40.64 EUR",,9338,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 17.8.2022, částka  40.64 EUR"
+3,2022-08-16,50.0,Platba prevodom v rámci banky,"PaedDr. Minárik, Anton",,,,,
+4,2022-07-04,10.0,Vklad v hotovosti,,,0558,,,
