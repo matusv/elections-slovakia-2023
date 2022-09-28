@@ -1,2 +1,3 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Nora Pániková,2022-09-12,500,EUR,2225550000046171,Bezhotovostný vklad - okamžitá platba,,
+0,"T-štúdio, s.r.o.",2022-09-28,-228.6,EUR,0220928081138.576650,Okamžitá platba (EB),20220705,
+1,Nora Pániková,2022-09-12,500.0,EUR,2225550000046171,Bezhotovostný vklad - okamžitá platba,,
