@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,BigMedia s.r.o.,2022-09-28,-186,EUR,Uhrada kampane číslo 89007 - ViliamMakový,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-1,Eliška Begáň,2022-09-23,900,EUR,2226650000011789,Bezhotovostný vklad - okamžitá platba,,
-2,Krumpál Martin,2022-09-18,25,EUR,,Bezhotovostný vklad,,
+0,Msks Spol s.r.o.,2022-09-28,-595.5,EUR,0220928165812.123758,Okamžitá platba (EB),,
+1,BigMedia s.r.o.,2022-09-28,-186.0,EUR,Uhrada kampane číslo 89007 - ViliamMakový,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+2,Eliška Begáň,2022-09-23,900.0,EUR,2226650000011789,Bezhotovostný vklad - okamžitá platba,,
+3,Krumpál Martin,2022-09-18,25.0,EUR,,Bezhotovostný vklad,,
