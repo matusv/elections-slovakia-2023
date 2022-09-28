@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Manira s.r.o,2022-09-21,-150,EUR,Úhrada fa za tlač letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),2142022,
-1,Potočná Lenka,2022-09-21,60,EUR,F001210920224550741,Bezhotovostný vklad,,
-2,Potočná Lenka,2022-09-20,140,EUR,F001200920224012446,Bezhotovostný vklad,,
-3,Potočná Lenka,2022-09-07,40,EUR,F001070920221690769,Bezhotovostný vklad,,
-4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,Potočná Lenka,2022-09-28,100,EUR,F001280920228822410,Bezhotovostný vklad,,
+1,Manira s.r.o,2022-09-21,-150,EUR,Úhrada fa za tlač letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),2142022,
+2,Potočná Lenka,2022-09-21,60,EUR,F001210920224550741,Bezhotovostný vklad,,
+3,Potočná Lenka,2022-09-20,140,EUR,F001200920224012446,Bezhotovostný vklad,,
+4,Potočná Lenka,2022-09-07,40,EUR,F001070920221690769,Bezhotovostný vklad,,
+5,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
