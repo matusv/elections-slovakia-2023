@@ -1,3 +1,4 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-27,-3.5,Transakcia kartou,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR",,5874,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR"
-1,2022-09-06,100.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad.,,,,Ľubomír Gergeľ - vklad.
+0,2022-09-28,89.57,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",vklad,,,,vklad
+1,2022-09-27,-3.5,Transakcia kartou,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR",,5874,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR"
+2,2022-09-06,100.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad.,,,,Ľubomír Gergeľ - vklad.
