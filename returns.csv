@@ -39,16 +39,16 @@ index,index,date,amount,account_name,message,vs,name
 37,105,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
 38,0,2022-09-27,-500.0,VKM STARA LUBOVNA,Mylná platba- vrátený dar,9.0,Kresťanskodemokratické hnutie
 39,11,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
-40,102,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-41,73,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-42,70,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
-43,33,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-44,57,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-45,58,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-46,7,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-47,12,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-48,9,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-49,10,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
+40,105,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+41,76,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+42,73,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+43,36,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
+44,60,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+45,61,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
+46,10,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+47,15,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
+48,12,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+49,13,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
 50,88,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 51,70,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 52,276,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
