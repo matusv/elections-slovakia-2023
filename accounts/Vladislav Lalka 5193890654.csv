@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Lalka Vladislav,2022-09-18,-25,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,Lalka Vladislav,2022-08-16,1000,EUR,F001160820228535898,Bezhotovostný vklad,,
+0,SPACE účet,2022-09-29,-37,EUR,FB reklama,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,Lalka Vladislav,2022-09-18,-25,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,Lalka Vladislav,2022-08-16,1000,EUR,F001160820228535898,Bezhotovostný vklad,,
