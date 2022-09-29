@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Maňka Vladimír,2022-09-08,5000.0,EUR,F001080920222300259,Bezhotovostný vklad,,
+1,"Klemo, spol.s r.o.",2022-09-08,-2128.8,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220521,
+2,"Petit Press,a.s.",2022-09-05,-1128.0,EUR,0220905142429.916267,Okamžitá platba (EB),2233101778,
+3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

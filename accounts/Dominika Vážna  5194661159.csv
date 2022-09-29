@@ -1,0 +1,9 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Pettit press,2022-09-28,-120,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2233102033,
+1,"Bošiak Michal, Ing., PhD.",2022-09-22,610,EUR,MichalBosiak,Bezhotovostný vklad - okamžitá platba,,
+2,Masaryková Sandra,2022-09-22,140,EUR,Sandra Masarykova - propagacne letaky,Bezhotovostný vklad - okamžitá platba,,
+3,"Pinďurová Blažena,Pinďura Jozef",2022-09-22,325,EUR,F001220920225281061,Bezhotovostný vklad,,
+4,TRENCSENYIOVA MARIA,2022-09-21,280,EUR,F001210920224921035,Bezhotovostný vklad,,
+5,Vážna Dominika,2022-09-21,300,EUR,OO22092100030266,Bezhotovostný vklad - okamžitá platba,,
+6,Vavro Igor,2022-09-21,90,EUR,OO22092100025138,Bezhotovostný vklad - okamžitá platba,,
+7,Vážna Dominika,2022-09-09,100,EUR,OO22090900017726,Bezhotovostný vklad - okamžitá platba,,
