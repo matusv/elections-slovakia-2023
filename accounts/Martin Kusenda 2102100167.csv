@@ -1,34 +1,35 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-14,500.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-09-13/SPVklad,,,,KUSENDA MARTIN
-1,2022-09-12,-180.0,Platba prevodom v rámci banky,,"Tlač letákov A6, 4+4, 130 gr. ONM 2 druhy IDG279",0308,221226,,"Tlač letákov A6, 4+4, 130 gr. ONM 2 druhy IDG279"
-2,2022-09-02,-344.86,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS160,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.9.2022, částka  344.86 EUR",,6698,,"Nákup: GoogleAdwordsEU ADS160,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.9.2022, částka  344.86 EUR"
-3,2022-09-01,-98.21,Transakcia kartou,,"Nákup: FACEBK LPKDEG3KD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.8.2022, částka  98.21 EUR",,6698,,"Nákup: FACEBK LPKDEG3KD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.8.2022, částka  98.21 EUR"
-4,2022-08-23,-7.0,Transakcia kartou,,"Nákup: 24-pay*http://registra,  KALOV 356, Topolcianky, 01001, SVK, dne 22.8.2022, částka  7.00 EUR",,6698,,"Nákup: 24-pay*http://registra,  KALOV 356, Topolcianky, 01001, SVK, dne 22.8.2022, částka  7.00 EUR"
-5,2022-08-02,-237.81,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  237.81 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  237.81 EUR"
-6,2022-08-01,-33.44,Transakcia kartou,,"Nákup: FACEBK X5YMQFXJD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  33.44 EUR",,6698,,"Nákup: FACEBK X5YMQFXJD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  33.44 EUR"
-7,2022-07-07,1200.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-07-06/SPVklad,,,,KUSENDA MARTIN
-8,2022-07-06,-128.0,Bezhotovostná platba,,Faktura 202236,,202236,,"administračné, grafické a poradenské práce www.martinkusenda.sk"
-9,2022-07-01,-33.41,Transakcia kartou,,"Nákup: FACEBK SE7X2HKKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  33.41 EUR",,6698,,"Nákup: FACEBK SE7X2HKKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  33.41 EUR"
-10,2022-06-14,-105.84,Platba prevodom v rámci banky,,"Martin Kusenda, kartičky s receptami",0308,220796,,kartičky s receptami
-11,2022-06-05,-10.8,Transakcia kartou,,"Nákup: FACEBK JBR99EBGG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  10.80 EUR",,6698,,"Nákup: FACEBK JBR99EBGG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  10.80 EUR"
-12,2022-06-04,-89.62,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 3.6.2022, částka  89.62 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 3.6.2022, částka  89.62 EUR"
-13,2022-05-31,-16.55,Transakcia kartou,,"Nákup: FACEBK Z5KRYDFKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.5.2022, částka  16.55 EUR",,6698,,"Nákup: FACEBK Z5KRYDFKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.5.2022, částka  16.55 EUR"
-14,2022-05-30,-118.8,Platba prevodom v rámci banky,,"Martin Kusenda, polokošele s potlačou",0308,220722,,Polokošele s potlačou
-15,2022-05-27,-10.8,Transakcia kartou,,"Nákup: FACEBK KNHN2FTFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.5.2022, částka  10.80 EUR",,6698,,"Nákup: FACEBK KNHN2FTFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.5.2022, částka  10.80 EUR"
-16,2022-05-26,230.0,Bezhotovostný príjem,Lenka Kusendová,/DO2022-05-26/SP mobil,,,,Lenka Kusendová
-17,2022-05-23,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 22.5.2022, částka  200.00 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 22.5.2022, částka  200.00 EUR"
-18,2022-05-20,-2.22,Transakcia kartou,,"Nákup: FACEBK 7QJKUETFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.5.2022, částka  2.22 EUR",,6698,,"Nákup: FACEBK 7QJKUETFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.5.2022, částka  2.22 EUR"
-19,2022-05-18,-10.8,Transakcia kartou,,"Nákup: FACEBK GG72PDPFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.5.2022, částka  10.80 EUR",,6698,,"Nákup: FACEBK GG72PDPFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.5.2022, částka  10.80 EUR"
-20,2022-05-12,-3.99,Transakcia kartou,,"Nákup: FACEBK XWB3ZCKWV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.5.2022, částka  3.99 EUR",,6698,,"Nákup: FACEBK XWB3ZCKWV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.5.2022, částka  3.99 EUR"
-21,2022-05-05,-225.89,Platba prevodom v rámci banky,,"Martin Kusenda, plagáty A3, tričká a polokošele, potlač digitál, príprava, grafické práce",0308,220572,,"Martin Kusenda, plagáty A3, tričká a polokošele, potlač digitál, príprava, grafické práce"
-22,2022-05-03,-49.92,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.5.2022, částka  49.92 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.5.2022, částka  49.92 EUR"
-23,2022-04-26,-50.0,Transakcia kartou,,"Nákup: GOOGLE*ADS1602329117,  CC GOOGLE.COM, INTERNET, D04 E5W5, IRL, dne 25.4.2022, částka  50.00 EUR",,6698,,"Nákup: GOOGLE*ADS1602329117,  CC GOOGLE.COM, INTERNET, D04 E5W5, IRL, dne 25.4.2022, částka  50.00 EUR"
-24,2022-04-04,-115.66,Bezhotovostná platba,,Faktura 202211,,202211,,"administračné, grafické a poradenské práce www.martinkusenda.sk"
-25,2022-03-29,-41.4,Platba prevodom v rámci banky,,"Martin Kusenda, plagáty A3, vizitky 4+4",0308,220376,,"Martin Kusenda, plagáty A3, vizitky 4+4"
-26,2022-03-23,-120.0,Bezhotovostná platba,,"pristup do archivu konferencie Mark
+0,2022-09-30,-74.33,Transakcia kartou,,"Nákup: FACEBK 2RBUZFPKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.9.2022, částka  74.33 EUR",,6698,,"Nákup: FACEBK 2RBUZFPKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.9.2022, částka  74.33 EUR"
+1,2022-09-14,500.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-09-13/SPVklad,,,,KUSENDA MARTIN
+2,2022-09-12,-180.0,Platba prevodom v rámci banky,,"Tlač letákov A6, 4+4, 130 gr. ONM 2 druhy IDG279",0308,221226,,"Tlač letákov A6, 4+4, 130 gr. ONM 2 druhy IDG279"
+3,2022-09-02,-344.86,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS160,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.9.2022, částka  344.86 EUR",,6698,,"Nákup: GoogleAdwordsEU ADS160,  Gordon House, Barrow Street, Dublin, D04 E5W5, IRL, dne 1.9.2022, částka  344.86 EUR"
+4,2022-09-01,-98.21,Transakcia kartou,,"Nákup: FACEBK LPKDEG3KD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.8.2022, částka  98.21 EUR",,6698,,"Nákup: FACEBK LPKDEG3KD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.8.2022, částka  98.21 EUR"
+5,2022-08-23,-7.0,Transakcia kartou,,"Nákup: 24-pay*http://registra,  KALOV 356, Topolcianky, 01001, SVK, dne 22.8.2022, částka  7.00 EUR",,6698,,"Nákup: 24-pay*http://registra,  KALOV 356, Topolcianky, 01001, SVK, dne 22.8.2022, částka  7.00 EUR"
+6,2022-08-02,-237.81,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  237.81 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 1.8.2022, částka  237.81 EUR"
+7,2022-08-01,-33.44,Transakcia kartou,,"Nákup: FACEBK X5YMQFXJD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  33.44 EUR",,6698,,"Nákup: FACEBK X5YMQFXJD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.8.2022, částka  33.44 EUR"
+8,2022-07-07,1200.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-07-06/SPVklad,,,,KUSENDA MARTIN
+9,2022-07-06,-128.0,Bezhotovostná platba,,Faktura 202236,,202236,,"administračné, grafické a poradenské práce www.martinkusenda.sk"
+10,2022-07-01,-33.41,Transakcia kartou,,"Nákup: FACEBK SE7X2HKKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  33.41 EUR",,6698,,"Nákup: FACEBK SE7X2HKKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  33.41 EUR"
+11,2022-06-14,-105.84,Platba prevodom v rámci banky,,"Martin Kusenda, kartičky s receptami",0308,220796,,kartičky s receptami
+12,2022-06-05,-10.8,Transakcia kartou,,"Nákup: FACEBK JBR99EBGG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  10.80 EUR",,6698,,"Nákup: FACEBK JBR99EBGG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.6.2022, částka  10.80 EUR"
+13,2022-06-04,-89.62,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 3.6.2022, částka  89.62 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, 650-253-0000, UNKNOWN, IRL, dne 3.6.2022, částka  89.62 EUR"
+14,2022-05-31,-16.55,Transakcia kartou,,"Nákup: FACEBK Z5KRYDFKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.5.2022, částka  16.55 EUR",,6698,,"Nákup: FACEBK Z5KRYDFKD2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 31.5.2022, částka  16.55 EUR"
+15,2022-05-30,-118.8,Platba prevodom v rámci banky,,"Martin Kusenda, polokošele s potlačou",0308,220722,,Polokošele s potlačou
+16,2022-05-27,-10.8,Transakcia kartou,,"Nákup: FACEBK KNHN2FTFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.5.2022, částka  10.80 EUR",,6698,,"Nákup: FACEBK KNHN2FTFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.5.2022, částka  10.80 EUR"
+17,2022-05-26,230.0,Bezhotovostný príjem,Lenka Kusendová,/DO2022-05-26/SP mobil,,,,Lenka Kusendová
+18,2022-05-23,-200.0,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 22.5.2022, částka  200.00 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 22.5.2022, částka  200.00 EUR"
+19,2022-05-20,-2.22,Transakcia kartou,,"Nákup: FACEBK 7QJKUETFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.5.2022, částka  2.22 EUR",,6698,,"Nákup: FACEBK 7QJKUETFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.5.2022, částka  2.22 EUR"
+20,2022-05-18,-10.8,Transakcia kartou,,"Nákup: FACEBK GG72PDPFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.5.2022, částka  10.80 EUR",,6698,,"Nákup: FACEBK GG72PDPFG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.5.2022, částka  10.80 EUR"
+21,2022-05-12,-3.99,Transakcia kartou,,"Nákup: FACEBK XWB3ZCKWV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.5.2022, částka  3.99 EUR",,6698,,"Nákup: FACEBK XWB3ZCKWV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.5.2022, částka  3.99 EUR"
+22,2022-05-05,-225.89,Platba prevodom v rámci banky,,"Martin Kusenda, plagáty A3, tričká a polokošele, potlač digitál, príprava, grafické práce",0308,220572,,"Martin Kusenda, plagáty A3, tričká a polokošele, potlač digitál, príprava, grafické práce"
+23,2022-05-03,-49.92,Transakcia kartou,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.5.2022, částka  49.92 EUR",,6698,,"Nákup: GOOGLE *ADS1602329117,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.5.2022, částka  49.92 EUR"
+24,2022-04-26,-50.0,Transakcia kartou,,"Nákup: GOOGLE*ADS1602329117,  CC GOOGLE.COM, INTERNET, D04 E5W5, IRL, dne 25.4.2022, částka  50.00 EUR",,6698,,"Nákup: GOOGLE*ADS1602329117,  CC GOOGLE.COM, INTERNET, D04 E5W5, IRL, dne 25.4.2022, částka  50.00 EUR"
+25,2022-04-04,-115.66,Bezhotovostná platba,,Faktura 202211,,202211,,"administračné, grafické a poradenské práce www.martinkusenda.sk"
+26,2022-03-29,-41.4,Platba prevodom v rámci banky,,"Martin Kusenda, plagáty A3, vizitky 4+4",0308,220376,,"Martin Kusenda, plagáty A3, vizitky 4+4"
+27,2022-03-23,-120.0,Bezhotovostná platba,,"pristup do archivu konferencie Mark
 eting Rulezz Special - Martin Kusen
 da",,22050,,
-27,2022-03-07,-865.62,Bezhotovostná platba,,Faktura 202211,,202211,,Vytvorenie nových internetových stránok www.martinkusenda.sk
-28,2022-03-03,-60.0,Platba prevodom v rámci banky,,Banner . reklamná plachta do roll up IDG046,0308,220226,,Banner . reklamná plachta do roll up IDG046
-29,2022-03-03,2000.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-03-02/SP,,,,KUSENDA MARTIN
-30,2022-01-14,44.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-01-13/SPVklad,,,,KUSENDA MARTIN
+28,2022-03-07,-865.62,Bezhotovostná platba,,Faktura 202211,,202211,,Vytvorenie nových internetových stránok www.martinkusenda.sk
+29,2022-03-03,-60.0,Platba prevodom v rámci banky,,Banner . reklamná plachta do roll up IDG046,0308,220226,,Banner . reklamná plachta do roll up IDG046
+30,2022-03-03,2000.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-03-02/SP,,,,KUSENDA MARTIN
+31,2022-01-14,44.0,Bezhotovostný príjem,KUSENDA MARTIN,/DO2022-01-13/SPVklad,,,,KUSENDA MARTIN
