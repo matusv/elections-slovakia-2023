@@ -1,37 +1,39 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-28,-120.0,Bezhotovostná platba,,,,2022031,,
-1,2022-09-28,400.0,Bezhotovostný príjem,Dominika Paveleková,/DO2022-09-27/SPIgor PavelekDominika Paveleková,,,,Dominika Paveleková
-2,2022-09-26,-5.0,Transakcia kartou,,"Nákup: FACEBK QR5Z6H3UT2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.9.2022, částka  5.00 EUR",,6676,,"Nákup: FACEBK QR5Z6H3UT2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.9.2022, částka  5.00 EUR"
-3,2022-09-26,200.0,Bezhotovostný príjem,MARTINA BOLECKOVA,/DO2022-09-26/SPVOLBY 2022,,,,MARTINA BOLECKOVA
-4,2022-09-26,500.0,Bezhotovostný príjem,Matej Lančarič,/DO2022-09-26/SP,,,,Matej Lančarič
-5,2022-09-25,-780.0,Bezhotovostná platba,,Inzercia MY Trnavske noviny,0308,2235110614,,Inzercia noviny
-6,2022-09-25,-152.4,Bezhotovostná platba,,Inzercia v Pardon,0308,2235110536,,Inzercia v Pardon
-7,2022-09-12,-20.0,Bezhotovostná platba,,,,1500009432,,za užívanie verejného priestranstva
-8,2022-09-12,-152.4,Bezhotovostná platba,,,0308,2235110270,,Iznercia Pardon
-9,2022-09-12,-163.48,Transakcia kartou,,"Nákup: FACEBK *MLWMYE7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.9.2022, částka  163.48 EUR",,6676,,"Nákup: FACEBK *MLWMYE7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.9.2022, částka  163.48 EUR"
-10,2022-09-08,-105.0,Bezhotovostná platba,,za tlac plagatov A2,0008,,,za tlac plagatov
-11,2022-09-06,250.0,Bezhotovostný príjem,POLDRUHAK JAN,/DO2022-09-05/SPVo,,37,,POLDRUHAK JAN
-12,2022-08-31,-130.0,Bezhotovostná platba,,Navrh grafiky citylightu,,20220049,,Navrh grafiky citylightu
-13,2022-08-25,-1478.4,Bezhotovostná platba,,kampan za prenajom CL,,2270426,,
-14,2022-08-25,-739.2,Bezhotovostná platba,,kampan za prenajom CL,,2270425,,
-15,2022-08-17,400.0,Bezhotovostný príjem,BOCKAY ALAN,TT - Rozumne a Ohladuplne,,,,BOCKAY ALAN
-16,2022-08-15,500.0,Bezhotovostný príjem,MISEK JAKUB,/DO2022-08-15/SP,,,,MISEK JAKUB
-17,2022-08-15,700.0,Bezhotovostný príjem,Emanuel Uváčik,/DO2022-08-15/SP Emanuel Uvacik,,,,Emanuel Uváčik
-18,2022-08-15,500.0,Bezhotovostný príjem,Dominika Paveleková,/DO2022-08-13/SP,,,,Dominika Paveleková
-19,2022-08-15,500.0,Bezhotovostný príjem,Igor Pavelek,/DO2022-08-13/SP,,,,Igor Pavelek
-20,2022-08-15,100.0,Bezhotovostný príjem,Hacurova,volby 2022 za rozumne parkovanie,,,,Hacurova
-21,2022-08-12,-240.41,Transakcia kartou,,"Nákup: FACEBK *KF6C8E7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.8.2022, částka  240.41 EUR",,6676,,"Nákup: FACEBK *KF6C8E7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.8.2022, částka  240.41 EUR"
-22,2022-08-11,50.0,Bezhotovostný príjem,LUCIA CAPKOVICOVA,/DO2022-08-10/SPPLATBA VOLBY 2022 KONIEC BICYKLOV :),,,,LUCIA CAPKOVICOVA
-23,2022-08-11,50.0,Bezhotovostný príjem,LUCIA CAPKOVICOVA,/DO2022-08-10/SPPLATBA VOLBY 2022,,,,LUCIA CAPKOVICOVA
-24,2022-08-11,500.0,Bezhotovostný príjem,Michaela Chvílová,/DO2022-08-11/SP,,,,Michaela Chvílová
-25,2022-08-11,300.0,Bezhotovostný príjem,PETER KVASNICAK,trnava volby 2022,,,,PETER KVASNICAK
-26,2022-08-08,500.0,Bezhotovostný príjem,MARTINA BOLECKOVA,/DO2022-08-08/SPVOLBY 2022,,,,MARTINA BOLECKOVA
-27,2022-07-16,-10.8,Transakcia kartou,,"Nákup: FACEBK *LJURQDTEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR",,6676,,"Nákup: FACEBK *LJURQDTEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR"
-28,2022-07-16,-10.8,Transakcia kartou,,"Nákup: FACEBK *HMST5EKEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR",,6676,,"Nákup: FACEBK *HMST5EKEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR"
-29,2022-07-15,-10.8,Transakcia kartou,,"Nákup: FACEBK *E5TJGEPEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.7.2022, částka  10.80 EUR",,6676,,"Nákup: FACEBK *E5TJGEPEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.7.2022, částka  10.80 EUR"
-30,2022-07-01,-9.63,Transakcia kartou,,"Nákup: FACEBK 2N9GYCBP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  9.63 EUR",,6676,,"Nákup: FACEBK 2N9GYCBP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  9.63 EUR"
-31,2022-06-24,200.0,Bezhotovostný príjem,"Lančarič Alexander,",/DO2022-06-23/SP,,,,"Lančarič Alexander,"
-32,2022-06-15,200.0,Bezhotovostný príjem,MISEK JAKUB,/DO2022-06-14/SP,,,,MISEK JAKUB
-33,2022-06-14,-11.99,Bezhotovostná platba,,,0308,1022181595,,
-34,2022-06-13,200.0,Bezhotovostný príjem,MAREK CHVILA,/DO2022-06-10/SPPLATBA,,,,MAREK CHVILA
-35,2022-06-10,200.0,Bezhotovostný príjem,Matej Lančarič,/DO2022-06-09/SP,,,,Matej Lančarič
+0,2022-09-30,145.0,Bezhotovostný príjem,Michaela Chvílová,/DO2022-09-29/SP,,,,Michaela Chvílová
+1,2022-09-30,100.0,Bezhotovostný príjem,Emanuel Uváčik,/DO2022-09-29/SP,,,,Emanuel Uváčik
+2,2022-09-28,-120.0,Bezhotovostná platba,,,,2022031,,
+3,2022-09-28,400.0,Bezhotovostný príjem,Dominika Paveleková,/DO2022-09-27/SPIgor PavelekDominika Paveleková,,,,Dominika Paveleková
+4,2022-09-26,-5.0,Transakcia kartou,,"Nákup: FACEBK QR5Z6H3UT2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.9.2022, částka  5.00 EUR",,6676,,"Nákup: FACEBK QR5Z6H3UT2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.9.2022, částka  5.00 EUR"
+5,2022-09-26,200.0,Bezhotovostný príjem,MARTINA BOLECKOVA,/DO2022-09-26/SPVOLBY 2022,,,,MARTINA BOLECKOVA
+6,2022-09-26,500.0,Bezhotovostný príjem,Matej Lančarič,/DO2022-09-26/SP,,,,Matej Lančarič
+7,2022-09-25,-780.0,Bezhotovostná platba,,Inzercia MY Trnavske noviny,0308,2235110614,,Inzercia noviny
+8,2022-09-25,-152.4,Bezhotovostná platba,,Inzercia v Pardon,0308,2235110536,,Inzercia v Pardon
+9,2022-09-12,-20.0,Bezhotovostná platba,,,,1500009432,,za užívanie verejného priestranstva
+10,2022-09-12,-152.4,Bezhotovostná platba,,,0308,2235110270,,Iznercia Pardon
+11,2022-09-12,-163.48,Transakcia kartou,,"Nákup: FACEBK *MLWMYE7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.9.2022, částka  163.48 EUR",,6676,,"Nákup: FACEBK *MLWMYE7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.9.2022, částka  163.48 EUR"
+12,2022-09-08,-105.0,Bezhotovostná platba,,za tlac plagatov A2,0008,,,za tlac plagatov
+13,2022-09-06,250.0,Bezhotovostný príjem,POLDRUHAK JAN,/DO2022-09-05/SPVo,,37,,POLDRUHAK JAN
+14,2022-08-31,-130.0,Bezhotovostná platba,,Navrh grafiky citylightu,,20220049,,Navrh grafiky citylightu
+15,2022-08-25,-1478.4,Bezhotovostná platba,,kampan za prenajom CL,,2270426,,
+16,2022-08-25,-739.2,Bezhotovostná platba,,kampan za prenajom CL,,2270425,,
+17,2022-08-17,400.0,Bezhotovostný príjem,BOCKAY ALAN,TT - Rozumne a Ohladuplne,,,,BOCKAY ALAN
+18,2022-08-15,500.0,Bezhotovostný príjem,MISEK JAKUB,/DO2022-08-15/SP,,,,MISEK JAKUB
+19,2022-08-15,700.0,Bezhotovostný príjem,Emanuel Uváčik,/DO2022-08-15/SP Emanuel Uvacik,,,,Emanuel Uváčik
+20,2022-08-15,500.0,Bezhotovostný príjem,Dominika Paveleková,/DO2022-08-13/SP,,,,Dominika Paveleková
+21,2022-08-15,500.0,Bezhotovostný príjem,Igor Pavelek,/DO2022-08-13/SP,,,,Igor Pavelek
+22,2022-08-15,100.0,Bezhotovostný príjem,Hacurova,volby 2022 za rozumne parkovanie,,,,Hacurova
+23,2022-08-12,-240.41,Transakcia kartou,,"Nákup: FACEBK *KF6C8E7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.8.2022, částka  240.41 EUR",,6676,,"Nákup: FACEBK *KF6C8E7EA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.8.2022, částka  240.41 EUR"
+24,2022-08-11,50.0,Bezhotovostný príjem,LUCIA CAPKOVICOVA,/DO2022-08-10/SPPLATBA VOLBY 2022 KONIEC BICYKLOV :),,,,LUCIA CAPKOVICOVA
+25,2022-08-11,50.0,Bezhotovostný príjem,LUCIA CAPKOVICOVA,/DO2022-08-10/SPPLATBA VOLBY 2022,,,,LUCIA CAPKOVICOVA
+26,2022-08-11,500.0,Bezhotovostný príjem,Michaela Chvílová,/DO2022-08-11/SP,,,,Michaela Chvílová
+27,2022-08-11,300.0,Bezhotovostný príjem,PETER KVASNICAK,trnava volby 2022,,,,PETER KVASNICAK
+28,2022-08-08,500.0,Bezhotovostný príjem,MARTINA BOLECKOVA,/DO2022-08-08/SPVOLBY 2022,,,,MARTINA BOLECKOVA
+29,2022-07-16,-10.8,Transakcia kartou,,"Nákup: FACEBK *LJURQDTEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR",,6676,,"Nákup: FACEBK *LJURQDTEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR"
+30,2022-07-16,-10.8,Transakcia kartou,,"Nákup: FACEBK *HMST5EKEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR",,6676,,"Nákup: FACEBK *HMST5EKEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2022, částka  10.80 EUR"
+31,2022-07-15,-10.8,Transakcia kartou,,"Nákup: FACEBK *E5TJGEPEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.7.2022, částka  10.80 EUR",,6676,,"Nákup: FACEBK *E5TJGEPEA2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.7.2022, částka  10.80 EUR"
+32,2022-07-01,-9.63,Transakcia kartou,,"Nákup: FACEBK 2N9GYCBP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  9.63 EUR",,6676,,"Nákup: FACEBK 2N9GYCBP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.6.2022, částka  9.63 EUR"
+33,2022-06-24,200.0,Bezhotovostný príjem,"Lančarič Alexander,",/DO2022-06-23/SP,,,,"Lančarič Alexander,"
+34,2022-06-15,200.0,Bezhotovostný príjem,MISEK JAKUB,/DO2022-06-14/SP,,,,MISEK JAKUB
+35,2022-06-14,-11.99,Bezhotovostná platba,,,0308,1022181595,,
+36,2022-06-13,200.0,Bezhotovostný príjem,MAREK CHVILA,/DO2022-06-10/SPPLATBA,,,,MAREK CHVILA
+37,2022-06-10,200.0,Bezhotovostný príjem,Matej Lančarič,/DO2022-06-09/SP,,,,Matej Lančarič
