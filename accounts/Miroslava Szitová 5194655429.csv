@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Tkáč Miroslav Mgr.,2022-09-22,150,EUR,F001220920225451371,Bezhotovostný vklad,,
+1,"Dupčák Róbert, Ing.",2022-09-21,150,EUR,Volby 2022,Bezhotovostný vklad - okamžitá platba,,
+2,"Badzíková Lenka, Ing.",2022-09-18,500,EUR,Badzik volby,Bezhotovostný vklad - okamžitá platba,,
+3,"Zekuciová Marta,Zekucia Štefan",2022-09-16,150,EUR,"Ing.Stefan Zekucia, Holleho 22, Smizany",Bezhotovostný vklad,16902022,
+4,DOBSINSKA IVETA,2022-09-09,200,EUR,Podpora kampane na starostku obce Smižany,Bezhotovostný vklad,09092022,
