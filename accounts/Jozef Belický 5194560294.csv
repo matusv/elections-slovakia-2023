@@ -1,3 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-29,-9,EUR,"B1377876289-44544 12** **** 2336;FACEBK MADRDG3PA2 ,fb.me/ads ,IE ;28.09.2022 04:17:08 ;CashBack:0 EUR",Platba kartou,,
-1,,2022-09-29,-9,EUR,"B1377406140-44544 12** **** 2336;FACEBK JKZ6TFPNA2 ,fb.me/ads ,IE ;27.09.2022 19:51:05 ;CashBack:0 EUR",Platba kartou,,
+0,,2022-09-30,-12,EUR,"B1378067531-44544 12** **** 2336;FACEBK ZKBVKF7PA2 ,fb.me/ads ,IE ;28.09.2022 21:53:44 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-09-30,-12,EUR,"B1378000906-44544 12** **** 2336;FACEBK PL22PGKPA2 ,fb.me/ads ,IE ;28.09.2022 16:42:48 ;CashBack:0 EUR",Platba kartou,,
+2,,2022-09-30,-9,EUR,"B1377929541-44544 12** **** 2336;FACEBK RZGYDG3PA2 ,fb.me/ads ,IE ;28.09.2022 11:04:02 ;CashBack:0 EUR",Platba kartou,,
+3,,2022-09-29,-9,EUR,"B1377876289-44544 12** **** 2336;FACEBK MADRDG3PA2 ,fb.me/ads ,IE ;28.09.2022 04:17:08 ;CashBack:0 EUR",Platba kartou,,
+4,,2022-09-29,-9,EUR,"B1377406140-44544 12** **** 2336;FACEBK JKZ6TFPNA2 ,fb.me/ads ,IE ;27.09.2022 19:51:05 ;CashBack:0 EUR",Platba kartou,,
