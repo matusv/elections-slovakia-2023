@@ -1,16 +1,17 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-29,-150.0,Bezhotovostná platba,,,,,,zmluva o dielo
-1,2022-09-21,-16.0,Transakcia kartou,,"Nákup: Drevenicka u liptovske,  Liskova 2300, Liskova, 03481, SVK, dne 20.9.2022, částka  16.00 EUR",,2380,,"Nákup: Drevenicka u liptovske,  Liskova 2300, Liskova, 03481, SVK, dne 20.9.2022, částka  16.00 EUR"
-2,2022-09-13,-23.5,Bezhotovostná platba,,,0308,72206896,,web domena monikadebnarova.sk
-3,2022-09-12,-15.95,Transakcia kartou,,"Nákup: LIDL 291 BA, Pri letis,  Pri starom letisku, Bratislava, 83107, SVK, dne 11.9.2022, částka  15.95 EUR",,2380,,"Nákup: LIDL 291 BA, Pri letis,  Pri starom letisku, Bratislava, 83107, SVK, dne 11.9.2022, částka  15.95 EUR"
-4,2022-09-12,200.0,Bezhotovostný príjem,LUDMILA ZAJKOVA,/DO2022-09-12/SPPODPORA,,,,LUDMILA ZAJKOVA
-5,2022-09-12,20.0,Bezhotovostný príjem,BARBORA JASLOVSKA,/DO2022-09-09/SPPRISPEVOK,,,,BARBORA JASLOVSKA
-6,2022-09-12,20.0,Bezhotovostný príjem,IVAN KULA,/DO2022-09-09/SPPREVOD PROSTRIEDKOV,,,,IVAN KULA
-7,2022-09-12,100.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-12/SPna volby,,,,DEBNAROVA MONIKA
-8,2022-09-12,30.0,Bezhotovostný príjem,Marčišová Karin,/DO2022-09-09/SP,,,,Marčišová Karin
-9,2022-09-08,-1152.0,Bezhotovostná platba,,,0308,12120541,,bilboardova kampan volby
-10,2022-09-08,150.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-07/SPna volby,,,,DEBNAROVA MONIKA
-11,2022-09-07,-180.0,Bezhotovostná platba,,,,,,fotografie volby
-12,2022-09-06,400.0,Bezhotovostný príjem,Jiřina Perényiová,"/DO2022-09-05/SPpríspevok na voľby 2022, J. Perényiová",,29102022,,Jiřina Perényiová
-13,2022-08-22,500.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-08-22/SPna volby,,,,DEBNAROVA MONIKA
-14,2022-08-22,300.0,Bezhotovostný príjem,"Debnár Jozef, Ing.",/DO2022-08-20/SPPrispevok na volby 2022,,,,"Debnár Jozef, Ing."
+0,2022-10-01,-10.1,Transakcia kartou,,"Nákup: Tesco  OC Vajnoria,  vajnoria, Bratislava, 83107, SVK, dne 30.9.2022, částka  10.10 EUR",,2380,,"Nákup: Tesco  OC Vajnoria,  vajnoria, Bratislava, 83107, SVK, dne 30.9.2022, částka  10.10 EUR"
+1,2022-09-29,-150.0,Bezhotovostná platba,,,,,,zmluva o dielo
+2,2022-09-21,-16.0,Transakcia kartou,,"Nákup: Drevenicka u liptovske,  Liskova 2300, Liskova, 03481, SVK, dne 20.9.2022, částka  16.00 EUR",,2380,,"Nákup: Drevenicka u liptovske,  Liskova 2300, Liskova, 03481, SVK, dne 20.9.2022, částka  16.00 EUR"
+3,2022-09-13,-23.5,Bezhotovostná platba,,,0308,72206896,,web domena monikadebnarova.sk
+4,2022-09-12,-15.95,Transakcia kartou,,"Nákup: LIDL 291 BA, Pri letis,  Pri starom letisku, Bratislava, 83107, SVK, dne 11.9.2022, částka  15.95 EUR",,2380,,"Nákup: LIDL 291 BA, Pri letis,  Pri starom letisku, Bratislava, 83107, SVK, dne 11.9.2022, částka  15.95 EUR"
+5,2022-09-12,200.0,Bezhotovostný príjem,LUDMILA ZAJKOVA,/DO2022-09-12/SPPODPORA,,,,LUDMILA ZAJKOVA
+6,2022-09-12,20.0,Bezhotovostný príjem,BARBORA JASLOVSKA,/DO2022-09-09/SPPRISPEVOK,,,,BARBORA JASLOVSKA
+7,2022-09-12,20.0,Bezhotovostný príjem,IVAN KULA,/DO2022-09-09/SPPREVOD PROSTRIEDKOV,,,,IVAN KULA
+8,2022-09-12,100.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-12/SPna volby,,,,DEBNAROVA MONIKA
+9,2022-09-12,30.0,Bezhotovostný príjem,Marčišová Karin,/DO2022-09-09/SP,,,,Marčišová Karin
+10,2022-09-08,-1152.0,Bezhotovostná platba,,,0308,12120541,,bilboardova kampan volby
+11,2022-09-08,150.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-09-07/SPna volby,,,,DEBNAROVA MONIKA
+12,2022-09-07,-180.0,Bezhotovostná platba,,,,,,fotografie volby
+13,2022-09-06,400.0,Bezhotovostný príjem,Jiřina Perényiová,"/DO2022-09-05/SPpríspevok na voľby 2022, J. Perényiová",,29102022,,Jiřina Perényiová
+14,2022-08-22,500.0,Bezhotovostný príjem,DEBNAROVA MONIKA,/DO2022-08-22/SPna volby,,,,DEBNAROVA MONIKA
+15,2022-08-22,300.0,Bezhotovostný príjem,"Debnár Jozef, Ing.",/DO2022-08-20/SPPrispevok na volby 2022,,,,"Debnár Jozef, Ing."
