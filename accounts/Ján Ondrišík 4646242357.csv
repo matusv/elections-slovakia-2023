@@ -1,6 +1,7 @@
 index,date,amount,account_name,message,vs
-0,2022-09-29,-0.1,,Popl. Zobr. zostatku cez ATM VUB,8517
-1,2022-09-28,100.0,Stanek Martin,Startovne..,
-2,2022-09-21,2000.0,Ján Ondrišík,,
-3,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-4,2022-08-31,-5.0,,Vedenie účtu,9
+0,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+1,2022-09-29,-0.1,,Popl. Zobr. zostatku cez ATM VUB,8517
+2,2022-09-28,100.0,Stanek Martin,Startovne..,
+3,2022-09-21,2000.0,Ján Ondrišík,,
+4,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+5,2022-08-31,-5.0,,Vedenie účtu,9

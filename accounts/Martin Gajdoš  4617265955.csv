@@ -1,46 +1,48 @@
 index,date,amount,account_name,message,vs
-0,2022-09-30,1000.0,Simovcik Jozef,Pre Stare mesto,
-1,2022-09-29,1000.0,Zatko Andrej,,
-2,2022-09-29,300.0,"Denková Eva, JUDr.",viliam denko,291022
-3,2022-09-27,570.0,Bátovská Miroslava,Mirka Batovska kampan 2022 nalepka,
-4,2022-09-27,-2280.0,BigMedia spol. s r.o.,Elektricky reklama polep 20 kusov oktober 2022,
-5,2022-09-26,-3.0,"UNIMEDIA, s.r.o.",Tlac Bilboardov Oktober,
-6,2022-09-23,-89.2,Platba kartou,GOPAY *SHIRTTU https://sh,****4687
-7,2022-09-23,-63.44,Platba kartou,SHIRTINATOR.SK MUNCHEN,****4687
-8,2022-09-22,500.0,"Tatár Peter, MUDr.",,
-9,2022-09-22,-262.2,"UNIMEDIA, s.r.o.",Tlac Bilboardov Oktober,
-10,2022-09-19,-158.53,Platba kartou,FACEBK D692UHBP fb.me/ads,****4687
-11,2022-09-08,1750.0,"Thomas Róbert, Ing.",pre Stare Mesto,
-12,2022-09-08,1750.0,KAMAN OSKAR,Oskar Kaman,
-13,2022-09-06,1000.0,"Grožaj Róbert, Ing. arch.",Dame to,
-14,2022-09-05,950.0,Bátovská Miroslava,Mirka Batovska kampan 2022,
-15,2022-08-31,6.0,,Odpustenie vedenie konta,9
-16,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-17,2022-08-19,-323.88,Platba kartou,FACEBK JFUUHH3P fb.me/ads,****4687
-18,2022-08-08,100.0,Jozef Chutňák,,
-19,2022-08-02,-70.0,Platba kartou,FACEBK *U4RPLJX fb.me/ads,****4687
-20,2022-07-29,6.0,,Odpustenie vedenie konta,9
-21,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-22,2022-07-20,-516.0,Nubium,Martin Gajdos Bilboard Radlinskeho,12120377
-23,2022-07-19,-143.44,Platba kartou,FACEBK MVBMYE7P fb.me/ads,****4687
-24,2022-07-19,-100.0,Mgr.Art. Boris Nemeth,Fotografie marketing,
-25,2022-07-15,800.0,VAJCIK BOHUSLAV,Vajcik-vol.kampan-prispevok,
-26,2022-07-15,300.0,"Winkler Eduard, JUDr.",Dame to,
-27,2022-07-07,500.0,MAREK LICHTNER,MAREK A ZANETKA,
-28,2022-07-06,-84.0,Platba kartou,FACEBK YZ4Z3FKN fb.me/ads,****4687
-29,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-30,2022-06-30,-5.0,,Vedenie účtu,9
-31,2022-06-28,100.0,Michal Zerzan,Stare Mesto potrebuje zodpovedneho starostu,
-32,2022-06-23,50.0,Julius Fekiac,Julius Fekiac,
-33,2022-06-21,150.0,Dana Kondrótová,,
-34,2022-06-21,50.0,Vargová Zuzana,Drzim palce,
-35,2022-06-21,20.0,PRIPUTEN JURAJ,za lepsie stare mesto,
-36,2022-06-21,100.0,"Šovčík Sven, Mgr.",,
-37,2022-06-21,100.0,"Kršáková Dana, Mgr.",MG od DK,
-38,2022-06-20,200.0,"Mišík Peter, Ing.",Drzim palce,
-39,2022-06-20,100.0,Daniel Andráško,pre buduceho starostu.,
-40,2022-06-20,30.0,"Sládková Eva, Mgr.",,
-41,2022-06-20,500.0,"Bořuta Dávid, Ing., MSc.",Team pre Stare Mesto _ David Boruta,
-42,2022-06-20,100.0,Peter Marček,Pre noveho starostu od Maxa,
-43,2022-06-20,100.0,Vladimír Urmanič,Transparentny ucet,
-44,2022-06-20,100.0,Tomáš Šimko,,
+0,2022-09-30,6.0,,Odpustenie vedenie konta,9
+1,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+2,2022-09-30,1000.0,Simovcik Jozef,Pre Stare mesto,
+3,2022-09-29,1000.0,Zatko Andrej,,
+4,2022-09-29,300.0,"Denková Eva, JUDr.",viliam denko,291022
+5,2022-09-27,570.0,Bátovská Miroslava,Mirka Batovska kampan 2022 nalepka,
+6,2022-09-27,-2280.0,BigMedia spol. s r.o.,Elektricky reklama polep 20 kusov oktober 2022,
+7,2022-09-26,-3.0,"UNIMEDIA, s.r.o.",Tlac Bilboardov Oktober,
+8,2022-09-23,-89.2,Platba kartou,GOPAY *SHIRTTU https://sh,****4687
+9,2022-09-23,-63.44,Platba kartou,SHIRTINATOR.SK MUNCHEN,****4687
+10,2022-09-22,500.0,"Tatár Peter, MUDr.",,
+11,2022-09-22,-262.2,"UNIMEDIA, s.r.o.",Tlac Bilboardov Oktober,
+12,2022-09-19,-158.53,Platba kartou,FACEBK D692UHBP fb.me/ads,****4687
+13,2022-09-08,1750.0,"Thomas Róbert, Ing.",pre Stare Mesto,
+14,2022-09-08,1750.0,KAMAN OSKAR,Oskar Kaman,
+15,2022-09-06,1000.0,"Grožaj Róbert, Ing. arch.",Dame to,
+16,2022-09-05,950.0,Bátovská Miroslava,Mirka Batovska kampan 2022,
+17,2022-08-31,6.0,,Odpustenie vedenie konta,9
+18,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+19,2022-08-19,-323.88,Platba kartou,FACEBK JFUUHH3P fb.me/ads,****4687
+20,2022-08-08,100.0,Jozef Chutňák,,
+21,2022-08-02,-70.0,Platba kartou,FACEBK *U4RPLJX fb.me/ads,****4687
+22,2022-07-29,6.0,,Odpustenie vedenie konta,9
+23,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+24,2022-07-20,-516.0,Nubium,Martin Gajdos Bilboard Radlinskeho,12120377
+25,2022-07-19,-143.44,Platba kartou,FACEBK MVBMYE7P fb.me/ads,****4687
+26,2022-07-19,-100.0,Mgr.Art. Boris Nemeth,Fotografie marketing,
+27,2022-07-15,800.0,VAJCIK BOHUSLAV,Vajcik-vol.kampan-prispevok,
+28,2022-07-15,300.0,"Winkler Eduard, JUDr.",Dame to,
+29,2022-07-07,500.0,MAREK LICHTNER,MAREK A ZANETKA,
+30,2022-07-06,-84.0,Platba kartou,FACEBK YZ4Z3FKN fb.me/ads,****4687
+31,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+32,2022-06-30,-5.0,,Vedenie účtu,9
+33,2022-06-28,100.0,Michal Zerzan,Stare Mesto potrebuje zodpovedneho starostu,
+34,2022-06-23,50.0,Julius Fekiac,Julius Fekiac,
+35,2022-06-21,150.0,Dana Kondrótová,,
+36,2022-06-21,50.0,Vargová Zuzana,Drzim palce,
+37,2022-06-21,20.0,PRIPUTEN JURAJ,za lepsie stare mesto,
+38,2022-06-21,100.0,"Šovčík Sven, Mgr.",,
+39,2022-06-21,100.0,"Kršáková Dana, Mgr.",MG od DK,
+40,2022-06-20,200.0,"Mišík Peter, Ing.",Drzim palce,
+41,2022-06-20,100.0,Daniel Andráško,pre buduceho starostu.,
+42,2022-06-20,30.0,"Sládková Eva, Mgr.",,
+43,2022-06-20,500.0,"Bořuta Dávid, Ing., MSc.",Team pre Stare Mesto _ David Boruta,
+44,2022-06-20,100.0,Peter Marček,Pre noveho starostu od Maxa,
+45,2022-06-20,100.0,Vladimír Urmanič,Transparentny ucet,
+46,2022-06-20,100.0,Tomáš Šimko,,

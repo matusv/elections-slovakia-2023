@@ -1,12 +1,14 @@
 index,date,amount,account_name,message,vs
-0,2022-09-12,-900.0,Mistro sro,,22020108
-1,2022-09-12,900.0,Peter Kmeť,vklad prostriedkov za ucelom uhrady nakladov,9
-2,2022-08-31,6.0,,Odpustenie vedenie konta,9
-3,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
-5,2022-07-29,-0.44,,Poplatky za platby spolu,9
-6,2022-07-29,-5.0,,Vedenie účtu,9
-7,2022-07-28,-46.79,ECO Technologies sro,"domena, hosting",2207922877
-8,2022-07-28,100.0,Peter Kmeť,vklad prostriedkov za ucelom uhrady nakladov,9
-9,2022-07-22,-522.0,,,12120380
-10,2022-07-22,550.0,Peter Kmeť,vklad prostriedkov za ucelom uhrady nakladov,9
+0,2022-09-30,6.0,,Odpustenie vedenie konta,9
+1,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+2,2022-09-12,-900.0,Mistro sro,,22020108
+3,2022-09-12,900.0,Peter Kmeť,vklad prostriedkov za ucelom uhrady nakladov,9
+4,2022-08-31,6.0,,Odpustenie vedenie konta,9
+5,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+6,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
+7,2022-07-29,-0.44,,Poplatky za platby spolu,9
+8,2022-07-29,-5.0,,Vedenie účtu,9
+9,2022-07-28,-46.79,ECO Technologies sro,"domena, hosting",2207922877
+10,2022-07-28,100.0,Peter Kmeť,vklad prostriedkov za ucelom uhrady nakladov,9
+11,2022-07-22,-522.0,,,12120380
+12,2022-07-22,550.0,Peter Kmeť,vklad prostriedkov za ucelom uhrady nakladov,9

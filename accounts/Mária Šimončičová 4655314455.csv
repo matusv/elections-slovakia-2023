@@ -1,6 +1,9 @@
 index,date,amount,account_name,message,vs
-0,2022-09-26,-19.49,"VUB,A.S.","DDKAUFLAND~6720,~BRATISLAVA~~~~~P1",****7165
-1,2022-09-26,-382.5,GOPAY S.R.O.,,6658131722
-2,2022-09-23,-228.83,Platba kartou,Metro Dev.Nov.V Bratislava19:50,****7165
-3,2022-09-22,600.0,Kern Ladislav,"Ladislav Kern, Vrancovicova 89, Bratislava",
-4,2022-09-21,600.0,Mária Šimončičová,"Maria Simoncicova, Rajtakova 8, BA",
+0,2022-09-30,5.66,,Odpust.-popl.za platby a ved.úč/ko,9
+1,2022-09-30,-0.66,,Poplatky za platby spolu,9
+2,2022-09-30,-5.0,,Vedenie účtu,9
+3,2022-09-26,-19.49,"VUB,A.S.","DDKAUFLAND~6720,~BRATISLAVA~~~~~P1",****7165
+4,2022-09-26,-382.5,GOPAY S.R.O.,,6658131722
+5,2022-09-23,-228.83,Platba kartou,Metro Dev.Nov.V Bratislava19:50,****7165
+6,2022-09-22,600.0,Kern Ladislav,"Ladislav Kern, Vrancovicova 89, Bratislava",
+7,2022-09-21,600.0,Mária Šimončičová,"Maria Simoncicova, Rajtakova 8, BA",

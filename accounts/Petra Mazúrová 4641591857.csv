@@ -1,12 +1,13 @@
 index,date,amount,account_name,message,vs
-0,2022-09-26,-468.0,,"Tlac letakov, plagaty",10220733
-1,2022-09-23,360.0,MAZUROVA PETRA,predvolebna kampan,
-2,2022-09-23,-350.0,,DISTRIBÚCIA LETÁKOV,9
-3,2022-09-23,-8.0,,Popl. za hotovostný výber,9
-4,2022-09-23,800.0,MAZUROVA PETRA,,
-5,2022-09-19,-420.0,,Graficky navrh,2022022
-6,2022-09-19,500.0,MAZUROVA PETRA,predvolebna kampan,
-7,2022-09-08,-1075.0,,Prenajom a naklady na billbordy,2221209
-8,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-9,2022-08-31,-5.0,,Vedenie účtu,9
-10,2022-08-23,1100.0,MAZUROVA PETRA,,
+0,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+1,2022-09-26,-468.0,,"Tlac letakov, plagaty",10220733
+2,2022-09-23,360.0,MAZUROVA PETRA,predvolebna kampan,
+3,2022-09-23,-350.0,,DISTRIBÚCIA LETÁKOV,9
+4,2022-09-23,-8.0,,Popl. za hotovostný výber,9
+5,2022-09-23,800.0,MAZUROVA PETRA,,
+6,2022-09-19,-420.0,,Graficky navrh,2022022
+7,2022-09-19,500.0,MAZUROVA PETRA,predvolebna kampan,
+8,2022-09-08,-1075.0,,Prenajom a naklady na billbordy,2221209
+9,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+10,2022-08-31,-5.0,,Vedenie účtu,9
+11,2022-08-23,1100.0,MAZUROVA PETRA,,
