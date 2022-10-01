@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Exclusive,2022-09-24,-1000,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-1,Zacharides Branislav,2022-09-13,1200,EUR,F001130920226568077,Bezhotovostný vklad,,
+0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Exclusive,2022-09-24,-1000,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+2,Zacharides Branislav,2022-09-13,1200,EUR,F001130920226568077,Bezhotovostný vklad,,

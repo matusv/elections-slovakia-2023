@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Cimbal Dusan,2022-09-30,250,EUR,DUSAN CIMBAL,Bezhotovostný vklad,,
-1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Cimbal Dusan,2022-09-30,250,EUR,DUSAN CIMBAL,Bezhotovostný vklad,,
+2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,

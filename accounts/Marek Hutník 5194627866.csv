@@ -1,3 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Ivan Hudaček,2022-09-08,-100,EUR,,Okamžitá platba (EB),,
-1,Hutník Marek,2022-09-08,500,EUR,Marek Hutnik,Bezhotovostný vklad - okamžitá platba,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-30,-4.6,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,"BMN, s.r.o.",2022-09-30,-144.0,EUR,prenajom billboardovej plochy a tlac,Okamžitá platba (EB),2209003,
+3,Ivan Hudaček,2022-09-08,-100.0,EUR,,Okamžitá platba (EB),,
+4,Hutník Marek,2022-09-08,500.0,EUR,Marek Hutnik,Bezhotovostný vklad - okamžitá platba,,

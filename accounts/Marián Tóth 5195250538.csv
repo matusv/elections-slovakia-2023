@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"ISPA, spol. s r.o.",2022-09-28,-194.4,EUR,"Ing. Marián Tóth, MBA, 10/2022",Okamžitá platba (EB),22950434,
-1,"NUBIUM, s.r.o.",2022-09-28,-202.8,EUR,Ing. Marián Tóth - NUBIUM 10/2022,Okamžitá platba (EB),12120622,
-2,Tóth Marián,2022-09-28,1000.0,EUR,Ing. Marián Tóth,Bezhotovostný vklad,,
-3,Tóth Marián,2022-09-28,2000.0,EUR,Ing. Marián Tóth,Bezhotovostný vklad,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,"ISPA, spol. s r.o.",2022-09-28,-194.4,EUR,"Ing. Marián Tóth, MBA, 10/2022",Okamžitá platba (EB),22950434,
+2,"NUBIUM, s.r.o.",2022-09-28,-202.8,EUR,Ing. Marián Tóth - NUBIUM 10/2022,Okamžitá platba (EB),12120622,
+3,Tóth Marián,2022-09-28,1000.0,EUR,Ing. Marián Tóth,Bezhotovostný vklad,,
+4,Tóth Marián,2022-09-28,2000.0,EUR,Ing. Marián Tóth,Bezhotovostný vklad,,

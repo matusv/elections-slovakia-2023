@@ -1,4 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Arton s.r.o.,2022-09-28,-14.4,EUR,0220928082019.108677,Okamžitá platba (EB),220677,
-1,Arton s.r.o.,2022-09-28,-102.0,EUR,0220928081643.158691,Okamžitá platba (EB),220676,
-2,Džurina Pavol,2022-09-26,750.0,EUR,prevod zo sporenia na OÚ,Bezhotovostný vklad,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-30,-0.5,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,Arton s.r.o.,2022-09-28,-14.4,EUR,0220928082019.108677,Okamžitá platba (EB),220677,
+3,Arton s.r.o.,2022-09-28,-102.0,EUR,0220928081643.158691,Okamžitá platba (EB),220676,
+4,Džurina Pavol,2022-09-26,750.0,EUR,prevod zo sporenia na OÚ,Bezhotovostný vklad,,

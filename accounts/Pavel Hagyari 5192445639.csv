@@ -1,12 +1,13 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-23,-225.0,EUR,"B1374240659-44544 12** **** 5471;PAYPAL *FACEBOOK FACEB ,35314369001 ,IE ;22.09.2022 04:46:05 ;CashBack:0 EUR",Platba kartou,,
-1,"EUROPE media services, spol. s.r.o.",2022-09-21,-25000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-2,"ARDSYSTÉM, s.r.o.",2022-09-21,3916.76,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
-3,"ARDSYSTÉM, s.r.o.",2022-09-21,9000.0,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
-4,,2022-09-21,-152.75,EUR,"B1372106260-44544 12** **** 5471;FACEBK RPVNHE7P72 ,fb.me/ads ,IE ;19.09.2022 14:44:54 ;CashBack:0 EUR",Platba kartou,,
-5,,2022-09-16,-10.0,EUR,"B3345243977-214544 12** **** 5471;OM OC Novum II. Prešov ,Prešov ,SK ;16.09.2022 16:40:11 ",Výber kartou,,
-6,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-7,,2022-08-31,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-8,SME RODINA_Boris Kollár_členské,2022-08-27,30000.0,EUR,F001270820225814672,Bezhotovostný vklad,26082022,
-9,ARDSSYSTEM s.r.o.,2022-08-15,-3916.76,EUR,0220815102511.201742,Okamžitá platba (EB),,
-10,Bačo Jakub,2022-08-12,5000.0,EUR,F001120820223966563,Bezhotovostný vklad,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-23,-225.0,EUR,"B1374240659-44544 12** **** 5471;PAYPAL *FACEBOOK FACEB ,35314369001 ,IE ;22.09.2022 04:46:05 ;CashBack:0 EUR",Platba kartou,,
+2,"EUROPE media services, spol. s.r.o.",2022-09-21,-25000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+3,"ARDSYSTÉM, s.r.o.",2022-09-21,3916.76,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
+4,"ARDSYSTÉM, s.r.o.",2022-09-21,9000.0,EUR,Odstupenie od zmluvy,Bezhotovostný vklad,20422032,0
+5,,2022-09-21,-152.75,EUR,"B1372106260-44544 12** **** 5471;FACEBK RPVNHE7P72 ,fb.me/ads ,IE ;19.09.2022 14:44:54 ;CashBack:0 EUR",Platba kartou,,
+6,,2022-09-16,-10.0,EUR,"B3345243977-214544 12** **** 5471;OM OC Novum II. Prešov ,Prešov ,SK ;16.09.2022 16:40:11 ",Výber kartou,,
+7,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+8,,2022-08-31,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+9,SME RODINA_Boris Kollár_členské,2022-08-27,30000.0,EUR,F001270820225814672,Bezhotovostný vklad,26082022,
+10,ARDSSYSTEM s.r.o.,2022-08-15,-3916.76,EUR,0220815102511.201742,Okamžitá platba (EB),,
+11,Bačo Jakub,2022-08-12,5000.0,EUR,F001120820223966563,Bezhotovostný vklad,,

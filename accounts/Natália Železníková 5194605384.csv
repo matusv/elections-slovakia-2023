@@ -1,2 +1,3 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,ZELEZNIKOVA NATALIA,2022-09-20,1000,EUR,23525005,Bezhotovostný vklad,,
+0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,ZELEZNIKOVA NATALIA,2022-09-20,1000,EUR,23525005,Bezhotovostný vklad,,
