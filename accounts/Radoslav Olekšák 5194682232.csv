@@ -1,4 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,bigmedia,2022-09-17,-432.9,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-1,ARTON,2022-09-16,-43.2,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220582,
-2,ARTON,2022-09-16,-216.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220581,
+0,,2022-09-30,-4.4,EUR,Poplatok za vedenie účtu,Poplatok,,
+1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,bigmedia,2022-09-17,-432.9,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+3,ARTON,2022-09-16,-43.2,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220582,
+4,ARTON,2022-09-16,-216.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220581,

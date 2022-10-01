@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Cech Jozef,2022-09-22,2000,EUR,F001220920225692529,Bezhotovostný vklad,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-30,-0.29,EUR,"Vedenie Platobnej karty embosovanej,2314,5,Karta č. 4544 12** **** 5942Poplatok za Platobnú kartu",Kartový poplatok,,
+2,Cech Jozef,2022-09-22,2000.0,EUR,F001220920225692529,Bezhotovostný vklad,,

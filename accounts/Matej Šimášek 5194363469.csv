@@ -1,8 +1,10 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"EUNICA MEDIA, S.R.O.",2022-09-20,324.0,EUR,23527657,Bezhotovostný vklad,252209,
-1,Eunica,2022-09-13,-2268.0,EUR,Matej Šimášek; ; 13.09.2022,Platobný príkaz na úhradu / FIT 2.0 (EB),20221246,
-2,"DEFUNDER, S.R.O.",2022-09-08,2000.0,EUR,23425880,Bezhotovostný vklad,,
-3,Confal a.s.,2022-09-06,3000.0,EUR,F001060920221004111,Bezhotovostný vklad,36032930,0
-4,Šimášek Matej,2022-09-02,300.0,EUR,F001020920228809227,Bezhotovostný vklad,,
-5,,2022-08-31,-0.39,EUR,Poplatok za vedenie účtu,Poplatok,,
-6,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-30,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,"EUNICA MEDIA, S.R.O.",2022-09-20,324.0,EUR,23527657,Bezhotovostný vklad,252209,
+3,Eunica,2022-09-13,-2268.0,EUR,Matej Šimášek; ; 13.09.2022,Platobný príkaz na úhradu / FIT 2.0 (EB),20221246,
+4,"DEFUNDER, S.R.O.",2022-09-08,2000.0,EUR,23425880,Bezhotovostný vklad,,
+5,Confal a.s.,2022-09-06,3000.0,EUR,F001060920221004111,Bezhotovostný vklad,36032930,0
+6,Šimášek Matej,2022-09-02,300.0,EUR,F001020920228809227,Bezhotovostný vklad,,
+7,,2022-08-31,-0.39,EUR,Poplatok za vedenie účtu,Poplatok,,
+8,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

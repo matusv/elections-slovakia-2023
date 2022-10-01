@@ -1,3 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Region Press,2022-09-28,-1025.1,EUR,0220928093547.860710,Okamžitá platba (EB),094220007,
-1,BERANOVA KATARINA,2022-09-14,4500.0,EUR,Transparentny ucet,Bezhotovostný vklad,,
+0,,2022-09-30,-1.8,EUR,Poplatok za vedenie účtu,Poplatok,,
+1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,Region Press,2022-09-28,-1025.1,EUR,0220928093547.860710,Okamžitá platba (EB),094220007,
+3,BERANOVA KATARINA,2022-09-14,4500.0,EUR,Transparentny ucet,Bezhotovostný vklad,,

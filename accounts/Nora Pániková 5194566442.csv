@@ -1,4 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-29,-175.0,EUR,"B1377421039-44544 12** **** 5667;SLOVENSKA POSTA A S ,STARA TURA ,SK ;27.09.2022 12:16:35 ;CashBack:0 EUR",Platba kartou,,
-1,"T-štúdio, s.r.o.",2022-09-28,-228.6,EUR,0220928081138.576650,Okamžitá platba (EB),20220705,
-2,Nora Pániková,2022-09-12,500.0,EUR,2225550000046171,Bezhotovostný vklad - okamžitá platba,,
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-30,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,,2022-09-29,-175.0,EUR,"B1377421039-44544 12** **** 5667;SLOVENSKA POSTA A S ,STARA TURA ,SK ;27.09.2022 12:16:35 ;CashBack:0 EUR",Platba kartou,,
+3,"T-štúdio, s.r.o.",2022-09-28,-228.6,EUR,0220928081138.576650,Okamžitá platba (EB),20220705,
+4,Nora Pániková,2022-09-12,500.0,EUR,2225550000046171,Bezhotovostný vklad - okamžitá platba,,
