@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Vrchota Marcel,2022-09-16,2000,EUR,Kampaň,Bezhotovostný vklad,,
+0,,2022-10-02,-9,EUR,"B1379939816-44544 12** **** 9840;FACEBK TS5F2GXBC2 ,fb.me/ads ,IE ;01.10.2022 05:58:44 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Vrchota Marcel,2022-09-16,2000,EUR,Kampaň,Bezhotovostný vklad,,
