@@ -327,27 +327,33 @@ index,name,url,label
 325,Radoslav Števčík ,https://ib.fio.sk/ib/transparent?a=2901464231,BA
 326,Zuzana Rattajová ,https://www.transparentneucty.sk/#/ucet/SK6309000000005194391064,BA
 327,Rastislav Blaško,https://ib.fio.sk/ib/transparent?a=4112017091,BA
-328,Ján Rigler,https://www.transparentneucty.sk/#/ucet/SK8409000000005195230609,BA
-329,Miroslav Turenič,https://www.transparentneucty.sk/#/ucet/SK7209000000005186454459,BA
-330,Zoltán Horváth,https://www.transparentneucty.sk/#/ucet/SK8609000000005195037446,TT
-331,Tomáš Hudcovič,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2602000000004658884453,TT
-332,Marián Chovanec,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004659258358,TN
-333,Viktor Wiedermann,https://www.transparentneucty.sk/#/ucet/SK7709000000005195214051,TN
-334,Peter Bodoki,https://www.transparentneucty.sk/#/ucet/SK8509000000005194733175,NR
-335,Mário Jamrich,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000004659569551,NR
-336,Oľga Juhász,https://www.transparentneucty.sk/#/ucet/SK3509000000005194984820,NR
-337,Marián Tóth,https://www.transparentneucty.sk/#/ucet/SK6009000000005195250538,NR
-338,Štefan Kompánek ,https://ib.fio.sk/ib/transparent?a=2901521726,ZA
-339,Ivan Šaško,https://www.transparentneucty.sk/#/ucet/SK7609000000005195074001,ZA
-340,Branislav Šušolík,https://www.transparentneucty.sk/#/ucet/SK1709000000005195221921,ZA
-341,Branislav Zacharides,https://www.transparentneucty.sk/#/ucet/SK5709000000005194275354,ZA
-342,Vladislav Lalka,https://www.transparentneucty.sk/#/ucet/SK0309000000005193890654,BB
-343,Štefan Kostilník,https://www.transparentneucty.sk/#/ucet/SK9309000000005194394695,PO
-344,Ľubomír Murín,https://www.transparentneucty.sk/#/ucet/SK1309000000005194175169,PO
-345,Ján Ragan,https://www.transparentneucty.sk/#/ucet/SK5109000000005195108304,PO
-346,Pavol Džurina,https://www.transparentneucty.sk/#/ucet/SK8209000000005195175355,KE
-347,Róbert Filko,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004659990151,KE
-348,Alena Hiráková,https://ib.fio.sk/ib/transparent?a=2502325605,KE
-349,Pavol Priester,https://ib.fio.sk/ib/transparent?a=2402298208 ,KE
-350,Ján Sklár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559,KE
-351,Miroslava Szitová,https://www.transparentneucty.sk/#/ucet/SK5009000000005194655429,KE
+328,Tomáš Káčer,https://www.transparentneucty.sk/#/ucet/SK8609000000005195288288,BA
+329,Božena Mizerová,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000004663082957,BA
+330,Ján Rigler,https://www.transparentneucty.sk/#/ucet/SK8409000000005195230609,BA
+331,Miroslav Turenič,https://www.transparentneucty.sk/#/ucet/SK7209000000005186454459,BA
+332,Zoltán Horváth,https://www.transparentneucty.sk/#/ucet/SK8609000000005195037446,TT
+333,Tomáš Hudcovič,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2602000000004658884453,TT
+334,Marián Chovanec,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004659258358,TN
+335,Dominika Vážna,https://www.transparentneucty.sk/#/ucet/SK5509000000005194661159,TN
+336,Viktor Wiedermann,https://www.transparentneucty.sk/#/ucet/SK7709000000005195214051,TN
+337,Peter Bodoki,https://www.transparentneucty.sk/#/ucet/SK8509000000005194733175,NR
+338,Mário Jamrich,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000004659569551,NR
+339,Oľga Juhász,https://www.transparentneucty.sk/#/ucet/SK3509000000005194984820,NR
+340,Ctibor Melich,https://www.transparentneucty.sk/#/ucet/SK6409000000005194581263,NR
+341,Marián Tóth,https://www.transparentneucty.sk/#/ucet/SK6009000000005195250538,NR
+342,Štefan Kompánek ,https://ib.fio.sk/ib/transparent?a=2901521726,ZA
+343,Ivan Šaško,https://www.transparentneucty.sk/#/ucet/SK7609000000005195074001,ZA
+344,Branislav Šušolík,https://www.transparentneucty.sk/#/ucet/SK1709000000005195221921,ZA
+345,Branislav Zacharides,https://www.transparentneucty.sk/#/ucet/SK5709000000005194275354,ZA
+346,Vladislav Lalka,https://www.transparentneucty.sk/#/ucet/SK0309000000005193890654,BB
+347,Viliam Kall,https://ib.fio.sk/ib/transparent?a=2202302145,PO
+348,Štefan Kostilník,https://www.transparentneucty.sk/#/ucet/SK9309000000005194394695,PO
+349,Ľubomír Murín,https://www.transparentneucty.sk/#/ucet/SK1309000000005194175169,PO
+350,Ján Ragan,https://www.transparentneucty.sk/#/ucet/SK5109000000005195108304,PO
+351,Pavol Džurina,https://www.transparentneucty.sk/#/ucet/SK8209000000005195175355,KE
+352,Róbert Filko,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004659990151,KE
+353,Alena Hiráková,https://ib.fio.sk/ib/transparent?a=2502325605,KE
+354,Pavol Priester,https://ib.fio.sk/ib/transparent?a=2402298208 ,KE
+355,Michal Rečka,https://www.transparentneucty.sk/#/ucet/SK9709000000005195399543,KE
+356,Ján Sklár,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559,KE
+357,Miroslava Szitová,https://www.transparentneucty.sk/#/ucet/SK5009000000005194655429,KE

@@ -1,20 +1,21 @@
 index,date,amount,account_name,message,vs
-0,2022-10-02,-40.0,Platba kartou,Platba kartou u obchodníka,****942
+0,2022-10-03,-40.0,Platba kartou,Platba kartou u obchodníka,****942
 1,2022-10-02,-40.0,Platba kartou,Platba kartou u obchodníka,****942
-2,2022-09-30,-5.49,Platba kartou,Platba kartou u obchodníka,****942
-3,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-09-30,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
-5,2022-09-30,-237.6,LA TEAM,Predaj tovaru na FA,20220306
-6,2022-09-29,-40.0,Platba kartou,FACEBK QVX7PKTB fb.me/ads,****942
-7,2022-09-29,850.0,Oratorová Martina,Podpora kampane,
-8,2022-09-29,300.0,Frantisek Pavlulik,,
-9,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
-10,2022-09-22,-603.6,Element design s.r.o,,20220130
-11,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
-12,2022-09-13,-40.64,Websupport,,1022258311
-13,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
-14,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
-15,2022-09-05,-150.0,,,
-16,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-17,2022-08-31,-5.0,,Vedenie účtu,9
-18,2022-08-31,500.0,Tomáš VASOK,,
+2,2022-10-02,-40.0,Platba kartou,Platba kartou u obchodníka,****942
+3,2022-09-30,-5.49,Platba kartou,Platba kartou u obchodníka,****942
+4,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-09-30,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
+6,2022-09-30,-237.6,LA TEAM,Predaj tovaru na FA,20220306
+7,2022-09-29,-40.0,Platba kartou,FACEBK QVX7PKTB fb.me/ads,****942
+8,2022-09-29,850.0,Oratorová Martina,Podpora kampane,
+9,2022-09-29,300.0,Frantisek Pavlulik,,
+10,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
+11,2022-09-22,-603.6,Element design s.r.o,,20220130
+12,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
+13,2022-09-13,-40.64,Websupport,,1022258311
+14,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
+15,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
+16,2022-09-05,-150.0,,,
+17,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+18,2022-08-31,-5.0,,Vedenie účtu,9
+19,2022-08-31,500.0,Tomáš VASOK,,
