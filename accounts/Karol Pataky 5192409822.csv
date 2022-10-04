@@ -1,0 +1,10 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,BEPOP s.r.o.,2022-09-30,-1032.0,EUR,reklamne pera s potlacou,Platobný príkaz na úhradu / FIT 2.0 (EB),220161,
+2,Pataky Karol,2022-09-29,700.0,EUR,,Bezhotovostný vklad,,
+3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,MESTO KRALOVSKY CHLM,2022-07-21,-33.5,EUR,prenajom plošiny,Platobný príkaz na úhradu / FIT 2.0 (EB),9119200022,
+6,Pataky Karol,2022-07-21,500.0,EUR,F001210720220660736,Bezhotovostný vklad,,
+7,,2022-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+8,Pataky Karol,2022-06-30,100.0,EUR,F001300620222849105,Bezhotovostný vklad,,

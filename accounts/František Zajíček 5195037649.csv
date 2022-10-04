@@ -1,0 +1,10 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-10-04,-6,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),Poplatok,220322,
+1,NOTPROVIDED,2022-10-04,-462,EUR,plagáty do citylight boxov,Platobný príkaz na úhradu / FIT 2.0 (OM),220322,
+2,Zajíček František,2022-10-04,1000,EUR,OO22100400018639,Bezhotovostný vklad - okamžitá platba,,
+3,,2022-10-04,-6,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),Poplatok,1222301100,
+4,NOTPROVIDED,2022-10-04,-600,EUR,reklama- Citylight,Platobný príkaz na úhradu / FIT 2.0 (OM),1222301100,
+5,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+6,,2022-09-30,-2,EUR,Poplatok za vedenie účtu,Poplatok,,
+7,Zajíček František,2022-09-30,1000,EUR,OO22093000032584,Bezhotovostný vklad - okamžitá platba,,
+8,Zajíček František,2022-09-21,100,EUR,vklad,Bezhotovostný vklad - okamžitá platba,,
