@@ -1,10 +1,11 @@
 index,date,amount,account_name,message,vs
-0,2022-10-03,-558.0,"NUBIUM, s.r.o.",FA c. 12120628,12120628
-1,2022-09-30,5.66,,Odpust.-popl.za platby a ved.úč/ko,9
-2,2022-09-30,-0.66,,Poplatky za platby spolu,9
-3,2022-09-30,-5.0,,Vedenie účtu,9
-4,2022-09-26,-19.49,"VUB,A.S.","DDKAUFLAND~6720,~BRATISLAVA~~~~~P1",****7165
-5,2022-09-26,-382.5,GOPAY S.R.O.,,6658131722
-6,2022-09-23,-228.83,Platba kartou,Metro Dev.Nov.V Bratislava19:50,****7165
-7,2022-09-22,600.0,Kern Ladislav,"Ladislav Kern, Vrancovicova 89, Bratislava",
-8,2022-09-21,600.0,Mária Šimončičová,"Maria Simoncicova, Rajtakova 8, BA",
+0,2022-10-03,150.0,,"Maria Simoncicova, Bratislava, Raj",
+1,2022-10-03,-558.0,"NUBIUM, s.r.o.",FA c. 12120628,12120628
+2,2022-09-30,5.66,,Odpust.-popl.za platby a ved.úč/ko,9
+3,2022-09-30,-0.66,,Poplatky za platby spolu,9
+4,2022-09-30,-5.0,,Vedenie účtu,9
+5,2022-09-26,-19.49,"VUB,A.S.","DDKAUFLAND~6720,~BRATISLAVA~~~~~P1",****7165
+6,2022-09-26,-382.5,GOPAY S.R.O.,,6658131722
+7,2022-09-23,-228.83,Platba kartou,Metro Dev.Nov.V Bratislava19:50,****7165
+8,2022-09-22,600.0,Kern Ladislav,"Ladislav Kern, Vrancovicova 89, Bratislava",
+9,2022-09-21,600.0,Mária Šimončičová,"Maria Simoncicova, Rajtakova 8, BA",

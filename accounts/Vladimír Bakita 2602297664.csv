@@ -1,5 +1,6 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-20,-40.0,Bezhotovostná platba,,"Bakita - uverejnenie reklamneho cla
+0,2022-10-04,200.0,Bezhotovostný príjem,Vladimír Bakita,"/DO2022-10-03/SP, Bakita Vladimir",,,,Vladimír Bakita
+1,2022-09-20,-40.0,Bezhotovostná platba,,"Bakita - uverejnenie reklamneho cla
 nku  na FB PD, a PT",,,,"Bakita - uverejnenie reklamného článku  na FB PD, a PT"
-1,2022-09-12,200.0,Bezhotovostný príjem,Vladimír Bakita,"/DO2022-09-12/SP, Bakita Vladimir",,,,Vladimír Bakita
-2,2022-08-31,20.0,Bezhotovostný príjem,Vladimír Bakita,"/DO2022-08-30/SP, Bakita Vladimir",,,,Vladimír Bakita
+2,2022-09-12,200.0,Bezhotovostný príjem,Vladimír Bakita,"/DO2022-09-12/SP, Bakita Vladimir",,,,Vladimír Bakita
+3,2022-08-31,20.0,Bezhotovostný príjem,Vladimír Bakita,"/DO2022-08-30/SP, Bakita Vladimir",,,,Vladimír Bakita

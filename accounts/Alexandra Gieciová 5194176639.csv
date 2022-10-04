@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Andrej Sitar,2022-09-27,50,EUR,Sitar,Bezhotovostný vklad - okamžitá platba,,
-2,BOHAT MICHAL,2022-09-16,50,EUR,Michal Bohat,Bezhotovostný vklad,,
-3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-4,Gieciová Alexandra JUDr.,2022-08-24,500,EUR,F001240820224241173,Bezhotovostný vklad,,
+0,BORIS HRDY,2022-10-04,1500,EUR,PODPORA,Bezhotovostný vklad,,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Andrej Sitar,2022-09-27,50,EUR,Sitar,Bezhotovostný vklad - okamžitá platba,,
+3,BOHAT MICHAL,2022-09-16,50,EUR,Michal Bohat,Bezhotovostný vklad,,
+4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+5,Gieciová Alexandra JUDr.,2022-08-24,500,EUR,F001240820224241173,Bezhotovostný vklad,,

@@ -1,21 +1,22 @@
 index,date,amount,account_name,message,vs
-0,2022-10-03,-400.99,MIRA photo&design,FAKTURA 952022,952022
-1,2022-09-30,6.0,,Odpustenie vedenie konta,9
-2,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-3,2022-09-26,-510.0,"Proficreas, s. r. o.",FAKTURA 2022041,2022041
-4,2022-09-21,-595.5,MsKS spol. s r.o.,FAKTURA 21270095,21270095
-5,2022-09-21,1000.0,KSINAN JAN,Prevod na Transparentny ucet,
-6,2022-09-02,-1.2,,Mesačný popl. Vydanie/obnova karty,9419
-7,2022-08-31,6.0,,Odpustenie vedenie konta,9
-8,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-08-08,-210.0,MsKS spol. s r.o.,FAKTURA 21230082,21230082
-10,2022-08-01,-1.2,,Mesačný popl. Vydanie/obnova karty,9419
-11,2022-07-29,6.1,,Odpust.-popl.za platby a ved.úč/ko,9
-12,2022-07-29,-1.1,,Poplatky za platby spolu,9
-13,2022-07-29,-5.0,,Vedenie účtu,9
-14,2022-07-25,-504.0,"BigMedia, spol. s r.o.",/DO2022-07-25/SP FAKTURA 12229/0200,122290200
-15,2022-07-20,-194.4,"ISPA, spol. s r.o.",FAKTURA 22950021,202200186
-16,2022-07-20,-644.4,"NUBIUM, s.r.o.",FAKTURA 12120349,12120349
-17,2022-07-20,-240.0,ARTON s.r.o.,FAKTURA 220306,220306
-18,2022-07-18,-670.0,,/DO2022-07-18/SP FAKTURA 20220003,20220003
-19,2022-07-18,3000.0,KSINAN JAN,Prevod na Transparentny ucet,
+0,2022-10-03,-1.2,,Mesačný popl. Vydanie/obnova karty,9419
+1,2022-10-03,-400.99,MIRA photo&design,FAKTURA 952022,952022
+2,2022-09-30,6.0,,Odpustenie vedenie konta,9
+3,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+4,2022-09-26,-510.0,"Proficreas, s. r. o.",FAKTURA 2022041,2022041
+5,2022-09-21,-595.5,MsKS spol. s r.o.,FAKTURA 21270095,21270095
+6,2022-09-21,1000.0,KSINAN JAN,Prevod na Transparentny ucet,
+7,2022-09-02,-1.2,,Mesačný popl. Vydanie/obnova karty,9419
+8,2022-08-31,6.0,,Odpustenie vedenie konta,9
+9,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+10,2022-08-08,-210.0,MsKS spol. s r.o.,FAKTURA 21230082,21230082
+11,2022-08-01,-1.2,,Mesačný popl. Vydanie/obnova karty,9419
+12,2022-07-29,6.1,,Odpust.-popl.za platby a ved.úč/ko,9
+13,2022-07-29,-1.1,,Poplatky za platby spolu,9
+14,2022-07-29,-5.0,,Vedenie účtu,9
+15,2022-07-25,-504.0,"BigMedia, spol. s r.o.",/DO2022-07-25/SP FAKTURA 12229/0200,122290200
+16,2022-07-20,-194.4,"ISPA, spol. s r.o.",FAKTURA 22950021,202200186
+17,2022-07-20,-644.4,"NUBIUM, s.r.o.",FAKTURA 12120349,12120349
+18,2022-07-20,-240.0,ARTON s.r.o.,FAKTURA 220306,220306
+19,2022-07-18,-670.0,,/DO2022-07-18/SP FAKTURA 20220003,20220003
+20,2022-07-18,3000.0,KSINAN JAN,Prevod na Transparentny ucet,
