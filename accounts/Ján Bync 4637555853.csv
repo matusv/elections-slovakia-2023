@@ -1,6 +1,6 @@
 index,date,amount,account_name,message,vs
 0,2022-10-04,-500.0,Platba kartou,Platba kartou u obchodníka,****6232
-1,2022-10-03,-7334.77,,REKLAMA,2201140
+1,2022-10-03,-7334.77,TAMPEX,/DO2022-10-03/SP REKLAMA,2201140
 2,2022-10-03,-350.0,Platba kartou,FACEBK 8YKF3J3X fb.me/ads,****6232
 3,2022-10-03,-100.0,Platba kartou,FACEBK Q3CAKH3E fb.me/ads,****6232
 4,2022-09-30,-116.0,,Poplatky za platby nad rámec konta,9
