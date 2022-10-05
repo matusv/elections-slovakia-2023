@@ -1,89 +1,90 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-04,1000.0,Bezhotovostný príjem,Gorek Peter,/DO2022-10-03/SP,,,,Gorek Peter
-1,2022-10-03,800.0,Bezhotovostný príjem,Majcinik Artur,/DO2022-09-30/SP,,,,Majcinik Artur
-2,2022-09-30,2000.0,Bezhotovostný príjem,Jozef Blažek,/DO2022-09-29/SPŽeláme veľa úspechov v ďalšej práci TSK,0298,290922,540503,Jozef Blažek
-3,2022-09-29,3000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-09-29/SPprispevok na kampan,,,,"Baška Jaroslav, Ing."
-4,2022-09-29,2000.0,Bezhotovostný príjem,Karol Kubiš,"/DO2022-09-28/SPKarol Kubiš, Domaniža 9",,,,Karol Kubiš
-5,2022-09-28,500.0,Bezhotovostný príjem,Eva Miklošová,/DO2022-09-27/SP Drzim Vam palce,,,,Eva Miklošová
-6,2022-09-28,2000.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-09-27/SPPrispevok na kampan.,,,,HAJSO JURAJ
-7,2022-09-27,-517.9,Bezhotovostná platba,,"platba za reklamu na facebooku a in
+0,2022-10-05,2000.0,Bezhotovostný príjem,STEFANIK JOZEF,/DO2022-10-04/SPPrispevok na kampan,,,,STEFANIK JOZEF
+1,2022-10-04,1000.0,Bezhotovostný príjem,Gorek Peter,/DO2022-10-03/SP,,,,Gorek Peter
+2,2022-10-03,800.0,Bezhotovostný príjem,Majcinik Artur,/DO2022-09-30/SP,,,,Majcinik Artur
+3,2022-09-30,2000.0,Bezhotovostný príjem,Jozef Blažek,/DO2022-09-29/SPŽeláme veľa úspechov v ďalšej práci TSK,0298,290922,540503,Jozef Blažek
+4,2022-09-29,3000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-09-29/SPprispevok na kampan,,,,"Baška Jaroslav, Ing."
+5,2022-09-29,2000.0,Bezhotovostný príjem,Karol Kubiš,"/DO2022-09-28/SPKarol Kubiš, Domaniža 9",,,,Karol Kubiš
+6,2022-09-28,500.0,Bezhotovostný príjem,Eva Miklošová,/DO2022-09-27/SP Drzim Vam palce,,,,Eva Miklošová
+7,2022-09-28,2000.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-09-27/SPPrispevok na kampan.,,,,HAJSO JURAJ
+8,2022-09-27,-517.9,Bezhotovostná platba,,"platba za reklamu na facebooku a in
 stagrame august 2022 - kampan volby
  do samospravnych krajov 2022",0308,222023,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-8,2022-09-27,-888.0,Bezhotovostná platba,,"platba za tricka s potlacou - voleb
+9,2022-09-27,-888.0,Bezhotovostná platba,,"platba za tricka s potlacou - voleb
 na kampan - volby do samospravnychk
 rajov 2022",0308,222017,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-9,2022-09-27,-478.74,Bezhotovostná platba,,"platba za tlacoviny - pohladnice vr
+10,2022-09-27,-478.74,Bezhotovostná platba,,"platba za tlacoviny - pohladnice vr
 amci volebnej kampane - volby do sa
 mospravnych krajov 2022",0308,222020,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-10,2022-09-26,-4800.0,Bezhotovostná platba,,"cyklodresy s potlacou - volebna kam
+11,2022-09-26,-4800.0,Bezhotovostná platba,,"cyklodresy s potlacou - volebna kam
 pan -  volby do samospravnych krajo
 v 2022",0308,222013,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-11,2022-09-26,-3874.16,Bezhotovostná platba,,"Bavlnena taska s uskami s potlacou-
+12,2022-09-26,-3874.16,Bezhotovostná platba,,"Bavlnena taska s uskami s potlacou-
  volebna kampan do samospravnych kr
 ajov 2022",0308,222015,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-12,2022-09-21,-300.0,Bezhotovostná platba,,"vystupenie DH MOSTENANKA pocas vol.
+13,2022-09-21,-300.0,Bezhotovostná platba,,"vystupenie DH MOSTENANKA pocas vol.
  kampane Tour de Baska 2022 dna 2.9
 .2022 v Puchove",0308,202204,,"Dychova hudba MOSTENANKA, Dolny Mostenec 29"
-13,2022-09-21,-300.0,Bezhotovostná platba,,"vystupenie DH MOSTENANKA pocas vol.
+14,2022-09-21,-300.0,Bezhotovostná platba,,"vystupenie DH MOSTENANKA pocas vol.
  kampane Tour de Baska 2022 dna 29.
 8.2022 v Povazskej Bystrici",0308,202203,,"Dychova hudba MOSTENANKA, Dolny Mostenec 29"
-14,2022-09-20,-138.6,Bezhotovostná platba,,"prenajom stoliciek, stankov, satniv
+15,2022-09-20,-138.6,Bezhotovostná platba,,"prenajom stoliciek, stankov, satniv
  priestoroch kina Mier pocas kampan
 e Tour de Baska dna 29.8.22 v PB",0308,2022041,,PX CENTRUM POVAZSKA BYSTRICA
-15,2022-09-20,-180.0,Bezhotovostná platba,,"zapozicanie exterieroveho podia poc
+16,2022-09-20,-180.0,Bezhotovostná platba,,"zapozicanie exterieroveho podia poc
 as vol. kampan TOUR DE BASKA dna 2.
 9.2022 - koncert hud.skupiny",0308,2270367,,"Podnik technickych sluzieb mesta , s.r.o., Puchov"
-16,2022-09-20,2000.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-09-19/SPPríspevok na kampaň,,,,Marek Briestenský
-17,2022-09-16,2000.0,Platba prevodom v rámci banky,"Ing. Panáček, Milan",,,2022,,"Ing. Panáček, Milan"
-18,2022-09-14,-300.0,Bezhotovostná platba,,"vystupenie hudobneho zoskupenia poc
+17,2022-09-20,2000.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-09-19/SPPríspevok na kampaň,,,,Marek Briestenský
+18,2022-09-16,2000.0,Platba prevodom v rámci banky,"Ing. Panáček, Milan",,,2022,,"Ing. Panáček, Milan"
+19,2022-09-14,-300.0,Bezhotovostná platba,,"vystupenie hudobneho zoskupenia poc
 as vol. kampane Tour de Baska 2022d
 na 2.9.2022 v Puchove",0308,6112022,,"Heligonica o.z., Košťany nad Turcom 349"
-19,2022-09-14,-300.0,Bezhotovostná platba,,"vystupenie hudobnej skupiny na podu
+20,2022-09-14,-300.0,Bezhotovostná platba,,"vystupenie hudobnej skupiny na podu
 jati  v ramci Tour de Baska 2022 dn
 a 29.8.2022 v Povazskej Bystrici",0308,222015,,"OZ Moštenskí Pajtáši, Horný Moštenec 79"
-20,2022-09-14,-34.5,Bezhotovostná platba,,"dan za uzivanie verej. priestoru vm
+21,2022-09-14,-34.5,Bezhotovostná platba,,"dan za uzivanie verej. priestoru vm
 este Puchov ul. Moyzesova  pocas vo
 l.  kampane Tour de Baska 2.9.2022",0308,36532022,,Mesto Púchov
-21,2022-09-12,1500.0,Bezhotovostný príjem,BOHUN STEFAN,/DO2022-09-12/SPFinancny prispevok,,092022,,BOHUN STEFAN
-22,2022-09-09,2000.0,Bezhotovostný príjem,STEFANIK JOZEF,/DO2022-09-08/SPPrispevok na kampan,,,,STEFANIK JOZEF
-23,2022-09-07,2500.0,Bezhotovostný príjem,STEFANIKOVA BASKOVA,/DO2022-09-06/SP,,,,STEFANIKOVA BASKOVA
-24,2022-09-07,1500.0,Bezhotovostný príjem,Peter Parák,/DO2022-09-06/SPPríspevok na kampaň,,,,Peter Parák
-25,2022-09-05,-6480.0,Bezhotovostná platba,,"vysielanie reklamnych oznameni v ob
+22,2022-09-12,1500.0,Bezhotovostný príjem,BOHUN STEFAN,/DO2022-09-12/SPFinancny prispevok,,092022,,BOHUN STEFAN
+23,2022-09-09,2000.0,Bezhotovostný príjem,STEFANIK JOZEF,/DO2022-09-08/SPPrispevok na kampan,,,,STEFANIK JOZEF
+24,2022-09-07,2500.0,Bezhotovostný príjem,STEFANIKOVA BASKOVA,/DO2022-09-06/SP,,,,STEFANIKOVA BASKOVA
+25,2022-09-07,1500.0,Bezhotovostný príjem,Peter Parák,/DO2022-09-06/SPPríspevok na kampaň,,,,Peter Parák
+26,2022-09-05,-6480.0,Bezhotovostná platba,,"vysielanie reklamnych oznameni v ob
 ciach Trencianskeho kraja pocas Tou
 r de Baska 2022 ,6 etap august 2022",0308,2022002,,"EVEREST MEDIA, s.r.o., Bratislava"
-26,2022-08-25,1500.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-08-25/SP Drzim palce,,1111,,Ingrid Kögelová
-27,2022-08-25,500.0,Bezhotovostný príjem,Hajšo Miklošová Miro,/DO2022-08-24/SPDrzime palce,,,,Hajšo Miklošová Miro
-28,2022-08-23,4000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-08-22/SPprispevok na kampan,,,,"Baška Jaroslav, Ing."
-29,2022-08-23,500.0,Bezhotovostný príjem,Gorek Peter,/DO2022-08-22/SP,,,,Gorek Peter
-30,2022-08-22,-9720.0,Bezhotovostná platba,,"vysielanie reklamnych oznameni v ob
+27,2022-08-25,1500.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-08-25/SP Drzim palce,,1111,,Ingrid Kögelová
+28,2022-08-25,500.0,Bezhotovostný príjem,Hajšo Miklošová Miro,/DO2022-08-24/SPDrzime palce,,,,Hajšo Miklošová Miro
+29,2022-08-23,4000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-08-22/SPprispevok na kampan,,,,"Baška Jaroslav, Ing."
+30,2022-08-23,500.0,Bezhotovostný príjem,Gorek Peter,/DO2022-08-22/SP,,,,Gorek Peter
+31,2022-08-22,-9720.0,Bezhotovostná platba,,"vysielanie reklamnych oznameni v ob
 ciach Trencianskeho kraja pocas Tou
 r de Baska 2022 , 9 etap jul 2022",0308,2022001,,"EVEREST MEDIA, s.r.o., Bratislava"
-31,2022-08-22,-2944.75,Bezhotovostná platba,,"pohladnice, plagaty, nalepky, preze
+32,2022-08-22,-2944.75,Bezhotovostná platba,,"pohladnice, plagaty, nalepky, preze
 ntacna stena a pult pre ucely kampa
 ne",0308,222012,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-32,2022-08-22,-3700.0,Bezhotovostná platba,,Billboardova kampan za mesiac jul22,0308,222011,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-33,2022-08-22,-3982.49,Bezhotovostná platba,,"reklamny olep aut: Mercedes Sprinte
+33,2022-08-22,-3700.0,Bezhotovostná platba,,Billboardova kampan za mesiac jul22,0308,222011,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
+34,2022-08-22,-3982.49,Bezhotovostná platba,,"reklamny olep aut: Mercedes Sprinte
 r a Citroen Jumpy",0308,222014,,"SLOVENSKÁ MEDIÁLNA AGENTÚRA,s.r.o., Bratislava"
-34,2022-08-22,-740.0,Bezhotovostná platba,,"dodanie a potlacenie reklamnych  tr
+35,2022-08-22,-740.0,Bezhotovostná platba,,"dodanie a potlacenie reklamnych  tr
 iciek pre Tour de Baska 2022",0308,2022003,,"EVEREST MEDIA, s.r.o., Bratislava"
-35,2022-08-22,1500.0,Bezhotovostný príjem,Milan Kögel,/DO2022-08-22/SP VOLBY drzim palce,,520107,,Milan Kögel
-36,2022-08-19,2000.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-08-18/SPPrispevok na kampan.,,,,HAJSO JURAJ
-37,2022-08-16,2000.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-08-15/SPPríspevok na kampaň,,,,Marek Briestenský
-38,2022-08-15,500.0,Bezhotovostný príjem,Miroslav Hroško,/DO2022-08-15/SP Vyborna kampan. Drzim palce.,,,,Miroslav Hroško
-39,2022-08-15,1500.0,Bezhotovostný príjem,Martin Všelko,/DO2022-08-14/SPPríspevok na kampaň,,,,Martin Všelko
-40,2022-08-02,400.0,Bezhotovostný príjem,Veronika Krekáčová,/DO2022-08-01/SPpodpora kampane,,,,Veronika Krekáčová
-41,2022-07-25,1000.0,Bezhotovostný príjem,Majčiník Artúr,/DO2022-07-23/SPPrispevok na kampan,,,,Majčiník Artúr
-42,2022-07-19,1800.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-07-18/SP VOĽBY,,745627,,Ingrid Kögelová
-43,2022-07-19,1800.0,Bezhotovostný príjem,Milan Kögel,/DO2022-07-18/SP VOĽBY,,520107,,Milan Kögel
-44,2022-07-18,1900.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-07-17/SPPrispevok na kampan.,,,,HAJSO JURAJ
-45,2022-07-14,100.0,Bezhotovostný príjem,Dávid Cigánik,/DO2022-07-14/SP Prispevok na kampan,,,,Dávid Cigánik
-46,2022-07-14,500.0,Bezhotovostný príjem,Miroslav Hroško,"/DO2022-07-14/SP Drzim palce, som fanusik cyklistiky. Uz sa tesim na dalsie cyklotrasy.",,,,Miroslav Hroško
-47,2022-07-13,1300.0,Bezhotovostný príjem,BOHUN STEFAN,/DO2022-07-12/SPPodpora pre vitaza,0308,2022,,BOHUN STEFAN
-48,2022-07-12,1400.0,Bezhotovostný príjem,Peter Parák,/DO2022-07-12/SPPríspevok na kampaň,,,,Peter Parák
-49,2022-07-12,1200.0,Bezhotovostný príjem,Karol Kubiš,"/DO2022-07-11/SPKarol Kubiš, Domaniža 9",,,,Karol Kubiš
-50,2022-07-11,1300.0,Bezhotovostný príjem,Martin Všelko,/DO2022-07-08/SPPríspevok na kampaň,,,,Martin Všelko
-51,2022-07-08,1900.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-07-07/SPPríspevok na kampaň,,,,Marek Briestenský
-52,2022-07-04,-320.0,Bezhotovostná platba,,"prenajom priestorov na aktivity spo
+36,2022-08-22,1500.0,Bezhotovostný príjem,Milan Kögel,/DO2022-08-22/SP VOLBY drzim palce,,520107,,Milan Kögel
+37,2022-08-19,2000.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-08-18/SPPrispevok na kampan.,,,,HAJSO JURAJ
+38,2022-08-16,2000.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-08-15/SPPríspevok na kampaň,,,,Marek Briestenský
+39,2022-08-15,500.0,Bezhotovostný príjem,Miroslav Hroško,/DO2022-08-15/SP Vyborna kampan. Drzim palce.,,,,Miroslav Hroško
+40,2022-08-15,1500.0,Bezhotovostný príjem,Martin Všelko,/DO2022-08-14/SPPríspevok na kampaň,,,,Martin Všelko
+41,2022-08-02,400.0,Bezhotovostný príjem,Veronika Krekáčová,/DO2022-08-01/SPpodpora kampane,,,,Veronika Krekáčová
+42,2022-07-25,1000.0,Bezhotovostný príjem,Majčiník Artúr,/DO2022-07-23/SPPrispevok na kampan,,,,Majčiník Artúr
+43,2022-07-19,1800.0,Bezhotovostný príjem,Ingrid Kögelová,/DO2022-07-18/SP VOĽBY,,745627,,Ingrid Kögelová
+44,2022-07-19,1800.0,Bezhotovostný príjem,Milan Kögel,/DO2022-07-18/SP VOĽBY,,520107,,Milan Kögel
+45,2022-07-18,1900.0,Bezhotovostný príjem,HAJSO JURAJ,/DO2022-07-17/SPPrispevok na kampan.,,,,HAJSO JURAJ
+46,2022-07-14,100.0,Bezhotovostný príjem,Dávid Cigánik,/DO2022-07-14/SP Prispevok na kampan,,,,Dávid Cigánik
+47,2022-07-14,500.0,Bezhotovostný príjem,Miroslav Hroško,"/DO2022-07-14/SP Drzim palce, som fanusik cyklistiky. Uz sa tesim na dalsie cyklotrasy.",,,,Miroslav Hroško
+48,2022-07-13,1300.0,Bezhotovostný príjem,BOHUN STEFAN,/DO2022-07-12/SPPodpora pre vitaza,0308,2022,,BOHUN STEFAN
+49,2022-07-12,1400.0,Bezhotovostný príjem,Peter Parák,/DO2022-07-12/SPPríspevok na kampaň,,,,Peter Parák
+50,2022-07-12,1200.0,Bezhotovostný príjem,Karol Kubiš,"/DO2022-07-11/SPKarol Kubiš, Domaniža 9",,,,Karol Kubiš
+51,2022-07-11,1300.0,Bezhotovostný príjem,Martin Všelko,/DO2022-07-08/SPPríspevok na kampaň,,,,Martin Všelko
+52,2022-07-08,1900.0,Bezhotovostný príjem,Marek Briestenský,/DO2022-07-07/SPPríspevok na kampaň,,,,Marek Briestenský
+53,2022-07-04,-320.0,Bezhotovostná platba,,"prenajom priestorov na aktivity spo
 jene so zaciatkom volebnej kampane
 na post predsedu TSK",0308,942022,,Trenčianske múzeum
-53,2022-06-23,1000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-06-22/SPJaroslav Baska prispevok na kampan,,,,"Baška Jaroslav, Ing."
+54,2022-06-23,1000.0,Bezhotovostný príjem,"Baška Jaroslav, Ing.",/DO2022-06-22/SPJaroslav Baska prispevok na kampan,,,,"Baška Jaroslav, Ing."
