@@ -39,20 +39,20 @@ index,index,date,amount,account_name,message,vs,name
 37,120,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
 38,15,2022-09-27,-500.0,VKM STARA LUBOVNA,Mylná platba- vrátený dar,9.0,Kresťanskodemokratické hnutie
 39,26,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
-40,148,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-41,119,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-42,116,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
-43,79,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-44,103,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-45,104,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-46,53,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-47,58,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-48,55,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-49,56,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
-50,30,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
-51,33,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
-52,20,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
-53,22,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
+40,149,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+41,120,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+42,117,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+43,80,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
+44,104,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+45,105,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
+46,54,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+47,59,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
+48,56,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+49,57,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
+50,31,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
+51,34,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
+52,21,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
+53,23,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
 54,133,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 55,115,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 56,336,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
@@ -81,12 +81,12 @@ index,index,date,amount,account_name,message,vs,name
 79,91,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 80,28,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
 81,23,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
-82,26,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
-83,27,2022-09-16,300.0,"GFD, s.r.o.",F001160920220820044,,Branislav Filipovič
-84,5,2022-10-02,-300.0,Bojnanská Pavlína,,,Branislav Filipovič
-85,35,2022-09-13,300.0,Bojnanská Pavlína,,,Branislav Filipovič
-86,3,2022-10-03,-1500.0,Andrej Balga,vratenie hotovostneho prispevku nakampan,,Branislav Filipovič
-87,2,2022-10-04,1500.0,Andrej Balga,Prispevok - bezhotovostny prevod,,Branislav Filipovič
+82,27,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
+83,28,2022-09-16,300.0,"GFD, s.r.o.",F001160920220820044,,Branislav Filipovič
+84,6,2022-10-02,-300.0,Bojnanská Pavlína,,,Branislav Filipovič
+85,36,2022-09-13,300.0,Bojnanská Pavlína,,,Branislav Filipovič
+86,4,2022-10-03,-1500.0,Andrej Balga,vratenie hotovostneho prispevku nakampan,,Branislav Filipovič
+87,3,2022-10-04,1500.0,Andrej Balga,Prispevok - bezhotovostny prevod,,Branislav Filipovič
 88,12,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
 89,13,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
 90,33,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
