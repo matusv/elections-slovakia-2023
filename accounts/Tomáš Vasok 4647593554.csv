@@ -1,25 +1,23 @@
 index,date,amount,account_name,message,vs
-0,2022-10-04,-500.0,Výber hotovosti,,****942
-1,2022-10-03,-40.0,Platba kartou,Platba kartou u obchodníka,****942
-2,2022-10-02,-40.0,Platba kartou,Platba kartou u obchodníka,****942
-3,2022-10-05,-500.0,Výber hotovosti,S6AV512H KOSICE 19:29,****942
-4,2022-10-05,-40.0,Platba kartou,FACEBK HYTR3GXB fb.me/ads,****942
-5,2022-10-04,-40.0,Platba kartou,FACEBK 939XFH7B fb.me/ads,****942
-6,2022-10-04,79.51,PETKOV & Co s. r. o.,vratenie platby:409810784,409810784
-7,2022-10-03,-5.49,Platba kartou,FACEBK 4ZK7JGXA fb.me/ads,****942
-8,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-09-30,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
-10,2022-09-30,-237.6,LA TEAM,Predaj tovaru na FA,20220306
-11,2022-09-29,-40.0,Platba kartou,FACEBK QVX7PKTB fb.me/ads,****942
-12,2022-09-29,850.0,Oratorová Martina,Podpora kampane,
-13,2022-09-29,300.0,Frantisek Pavlulik,,
-14,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
-15,2022-09-22,-603.6,Element design s.r.o,,20220130
-16,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
-17,2022-09-13,-40.64,Websupport,,1022258311
-18,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
-19,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
-20,2022-09-05,-150.0,,,
-21,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-22,2022-08-31,-5.0,,Vedenie účtu,9
-23,2022-08-31,500.0,Tomáš VASOK,,
+0,2022-10-03,-40.0,Platba kartou,Platba kartou u obchodníka,****942
+1,2022-10-05,-500.0,Výber hotovosti,S6AV512H KOSICE 19:29,****942
+2,2022-10-05,-40.0,Platba kartou,FACEBK HYTR3GXB fb.me/ads,****942
+3,2022-10-04,-40.0,Platba kartou,FACEBK 939XFH7B fb.me/ads,****942
+4,2022-10-04,79.51,PETKOV & Co s. r. o.,vratenie platby:409810784,409810784
+5,2022-10-03,-5.49,Platba kartou,FACEBK 4ZK7JGXA fb.me/ads,****942
+6,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+7,2022-09-30,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
+8,2022-09-30,-237.6,LA TEAM,Predaj tovaru na FA,20220306
+9,2022-09-29,-40.0,Platba kartou,FACEBK QVX7PKTB fb.me/ads,****942
+10,2022-09-29,850.0,Oratorová Martina,Podpora kampane,
+11,2022-09-29,300.0,Frantisek Pavlulik,,
+12,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
+13,2022-09-22,-603.6,Element design s.r.o,,20220130
+14,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
+15,2022-09-13,-40.64,Websupport,,1022258311
+16,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
+17,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
+18,2022-09-05,-150.0,,,
+19,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+20,2022-08-31,-5.0,,Vedenie účtu,9
+21,2022-08-31,500.0,Tomáš VASOK,,
