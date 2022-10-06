@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Stanislav Sorokac,2022-10-05,100,EUR,23650421,Bezhotovostný vklad,,
-1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,ZELEZNIKOVA NATALIA,2022-09-20,1000,EUR,23525005,Bezhotovostný vklad,,
+0,Lavacom,2022-10-06,-168,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2206300007,
+1,Stanislav Sorokac,2022-10-05,100,EUR,23650421,Bezhotovostný vklad,,
+2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,ZELEZNIKOVA NATALIA,2022-09-20,1000,EUR,23525005,Bezhotovostný vklad,,
