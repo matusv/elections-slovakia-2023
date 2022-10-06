@@ -1,20 +1,21 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,8601,,poplatek za pojištění
-1,2022-09-29,200.0,Bezhotovostný príjem,Jankovic Ivan,"/DO2022-09-29/SPivan jankovic  istrijska 116  841 07 bratislava, Not Provided",,,,Jankovic Ivan
-2,2022-09-27,-69.6,Bezhotovostná platba,,zatko tlac plagatov,0308,22070,,
-3,2022-09-26,-42.0,Bezhotovostná platba,,Zatko tlac plagatu,0308,0582022,,
-4,2022-09-26,-100.0,Bezhotovostná platba,,Zatko foto,0308,062022,,
-5,2022-09-26,-180.0,Bezhotovostná platba,,Zatko bilboard,0308,22156,,
-6,2022-09-22,200.0,Bezhotovostný príjem,Peter Rajkovič,/DO2022-09-21/SP RP,,,,Peter Rajkovič
-7,2022-09-20,200.0,Bezhotovostný príjem,Adrián Jankovič,/DO2022-09-19/SPAdrián Jankovič volebná kampaň,,,,Adrián Jankovič
-8,2022-09-20,450.0,Bezhotovostný príjem,Ján Žatko,/DO2022-09-19/SP,,,,Ján Žatko
-9,2022-09-20,200.0,Bezhotovostný príjem,Lubomír Frolek,/DO2022-09-19/SP L Frolek,,,,Lubomír Frolek
-10,2022-09-19,200.0,Bezhotovostný príjem,Róbert Ondrejkovič,"/DO2022-09-19/SP Robert Ondrejkovic - volebna kampan, Robert Ondrejkovic - volebna kampan",,,,Róbert Ondrejkovič
-11,2022-09-12,200.0,Bezhotovostný príjem,Elena Fabová,/DO2022-09-09/SP Fabova volebna kampan,,,,Elena Fabová
-12,2022-08-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,8601,,poplatek za pojištění
-13,2022-08-22,-602.4,Bezhotovostná platba,,,0308,22010,,
-14,2022-08-18,-348.0,Bezhotovostná platba,,,0308,22107,,
-15,2022-08-18,1000.0,Bezhotovostný príjem,JAN ZATKO,/DO2022-08-17/SPDOTACIA UCTU,0308,,,JAN ZATKO
-16,2022-08-18,-422.4,Bezhotovostná platba,,,0308,22008,,
-17,2022-08-17,-297.6,Bezhotovostná platba,,Zatko bilboardy,0308,0502022,,
-18,2022-06-23,1000.0,Bezhotovostný príjem,JAN ZATKO,/DO2022-06-23/SPDOTACIA UCTU,0308,,,JAN ZATKO
+0,2022-10-06,-150.0,Bezhotovostná platba,,zatko graficke prace,0308,272022,,
+1,2022-09-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,8601,,poplatek za pojištění
+2,2022-09-29,200.0,Bezhotovostný príjem,Jankovic Ivan,"/DO2022-09-29/SPivan jankovic  istrijska 116  841 07 bratislava, Not Provided",,,,Jankovic Ivan
+3,2022-09-27,-69.6,Bezhotovostná platba,,zatko tlac plagatov,0308,22070,,
+4,2022-09-26,-42.0,Bezhotovostná platba,,Zatko tlac plagatu,0308,0582022,,
+5,2022-09-26,-100.0,Bezhotovostná platba,,Zatko foto,0308,062022,,
+6,2022-09-26,-180.0,Bezhotovostná platba,,Zatko bilboard,0308,22156,,
+7,2022-09-22,200.0,Bezhotovostný príjem,Peter Rajkovič,/DO2022-09-21/SP RP,,,,Peter Rajkovič
+8,2022-09-20,200.0,Bezhotovostný príjem,Adrián Jankovič,/DO2022-09-19/SPAdrián Jankovič volebná kampaň,,,,Adrián Jankovič
+9,2022-09-20,450.0,Bezhotovostný príjem,Ján Žatko,/DO2022-09-19/SP,,,,Ján Žatko
+10,2022-09-20,200.0,Bezhotovostný príjem,Lubomír Frolek,/DO2022-09-19/SP L Frolek,,,,Lubomír Frolek
+11,2022-09-19,200.0,Bezhotovostný príjem,Róbert Ondrejkovič,"/DO2022-09-19/SP Robert Ondrejkovic - volebna kampan, Robert Ondrejkovic - volebna kampan",,,,Róbert Ondrejkovič
+12,2022-09-12,200.0,Bezhotovostný príjem,Elena Fabová,/DO2022-09-09/SP Fabova volebna kampan,,,,Elena Fabová
+13,2022-08-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,8601,,poplatek za pojištění
+14,2022-08-22,-602.4,Bezhotovostná platba,,,0308,22010,,
+15,2022-08-18,-348.0,Bezhotovostná platba,,,0308,22107,,
+16,2022-08-18,1000.0,Bezhotovostný príjem,JAN ZATKO,/DO2022-08-17/SPDOTACIA UCTU,0308,,,JAN ZATKO
+17,2022-08-18,-422.4,Bezhotovostná platba,,,0308,22008,,
+18,2022-08-17,-297.6,Bezhotovostná platba,,Zatko bilboardy,0308,0502022,,
+19,2022-06-23,1000.0,Bezhotovostný príjem,JAN ZATKO,/DO2022-06-23/SPDOTACIA UCTU,0308,,,JAN ZATKO
