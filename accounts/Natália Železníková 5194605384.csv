@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Branislav Ňarjaš,2022-10-06,20,EUR,Fidy Grill,Bezhotovostný vklad - okamžitá platba,,
-1,Lavacom,2022-10-06,-168,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2206300007,
-2,Stanislav Sorokac,2022-10-05,100,EUR,23650421,Bezhotovostný vklad,,
-3,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-4,ZELEZNIKOVA NATALIA,2022-09-20,1000,EUR,23525005,Bezhotovostný vklad,,
+0,Vályik Peter,2022-10-06,50,EUR,Venujem na predvolebnu kampaň,Bezhotovostný vklad,,
+1,Branislav Ňarjaš,2022-10-06,20,EUR,Fidy Grill,Bezhotovostný vklad - okamžitá platba,,
+2,Lavacom,2022-10-06,-168,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2206300007,
+3,Stanislav Sorokac,2022-10-05,100,EUR,23650421,Bezhotovostný vklad,,
+4,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+5,ZELEZNIKOVA NATALIA,2022-09-20,1000,EUR,23525005,Bezhotovostný vklad,,
