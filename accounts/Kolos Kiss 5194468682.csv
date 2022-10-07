@@ -1,3 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Kolos Kiss,2022-09-09,80,EUR,Kolos Kiss,Bezhotovostný vklad,,
+0,INPANG s.r.o.,2022-10-07,-175.01,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),162022,
+1,INPANG s.r.o.,2022-10-07,-526.99,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),172022,
+2,Kolos Kiss,2022-10-07,800.0,EUR,F001071020224783103,Bezhotovostný vklad,,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,Kolos Kiss,2022-09-09,80.0,EUR,Kolos Kiss,Bezhotovostný vklad,,
