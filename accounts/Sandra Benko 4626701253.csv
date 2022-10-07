@@ -1,42 +1,41 @@
 index,date,amount,account_name,message,vs
 0,2022-10-06,-1071.9,simplewild s.r.o.,Zabezpecenie obcerstvenia na akcii 30.09.2022,202200010
-1,2022-10-06,-1071.9,simplewild s.r.o.,Zabezpecenie obcerstvenia na akcii 30.09.2022,202200010
-2,2022-10-04,-60.0,Mgr. Zuzana Bozikova,Akcia - 30.9. prikazna zmluva,
-3,2022-10-04,-60.0,Matus Horny,Akcia - 30.9. prikazna zmluva,
-4,2022-10-04,-60.0,Samuel Pritrsky,Akcia - 30.9. prikazna zmluva,
-5,2022-10-04,-100.0,Obec Rovinka,akcia 30.9.2022,4013200123
-6,2022-10-04,-636.0,,22032 akcia 30.9.2022,
-7,2022-09-30,6.0,,Odpustenie vedenie konta,9
-8,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-09-07,-60.0,Alexander Mandlik,uhrada na zaklade prikaznej zmluvy k akcii 09.09.2022,
-10,2022-09-07,-60.0,Juraj Haulik,Uhrada na zaklade prikaznej zmluvy k akcii k 09.09.2022,
-11,2022-09-07,-60.0,Zuzana Bozikova,Uhrada na zaklade prikaznej zmluvy k akcii k 09.09.2022,
-12,2022-09-06,-1000.0,Hero&Pulc s.r.o.,,
-13,2022-09-06,-300.0,Obec Rovinka,Dan za uzivanie verejneho priestranstva,2514200051
-14,2022-09-06,3000.0,Benko Peter,dar,
-15,2022-09-06,1500.0,Převrátil Martin,,
-16,2022-09-06,-100.0,Obec Rovinka,Prenajom hasicskeho auta akcia 13.08.2022,4011200109
-17,2022-09-06,-100.0,Obec Rovinka,Prenajom hasicskeho auta akcia 09.09.2022,4013200110
-18,2022-09-06,100.0,Převrátil Martin,,
-19,2022-08-31,6.0,,Odpustenie vedenie konta,9
-20,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-21,2022-08-30,-400.0,Obec Rovinka,dan za uzivanie priestranstva 13.8.2022,2514200048
-22,2022-08-30,-1443.0,KINGART s.r.o.,2ks bilboard a montaz,30082022
-23,2022-08-19,-467.8,ERINACEUS s.r.o.,Prenajom vycapneho zariadenia + instalacia - akcia 17.08.2022,2022117
-24,2022-08-19,-500.0,Hero&Pulc s.r.o.,Cateringove sluzby a technicke zabezpecenie akcia 17.08.2022,20220030
-25,2022-08-15,-240.0,Show portal,Kuzelnicke vystupenie 13.08.2022-kampan,551012022
-26,2022-08-12,-60.0,Alexander Mandlik,Odmena na zaklade prikaznej zmluvy zo dna 12.08.2022,
-27,2022-08-12,-60.0,Jaroslav Leiger,Odmena na Zaklade prikaznej zmluvy z dna 12.08.2022,
-28,2022-08-12,3000.0,Benko Peter,,
-29,2022-08-11,200.0,Převrátil Martin,,
-30,2022-08-08,-49.0,Platba kartou,SLOVENSKA POSTA ROVINKA,****5260
-31,2022-08-04,-12.0,Platba kartou,Obecny urad Rov ROVINKA 13:08,****5260
-32,2022-08-04,100.0,Převrátil Martin,,
-33,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
-34,2022-07-29,-0.44,,Poplatky za platby spolu,9
-35,2022-07-29,-5.0,,Vedenie účtu,9
-36,2022-07-26,-28.66,,,
-37,2022-07-18,-1.0,,Popl. Zobr. zostatku cez ATM,5260
-38,2022-07-18,-24.0,,,1022208736
-39,2022-07-15,100.0,Převrátil Martin,,
-40,2022-07-15,20.0,Benko Sandra,,
+1,2022-10-04,-60.0,Mgr. Zuzana Bozikova,Akcia - 30.9. prikazna zmluva,
+2,2022-10-04,-60.0,Matus Horny,Akcia - 30.9. prikazna zmluva,
+3,2022-10-04,-60.0,Samuel Pritrsky,Akcia - 30.9. prikazna zmluva,
+4,2022-10-04,-100.0,Obec Rovinka,akcia 30.9.2022,4013200123
+5,2022-10-04,-636.0,,22032 akcia 30.9.2022,
+6,2022-09-30,6.0,,Odpustenie vedenie konta,9
+7,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+8,2022-09-07,-60.0,Alexander Mandlik,uhrada na zaklade prikaznej zmluvy k akcii 09.09.2022,
+9,2022-09-07,-60.0,Juraj Haulik,Uhrada na zaklade prikaznej zmluvy k akcii k 09.09.2022,
+10,2022-09-07,-60.0,Zuzana Bozikova,Uhrada na zaklade prikaznej zmluvy k akcii k 09.09.2022,
+11,2022-09-06,-1000.0,Hero&Pulc s.r.o.,,
+12,2022-09-06,-300.0,Obec Rovinka,Dan za uzivanie verejneho priestranstva,2514200051
+13,2022-09-06,3000.0,Benko Peter,dar,
+14,2022-09-06,1500.0,Převrátil Martin,,
+15,2022-09-06,-100.0,Obec Rovinka,Prenajom hasicskeho auta akcia 13.08.2022,4011200109
+16,2022-09-06,-100.0,Obec Rovinka,Prenajom hasicskeho auta akcia 09.09.2022,4013200110
+17,2022-09-06,100.0,Převrátil Martin,,
+18,2022-08-31,6.0,,Odpustenie vedenie konta,9
+19,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+20,2022-08-30,-400.0,Obec Rovinka,dan za uzivanie priestranstva 13.8.2022,2514200048
+21,2022-08-30,-1443.0,KINGART s.r.o.,2ks bilboard a montaz,30082022
+22,2022-08-19,-467.8,ERINACEUS s.r.o.,Prenajom vycapneho zariadenia + instalacia - akcia 17.08.2022,2022117
+23,2022-08-19,-500.0,Hero&Pulc s.r.o.,Cateringove sluzby a technicke zabezpecenie akcia 17.08.2022,20220030
+24,2022-08-15,-240.0,Show portal,Kuzelnicke vystupenie 13.08.2022-kampan,551012022
+25,2022-08-12,-60.0,Alexander Mandlik,Odmena na zaklade prikaznej zmluvy zo dna 12.08.2022,
+26,2022-08-12,-60.0,Jaroslav Leiger,Odmena na Zaklade prikaznej zmluvy z dna 12.08.2022,
+27,2022-08-12,3000.0,Benko Peter,,
+28,2022-08-11,200.0,Převrátil Martin,,
+29,2022-08-08,-49.0,Platba kartou,SLOVENSKA POSTA ROVINKA,****5260
+30,2022-08-04,-12.0,Platba kartou,Obecny urad Rov ROVINKA 13:08,****5260
+31,2022-08-04,100.0,Převrátil Martin,,
+32,2022-07-29,5.44,,Odpust.-popl.za platby a ved.úč/ko,9
+33,2022-07-29,-0.44,,Poplatky za platby spolu,9
+34,2022-07-29,-5.0,,Vedenie účtu,9
+35,2022-07-26,-28.66,,,
+36,2022-07-18,-1.0,,Popl. Zobr. zostatku cez ATM,5260
+37,2022-07-18,-24.0,,,1022208736
+38,2022-07-15,100.0,Převrátil Martin,,
+39,2022-07-15,20.0,Benko Sandra,,
