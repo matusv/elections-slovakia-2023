@@ -1,0 +1,10 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,CENTAURA,2022-10-06,-6810.0,EUR,tlac novin Na rovinu,Platobný príkaz na úhradu / FIT 2.0 (EB),20220107,
+1,Groma Patrik,2022-10-06,7000.0,EUR,Patrik Groma,Bezhotovostný vklad,,
+2,Karamelo,2022-10-04,-550.0,EUR,Reklamne predmety,Platobný príkaz na úhradu / FIT 2.0 (EB),1202201339,
+3,,2022-09-30,-5.4,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,Hebi vital,2022-09-26,-35.0,EUR,Švédska križovka,Platobný príkaz na úhradu / FIT 2.0 (EB),502022151,
+6,Filipová Ivana,2022-09-14,333.0,EUR,F001140920226748094,Bezhotovostný vklad,,
+7,"Kružliak Roman, Ing.",2022-09-12,300.0,EUR,OO22091200014812,Bezhotovostný vklad - okamžitá platba,,
+8,Groma Patrik,2022-09-06,500.0,EUR,Patrik Groma,Bezhotovostný vklad,001,

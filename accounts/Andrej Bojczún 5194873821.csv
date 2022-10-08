@@ -1,0 +1,5 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Base Et Silhourtte S.R.O,2022-10-08,-1866.48,EUR,andrej bojczun,Okamžitá platba (EB),,
+1,Bojczún Andrej,2022-10-08,1500.0,EUR,,Bezhotovostný vklad - okamžitá platba,,
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-09-30,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,

@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Lukáč Matúš,2022-10-03,100,EUR,F001031020221843621,Bezhotovostný vklad,,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Lukáč Matúš,2022-09-25,100,EUR,F001250920226996794,Bezhotovostný vklad,,

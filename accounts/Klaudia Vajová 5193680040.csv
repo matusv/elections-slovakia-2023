@@ -1,5 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-09-28,-225,EUR,"B1376779001-44544 12** **** 0324;SLOVENSKA POSTA A S ,VELKY KRTIS ,SK ;26.09.2022 15:01:55 ;CashBack:0 EUR",Platba kartou,,
-2,FARKAS LADISLAV,2022-09-25,2000,EUR,Ladislav Farkaspodpora na kampaňkomunálne voľby,Bezhotovostný vklad,,
-3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,,2022-10-08,-1.5,EUR,"B1383431496-44544 12** **** 0324;FACEBK 9UCESFFF42 ,fb.me/ads ,IE ;07.10.2022 01:46:00 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-10-08,-1.5,EUR,"B1383443409-44544 12** **** 0324;FACEBK UWYASFFF42 ,fb.me/ads ,IE ;06.10.2022 22:10:52 ;CashBack:0 EUR",Platba kartou,,
+2,,2022-10-08,-1.5,EUR,"B1383443383-44544 12** **** 0324;FACEBK 6RH9QF3F42 ,fb.me/ads ,IE ;06.10.2022 20:10:14 ;CashBack:0 EUR",Platba kartou,,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-09-28,-225.0,EUR,"B1376779001-44544 12** **** 0324;SLOVENSKA POSTA A S ,VELKY KRTIS ,SK ;26.09.2022 15:01:55 ;CashBack:0 EUR",Platba kartou,,
+5,FARKAS LADISLAV,2022-09-25,2000.0,EUR,Ladislav Farkaspodpora na kampaňkomunálne voľby,Bezhotovostný vklad,,
+6,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,

@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,"euroAWK, spol. s r. o.",2022-09-16,-336,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),225481,
-2,"euroAWK, spol. s r. o.",2022-09-15,-624,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2203089,
-3,Jana Michaličková,2022-09-14,2000,EUR,transparentny ucet volby 2022,Bezhotovostný vklad - okamžitá platba,,
+0,Kultúrne a spoločenské stredisko Prievidza,2022-10-08,-37.8,EUR,Volby 2022,Okamžitá platba (EB),22004,
+1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,"euroAWK, spol. s r. o.",2022-09-16,-336.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),225481,
+3,"euroAWK, spol. s r. o.",2022-09-15,-624.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2203089,
+4,Jana Michaličková,2022-09-14,2000.0,EUR,transparentny ucet volby 2022,Bezhotovostný vklad - okamžitá platba,,

@@ -1,0 +1,7 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-09-30,-3.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-09-23,-10.0,EUR,Poplatok Potvrdenie o vykonaní prevodu,Poplatok,,
+3,"MAFRA, a.s.",2022-09-22,-1111.78,EUR,Sevcik Povazske zvesti,Platobný príkaz na úhradu / FIT 2.0 (EB),9300000261,
+4,Findrova Julia,2022-09-22,200.0,EUR,Podpora najlepsieho kandidata,Bezhotovostný vklad,,
+5,SEVCIK JAROSLAV,2022-09-20,1000.0,EUR,Startujeme,Bezhotovostný vklad,,

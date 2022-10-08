@@ -1,2 +1,3 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-30,2000.0,Bezhotovostný príjem,PETER STRAPAK,/DO2022-09-29/SPNA KAMPAN,,,,PETER STRAPAK
+0,2022-10-08,-177.48,Transakcia kartou,,"Nákup: Tesco Bratislava Zlate,  Cesta na Senec, Bratislava, 82104, SVK, dne 7.10.2022, částka  177.48 EUR",,2541,,"Nákup: Tesco Bratislava Zlate,  Cesta na Senec, Bratislava, 82104, SVK, dne 7.10.2022, částka  177.48 EUR"
+1,2022-09-30,2000.0,Bezhotovostný príjem,PETER STRAPAK,/DO2022-09-29/SPNA KAMPAN,,,,PETER STRAPAK
