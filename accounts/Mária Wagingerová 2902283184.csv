@@ -1,24 +1,26 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-08,-21.29,Transakcia kartou,,"Nákup: COPYSHOP, PEZINOK, SK, dne 7.10.2022, částka  21.29 EUR",,0534,,"Nákup: COPYSHOP, PEZINOK, SK, dne 7.10.2022, částka  21.29 EUR"
-1,2022-10-07,-10.64,Transakcia kartou,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  10.64 EUR",,0534,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  10.64 EUR"
-2,2022-10-07,-47.8,Transakcia kartou,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  47.80 EUR",,0534,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  47.80 EUR"
-3,2022-10-06,100.0,Bezhotovostný príjem,Mick Ján,/DO2022-10-05/SP,,,,Mick Ján
-4,2022-10-06,500.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-10-05/SP,,,,WAGINGEROVA MARIA
-5,2022-10-04,-727.0,Bezhotovostná platba,,Maria Wagingerova,0308,2022442,2022442,
-6,2022-09-25,-100.0,Bezhotovostná platba,,"Vratenie prvotneho hotovostneho vkl
+0,2022-10-10,-120.0,Bezhotovostná platba,,Maria Wagingerova,,2270618,,
+1,2022-10-10,-8.4,Bezhotovostná platba,,Maria Wagingerova,,226345,,
+2,2022-10-08,-21.29,Transakcia kartou,,"Nákup: COPYSHOP, PEZINOK, SK, dne 7.10.2022, částka  21.29 EUR",,0534,,"Nákup: COPYSHOP, PEZINOK, SK, dne 7.10.2022, částka  21.29 EUR"
+3,2022-10-07,-10.64,Transakcia kartou,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  10.64 EUR",,0534,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  10.64 EUR"
+4,2022-10-07,-47.8,Transakcia kartou,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  47.80 EUR",,0534,,"Nákup: COPYSHOP, PEZINOK, SK, dne 6.10.2022, částka  47.80 EUR"
+5,2022-10-06,100.0,Bezhotovostný príjem,Mick Ján,/DO2022-10-05/SP,,,,Mick Ján
+6,2022-10-06,500.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-10-05/SP,,,,WAGINGEROVA MARIA
+7,2022-10-04,-727.0,Bezhotovostná platba,,Maria Wagingerova,0308,2022442,2022442,
+8,2022-09-25,-100.0,Bezhotovostná platba,,"Vratenie prvotneho hotovostneho vkl
 adu zakladatela uctu pri zakladanit
 ransparentneho uctu.",,,,
-7,2022-09-19,-177.0,Bezhotovostná platba,,Maria Wagingerova,,2022347,,
-8,2022-09-05,100.0,Bezhotovostný príjem,JANA SKRINIAROVA,/DO2022-09-05/SPPRE UZASNU KANDIDATKU,,,,JANA SKRINIAROVA
-9,2022-09-05,250.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-09-02/SP,,,,WAGINGEROVA MARIA
-10,2022-09-02,200.0,Bezhotovostný príjem,Laky Radoslav,/DO2022-08-31/SP,,,,Laky Radoslav
-11,2022-08-31,250.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-08-30/SP,,,,WAGINGEROVA MARIA
-12,2022-08-26,500.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-08-25/SP,,,,WAGINGEROVA MARIA
-13,2022-08-26,100.0,Bezhotovostný príjem,Halčin Tomáš,/DO2022-08-25/SPTomas Halcin,,,,Halčin Tomáš
-14,2022-08-26,70.0,Bezhotovostný príjem,BALCOVA ZUZANA,/DO2022-08-25/SPdrzim palce,,,,BALCOVA ZUZANA
-15,2022-08-25,-100.0,Bezhotovostná platba,,Uhrada faktury 2022080689,0308,2022080689,,
-16,2022-08-24,20.0,Bezhotovostný príjem,DIKO PETER,/DO2022-08-23/SPOd Dikovcov.,,,,DIKO PETER
-17,2022-08-24,200.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-08-23/SP,,,,WAGINGEROVA MARIA
-18,2022-08-24,50.0,Bezhotovostný príjem,Jozef Andel,/DO2022-08-23/SPAndelová Z.,,,,Jozef Andel
-19,2022-08-21,-20.59,Bezhotovostná platba,,"wagingerova.sk, maria.wagingerova.1",0308,1022248217,,
-20,2022-08-11,100.0,Vklad v hotovosti,,,0558,,,
+9,2022-09-19,-177.0,Bezhotovostná platba,,Maria Wagingerova,,2022347,,
+10,2022-09-05,100.0,Bezhotovostný príjem,JANA SKRINIAROVA,/DO2022-09-05/SPPRE UZASNU KANDIDATKU,,,,JANA SKRINIAROVA
+11,2022-09-05,250.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-09-02/SP,,,,WAGINGEROVA MARIA
+12,2022-09-02,200.0,Bezhotovostný príjem,Laky Radoslav,/DO2022-08-31/SP,,,,Laky Radoslav
+13,2022-08-31,250.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-08-30/SP,,,,WAGINGEROVA MARIA
+14,2022-08-26,500.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-08-25/SP,,,,WAGINGEROVA MARIA
+15,2022-08-26,100.0,Bezhotovostný príjem,Halčin Tomáš,/DO2022-08-25/SPTomas Halcin,,,,Halčin Tomáš
+16,2022-08-26,70.0,Bezhotovostný príjem,BALCOVA ZUZANA,/DO2022-08-25/SPdrzim palce,,,,BALCOVA ZUZANA
+17,2022-08-25,-100.0,Bezhotovostná platba,,Uhrada faktury 2022080689,0308,2022080689,,
+18,2022-08-24,20.0,Bezhotovostný príjem,DIKO PETER,/DO2022-08-23/SPOd Dikovcov.,,,,DIKO PETER
+19,2022-08-24,200.0,Bezhotovostný príjem,WAGINGEROVA MARIA,/DO2022-08-23/SP,,,,WAGINGEROVA MARIA
+20,2022-08-24,50.0,Bezhotovostný príjem,Jozef Andel,/DO2022-08-23/SPAndelová Z.,,,,Jozef Andel
+21,2022-08-21,-20.59,Bezhotovostná platba,,"wagingerova.sk, maria.wagingerova.1",0308,1022248217,,
+22,2022-08-11,100.0,Vklad v hotovosti,,,0558,,,
