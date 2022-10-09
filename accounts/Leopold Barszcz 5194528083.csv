@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,BARSZCZ LEOPOLD PHAR,2022-09-05,100,EUR,F001050920220153416,Bezhotovostný vklad,,
+0,BARSZCZ LEOPOLD PHAR,2022-10-09,500,EUR,F001091020225281219,Bezhotovostný vklad,,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,BARSZCZ LEOPOLD PHAR,2022-09-05,100,EUR,F001050920220153416,Bezhotovostný vklad,,
