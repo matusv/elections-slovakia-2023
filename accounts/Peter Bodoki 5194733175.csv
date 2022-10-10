@@ -1,8 +1,9 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Kosztolányi Attila,2022-10-10,100.0,EUR,Attila Kosztolanyi volby2022,Bezhotovostný vklad - okamžitá platba,,
-1,Alzbeta Pragay,2022-10-10,200.0,EUR,Pragay Bobe volby/valasztasok 2022,Bezhotovostný vklad,102022,
-2,Kocsis Viliam,2022-10-07,300.0,EUR,Viliam Kocsis - Volby 2022,Bezhotovostný vklad,,
-3,PETER LUKAC,2022-10-06,200.0,EUR,PETER LUKAC,Bezhotovostný vklad,,
-4,Kitti Bodoki,2022-10-03,100.0,EUR,Volby 2022,Bezhotovostný vklad,,
-5,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-6,,2022-09-30,-3.8,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,Švarba Zsolt,2022-10-10,200.0,EUR,"Zsolt Švarba, Voľby/ választášok 2022",Bezhotovostný vklad,233256,10102022
+1,Kosztolányi Attila,2022-10-10,100.0,EUR,Attila Kosztolanyi volby2022,Bezhotovostný vklad - okamžitá platba,,
+2,Alzbeta Pragay,2022-10-10,200.0,EUR,Pragay Bobe volby/valasztasok 2022,Bezhotovostný vklad,102022,
+3,Kocsis Viliam,2022-10-07,300.0,EUR,Viliam Kocsis - Volby 2022,Bezhotovostný vklad,,
+4,PETER LUKAC,2022-10-06,200.0,EUR,PETER LUKAC,Bezhotovostný vklad,,
+5,Kitti Bodoki,2022-10-03,100.0,EUR,Volby 2022,Bezhotovostný vklad,,
+6,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+7,,2022-09-30,-3.8,EUR,Poplatok za vedenie účtu,Poplatok,,
