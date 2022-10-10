@@ -1,10 +1,15 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-07,-2211.82,Bezhotovostná platba,,,,2223103,,"polygrafia, web, online marketing 092022"
-1,2022-09-30,-3000.0,Platba prevodom v rámci banky,,,,2022008,,reklamný spot
-2,2022-09-30,3000.0,Bezhotovostný príjem,HALDOVA HANA,/DO2022-09-29/SP,,022022,,HALDOVA HANA
-3,2022-09-27,-312.0,Bezhotovostná platba,,,,12120658,,reklamný panel záloha 10/2022
-4,2022-09-23,200.0,Bezhotovostný príjem,"Šimůnek Stanislav, D",/DO2022-09-22/SPDrzim palce!,,,,"Šimůnek Stanislav, D"
-5,2022-08-30,25.0,Bezhotovostný príjem,"Voda Stanislav, Ing.",/DO2022-08-26/SPDrobny prispevok dochodcu H2O,,,,"Voda Stanislav, Ing."
-6,2022-08-11,-372.0,Bezhotovostná platba,,,,12120438,,reklamný panel záloha 09/2022
-7,2022-08-08,-40.64,Bezhotovostná platba,,domena,0308,1022234880,,Domena
-8,2022-07-25,3000.0,Bezhotovostný príjem,HALDOVA HANA,/DO2022-07-25/SP,,012022,,HALDOVA HANA
+0,2022-10-10,20.0,Bezhotovostný príjem,BREZOVSKA JANETTA,/DO2022-10-08/SP,,,29102022,BREZOVSKA JANETTA
+1,2022-10-10,100.0,Bezhotovostný príjem,Ondrej Čuraj,/DO2022-10-10/SP Jana curajova,,,29102022,Ondrej Čuraj
+2,2022-10-10,50.0,Bezhotovostný príjem,"Molčányi Andrej, Ing",/DO2022-10-08/SPna Stupavu,,0903424520,29102022,"Molčányi Andrej, Ing"
+3,2022-10-10,20.0,Bezhotovostný príjem,Milan Gramblička,/DO2022-10-10/SP,,,29102022,Milan Gramblička
+4,2022-10-10,20.0,Bezhotovostný príjem,Novotný Martin,/DO2022-10-08/SPPre p. Haldovu,,,29102022,Novotný Martin
+5,2022-10-07,-2211.82,Bezhotovostná platba,,,,2223103,,"polygrafia, web, online marketing 092022"
+6,2022-09-30,-3000.0,Platba prevodom v rámci banky,,,,2022008,,reklamný spot
+7,2022-09-30,3000.0,Bezhotovostný príjem,HALDOVA HANA,/DO2022-09-29/SP,,022022,,HALDOVA HANA
+8,2022-09-27,-312.0,Bezhotovostná platba,,,,12120658,,reklamný panel záloha 10/2022
+9,2022-09-23,200.0,Bezhotovostný príjem,"Šimůnek Stanislav, D",/DO2022-09-22/SPDrzim palce!,,,,"Šimůnek Stanislav, D"
+10,2022-08-30,25.0,Bezhotovostný príjem,"Voda Stanislav, Ing.",/DO2022-08-26/SPDrobny prispevok dochodcu H2O,,,,"Voda Stanislav, Ing."
+11,2022-08-11,-372.0,Bezhotovostná platba,,,,12120438,,reklamný panel záloha 09/2022
+12,2022-08-08,-40.64,Bezhotovostná platba,,domena,0308,1022234880,,Domena
+13,2022-07-25,3000.0,Bezhotovostný príjem,HALDOVA HANA,/DO2022-07-25/SP,,012022,,HALDOVA HANA

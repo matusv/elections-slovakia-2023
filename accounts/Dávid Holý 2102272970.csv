@@ -1,37 +1,39 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-06,-216.0,Bezhotovostná platba,,"Mgr. David Holly. Strbanikova - naj
+0,2022-10-10,15.0,Bezhotovostný príjem,Ivan Jánošík,/DO2022-10-10/SP Dar,,,,Ivan Jánošík
+1,2022-10-10,500.0,Bezhotovostný príjem,Dávid Holý,/DO2022-10-10/SP,,,,Dávid Holý
+2,2022-10-06,-216.0,Bezhotovostná platba,,"Mgr. David Holly. Strbanikova - naj
 om. 30.05.2022",,220215,,prenájom Billboardov Arton
-1,2022-10-06,-357.6,Bezhotovostná platba,,Uhrada faktury: 20220199,,20220199,,reklamné letáky A4 zalomenie 7000
-2,2022-10-04,-239.54,Bezhotovostná platba,,farby a material malovanie ihriska,0308,2022318,,farby a material malovanie ihriska
-3,2022-09-30,-52.8,Bezhotovostná platba,,Uhrada faktury: 20220190 Letaky,,20220190,,Letáky
-4,2022-09-29,-100.0,Bezhotovostná platba,,material lavicka,,,,material lavička
-5,2022-09-28,-35.12,Bezhotovostná platba,,FACEBOOK ADS BC3UQ0E0V1,,,,FACEBOOK ADS BC3UQ0E0V1
-6,2022-09-23,200.0,Bezhotovostný príjem,BOTKA JAN,/DO2022-09-22/SPJan Botka,,,,BOTKA JAN
-7,2022-09-22,100.0,Bezhotovostný príjem,BIELIKOVA LUCIA,/DO2022-09-21/SP,,,,BIELIKOVA LUCIA
-8,2022-09-21,100.0,Bezhotovostný príjem,ZUZANA JANACOVA,/DO2022-09-20/SPPREVOD PROSTRIEDKOV,,,,ZUZANA JANACOVA
-9,2022-09-20,30.0,Bezhotovostný príjem,ZÁKLADNÁ UMELECKÁ ŠK,/DO2022-09-19/SP ZUS DK vratena platba,,,,ZÁKLADNÁ UMELECKÁ ŠK
-10,2022-09-16,13.0,Bezhotovostný príjem,Daniel Cibula,"/DO2022-09-14/SPVerím, že pomôže :)",,,,Daniel Cibula
-11,2022-09-14,-30.0,Bezhotovostná platba,,Prenajom fotoatelieru,,,,Prenájom fotoatelieru
-12,2022-09-14,100.0,Bezhotovostný príjem,Peter Králik,/DO2022-09-14/SP,,,,Peter Králik
-13,2022-09-13,100.0,Bezhotovostný príjem,Ladislav Lukáš,/DO2022-09-12/SP Ladislav lukas,,,,Ladislav Lukáš
-14,2022-09-12,100.0,Bezhotovostný príjem,STRUHAROVA ANNA,/DO2022-09-11/SP,,,,STRUHAROVA ANNA
-15,2022-09-08,20.0,Bezhotovostný príjem,Dobrotka Matúš,/DO2022-09-07/SPDrzim palce!,,,,Dobrotka Matúš
-16,2022-08-31,100.0,Bezhotovostný príjem,BARANCOK IVAN,/DO2022-08-30/SP,0308,082022,,BARANCOK IVAN
-17,2022-08-30,30.0,Bezhotovostný príjem,Chmelarova Mariana,"/DO2022-08-28/SP, Not Provided",,,,Chmelarova Mariana
-18,2022-08-27,-144.0,Bezhotovostná platba,,Uhrada faktury: 20220166,,20220166,,reklamné predmety
-19,2022-08-26,216.0,Bezhotovostný príjem,ARTON s.r.o.,/DO2022-08-25/SPMylna platba - duplicitna urada,0000,220215,0,ARTON s.r.o.
-20,2022-08-25,30.0,Bezhotovostný príjem,Vladimír Dráb,/DO2022-08-24/SPVladimír Dráb,,,,Vladimír Dráb
-21,2022-08-24,100.0,Bezhotovostný príjem,Marek Mikuš,/DO2022-08-23/SP Marek Mikus,,,,Marek Mikuš
-22,2022-08-18,-180.0,Bezhotovostná platba,,obj. 2201980,,2270098,,prenájom Billboardu+tlač a výlep
-23,2022-08-18,-180.0,Bezhotovostná platba,,obj. 2201981,,2270099,,prenájom Billboardu+tlač a výlep
-24,2022-08-18,-216.0,Bezhotovostná platba,,"Mgr. David Holly. Strbanikova - naj
+3,2022-10-06,-357.6,Bezhotovostná platba,,Uhrada faktury: 20220199,,20220199,,reklamné letáky A4 zalomenie 7000
+4,2022-10-04,-239.54,Bezhotovostná platba,,farby a material malovanie ihriska,0308,2022318,,farby a material malovanie ihriska
+5,2022-09-30,-52.8,Bezhotovostná platba,,Uhrada faktury: 20220190 Letaky,,20220190,,Letáky
+6,2022-09-29,-100.0,Bezhotovostná platba,,material lavicka,,,,material lavička
+7,2022-09-28,-35.12,Bezhotovostná platba,,FACEBOOK ADS BC3UQ0E0V1,,,,FACEBOOK ADS BC3UQ0E0V1
+8,2022-09-23,200.0,Bezhotovostný príjem,BOTKA JAN,/DO2022-09-22/SPJan Botka,,,,BOTKA JAN
+9,2022-09-22,100.0,Bezhotovostný príjem,BIELIKOVA LUCIA,/DO2022-09-21/SP,,,,BIELIKOVA LUCIA
+10,2022-09-21,100.0,Bezhotovostný príjem,ZUZANA JANACOVA,/DO2022-09-20/SPPREVOD PROSTRIEDKOV,,,,ZUZANA JANACOVA
+11,2022-09-20,30.0,Bezhotovostný príjem,ZÁKLADNÁ UMELECKÁ ŠK,/DO2022-09-19/SP ZUS DK vratena platba,,,,ZÁKLADNÁ UMELECKÁ ŠK
+12,2022-09-16,13.0,Bezhotovostný príjem,Daniel Cibula,"/DO2022-09-14/SPVerím, že pomôže :)",,,,Daniel Cibula
+13,2022-09-14,-30.0,Bezhotovostná platba,,Prenajom fotoatelieru,,,,Prenájom fotoatelieru
+14,2022-09-14,100.0,Bezhotovostný príjem,Peter Králik,/DO2022-09-14/SP,,,,Peter Králik
+15,2022-09-13,100.0,Bezhotovostný príjem,Ladislav Lukáš,/DO2022-09-12/SP Ladislav lukas,,,,Ladislav Lukáš
+16,2022-09-12,100.0,Bezhotovostný príjem,STRUHAROVA ANNA,/DO2022-09-11/SP,,,,STRUHAROVA ANNA
+17,2022-09-08,20.0,Bezhotovostný príjem,Dobrotka Matúš,/DO2022-09-07/SPDrzim palce!,,,,Dobrotka Matúš
+18,2022-08-31,100.0,Bezhotovostný príjem,BARANCOK IVAN,/DO2022-08-30/SP,0308,082022,,BARANCOK IVAN
+19,2022-08-30,30.0,Bezhotovostný príjem,Chmelarova Mariana,"/DO2022-08-28/SP, Not Provided",,,,Chmelarova Mariana
+20,2022-08-27,-144.0,Bezhotovostná platba,,Uhrada faktury: 20220166,,20220166,,reklamné predmety
+21,2022-08-26,216.0,Bezhotovostný príjem,ARTON s.r.o.,/DO2022-08-25/SPMylna platba - duplicitna urada,0000,220215,0,ARTON s.r.o.
+22,2022-08-25,30.0,Bezhotovostný príjem,Vladimír Dráb,/DO2022-08-24/SPVladimír Dráb,,,,Vladimír Dráb
+23,2022-08-24,100.0,Bezhotovostný príjem,Marek Mikuš,/DO2022-08-23/SP Marek Mikus,,,,Marek Mikuš
+24,2022-08-18,-180.0,Bezhotovostná platba,,obj. 2201980,,2270098,,prenájom Billboardu+tlač a výlep
+25,2022-08-18,-180.0,Bezhotovostná platba,,obj. 2201981,,2270099,,prenájom Billboardu+tlač a výlep
+26,2022-08-18,-216.0,Bezhotovostná platba,,"Mgr. David Holly. Strbanikova - naj
 om. 30.05.2022",,220215,,prenájom Billboardov
-25,2022-08-18,-24.0,Bezhotovostná platba,,"Mgr. David Holly. Strbanikova - tla
+27,2022-08-18,-24.0,Bezhotovostná platba,,"Mgr. David Holly. Strbanikova - tla
 c. 30.05.2022",,220216,,tlač plagátov
-26,2022-08-18,-170.4,Bezhotovostná platba,,,,,,prenájom Billboardu+vylep a tlač
-27,2022-08-15,100.0,Bezhotovostný príjem,STRUHAROVA ANNA,/DO2022-08-13/SP,,,,STRUHAROVA ANNA
-28,2022-08-15,50.0,Bezhotovostný príjem,Bobyr Kateryna,/DO2022-08-13/SP,,,,Bobyr Kateryna
-29,2022-08-15,100.0,Bezhotovostný príjem,Peter Králik,/DO2022-08-12/SP,,,,Peter Králik
-30,2022-08-12,100.0,Bezhotovostný príjem,Ladislav Lukáš,/DO2022-08-11/SP Ladislav Lukas,,,,Ladislav Lukáš
-31,2022-08-11,100.0,Bezhotovostný príjem,BIELIKOVA LUCIA,/DO2022-08-10/SP,,,,BIELIKOVA LUCIA
-32,2022-08-04,1500.0,Bezhotovostný príjem,Dávid Holý,/DO2022-08-03/SP,,,,Dávid Holý
+28,2022-08-18,-170.4,Bezhotovostná platba,,,,,,prenájom Billboardu+vylep a tlač
+29,2022-08-15,100.0,Bezhotovostný príjem,STRUHAROVA ANNA,/DO2022-08-13/SP,,,,STRUHAROVA ANNA
+30,2022-08-15,50.0,Bezhotovostný príjem,Bobyr Kateryna,/DO2022-08-13/SP,,,,Bobyr Kateryna
+31,2022-08-15,100.0,Bezhotovostný príjem,Peter Králik,/DO2022-08-12/SP,,,,Peter Králik
+32,2022-08-12,100.0,Bezhotovostný príjem,Ladislav Lukáš,/DO2022-08-11/SP Ladislav Lukas,,,,Ladislav Lukáš
+33,2022-08-11,100.0,Bezhotovostný príjem,BIELIKOVA LUCIA,/DO2022-08-10/SP,,,,BIELIKOVA LUCIA
+34,2022-08-04,1500.0,Bezhotovostný príjem,Dávid Holý,/DO2022-08-03/SP,,,,Dávid Holý
