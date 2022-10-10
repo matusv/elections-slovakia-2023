@@ -1,8 +1,9 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-07,-180.0,Bezhotovostná platba,,Tlac na samolepku,,,,
-1,2022-10-06,99.0,Bezhotovostný príjem,Danková Oľga,"/DO2022-10-06/SPDankovci, dar/ podpora",,,,Danková Oľga
-2,2022-10-06,-95.27,Platba prevodom v rámci banky,,Objednávka ID MGLOSPYDA,,,,"v prospech majiteľa účtu DLD, s.r.o."
-3,2022-09-29,200.0,Bezhotovostný príjem,KOVACIK DEZIDER,/DO2022-09-28/SPPrispevok,,,,KOVACIK DEZIDER
-4,2022-09-23,500.0,Bezhotovostný príjem,DOBROTKA JOZEF,Vlastny vklad.Jozef Dobrotka,,,,DOBROTKA JOZEF
-5,2022-09-20,20.0,Bezhotovostný príjem,Šmatlák Filip,/DO2022-09-19/SPKatka babicka dar,,,,Šmatlák Filip
-6,2022-09-06,10.0,Vklad v hotovosti,,,0558,,,
+0,2022-10-10,123.0,Bezhotovostný príjem,VLADIMIR BIZON,/DO2022-10-07/SPPRISPEVOK NA KAMPAN,,0028091953,,VLADIMIR BIZON
+1,2022-10-07,-180.0,Bezhotovostná platba,,Tlac na samolepku,,,,
+2,2022-10-06,99.0,Bezhotovostný príjem,Danková Oľga,"/DO2022-10-06/SPDankovci, dar/ podpora",,,,Danková Oľga
+3,2022-10-06,-95.27,Platba prevodom v rámci banky,,Objednávka ID MGLOSPYDA,,,,"v prospech majiteľa účtu DLD, s.r.o."
+4,2022-09-29,200.0,Bezhotovostný príjem,KOVACIK DEZIDER,/DO2022-09-28/SPPrispevok,,,,KOVACIK DEZIDER
+5,2022-09-23,500.0,Bezhotovostný príjem,DOBROTKA JOZEF,Vlastny vklad.Jozef Dobrotka,,,,DOBROTKA JOZEF
+6,2022-09-20,20.0,Bezhotovostný príjem,Šmatlák Filip,/DO2022-09-19/SPKatka babicka dar,,,,Šmatlák Filip
+7,2022-09-06,10.0,Vklad v hotovosti,,,0558,,,

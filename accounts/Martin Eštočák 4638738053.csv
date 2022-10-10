@@ -1,35 +1,36 @@
 index,date,amount,account_name,message,vs
-0,2022-10-06,-160.0,OLLE s. r. o,plosna inzercia rozmer A4 v c. 41PO (2x) (1.platba),202210241
-1,2022-10-05,-16.42,Platba kartou,PAYPAL *FACEBOO 3531436900,****9806
-2,2022-10-03,-440.0,ProfiEkoNet s.r.o.,faktura 20220130_Umiestnenie reklamy v reklamnom klape na mesiac septekher 2022 v spolocnych priestoroch (1.cast),20220130
-3,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-09-30,-180.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****9806
-5,2022-09-30,500.0,Diana Frankova,Kandidat Ing. Jakub Jurecko,
-6,2022-09-29,-166.54,Platba kartou,PAYPAL *FACEBOO 3531436900,****9806
-7,2022-09-28,-400.0,Creanter s.r.o,"Creanter s.r.o.: 2022009 - JUDR. Martin Estocak - 2022/09, Tvorba promo videi Empire Basic 1ks",2022009
-8,2022-09-26,-150.0,OLLE s.r.o.,"faktura c. 2022210216, Plosna inzercia 200x98mm v 36. vydani.",202210216
-9,2022-09-26,-48.0,"ARTON, s. r. o.","tlac plagatov 21.09.2022, 2ks,",220639
-10,2022-09-26,-228.0,"ARTON, s.r.o.","Prenajom reklamneho priestoru (2ks), oktober",220638
-11,2022-09-26,500.0,Herkel Marek,Bez slubov a s odhodlanim,
-12,2022-09-26,-1749.61,"ISPA, spol. s.r.o.",platba za poskytnutie reklamneho priestoru 20222000273,
-13,2022-09-23,2500.0,Jana Estocakova,Drzime prsty nech to vyjde,
-14,2022-09-16,-240.76,"VUB,A.S.",DDPAYPAL~*NINA~~~3531436900~~~~~P1,****9806
-15,2022-09-13,-900.0,"PeofiEkoNet, s.r.o.",Faktura c. 20220128 Umiestnenie reklamy v reklamnom klape vo vytahoch na mesiac September 2022 (podla objednavky 1.platba),20220128
-16,2022-09-09,-100.0,Platba kartou,FACEBK VAKYDFT3 fb.me/ads,****9806
-17,2022-09-09,-70.0,Platba kartou,FACEBK NKJTXE34 fb.me/ads,****9806
-18,2022-09-08,-196.73,Platba kartou,Alibaba.com Luxembourg,****9806
-19,2022-09-08,-53.19,Platba kartou,FACEBK ZXJGQEB4 fb.me/ads,****9806
-20,2022-09-08,500.0,COREJOVA SLAVKA,volby 2022,
-21,2022-09-07,-600.0,"euroAWK, spol. s. r. o.",zalohova faktura na prenajom reklamnych ploch (na kampan),2270477
-22,2022-09-02,-195.0,Mgr. Viera Veronika Fitzeková - Prima Media Prešov,Ucastnicky poplatok za trening Recnite s radostou.,20220056
-23,2022-08-31,6.1,,Odpust.-popl.za platby a ved.úč/ko,9
-24,2022-08-31,-1.1,,Poplatky za platby spolu,9
-25,2022-08-31,-5.0,,Vedenie účtu,9
-26,2022-08-31,-150.0,OLLE s. r. o.,JUDr. Martin Estocak 19.08.2022,202210200
-27,2022-08-30,2000.0,PRAVDA BOHUS,,
-28,2022-08-17,-17.2,"LEMONCREATIVE, S.R.O.",PAY by square RT220286,220286
-29,2022-08-17,-53.3,"LEMONCREATIVE, S.R.O.",PAY by square RT220286,220286
-30,2022-08-12,-2112.0,"GRYF MEDIA, s.r.o.",Zaloha za prenajom a realizaciu reklamnych ploch,22019
-31,2022-08-12,-936.0,"euroAWK, spol. s. r. o.",zalohova faktura na prenajom reklamnych ploch (na kampan) c. 2270255,
-32,2022-08-12,3000.0,Patricia Balcakova,,
-33,2022-08-11,200.0,COREJOVA SLAVKA,volby 2022,
+0,2022-10-10,500.0,COREJOVA SLAVKA,volby 2022,
+1,2022-10-06,-160.0,OLLE s. r. o,plosna inzercia rozmer A4 v c. 41PO (2x) (1.platba),202210241
+2,2022-10-05,-16.42,Platba kartou,PAYPAL *FACEBOO 3531436900,****9806
+3,2022-10-03,-440.0,ProfiEkoNet s.r.o.,faktura 20220130_Umiestnenie reklamy v reklamnom klape na mesiac septekher 2022 v spolocnych priestoroch (1.cast),20220130
+4,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-09-30,-180.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****9806
+6,2022-09-30,500.0,Diana Frankova,Kandidat Ing. Jakub Jurecko,
+7,2022-09-29,-166.54,Platba kartou,PAYPAL *FACEBOO 3531436900,****9806
+8,2022-09-28,-400.0,Creanter s.r.o,"Creanter s.r.o.: 2022009 - JUDR. Martin Estocak - 2022/09, Tvorba promo videi Empire Basic 1ks",2022009
+9,2022-09-26,-150.0,OLLE s.r.o.,"faktura c. 2022210216, Plosna inzercia 200x98mm v 36. vydani.",202210216
+10,2022-09-26,-48.0,"ARTON, s. r. o.","tlac plagatov 21.09.2022, 2ks,",220639
+11,2022-09-26,-228.0,"ARTON, s.r.o.","Prenajom reklamneho priestoru (2ks), oktober",220638
+12,2022-09-26,500.0,Herkel Marek,Bez slubov a s odhodlanim,
+13,2022-09-26,-1749.61,"ISPA, spol. s.r.o.",platba za poskytnutie reklamneho priestoru 20222000273,
+14,2022-09-23,2500.0,Jana Estocakova,Drzime prsty nech to vyjde,
+15,2022-09-16,-240.76,"VUB,A.S.",DDPAYPAL~*NINA~~~3531436900~~~~~P1,****9806
+16,2022-09-13,-900.0,"PeofiEkoNet, s.r.o.",Faktura c. 20220128 Umiestnenie reklamy v reklamnom klape vo vytahoch na mesiac September 2022 (podla objednavky 1.platba),20220128
+17,2022-09-09,-100.0,Platba kartou,FACEBK VAKYDFT3 fb.me/ads,****9806
+18,2022-09-09,-70.0,Platba kartou,FACEBK NKJTXE34 fb.me/ads,****9806
+19,2022-09-08,-196.73,Platba kartou,Alibaba.com Luxembourg,****9806
+20,2022-09-08,-53.19,Platba kartou,FACEBK ZXJGQEB4 fb.me/ads,****9806
+21,2022-09-08,500.0,COREJOVA SLAVKA,volby 2022,
+22,2022-09-07,-600.0,"euroAWK, spol. s. r. o.",zalohova faktura na prenajom reklamnych ploch (na kampan),2270477
+23,2022-09-02,-195.0,Mgr. Viera Veronika Fitzeková - Prima Media Prešov,Ucastnicky poplatok za trening Recnite s radostou.,20220056
+24,2022-08-31,6.1,,Odpust.-popl.za platby a ved.úč/ko,9
+25,2022-08-31,-1.1,,Poplatky za platby spolu,9
+26,2022-08-31,-5.0,,Vedenie účtu,9
+27,2022-08-31,-150.0,OLLE s. r. o.,JUDr. Martin Estocak 19.08.2022,202210200
+28,2022-08-30,2000.0,PRAVDA BOHUS,,
+29,2022-08-17,-17.2,"LEMONCREATIVE, S.R.O.",PAY by square RT220286,220286
+30,2022-08-17,-53.3,"LEMONCREATIVE, S.R.O.",PAY by square RT220286,220286
+31,2022-08-12,-2112.0,"GRYF MEDIA, s.r.o.",Zaloha za prenajom a realizaciu reklamnych ploch,22019
+32,2022-08-12,-936.0,"euroAWK, spol. s. r. o.",zalohova faktura na prenajom reklamnych ploch (na kampan) c. 2270255,
+33,2022-08-12,3000.0,Patricia Balcakova,,
+34,2022-08-11,200.0,COREJOVA SLAVKA,volby 2022,
