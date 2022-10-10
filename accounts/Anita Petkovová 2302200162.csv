@@ -1,38 +1,39 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-06,-20.0,Transakcia kartou,,"Nákup: FACEBK 4EZJKJTJX2, fb.me/ads, IE, dne 5.10.2022, částka  20.00 EUR",,1122,,"Nákup: FACEBK 4EZJKJTJX2, fb.me/ads, IE, dne 5.10.2022, částka  20.00 EUR"
-1,2022-10-04,-4.68,Transakcia kartou,,"Nákup: FACEBK RCCX9HFJX2, fb.me/ads, IE, dne 3.10.2022, částka  4.68 EUR",,1122,,"Nákup: FACEBK RCCX9HFJX2, fb.me/ads, IE, dne 3.10.2022, částka  4.68 EUR"
-2,2022-10-03,-12.0,Transakcia kartou,,"Nákup: FACEBK W8Z6KJ3JX2, fb.me/ads, IE, dne 2.10.2022, částka  12.00 EUR",,1122,,"Nákup: FACEBK W8Z6KJ3JX2, fb.me/ads, IE, dne 2.10.2022, částka  12.00 EUR"
-3,2022-10-01,-16.78,Transakcia kartou,,"Nákup: FACEBK K7UATHPJX2, fb.me/ads, IE, dne 30.9.2022, částka  16.78 EUR",,1122,,"Nákup: FACEBK K7UATHPJX2, fb.me/ads, IE, dne 30.9.2022, částka  16.78 EUR"
-4,2022-09-20,-8.76,Transakcia kartou,,"Nákup: FACEBK UGGMWGFJX2, fb.me/ads, IE, dne 19.9.2022, částka  8.76 EUR",,1122,,"Nákup: FACEBK UGGMWGFJX2, fb.me/ads, IE, dne 19.9.2022, částka  8.76 EUR"
-5,2022-09-19,-594.0,Bezhotovostná platba,,uhrada faktury Anita Petkovova,,12120599,,"NUBIUM-prenájom reklamných panelov, tlač"
-6,2022-09-19,-218.4,Bezhotovostná platba,,"uhrada faktury - Volby Anita Petkov
+0,2022-10-10,-160.8,Bezhotovostná platba,,obcerstvenie - uhrada faktury,,220102,,občerstvenie - úhrada faktúry
+1,2022-10-06,-20.0,Transakcia kartou,,"Nákup: FACEBK 4EZJKJTJX2, fb.me/ads, IE, dne 5.10.2022, částka  20.00 EUR",,1122,,"Nákup: FACEBK 4EZJKJTJX2, fb.me/ads, IE, dne 5.10.2022, částka  20.00 EUR"
+2,2022-10-04,-4.68,Transakcia kartou,,"Nákup: FACEBK RCCX9HFJX2, fb.me/ads, IE, dne 3.10.2022, částka  4.68 EUR",,1122,,"Nákup: FACEBK RCCX9HFJX2, fb.me/ads, IE, dne 3.10.2022, částka  4.68 EUR"
+3,2022-10-03,-12.0,Transakcia kartou,,"Nákup: FACEBK W8Z6KJ3JX2, fb.me/ads, IE, dne 2.10.2022, částka  12.00 EUR",,1122,,"Nákup: FACEBK W8Z6KJ3JX2, fb.me/ads, IE, dne 2.10.2022, částka  12.00 EUR"
+4,2022-10-01,-16.78,Transakcia kartou,,"Nákup: FACEBK K7UATHPJX2, fb.me/ads, IE, dne 30.9.2022, částka  16.78 EUR",,1122,,"Nákup: FACEBK K7UATHPJX2, fb.me/ads, IE, dne 30.9.2022, částka  16.78 EUR"
+5,2022-09-20,-8.76,Transakcia kartou,,"Nákup: FACEBK UGGMWGFJX2, fb.me/ads, IE, dne 19.9.2022, částka  8.76 EUR",,1122,,"Nákup: FACEBK UGGMWGFJX2, fb.me/ads, IE, dne 19.9.2022, částka  8.76 EUR"
+6,2022-09-19,-594.0,Bezhotovostná platba,,uhrada faktury Anita Petkovova,,12120599,,"NUBIUM-prenájom reklamných panelov, tlač"
+7,2022-09-19,-218.4,Bezhotovostná platba,,"uhrada faktury - Volby Anita Petkov
 ova",,22950391,,"ISPA-reklamný priestor, výroba, tlač"
-7,2022-09-18,-462.0,Bezhotovostná platba,,"prenajom reklamnej plochy, tlac a v
+8,2022-09-18,-462.0,Bezhotovostná platba,,"prenajom reklamnej plochy, tlac a v
 ylep plagatu",,220900016,,"prenájom reklamnej plochy, tlač a výlep plagátu"
-8,2022-09-12,-3.5,Poplatok - platobná karta,,"Založení karty, číslo bylo přiděleno",,7520,,"Založení karty, číslo bylo přiděleno"
-9,2022-09-05,150.0,Bezhotovostný príjem,Marco Keszely,/DO2022-09-05/SP MD,,,,Marco Keszely
-10,2022-09-05,500.0,Bezhotovostný príjem,MINARIKOVA ANGELIKA,/DO2022-09-02/SPAngelika Minarikova,,,,MINARIKOVA ANGELIKA
-11,2022-09-05,500.0,Bezhotovostný príjem,DEMIN BRANISLAV,/DO2022-09-02/SPBranislav Demin,,,,DEMIN BRANISLAV
-12,2022-08-26,20.0,Bezhotovostný príjem,Irena Keszelyová,/DO2022-08-25/SP Irena Keszelyova,,,,Irena Keszelyová
-13,2022-08-25,30.0,Bezhotovostný príjem,Frilles Kristína,/DO2022-08-24/SP,,,,Frilles Kristína
-14,2022-08-24,1000.0,Platba prevodom v rámci banky,"Ing. Andráši, Peter",peter andráši,,,,peter andráši
-15,2022-08-24,30.0,Bezhotovostný príjem,Štefan Hovorka,/DO2022-08-24/SP1-Prva Primatorka Šale,,,,Štefan Hovorka
-16,2022-08-24,20.0,Bezhotovostný príjem,KROMEROVA ZUZANA,/DO2022-08-23/SPMgr. Kromerova Zuzana,,,,KROMEROVA ZUZANA
-17,2022-08-23,-995.99,Bezhotovostná platba,,uhrada faktury - pera s logom,0308,212479,,úhrada faktúry - perá s logom
-18,2022-08-23,10.0,Bezhotovostný príjem,Home Credit Slovakia,/DO2022-08-23/SPMFUSKOVA,0308,7104063067,017001,Home Credit Slovakia
-19,2022-08-23,10.0,Bezhotovostný príjem,Fuskova Magdalena,/DO2022-08-23/SPMagdalena Fuskova,,,,Fuskova Magdalena
-20,2022-08-23,20.0,Bezhotovostný príjem,Dávid Baláž,/DO2022-08-22/SPDavid Balaz,,,,Dávid Baláž
-21,2022-08-16,10.0,Bezhotovostný príjem,MINARIKOVA ANGELIKA,/DO2022-08-15/SPAngelika Minarikova,,,,MINARIKOVA ANGELIKA
-22,2022-08-16,10.0,Bezhotovostný príjem,HULOVA DARINA,/DO2022-08-15/SPDarina Hulova,0558,,,HULOVA DARINA
-23,2022-08-16,10.0,Bezhotovostný príjem,HULA MARIAN,/DO2022-08-15/SPMarian Hula,0558,,,HULA MARIAN
-24,2022-08-16,10.0,Bezhotovostný príjem,BEHALOVA ANDREA,/DO2022-08-15/SPAndrea Behalova,,,,BEHALOVA ANDREA
-25,2022-08-15,100.0,Bezhotovostný príjem,Dávid Baláž,/DO2022-08-12/SPDavid Balaz,,,,Dávid Baláž
-26,2022-07-25,1000.0,Bezhotovostný príjem,Martin Alföldi,/DO2022-07-25/SP,,,,Martin Alföldi
-27,2022-07-25,1000.0,Bezhotovostný príjem,"Alföldi Martin, MUDr",/DO2022-07-23/SP,,,,"Alföldi Martin, MUDr"
-28,2022-06-21,-200.0,Bezhotovostná platba,,Anita Petkovova,0308,142022,,grafické práce
-29,2022-06-13,-960.0,Bezhotovostná platba,,uhrada faktury Anita Petkovova,0308,0262022,,audiovizuálny spot
-30,2022-06-01,-670.0,Bezhotovostná platba,,uhrada faktury,,20220009,,úhrada faktúry - Gabriel Szakál
-31,2022-05-31,2000.0,Bezhotovostný príjem,Marco Keszely,/DO2022-05-30/SP Dar,,2022,,Marco Keszely
-32,2022-05-27,-2000.0,Bezhotovostná platba,,vratenie daru,0558,2022,,vrátenie daru
-33,2022-05-26,2000.0,Vklad v hotovosti,,,0558,,,
-34,2022-05-06,10.0,Vklad v hotovosti,,,0558,,,
+9,2022-09-12,-3.5,Poplatok - platobná karta,,"Založení karty, číslo bylo přiděleno",,7520,,"Založení karty, číslo bylo přiděleno"
+10,2022-09-05,150.0,Bezhotovostný príjem,Marco Keszely,/DO2022-09-05/SP MD,,,,Marco Keszely
+11,2022-09-05,500.0,Bezhotovostný príjem,MINARIKOVA ANGELIKA,/DO2022-09-02/SPAngelika Minarikova,,,,MINARIKOVA ANGELIKA
+12,2022-09-05,500.0,Bezhotovostný príjem,DEMIN BRANISLAV,/DO2022-09-02/SPBranislav Demin,,,,DEMIN BRANISLAV
+13,2022-08-26,20.0,Bezhotovostný príjem,Irena Keszelyová,/DO2022-08-25/SP Irena Keszelyova,,,,Irena Keszelyová
+14,2022-08-25,30.0,Bezhotovostný príjem,Frilles Kristína,/DO2022-08-24/SP,,,,Frilles Kristína
+15,2022-08-24,1000.0,Platba prevodom v rámci banky,"Ing. Andráši, Peter",peter andráši,,,,peter andráši
+16,2022-08-24,30.0,Bezhotovostný príjem,Štefan Hovorka,/DO2022-08-24/SP1-Prva Primatorka Šale,,,,Štefan Hovorka
+17,2022-08-24,20.0,Bezhotovostný príjem,KROMEROVA ZUZANA,/DO2022-08-23/SPMgr. Kromerova Zuzana,,,,KROMEROVA ZUZANA
+18,2022-08-23,-995.99,Bezhotovostná platba,,uhrada faktury - pera s logom,0308,212479,,úhrada faktúry - perá s logom
+19,2022-08-23,10.0,Bezhotovostný príjem,Home Credit Slovakia,/DO2022-08-23/SPMFUSKOVA,0308,7104063067,017001,Home Credit Slovakia
+20,2022-08-23,10.0,Bezhotovostný príjem,Fuskova Magdalena,/DO2022-08-23/SPMagdalena Fuskova,,,,Fuskova Magdalena
+21,2022-08-23,20.0,Bezhotovostný príjem,Dávid Baláž,/DO2022-08-22/SPDavid Balaz,,,,Dávid Baláž
+22,2022-08-16,10.0,Bezhotovostný príjem,MINARIKOVA ANGELIKA,/DO2022-08-15/SPAngelika Minarikova,,,,MINARIKOVA ANGELIKA
+23,2022-08-16,10.0,Bezhotovostný príjem,HULOVA DARINA,/DO2022-08-15/SPDarina Hulova,0558,,,HULOVA DARINA
+24,2022-08-16,10.0,Bezhotovostný príjem,HULA MARIAN,/DO2022-08-15/SPMarian Hula,0558,,,HULA MARIAN
+25,2022-08-16,10.0,Bezhotovostný príjem,BEHALOVA ANDREA,/DO2022-08-15/SPAndrea Behalova,,,,BEHALOVA ANDREA
+26,2022-08-15,100.0,Bezhotovostný príjem,Dávid Baláž,/DO2022-08-12/SPDavid Balaz,,,,Dávid Baláž
+27,2022-07-25,1000.0,Bezhotovostný príjem,Martin Alföldi,/DO2022-07-25/SP,,,,Martin Alföldi
+28,2022-07-25,1000.0,Bezhotovostný príjem,"Alföldi Martin, MUDr",/DO2022-07-23/SP,,,,"Alföldi Martin, MUDr"
+29,2022-06-21,-200.0,Bezhotovostná platba,,Anita Petkovova,0308,142022,,grafické práce
+30,2022-06-13,-960.0,Bezhotovostná platba,,uhrada faktury Anita Petkovova,0308,0262022,,audiovizuálny spot
+31,2022-06-01,-670.0,Bezhotovostná platba,,uhrada faktury,,20220009,,úhrada faktúry - Gabriel Szakál
+32,2022-05-31,2000.0,Bezhotovostný príjem,Marco Keszely,/DO2022-05-30/SP Dar,,2022,,Marco Keszely
+33,2022-05-27,-2000.0,Bezhotovostná platba,,vratenie daru,0558,2022,,vrátenie daru
+34,2022-05-26,2000.0,Vklad v hotovosti,,,0558,,,
+35,2022-05-06,10.0,Vklad v hotovosti,,,0558,,,
