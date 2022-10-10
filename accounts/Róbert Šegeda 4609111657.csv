@@ -1,34 +1,35 @@
 index,date,amount,account_name,message,vs
 0,2022-10-05,-70.0,Platba kartou,Platba kartou u obchodníka,****1968
-1,2022-10-10,-462.53,,fa 22268,
-2,2022-10-10,-240.0,,fa 22260,
-3,2022-10-10,-612.0,,Tvorba videa,2200111
-4,2022-10-10,-468.0,,Fotenie,2200110
-5,2022-10-10,-514.8,,Sprava soc. sieti,2200112
-6,2022-10-10,-436.8,,Fotenie,2200079
-7,2022-10-10,-1234.8,,Fotenie,2200068
-8,2022-10-05,4000.0,"Šegeda Róbert, JUDr.",Volby 2022,
-9,2022-10-05,-24.77,,722062483 (by square),722062483
-10,2022-09-30,6.0,,Odpustenie vedenie konta,9
-11,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-12,2022-09-26,-49.37,"VUB,A.S.",DDFACEBK~2G59EFFRfb.me/ads~~~~~~P1,****1968
-13,2022-09-26,-43.69,Platba kartou,WWW.SITE123.COM HTTPSWWW.S,****1968
-14,2022-09-22,-7.99,Platba kartou,WEBHOUSE.SK BRATISLAVA,****1968
-15,2022-09-20,-70.0,Platba kartou,FACEBK TVZB6FBS fb.me/ads,****1968
-16,2022-09-05,500.0,"Šegeda Róbert, JUDr.",,
-17,2022-08-31,6.0,,Odpustenie vedenie konta,9
-18,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-19,2022-08-26,-39.75,Platba kartou,FACEBK 6WBXZE3S fb.me/ads,****1968
-20,2022-08-22,-40.0,Platba kartou,FACEBK DJK6HEFR fb.me/ads,****1968
-21,2022-08-15,-30.0,Platba kartou,FACEBK THE79E7S fb.me/ads,****1968
-22,2022-08-08,-20.0,Platba kartou,FACEBK ZVKKEETR fb.me/ads,****1968
-23,2022-08-03,-12.0,Platba kartou,FACEBK 8BF92FXR fb.me/ads,****1968
-24,2022-08-02,-12.0,Platba kartou,FACEBK AQUSEE3S fb.me/ads,****1968
-25,2022-08-01,-9.0,Platba kartou,FACEBK N5EBCE3S fb.me/ads,****1968
-26,2022-08-01,-9.0,Platba kartou,FACEBK 7NLPWD7S fb.me/ads,****1968
-27,2022-08-01,-9.0,Platba kartou,FACEBK 8SSZVD7S fb.me/ads,****1968
-28,2022-07-29,6.0,,Odpustenie vedenie konta,9
-29,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-30,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-31,2022-06-30,-5.0,,Vedenie účtu,9
-32,2022-06-14,200.0,"Šegeda Róbert, JUDr.",Volby 2022,
+1,2022-10-10,-90.0,,Car-all s. r. o.: 20220046 - JUDr. Robert Segeda - 2022/09,20220046
+2,2022-10-10,-462.53,,fa 22268,
+3,2022-10-10,-240.0,,fa 22260,
+4,2022-10-10,-612.0,,Tvorba videa,2200111
+5,2022-10-10,-468.0,,Fotenie,2200110
+6,2022-10-10,-514.8,,Sprava soc. sieti,2200112
+7,2022-10-10,-436.8,,Fotenie,2200079
+8,2022-10-10,-1234.8,,Fotenie,2200068
+9,2022-10-05,4000.0,"Šegeda Róbert, JUDr.",Volby 2022,
+10,2022-10-05,-24.77,,722062483 (by square),722062483
+11,2022-09-30,6.0,,Odpustenie vedenie konta,9
+12,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+13,2022-09-26,-49.37,"VUB,A.S.",DDFACEBK~2G59EFFRfb.me/ads~~~~~~P1,****1968
+14,2022-09-26,-43.69,Platba kartou,WWW.SITE123.COM HTTPSWWW.S,****1968
+15,2022-09-22,-7.99,Platba kartou,WEBHOUSE.SK BRATISLAVA,****1968
+16,2022-09-20,-70.0,Platba kartou,FACEBK TVZB6FBS fb.me/ads,****1968
+17,2022-09-05,500.0,"Šegeda Róbert, JUDr.",,
+18,2022-08-31,6.0,,Odpustenie vedenie konta,9
+19,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+20,2022-08-26,-39.75,Platba kartou,FACEBK 6WBXZE3S fb.me/ads,****1968
+21,2022-08-22,-40.0,Platba kartou,FACEBK DJK6HEFR fb.me/ads,****1968
+22,2022-08-15,-30.0,Platba kartou,FACEBK THE79E7S fb.me/ads,****1968
+23,2022-08-08,-20.0,Platba kartou,FACEBK ZVKKEETR fb.me/ads,****1968
+24,2022-08-03,-12.0,Platba kartou,FACEBK 8BF92FXR fb.me/ads,****1968
+25,2022-08-02,-12.0,Platba kartou,FACEBK AQUSEE3S fb.me/ads,****1968
+26,2022-08-01,-9.0,Platba kartou,FACEBK N5EBCE3S fb.me/ads,****1968
+27,2022-08-01,-9.0,Platba kartou,FACEBK 7NLPWD7S fb.me/ads,****1968
+28,2022-08-01,-9.0,Platba kartou,FACEBK 8SSZVD7S fb.me/ads,****1968
+29,2022-07-29,6.0,,Odpustenie vedenie konta,9
+30,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+31,2022-06-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+32,2022-06-30,-5.0,,Vedenie účtu,9
+33,2022-06-14,200.0,"Šegeda Róbert, JUDr.",Volby 2022,

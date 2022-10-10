@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Andrej Tomiš,2022-10-07,200,EUR,dar,Bezhotovostný vklad,,
-1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,Kresťanskodemokratické hnutie,2022-09-26,650,EUR,Peňažný dar,Bezhotovostný vklad,26092022,
-3,SOVA ROMAN,2022-09-16,950,EUR,Sova Roman,Bezhotovostný vklad,,
+0,PEMA POINT PLUS s.r.o.,2022-10-10,-300,EUR,0221010091850.029324,Okamžitá platba (EB),202200180,
+1,Andrej Tomiš,2022-10-07,200,EUR,dar,Bezhotovostný vklad,,
+2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,Kresťanskodemokratické hnutie,2022-09-26,650,EUR,Peňažný dar,Bezhotovostný vklad,26092022,
+4,SOVA ROMAN,2022-09-16,950,EUR,Sova Roman,Bezhotovostný vklad,,

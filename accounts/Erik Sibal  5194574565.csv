@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Abkals s.r.o.,2022-09-14,-240,EUR,Vylep reklamy Mocarany,Platobný príkaz na úhradu / FIT 2.0 (EB),220364,
-2,Rujak Peter,2022-09-12,500,EUR,F001120920225526874,Bezhotovostný vklad,,
-3,Sibal Erik,2022-09-08,1000,EUR,F001080920222663566,Bezhotovostný vklad,,
+0,Ing. Peter marcin B.U.M.STUDIO,2022-10-10,-800,EUR,Reklamne predmety,Platobný príkaz na úhradu / FIT 2.0 (EB),220014,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Abkals s.r.o.,2022-09-14,-240,EUR,Vylep reklamy Mocarany,Platobný príkaz na úhradu / FIT 2.0 (EB),220364,
+3,Rujak Peter,2022-09-12,500,EUR,F001120920225526874,Bezhotovostný vklad,,
+4,Sibal Erik,2022-09-08,1000,EUR,F001080920222663566,Bezhotovostný vklad,,

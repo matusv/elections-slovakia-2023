@@ -1,18 +1,21 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-08,-126.0,Transakcia kartou,,"Nákup: Mestske kulturne stred,  MIEROVE NAM. 942/3, GALANTA, 92401, SVK, dne 7.10.2022, částka  126.00 EUR",,3661,,"Nákup: Mestske kulturne stred,  MIEROVE NAM. 942/3, GALANTA, 92401, SVK, dne 7.10.2022, částka  126.00 EUR"
-1,2022-09-30,-444.0,Bezhotovostná platba,,Reklamne plochy Kolek,,30092022,,prenajom reklamnych ploch
-2,2022-09-29,-93.6,Bezhotovostná platba,,Prezent na marketingovy ucel,,29092022,,Prezent na marketingovy ucel
-3,2022-09-27,444.0,Bezhotovostný príjem,PATOCS LADISLAV,,,,,PATOCS LADISLAV
-4,2022-09-24,-10.6,Transakcia kartou,,"Nákup: DNESSCARKEY -WP PLUGIN,  17224 S. FigueroaStreet #A5744, GARDENA, 90248, USA, dne 23.9.2022, částka  9.99 USD",,3661,,"Nákup: DNESSCARKEY -WP PLUGIN,  17224 S. FigueroaStreet #A5744, GARDENA, 90248, USA, dne 23.9.2022, částka  9.99 USD"
-5,2022-09-21,-619.2,Bezhotovostná platba,,Uhrada faktury 20220224,,20220224,,Infomax
-6,2022-09-21,-350.0,Bezhotovostná platba,,platba grafika,,22016,,graficke prace propagacie
-7,2022-09-20,200.0,Bezhotovostný príjem,DOSTAV - strešné okn,"/DO2022-09-19/SPDOSTAV - stresne okna, s.r.o.,",,,,DOSTAV - strešné okn
-8,2022-09-19,620.0,Bezhotovostný príjem,Tomáš Horváth,/DO2022-09-16/SP Kolek Peter - nezavisly kandidat na primatora mesta Galanta rok 2022,0558,16092022,,Tomáš Horváth
-9,2022-09-16,-80.0,Bezhotovostná platba,,prenajom priestoru ku kampani,,16092022,,prenajom priestoru ku kampani
-10,2022-09-09,-1340.0,Bezhotovostná platba,,,,20220902,,platba propagácia
-11,2022-09-05,100.0,Bezhotovostný príjem,PAPANEK JAN,/DO2022-09-02/SPDar od Jan Papanek,,02092022,,PAPANEK JAN
-12,2022-09-02,300.0,Bezhotovostný príjem,Šesták Bohuš,/DO2022-08-31/SP,,,,Šesták Bohuš
-13,2022-08-24,50.0,Bezhotovostný príjem,"Hauko Peter, Bc.",/DO2022-08-23/SP,,,,"Hauko Peter, Bc."
-14,2022-08-24,120.0,Bezhotovostný príjem,KLEMENT ADRIAN,Ing.Adrian Klement,,,,KLEMENT ADRIAN
-15,2022-08-04,5000.0,Bezhotovostný príjem,AGROREAL,Agroreal spol s r.o.,0308,03082022,,AGROREAL
-16,2022-05-05,10.0,Vklad v hotovosti,založenie transparentného účtu,,0558,,,založenie transparentného účtu
+0,2022-10-10,-320.0,Bezhotovostná platba,,"Spravodajska a prekladatelska cinno
+st",,10102022,,Preklady textov HU
+1,2022-10-10,-33.6,Bezhotovostná platba,,Tlac plagatov,0308,20220150,,Tlač plagatov
+2,2022-10-08,-126.0,Transakcia kartou,,"Nákup: Mestske kulturne stred,  MIEROVE NAM. 942/3, GALANTA, 92401, SVK, dne 7.10.2022, částka  126.00 EUR",,3661,,"Nákup: Mestske kulturne stred,  MIEROVE NAM. 942/3, GALANTA, 92401, SVK, dne 7.10.2022, částka  126.00 EUR"
+3,2022-09-30,-444.0,Bezhotovostná platba,,Reklamne plochy Kolek,,30092022,,prenajom reklamnych ploch
+4,2022-09-29,-93.6,Bezhotovostná platba,,Prezent na marketingovy ucel,,29092022,,Prezent na marketingovy ucel
+5,2022-09-27,444.0,Bezhotovostný príjem,PATOCS LADISLAV,,,,,PATOCS LADISLAV
+6,2022-09-24,-10.6,Transakcia kartou,,"Nákup: DNESSCARKEY -WP PLUGIN,  17224 S. FigueroaStreet #A5744, GARDENA, 90248, USA, dne 23.9.2022, částka  9.99 USD",,3661,,"Nákup: DNESSCARKEY -WP PLUGIN,  17224 S. FigueroaStreet #A5744, GARDENA, 90248, USA, dne 23.9.2022, částka  9.99 USD"
+7,2022-09-21,-619.2,Bezhotovostná platba,,Uhrada faktury 20220224,,20220224,,Infomax
+8,2022-09-21,-350.0,Bezhotovostná platba,,platba grafika,,22016,,graficke prace propagacie
+9,2022-09-20,200.0,Bezhotovostný príjem,DOSTAV - strešné okn,"/DO2022-09-19/SPDOSTAV - stresne okna, s.r.o.,",,,,DOSTAV - strešné okn
+10,2022-09-19,620.0,Bezhotovostný príjem,Tomáš Horváth,/DO2022-09-16/SP Kolek Peter - nezavisly kandidat na primatora mesta Galanta rok 2022,0558,16092022,,Tomáš Horváth
+11,2022-09-16,-80.0,Bezhotovostná platba,,prenajom priestoru ku kampani,,16092022,,prenajom priestoru ku kampani
+12,2022-09-09,-1340.0,Bezhotovostná platba,,,,20220902,,platba propagácia
+13,2022-09-05,100.0,Bezhotovostný príjem,PAPANEK JAN,/DO2022-09-02/SPDar od Jan Papanek,,02092022,,PAPANEK JAN
+14,2022-09-02,300.0,Bezhotovostný príjem,Šesták Bohuš,/DO2022-08-31/SP,,,,Šesták Bohuš
+15,2022-08-24,50.0,Bezhotovostný príjem,"Hauko Peter, Bc.",/DO2022-08-23/SP,,,,"Hauko Peter, Bc."
+16,2022-08-24,120.0,Bezhotovostný príjem,KLEMENT ADRIAN,Ing.Adrian Klement,,,,KLEMENT ADRIAN
+17,2022-08-04,5000.0,Bezhotovostný príjem,AGROREAL,Agroreal spol s r.o.,0308,03082022,,AGROREAL
+18,2022-05-05,10.0,Vklad v hotovosti,založenie transparentného účtu,,0558,,,založenie transparentného účtu
