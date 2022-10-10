@@ -77,8 +77,8 @@ index,index,date,amount,account_name,message,vs,name
 75,973,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
 76,593,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
 77,643,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
-78,13,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-79,103,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+78,14,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+79,104,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 80,35,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
 81,30,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
 82,30,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
@@ -103,7 +103,7 @@ index,index,date,amount,account_name,message,vs,name
 101,973,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Matúš Vallo
 102,593,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Matúš Vallo
 103,643,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Matúš Vallo
-104,20,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
-105,64,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
+104,22,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
+105,66,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
 106,111,2021-11-16,-501.0,PREVOD Z KRED. KARTY,vrátenie platby z dôvodunedostatočnej identifikácie darcu,,Michal Djordjevič
 107,112,2021-11-15,501.0,PREVOD Z KRED. KARTY,Pre najlepsieho kandidata!,,Michal Djordjevič
