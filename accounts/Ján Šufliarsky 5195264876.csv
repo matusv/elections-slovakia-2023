@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Ing. JAN SUFLIARSKY,2022-10-07,2500.0,EUR,Jan Sufliarsky,Bezhotovostný vklad,,
+1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,,2022-09-30,-0.6,EUR,Poplatok za vedenie účtu,Poplatok,,
