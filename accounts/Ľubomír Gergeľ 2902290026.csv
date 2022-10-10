@@ -1,10 +1,11 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-05,480.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad,,,,Ľubomír Gergeľ - vklad
-1,2022-10-04,-140.0,Bezhotovostná platba,,"Lubomir Gergel kandidat na primator
+0,2022-10-10,-120.0,Transakcia kartou,,"Nákup: FACEBK *N3VVZFXT32, fb.me/ads, IE, dne 9.10.2022, částka  120.00 EUR",,5874,,"Nákup: FACEBK *N3VVZFXT32, fb.me/ads, IE, dne 9.10.2022, částka  120.00 EUR"
+1,2022-10-05,480.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad,,,,Ľubomír Gergeľ - vklad
+2,2022-10-04,-140.0,Bezhotovostná platba,,"Lubomir Gergel kandidat na primator
 a Humenneho - reklama na FB",,20220113,,PhDr. Ján Sliacky - marketingové poradenstvo
-2,2022-10-04,20.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad,,,,Ľubomír Gergeľ - vklad
-3,2022-10-03,17.93,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad,,,,Ľubomír Gergeľ - vklad
-4,2022-09-29,-84.0,Transakcia kartou,,"Nákup: FACEBK *4H8MQFXT32, fb.me/ads, IE, dne 28.9.2022, částka  84.00 EUR",,5874,,"Nákup: FACEBK *4H8MQFXT32, fb.me/ads, IE, dne 28.9.2022, částka  84.00 EUR"
-5,2022-09-28,89.57,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",vklad,,,,Ľubomír Gergeľ - vklad
-6,2022-09-27,-3.5,Transakcia kartou,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR",,5874,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR"
-7,2022-09-06,100.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad.,,,,Ľubomír Gergeľ - vklad.
+3,2022-10-04,20.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad,,,,Ľubomír Gergeľ - vklad
+4,2022-10-03,17.93,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad,,,,Ľubomír Gergeľ - vklad
+5,2022-09-29,-84.0,Transakcia kartou,,"Nákup: FACEBK *4H8MQFXT32, fb.me/ads, IE, dne 28.9.2022, částka  84.00 EUR",,5874,,"Nákup: FACEBK *4H8MQFXT32, fb.me/ads, IE, dne 28.9.2022, částka  84.00 EUR"
+6,2022-09-28,89.57,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",vklad,,,,Ľubomír Gergeľ - vklad
+7,2022-09-27,-3.5,Transakcia kartou,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR",,5874,,"Nákup: TEDI, SV, KOMENSKEHO, SNINA, SK, dne 26.9.2022, částka  3.50 EUR"
+8,2022-09-06,100.0,Platba prevodom v rámci banky,"Gergeľ, Ľubomír",Ľubomír Gergeľ - vklad.,,,,Ľubomír Gergeľ - vklad.
