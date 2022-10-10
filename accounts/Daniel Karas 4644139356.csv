@@ -1,26 +1,27 @@
 index,date,amount,account_name,message,vs
-0,2022-10-09,-20.0,Platba kartou,Platba kartou u obchodníka,****2346
-1,2022-10-08,-9.0,Platba kartou,Platba kartou u obchodníka,****2346
+0,2022-10-10,-30.0,Platba kartou,Platba kartou u obchodníka,****2346
+1,2022-10-09,-20.0,Platba kartou,Platba kartou u obchodníka,****2346
 2,2022-10-08,-12.0,Platba kartou,Platba kartou u obchodníka,****2346
-3,2022-10-07,-2.0,Platba kartou,Platba kartou u obchodníka,****2346
-4,2022-10-07,-6.0,Platba kartou,Platba kartou u obchodníka,****2346
-5,2022-10-07,-2.0,Platba kartou,Platba kartou u obchodníka,****2346
-6,2022-10-07,-4.0,Platba kartou,Platba kartou u obchodníka,****2346
-7,2022-10-07,-2.0,Platba kartou,Platba kartou u obchodníka,****2346
-8,2022-10-06,-1.5,Platba kartou,Platba kartou u obchodníka,****2346
+3,2022-10-08,-9.0,Platba kartou,Platba kartou u obchodníka,****2346
+4,2022-10-07,-2.0,Platba kartou,Platba kartou u obchodníka,****2346
+5,2022-10-07,-4.0,Platba kartou,Platba kartou u obchodníka,****2346
+6,2022-10-07,-2.0,Platba kartou,Platba kartou u obchodníka,****2346
+7,2022-10-07,-6.0,Platba kartou,Platba kartou u obchodníka,****2346
+8,2022-10-07,-2.0,Platba kartou,Platba kartou u obchodníka,****2346
 9,2022-10-06,-1.5,Platba kartou,Platba kartou u obchodníka,****2346
 10,2022-10-06,-1.5,Platba kartou,Platba kartou u obchodníka,****2346
-11,2022-10-06,-0.1,,Popl. Zobr. zostatku cez ATM VUB,2346
-12,2022-10-05,-480.0,,,2233102122
-13,2022-10-05,-270.0,,,2203029
-14,2022-10-05,1400.0,Daniel Karas,,
-15,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-16,2022-09-20,-312.0,,,2235110385
-17,2022-09-20,-792.0,,,2235110517
-18,2022-09-16,1000.0,Zbortek Richard,,
-19,2022-09-12,-657.6,,/DO2022-09-12/SP,20220190
-20,2022-09-12,-240.0,,/DO2022-09-12/SP,1020220007
-21,2022-09-12,-432.0,,,2800000138
-22,2022-09-12,1500.0,Daniel Karas,,
-23,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-24,2022-08-31,-5.0,,Vedenie účtu,9
+11,2022-10-06,-1.5,Platba kartou,Platba kartou u obchodníka,****2346
+12,2022-10-06,-0.1,,Popl. Zobr. zostatku cez ATM VUB,2346
+13,2022-10-05,-480.0,,,2233102122
+14,2022-10-05,-270.0,,,2203029
+15,2022-10-05,1400.0,Daniel Karas,,
+16,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+17,2022-09-20,-312.0,,,2235110385
+18,2022-09-20,-792.0,,,2235110517
+19,2022-09-16,1000.0,Zbortek Richard,,
+20,2022-09-12,-657.6,,/DO2022-09-12/SP,20220190
+21,2022-09-12,-240.0,,/DO2022-09-12/SP,1020220007
+22,2022-09-12,-432.0,,,2800000138
+23,2022-09-12,1500.0,Daniel Karas,,
+24,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+25,2022-08-31,-5.0,,Vedenie účtu,9
