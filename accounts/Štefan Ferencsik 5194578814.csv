@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,BAJAK VOJTECH,2022-09-23,3000,EUR,23554215,Bezhotovostný vklad,,
-2,Stefan Ferencsik,2022-09-13,1000,EUR,A Revolutrol kuldve,Bezhotovostný vklad - okamžitá platba,,
-3,FERENCSIK STEFAN,2022-09-09,1000,EUR,23436050,Bezhotovostný vklad,,
+0,TSV Papier,2022-10-11,-464.24,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,BAJAK VOJTECH,2022-09-23,3000.0,EUR,23554215,Bezhotovostný vklad,,
+3,Stefan Ferencsik,2022-09-13,1000.0,EUR,A Revolutrol kuldve,Bezhotovostný vklad - okamžitá platba,,
+4,FERENCSIK STEFAN,2022-09-09,1000.0,EUR,23436050,Bezhotovostný vklad,,

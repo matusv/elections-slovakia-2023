@@ -1,9 +1,11 @@
 index,date,amount,account_name,message,vs
-0,2022-10-05,1000.0,POF SYSTEM S.R.O.,,
-1,2022-10-05,500.0,Eva Podmajerská,,
-2,2022-09-30,6.0,,Odpustenie vedenie konta,9
-3,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-08-31,6.0,,Odpustenie vedenie konta,9
-5,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-6,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-7,2022-07-29,-5.0,,Vedenie účtu,9
+0,2022-10-11,-144.0,"JO-KO SERVIS, s.r.o.",Tlac bilboardu,3032022
+1,2022-10-11,-540.0,Ladislav Nogacek,Marketing,2022004
+2,2022-10-05,1000.0,POF SYSTEM S.R.O.,,
+3,2022-10-05,500.0,Eva Podmajerská,,
+4,2022-09-30,6.0,,Odpustenie vedenie konta,9
+5,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+6,2022-08-31,6.0,,Odpustenie vedenie konta,9
+7,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+8,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+9,2022-07-29,-5.0,,Vedenie účtu,9

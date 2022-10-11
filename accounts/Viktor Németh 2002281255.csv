@@ -1,32 +1,36 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-10,-40.0,Bezhotovostná platba,,"Zaloha prenajmu priestoru - 24.10.2
+0,2022-10-11,-504.0,Bezhotovostná platba,,"Inzercia Petit Press a.s. - Nase Vr
+able - 14.10.2022",0308,2233102179,,Inzercia Petit Press a.s. - Naše Vráble - 14.10.2022
+1,2022-10-11,600.0,Bezhotovostný príjem,Michal Mudrák,/DO2022-10-10/SPMichal Mudrak,,,,Michal Mudrák
+2,2022-10-11,500.0,Bezhotovostný príjem,NEMETH VIKTOR,/DO2022-10-10/SPVolebna kampan 2022,,,,NEMETH VIKTOR
+3,2022-10-10,-40.0,Bezhotovostná platba,,"Zaloha prenajmu priestoru - 24.10.2
 022 - KD Dycka - Mesto Vrable",,1912210775,,Záloha prenájmu priestoru - 24.10.2022 - KD Dyčka - Mesto Vráble
-1,2022-10-10,-54.0,Bezhotovostná platba,,"Zaloha prenajmu priestoru - 26.10.2
+4,2022-10-10,-54.0,Bezhotovostná platba,,"Zaloha prenajmu priestoru - 26.10.2
 022 - KD Horny Ohaj - Mesto Vrable",,1912210776,,Záloha prenájmu priestoru - 26.10.2022 - KD Horný Ohaj - Mesto Vráble
-2,2022-10-10,-144.0,Bezhotovostná platba,,"Prenajom techniky - PIXEL PLUS SK s
+5,2022-10-10,-144.0,Bezhotovostná platba,,"Prenajom techniky - PIXEL PLUS SK s
 .r.o.",0308,20220955,,Prenájom techniky - PIXEL PLUS SK s.r.o.
-3,2022-10-10,10.0,Bezhotovostný príjem,Sladecek Ivan,/DO2022-10-09/SPDrzime palce,,,,Sladecek Ivan
-4,2022-10-10,10.0,Bezhotovostný príjem,Mihalík Vladimír,/DO2022-10-09/SP,,,,Mihalík Vladimír
-5,2022-10-06,100.0,Bezhotovostný príjem,Karolína Luleyová,/DO2022-10-05/SPViktor Nemeth,,051022,,Karolína Luleyová
-6,2022-10-05,-665.92,Bezhotovostná platba,,"Tlac volebnych novin I. - KT spol.s
+6,2022-10-10,10.0,Bezhotovostný príjem,Sladecek Ivan,/DO2022-10-09/SPDrzime palce,,,,Sladecek Ivan
+7,2022-10-10,10.0,Bezhotovostný príjem,Mihalík Vladimír,/DO2022-10-09/SP,,,,Mihalík Vladimír
+8,2022-10-06,100.0,Bezhotovostný príjem,Karolína Luleyová,/DO2022-10-05/SPViktor Nemeth,,051022,,Karolína Luleyová
+9,2022-10-05,-665.92,Bezhotovostná platba,,"Tlac volebnych novin I. - KT spol.s
  r.o.",0008,2121000903,,Tlač volebných novín I. - KT spol. s r.o.
-7,2022-10-04,50.0,Bezhotovostný príjem,LADANYI MARIO,/DO2022-10-03/SP,,,,LADANYI MARIO
-8,2022-10-04,200.0,Bezhotovostný príjem,Tibor Lieskovský,/DO2022-10-03/SPNech sa vymanime zo stagnacie,,,,Tibor Lieskovský
-9,2022-09-30,100.0,Bezhotovostný príjem,Oravec Roman,/DO2022-09-29/SPDrzim palce Viktor! Zmena primatora je vo Vrabloch viac ako potrebna.,,,,Oravec Roman
-10,2022-09-29,200.0,Bezhotovostný príjem,MGR. PETER MIKLOSSY,/DO2022-09-28/SP,,,,MGR. PETER MIKLOSSY
-11,2022-09-29,20.0,Bezhotovostný príjem,Miroslav Kováč,/DO2022-09-28/SP,,,,Miroslav Kováč
-12,2022-09-28,100.0,Bezhotovostný príjem,Karin Buday,/DO2022-09-27/SP Karin Buday,,,,Karin Buday
-13,2022-09-27,-504.0,Bezhotovostná platba,,"Inzercia Nase Vrable - 30.09.2022 -
+10,2022-10-04,50.0,Bezhotovostný príjem,LADANYI MARIO,/DO2022-10-03/SP,,,,LADANYI MARIO
+11,2022-10-04,200.0,Bezhotovostný príjem,Tibor Lieskovský,/DO2022-10-03/SPNech sa vymanime zo stagnacie,,,,Tibor Lieskovský
+12,2022-09-30,100.0,Bezhotovostný príjem,Oravec Roman,/DO2022-09-29/SPDrzim palce Viktor! Zmena primatora je vo Vrabloch viac ako potrebna.,,,,Oravec Roman
+13,2022-09-29,200.0,Bezhotovostný príjem,MGR. PETER MIKLOSSY,/DO2022-09-28/SP,,,,MGR. PETER MIKLOSSY
+14,2022-09-29,20.0,Bezhotovostný príjem,Miroslav Kováč,/DO2022-09-28/SP,,,,Miroslav Kováč
+15,2022-09-28,100.0,Bezhotovostný príjem,Karin Buday,/DO2022-09-27/SP Karin Buday,,,,Karin Buday
+16,2022-09-27,-504.0,Bezhotovostná platba,,"Inzercia Nase Vrable - 30.09.2022 -
  Viktor Nemeth",0308,2233102042,,Inzercia Petit Press a.s. - Naše Vráble - 30.09.2022
-14,2022-09-27,100.0,Bezhotovostný príjem,Michal Mudrák,/DO2022-09-27/SPMichal Mudrak,,,,Michal Mudrák
-15,2022-09-26,20.0,Bezhotovostný príjem,LADANYIOVA KLAUDIA,/DO2022-09-23/SP,,,,LADANYIOVA KLAUDIA
-16,2022-09-22,-9.0,Transakcia kartou,,"Nákup: FACEBK PCBCXHFBH2, fb.me/ads, IE, dne 21.9.2022, částka  9.00 EUR",,3421,,"Nákup: Inzercia META Platforms - FACEBK PCBCXHFBH2, fb.me/ads, IE, dne 21.9.2022, částka  9.00 EUR"
-17,2022-09-20,20.0,Bezhotovostný príjem,Kudrnová Lenka,/DO2022-09-19/SP,,,,Kudrnová Lenka
-18,2022-09-20,30.0,Bezhotovostný príjem,RAPAVY PETER,/DO2022-09-19/SPnajvyssi cas na zmenu Viktor je zmena k lepsiemu,,,,RAPAVY PETER
-19,2022-09-20,100.0,Bezhotovostný príjem,Tomáš Goda,/DO2022-09-19/SPDrzim palce,,,,Tomáš Goda
-20,2022-09-19,5.0,Bezhotovostný príjem,KUBOVICOVA NIKOLA,/DO2022-09-18/SP,,,,KUBOVICOVA NIKOLA
-21,2022-09-19,50.0,Bezhotovostný príjem,LUKAS KOVACIK,/DO2022-09-19/SPDRZIM PALCE,,,,LUKAS KOVACIK
-22,2022-09-19,20.0,Bezhotovostný príjem,Monika Mališková,/DO2022-09-19/SP Viktor je zmena k lepsiemu,,,,Monika Mališková
-23,2022-09-18,20.0,Platba prevodom v rámci banky,"Baláž, Marek",,,,,Marek Baláž
-24,2022-09-16,400.0,Bezhotovostný príjem,NEMETH VIKTOR,/DO2022-09-14/SPVolebna kampan 2022,,,,NEMETH VIKTOR
-25,2022-08-16,100.0,Platba prevodom v rámci banky,"Fio banka, a. s., pobočka zahraničnej banky",Preúčtovanie aktivačnej platby došlej z účtu: SK497500000000401833/7500,,,,Preúčtovanie aktivačnej platby došlej z účtu: SK497500000000401833/7500
+17,2022-09-27,100.0,Bezhotovostný príjem,Michal Mudrák,/DO2022-09-27/SPMichal Mudrak,,,,Michal Mudrák
+18,2022-09-26,20.0,Bezhotovostný príjem,LADANYIOVA KLAUDIA,/DO2022-09-23/SP,,,,LADANYIOVA KLAUDIA
+19,2022-09-22,-9.0,Transakcia kartou,,"Nákup: FACEBK PCBCXHFBH2, fb.me/ads, IE, dne 21.9.2022, částka  9.00 EUR",,3421,,"Nákup: Inzercia META Platforms - FACEBK PCBCXHFBH2, fb.me/ads, IE, dne 21.9.2022, částka  9.00 EUR"
+20,2022-09-20,20.0,Bezhotovostný príjem,Kudrnová Lenka,/DO2022-09-19/SP,,,,Kudrnová Lenka
+21,2022-09-20,30.0,Bezhotovostný príjem,RAPAVY PETER,/DO2022-09-19/SPnajvyssi cas na zmenu Viktor je zmena k lepsiemu,,,,RAPAVY PETER
+22,2022-09-20,100.0,Bezhotovostný príjem,Tomáš Goda,/DO2022-09-19/SPDrzim palce,,,,Tomáš Goda
+23,2022-09-19,5.0,Bezhotovostný príjem,KUBOVICOVA NIKOLA,/DO2022-09-18/SP,,,,KUBOVICOVA NIKOLA
+24,2022-09-19,50.0,Bezhotovostný príjem,LUKAS KOVACIK,/DO2022-09-19/SPDRZIM PALCE,,,,LUKAS KOVACIK
+25,2022-09-19,20.0,Bezhotovostný príjem,Monika Mališková,/DO2022-09-19/SP Viktor je zmena k lepsiemu,,,,Monika Mališková
+26,2022-09-18,20.0,Platba prevodom v rámci banky,"Baláž, Marek",,,,,Marek Baláž
+27,2022-09-16,400.0,Bezhotovostný príjem,NEMETH VIKTOR,/DO2022-09-14/SPVolebna kampan 2022,,,,NEMETH VIKTOR
+28,2022-08-16,100.0,Platba prevodom v rámci banky,"Fio banka, a. s., pobočka zahraničnej banky",Preúčtovanie aktivačnej platby došlej z účtu: SK497500000000401833/7500,,,,Preúčtovanie aktivačnej platby došlej z účtu: SK497500000000401833/7500
