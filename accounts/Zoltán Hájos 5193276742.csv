@@ -1,7 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Klikk oz,2022-10-06,-600,EUR,Zoltan Hajos,Platobný príkaz na úhradu / FIT 2.0 (EB),2022017,102022
-1,HAJOS ZOLTAN,2022-10-06,5000,EUR,Zoltan Hajos,Bezhotovostný vklad,,102022
-2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-4,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-5,HAJOS ZOLTAN,2022-07-29,1000,EUR,22985561,Bezhotovostný vklad,28072022,
+0,DUEL-PRESS s.r.o.,2022-10-11,-780,EUR,JUDr. Zoltan Hajos,Platobný príkaz na úhradu / FIT 2.0 (EB),7022201667,102022
+1,Klikk oz,2022-10-06,-600,EUR,Zoltan Hajos,Platobný príkaz na úhradu / FIT 2.0 (EB),2022017,102022
+2,HAJOS ZOLTAN,2022-10-06,5000,EUR,Zoltan Hajos,Bezhotovostný vklad,,102022
+3,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+5,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+6,HAJOS ZOLTAN,2022-07-29,1000,EUR,22985561,Bezhotovostný vklad,28072022,
