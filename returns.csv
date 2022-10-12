@@ -71,12 +71,12 @@ index,index,date,amount,account_name,message,vs,name
 69,60,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
 70,107,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
 71,112,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
-72,1051,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
-73,1052,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
-74,1030,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
-75,1040,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
-76,660,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
-77,710,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
+72,1062,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
+73,1063,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
+74,1041,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
+75,1051,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
+76,671,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
+77,721,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
 78,24,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 79,114,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 80,35,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
@@ -97,12 +97,12 @@ index,index,date,amount,account_name,message,vs,name
 95,123,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 96,27,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
 97,26,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
-98,1052,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Matúš Vallo
-99,1053,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Matúš Vallo
-100,1031,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Matúš Vallo
-101,1041,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Matúš Vallo
-102,661,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Matúš Vallo
-103,711,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Matúš Vallo
+98,1062,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Matúš Vallo
+99,1063,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Matúš Vallo
+100,1041,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Matúš Vallo
+101,1051,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Matúš Vallo
+102,671,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Matúš Vallo
+103,721,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Matúš Vallo
 104,25,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
 105,69,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
 106,114,2021-11-16,-501.0,PREVOD Z KRED. KARTY,vrátenie platby z dôvodunedostatočnej identifikácie darcu,,Michal Djordjevič
