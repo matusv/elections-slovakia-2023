@@ -1,20 +1,19 @@
 index,date,amount,account_name,message,vs
-0,2022-10-09,-17.18,Platba kartou,Platba kartou u obchodníka,****562
-1,2022-10-11,-17.18,Platba kartou,FACEBK M3W6CJ7R fb.me/ads,****562
-2,2022-10-10,-24.0,"VUB,A.S.",DDFACEBK~FNYXAKKRfb.me/ads~~~~~~P1,****562
-3,2022-10-10,-14.4,Platba kartou,FACEBK JZYEXJ3R fb.me/ads,****562
-4,2022-10-06,-14.4,Platba kartou,FACEBK J7PXLGBR fb.me/ads,****562
-5,2022-10-03,-630.0,Arpad Peczen,,
-6,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-7,2022-09-28,-420.0,,2022056,
-8,2022-09-26,1000.0,BIELIK HAJDAMAROVA E,,
-9,2022-09-26,-100.0,,,
-10,2022-09-26,-236.0,,FA2200113,
-11,2022-09-20,-10.8,Platba kartou,FACEBK KQUZSHTQ fb.me/ads,****562
-12,2022-09-19,-10.8,"VUB,A.S.",DDFACEBK~HRSHRH7Rfb.me/ads~~~~~~P1,****562
-13,2022-09-16,-192.0,,22038,
-14,2022-09-13,-10.8,Platba kartou,FACEBK XYHJ5HKQ fb.me/ads,****562
-15,2022-09-09,-450.0,,FA2022010,
-16,2022-09-08,3000.0,BIELIK HAJDAMAROVA E,,
-17,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-18,2022-08-31,-5.0,,Vedenie účtu,9
+0,2022-10-11,-17.18,Platba kartou,FACEBK M3W6CJ7R fb.me/ads,****562
+1,2022-10-10,-24.0,"VUB,A.S.",DDFACEBK~FNYXAKKRfb.me/ads~~~~~~P1,****562
+2,2022-10-10,-14.4,Platba kartou,FACEBK JZYEXJ3R fb.me/ads,****562
+3,2022-10-06,-14.4,Platba kartou,FACEBK J7PXLGBR fb.me/ads,****562
+4,2022-10-03,-630.0,Arpad Peczen,,
+5,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+6,2022-09-28,-420.0,,2022056,
+7,2022-09-26,1000.0,BIELIK HAJDAMAROVA E,,
+8,2022-09-26,-100.0,,,
+9,2022-09-26,-236.0,,FA2200113,
+10,2022-09-20,-10.8,Platba kartou,FACEBK KQUZSHTQ fb.me/ads,****562
+11,2022-09-19,-10.8,"VUB,A.S.",DDFACEBK~HRSHRH7Rfb.me/ads~~~~~~P1,****562
+12,2022-09-16,-192.0,,22038,
+13,2022-09-13,-10.8,Platba kartou,FACEBK XYHJ5HKQ fb.me/ads,****562
+14,2022-09-09,-450.0,,FA2022010,
+15,2022-09-08,3000.0,BIELIK HAJDAMAROVA E,,
+16,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+17,2022-08-31,-5.0,,Vedenie účtu,9

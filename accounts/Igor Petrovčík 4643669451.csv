@@ -1,55 +1,53 @@
 index,date,amount,account_name,message,vs
 0,2022-10-10,-84.0,Platba kartou,Platba kartou u obchodníka,****3666
-1,2022-10-08,-50.0,Platba kartou,Platba kartou u obchodníka,****3666
-2,2022-10-07,-48.0,Platba kartou,Platba kartou u obchodníka,****3666
-3,2022-10-11,-50.0,Platba kartou,GOOGLE *ADS2644 cc@google.,****3666
-4,2022-10-11,-48.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-5,2022-10-11,1000.0,IGOR PETROVCIK,IGOR PETROVCIK,1
-6,2022-10-10,-112.74,Platba kartou,Metro Kosice Kosice 12:56,****3666
-7,2022-10-10,-48.0,"VUB,A.S.",DDPAYPAL~*FACEBOO3531436900~~~~~P1,****3666
-8,2022-10-10,-36.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-9,2022-10-10,250.0,Peter Havasi,Havasi,1
-10,2022-10-06,-24.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-11,2022-10-06,-14.4,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-12,2022-10-06,1500.0,IGOR PETROVCIK,IGOR PETROVCIK,1
-13,2022-10-06,-36.0,Slov.syndikat nov.,Igor Petrovcik,2232079
-14,2022-10-06,-315.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080004
-15,2022-10-05,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-16,2022-10-05,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-17,2022-10-05,-156.0,Uniposter,Igor Petrovcik,220276
-18,2022-10-04,-38.98,Platba kartou,GOOGLE *ADS2644 cc@google.,****3666
-19,2022-10-04,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-20,2022-10-04,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
-21,2022-10-03,-339.34,"VUB,A.S.",DDMetro~Kosice~~~Kosice~~~~11:10P1,****3666
-22,2022-10-03,-11.03,"VUB,A.S.",DDMetro~Kosice~~~Kosice~~~~11:26P1,****3666
-23,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-24,2022-09-30,-2.69,Platba kartou,LABAS SRO VELKO KOSICE,****3666
-25,2022-09-30,-40.0,,Igor Petrovcik,3451220449
-26,2022-09-29,100.0,Marcel Takáč,Drzime prsty,
-27,2022-09-19,100.0,"Murková Beáta, Ing.",Murkova Beata,
-28,2022-09-19,150.0,"Murková Beáta, Ing.",Murkova Beata,
-29,2022-09-16,250.0,REITZNER HENRICH,Henrich Reitzner,1
-30,2022-09-16,100.0,Rastislav Makula,Ing.Igor Petrovcik podpora kandidatury na starostu MC Kosice-Stare Mesto,
-31,2022-09-16,250.0,CECH UMELECKÝCH KOVÁČOV A KOVÁČOV SLOVENSKA,Vladimir Eperjesi,
-32,2022-09-16,250.0,Andrej Durica,ANDREJ DURICA,1
-33,2022-09-12,250.0,Kudernáč Matej,Matej Kudernac,1
-34,2022-09-12,250.0,Zoltán Hanesz,Zoltan Hanesz,1
-35,2022-09-12,400.0,IGOR PETROVCIK,IGOR PETROVCIK,1
-36,2022-09-12,250.0,IGOR PETROVCIK,MAGDALENA GALDUNOVA,1
-37,2022-09-12,-22.82,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080002
-38,2022-09-12,-250.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080001
-39,2022-09-12,-150.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080003
-40,2022-09-12,-432.0,,Volby Petrovcik,122290143
-41,2022-09-12,-200.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080001
-42,2022-09-12,250.0,"Brziaková Miriam, Ing.",Miriam Brziakova,1
-43,2022-09-12,250.0,"Morvay Ladislav, MUDr.",Ladislav Morvay,1
-44,2022-09-12,-100.0,Fire Media s.r.o.,Igor Petrovcik uhr.Fa,20220020
-45,2022-09-08,250.0,Marian Gaj,Marian gaj,1
-46,2022-09-08,250.0,Monika Rozsivalova,Monika Rozsivalova,1
-47,2022-09-07,3000.0,"BRIDGE - EU, s.r.o.",Bridge-eu s.r.o.,36589519
-48,2022-09-05,250.0,IGOR PETROVCIK,PREVOD PROSTRIEDKOV,1
-49,2022-08-31,5.22,,Odpust.-popl.za platby a ved.úč/ko,9
-50,2022-08-31,-0.22,,Poplatky za platby spolu,9
-51,2022-08-31,-5.0,,Vedenie účtu,9
-52,2022-08-24,-165.6,RENGL,Igor Petrovcik,1014203
-53,2022-08-24,200.0,IGOR PETROVCIK,PREVOD PROSTRIEDKOV,1
+1,2022-10-11,-50.0,Platba kartou,GOOGLE *ADS2644 cc@google.,****3666
+2,2022-10-11,-48.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+3,2022-10-11,1000.0,IGOR PETROVCIK,IGOR PETROVCIK,1
+4,2022-10-10,-112.74,Platba kartou,Metro Kosice Kosice 12:56,****3666
+5,2022-10-10,-48.0,"VUB,A.S.",DDPAYPAL~*FACEBOO3531436900~~~~~P1,****3666
+6,2022-10-10,-36.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+7,2022-10-10,250.0,Peter Havasi,Havasi,1
+8,2022-10-06,-24.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+9,2022-10-06,-14.4,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+10,2022-10-06,1500.0,IGOR PETROVCIK,IGOR PETROVCIK,1
+11,2022-10-06,-36.0,Slov.syndikat nov.,Igor Petrovcik,2232079
+12,2022-10-06,-315.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080004
+13,2022-10-05,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+14,2022-10-05,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+15,2022-10-05,-156.0,Uniposter,Igor Petrovcik,220276
+16,2022-10-04,-38.98,Platba kartou,GOOGLE *ADS2644 cc@google.,****3666
+17,2022-10-04,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+18,2022-10-04,-10.8,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+19,2022-10-03,-339.34,"VUB,A.S.",DDMetro~Kosice~~~Kosice~~~~11:10P1,****3666
+20,2022-10-03,-11.03,"VUB,A.S.",DDMetro~Kosice~~~Kosice~~~~11:26P1,****3666
+21,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+22,2022-09-30,-2.69,Platba kartou,LABAS SRO VELKO KOSICE,****3666
+23,2022-09-30,-40.0,,Igor Petrovcik,3451220449
+24,2022-09-29,100.0,Marcel Takáč,Drzime prsty,
+25,2022-09-19,100.0,"Murková Beáta, Ing.",Murkova Beata,
+26,2022-09-19,150.0,"Murková Beáta, Ing.",Murkova Beata,
+27,2022-09-16,250.0,REITZNER HENRICH,Henrich Reitzner,1
+28,2022-09-16,100.0,Rastislav Makula,Ing.Igor Petrovcik podpora kandidatury na starostu MC Kosice-Stare Mesto,
+29,2022-09-16,250.0,CECH UMELECKÝCH KOVÁČOV A KOVÁČOV SLOVENSKA,Vladimir Eperjesi,
+30,2022-09-16,250.0,Andrej Durica,ANDREJ DURICA,1
+31,2022-09-12,250.0,Kudernáč Matej,Matej Kudernac,1
+32,2022-09-12,250.0,Zoltán Hanesz,Zoltan Hanesz,1
+33,2022-09-12,400.0,IGOR PETROVCIK,IGOR PETROVCIK,1
+34,2022-09-12,250.0,IGOR PETROVCIK,MAGDALENA GALDUNOVA,1
+35,2022-09-12,-22.82,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080002
+36,2022-09-12,-250.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080001
+37,2022-09-12,-150.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080003
+38,2022-09-12,-432.0,,Volby Petrovcik,122290143
+39,2022-09-12,-200.0,Viktor Repasky-Repi.io,Igor Petrovcik uhr.Fa,22080001
+40,2022-09-12,250.0,"Brziaková Miriam, Ing.",Miriam Brziakova,1
+41,2022-09-12,250.0,"Morvay Ladislav, MUDr.",Ladislav Morvay,1
+42,2022-09-12,-100.0,Fire Media s.r.o.,Igor Petrovcik uhr.Fa,20220020
+43,2022-09-08,250.0,Marian Gaj,Marian gaj,1
+44,2022-09-08,250.0,Monika Rozsivalova,Monika Rozsivalova,1
+45,2022-09-07,3000.0,"BRIDGE - EU, s.r.o.",Bridge-eu s.r.o.,36589519
+46,2022-09-05,250.0,IGOR PETROVCIK,PREVOD PROSTRIEDKOV,1
+47,2022-08-31,5.22,,Odpust.-popl.za platby a ved.úč/ko,9
+48,2022-08-31,-0.22,,Poplatky za platby spolu,9
+49,2022-08-31,-5.0,,Vedenie účtu,9
+50,2022-08-24,-165.6,RENGL,Igor Petrovcik,1014203
+51,2022-08-24,200.0,IGOR PETROVCIK,PREVOD PROSTRIEDKOV,1
