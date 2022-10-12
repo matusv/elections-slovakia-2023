@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,KRIVUS MARIAN,2022-10-05,216,EUR,Na spolocnu reklamu,Bezhotovostný vklad,,
-1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,Exclusive,2022-09-24,-1000,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-3,Zacharides Branislav,2022-09-13,1200,EUR,F001130920226568077,Bezhotovostný vklad,,
+0,Valocká Zuzana,2022-10-12,216,EUR,billboardy,Bezhotovostný vklad,12102022,
+1,KRIVUS MARIAN,2022-10-05,216,EUR,Na spolocnu reklamu,Bezhotovostný vklad,,
+2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,Exclusive,2022-09-24,-1000,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+4,Zacharides Branislav,2022-09-13,1200,EUR,F001130920226568077,Bezhotovostný vklad,,

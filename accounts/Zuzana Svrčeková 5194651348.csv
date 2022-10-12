@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Svrčeková Zuzana,2022-10-06,2700.0,EUR,F001061020224000653,Bezhotovostný vklad,,
-1,HalWelding s.r.o.,2022-10-06,-300.0,EUR,fotografické služby,Platobný príkaz na úhradu / FIT 2.0 (EB),,
-2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-09-30,-4.6,EUR,Poplatok za vedenie účtu,Poplatok,,
-4,Svrčeková Zuzana,2022-09-14,3000.0,EUR,F001140920227670268,Bezhotovostný vklad,,
+0,Michálek Wiki,2022-10-12,-1674.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,Svrčeková Zuzana,2022-10-06,2700.0,EUR,F001061020224000653,Bezhotovostný vklad,,
+2,HalWelding s.r.o.,2022-10-06,-300.0,EUR,fotografické služby,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-09-30,-4.6,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,Svrčeková Zuzana,2022-09-14,3000.0,EUR,F001140920227670268,Bezhotovostný vklad,,

@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Jan Vrabel,2022-10-11,-195.6,EUR,Platba za tlač volebných letákov,Okamžitá platba (EB),2220611,0
-1,Jakub Riško,2022-10-11,200.0,EUR,Dar Zupanke,Bezhotovostný vklad - okamžitá platba,,
-2,Tabaček Milan,2022-10-10,10.0,EUR,F001101020226348610,Bezhotovostný vklad,,
-3,Maslaňák Martin,2022-10-05,200.0,EUR,Dar zupanke,Bezhotovostný vklad - okamžitá platba,,
+0,TOMAN PETER,2022-10-12,150.0,EUR,KT,Bezhotovostný vklad,,
+1,Jan Vrabel,2022-10-11,-195.6,EUR,Platba za tlač volebných letákov,Okamžitá platba (EB),2220611,0
+2,Jakub Riško,2022-10-11,200.0,EUR,Dar Zupanke,Bezhotovostný vklad - okamžitá platba,,
+3,Tabaček Milan,2022-10-10,10.0,EUR,F001101020226348610,Bezhotovostný vklad,,
+4,Maslaňák Martin,2022-10-05,200.0,EUR,Dar zupanke,Bezhotovostný vklad - okamžitá platba,,

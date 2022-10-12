@@ -1,0 +1,11 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,MARTIN MIKUS,2022-10-12,-100.0,EUR,Vratenie neželaneho daru,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,MARTIN MIKUS,2022-10-11,250.0,EUR,23701342,Bezhotovostný vklad,,
+2,Malík Tomáš,2022-10-11,250.0,EUR,Stranicke,Bezhotovostný vklad,,
+3,Valach Róbert,2022-10-11,250.0,EUR,F001111020226916748,Bezhotovostný vklad,,
+4,Bartek Roman,2022-10-10,250.0,EUR,Dar,Bezhotovostný vklad - okamžitá platba,,
+5,Maroš Gieci,2022-10-10,250.0,EUR,Maros,Bezhotovostný vklad - okamžitá platba,,
+6,Urban Marek,2022-10-10,250.0,EUR,OO22101000056695,Bezhotovostný vklad - okamžitá platba,,
+7,,2022-10-05,-2.0,EUR,Poplatok za zmenu nakladania,Poplatok,,
+8,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+9,,2022-09-30,-2.2,EUR,Poplatok za vedenie účtu,Poplatok,,

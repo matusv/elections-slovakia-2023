@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,"Čajková Gabriela,Čajka Mário",2022-10-10,1000,EUR,Čajka,Bezhotovostný vklad,,
-1,Murín Marián,2022-10-05,3000,EUR,F001051020223067952,Bezhotovostný vklad,102022,
-2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-09-30,-6,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,MARIAN BABINSKY,2022-10-12,1000,EUR,TRANSPARENTNY UCET SPONZOR,Bezhotovostný vklad,0000141062,
+1,"Čajková Gabriela,Čajka Mário",2022-10-10,1000,EUR,Čajka,Bezhotovostný vklad,,
+2,Murín Marián,2022-10-05,3000,EUR,F001051020223067952,Bezhotovostný vklad,102022,
+3,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-09-30,-6,EUR,Poplatok za vedenie účtu,Poplatok,,
