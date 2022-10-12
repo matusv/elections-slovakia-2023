@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-10-11,-10.0,EUR,"B3370527206-214544 12** **** 6894;ATM Recycler TubusTornaľa ,Tornaľa ,SK ;10.10.2022 17:48:43 ",Výber kartou,,
-1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,,2022-09-30,-5.8,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,,2022-10-12,-23.12,EUR,"B1385337734-44544 12** **** 6894;VYTNES ,RIMAVSKA SOBO ,SK ;10.10.2022 12:53:41 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-10-11,-10.0,EUR,"B3370527206-214544 12** **** 6894;ATM Recycler TubusTornaľa ,Tornaľa ,SK ;10.10.2022 17:48:43 ",Výber kartou,,
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-09-30,-5.8,EUR,Poplatok za vedenie účtu,Poplatok,,
