@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Gehry Soňa,2022-10-11,200,EUR,dar,Bezhotovostný vklad,,
-1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,Káčer Tomáš,2022-09-29,500,EUR,F001290920229216808,Bezhotovostný vklad,,
+0,Melicher Alexander,2022-10-11,100,EUR,prispevok na kampan,Bezhotovostný vklad - okamžitá platba,,
+1,Gehry Soňa,2022-10-11,200,EUR,dar,Bezhotovostný vklad,,
+2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,Káčer Tomáš,2022-09-29,500,EUR,F001290920229216808,Bezhotovostný vklad,,
