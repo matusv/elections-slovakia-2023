@@ -1,4 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,Cimbal Dusan,2022-09-30,250,EUR,DUSAN CIMBAL,Bezhotovostný vklad,,
-2,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,,2022-10-13,-27,EUR,"B1385919098-44544 12** **** 3900;OBALEX - KOSICE, S.R.O ,KOSICE ,SK ;10.10.2022 14:13:15 ;CashBack:0 EUR",Platba kartou,,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Cimbal Dusan,2022-09-30,250,EUR,DUSAN CIMBAL,Bezhotovostný vklad,,
+3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,

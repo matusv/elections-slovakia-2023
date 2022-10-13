@@ -1,10 +1,10 @@
 index,date,amount,account_name,message,vs
 0,2022-10-11,-900.0,Platba kartou,Platba kartou u obchodníka,****9638
 1,2022-10-13,174.0,"Pšenák Roman, Mgr.",Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
-2,2022-10-12,348.0,Ivan Kerita,"Ivan Kerita, Zvonarska 25, 05201 Spisska Nova Ves, DAR",
+2,2022-10-12,-74.4,DIVERSSO s.r.o.,letaky,220100454
 3,2022-10-12,-25.2,"PROGRUP SK, s.r.o.",letaky,221639
 4,2022-10-12,25.2,Marek Horansky,"Marek Horansky, Obchodna 53/28, 05315, Hrabusice - dar",
-5,2022-10-12,-74.4,DIVERSSO s.r.o.,letaky,220100454
+5,2022-10-12,348.0,Ivan Kerita,"Ivan Kerita, Zvonarska 25, 05201 Spisska Nova Ves, DAR",
 6,2022-10-12,-126.3,Ing. Amália Černajová - ČERTEX,Letaky,2022151
 7,2022-10-12,330.0,FERLEN S.R.O.,"Jozef Ferianc, Poziarnicka 6, 96901Banska Stiavnica - Dar",
 8,2022-10-12,100.0,Gánovská Michala,"Michala Ganovska, Rastislavova 18, Poprad, dar",

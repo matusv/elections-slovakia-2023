@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,GLOSER MARIAN,2022-10-04,200.0,EUR,"Marian Gloser , drzim palce",Bezhotovostný vklad,,
-1,SUSOLIK BRANISLAV,2022-10-03,1000.0,EUR,kampan,Bezhotovostný vklad,20220930,
-2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-09-30,-0.8,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,,2022-10-13,-9.0,EUR,"B1385971346-44544 12** **** 2772;FACEBK 9GUZXJFRY2 ,fb.me/ads ,IE ;11.10.2022 19:38:17 ;CashBack:0 EUR",Platba kartou,,
+1,GLOSER MARIAN,2022-10-04,200.0,EUR,"Marian Gloser , drzim palce",Bezhotovostný vklad,,
+2,SUSOLIK BRANISLAV,2022-10-03,1000.0,EUR,kampan,Bezhotovostný vklad,20220930,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-09-30,-0.8,EUR,Poplatok za vedenie účtu,Poplatok,,
