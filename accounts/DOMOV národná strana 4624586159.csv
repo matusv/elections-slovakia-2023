@@ -1,26 +1,27 @@
 index,date,amount,account_name,message,vs
 0,2022-10-12,-500.0,Platba kartou,Platba kartou u obchodníka,****419
 1,2022-10-10,-90.32,Platba kartou,Platba kartou u obchodníka,****419
-2,2022-10-13,2000.0,"RIGHT POWER, a.s.",Dar RIGHT POWER,
-3,2022-10-12,-500.0,Platba kartou,GOOGLE*ADS52914 INTERNET,****419
-4,2022-10-12,995.0,Jaroslav Pecho,volby 2022,
-5,2022-10-12,999.0,Lazar Tomáš,kampan,
-6,2022-10-07,-111.29,Platba kartou,FACEBK NNCMDFTF fb.me/ads,****419
-7,2022-10-03,-104.29,Platba kartou,FACEBK 29PVZFXE fb.me/ads,****419
-8,2022-10-03,-32.64,Platba kartou,FACEBK VNGTNHKC fb.me/ads,****419
-9,2022-09-30,11.0,,Odpustenie vedenie konta,9
-10,2022-09-30,-11.0,,Vedenie konta Transparentný účet P,9
-11,2022-09-30,-100.0,Platba kartou,FACEBK C4NGXGTC fb.me/ads,****419
-12,2022-09-22,-220.0,Platba kartou,FACEBK KSVXXE3F fb.me/ads,****419
-13,2022-09-21,-100.0,Platba kartou,FACEBK 3TDGQGTC fb.me/ads,****419
-14,2022-09-14,-400.0,Peter Gaman,Fotenie kampan 2022,20220021
-15,2022-09-09,-70.0,Platba kartou,FACEBK DTF24HKC fb.me/ads,****419
-16,2022-09-07,1000.0,Branislav Ondruška,volby2022,
-17,2022-08-31,11.0,,Odpustenie vedenie konta,9
-18,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
-19,2022-08-30,-56.43,Platba kartou,FACEBK 6BA53GFC fb.me/ads,****419
-20,2022-08-22,-40.0,Platba kartou,FACEBK JZE3FG7D fb.me/ads,****419
-21,2022-08-17,-40.0,Platba kartou,FACEBK TMSAQF3D fb.me/ads,****419
-22,2022-08-08,4000.0,DOMOV NÁRODNÁ STRANA,Spojene volby 2022,12022
-23,2022-07-29,7.0,,Odpust.-popl.za platby a ved.úč/ko,9
-24,2022-07-29,-7.0,,Vedenie účtu,9
+2,2022-10-13,985.0,Jozef Mikyška,Volby 2022,
+3,2022-10-13,2000.0,"RIGHT POWER, a.s.",Dar RIGHT POWER,
+4,2022-10-12,-500.0,Platba kartou,GOOGLE*ADS52914 INTERNET,****419
+5,2022-10-12,995.0,Jaroslav Pecho,volby 2022,
+6,2022-10-12,999.0,Lazar Tomáš,kampan,
+7,2022-10-07,-111.29,Platba kartou,FACEBK NNCMDFTF fb.me/ads,****419
+8,2022-10-03,-104.29,Platba kartou,FACEBK 29PVZFXE fb.me/ads,****419
+9,2022-10-03,-32.64,Platba kartou,FACEBK VNGTNHKC fb.me/ads,****419
+10,2022-09-30,11.0,,Odpustenie vedenie konta,9
+11,2022-09-30,-11.0,,Vedenie konta Transparentný účet P,9
+12,2022-09-30,-100.0,Platba kartou,FACEBK C4NGXGTC fb.me/ads,****419
+13,2022-09-22,-220.0,Platba kartou,FACEBK KSVXXE3F fb.me/ads,****419
+14,2022-09-21,-100.0,Platba kartou,FACEBK 3TDGQGTC fb.me/ads,****419
+15,2022-09-14,-400.0,Peter Gaman,Fotenie kampan 2022,20220021
+16,2022-09-09,-70.0,Platba kartou,FACEBK DTF24HKC fb.me/ads,****419
+17,2022-09-07,1000.0,Branislav Ondruška,volby2022,
+18,2022-08-31,11.0,,Odpustenie vedenie konta,9
+19,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
+20,2022-08-30,-56.43,Platba kartou,FACEBK 6BA53GFC fb.me/ads,****419
+21,2022-08-22,-40.0,Platba kartou,FACEBK JZE3FG7D fb.me/ads,****419
+22,2022-08-17,-40.0,Platba kartou,FACEBK TMSAQF3D fb.me/ads,****419
+23,2022-08-08,4000.0,DOMOV NÁRODNÁ STRANA,Spojene volby 2022,12022
+24,2022-07-29,7.0,,Odpust.-popl.za platby a ved.úč/ko,9
+25,2022-07-29,-7.0,,Vedenie účtu,9

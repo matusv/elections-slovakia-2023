@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Albo s.r.o.,2022-10-10,-967.2,EUR,úhrada za reklamné predmety-volebnákampaň,Platobný príkaz na úhradu / FIT 2.0 (EB),101002702,
-1,Krajčír Dárius,2022-10-10,1000.0,EUR,Vlastné prostriedky,Bezhotovostný vklad,,
-2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-09-30,-4.8,EUR,Poplatok za vedenie účtu,Poplatok,,
-4,Krajčír Dárius,2022-09-08,100.0,EUR,F001080920222487976,Bezhotovostný vklad,,
+0,"Mózsiová Katarína, Ing.",2022-10-13,162.0,EUR,OO22101300031351,Bezhotovostný vklad - okamžitá platba,,
+1,Albo s.r.o.,2022-10-10,-967.2,EUR,úhrada za reklamné predmety-volebnákampaň,Platobný príkaz na úhradu / FIT 2.0 (EB),101002702,
+2,Krajčír Dárius,2022-10-10,1000.0,EUR,Vlastné prostriedky,Bezhotovostný vklad,,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-09-30,-4.8,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,Krajčír Dárius,2022-09-08,100.0,EUR,F001080920222487976,Bezhotovostný vklad,,
