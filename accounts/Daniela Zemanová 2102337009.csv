@@ -1,2 +1,3 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-11,100.0,Platba prevodom v rámci banky,"Zemanová, Daniela",dar na volebnú kampaň,,,,dar na volebnú kampaň
+0,2022-10-13,530.0,Bezhotovostný príjem,Michal Moravčík,/DO2022-10-13/SPDar na volebnu kampan od Michalov,,,,Michal Moravčík
+1,2022-10-11,100.0,Platba prevodom v rámci banky,"Zemanová, Daniela",dar na volebnú kampaň,,,,dar na volebnú kampaň
