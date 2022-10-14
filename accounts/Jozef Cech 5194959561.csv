@@ -1,4 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-09-30,-0.29,EUR,"Vedenie Platobnej karty embosovanej,2314,5,Karta č. 4544 12** **** 5942Poplatok za Platobnú kartu",Kartový poplatok,,
-2,Cech Jozef,2022-09-22,2000.0,EUR,F001220920225692529,Bezhotovostný vklad,,
+0,ARTON s.r.o.,2022-10-14,-108.0,EUR,0221014093251.869839,Okamžitá platba (EB),202210207,
+1,"3amRecords, s.r.o.",2022-10-14,-408.0,EUR,0221014092819.163077,Okamžitá platba (EB),20220090,
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-09-30,-0.29,EUR,"Vedenie Platobnej karty embosovanej,2314,5,Karta č. 4544 12** **** 5942Poplatok za Platobnú kartu",Kartový poplatok,,
+4,Cech Jozef,2022-09-22,2000.0,EUR,F001220920225692529,Bezhotovostný vklad,,
