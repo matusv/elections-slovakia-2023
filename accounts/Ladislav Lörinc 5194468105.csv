@@ -1,0 +1,8 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,,2022-09-30,-5.8,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,Belej Lukáš,2022-09-23,20.0,EUR,Drzim palce v kampani,Bezhotovostný vklad - okamžitá platba,,
+3,,2022-09-17,-10.0,EUR,Poplatok Potvrdenie o vykonaní prevodu,Poplatok,,
+4,Peter Lenárt,2022-09-16,-1000.0,EUR,Grafické práce,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+5,Lörinc Ladislav,2022-09-07,2000.0,EUR,Kampan 2022 Wuueeeyyy,Bezhotovostný vklad,,
+6,Lörinc Ladislav,2022-09-05,100.0,EUR,Prvy vklad na novy transparentny ucet. Juchuu.,Bezhotovostný vklad,,

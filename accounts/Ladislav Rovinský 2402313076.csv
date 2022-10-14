@@ -1,4 +1,5 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-09-25,-408.0,Platba prevodom v rámci banky,,pero s potlacou,0308,20220348,,pero s potlacou
-1,2022-09-20,300.0,Bezhotovostný príjem,Dominik Karaffa,/DO2022-09-19/SPGood luck!,,,,Dominik Karaffa
-2,2022-09-19,1000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-09-16/SPvklad na transparentny ucet, Not Provided",,,,Rovinsky Ladislav
+0,2022-10-14,2000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-10-13/SPvklad na transparentny ucet, Rovinsky",,,,Rovinsky Ladislav
+1,2022-09-25,-408.0,Platba prevodom v rámci banky,,pero s potlacou,0308,20220348,,pero s potlacou
+2,2022-09-20,300.0,Bezhotovostný príjem,Dominik Karaffa,/DO2022-09-19/SPGood luck!,,,,Dominik Karaffa
+3,2022-09-19,1000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-09-16/SPvklad na transparentny ucet, Not Provided",,,,Rovinsky Ladislav
