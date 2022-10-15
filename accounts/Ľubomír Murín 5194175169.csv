@@ -1,10 +1,11 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,euroAWK spol. s.r.o.,2022-10-12,-120.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2270545,2251667
-1,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,,2022-09-30,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-3,ARTON s.r.o.,2022-09-26,-61.2,EUR,JUDr. Ľubomír Murín; Pažická- tlač;23.09.2022,Okamžitá platba (EB),220675,
-4,ARTON s.r.o.,2022-09-26,-324.0,EUR,JUDr. Ľubomír Murín; Pažická- nájom; 23.09.2022,Okamžitá platba (EB),220674,
-5,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-6,,2022-08-31,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,
-7,euroAWK spol. s.r.o.,2022-08-25,-720.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2270417,
-8,Murín Ľubomír,2022-08-24,3000.0,EUR,,Bezhotovostný vklad,,
+0,,2022-10-15,-1.5,EUR,"B1387363121-44544 12** **** 9307;FACEBK ADS ,fb.me/ads ,IE ;12.10.2022 15:07:59 ;CashBack:0 EUR",Platba kartou,,
+1,euroAWK spol. s.r.o.,2022-10-12,-120.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2270545,2251667
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-09-30,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,ARTON s.r.o.,2022-09-26,-61.2,EUR,JUDr. Ľubomír Murín; Pažická- tlač;23.09.2022,Okamžitá platba (EB),220675,
+5,ARTON s.r.o.,2022-09-26,-324.0,EUR,JUDr. Ľubomír Murín; Pažická- nájom; 23.09.2022,Okamžitá platba (EB),220674,
+6,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+7,,2022-08-31,-1.55,EUR,Poplatok za vedenie účtu,Poplatok,,
+8,euroAWK spol. s.r.o.,2022-08-25,-720.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2270417,
+9,Murín Ľubomír,2022-08-24,3000.0,EUR,,Bezhotovostný vklad,,
