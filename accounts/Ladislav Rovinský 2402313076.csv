@@ -1,5 +1,8 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-14,2000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-10-13/SPvklad na transparentny ucet, Rovinsky",,,,Rovinsky Ladislav
-1,2022-09-25,-408.0,Platba prevodom v rámci banky,,pero s potlacou,0308,20220348,,pero s potlacou
-2,2022-09-20,300.0,Bezhotovostný príjem,Dominik Karaffa,/DO2022-09-19/SPGood luck!,,,,Dominik Karaffa
-3,2022-09-19,1000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-09-16/SPvklad na transparentny ucet, Not Provided",,,,Rovinsky Ladislav
+0,2022-10-15,-6.0,Transakcia kartou,,"Nákup: PAPIERNICTVO, KOSICE - ZAPA, SK, dne 14.10.2022, částka  6.00 EUR",,5101,,"Nákup: PAPIERNICTVO, KOSICE - ZAPA, SK, dne 14.10.2022, částka  6.00 EUR"
+1,2022-10-15,-25.1,Transakcia kartou,,"Nákup: Prevadzka Sevt_70, Kosice, SK, dne 14.10.2022, částka  25.10 EUR",,5101,,"Nákup: Prevadzka Sevt_70, Kosice, SK, dne 14.10.2022, částka  25.10 EUR"
+2,2022-10-15,-56.28,Transakcia kartou,,"Nákup: DAFFER SRO, KOSICE, SK, dne 14.10.2022, částka  56.28 EUR",,5101,,"Nákup: DAFFER SRO, KOSICE, SK, dne 14.10.2022, částka  56.28 EUR"
+3,2022-10-14,2000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-10-13/SPvklad na transparentny ucet, Rovinsky",,,,Rovinsky Ladislav
+4,2022-09-25,-408.0,Platba prevodom v rámci banky,,pero s potlacou,0308,20220348,,pero s potlacou
+5,2022-09-20,300.0,Bezhotovostný príjem,Dominik Karaffa,/DO2022-09-19/SPGood luck!,,,,Dominik Karaffa
+6,2022-09-19,1000.0,Bezhotovostný príjem,Rovinsky Ladislav,"/DO2022-09-16/SPvklad na transparentny ucet, Not Provided",,,,Rovinsky Ladislav
