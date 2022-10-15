@@ -3,32 +3,33 @@ index,date,amount,account_name,message,vs
 1,2022-10-12,-9.0,Platba kartou,Platba kartou u obchodníka,****5075
 2,2022-10-11,-6.0,Platba kartou,Platba kartou u obchodníka,****5075
 3,2022-10-17,20.22,Juraj Zúggó,Prispevok na vydavky na kampan Komunalne volby 2022,
-4,2022-10-14,-1440.0,CORE4,"CORE4 Advertising, spol. s r.o. Realizacia kampane, vizual na bilboard, do novin, na socialne siete, logo, tlacove data, webstranka navrh",20220352
-5,2022-10-14,50.0,"Žuffa Peter, Mgr.",Komunalne volby 2022,
-6,2022-10-14,10.0,ROLAND DARGAJ,prispevok na kampan,
-7,2022-10-14,10.0,Denisa Kopper,kampan 2022,
-8,2022-10-14,50.0,"Lobotka Ivan, Ing.",komunalne volby 2022,
-9,2022-10-13,-4.0,Platba kartou,FACEBK NJ9V6J3N fb.me/ads,****5075
-10,2022-10-13,-2.0,Platba kartou,FACEBK PRN9MHPN fb.me/ads,****5075
-11,2022-10-13,-2.0,Platba kartou,FACEBK X9SLWLFN fb.me/ads,****5075
-12,2022-10-13,-1.5,Platba kartou,FACEBK BYHGMHXM fb.me/ads,****5075
-13,2022-10-13,-1.5,Platba kartou,FACEBK 3DHMNJBN fb.me/ads,****5075
-14,2022-10-13,-1.5,Platba kartou,FACEBK X8QJ3J7N fb.me/ads,****5075
-15,2022-10-13,500.0,"Čierny Martin, Ing.",,
-16,2022-10-13,50.0,Miroslav Sarissky,,
-17,2022-10-13,-250.8,direct AdWise s.r.o.,"direct AdWise s.r.o.: Zalozenie, nastavenie, sprava uctov na socialnych sietach, reklamneho uctu META a sprava kampani",1092022
-18,2022-10-13,10.0,GOLDSCHMIDT VLADIMIR,,
-19,2022-10-13,-1000.0,,"2. cast BILBOARDY po kraji ZenithMedia s.r.o. Panonska cesta 7, Bratislava",4220113
-20,2022-10-13,-56.4,Bohuslav Blecha - BOBO vyroba reklamy Bratislavska 37 84106 Bratislava,"Tlac letakov papier na lokalnu distribuciu- Bohuslav Blecha - BOBO vyroba reklamy, ICO 37028961",22010345
-21,2022-10-12,100.0,Korenci Jozef,prelepsiubuducnost,
-22,2022-10-11,500.0,"Weinštuk Roman, Ing.",Roman Weinstuk,11102022
-23,2022-10-11,1000.0,Ivan Bošňák,Prispevok na vydavky na kampan Komunalne volby 2022,102022
-24,2022-10-11,-2000.0,,"BILBOARDY ZenithMedia s.r.o. Panonska cesta 7, Bratislava",4220113
-25,2022-10-06,2000.0,Martin Javorcek,,
-26,2022-10-04,500.0,"Raytchev Ruslan, Dr.",komunalne volby 2022,
-27,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-28,2022-09-14,-300.0,Výber hotovosti,S6AV112T BRATISLAVA17:34,****5075
-29,2022-09-13,-46.58,WEB HOSTING,Websupport s. r. o. ivanbosnak_1 (The Hosting),1022257439
-30,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-31,2022-08-31,-5.0,,Vedenie účtu,9
-32,2022-08-31,1000.0,Ivan Bošňák,Uvodny prispevok na kampan do samospravy BSK 2022,82022
+4,2022-10-14,-6.0,Platba kartou,FACEBK KPE8XLFN fb.me/ads,****5075
+5,2022-10-14,-1440.0,CORE4,"CORE4 Advertising, spol. s r.o. Realizacia kampane, vizual na bilboard, do novin, na socialne siete, logo, tlacove data, webstranka navrh",20220352
+6,2022-10-14,50.0,"Žuffa Peter, Mgr.",Komunalne volby 2022,
+7,2022-10-14,10.0,ROLAND DARGAJ,prispevok na kampan,
+8,2022-10-14,10.0,Denisa Kopper,kampan 2022,
+9,2022-10-14,50.0,"Lobotka Ivan, Ing.",komunalne volby 2022,
+10,2022-10-13,-4.0,Platba kartou,FACEBK NJ9V6J3N fb.me/ads,****5075
+11,2022-10-13,-2.0,Platba kartou,FACEBK PRN9MHPN fb.me/ads,****5075
+12,2022-10-13,-2.0,Platba kartou,FACEBK X9SLWLFN fb.me/ads,****5075
+13,2022-10-13,-1.5,Platba kartou,FACEBK BYHGMHXM fb.me/ads,****5075
+14,2022-10-13,-1.5,Platba kartou,FACEBK 3DHMNJBN fb.me/ads,****5075
+15,2022-10-13,-1.5,Platba kartou,FACEBK X8QJ3J7N fb.me/ads,****5075
+16,2022-10-13,500.0,"Čierny Martin, Ing.",,
+17,2022-10-13,50.0,Miroslav Sarissky,,
+18,2022-10-13,-250.8,direct AdWise s.r.o.,"direct AdWise s.r.o.: Zalozenie, nastavenie, sprava uctov na socialnych sietach, reklamneho uctu META a sprava kampani",1092022
+19,2022-10-13,10.0,GOLDSCHMIDT VLADIMIR,,
+20,2022-10-13,-1000.0,,"2. cast BILBOARDY po kraji ZenithMedia s.r.o. Panonska cesta 7, Bratislava",4220113
+21,2022-10-13,-56.4,Bohuslav Blecha - BOBO vyroba reklamy Bratislavska 37 84106 Bratislava,"Tlac letakov papier na lokalnu distribuciu- Bohuslav Blecha - BOBO vyroba reklamy, ICO 37028961",22010345
+22,2022-10-12,100.0,Korenci Jozef,prelepsiubuducnost,
+23,2022-10-11,500.0,"Weinštuk Roman, Ing.",Roman Weinstuk,11102022
+24,2022-10-11,1000.0,Ivan Bošňák,Prispevok na vydavky na kampan Komunalne volby 2022,102022
+25,2022-10-11,-2000.0,,"BILBOARDY ZenithMedia s.r.o. Panonska cesta 7, Bratislava",4220113
+26,2022-10-06,2000.0,Martin Javorcek,,
+27,2022-10-04,500.0,"Raytchev Ruslan, Dr.",komunalne volby 2022,
+28,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+29,2022-09-14,-300.0,Výber hotovosti,S6AV112T BRATISLAVA17:34,****5075
+30,2022-09-13,-46.58,WEB HOSTING,Websupport s. r. o. ivanbosnak_1 (The Hosting),1022257439
+31,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+32,2022-08-31,-5.0,,Vedenie účtu,9
+33,2022-08-31,1000.0,Ivan Bošňák,Uvodny prispevok na kampan do samospravy BSK 2022,82022
