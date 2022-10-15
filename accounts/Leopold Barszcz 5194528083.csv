@@ -1,5 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-10-12,-150,EUR,"B1385333711-44544 12** **** 4789;SLOVENSKA POSTA A S ,STARA TURA ,SK ;10.10.2022 08:25:32 ;CashBack:0 EUR",Platba kartou,,
-1,BARSZCZ LEOPOLD PHAR,2022-10-09,500,EUR,F001091020225281219,Bezhotovostný vklad,,
-2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-3,BARSZCZ LEOPOLD PHAR,2022-09-05,100,EUR,F001050920220153416,Bezhotovostný vklad,,
+0,"mediamedia, s.r.o.",2022-10-15,-1394.04,EUR,"Leopold Barszcz, Grafické práce a tlač propagačných materiálov",Okamžitá platba (EB),22100182,
+1,BARSZCZ LEOPOLD PHAR,2022-10-15,1200.0,EUR,F001151020221777869,Bezhotovostný vklad,,
+2,,2022-10-12,-150.0,EUR,"B1385333711-44544 12** **** 4789;SLOVENSKA POSTA A S ,STARA TURA ,SK ;10.10.2022 08:25:32 ;CashBack:0 EUR",Platba kartou,,
+3,BARSZCZ LEOPOLD PHAR,2022-10-09,500.0,EUR,F001091020225281219,Bezhotovostný vklad,,
+4,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+5,BARSZCZ LEOPOLD PHAR,2022-09-05,100.0,EUR,F001050920220153416,Bezhotovostný vklad,,
