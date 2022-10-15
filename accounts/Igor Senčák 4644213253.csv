@@ -1,16 +1,17 @@
 index,date,amount,account_name,message,vs
-0,2022-10-12,-20.0,Platba kartou,Platba kartou u obchodníka,****281
-1,2022-10-14,-12.0,Platba kartou,FACEBK 8NWUBHF3 fb.me/ads,****281
-2,2022-10-14,-12.0,Platba kartou,FACEBK VZ9AAJ74 fb.me/ads,****281
-3,2022-10-14,-9.0,Platba kartou,FACEBK NYV39JP3 fb.me/ads,****281
-4,2022-10-11,-100.0,Obec Rovinka,ocu hasicske vozidlo - sencak,4019200127
-5,2022-10-05,-9.0,Platba kartou,FACEBK KXTP2HF4 fb.me/ads,****281
-6,2022-10-04,-9.0,Platba kartou,FACEBK E5EGYHP3 fb.me/ads,****281
-7,2022-10-03,-8.63,Platba kartou,WWW.WEBSUPPORT. BRATISLAVA,****281
-8,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-09-23,-2796.0,,uhrada fa,
-10,2022-09-16,-14.63,Platba kartou,WWW.WEBSUPPORT. BRATISLAVA,****281
-11,2022-09-02,-200.0,jozef bartalos,bartalolos reklamne plochy - sencak,1092022
-12,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-13,2022-08-31,-5.0,,Vedenie účtu,9
-14,2022-08-26,5000.0,"Senčák Igor, Ing.",dar Sencak,25082022
+0,2022-10-15,-30.0,Platba kartou,Platba kartou u obchodníka,****281
+1,2022-10-12,-20.0,Platba kartou,Platba kartou u obchodníka,****281
+2,2022-10-14,-12.0,Platba kartou,FACEBK 8NWUBHF3 fb.me/ads,****281
+3,2022-10-14,-12.0,Platba kartou,FACEBK VZ9AAJ74 fb.me/ads,****281
+4,2022-10-14,-9.0,Platba kartou,FACEBK NYV39JP3 fb.me/ads,****281
+5,2022-10-11,-100.0,Obec Rovinka,ocu hasicske vozidlo - sencak,4019200127
+6,2022-10-05,-9.0,Platba kartou,FACEBK KXTP2HF4 fb.me/ads,****281
+7,2022-10-04,-9.0,Platba kartou,FACEBK E5EGYHP3 fb.me/ads,****281
+8,2022-10-03,-8.63,Platba kartou,WWW.WEBSUPPORT. BRATISLAVA,****281
+9,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+10,2022-09-23,-2796.0,,uhrada fa,
+11,2022-09-16,-14.63,Platba kartou,WWW.WEBSUPPORT. BRATISLAVA,****281
+12,2022-09-02,-200.0,jozef bartalos,bartalolos reklamne plochy - sencak,1092022
+13,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+14,2022-08-31,-5.0,,Vedenie účtu,9
+15,2022-08-26,5000.0,"Senčák Igor, Ing.",dar Sencak,25082022
