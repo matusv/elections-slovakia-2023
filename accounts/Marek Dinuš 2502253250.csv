@@ -1,17 +1,18 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-15,-40.0,Transakcia kartou,,"Nákup: FACEBK DC7RPHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2022, částka  40.00 EUR",,3798,,"Nákup: FACEBK DC7RPHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2022, částka  40.00 EUR"
-1,2022-10-14,-30.0,Transakcia kartou,,"Nákup: FACEBK BW436JFLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.10.2022, částka  30.00 EUR",,3798,,"Nákup: FACEBK BW436JFLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.10.2022, částka  30.00 EUR"
-2,2022-10-13,-20.0,Transakcia kartou,,"Nákup: FACEBK GT59NHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR",,3798,,"Nákup: FACEBK GT59NHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR"
-3,2022-10-12,-20.0,Transakcia kartou,,"Nákup: FACEBK WSLVAJPLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR",,3798,,"Nákup: FACEBK WSLVAJPLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR"
-4,2022-10-12,-20.0,Transakcia kartou,,"Nákup: FACEBK TQDYEJTKN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2022, částka  20.00 EUR",,3798,,"Nákup: FACEBK TQDYEJTKN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2022, částka  20.00 EUR"
-5,2022-09-27,-14.24,Bezhotovostná platba,,,0308,2209936653,,
-6,2022-09-23,500.0,Bezhotovostný príjem,Maksim Korolenko,/DO2022-09-22/SP,,,,Maksim Korolenko
-7,2022-08-12,-66.93,Transakcia kartou,,"Nákup: FAXCOPY17,BA,BORY MALL,  LAMAC 2780, BRATISLAVA, 84103, SVK, dne 11.8.2022, částka  66.93 EUR",,3798,,"Nákup: FAXCOPY17,BA,BORY MALL,  LAMAC 2780, BRATISLAVA, 84103, SVK, dne 11.8.2022, částka  66.93 EUR"
-8,2022-07-22,-50.99,Bezhotovostná platba,,domena,,2207917600,,domena
-9,2022-07-22,-50.0,Bezhotovostná platba,,"vratenie vkladu v hotovosti Marekov
+0,2022-10-15,-40.0,Transakcia kartou,,"Nákup: FACEBK 7DELYHKLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.10.2022, částka  40.00 EUR",,3798,,"Nákup: FACEBK 7DELYHKLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.10.2022, částka  40.00 EUR"
+1,2022-10-15,-40.0,Transakcia kartou,,"Nákup: FACEBK DC7RPHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2022, částka  40.00 EUR",,3798,,"Nákup: FACEBK DC7RPHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2022, částka  40.00 EUR"
+2,2022-10-14,-30.0,Transakcia kartou,,"Nákup: FACEBK BW436JFLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.10.2022, částka  30.00 EUR",,3798,,"Nákup: FACEBK BW436JFLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.10.2022, částka  30.00 EUR"
+3,2022-10-13,-20.0,Transakcia kartou,,"Nákup: FACEBK GT59NHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR",,3798,,"Nákup: FACEBK GT59NHBLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR"
+4,2022-10-12,-20.0,Transakcia kartou,,"Nákup: FACEBK WSLVAJPLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR",,3798,,"Nákup: FACEBK WSLVAJPLN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.10.2022, částka  20.00 EUR"
+5,2022-10-12,-20.0,Transakcia kartou,,"Nákup: FACEBK TQDYEJTKN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2022, částka  20.00 EUR",,3798,,"Nákup: FACEBK TQDYEJTKN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2022, částka  20.00 EUR"
+6,2022-09-27,-14.24,Bezhotovostná platba,,,0308,2209936653,,
+7,2022-09-23,500.0,Bezhotovostný príjem,Maksim Korolenko,/DO2022-09-22/SP,,,,Maksim Korolenko
+8,2022-08-12,-66.93,Transakcia kartou,,"Nákup: FAXCOPY17,BA,BORY MALL,  LAMAC 2780, BRATISLAVA, 84103, SVK, dne 11.8.2022, částka  66.93 EUR",,3798,,"Nákup: FAXCOPY17,BA,BORY MALL,  LAMAC 2780, BRATISLAVA, 84103, SVK, dne 11.8.2022, částka  66.93 EUR"
+9,2022-07-22,-50.99,Bezhotovostná platba,,domena,,2207917600,,domena
+10,2022-07-22,-50.0,Bezhotovostná platba,,"vratenie vkladu v hotovosti Marekov
 i Dinusovi",,,,vratenie vkladu hotovosti Marekovi Dinusovi
-10,2022-07-22,300.0,Bezhotovostný príjem,Marek Dinuš,/DO2022-07-21/SPvklad na vlastny ucet,,,,Marek Dinuš
-11,2022-07-22,-11.39,Bezhotovostná platba,,domena,0308,2207921143,,domena
-12,2022-07-22,-11.39,Bezhotovostná platba,,domena,0308,2207921140,,domena
-13,2022-07-18,-11.39,Bezhotovostná platba,,domena mojadubravka.sk,0308,2207920747,,domena
-14,2022-07-06,50.0,Vklad v hotovosti,,,0558,,,vklad v hotovosti od Mareka Dinusa  pri zalozeni uctu
+11,2022-07-22,300.0,Bezhotovostný príjem,Marek Dinuš,/DO2022-07-21/SPvklad na vlastny ucet,,,,Marek Dinuš
+12,2022-07-22,-11.39,Bezhotovostná platba,,domena,0308,2207921143,,domena
+13,2022-07-22,-11.39,Bezhotovostná platba,,domena,0308,2207921140,,domena
+14,2022-07-18,-11.39,Bezhotovostná platba,,domena mojadubravka.sk,0308,2207920747,,domena
+15,2022-07-06,50.0,Vklad v hotovosti,,,0558,,,vklad v hotovosti od Mareka Dinusa  pri zalozeni uctu
