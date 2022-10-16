@@ -1,0 +1,13 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,BURDIGA PAVOL,2022-10-14,160.0,EUR,Trans.ucet - Sportova hala,Bezhotovostný vklad,,
+1,,2022-10-13,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220150,
+2,"IGLI desing,s.r.o.",2022-10-13,-135.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220150,
+3,BURDIGA PAVOL,2022-10-11,135.0,EUR,23701695,Bezhotovostný vklad,,
+4,,2022-09-30,-4.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+6,,2022-09-19,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,202257,
+7,Ing.Jaroslav Hlaváč,2022-09-19,-340.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),202257,
+8,BURDIGA PAVOL,2022-09-19,340.0,EUR,Transparentny ucet,Bezhotovostný vklad,,
+9,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+10,,2022-08-31,-2.71,EUR,Poplatok za vedenie účtu,Poplatok,,
+11,BURDIGA PAVOL,2022-08-12,100.0,EUR,Transparentny ucet,Bezhotovostný vklad,,

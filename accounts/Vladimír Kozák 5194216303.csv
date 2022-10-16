@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Pressing Oils s.r.o.,2022-10-11,-100,EUR,Úhrada faktúry: 20220007,Platobný príkaz na úhradu / FIT 2.0 (EB),20220007,
+1,Nubium,2022-10-04,-264,EUR,0221004094545.140500,Okamžitá platba (EB),,
+2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-09-30,-6,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,"Čobík - Ferčík Ľuboslav, Ing.",2022-09-06,600,EUR,Luboslav Cobik-Fercik volby,Bezhotovostný vklad - okamžitá platba,,

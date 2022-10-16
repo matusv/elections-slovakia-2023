@@ -1,0 +1,8 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Šuník Robert,2022-10-16,3000.0,EUR,F001161020222375025,Bezhotovostný vklad,,
+1,Uríček Martin,2022-10-14,205.65,EUR,Dar poslaneckej odmeny za III. quartál,Bezhotovostný vklad,,
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,BigMedia,2022-09-30,-3222.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),1222301076,
+4,Šuník Robert,2022-09-25,3000.0,EUR,F001250920226942776,Bezhotovostný vklad,,
+5,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+6,Robert Šuník,2022-08-23,1500.0,EUR,voľby,Bezhotovostný vklad,,
