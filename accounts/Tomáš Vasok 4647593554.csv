@@ -1,26 +1,27 @@
 index,date,amount,account_name,message,vs
-0,2022-10-14,-70.0,Platba kartou,Platba kartou u obchodníka,****942
-1,2022-10-13,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
-2,2022-10-07,-1147.2,Element design s.r.o.,,20220136
-3,2022-10-06,-40.0,Platba kartou,FACEBK F5NJLGXA fb.me/ads,****942
-4,2022-10-05,-500.0,Výber hotovosti,S6AV512H KOSICE 19:29,****942
-5,2022-10-05,-40.0,Platba kartou,FACEBK HYTR3GXB fb.me/ads,****942
-6,2022-10-04,-40.0,Platba kartou,FACEBK 939XFH7B fb.me/ads,****942
-7,2022-10-04,79.51,PETKOV & Co s. r. o.,vratenie platby:409810784,409810784
-8,2022-10-03,-5.49,Platba kartou,FACEBK 4ZK7JGXA fb.me/ads,****942
-9,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-10,2022-09-30,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
-11,2022-09-30,-237.6,LA TEAM,Predaj tovaru na FA,20220306
-12,2022-09-29,-40.0,Platba kartou,FACEBK QVX7PKTB fb.me/ads,****942
-13,2022-09-29,850.0,Oratorová Martina,Podpora kampane,
-14,2022-09-29,300.0,Frantisek Pavlulik,,
-15,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
-16,2022-09-22,-603.6,Element design s.r.o,,20220130
-17,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
-18,2022-09-13,-40.64,Websupport,,1022258311
-19,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
-20,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
-21,2022-09-05,-150.0,,,
-22,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-23,2022-08-31,-5.0,,Vedenie účtu,9
-24,2022-08-31,500.0,Tomáš VASOK,,
+0,2022-10-17,-100.0,Platba kartou,Platba kartou u obchodníka,****942
+1,2022-10-14,-70.0,Platba kartou,Platba kartou u obchodníka,****942
+2,2022-10-13,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
+3,2022-10-07,-1147.2,Element design s.r.o.,,20220136
+4,2022-10-06,-40.0,Platba kartou,FACEBK F5NJLGXA fb.me/ads,****942
+5,2022-10-05,-500.0,Výber hotovosti,S6AV512H KOSICE 19:29,****942
+6,2022-10-05,-40.0,Platba kartou,FACEBK HYTR3GXB fb.me/ads,****942
+7,2022-10-04,-40.0,Platba kartou,FACEBK 939XFH7B fb.me/ads,****942
+8,2022-10-04,79.51,PETKOV & Co s. r. o.,vratenie platby:409810784,409810784
+9,2022-10-03,-5.49,Platba kartou,FACEBK 4ZK7JGXA fb.me/ads,****942
+10,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+11,2022-09-30,500.0,Šalitroš Radomír,prispevok na kampan - drzim palce,
+12,2022-09-30,-237.6,LA TEAM,Predaj tovaru na FA,20220306
+13,2022-09-29,-40.0,Platba kartou,FACEBK QVX7PKTB fb.me/ads,****942
+14,2022-09-29,850.0,Oratorová Martina,Podpora kampane,
+15,2022-09-29,300.0,Frantisek Pavlulik,,
+16,2022-09-27,500.0,Šalitroš Radomír,"prispevok na kampan - drzim Ti palce Tomas, takych ludi ako si Ty by malo byt v komunalnej politike viac.",
+17,2022-09-22,-603.6,Element design s.r.o,,20220130
+18,2022-09-16,-79.51,Petkpv&co,"KE246NX, 12200499784",409810784
+19,2022-09-13,-40.64,Websupport,,1022258311
+20,2022-09-08,800.0,HORKAY PATRIK,Prispevok na kampan,
+21,2022-09-08,150.0,Stefan Rezes,omylom poslany prevod,
+22,2022-09-05,-150.0,,,
+23,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+24,2022-08-31,-5.0,,Vedenie účtu,9
+25,2022-08-31,500.0,Tomáš VASOK,,
