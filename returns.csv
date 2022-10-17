@@ -31,10 +31,10 @@ index,index,date,amount,account_name,message,vs,name
 29,31,2022-09-24,0.01,Gajdoš Kristián,Posielam na chod strany a co ostane rozdajte oligarchom.,,HLAS - sociálna demokracia
 30,26,2022-09-27,-0.01,Ivan Čerňanský,Pre Pelle bukvicaka na vibrator.,,HLAS - sociálna demokracia
 31,30,2022-09-24,0.01,Ivan Čerňanský,Pre Pelle bukvicaka na vibrator.,,HLAS - sociálna demokracia
-32,140,2022-07-04,-161.7,Poľnohospodárske družstvo Chtelnica,potraviny na podujatie,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
-33,133,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
-34,94,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
-35,101,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
+32,143,2022-07-04,-161.7,Poľnohospodárske družstvo Chtelnica,potraviny na podujatie,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
+33,136,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
+34,97,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
+35,104,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
 36,155,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
 37,156,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
 38,51,2022-09-27,-500.0,VKM STARA LUBOVNA,Mylná platba- vrátený dar,9.0,Kresťanskodemokratické hnutie
@@ -61,20 +61,20 @@ index,index,date,amount,account_name,message,vs,name
 59,61,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
 60,255,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 61,237,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
-62,392,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
-63,263,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
-64,383,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
-65,245,2022-08-25,40.0,MESTO DUBNICA NAD VÁHOM,Vratka duplicitnej platby - pouzitie dreveneho podia,6049022.0,SME RODINA
-66,373,2022-06-15,-1086.78,Roda press s.r.o.,Roda press s.r.o.,2022225.0,SME RODINA
-67,264,2022-08-16,1086.78,RODA PRESS S.R.O.,preplatok,2022225.0,SME RODINA
-68,250,2022-08-21,-4500.0,Ochrana Zamestnanca,Jul 2022,220100005.0,SME RODINA
-69,244,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
-70,251,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
-71,243,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
-72,195,2022-09-13,-200.0,Veronika Žilinčanová - IMAGELOOK,Vrátenie mylnej pladby,,SME RODINA
-73,210,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
-74,144,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
-75,115,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
+62,393,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
+63,264,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
+64,384,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
+65,246,2022-08-25,40.0,MESTO DUBNICA NAD VÁHOM,Vratka duplicitnej platby - pouzitie dreveneho podia,6049022.0,SME RODINA
+66,374,2022-06-15,-1086.78,Roda press s.r.o.,Roda press s.r.o.,2022225.0,SME RODINA
+67,265,2022-08-16,1086.78,RODA PRESS S.R.O.,preplatok,2022225.0,SME RODINA
+68,251,2022-08-21,-4500.0,Ochrana Zamestnanca,Jul 2022,220100005.0,SME RODINA
+69,245,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
+70,252,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
+71,244,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
+72,196,2022-09-13,-200.0,Veronika Žilinčanová - IMAGELOOK,Vrátenie mylnej pladby,,SME RODINA
+73,211,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
+74,145,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
+75,116,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
 76,114,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
 77,119,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
 78,1248,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
