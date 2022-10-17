@@ -1,6 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,INPANG s.r.o.,2022-10-07,-175.01,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),162022,
-1,INPANG s.r.o.,2022-10-07,-526.99,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),172022,
-2,Kolos Kiss,2022-10-07,800.0,EUR,F001071020224783103,Bezhotovostný vklad,,
-3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-4,Kolos Kiss,2022-09-09,80.0,EUR,Kolos Kiss,Bezhotovostný vklad,,
+0,"Euroko, spol. s r.o.",2022-10-17,-295.2,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2400008620,
+1,Kolos Kiss,2022-10-17,300.0,EUR,F001171020223675520,Bezhotovostný vklad,,
+2,INPANG s.r.o.,2022-10-07,-175.01,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),162022,
+3,INPANG s.r.o.,2022-10-07,-526.99,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),172022,
+4,Kolos Kiss,2022-10-07,800.0,EUR,F001071020224783103,Bezhotovostný vklad,,
+5,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+6,Kolos Kiss,2022-09-09,80.0,EUR,Kolos Kiss,Bezhotovostný vklad,,

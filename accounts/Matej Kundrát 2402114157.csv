@@ -1,27 +1,30 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-14,200.0,Bezhotovostný príjem,Kundrát Matej,/DO2022-10-13/SP,,,,Kundrát Matej
-1,2022-10-12,300.0,Bezhotovostný príjem,WEISS ERIK,/DO2022-10-11/SPDar na kampan,,,,WEISS ERIK
-2,2022-10-06,-58.17,Transakcia kartou,,"Nákup: FACEBK 565WAK3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2022, částka  58.17 EUR",,2344,,"Nákup: FACEBK 565WAK3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2022, částka  58.17 EUR"
-3,2022-09-26,50.0,Bezhotovostný príjem,"Pilát Marián, Ing.",/DO2022-09-23/SPdrzim palce!,,,,"Pilát Marián, Ing."
-4,2022-09-22,20.0,Bezhotovostný príjem,Telepčák Miroslav,/DO2022-09-21/SP,,,,Telepčák Miroslav
-5,2022-09-21,-663.0,Platba prevodom v rámci banky,,,0308,72022,,
-6,2022-09-21,500.0,Bezhotovostný príjem,Kundrátová Lenka,/DO2022-09-20/SP,,,,Kundrátová Lenka
-7,2022-09-20,20.0,Platba prevodom v rámci banky,"Doša, Vladimír",,,,,
-8,2022-09-06,-62.0,Transakcia kartou,,"Nákup: FACEBK BFMMFHXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2022, částka  62.00 EUR",,2344,,"Nákup: FACEBK BFMMFHXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2022, částka  62.00 EUR"
-9,2022-08-12,350.0,Bezhotovostný príjem,Martin Pavlov,/DO2022-08-11/SPPodpora na kampan,,,,Martin Pavlov
-10,2022-08-10,-747.5,Platba prevodom v rámci banky,,,0308,52022,,Uhrada faktury
-11,2022-08-10,100.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-08-09/SPdar na kampan,,,,KUNDRATOVA LENKA
-12,2022-08-08,300.0,Bezhotovostný príjem,KUPEC IGOR,podpora kampane,,,,KUPEC IGOR
-13,2022-08-06,-25.43,Transakcia kartou,,"Nákup: FACEBK LVQ7SH3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  25.43 EUR",,2344,,"Nákup: FACEBK LVQ7SH3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  25.43 EUR"
-14,2022-08-03,100.0,Platba prevodom v rámci banky,"Ing. Kabát, Štefan",Prispevok na volebnu kampan,,,,Prispevok na volebnu kampan
-15,2022-07-06,-25.36,Transakcia kartou,,"Nákup: FACEBK T4XDWFXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  25.36 EUR",,2344,,"Nákup: FACEBK T4XDWFXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  25.36 EUR"
-16,2022-07-04,300.0,Bezhotovostný príjem,MICHAL DEMO,/DO2022-07-04/SPDAR NA KAMPAN,,,,MICHAL DEMO
-17,2022-06-20,-1452.0,Platba prevodom v rámci banky,,,0308,012022,,Platba za faktúru
-18,2022-06-20,100.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-06-17/SPdar na kampan,,,,KUNDRATOVA LENKA
-19,2022-06-14,950.0,Bezhotovostný príjem,Kundrát Matej,/DO2022-06-13/SP,,,,Kundrát Matej
-20,2022-06-13,300.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-06-10/SPdar na kampan,,,,KUNDRATOVA LENKA
-21,2022-06-09,100.0,Bezhotovostný príjem,DURISTA MICHAL,/DO2022-06-08/SPDar - na kampan,,,,DURISTA MICHAL
-22,2022-06-08,20.0,Bezhotovostný príjem,Telepčák Miroslav,/DO2022-06-07/SP,,,,Telepčák Miroslav
-23,2022-06-01,-30.0,Platba prevodom v rámci banky,,Uhrada faktury: 20220006,,20220006,,Platba za fotky
-24,2022-05-30,50.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-05-27/SPdar na kampan,,,,KUNDRATOVA LENKA
-25,2022-02-03,15.0,Bezhotovostný príjem,Kundrát Matej,/DO2022-02-02/SP,,,,Kundrát Matej
+0,2022-10-17,-84.79,Transakcia kartou,,"Nákup: Metro Kosice,  AMERICKA TRIEDA 1/A, Kosice, 04013, SVK, dne 15.10.2022, částka  84.79 EUR",,2344,,"Nákup: Metro Kosice,  AMERICKA TRIEDA 1/A, Kosice, 04013, SVK, dne 15.10.2022, částka  84.79 EUR"
+1,2022-10-17,300.0,Bezhotovostný príjem,ALZBETA KONCEK,/DO2022-10-14/SPPLATBA,,,,ALZBETA KONCEK
+2,2022-10-17,50.0,Bezhotovostný príjem,Michaela Kožárová,/DO2022-10-16/SPPrispevok na kampan,,,,Michaela Kožárová
+3,2022-10-14,200.0,Bezhotovostný príjem,Kundrát Matej,/DO2022-10-13/SP,,,,Kundrát Matej
+4,2022-10-12,300.0,Bezhotovostný príjem,WEISS ERIK,/DO2022-10-11/SPDar na kampan,,,,WEISS ERIK
+5,2022-10-06,-58.17,Transakcia kartou,,"Nákup: FACEBK 565WAK3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2022, částka  58.17 EUR",,2344,,"Nákup: FACEBK 565WAK3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2022, částka  58.17 EUR"
+6,2022-09-26,50.0,Bezhotovostný príjem,"Pilát Marián, Ing.",/DO2022-09-23/SPdrzim palce!,,,,"Pilát Marián, Ing."
+7,2022-09-22,20.0,Bezhotovostný príjem,Telepčák Miroslav,/DO2022-09-21/SP,,,,Telepčák Miroslav
+8,2022-09-21,-663.0,Platba prevodom v rámci banky,,,0308,72022,,
+9,2022-09-21,500.0,Bezhotovostný príjem,Kundrátová Lenka,/DO2022-09-20/SP,,,,Kundrátová Lenka
+10,2022-09-20,20.0,Platba prevodom v rámci banky,"Doša, Vladimír",,,,,
+11,2022-09-06,-62.0,Transakcia kartou,,"Nákup: FACEBK BFMMFHXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2022, částka  62.00 EUR",,2344,,"Nákup: FACEBK BFMMFHXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2022, částka  62.00 EUR"
+12,2022-08-12,350.0,Bezhotovostný príjem,Martin Pavlov,/DO2022-08-11/SPPodpora na kampan,,,,Martin Pavlov
+13,2022-08-10,-747.5,Platba prevodom v rámci banky,,,0308,52022,,Uhrada faktury
+14,2022-08-10,100.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-08-09/SPdar na kampan,,,,KUNDRATOVA LENKA
+15,2022-08-08,300.0,Bezhotovostný príjem,KUPEC IGOR,podpora kampane,,,,KUPEC IGOR
+16,2022-08-06,-25.43,Transakcia kartou,,"Nákup: FACEBK LVQ7SH3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  25.43 EUR",,2344,,"Nákup: FACEBK LVQ7SH3DF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.8.2022, částka  25.43 EUR"
+17,2022-08-03,100.0,Platba prevodom v rámci banky,"Ing. Kabát, Štefan",Prispevok na volebnu kampan,,,,Prispevok na volebnu kampan
+18,2022-07-06,-25.36,Transakcia kartou,,"Nákup: FACEBK T4XDWFXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  25.36 EUR",,2344,,"Nákup: FACEBK T4XDWFXCF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.7.2022, částka  25.36 EUR"
+19,2022-07-04,300.0,Bezhotovostný príjem,MICHAL DEMO,/DO2022-07-04/SPDAR NA KAMPAN,,,,MICHAL DEMO
+20,2022-06-20,-1452.0,Platba prevodom v rámci banky,,,0308,012022,,Platba za faktúru
+21,2022-06-20,100.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-06-17/SPdar na kampan,,,,KUNDRATOVA LENKA
+22,2022-06-14,950.0,Bezhotovostný príjem,Kundrát Matej,/DO2022-06-13/SP,,,,Kundrát Matej
+23,2022-06-13,300.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-06-10/SPdar na kampan,,,,KUNDRATOVA LENKA
+24,2022-06-09,100.0,Bezhotovostný príjem,DURISTA MICHAL,/DO2022-06-08/SPDar - na kampan,,,,DURISTA MICHAL
+25,2022-06-08,20.0,Bezhotovostný príjem,Telepčák Miroslav,/DO2022-06-07/SP,,,,Telepčák Miroslav
+26,2022-06-01,-30.0,Platba prevodom v rámci banky,,Uhrada faktury: 20220006,,20220006,,Platba za fotky
+27,2022-05-30,50.0,Bezhotovostný príjem,KUNDRATOVA LENKA,/DO2022-05-27/SPdar na kampan,,,,KUNDRATOVA LENKA
+28,2022-02-03,15.0,Bezhotovostný príjem,Kundrát Matej,/DO2022-02-02/SP,,,,Kundrát Matej

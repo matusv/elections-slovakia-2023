@@ -1,6 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-1,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
-2,euroawk,2022-08-26,-156,EUR,Reklama,Platobný príkaz na úhradu / FIT 2.0 (EB),2270436,
-3,Lebeda Roman,2022-08-26,300,EUR,F001260820225437090,Bezhotovostný vklad,,
-4,Lebeda Roman,2022-08-26,122,EUR,F001260820225436805,Bezhotovostný vklad,,
+0,VIRA PRINT s.r.o.-R.S.P,2022-10-17,-504.24,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),0202200081,
+1,Lebeda Roman,2022-10-17,600.0,EUR,F001171020223675744,Bezhotovostný vklad,,
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,euroawk,2022-08-26,-156.0,EUR,Reklama,Platobný príkaz na úhradu / FIT 2.0 (EB),2270436,
+5,Lebeda Roman,2022-08-26,300.0,EUR,F001260820225437090,Bezhotovostný vklad,,
+6,Lebeda Roman,2022-08-26,122.0,EUR,F001260820225436805,Bezhotovostný vklad,,
