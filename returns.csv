@@ -59,8 +59,8 @@ index,index,date,amount,account_name,message,vs,name
 57,47,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
 58,48,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
 59,72,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
-60,259,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
-61,241,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
+60,260,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
+61,242,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 62,416,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
 63,287,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
 64,407,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
@@ -87,10 +87,10 @@ index,index,date,amount,account_name,message,vs,name
 85,249,2022-10-12,3000.0,Lehotská  Jana,dar,20221198.0,Team Bratislava
 86,0,2022-10-18,-1500.0,ZISKA MILAN,vrateny dar pre porusenie podmienok darovania,18102022.0,Team Bratislava
 87,12,2022-10-18,1500.0,ZISKA MILAN,dar,20221400.0,Team Bratislava
-88,33,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-89,123,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-90,47,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
-91,42,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
+88,34,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+89,124,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+90,48,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
+91,43,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
 92,31,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
 93,32,2022-09-16,300.0,"GFD, s.r.o.",F001160920220820044,,Branislav Filipovič
 94,10,2022-10-02,-300.0,Bojnanská Pavlína,,,Branislav Filipovič
@@ -129,8 +129,8 @@ index,index,date,amount,account_name,message,vs,name
 127,12,2022-10-18,1500.0,ZISKA MILAN,dar,20221400.0,Matúš Vallo
 128,46,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
 129,90,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
-130,33,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
-131,123,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
+130,34,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
+131,124,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
 132,3,2022-10-14,-936.0,Nubium s.r.o.,FA 22108119- prenajom reklamnychpanelov v mesiaci oktober 2022 nazaklade objednavky NR/202/07/22,22108119.0,Štefan Štefek
 133,9,2022-10-01,936.0,"NUBIUM, s. r. o.",vratenie platby,22075349.0,Štefan Štefek
 134,129,2021-11-16,-501.0,PREVOD Z KRED. KARTY,vrátenie platby z dôvodunedostatočnej identifikácie darcu,,Michal Djordjevič
