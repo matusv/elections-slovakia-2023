@@ -1,0 +1,10 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,"Marketing House, s.r.o.",2022-10-06,-1729.2,EUR,0221006095117.433224,Okamžitá platba (EB),227030,
+1,"Baňacký Lukáš, Ing.",2022-10-06,1800.0,EUR,OO22100600006943,Bezhotovostný vklad - okamžitá platba,,
+2,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,,2022-09-30,-6.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,ARTON s.r.o.,2022-09-29,-21.6,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220395,
+5,ARTON s.r.o.,2022-09-29,-216.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),220394,
+6,"Baňacký Lukáš, Ing.",2022-09-28,500.0,EUR,OO22092800012138,Bezhotovostný vklad - okamžitá platba,,
+7,"NUBIUM, s.r.o.",2022-09-08,-900.0,EUR,záloha reklamné panely,Okamžitá platba (EB),12120431,
+8,"Baňacký Lukáš, Ing.",2022-09-08,1000.0,EUR,OO22090800007427,Bezhotovostný vklad - okamžitá platba,,
