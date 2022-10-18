@@ -1,11 +1,20 @@
 index,date,amount,account_name,message,vs
-0,2022-10-11,-10.0,Výber hotovosti,S6AV412C DETVA 17:03,****3330
-1,2022-10-05,100.0,Slavomir Ciglan,,
-2,2022-09-30,6.0,,Odpustenie vedenie konta,9
-3,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-08-31,6.0,,Odpustenie vedenie konta,9
-5,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-6,2022-08-17,-15.28,META PLATFORMS IRELAND LIMITED,FACEBOOK ADS B6Q9RC3H1F,
-7,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-8,2022-07-29,-5.0,,Vedenie účtu,9
-9,2022-07-26,100.0,Slavomir Ciglan,,
+0,2022-10-15,-12.0,Platba kartou,Platba kartou u obchodníka,****3330
+1,2022-10-17,-9.0,Platba kartou,FACEBK 382AUFXU fb.me/ads,****3330
+2,2022-10-17,-6.0,Platba kartou,FACEBK E5DK9GPV fb.me/ads,****3330
+3,2022-10-17,-4.0,Platba kartou,FACEBK TN2VFH3V fb.me/ads,****3330
+4,2022-10-17,-2.0,Platba kartou,FACEBK QJNVMGBV fb.me/ads,****3330
+5,2022-10-17,-2.0,Platba kartou,FACEBK CYBYMGBV fb.me/ads,****3330
+6,2022-10-17,-1.5,Platba kartou,FACEBK QHQ5AG3W fb.me/ads,****3330
+7,2022-10-17,-1.5,Platba kartou,FACEBK TBT6KF7V fb.me/ads,****3330
+8,2022-10-17,-1.5,Platba kartou,FACEBK UUPJAG3W fb.me/ads,****3330
+9,2022-10-11,-10.0,Výber hotovosti,S6AV412C DETVA 17:03,****3330
+10,2022-10-05,100.0,Slavomir Ciglan,,
+11,2022-09-30,6.0,,Odpustenie vedenie konta,9
+12,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+13,2022-08-31,6.0,,Odpustenie vedenie konta,9
+14,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+15,2022-08-17,-15.28,META PLATFORMS IRELAND LIMITED,FACEBOOK ADS B6Q9RC3H1F,
+16,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+17,2022-07-29,-5.0,,Vedenie účtu,9
+18,2022-07-26,100.0,Slavomir Ciglan,,
