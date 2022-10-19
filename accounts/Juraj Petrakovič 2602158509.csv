@@ -1,23 +1,28 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-18,30.0,Platba prevodom v rámci banky,"Ing. Zigo, Ján",Volby 2022 doplatok,,,,Volby 2022 doplatok
-1,2022-10-13,-354.0,Bezhotovostná platba,,,0308,20221157,,Tlač letákov
-2,2022-10-10,200.0,Bezhotovostný príjem,Peter Jakabovič,/DO2022-10-07/SPPeter jakabovic,,,,Peter Jakabovič
-3,2022-10-07,-64.8,Bezhotovostná platba,,,0558,225581,,Tlač plagátov
-4,2022-10-04,-236.0,Bezhotovostná platba,,,0558,220121,,Plošná inzercia v MZ
-5,2022-09-15,-70.0,Bezhotovostná platba,,,0308,152022,,Fotografické práce
-6,2022-09-15,-362.4,Bezhotovostná platba,,,0558,22950348,202201051,Reklamné plochy
-7,2022-09-14,200.0,Bezhotovostný príjem,Petrík Michal,/DO2022-09-13/SPPetrik kampan 2022,,13092022,,Petrík Michal
-8,2022-09-11,-144.0,Bezhotovostná platba,,,0558,2270456,,Reklamné plochy
-9,2022-09-06,-100.0,Bezhotovostná platba,,Uhrada faktury: 20220014,,20220014,,Fotenie LM
-10,2022-08-25,200.0,Bezhotovostný príjem,Juran Peter,"/DO2022-08-24/SPJuran Peter,  prispevok na kampan LM",,,,Juran Peter
-11,2022-08-25,50.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-08-24/SPAndy Kukumbergová,,,,Andrea Kukumbergová
-12,2022-08-12,-38.94,Bezhotovostná platba,,,0308,2289037719,,Reklamné plochy
-13,2022-07-18,150.0,Bezhotovostný príjem,Naďa Kovárová,/DO2022-07-16/SPNaďa Kovárová,,,,Naďa Kovárová
-14,2022-07-13,150.0,Bezhotovostný príjem,Ján Bača,/DO2022-07-13/SP jan Baca kampan,,,,Ján Bača
-15,2022-06-20,-576.0,Bezhotovostná platba,,,0558,2270124,,Reklamné plochy
-16,2022-06-19,200.0,Platba prevodom v rámci banky,"Ing. Zigo, Ján",Volby 2022,,,,Volby 2022
-17,2022-06-15,100.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-06-15/SP,,,,Andrea Kukumbergová
-18,2022-06-15,200.0,Bezhotovostný príjem,Marián Gavorník,/DO2022-06-14/SPGavornik,0558,14062022,,Marián Gavorník
-19,2022-06-07,200.0,Bezhotovostný príjem,LISKA JAKUB,/DO2022-06-06/SPJakub Liska,,,,LISKA JAKUB
-20,2022-04-29,150.0,Bezhotovostný príjem,Ľubica Juranová,/DO2022-04-28/SPJán Juran - príspevok na transparentný účet,,28042022,,Ľubica Juranová
-21,2022-03-23,200.0,Bezhotovostný príjem,PETRAKOVIC JURAJ,/DO2022-03-23/SPvolby 2020,,,,PETRAKOVIC JURAJ
+0,2022-10-19,80.0,Bezhotovostný príjem,Ján Bača,/DO2022-10-18/SP jan Baca kampan,,,,Ján Bača
+1,2022-10-19,30.0,Bezhotovostný príjem,Juran Peter,"/DO2022-10-18/SPJuran Peter,  prispevok na kampan LM",,,,Juran Peter
+2,2022-10-19,30.0,Bezhotovostný príjem,Marián Gavorník,/DO2022-10-18/SPGavornik,0558,18102022,,Marián Gavorník
+3,2022-10-19,80.0,Bezhotovostný príjem,Naďa Kovárová,/DO2022-10-18/SP,,,,Naďa Kovárová
+4,2022-10-19,80.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-10-18/SPAndy Kukumbergová,,,,Andrea Kukumbergová
+5,2022-10-18,30.0,Platba prevodom v rámci banky,"Ing. Zigo, Ján",Volby 2022 doplatok,,,,Volby 2022 doplatok
+6,2022-10-13,-354.0,Bezhotovostná platba,,,0308,20221157,,Tlač letákov
+7,2022-10-10,200.0,Bezhotovostný príjem,Peter Jakabovič,/DO2022-10-07/SPPeter jakabovic,,,,Peter Jakabovič
+8,2022-10-07,-64.8,Bezhotovostná platba,,,0558,225581,,Tlač plagátov
+9,2022-10-04,-236.0,Bezhotovostná platba,,,0558,220121,,Plošná inzercia v MZ
+10,2022-09-15,-70.0,Bezhotovostná platba,,,0308,152022,,Fotografické práce
+11,2022-09-15,-362.4,Bezhotovostná platba,,,0558,22950348,202201051,Reklamné plochy
+12,2022-09-14,200.0,Bezhotovostný príjem,Petrík Michal,/DO2022-09-13/SPPetrik kampan 2022,,13092022,,Petrík Michal
+13,2022-09-11,-144.0,Bezhotovostná platba,,,0558,2270456,,Reklamné plochy
+14,2022-09-06,-100.0,Bezhotovostná platba,,Uhrada faktury: 20220014,,20220014,,Fotenie LM
+15,2022-08-25,200.0,Bezhotovostný príjem,Juran Peter,"/DO2022-08-24/SPJuran Peter,  prispevok na kampan LM",,,,Juran Peter
+16,2022-08-25,50.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-08-24/SPAndy Kukumbergová,,,,Andrea Kukumbergová
+17,2022-08-12,-38.94,Bezhotovostná platba,,,0308,2289037719,,Reklamné plochy
+18,2022-07-18,150.0,Bezhotovostný príjem,Naďa Kovárová,/DO2022-07-16/SPNaďa Kovárová,,,,Naďa Kovárová
+19,2022-07-13,150.0,Bezhotovostný príjem,Ján Bača,/DO2022-07-13/SP jan Baca kampan,,,,Ján Bača
+20,2022-06-20,-576.0,Bezhotovostná platba,,,0558,2270124,,Reklamné plochy
+21,2022-06-19,200.0,Platba prevodom v rámci banky,"Ing. Zigo, Ján",Volby 2022,,,,Volby 2022
+22,2022-06-15,100.0,Bezhotovostný príjem,Andrea Kukumbergová,/DO2022-06-15/SP,,,,Andrea Kukumbergová
+23,2022-06-15,200.0,Bezhotovostný príjem,Marián Gavorník,/DO2022-06-14/SPGavornik,0558,14062022,,Marián Gavorník
+24,2022-06-07,200.0,Bezhotovostný príjem,LISKA JAKUB,/DO2022-06-06/SPJakub Liska,,,,LISKA JAKUB
+25,2022-04-29,150.0,Bezhotovostný príjem,Ľubica Juranová,/DO2022-04-28/SPJán Juran - príspevok na transparentný účet,,28042022,,Ľubica Juranová
+26,2022-03-23,200.0,Bezhotovostný príjem,PETRAKOVIC JURAJ,/DO2022-03-23/SPvolby 2020,,,,PETRAKOVIC JURAJ
