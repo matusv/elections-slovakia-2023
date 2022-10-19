@@ -101,8 +101,8 @@ index,index,date,amount,account_name,message,vs,name
 99,6,2022-09-15,1.0,Milan Bodnár,,,Peter Komínek
 100,14,2022-08-15,-3000.0,Pharmevid s.r.o.,Vratenie platby,82022.0,Peter Novisedlák
 101,15,2022-08-15,3000.0,Pharmevid s.r.o.,VKLAD,82022.0,Peter Novisedlák
-102,51,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
-103,52,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
+102,50,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
+103,51,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
 104,25,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
 105,26,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
 106,72,2022-07-18,-342.0,Arton Sro,Kubáň Ľubomír; Gombalová - nájom ;08.07.2022,220290.0,Ľubomír Kubáň
