@@ -1,0 +1,4 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,,2022-10-17,-0.2,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(EB),Poplatok,20220122,
+1,Duxxprint s.r.o.,2022-10-16,-192.0,EUR,uhrada faktúry,Platobný príkaz na úhradu / FIT 2.0 (EB),20220122,
+2,ILENCIK LUBOS,2022-10-14,500.0,EUR,23733288,Bezhotovostný vklad,,

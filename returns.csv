@@ -41,26 +41,26 @@ index,index,date,amount,account_name,message,vs,name
 39,69,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
 40,17,2022-10-13,-5000.0,"DENT-IN, S.R.O.",Vrátenie daru - mylná platba,13102022.0,Kresťanskodemokratické hnutie
 41,25,2022-10-12,5000.0,"DENT-IN, S.R.O.",23711150,,Kresťanskodemokratické hnutie
-42,254,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-43,225,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-44,222,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
-45,185,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-46,209,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-47,208,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA
-48,159,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-49,164,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-50,161,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-51,162,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
-52,136,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
-53,139,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
-54,126,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
-55,128,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
-56,39,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,,REPUBLIKA
-57,51,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
-58,52,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
-59,76,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
-60,262,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
-61,244,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
+42,259,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+43,230,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+44,227,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+45,190,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
+46,214,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+47,213,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA
+48,164,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+49,169,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
+50,166,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+51,167,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
+52,141,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
+53,144,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
+54,131,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
+55,133,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
+56,44,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,,REPUBLIKA
+57,56,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
+58,57,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
+59,81,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
+60,296,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
+61,278,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 62,417,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
 63,288,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
 64,408,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
@@ -105,18 +105,18 @@ index,index,date,amount,account_name,message,vs,name
 103,51,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
 104,26,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
 105,27,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
-106,72,2022-07-18,-342.0,Arton Sro,Kubáň Ľubomír; Gombalová - nájom ;08.07.2022,220290.0,Ľubomír Kubáň
-107,5,2022-10-14,342.0,ARTON s.r.o.,Duplicitna uhrada,62209133.0,Ľubomír Kubáň
-108,142,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
-109,137,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
+106,73,2022-07-18,-342.0,Arton Sro,Kubáň Ľubomír; Gombalová - nájom ;08.07.2022,220290.0,Ľubomír Kubáň
+107,6,2022-10-14,342.0,ARTON s.r.o.,Duplicitna uhrada,62209133.0,Ľubomír Kubáň
+108,143,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
+109,138,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 110,29,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
 111,28,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
 112,9,2022-09-07,-150.0,Mesto Sobrance,"Daň/poplatok 2022 UVP DAN č. 115,",1215200115.0,Marián Sejna
 113,1,2022-10-17,150.0,MESTO SOBRANCE,Vrátenie UVP´22- Ing. Marián Sejna,,Marián Sejna
 114,5,2022-10-17,-1000.0,Matej Pindroch,Vrátenie daru - mylná platba.,12092022.0,Rastislav Trnka
 115,65,2022-09-12,1000.0,Matej Pindroch,2225550000009825,12092022.0,Rastislav Trnka
-116,6,2022-10-18,-1000.0,ROMAN JOZEF,Vrátenie daru,,Marcel Vrchota
-117,20,2022-10-10,1000.0,ROMAN JOZEF,Drzim palce.,,Marcel Vrchota
+116,7,2022-10-18,-1000.0,ROMAN JOZEF,Vrátenie daru,,Marcel Vrchota
+117,21,2022-10-10,1000.0,ROMAN JOZEF,Drzim palce.,,Marcel Vrchota
 118,1291,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Matúš Vallo
 119,1292,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Matúš Vallo
 120,1270,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Matúš Vallo
