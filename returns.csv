@@ -41,12 +41,12 @@ index,index,date,amount,account_name,message,vs,name
 39,70,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
 40,18,2022-10-13,-5000.0,"DENT-IN, S.R.O.",Vrátenie daru - mylná platba,13102022.0,Kresťanskodemokratické hnutie
 41,26,2022-10-12,5000.0,"DENT-IN, S.R.O.",23711150,,Kresťanskodemokratické hnutie
-42,267,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-43,238,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-44,235,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+42,255,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+43,226,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+44,223,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
 45,198,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-46,222,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-47,221,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA
+46,210,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+47,211,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
 48,174,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
 49,177,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
 50,172,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
