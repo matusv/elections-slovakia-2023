@@ -1,13 +1,14 @@
 index,date,amount,account_name,message,vs
-0,2022-10-20,-9.0,Platba kartou,Platba kartou u obchodníka,****333
-1,2022-10-07,-814.2,DMRS,,20221001
-2,2022-10-05,1000.0,Peter Vološin,,
-3,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-09-30,-240.0,peter filakovský,foto,3222
-5,2022-09-28,1000.0,Peter Vološin,,
-6,2022-09-23,-426.0,DMRS,,20220908
-7,2022-09-20,-90.0,ING.MICHAL FEČÍK-PRESS,Fecik -PRESS,2209015
-8,2022-09-19,-712.8,DMRS,baner,20220906
-9,2022-09-08,2000.0,Peter Vološin,volebna kampan,
-10,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-11,2022-08-31,-5.0,,Vedenie účtu,9
+0,2022-10-21,-9.0,Platba kartou,Platba kartou u obchodníka,****333
+1,2022-10-20,-9.0,Platba kartou,Platba kartou u obchodníka,****333
+2,2022-10-07,-814.2,DMRS,,20221001
+3,2022-10-05,1000.0,Peter Vološin,,
+4,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-09-30,-240.0,peter filakovský,foto,3222
+6,2022-09-28,1000.0,Peter Vološin,,
+7,2022-09-23,-426.0,DMRS,,20220908
+8,2022-09-20,-90.0,ING.MICHAL FEČÍK-PRESS,Fecik -PRESS,2209015
+9,2022-09-19,-712.8,DMRS,baner,20220906
+10,2022-09-08,2000.0,Peter Vološin,volebna kampan,
+11,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+12,2022-08-31,-5.0,,Vedenie účtu,9

@@ -1,180 +1,182 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-21,10.0,Bezhotovostný príjem,RAU DAVID,/DO2022-10-20/SPDar,,,,RAU DAVID
-1,2022-10-21,50.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-10-20/SPDar K. Bilska,,,,BILSKY LUBOMIR
-2,2022-10-20,-104.45,Transakcia kartou,,"Nákup: DPD SK, S.R.O.,  TECHNICKA 7, BRATISLAVA, 82104, SVK, dne 19.10.2022, částka  104.45 EUR",,3925,,"Nákup: DPD SK, S.R.O.,  TECHNICKA 7, BRATISLAVA, 82104, SVK, dne 19.10.2022, částka  104.45 EUR"
-3,2022-10-20,-91.8,Transakcia kartou,,"Nákup: 123KURIER S R O,  VOJTASSAKOVA 616, TVRDOSIN, 027 44, SVK, dne 18.10.2022, částka  91.80 EUR",,3925,,"Nákup: 123KURIER S R O,  VOJTASSAKOVA 616, TVRDOSIN, 027 44, SVK, dne 18.10.2022, částka  91.80 EUR"
-4,2022-10-19,-1350.0,Bezhotovostná platba,,,,04522,,prednasky a pracovne listy
-5,2022-10-19,-217.0,Bezhotovostná platba,,,,802022,,kratkodoby prenajom sk vajnorska
-6,2022-10-19,-90.5,Bezhotovostná platba,,,,802022,,zapozicanie projektoru platna obrusu
-7,2022-10-19,-340.0,Platba prevodom v rámci banky,,,,20220046,,kuzelnicke predstavenie
-8,2022-10-19,-170.0,Platba prevodom v rámci banky,,,,20220038,,kuzelnicke predstavenie
-9,2022-10-19,-60.0,Bezhotovostná platba,,,,202202,,poskytnutie pravnych sluzieb
-10,2022-10-18,-125.63,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 17.10.2022, částka  125.63 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 17.10.2022, částka  125.63 EUR"
-11,2022-10-18,15.0,Bezhotovostný príjem,ANDREJ SHADURA,/DO2022-10-17/SPDRZIM PALCE-,,,,ANDREJ SHADURA
-12,2022-10-18,35.0,Bezhotovostný príjem,Blažena Ambróz Sedro,/DO2022-10-17/SPdar,,,,Blažena Ambróz Sedro
-13,2022-10-18,100.0,Bezhotovostný príjem,MARKUSOVA BOHUSLAVA,,,,,MARKUSOVA BOHUSLAVA
-14,2022-10-18,-900.0,Transakcia kartou,,"Nákup: FACEBK *7MZ5GG7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.10.2022, částka  900.00 EUR",,3925,,"Nákup: FACEBK *7MZ5GG7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.10.2022, částka  900.00 EUR"
-15,2022-10-17,-61.44,Transakcia kartou,,"Nákup: BONI FRUCTI S.R.O.,  ROZNAVSKA 1A, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  61.44 EUR",,3925,,"Nákup: BONI FRUCTI S.R.O.,  ROZNAVSKA 1A, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  61.44 EUR"
-16,2022-10-17,50.0,Bezhotovostný príjem,BIANCHI ELENA,/DO2022-10-16/SPNa lepsie Nove mesto,,,,BIANCHI ELENA
-17,2022-10-17,100.0,Bezhotovostný príjem,Lucia Smažáková Kara,/DO2022-10-14/SPDar,,102022,,Lucia Smažáková Kara
-18,2022-10-16,-123.69,Transakcia kartou,,"Nákup: KAUFLAND 2220, BA, TRN,  TRNAVSKA CESTA 41, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  123.69 EUR",,3925,,"Nákup: KAUFLAND 2220, BA, TRN,  TRNAVSKA CESTA 41, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  123.69 EUR"
-19,2022-10-14,-100.0,Transakcia kartou,,"Nákup: Svet Miriss,  Racianska 1528/87, Bratislava -, 83102, SVK, dne 13.10.2022, částka  100.00 EUR",,3925,,"Nákup: Svet Miriss,  Racianska 1528/87, Bratislava -, 83102, SVK, dne 13.10.2022, částka  100.00 EUR"
-20,2022-10-14,-119.25,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 13.10.2022, částka  119.25 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 13.10.2022, částka  119.25 EUR"
-21,2022-10-14,200.0,Bezhotovostný príjem,Melicherová Petra,/DO2022-10-13/SPBolech Prispevok,,,,Melicherová Petra
-22,2022-10-14,75.0,Bezhotovostný príjem,Peter Kárpáty,/DO2022-10-13/SP Dar,,,,Peter Kárpáty
-23,2022-10-14,200.0,Bezhotovostný príjem,Michal Fiabáne,/DO2022-10-13/SP Dar na kampan,,,,Michal Fiabáne
-24,2022-10-14,-78.0,Bezhotovostná platba,,,,410222929,,reklamné plochy
-25,2022-10-14,-2160.0,Bezhotovostná platba,,,,2215233,,medialny kredit
-26,2022-10-13,10.0,Bezhotovostný príjem,Kočan Stanislav,/DO2022-10-12/SPdar,,,,Kočan Stanislav
-27,2022-10-12,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-10-11/SPPrispevok na kampan,,,,MATLON MICHAL
-28,2022-10-11,-95.39,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 10.10.2022, částka  95.39 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 10.10.2022, částka  95.39 EUR"
-29,2022-10-10,50.0,Bezhotovostný príjem,JURAJ FALAT,/DO2022-10-10/SPJURAJ FALAT,,,,JURAJ FALAT
-30,2022-10-10,35.0,Bezhotovostný príjem,Peter Rolný,/DO2022-10-10/SP prines zmenu Matus,,,,Peter Rolný
-31,2022-10-10,400.0,Bezhotovostný príjem,Bronislava Milčíková,"/DO2022-10-09/SP/DO2022-10-09/SP Milcikova, dar na kampan",,,,Bronislava Milčíková
-32,2022-10-09,-2478.0,Bezhotovostná platba,,,,202210013,,tlac novin
-33,2022-10-07,75.0,Bezhotovostný príjem,Hetteš Miroslav,/DO2022-10-06/SPdar,,,,Hetteš Miroslav
-34,2022-10-06,200.0,Bezhotovostný príjem,"Timková Darina, Mgr.",/DO2022-10-05/SPdarina timkova,,,,"Timková Darina, Mgr."
-35,2022-10-06,35.0,Bezhotovostný príjem,"Galáš Pavol, Mgr.",/DO2022-10-05/SPDar,,,,"Galáš Pavol, Mgr."
-36,2022-10-05,-29.06,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.10.2022, částka  29.06 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.10.2022, částka  29.06 EUR"
-37,2022-10-05,-300.0,Bezhotovostná platba,,,,,,video
-38,2022-10-05,-400.0,Bezhotovostná platba,,,,,,administrativne sluzby
-39,2022-10-04,-450.0,Bezhotovostná platba,,,,20220007,,uprava novin
-40,2022-10-03,55.0,Platba prevodom v rámci banky,"Mgr. Miler, Martin",,,,,
-41,2022-10-03,50.0,Bezhotovostný príjem,VERONIKA BOISANFRAY,/DO2022-09-30/SPDAR,,,,VERONIKA BOISANFRAY
-42,2022-10-03,1000.0,Bezhotovostný príjem,Matej Grébert,/DO2022-09-30/SP DarNaKampan,,,,Matej Grébert
-43,2022-10-02,-225.0,Platba prevodom v rámci banky,,,,202211,,malovanie na tvar
-44,2022-10-01,-179.6,Transakcia kartou,,"Nákup: FACEBK *YY6XKFBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.9.2022, částka  179.60 EUR",,3925,,"Nákup: FACEBK *YY6XKFBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.9.2022, částka  179.60 EUR"
-45,2022-09-29,-145.94,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 28.9.2022, částka  145.94 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 28.9.2022, částka  145.94 EUR"
-46,2022-09-29,-32.8,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 28.9.2022, částka  32.80 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 28.9.2022, částka  32.80 EUR"
-47,2022-09-28,35.0,Bezhotovostný príjem,"Salcer Igor, Ing. ar",/DO2022-09-27/SPDAR. dufam ze vyhras !!!,,,,"Salcer Igor, Ing. ar"
-48,2022-09-28,150.0,Bezhotovostný príjem,Rastislav Simeunovič,/DO2022-09-27/SPDar na kampan - drzim palce,,,,Rastislav Simeunovič
-49,2022-09-28,400.0,Bezhotovostný príjem,TROIAK PAVOL,/DO2022-09-27/SP,,2022,,TROIAK PAVOL
-50,2022-09-27,100.0,Bezhotovostný príjem,"Čavoj Branislav, Ing",/DO2022-09-26/SPCavoj (drzim palce),,,,"Čavoj Branislav, Ing"
-51,2022-09-26,35.0,Bezhotovostný príjem,Symington - Maar Ann,/DO2022-09-23/SPdar,,,,Symington - Maar Ann
-52,2022-09-26,-901.09,Transakcia kartou,,"Nákup: FACEBK *6Y9TMFFW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.9.2022, částka  901.09 EUR",,3925,,"Nákup: FACEBK *6Y9TMFFW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.9.2022, částka  901.09 EUR"
-53,2022-09-25,-60.0,Bezhotovostná platba,,,,103998,,meracie prace
-54,2022-09-25,-250.0,Bezhotovostná platba,,,,18092022,,divadlo na hojdacke
-55,2022-09-25,-200.0,Bezhotovostná platba,,,,12000444,,miro jilo vystupenie
-56,2022-09-24,-46.29,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.9.2022, částka  46.29 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.9.2022, částka  46.29 EUR"
-57,2022-09-24,-52.5,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 23.9.2022, částka  52.50 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 23.9.2022, částka  52.50 EUR"
-58,2022-09-22,30.0,Bezhotovostný príjem,Ing. arch. Maria Jur,"/DO2022-09-21/SPpodpora kandidatury, drzime palce,Matus",,,,Ing. arch. Maria Jur
-59,2022-09-21,999.0,Bezhotovostný príjem,"Čupková Danica, Ing.",/DO2022-09-20/SPVolby 2022,,,,"Čupková Danica, Ing."
-60,2022-09-20,200.0,Bezhotovostný príjem,Silvia Švecová,/DO2022-09-20/SP dobrovolny prispevok na kampan- drzime palce - Svecovci,,29102022,,Silvia Švecová
-61,2022-09-20,200.0,Bezhotovostný príjem,HRIC PAVOL,Pavol Hric,,,,HRIC PAVOL
-62,2022-09-19,250.0,Bezhotovostný príjem,Kolláriková Martina,/DO2022-09-16/SP,,,,Kolláriková Martina
-63,2022-09-17,-81.0,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 16.9.2022, částka  81.00 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 16.9.2022, částka  81.00 EUR"
-64,2022-09-13,-133.5,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.9.2022, částka  133.50 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.9.2022, částka  133.50 EUR"
-65,2022-09-13,200.0,Bezhotovostný príjem,"Hajšel Andrej, Ing.",/DO2022-09-12/SP,,,,"Hajšel Andrej, Ing."
-66,2022-09-13,-1680.0,Bezhotovostná platba,,,,162290011,,reklamny priestor
-67,2022-09-12,-100.0,Platba prevodom v rámci banky,,,,202208,,malovanie na tvar
-68,2022-09-12,-228.0,Bezhotovostná platba,,,,20220037,,retus fotografii
-69,2022-09-12,75.0,Bezhotovostný príjem,ALEXANDER SAMUEL,/DO2022-09-09/SPdar,,,,ALEXANDER SAMUEL
-70,2022-09-10,-24.63,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 9.9.2022, částka  24.63 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 9.9.2022, částka  24.63 EUR"
-71,2022-09-10,-89.0,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 9.9.2022, částka  89.00 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 9.9.2022, částka  89.00 EUR"
-72,2022-09-08,-400.0,Bezhotovostná platba,,,,2022003,,kampanovy manazment
-73,2022-09-08,-200.0,Bezhotovostná platba,,,,12000440,,miro jilo vystupenie
-74,2022-09-07,300.0,Bezhotovostný príjem,Zuziova Jozefina,"/DO2022-09-06/SPdar Jozefina, Not Provided",,,,Zuziova Jozefina
-75,2022-09-06,100.0,Bezhotovostný príjem,Jančárik Peter,/DO2022-09-06/SPdar,,,,Jančárik Peter
-76,2022-09-05,500.0,Bezhotovostný príjem,"Kulich Rastislav, Mg",/DO2022-09-02/SPDrzim palce,,,,"Kulich Rastislav, Mg"
-77,2022-09-03,-91.11,Transakcia kartou,,"Nákup: SLOVAK PARCEL SERVICE,,  SENECKA CESTA 1, IVANKA PRI DU, 90028, SVK, dne 2.9.2022, částka  91.11 EUR",,3925,,"Nákup: SLOVAK PARCEL SERVICE,,  SENECKA CESTA 1, IVANKA PRI DU, 90028, SVK, dne 2.9.2022, částka  91.11 EUR"
-78,2022-09-03,-72.0,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 2.9.2022, částka  72.00 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 2.9.2022, částka  72.00 EUR"
-79,2022-09-02,400.0,Bezhotovostný príjem,PEKARKOVA ADELA,/DO2022-08-31/SPKAMPAN PEKARKOVA,,,,PEKARKOVA ADELA
-80,2022-09-01,-451.03,Transakcia kartou,,"Nákup: FACEBK *MYDR6F3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.9.2022, částka  451.03 EUR",,3925,,"Nákup: FACEBK *MYDR6F3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.9.2022, částka  451.03 EUR"
-81,2022-08-31,-130.19,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 30.8.2022, částka  130.19 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 30.8.2022, částka  130.19 EUR"
-82,2022-08-31,400.0,Bezhotovostný príjem,KRUSINOVA ZUZANA,/DO2022-08-30/SPna kampan Krusinova,,,,KRUSINOVA ZUZANA
-83,2022-08-30,15.0,Bezhotovostný príjem,Sergej Danilov,/DO2022-08-30/SP dar,,,,Sergej Danilov
-84,2022-08-27,-2430.0,Bezhotovostná platba,,,,122290260,,reklamny priestor
-85,2022-08-26,400.0,Bezhotovostný príjem,Vlačiky Martin,/DO2022-08-25/SP,,,,Vlačiky Martin
-86,2022-08-25,35.0,Bezhotovostný príjem,MARIA POTTERF,/DO2022-08-24/SPVELA STASTIA-,,,,MARIA POTTERF
-87,2022-08-24,-130.25,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.8.2022, částka  130.25 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.8.2022, částka  130.25 EUR"
-88,2022-08-24,35.0,Bezhotovostný príjem,"Lacinová Ľubica, RND",/DO2022-08-23/SP,,,,"Lacinová Ľubica, RND"
-89,2022-08-24,75.0,Bezhotovostný príjem,Kamil Charvát,/DO2022-08-23/SP,,,,Kamil Charvát
-90,2022-08-24,5000.0,Bezhotovostný príjem,Marcel Baláž,/DO2022-08-23/SP dar,,,,Marcel Baláž
-91,2022-08-23,100.0,Platba prevodom v rámci banky,"Pira, Peter",,,2022098,,
-92,2022-08-22,30.0,Platba prevodom v rámci banky,"Laufik, Ján",dar - Nech sa vec podari,,,,dar - Nech sa vec podari
-93,2022-08-22,250.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-08-21/SPdar K. Bilska,,,,BILSKY LUBOMIR
-94,2022-08-22,200.0,Bezhotovostný príjem,Gebhardtová Katarína,/DO2022-08-19/SPPrispevok na kampan Katarina Gebhardtova,,665805,,Gebhardtová Katarína
-95,2022-08-22,200.0,Bezhotovostný príjem,"Gežík Veronika, Mgr.",/DO2022-08-19/SPkampan,,,,"Gežík Veronika, Mgr."
-96,2022-08-22,400.0,Bezhotovostný príjem,EVA SOLDANOVA,"dobrovolny prispevok, Eva Soldanova",,,,EVA SOLDANOVA
-97,2022-08-20,-15.7,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 19.8.2022, částka  15.70 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 19.8.2022, částka  15.70 EUR"
-98,2022-08-19,75.0,Platba prevodom v rámci banky,"Ing.arch. Antalová, Katarína PhD.",dar,,,,dar
-99,2022-08-19,30.0,Bezhotovostný príjem,Soňa Pacherová,"/DO2022-08-18/SP Matus Cupka, prispevok na kampan, od Sona Pacherova",,,,Soňa Pacherová
-100,2022-08-19,200.0,Bezhotovostný príjem,Jakub Mrva,/DO2022-08-18/SP dar na konstruktivnu a slusnu kampan,,,,Jakub Mrva
-101,2022-08-19,-99.32,Bezhotovostná platba,,,,5127,,komponenty na odznaky
-102,2022-08-18,75.0,Bezhotovostný príjem,"Brliť Matúš, Ing.",/DO2022-08-17/SPdar,,,,"Brliť Matúš, Ing."
-103,2022-08-18,800.0,Bezhotovostný príjem,Ivan Zemko,/DO2022-08-17/SP Dar,,,,Ivan Zemko
-104,2022-08-18,-480.0,Transakcia kartou,,"Nákup: FACEBK *XFH2TE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2022, částka  480.00 EUR",,3925,,"Nákup: FACEBK *XFH2TE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2022, částka  480.00 EUR"
-105,2022-08-17,15.0,Bezhotovostný príjem,Andrea Ostrihoňová,/DO2022-08-16/SP,,2022026,,Andrea Ostrihoňová
-106,2022-08-15,35.0,Bezhotovostný príjem,JURAJ STOLC,/DO2022-08-15/SPDAR,,,,JURAJ STOLC
-107,2022-08-15,150.0,Bezhotovostný príjem,Viera Viznerová,/DO2022-08-15/SP Dar. Viera Viznerova,,,,Viera Viznerová
-108,2022-08-15,75.0,Bezhotovostný príjem,ALEXANDER SAMUEL,/DO2022-08-13/SP,,2022082,,ALEXANDER SAMUEL
-109,2022-08-15,75.0,Bezhotovostný príjem,"Nemec Peter, Ing.",/DO2022-08-13/SP,0558,6009066030,,"Nemec Peter, Ing."
-110,2022-08-15,75.0,Bezhotovostný príjem,"Kobza Slavomír, Ing.",/DO2022-08-13/SP,,20220137,,"Kobza Slavomír, Ing."
-111,2022-08-15,50.0,Bezhotovostný príjem,"Németh Pavol, Ing.",/DO2022-08-14/SP,,20220176,,"Németh Pavol, Ing."
-112,2022-08-15,150.0,Bezhotovostný príjem,Fratrič Igor,/DO2022-08-14/SPcupka kampan 2022,,20220119,,Fratrič Igor
-113,2022-08-15,1000.0,Bezhotovostný príjem,Markuš Adam,/DO2022-08-12/SPPrispevok,,,,Markuš Adam
-114,2022-08-15,800.0,Bezhotovostný príjem,Katarína Augustinič,/DO2022-08-13/SPAugustinic,,,,Katarína Augustinič
-115,2022-08-15,-576.0,Bezhotovostná platba,,,,12120449,,reklamný priestor
-116,2022-08-13,-40.86,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.8.2022, částka  40.86 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.8.2022, částka  40.86 EUR"
-117,2022-08-12,40.0,Bezhotovostný príjem,"Ďurajka Štefan, Ing.",/DO2022-08-11/SPNa Kampan Durajka,,,,"Ďurajka Štefan, Ing."
-118,2022-08-11,200.0,Bezhotovostný príjem,Hamšík Adam,/DO2022-08-10/SPdar,,,,Hamšík Adam
-119,2022-08-10,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-08-09/SPPrispevok na kampan,,,,MATLON MICHAL
-120,2022-08-10,20.0,Bezhotovostný príjem,TURANSKA ANDREA,/DO2022-08-09/SPdar,,,,TURANSKA ANDREA
-121,2022-08-09,-118.5,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 8.8.2022, částka  118.50 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 8.8.2022, částka  118.50 EUR"
-122,2022-08-09,10.0,Bezhotovostný príjem,Michaela Nôtová,/DO2022-08-08/SPdar,,,,Michaela Nôtová
-123,2022-08-04,-90.0,Bezhotovostná platba,,,,16,,najom dk kramare
-124,2022-08-04,-250.0,Bezhotovostná platba,,,,31072022,,divadlo piknik
-125,2022-08-04,-44.57,Bezhotovostná platba,,,,5286817,,vlajka
-126,2022-08-04,-194.4,Bezhotovostná platba,,,,22950261,,reklamny priestor
-127,2022-08-04,-100.0,Platba prevodom v rámci banky,,,,202206,,malovanie na tvar
-128,2022-08-04,-400.0,Bezhotovostná platba,,,,2022001,,administrativne sluzby
-129,2022-08-03,200.0,Bezhotovostný príjem,"Lášticová Barbara, M",/DO2022-08-02/SPDAR,,,,"Lášticová Barbara, M"
-130,2022-08-02,-166.75,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 1.8.2022, částka  166.75 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 1.8.2022, částka  166.75 EUR"
-131,2022-08-02,30.0,Bezhotovostný príjem,Erik Urban,/DO2022-08-01/SPdar,,,,Erik Urban
-132,2022-08-01,-343.22,Transakcia kartou,,"Nákup: FACEBK *N2ZMEE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.8.2022, částka  343.22 EUR",,3925,,"Nákup: FACEBK *N2ZMEE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.8.2022, částka  343.22 EUR"
-133,2022-07-26,-1080.0,Bezhotovostná platba,,,,2270073,,zaloha outdoor kampan
-134,2022-07-26,-83.8,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR"
-135,2022-07-25,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-07-23/SPPrispevok na kampan,,,,MATLON MICHAL
-136,2022-07-21,-60.0,Bezhotovostná platba,,,0308,20220019,,malovanie piknik jahodova
-137,2022-07-21,-150.0,Platba prevodom v rámci banky,,,,550902022,,mr bubble piknik jahodova
-138,2022-07-20,150.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-07-19/SPdar,,,,BILSKY LUBOMIR
-139,2022-07-15,300.0,Bezhotovostný príjem,MRVA JAKUB,/DO2022-07-14/SPNove Mesto potrebuje rozhybat,,,,MRVA JAKUB
-140,2022-07-12,-80.32,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR"
-141,2022-07-12,-200.0,Bezhotovostná platba,,,,12000425,,miro jilo piknik
-142,2022-07-11,100.0,Bezhotovostný príjem,Michal Drotován,/DO2022-07-11/SP Drzim palce,,,,Michal Drotován
-143,2022-07-09,-32.48,Transakcia kartou,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR",,3925,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR"
-144,2022-07-09,-22.61,Transakcia kartou,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR",,3925,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR"
-145,2022-07-08,50.0,Bezhotovostný príjem,Vojtek Peter,/DO2022-07-07/SPdar,,,,Vojtek Peter
-146,2022-07-07,-64.6,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR"
-147,2022-07-05,-66.9,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR"
-148,2022-07-04,20.0,Bezhotovostný príjem,Hana Drahovská,/DO2022-07-04/SP SP,,,,Hana Drahovská
-149,2022-07-01,-166.63,Transakcia kartou,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR",,3925,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR"
-150,2022-06-27,20.0,Bezhotovostný príjem,Matej Čambál,/DO2022-06-25/SP,,,,Matej Čambál
-151,2022-06-23,-193.75,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR"
-152,2022-06-22,50.0,Bezhotovostný príjem,SIRKA DANIEL,/DO2022-06-21/SPdar Matus Cupka,,,,SIRKA DANIEL
-153,2022-06-21,-559.2,Bezhotovostná platba,,,,202206037,,tlac listov
-154,2022-06-13,-546.76,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR"
-155,2022-06-13,-0.31,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR"
-156,2022-06-07,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-06-06/SPPrispevok na kampan,,,,MATLON MICHAL
-157,2022-06-06,-570.0,Bezhotovostná platba,,,,202205,,webdizajn
-158,2022-06-01,-132.67,Transakcia kartou,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR",,3925,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR"
-159,2022-05-31,-120.7,Bezhotovostná platba,,,,202204949,,letaky
-160,2022-05-31,-27.77,Bezhotovostná platba,,,,202204852,,tlac kapa dosky
-161,2022-05-31,-500.0,Bezhotovostná platba,,,,22050021,,produkcia videa
-162,2022-05-31,-75.6,Bezhotovostná platba,,,,202205059,,polep
-163,2022-05-31,-120.0,Bezhotovostná platba,,,,2224,,fotograf
-164,2022-05-31,-120.0,Bezhotovostná platba,,,,20220021,,zvuk video
-165,2022-05-31,-36.0,Bezhotovostná platba,,,,922096,,najom stolik
-166,2022-05-30,100.0,Bezhotovostný príjem,"Šimeková Jana, Ing.",/DO2022-05-28/SPprispevok na kampan,,,,"Šimeková Jana, Ing."
-167,2022-05-27,300.0,Bezhotovostný príjem,Kapusta Matúš,/DO2022-05-26/SP,,,,Kapusta Matúš
-168,2022-05-27,100.0,Bezhotovostný príjem,Martin Vavrinčik,/DO2022-05-26/SP,,,,Martin Vavrinčik
-169,2022-05-27,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-05-26/SPPrispevok na kampan,,,,MATLON MICHAL
-170,2022-05-25,-55.0,Transakcia kartou,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR",,3925,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR"
-171,2022-05-25,50.0,Bezhotovostný príjem,JURAN SAMUEL,"/DO2022-05-24/SPDar na kampan, drzime palce, DAR NA KAMPAN - SAMUEL JURAN",,,,JURAN SAMUEL
-172,2022-05-06,-48.0,Transakcia kartou,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR",,3925,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR"
-173,2022-04-15,-81.94,Transakcia kartou,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR",,3925,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR"
-174,2022-04-05,-80.21,Bezhotovostná platba,,,,1022110052,,webhosting cupka2022
-175,2022-04-05,-15.59,Bezhotovostná platba,,,,1022109280,,domena cupka2022
-176,2022-03-02,-450.0,Bezhotovostná platba,,,,202202,,dizajn webstránky
-177,2022-01-27,5000.0,Bezhotovostný príjem,Zuzana Čupková,/DO2022-01-27/SP prispevok cupka,,,,Zuzana Čupková
-178,2022-01-21,3963.41,Platba prevodom v rámci banky,"Čupka, Matúš",,,,,
+0,2022-10-21,-36.93,Transakcia kartou,,"Nákup: DRACIK,  PALACE, CESTA NA SENEC, BRATISLAVA, 82104, SVK, dne 20.10.2022, částka  36.93 EUR",,3925,,"Nákup: DRACIK,  PALACE, CESTA NA SENEC, BRATISLAVA, 82104, SVK, dne 20.10.2022, částka  36.93 EUR"
+1,2022-10-21,-34.25,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 20.10.2022, částka  34.25 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 20.10.2022, částka  34.25 EUR"
+2,2022-10-21,10.0,Bezhotovostný príjem,RAU DAVID,/DO2022-10-20/SPDar,,,,RAU DAVID
+3,2022-10-21,50.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-10-20/SPDar K. Bilska,,,,BILSKY LUBOMIR
+4,2022-10-20,-104.45,Transakcia kartou,,"Nákup: DPD SK, S.R.O.,  TECHNICKA 7, BRATISLAVA, 82104, SVK, dne 19.10.2022, částka  104.45 EUR",,3925,,"Nákup: DPD SK, S.R.O.,  TECHNICKA 7, BRATISLAVA, 82104, SVK, dne 19.10.2022, částka  104.45 EUR"
+5,2022-10-20,-91.8,Transakcia kartou,,"Nákup: 123KURIER S R O,  VOJTASSAKOVA 616, TVRDOSIN, 027 44, SVK, dne 18.10.2022, částka  91.80 EUR",,3925,,"Nákup: 123KURIER S R O,  VOJTASSAKOVA 616, TVRDOSIN, 027 44, SVK, dne 18.10.2022, částka  91.80 EUR"
+6,2022-10-19,-1350.0,Bezhotovostná platba,,,,04522,,prednasky a pracovne listy
+7,2022-10-19,-217.0,Bezhotovostná platba,,,,802022,,kratkodoby prenajom sk vajnorska
+8,2022-10-19,-90.5,Bezhotovostná platba,,,,802022,,zapozicanie projektoru platna obrusu
+9,2022-10-19,-340.0,Platba prevodom v rámci banky,,,,20220046,,kuzelnicke predstavenie
+10,2022-10-19,-170.0,Platba prevodom v rámci banky,,,,20220038,,kuzelnicke predstavenie
+11,2022-10-19,-60.0,Bezhotovostná platba,,,,202202,,poskytnutie pravnych sluzieb
+12,2022-10-18,-125.63,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 17.10.2022, částka  125.63 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 17.10.2022, částka  125.63 EUR"
+13,2022-10-18,15.0,Bezhotovostný príjem,ANDREJ SHADURA,/DO2022-10-17/SPDRZIM PALCE-,,,,ANDREJ SHADURA
+14,2022-10-18,35.0,Bezhotovostný príjem,Blažena Ambróz Sedro,/DO2022-10-17/SPdar,,,,Blažena Ambróz Sedro
+15,2022-10-18,100.0,Bezhotovostný príjem,MARKUSOVA BOHUSLAVA,,,,,MARKUSOVA BOHUSLAVA
+16,2022-10-18,-900.0,Transakcia kartou,,"Nákup: FACEBK *7MZ5GG7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.10.2022, částka  900.00 EUR",,3925,,"Nákup: FACEBK *7MZ5GG7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.10.2022, částka  900.00 EUR"
+17,2022-10-17,-61.44,Transakcia kartou,,"Nákup: BONI FRUCTI S.R.O.,  ROZNAVSKA 1A, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  61.44 EUR",,3925,,"Nákup: BONI FRUCTI S.R.O.,  ROZNAVSKA 1A, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  61.44 EUR"
+18,2022-10-17,50.0,Bezhotovostný príjem,BIANCHI ELENA,/DO2022-10-16/SPNa lepsie Nove mesto,,,,BIANCHI ELENA
+19,2022-10-17,100.0,Bezhotovostný príjem,Lucia Smažáková Kara,/DO2022-10-14/SPDar,,102022,,Lucia Smažáková Kara
+20,2022-10-16,-123.69,Transakcia kartou,,"Nákup: KAUFLAND 2220, BA, TRN,  TRNAVSKA CESTA 41, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  123.69 EUR",,3925,,"Nákup: KAUFLAND 2220, BA, TRN,  TRNAVSKA CESTA 41, BRATISLAVA, 83104, SVK, dne 15.10.2022, částka  123.69 EUR"
+21,2022-10-14,-100.0,Transakcia kartou,,"Nákup: Svet Miriss,  Racianska 1528/87, Bratislava -, 83102, SVK, dne 13.10.2022, částka  100.00 EUR",,3925,,"Nákup: Svet Miriss,  Racianska 1528/87, Bratislava -, 83102, SVK, dne 13.10.2022, částka  100.00 EUR"
+22,2022-10-14,-119.25,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 13.10.2022, částka  119.25 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 13.10.2022, částka  119.25 EUR"
+23,2022-10-14,200.0,Bezhotovostný príjem,Melicherová Petra,/DO2022-10-13/SPBolech Prispevok,,,,Melicherová Petra
+24,2022-10-14,75.0,Bezhotovostný príjem,Peter Kárpáty,/DO2022-10-13/SP Dar,,,,Peter Kárpáty
+25,2022-10-14,200.0,Bezhotovostný príjem,Michal Fiabáne,/DO2022-10-13/SP Dar na kampan,,,,Michal Fiabáne
+26,2022-10-14,-78.0,Bezhotovostná platba,,,,410222929,,reklamné plochy
+27,2022-10-14,-2160.0,Bezhotovostná platba,,,,2215233,,medialny kredit
+28,2022-10-13,10.0,Bezhotovostný príjem,Kočan Stanislav,/DO2022-10-12/SPdar,,,,Kočan Stanislav
+29,2022-10-12,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-10-11/SPPrispevok na kampan,,,,MATLON MICHAL
+30,2022-10-11,-95.39,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 10.10.2022, částka  95.39 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 10.10.2022, částka  95.39 EUR"
+31,2022-10-10,50.0,Bezhotovostný príjem,JURAJ FALAT,/DO2022-10-10/SPJURAJ FALAT,,,,JURAJ FALAT
+32,2022-10-10,35.0,Bezhotovostný príjem,Peter Rolný,/DO2022-10-10/SP prines zmenu Matus,,,,Peter Rolný
+33,2022-10-10,400.0,Bezhotovostný príjem,Bronislava Milčíková,"/DO2022-10-09/SP/DO2022-10-09/SP Milcikova, dar na kampan",,,,Bronislava Milčíková
+34,2022-10-09,-2478.0,Bezhotovostná platba,,,,202210013,,tlac novin
+35,2022-10-07,75.0,Bezhotovostný príjem,Hetteš Miroslav,/DO2022-10-06/SPdar,,,,Hetteš Miroslav
+36,2022-10-06,200.0,Bezhotovostný príjem,"Timková Darina, Mgr.",/DO2022-10-05/SPdarina timkova,,,,"Timková Darina, Mgr."
+37,2022-10-06,35.0,Bezhotovostný príjem,"Galáš Pavol, Mgr.",/DO2022-10-05/SPDar,,,,"Galáš Pavol, Mgr."
+38,2022-10-05,-29.06,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.10.2022, částka  29.06 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.10.2022, částka  29.06 EUR"
+39,2022-10-05,-300.0,Bezhotovostná platba,,,,,,video
+40,2022-10-05,-400.0,Bezhotovostná platba,,,,,,administrativne sluzby
+41,2022-10-04,-450.0,Bezhotovostná platba,,,,20220007,,uprava novin
+42,2022-10-03,55.0,Platba prevodom v rámci banky,"Mgr. Miler, Martin",,,,,
+43,2022-10-03,50.0,Bezhotovostný príjem,VERONIKA BOISANFRAY,/DO2022-09-30/SPDAR,,,,VERONIKA BOISANFRAY
+44,2022-10-03,1000.0,Bezhotovostný príjem,Matej Grébert,/DO2022-09-30/SP DarNaKampan,,,,Matej Grébert
+45,2022-10-02,-225.0,Platba prevodom v rámci banky,,,,202211,,malovanie na tvar
+46,2022-10-01,-179.6,Transakcia kartou,,"Nákup: FACEBK *YY6XKFBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.9.2022, částka  179.60 EUR",,3925,,"Nákup: FACEBK *YY6XKFBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.9.2022, částka  179.60 EUR"
+47,2022-09-29,-145.94,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 28.9.2022, částka  145.94 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 28.9.2022, částka  145.94 EUR"
+48,2022-09-29,-32.8,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 28.9.2022, částka  32.80 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 28.9.2022, částka  32.80 EUR"
+49,2022-09-28,35.0,Bezhotovostný príjem,"Salcer Igor, Ing. ar",/DO2022-09-27/SPDAR. dufam ze vyhras !!!,,,,"Salcer Igor, Ing. ar"
+50,2022-09-28,150.0,Bezhotovostný príjem,Rastislav Simeunovič,/DO2022-09-27/SPDar na kampan - drzim palce,,,,Rastislav Simeunovič
+51,2022-09-28,400.0,Bezhotovostný príjem,TROIAK PAVOL,/DO2022-09-27/SP,,2022,,TROIAK PAVOL
+52,2022-09-27,100.0,Bezhotovostný príjem,"Čavoj Branislav, Ing",/DO2022-09-26/SPCavoj (drzim palce),,,,"Čavoj Branislav, Ing"
+53,2022-09-26,35.0,Bezhotovostný príjem,Symington - Maar Ann,/DO2022-09-23/SPdar,,,,Symington - Maar Ann
+54,2022-09-26,-901.09,Transakcia kartou,,"Nákup: FACEBK *6Y9TMFFW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.9.2022, částka  901.09 EUR",,3925,,"Nákup: FACEBK *6Y9TMFFW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.9.2022, částka  901.09 EUR"
+55,2022-09-25,-60.0,Bezhotovostná platba,,,,103998,,meracie prace
+56,2022-09-25,-250.0,Bezhotovostná platba,,,,18092022,,divadlo na hojdacke
+57,2022-09-25,-200.0,Bezhotovostná platba,,,,12000444,,miro jilo vystupenie
+58,2022-09-24,-46.29,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.9.2022, částka  46.29 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.9.2022, částka  46.29 EUR"
+59,2022-09-24,-52.5,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 23.9.2022, částka  52.50 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 23.9.2022, částka  52.50 EUR"
+60,2022-09-22,30.0,Bezhotovostný príjem,Ing. arch. Maria Jur,"/DO2022-09-21/SPpodpora kandidatury, drzime palce,Matus",,,,Ing. arch. Maria Jur
+61,2022-09-21,999.0,Bezhotovostný príjem,"Čupková Danica, Ing.",/DO2022-09-20/SPVolby 2022,,,,"Čupková Danica, Ing."
+62,2022-09-20,200.0,Bezhotovostný príjem,Silvia Švecová,/DO2022-09-20/SP dobrovolny prispevok na kampan- drzime palce - Svecovci,,29102022,,Silvia Švecová
+63,2022-09-20,200.0,Bezhotovostný príjem,HRIC PAVOL,Pavol Hric,,,,HRIC PAVOL
+64,2022-09-19,250.0,Bezhotovostný príjem,Kolláriková Martina,/DO2022-09-16/SP,,,,Kolláriková Martina
+65,2022-09-17,-81.0,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 16.9.2022, částka  81.00 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 16.9.2022, částka  81.00 EUR"
+66,2022-09-13,-133.5,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.9.2022, částka  133.50 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.9.2022, částka  133.50 EUR"
+67,2022-09-13,200.0,Bezhotovostný príjem,"Hajšel Andrej, Ing.",/DO2022-09-12/SP,,,,"Hajšel Andrej, Ing."
+68,2022-09-13,-1680.0,Bezhotovostná platba,,,,162290011,,reklamny priestor
+69,2022-09-12,-100.0,Platba prevodom v rámci banky,,,,202208,,malovanie na tvar
+70,2022-09-12,-228.0,Bezhotovostná platba,,,,20220037,,retus fotografii
+71,2022-09-12,75.0,Bezhotovostný príjem,ALEXANDER SAMUEL,/DO2022-09-09/SPdar,,,,ALEXANDER SAMUEL
+72,2022-09-10,-24.63,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 9.9.2022, částka  24.63 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 9.9.2022, částka  24.63 EUR"
+73,2022-09-10,-89.0,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 9.9.2022, částka  89.00 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 9.9.2022, částka  89.00 EUR"
+74,2022-09-08,-400.0,Bezhotovostná platba,,,,2022003,,kampanovy manazment
+75,2022-09-08,-200.0,Bezhotovostná platba,,,,12000440,,miro jilo vystupenie
+76,2022-09-07,300.0,Bezhotovostný príjem,Zuziova Jozefina,"/DO2022-09-06/SPdar Jozefina, Not Provided",,,,Zuziova Jozefina
+77,2022-09-06,100.0,Bezhotovostný príjem,Jančárik Peter,/DO2022-09-06/SPdar,,,,Jančárik Peter
+78,2022-09-05,500.0,Bezhotovostný príjem,"Kulich Rastislav, Mg",/DO2022-09-02/SPDrzim palce,,,,"Kulich Rastislav, Mg"
+79,2022-09-03,-91.11,Transakcia kartou,,"Nákup: SLOVAK PARCEL SERVICE,,  SENECKA CESTA 1, IVANKA PRI DU, 90028, SVK, dne 2.9.2022, částka  91.11 EUR",,3925,,"Nákup: SLOVAK PARCEL SERVICE,,  SENECKA CESTA 1, IVANKA PRI DU, 90028, SVK, dne 2.9.2022, částka  91.11 EUR"
+80,2022-09-03,-72.0,Transakcia kartou,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 2.9.2022, částka  72.00 EUR",,3925,,"Nákup: PEKAREN NA KOLIBE,  JESENIOVA 19, BRATISLAVA, 831 01, SVK, dne 2.9.2022, částka  72.00 EUR"
+81,2022-09-02,400.0,Bezhotovostný príjem,PEKARKOVA ADELA,/DO2022-08-31/SPKAMPAN PEKARKOVA,,,,PEKARKOVA ADELA
+82,2022-09-01,-451.03,Transakcia kartou,,"Nákup: FACEBK *MYDR6F3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.9.2022, částka  451.03 EUR",,3925,,"Nákup: FACEBK *MYDR6F3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.9.2022, částka  451.03 EUR"
+83,2022-08-31,-130.19,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 30.8.2022, částka  130.19 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 30.8.2022, částka  130.19 EUR"
+84,2022-08-31,400.0,Bezhotovostný príjem,KRUSINOVA ZUZANA,/DO2022-08-30/SPna kampan Krusinova,,,,KRUSINOVA ZUZANA
+85,2022-08-30,15.0,Bezhotovostný príjem,Sergej Danilov,/DO2022-08-30/SP dar,,,,Sergej Danilov
+86,2022-08-27,-2430.0,Bezhotovostná platba,,,,122290260,,reklamny priestor
+87,2022-08-26,400.0,Bezhotovostný príjem,Vlačiky Martin,/DO2022-08-25/SP,,,,Vlačiky Martin
+88,2022-08-25,35.0,Bezhotovostný príjem,MARIA POTTERF,/DO2022-08-24/SPVELA STASTIA-,,,,MARIA POTTERF
+89,2022-08-24,-130.25,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.8.2022, částka  130.25 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 23.8.2022, částka  130.25 EUR"
+90,2022-08-24,35.0,Bezhotovostný príjem,"Lacinová Ľubica, RND",/DO2022-08-23/SP,,,,"Lacinová Ľubica, RND"
+91,2022-08-24,75.0,Bezhotovostný príjem,Kamil Charvát,/DO2022-08-23/SP,,,,Kamil Charvát
+92,2022-08-24,5000.0,Bezhotovostný príjem,Marcel Baláž,/DO2022-08-23/SP dar,,,,Marcel Baláž
+93,2022-08-23,100.0,Platba prevodom v rámci banky,"Pira, Peter",,,2022098,,
+94,2022-08-22,30.0,Platba prevodom v rámci banky,"Laufik, Ján",dar - Nech sa vec podari,,,,dar - Nech sa vec podari
+95,2022-08-22,250.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-08-21/SPdar K. Bilska,,,,BILSKY LUBOMIR
+96,2022-08-22,200.0,Bezhotovostný príjem,Gebhardtová Katarína,/DO2022-08-19/SPPrispevok na kampan Katarina Gebhardtova,,665805,,Gebhardtová Katarína
+97,2022-08-22,200.0,Bezhotovostný príjem,"Gežík Veronika, Mgr.",/DO2022-08-19/SPkampan,,,,"Gežík Veronika, Mgr."
+98,2022-08-22,400.0,Bezhotovostný príjem,EVA SOLDANOVA,"dobrovolny prispevok, Eva Soldanova",,,,EVA SOLDANOVA
+99,2022-08-20,-15.7,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 19.8.2022, částka  15.70 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 19.8.2022, částka  15.70 EUR"
+100,2022-08-19,75.0,Platba prevodom v rámci banky,"Ing.arch. Antalová, Katarína PhD.",dar,,,,dar
+101,2022-08-19,30.0,Bezhotovostný príjem,Soňa Pacherová,"/DO2022-08-18/SP Matus Cupka, prispevok na kampan, od Sona Pacherova",,,,Soňa Pacherová
+102,2022-08-19,200.0,Bezhotovostný príjem,Jakub Mrva,/DO2022-08-18/SP dar na konstruktivnu a slusnu kampan,,,,Jakub Mrva
+103,2022-08-19,-99.32,Bezhotovostná platba,,,,5127,,komponenty na odznaky
+104,2022-08-18,75.0,Bezhotovostný príjem,"Brliť Matúš, Ing.",/DO2022-08-17/SPdar,,,,"Brliť Matúš, Ing."
+105,2022-08-18,800.0,Bezhotovostný príjem,Ivan Zemko,/DO2022-08-17/SP Dar,,,,Ivan Zemko
+106,2022-08-18,-480.0,Transakcia kartou,,"Nákup: FACEBK *XFH2TE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2022, částka  480.00 EUR",,3925,,"Nákup: FACEBK *XFH2TE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2022, částka  480.00 EUR"
+107,2022-08-17,15.0,Bezhotovostný príjem,Andrea Ostrihoňová,/DO2022-08-16/SP,,2022026,,Andrea Ostrihoňová
+108,2022-08-15,35.0,Bezhotovostný príjem,JURAJ STOLC,/DO2022-08-15/SPDAR,,,,JURAJ STOLC
+109,2022-08-15,150.0,Bezhotovostný príjem,Viera Viznerová,/DO2022-08-15/SP Dar. Viera Viznerova,,,,Viera Viznerová
+110,2022-08-15,75.0,Bezhotovostný príjem,ALEXANDER SAMUEL,/DO2022-08-13/SP,,2022082,,ALEXANDER SAMUEL
+111,2022-08-15,75.0,Bezhotovostný príjem,"Nemec Peter, Ing.",/DO2022-08-13/SP,0558,6009066030,,"Nemec Peter, Ing."
+112,2022-08-15,75.0,Bezhotovostný príjem,"Kobza Slavomír, Ing.",/DO2022-08-13/SP,,20220137,,"Kobza Slavomír, Ing."
+113,2022-08-15,50.0,Bezhotovostný príjem,"Németh Pavol, Ing.",/DO2022-08-14/SP,,20220176,,"Németh Pavol, Ing."
+114,2022-08-15,150.0,Bezhotovostný príjem,Fratrič Igor,/DO2022-08-14/SPcupka kampan 2022,,20220119,,Fratrič Igor
+115,2022-08-15,1000.0,Bezhotovostný príjem,Markuš Adam,/DO2022-08-12/SPPrispevok,,,,Markuš Adam
+116,2022-08-15,800.0,Bezhotovostný príjem,Katarína Augustinič,/DO2022-08-13/SPAugustinic,,,,Katarína Augustinič
+117,2022-08-15,-576.0,Bezhotovostná platba,,,,12120449,,reklamný priestor
+118,2022-08-13,-40.86,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.8.2022, částka  40.86 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 12.8.2022, částka  40.86 EUR"
+119,2022-08-12,40.0,Bezhotovostný príjem,"Ďurajka Štefan, Ing.",/DO2022-08-11/SPNa Kampan Durajka,,,,"Ďurajka Štefan, Ing."
+120,2022-08-11,200.0,Bezhotovostný príjem,Hamšík Adam,/DO2022-08-10/SPdar,,,,Hamšík Adam
+121,2022-08-10,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-08-09/SPPrispevok na kampan,,,,MATLON MICHAL
+122,2022-08-10,20.0,Bezhotovostný príjem,TURANSKA ANDREA,/DO2022-08-09/SPdar,,,,TURANSKA ANDREA
+123,2022-08-09,-118.5,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 8.8.2022, částka  118.50 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 8.8.2022, částka  118.50 EUR"
+124,2022-08-09,10.0,Bezhotovostný príjem,Michaela Nôtová,/DO2022-08-08/SPdar,,,,Michaela Nôtová
+125,2022-08-04,-90.0,Bezhotovostná platba,,,,16,,najom dk kramare
+126,2022-08-04,-250.0,Bezhotovostná platba,,,,31072022,,divadlo piknik
+127,2022-08-04,-44.57,Bezhotovostná platba,,,,5286817,,vlajka
+128,2022-08-04,-194.4,Bezhotovostná platba,,,,22950261,,reklamny priestor
+129,2022-08-04,-100.0,Platba prevodom v rámci banky,,,,202206,,malovanie na tvar
+130,2022-08-04,-400.0,Bezhotovostná platba,,,,2022001,,administrativne sluzby
+131,2022-08-03,200.0,Bezhotovostný príjem,"Lášticová Barbara, M",/DO2022-08-02/SPDAR,,,,"Lášticová Barbara, M"
+132,2022-08-02,-166.75,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 1.8.2022, částka  166.75 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 1.8.2022, částka  166.75 EUR"
+133,2022-08-02,30.0,Bezhotovostný príjem,Erik Urban,/DO2022-08-01/SPdar,,,,Erik Urban
+134,2022-08-01,-343.22,Transakcia kartou,,"Nákup: FACEBK *N2ZMEE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.8.2022, částka  343.22 EUR",,3925,,"Nákup: FACEBK *N2ZMEE3X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.8.2022, částka  343.22 EUR"
+135,2022-07-26,-1080.0,Bezhotovostná platba,,,,2270073,,zaloha outdoor kampan
+136,2022-07-26,-83.8,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 25.7.2022, částka  83.80 EUR"
+137,2022-07-25,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-07-23/SPPrispevok na kampan,,,,MATLON MICHAL
+138,2022-07-21,-60.0,Bezhotovostná platba,,,0308,20220019,,malovanie piknik jahodova
+139,2022-07-21,-150.0,Platba prevodom v rámci banky,,,,550902022,,mr bubble piknik jahodova
+140,2022-07-20,150.0,Bezhotovostný príjem,BILSKY LUBOMIR,/DO2022-07-19/SPdar,,,,BILSKY LUBOMIR
+141,2022-07-15,300.0,Bezhotovostný príjem,MRVA JAKUB,/DO2022-07-14/SPNove Mesto potrebuje rozhybat,,,,MRVA JAKUB
+142,2022-07-12,-80.32,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 11.7.2022, částka  80.32 EUR"
+143,2022-07-12,-200.0,Bezhotovostná platba,,,,12000425,,miro jilo piknik
+144,2022-07-11,100.0,Bezhotovostný príjem,Michal Drotován,/DO2022-07-11/SP Drzim palce,,,,Michal Drotován
+145,2022-07-09,-32.48,Transakcia kartou,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR",,3925,,"Nákup: Zasielkovna 7706,  Vajnorska 100, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  32.48 EUR"
+146,2022-07-09,-22.61,Transakcia kartou,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR",,3925,,"Nákup: FAXCOPY15,BA,VAJNORSKA,  VAJNORSKA 98/D, BRATISLAVA, 83104, SVK, dne 8.7.2022, částka  22.61 EUR"
+147,2022-07-08,50.0,Bezhotovostný príjem,Vojtek Peter,/DO2022-07-07/SPdar,,,,Vojtek Peter
+148,2022-07-07,-64.6,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 6.7.2022, částka  64.60 EUR"
+149,2022-07-05,-66.9,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 4.7.2022, částka  66.90 EUR"
+150,2022-07-04,20.0,Bezhotovostný príjem,Hana Drahovská,/DO2022-07-04/SP SP,,,,Hana Drahovská
+151,2022-07-01,-166.63,Transakcia kartou,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR",,3925,,"Nákup: FACEBK *M3KVRD7X32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.7.2022, částka  166.63 EUR"
+152,2022-06-27,20.0,Bezhotovostný príjem,Matej Čambál,/DO2022-06-25/SP,,,,Matej Čambál
+153,2022-06-23,-193.75,Transakcia kartou,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR",,3925,,"Nákup: D one PRINT,  Banselova 21, Bratislava, 821 04, SVK, dne 22.6.2022, částka  193.75 EUR"
+154,2022-06-22,50.0,Bezhotovostný príjem,SIRKA DANIEL,/DO2022-06-21/SPdar Matus Cupka,,,,SIRKA DANIEL
+155,2022-06-21,-559.2,Bezhotovostná platba,,,,202206037,,tlac listov
+156,2022-06-13,-546.76,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  546.76 EUR"
+157,2022-06-13,-0.31,Transakcia kartou,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR",,3925,,"Nákup: REGINA,  HATTALOVA 12, BRATISLAVA, 83103, SVK, dne 10.6.2022, částka  0.31 EUR"
+158,2022-06-07,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-06-06/SPPrispevok na kampan,,,,MATLON MICHAL
+159,2022-06-06,-570.0,Bezhotovostná platba,,,,202205,,webdizajn
+160,2022-06-01,-132.67,Transakcia kartou,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR",,3925,,"Nákup: FACEBK *5RH5MCBX32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.6.2022, částka  132.67 EUR"
+161,2022-05-31,-120.7,Bezhotovostná platba,,,,202204949,,letaky
+162,2022-05-31,-27.77,Bezhotovostná platba,,,,202204852,,tlac kapa dosky
+163,2022-05-31,-500.0,Bezhotovostná platba,,,,22050021,,produkcia videa
+164,2022-05-31,-75.6,Bezhotovostná platba,,,,202205059,,polep
+165,2022-05-31,-120.0,Bezhotovostná platba,,,,2224,,fotograf
+166,2022-05-31,-120.0,Bezhotovostná platba,,,,20220021,,zvuk video
+167,2022-05-31,-36.0,Bezhotovostná platba,,,,922096,,najom stolik
+168,2022-05-30,100.0,Bezhotovostný príjem,"Šimeková Jana, Ing.",/DO2022-05-28/SPprispevok na kampan,,,,"Šimeková Jana, Ing."
+169,2022-05-27,300.0,Bezhotovostný príjem,Kapusta Matúš,/DO2022-05-26/SP,,,,Kapusta Matúš
+170,2022-05-27,100.0,Bezhotovostný príjem,Martin Vavrinčik,/DO2022-05-26/SP,,,,Martin Vavrinčik
+171,2022-05-27,50.0,Bezhotovostný príjem,MATLON MICHAL,/DO2022-05-26/SPPrispevok na kampan,,,,MATLON MICHAL
+172,2022-05-25,-55.0,Transakcia kartou,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR",,3925,,"Nákup: LAURENT CUKRAREN,  RACIANSKA 2, BRATISLAVA, 83102, SVK, dne 24.5.2022, částka  55.00 EUR"
+173,2022-05-25,50.0,Bezhotovostný príjem,JURAN SAMUEL,"/DO2022-05-24/SPDar na kampan, drzime palce, DAR NA KAMPAN - SAMUEL JURAN",,,,JURAN SAMUEL
+174,2022-05-06,-48.0,Transakcia kartou,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR",,3925,,"Nákup: FACEBK *2J3Z4BBW32,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.5.2022, částka  48.00 EUR"
+175,2022-04-15,-81.94,Transakcia kartou,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR",,3925,,"Nákup: chlebickovo.sk,  Za kasarnou 1, Bratislava, 83103, SVK, dne 14.4.2022, částka  81.94 EUR"
+176,2022-04-05,-80.21,Bezhotovostná platba,,,,1022110052,,webhosting cupka2022
+177,2022-04-05,-15.59,Bezhotovostná platba,,,,1022109280,,domena cupka2022
+178,2022-03-02,-450.0,Bezhotovostná platba,,,,202202,,dizajn webstránky
+179,2022-01-27,5000.0,Bezhotovostný príjem,Zuzana Čupková,/DO2022-01-27/SP prispevok cupka,,,,Zuzana Čupková
+180,2022-01-21,3963.41,Platba prevodom v rámci banky,"Čupka, Matúš",,,,,
