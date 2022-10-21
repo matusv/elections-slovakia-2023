@@ -1,59 +1,58 @@
 index,date,amount,account_name,message,vs
-0,2022-10-17,-239.21,Platba kartou,Platba kartou u obchodníka,****7626
-1,2022-10-20,-239.21,Platba kartou,EXPRESTLAC.SK BRATISLAVA,****7626
-2,2022-10-11,-69.0,Platba kartou,Obec Slovensky SLOVENSKY 15:28,****7626
-3,2022-10-11,-10.93,Platba kartou,FACEBK RRAP8JFV fb.me/ads,****7626
-4,2022-10-10,80.0,Pachnerová Barbora,Dar na volebnu kampan,
-5,2022-10-07,-134.2,Platba kartou,EXPRESTLAC.SK BRATISLAVA,****7626
-6,2022-10-04,350.0,Tomáš Lukačovský,Tomas Lukacovsky,
-7,2022-10-04,15.0,Tomas Liska,Dar na volebnu kampan,
-8,2022-10-03,-8.27,Platba kartou,FACEBK HM7XDH7V fb.me/ads,****7626
-9,2022-10-03,15.0,"Langová Martina, Ing.",,
-10,2022-10-03,15.0,KRISTINA LUMTZEROVA,PRE BUDUCEHO STAROSTU A POSLANCOV NA KAMPAN :),
-11,2022-10-03,15.0,PACHNEROVA BARBORA,Prispevok na volebnu kampan,
-12,2022-10-03,15.0,Tomáš Vozár,Na lepsiu buducnost Grobu,
-13,2022-10-03,15.0,Tomáš Lukačovský,Tomas Lukacovsky,
-14,2022-09-30,6.0,,Odpustenie vedenie konta,9
-15,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-16,2022-09-28,-24.2,Platba kartou,GOPAY *UROBSIO urobsiodzn,****7626
-17,2022-09-28,-16.8,Platba kartou,FACEBK 4JTR6H3W fb.me/ads,****7626
-18,2022-09-28,30.0,Ondrej Katuščák,Dar na volebnu kampan,
-19,2022-09-28,15.0,Milan Tkac,Milan Tkac,
-20,2022-09-26,-394.85,Pc micro - Ing. Jan Wittenberger,pera a reflexne pasky,2022378
-21,2022-09-20,-47.59,Platba kartou,David Vorcak +421911544,****7626
-22,2022-09-19,-27.06,Green Print s. r. o.,ekologicke papierove tasky,22006153
-23,2022-09-16,-396.92,EXPRESTLAC.SK BRATISLAVA,Tomas Lukacovsky,41211537
-24,2022-09-02,-3.6,Platba kartou,FACEBK 4T3FAGTV fb.me/ads,****7626
-25,2022-08-31,6.0,,Odpustenie vedenie konta,9
-26,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-27,2022-08-30,-3.6,Platba kartou,FACEBK QYKBEG3W fb.me/ads,****7626
-28,2022-08-25,100.0,"Mihál Jozef, RNDr.",dar na volebnu kampan Jozef Mihal,
-29,2022-08-19,-6.0,Platba kartou,FACEBK NTASVGFV fb.me/ads,****7626
-30,2022-08-03,-18.0,Platba kartou,FACEBK ANQWSF3W fb.me/ads,****7626
-31,2022-07-29,6.0,,Odpustenie vedenie konta,9
-32,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-33,2022-07-25,100.0,Líška Tomáš,Dar na volebnu kampan,
-34,2022-07-22,-4.66,Platba kartou,FACEBK QZSW3GKV fb.me/ads,****7626
-35,2022-07-22,-55.04,Websupport s. r. o.,Websupport s. r. o.,1022214917
-36,2022-07-18,-1.34,"VUB,A.S.",DDFACEBK~F3C4YFKVfb.me/ads~~~~~~P1,****7626
-37,2022-07-18,100.0,Ondrej Katuščák,dar na volebnu kampan,
-38,2022-07-15,100.0,KRISTINA LUMTZEROVA,PRE BUDUCEHO STAROSTU A POSLANCOV NA KAMPAN :),
-39,2022-07-13,100.0,Monika Stulajterova,Milan Tkac,
-40,2022-07-13,90.0,JANDUROVA BARBORA,Dar na volebnu kampan Slovensky Grob pre vsetkych,
-41,2022-07-06,-148.06,Platba kartou,EXPRESTLAC.SK BRATISLAVA,****7626
-42,2022-07-04,-30.0,Platba kartou,FACEBK FDMPPFFV fb.me/ads,****7626
-43,2022-06-30,6.0,,Odpustenie vedenie konta,9
-44,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
-45,2022-06-27,50.0,Tomáš Lukačovský,Tomas Lukacovsky,
-46,2022-06-09,1.0,ANNA PEKNIKOVA,DAR NA VOLEBNU KAMPAN,
-47,2022-06-07,10.0,JANDUROVA BARBORA,Dar na volebnu kampan,
-48,2022-06-03,20.0,PACHNEROVA BARBORA,Dar na volebnu kampan,
-49,2022-05-31,6.0,,Odpustenie vedenie konta,9
-50,2022-05-31,-6.0,,Vedenie konta Transparentný účet,9
-51,2022-05-27,-115.8,Platba kartou,Alza.cz a.s. Prague,****7626
-52,2022-05-20,100.0,Tomáš Vozár,Na lepsiu buducnost Grobu,
-53,2022-05-17,100.0,RUDOLF SZEKELY,DAR NA VOLEBNU KAMPAN PRE NASHO STAROSTU :),
-54,2022-05-02,-12.0,Platba kartou,FACEBK ULTUZDKV fb.me/ads,****7626
-55,2022-04-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-56,2022-04-29,-5.0,,Vedenie účtu,9
-57,2022-04-20,500.0,Tomáš Lukačovský,Tomas Lukacovsky,
+0,2022-10-20,-239.21,Platba kartou,EXPRESTLAC.SK BRATISLAVA,****7626
+1,2022-10-11,-69.0,Platba kartou,Obec Slovensky SLOVENSKY 15:28,****7626
+2,2022-10-11,-10.93,Platba kartou,FACEBK RRAP8JFV fb.me/ads,****7626
+3,2022-10-10,80.0,Pachnerová Barbora,Dar na volebnu kampan,
+4,2022-10-07,-134.2,Platba kartou,EXPRESTLAC.SK BRATISLAVA,****7626
+5,2022-10-04,350.0,Tomáš Lukačovský,Tomas Lukacovsky,
+6,2022-10-04,15.0,Tomas Liska,Dar na volebnu kampan,
+7,2022-10-03,-8.27,Platba kartou,FACEBK HM7XDH7V fb.me/ads,****7626
+8,2022-10-03,15.0,"Langová Martina, Ing.",,
+9,2022-10-03,15.0,KRISTINA LUMTZEROVA,PRE BUDUCEHO STAROSTU A POSLANCOV NA KAMPAN :),
+10,2022-10-03,15.0,PACHNEROVA BARBORA,Prispevok na volebnu kampan,
+11,2022-10-03,15.0,Tomáš Vozár,Na lepsiu buducnost Grobu,
+12,2022-10-03,15.0,Tomáš Lukačovský,Tomas Lukacovsky,
+13,2022-09-30,6.0,,Odpustenie vedenie konta,9
+14,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+15,2022-09-28,-24.2,Platba kartou,GOPAY *UROBSIO urobsiodzn,****7626
+16,2022-09-28,-16.8,Platba kartou,FACEBK 4JTR6H3W fb.me/ads,****7626
+17,2022-09-28,30.0,Ondrej Katuščák,Dar na volebnu kampan,
+18,2022-09-28,15.0,Milan Tkac,Milan Tkac,
+19,2022-09-26,-394.85,Pc micro - Ing. Jan Wittenberger,pera a reflexne pasky,2022378
+20,2022-09-20,-47.59,Platba kartou,David Vorcak +421911544,****7626
+21,2022-09-19,-27.06,Green Print s. r. o.,ekologicke papierove tasky,22006153
+22,2022-09-16,-396.92,EXPRESTLAC.SK BRATISLAVA,Tomas Lukacovsky,41211537
+23,2022-09-02,-3.6,Platba kartou,FACEBK 4T3FAGTV fb.me/ads,****7626
+24,2022-08-31,6.0,,Odpustenie vedenie konta,9
+25,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+26,2022-08-30,-3.6,Platba kartou,FACEBK QYKBEG3W fb.me/ads,****7626
+27,2022-08-25,100.0,"Mihál Jozef, RNDr.",dar na volebnu kampan Jozef Mihal,
+28,2022-08-19,-6.0,Platba kartou,FACEBK NTASVGFV fb.me/ads,****7626
+29,2022-08-03,-18.0,Platba kartou,FACEBK ANQWSF3W fb.me/ads,****7626
+30,2022-07-29,6.0,,Odpustenie vedenie konta,9
+31,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+32,2022-07-25,100.0,Líška Tomáš,Dar na volebnu kampan,
+33,2022-07-22,-4.66,Platba kartou,FACEBK QZSW3GKV fb.me/ads,****7626
+34,2022-07-22,-55.04,Websupport s. r. o.,Websupport s. r. o.,1022214917
+35,2022-07-18,-1.34,"VUB,A.S.",DDFACEBK~F3C4YFKVfb.me/ads~~~~~~P1,****7626
+36,2022-07-18,100.0,Ondrej Katuščák,dar na volebnu kampan,
+37,2022-07-15,100.0,KRISTINA LUMTZEROVA,PRE BUDUCEHO STAROSTU A POSLANCOV NA KAMPAN :),
+38,2022-07-13,100.0,Monika Stulajterova,Milan Tkac,
+39,2022-07-13,90.0,JANDUROVA BARBORA,Dar na volebnu kampan Slovensky Grob pre vsetkych,
+40,2022-07-06,-148.06,Platba kartou,EXPRESTLAC.SK BRATISLAVA,****7626
+41,2022-07-04,-30.0,Platba kartou,FACEBK FDMPPFFV fb.me/ads,****7626
+42,2022-06-30,6.0,,Odpustenie vedenie konta,9
+43,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
+44,2022-06-27,50.0,Tomáš Lukačovský,Tomas Lukacovsky,
+45,2022-06-09,1.0,ANNA PEKNIKOVA,DAR NA VOLEBNU KAMPAN,
+46,2022-06-07,10.0,JANDUROVA BARBORA,Dar na volebnu kampan,
+47,2022-06-03,20.0,PACHNEROVA BARBORA,Dar na volebnu kampan,
+48,2022-05-31,6.0,,Odpustenie vedenie konta,9
+49,2022-05-31,-6.0,,Vedenie konta Transparentný účet,9
+50,2022-05-27,-115.8,Platba kartou,Alza.cz a.s. Prague,****7626
+51,2022-05-20,100.0,Tomáš Vozár,Na lepsiu buducnost Grobu,
+52,2022-05-17,100.0,RUDOLF SZEKELY,DAR NA VOLEBNU KAMPAN PRE NASHO STAROSTU :),
+53,2022-05-02,-12.0,Platba kartou,FACEBK ULTUZDKV fb.me/ads,****7626
+54,2022-04-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+55,2022-04-29,-5.0,,Vedenie účtu,9
+56,2022-04-20,500.0,Tomáš Lukačovský,Tomas Lukacovsky,
