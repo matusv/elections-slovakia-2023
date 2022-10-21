@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Vrutky Mesto,2022-10-05,-250,EUR,Mazúr M.Ing. inzercia vol.Vrútočan,Okamžitá platba (EB),,
+0,,2022-10-21,-6,EUR,Poplatok za výber hotovosti,Poplatok,,
+1,,2022-10-21,-150,EUR,hotovosť na letáky do schránky,Výber hotovosti,,
+2,Vrutky Mesto,2022-10-05,-250,EUR,Mazúr M.Ing. inzercia vol.Vrútočan,Okamžitá platba (EB),,
