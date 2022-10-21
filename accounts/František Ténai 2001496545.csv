@@ -1,36 +1,37 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-21,70.0,Bezhotovostný príjem,Nikolas Prejsa,/DO2022-10-20/SPVratenie platby,,,,Nikolas Prejsa
-1,2022-10-20,-638.4,Bezhotovostná platba,,,0008,2022395,,Letáky A4/3 tlač
-2,2022-10-20,1000.0,Bezhotovostný príjem,František Ténai,/DO2022-10-19/SP transparent - prevod,,,,František Ténai
-3,2022-10-19,-360.0,Bezhotovostná platba,,,0308,20220058,,polep
-4,2022-10-19,-26.99,Bezhotovostná platba,,5466645206782334-10825089,,,,FB
-5,2022-10-19,-495.9,Bezhotovostná platba,,,0308,20220042,,Grafické práce
-6,2022-10-19,-100.0,Bezhotovostná platba,,,0308,2022007,,Grafika skladacka A4/3
-7,2022-10-15,-54.48,Bezhotovostná platba,,,0308,0002022502,,prelep BB
-8,2022-10-10,-295.8,Bezhotovostná platba,,,0308,10220070,,Distribúcia pozvanky
-9,2022-10-10,-172.2,Bezhotovostná platba,,,0308,10220069,,Distribúcia obálok
-10,2022-10-03,500.0,Bezhotovostný príjem,František Ténai,/DO2022-09-30/SP transparent - prevod,,,,František Ténai
-11,2022-10-03,-72.0,Bezhotovostná platba,,,0308,2201548,,Perá s potlačou
-12,2022-09-30,-70.0,Bezhotovostná platba,,,0308,2022001,,Grafika leták A5
-13,2022-09-30,-40.0,Bezhotovostná platba,,,0308,2022004,,Roll-up
-14,2022-09-23,-345.6,Bezhotovostná platba,,,0008,2022347,,Letáky 10000 ks
-15,2022-09-14,-323.04,Bezhotovostná platba,,,0308,0002022415,,"BB Ténai - tlač, najom 09 a 10"
-16,2022-09-14,-70.0,Bezhotovostná platba,,,0308,2022001,,Grafický návrh leták A5 pozvánka
-17,2022-09-05,300.0,Bezhotovostný príjem,Viliam Beňo,/DO2022-09-05/SP prispevok na kampan,,,,Viliam Beňo
-18,2022-09-05,300.0,Bezhotovostný príjem,Vladimír Puškár,/DO2022-09-03/SPPuskar - predvolebna kampan,,,,Vladimír Puškár
-19,2022-09-02,300.0,Bezhotovostný príjem,JOZEF FILIPKO,/DO2022-09-01/SPFINANCOVANIE SPOLOCNEJ KAMPANE J. FILIPKO,,,,JOZEF FILIPKO
-20,2022-08-31,500.0,Bezhotovostný príjem,František Ténai,/DO2022-08-31/SP transparent - kampan,,,,František Ténai
-21,2022-08-31,-171.0,Bezhotovostná platba,,graficke prace Tenai,0308,20220032,,
-22,2022-08-30,300.0,Bezhotovostný príjem,"Rogovský Martin, Mgr",/DO2022-08-26/SPPrispevok na predvolebnu kampan,,,,"Rogovský Martin, Mgr"
-23,2022-08-26,300.0,Bezhotovostný príjem,"Vágási Vladimír, Mgr",/DO2022-08-25/SPVadimr Vagasi  -Kamoan Sever,,,,"Vágási Vladimír, Mgr"
-24,2022-08-26,300.0,Bezhotovostný príjem,SZABO BARTOLOMEJ,/DO2022-08-25/SPFinancovanie spolocnej kampane,,,,SZABO BARTOLOMEJ
-25,2022-08-25,300.0,Bezhotovostný príjem,Novák Lukáš,/DO2022-08-24/SP,,,,Novák Lukáš
-26,2022-08-25,-103.2,Bezhotovostná platba,,,0308,2201468,,tričká 10 ks
-27,2022-08-24,300.0,Bezhotovostný príjem,MARIA SADOVSKA,"/DO2022-08-23/SPM. SADOVSKA, KAMPAN",,,0000645802,MARIA SADOVSKA
-28,2022-08-23,300.0,Platba prevodom v rámci banky,"Ing. Tomášová, Mária",Kampaň Tomašová,,,,Kampaň Tomašová
-29,2022-08-23,300.0,Bezhotovostný príjem,KUCZIK LADISLAV,/DO2022-08-22/SPLadislav Kuczik prispevok na spolocnu kampan,,1,,KUCZIK LADISLAV
-30,2022-08-22,300.0,Bezhotovostný príjem,Vladimír Žiarný,/DO2022-08-20/SPIng. Vladimír Žiarný,0308,082022,,Vladimír Žiarný
-31,2022-08-12,-269.7,Bezhotovostná platba,,,0308,22200040,,Promo stolík
-32,2022-08-01,500.0,Bezhotovostný príjem,František Ténai,/DO2022-08-01/SP transparent - prevod,,,,František Ténai
-33,2022-08-01,-120.0,Bezhotovostná platba,,,0308,031072022,,Atelierny zaber na volebnu kampan s postprodukciou
-34,2022-08-01,-123.6,Bezhotovostná platba,,objednavka 22NA00078,0308,2201426,,Perá s potlačou 200 ks
+0,2022-10-21,-2346.0,Bezhotovostná platba,,,0008,2022403,,brožúra tlač
+1,2022-10-21,70.0,Bezhotovostný príjem,Nikolas Prejsa,/DO2022-10-20/SPVratenie platby,,,,Nikolas Prejsa
+2,2022-10-20,-638.4,Bezhotovostná platba,,,0008,2022395,,Letáky A4/3 tlač
+3,2022-10-20,1000.0,Bezhotovostný príjem,František Ténai,/DO2022-10-19/SP transparent - prevod,,,,František Ténai
+4,2022-10-19,-360.0,Bezhotovostná platba,,,0308,20220058,,polep
+5,2022-10-19,-26.99,Bezhotovostná platba,,5466645206782334-10825089,,,,FB
+6,2022-10-19,-495.9,Bezhotovostná platba,,,0308,20220042,,Grafické práce
+7,2022-10-19,-100.0,Bezhotovostná platba,,,0308,2022007,,Grafika skladacka A4/3
+8,2022-10-15,-54.48,Bezhotovostná platba,,,0308,0002022502,,prelep BB
+9,2022-10-10,-295.8,Bezhotovostná platba,,,0308,10220070,,Distribúcia pozvanky
+10,2022-10-10,-172.2,Bezhotovostná platba,,,0308,10220069,,Distribúcia obálok
+11,2022-10-03,500.0,Bezhotovostný príjem,František Ténai,/DO2022-09-30/SP transparent - prevod,,,,František Ténai
+12,2022-10-03,-72.0,Bezhotovostná platba,,,0308,2201548,,Perá s potlačou
+13,2022-09-30,-70.0,Bezhotovostná platba,,,0308,2022001,,Grafika leták A5
+14,2022-09-30,-40.0,Bezhotovostná platba,,,0308,2022004,,Roll-up
+15,2022-09-23,-345.6,Bezhotovostná platba,,,0008,2022347,,Letáky 10000 ks
+16,2022-09-14,-323.04,Bezhotovostná platba,,,0308,0002022415,,"BB Ténai - tlač, najom 09 a 10"
+17,2022-09-14,-70.0,Bezhotovostná platba,,,0308,2022001,,Grafický návrh leták A5 pozvánka
+18,2022-09-05,300.0,Bezhotovostný príjem,Viliam Beňo,/DO2022-09-05/SP prispevok na kampan,,,,Viliam Beňo
+19,2022-09-05,300.0,Bezhotovostný príjem,Vladimír Puškár,/DO2022-09-03/SPPuskar - predvolebna kampan,,,,Vladimír Puškár
+20,2022-09-02,300.0,Bezhotovostný príjem,JOZEF FILIPKO,/DO2022-09-01/SPFINANCOVANIE SPOLOCNEJ KAMPANE J. FILIPKO,,,,JOZEF FILIPKO
+21,2022-08-31,500.0,Bezhotovostný príjem,František Ténai,/DO2022-08-31/SP transparent - kampan,,,,František Ténai
+22,2022-08-31,-171.0,Bezhotovostná platba,,graficke prace Tenai,0308,20220032,,
+23,2022-08-30,300.0,Bezhotovostný príjem,"Rogovský Martin, Mgr",/DO2022-08-26/SPPrispevok na predvolebnu kampan,,,,"Rogovský Martin, Mgr"
+24,2022-08-26,300.0,Bezhotovostný príjem,"Vágási Vladimír, Mgr",/DO2022-08-25/SPVadimr Vagasi  -Kamoan Sever,,,,"Vágási Vladimír, Mgr"
+25,2022-08-26,300.0,Bezhotovostný príjem,SZABO BARTOLOMEJ,/DO2022-08-25/SPFinancovanie spolocnej kampane,,,,SZABO BARTOLOMEJ
+26,2022-08-25,300.0,Bezhotovostný príjem,Novák Lukáš,/DO2022-08-24/SP,,,,Novák Lukáš
+27,2022-08-25,-103.2,Bezhotovostná platba,,,0308,2201468,,tričká 10 ks
+28,2022-08-24,300.0,Bezhotovostný príjem,MARIA SADOVSKA,"/DO2022-08-23/SPM. SADOVSKA, KAMPAN",,,0000645802,MARIA SADOVSKA
+29,2022-08-23,300.0,Platba prevodom v rámci banky,"Ing. Tomášová, Mária",Kampaň Tomašová,,,,Kampaň Tomašová
+30,2022-08-23,300.0,Bezhotovostný príjem,KUCZIK LADISLAV,/DO2022-08-22/SPLadislav Kuczik prispevok na spolocnu kampan,,1,,KUCZIK LADISLAV
+31,2022-08-22,300.0,Bezhotovostný príjem,Vladimír Žiarný,/DO2022-08-20/SPIng. Vladimír Žiarný,0308,082022,,Vladimír Žiarný
+32,2022-08-12,-269.7,Bezhotovostná platba,,,0308,22200040,,Promo stolík
+33,2022-08-01,500.0,Bezhotovostný príjem,František Ténai,/DO2022-08-01/SP transparent - prevod,,,,František Ténai
+34,2022-08-01,-120.0,Bezhotovostná platba,,,0308,031072022,,Atelierny zaber na volebnu kampan s postprodukciou
+35,2022-08-01,-123.6,Bezhotovostná platba,,objednavka 22NA00078,0308,2201426,,Perá s potlačou 200 ks
