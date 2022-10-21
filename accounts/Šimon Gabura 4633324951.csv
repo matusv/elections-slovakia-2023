@@ -1,22 +1,23 @@
 index,date,amount,account_name,message,vs
 0,2022-10-20,-25.8,Platba kartou,Platba kartou u obchodníka,****1045
 1,2022-10-20,-70.47,Platba kartou,Platba kartou u obchodníka,****1045
-2,2022-10-19,400.0,Šimon Gabura,volby 2022,
-3,2022-10-17,-180.0,,letaky 2,220049
-4,2022-10-17,-204.0,,letaky pokazene,220047
-5,2022-10-13,-3.5,,Poplatok Zmena PIN k PK cez ATM,1045
-6,2022-10-11,300.0,Šimon Gabura,Simon Gabura Volby 2022,
-7,2022-09-30,6.0,,Odpustenie vedenie konta,9
-8,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-09-20,-204.0,,letak,220040
-10,2022-09-19,40.0,Šimon Gabura,Chybna platba Simon Gabura,
-11,2022-09-16,-40.0,,Simon Gabura august september,343000073
-12,2022-09-13,300.0,Šimon Gabura,Simon Gabura,
-13,2022-08-31,6.0,,Odpustenie vedenie konta,9
-14,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-15,2022-08-15,-120.0,Ad Sun,Platba billboard,2022641
-16,2022-08-15,30.0,Šimon Gabura,Chybna platba Tipos Simon Gabura,
-17,2022-08-15,-30.0,"TIPOS, národná lotériová spoločnosť a.s.",,19494553
-18,2022-08-09,200.0,Šimon Gabura,Simon Gabura,
-19,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-20,2022-07-29,-5.0,,Vedenie účtu,9
+2,2022-10-21,200.0,Šimon Gabura,Volby 2022,
+3,2022-10-19,400.0,Šimon Gabura,volby 2022,
+4,2022-10-17,-180.0,,letaky 2,220049
+5,2022-10-17,-204.0,,letaky pokazene,220047
+6,2022-10-13,-3.5,,Poplatok Zmena PIN k PK cez ATM,1045
+7,2022-10-11,300.0,Šimon Gabura,Simon Gabura Volby 2022,
+8,2022-09-30,6.0,,Odpustenie vedenie konta,9
+9,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+10,2022-09-20,-204.0,,letak,220040
+11,2022-09-19,40.0,Šimon Gabura,Chybna platba Simon Gabura,
+12,2022-09-16,-40.0,,Simon Gabura august september,343000073
+13,2022-09-13,300.0,Šimon Gabura,Simon Gabura,
+14,2022-08-31,6.0,,Odpustenie vedenie konta,9
+15,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+16,2022-08-15,-120.0,Ad Sun,Platba billboard,2022641
+17,2022-08-15,30.0,Šimon Gabura,Chybna platba Tipos Simon Gabura,
+18,2022-08-15,-30.0,"TIPOS, národná lotériová spoločnosť a.s.",,19494553
+19,2022-08-09,200.0,Šimon Gabura,Simon Gabura,
+20,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+21,2022-07-29,-5.0,,Vedenie účtu,9

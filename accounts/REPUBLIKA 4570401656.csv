@@ -1,311 +1,312 @@
 index,date,amount,account_name,message,vs
 0,2022-10-21,57.6,Varga René,"Rene Varga, Marie Kocanovej 3, Kostolany nad Hornadom - dar",20220046
-1,2022-10-21,250.0,Laurinc Andrej,Andrej Laurinc-Dar,
-2,2022-10-20,-201.73,Platba kartou,FACEBK MV8HNHKE fb.me/ads,****9638
-3,2022-10-20,24.0,Milan-Henrich Schmidt,"Milan Henrich Schmidt, Clementisova 1, 04022 Kosice , DAR",
-4,2022-10-20,49.2,Tomáš Širgely,"Tomas Sirgely, Severna 8 Moldava nad Bodvou 045 01",20220045
-5,2022-10-20,806.4,Silvia Copova,Silvia CopovaDubova 2052/206601 HumenneDar,
-6,2022-10-20,24.0,Milan-Henrich Schmidt,"Milan Henrich Schmidt, Clementisova 1, 04022 Kosice , DAR",
-7,2022-10-20,-199.2,MinuteCopy s.r.o.,karticky,2022201
-8,2022-10-20,-390.0,"PROGROUP SK, s.r.o.","Letaky, samolepky, grafika",221724
-9,2022-10-20,-24.0,GL-REKLAMA s.r.o.,grafika,20220044
-10,2022-10-20,-31.92,"terč.sk, s.r.o.",Letaky,20220356
-11,2022-10-20,54.0,Miroslav Urban,"Miroslav Urban, Štiavnička 331, Dar",
-12,2022-10-20,65.0,Milan Lesko,"Milan Lesko, Kutnohorska 2114/7, 07501 Trebisov - dar",
-13,2022-10-20,30.24,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
-14,2022-10-20,150.0,REPKOVSKY IGOR,Igor Repkovsky Rajecke Teplice dar pre Silviu Bakkery,
-15,2022-10-20,31.92,Jozef Remenar,Dar Jozef Remenar Bucany 720,
-16,2022-10-20,539.52,Jozef Remenar,Dar Jozef Remenar Bucany 720,
-17,2022-10-20,390.0,Ivan Kerita,"Ivan Kerita, Zvonarska 25, 05201 Spisska Nova Ves, DAR",
-18,2022-10-19,-900.0,Platba kartou,FACEBK SV435HPD fb.me/ads,****9638
-19,2022-10-19,95.0,Vladimir Bajo,"Vladimir Bajo, Cintorinska 508/12,Modry Kamen, DAR",10220206
-20,2022-10-19,-999.6,Dataprint sk s.r.o.,Letaky,20220101
-21,2022-10-19,-152.4,"Petit Press, a.s. divízia týždenníkov, o.z.",inzercia,2235110908
-22,2022-10-19,-192.0,"Petit Press, s.s. divízia týždenníkov, o.z.",online banner,2235112109
-23,2022-10-19,-400.0,Network engineering s.r.o.,propagacne materialy,2202004
-24,2022-10-19,-147.87,FaxCopy a.s.,letaky,5502200072
-25,2022-10-19,-108.0,Vizual s.r.o.,"letaky, grafika",20220357
-26,2022-10-19,205.0,Darina Siposova Durianova,"Darina Durianova, dar pre hnutieRepublika, Zahradnicka 46/a, 82108Bratislava",
-27,2022-10-19,195.0,KOCIS EDUARD,"PhDr. Eduard Kocis, Akad. Pavlova 316/8, 091 01 Stropkov - Dar",
-28,2022-10-19,16.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
-29,2022-10-19,160.0,MIDLER MIROSLAV,"Miroslav Midler, Kuzmanyho 1603 /13, Topolcany-DAR",
-30,2022-10-19,999.0,"ARDIS, A.S.","Financny dar - p. Suja - ARDIS a.s., Krizna 13, 965 01 Ziar nad Hronom, ICO: 360 561 89",36056189
-31,2022-10-19,108.0,Rastislav Tkáč,"Ing. Rastislav Tkac, Pri Poste 9, 040 17, Kosice, Dar",
-32,2022-10-19,166.6,Jana Palíková,"Ing. Jana Palikova, Turicky 3, 985 22 Cinobana - dar",20220101
-33,2022-10-18,833.0,Jana Palíková,"Ing. Jana Palikova, Turicky 3, 985 22 Cinobana - dar",20220101
-34,2022-10-18,-52.5,IRPT s.r.o.,distribucia letakov,782022
-35,2022-10-18,-500.0,,Výber s poplatkom,9
-36,2022-10-18,-8.0,,Popl. za hotovostný výber,9
-37,2022-10-18,-400.0,Eduard Kočiš,Vratenie daru,
-38,2022-10-18,266.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
-39,2022-10-18,52.5,KUBICA JAN,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",
-40,2022-10-18,720.0,Bc.Miroslav Magdech,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, dar",
-41,2022-10-18,-1290.05,Delphia Tatry s.r.o.,Letaky,22020011
-42,2022-10-18,-2405.0,"TINO LASER, s.r.o.","bannery, letaky",2022017
-43,2022-10-18,-360.0,Richard Novák - MenAtWork,video,20220019
-44,2022-10-18,120.0,Budinský Vincent,Vincent Budinsky.Petra Jilemnickeho 665/97 Cierny Balog 97652-DAR,
-45,2022-10-17,600.0,"Kopecký Pavol, Ing.","Martina Kopecka, Huncovska 26, Kezmarok, dar",
-46,2022-10-17,-174.0,Roman Pšenák,vratenie daru,
-47,2022-10-17,690.05,"Kopecký Pavol, Ing.","Pavol Kopecky, Huncovska 26, Kezmarok, dar",
-48,2022-10-17,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Cadca Dar,
-49,2022-10-17,400.0,KOCIS EDUARD,,
-50,2022-10-17,110.0,ROMAN JAROSLAV,"DAR, Jaroslav Roman Zakopcie Stred 904",
-51,2022-10-17,199.0,Milan Kis Butka,"Milan Kis Butka, Leningradska 9,Michalovce, dar",
-52,2022-10-17,172.6,Lenka Nagyova,"Lenka Nagyova,Devicany 242,Devicany- dar",
-53,2022-10-17,-462.0,"Petit Press, a.s. divízia týždenníkov, o.z.",Inzercia,2233102352
-54,2022-10-17,-120.0,GL-REKLAMA s.r.o.,Letaky,20220039
-55,2022-10-17,-120.0,GL-REKLAMA s.r.o.,Letaky,20220040
-56,2022-10-17,-132.48,famous design s.r.o.,"banner, pera",2022184
-57,2022-10-17,-1290.05,Pavol Kopecký,Vratenie daru,
-58,2022-10-14,-900.0,Platba kartou,FACEBK UFPDAHFE fb.me/ads,****9638
-59,2022-10-14,1290.05,"Kopecký Pavol, Ing.","Pavol Kopecky, Huncovska 26, Kezmarok, dar",
-60,2022-10-14,462.0,Sona Zyglinska,"Sona Zyglinska, Slnecna 162/11,02901 Namestovo- dar",
-61,2022-10-14,-250.02,Andrea Veverkova,tlac a graf. navrh A2 plagaty,202200004
-62,2022-10-14,420.0,Maslak Denis,"Jedna sa o Dar pre Republiku od Denis Maslak Cadca,Hurbanova 2306/19",
-63,2022-10-14,70.0,Juraj Vrba,"Juraj Vrba, A. Bernolaka 2614/11, 02201 Cadca - Dar",
-64,2022-10-14,120.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho Cadca 128 Dar,
-65,2022-10-14,120.0,BENKO STEFAN,"Erika Feherova Gerlachovska 20, Kosice -dar",
-66,2022-10-14,120.0,BENKO STEFAN,Stefan Surmanek Rozalska 5 Kosice-Dar,
-67,2022-10-14,110.0,Miroslav Kubačka,Miroslav Kubacka Hlinene c.31 Turzovka 02354 DAR,
-68,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,
-69,2022-10-13,-182.4,Biznis Media s.r.o.,"grafika, letaky",1020220100
-70,2022-10-13,-21.0,Andrej Sušila - Print Production,plagaty,2022022
-71,2022-10-13,174.0,"Pšenák Roman, Mgr.",Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
-72,2022-10-13,132.48,Alexander Tilnak,"Alexander Tilnak, Orechova 11, Humenne - Dar",
-73,2022-10-13,-305.27,FaxCopy a.s.,"grafika, letaky, kalendariky",1707488
-74,2022-10-13,-396.32,DOB BUS,plagaty,2022152
-75,2022-10-13,182.4,Emanuel Omámik,"Lucia Omamikova, Doliny 1891/2, 03853 Turany - dar",
-76,2022-10-13,400.0,Juraj Vrba,"Juraj Vrba, A. Bernolaka 2614/11, 02201 Cadca - Dar",
-77,2022-10-13,396.32,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",
-78,2022-10-13,21.0,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",
-79,2022-10-13,170.0,Zavodnik Antonin,"Antonin Zavodnik, Stred 520, Turzovka 023 54. Info: dar",
-80,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,
-81,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330
-82,2022-10-12,-74.4,DIVERSSO s.r.o.,letaky,220100454
-83,2022-10-12,-25.2,"PROGRUP SK, s.r.o.",letaky,221639
-84,2022-10-12,25.2,Marek Horansky,"Marek Horansky, Obchodna 53/28, 05315, Hrabusice - dar",
-85,2022-10-12,348.0,Ivan Kerita,"Ivan Kerita, Zvonarska 25, 05201 Spisska Nova Ves, DAR",
-86,2022-10-12,-126.3,Ing. Amália Černajová - ČERTEX,Letaky,2022151
-87,2022-10-12,330.0,FERLEN S.R.O.,"Jozef Ferianc, Poziarnicka 6, 96901Banska Stiavnica - Dar",
-88,2022-10-12,100.0,Gánovská Michala,"Michala Ganovska, Rastislavova 18, Poprad, dar",
-89,2022-10-12,-720.0,"Hattech, s.r.o.",billboardy,22118
-90,2022-10-12,-348.0,GL-REKLAMA s.r.o.,Letaky,20220043
-91,2022-10-11,109.45,"Mikitovičová Alica, Mgr.","Alica Mikitovicova, Nad Laborcom 6, Michalovce - dar",
-92,2022-10-11,80.0,Monika Sklenár Kozánková,"DAR Monika Sklenar Kozankova, Majcichov 4, 919 22",
-93,2022-10-11,720.0,Alexander Tilnak,"Alexander Tilnak, Orechova 11, Humenne - Dar",
-94,2022-10-11,50.0,"Kočišová Jana, Mgr.","Jana Kocisova, Hviezdoslavova 163/50, Vranov nad Toplou - dar",
-95,2022-10-11,-90.0,SEM s.r.o.,letaky,2201335
-96,2022-10-11,-745.6,Bc. Andrea Fecková - VYDAVATEĽSTVO SPEKTRUM,Bc. Andrea Feckova - VYDAVATELSTVO SPEKTRUM: 2022162 - REPUBLIKA - 2022/10,2022162
-97,2022-10-11,-279.48,Jaroslav Oprala GARMONDNITRA-vydavateľstvo,letaky,220374
-98,2022-10-11,-150.0,TLAČIAREŇ POLYGRAFIA s.r.o.,grafika a tlac letakov,22009730
-99,2022-10-11,-66.52,"Projects, s.r.o.",letaky,41216184
-100,2022-10-11,-168.0,MIG29 s.r.o.,"Letaky, plagaty",20220072
-101,2022-10-11,168.0,JUDr.Viktor Jedlicka,"JUDr. Viktor Jedlicka, Polna c. 5954/3, 974 05 Banska Bystrica, dar Hnutiu REPUBLIKA",
-102,2022-10-11,150.0,Milan Lesko,"Milan Lesko, Kutnohorska 2114/7, 07501 Trebisov - dar",
-103,2022-10-11,66.52,VERONIKA TISLIAROVA,"VERONIKA TISLIAROVA, LUKA 692, 97662 BRUSNO - DAR",
-104,2022-10-11,279.48,KUBICA JAN,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",
-105,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330
-106,2022-10-11,745.6,Darina Siposova Durianova,"Darina Durianova, dar pre HnutieRepublika, Zahradnicka 46/A, 82108Bratislava - na uhradu fa preStropkovske Spektrum (Eduard Kocis)",
-107,2022-10-11,-109.45,GL-RERKLAMA s.r.o.,"Letaky, plagaty",20220042
-108,2022-10-11,110.0,Milan Sobčák,"Silvia Sobcak, Vysny koniec 156, Turzovka _ DAR",
-109,2022-10-10,-900.0,Platba kartou,FACEBK 4B38THBE fb.me/ads,****9638
-110,2022-10-10,-379.2,Impesa s.r.o.,plagaty,22005
-111,2022-10-10,-36.29,GmbH,"5501468, ASK12272142, platba vopred letaky",
-112,2022-10-10,300.0,Pavol Krištiak,"Pavol Kristiak, Cadca, ul. Horna c. 2167/77: DAR",
-113,2022-10-10,-984.0,"Petit Press, a.s. divízia týždenníkkov, o.z.",Inzercia,2233102208
-114,2022-10-10,200.0,SABIK BOHUMIR,"Mgr. Ing. Bohumir Sabik, Cerveny Hradok 30, 951 82 - dar",
-115,2022-10-10,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-116,2022-10-07,-60.0,IRPT s.r.o.,Distribucia letakov,722022
-117,2022-10-07,-46.8,"Miroslav Jiránek - BEPA, reklamná agentúra",Auto polepy,2022576
-118,2022-10-07,37.0,HRBAL JAN,"Jan Hrbal, ul. V.Clementisa 1163/15, RevUca - dar",
-119,2022-10-07,60.0,KUBICA JAN,"Jan Kubica, Moravske Lieskove 673, 916 42 Moravske Lieskove - dar",
-120,2022-10-07,-318.6,OSEFA NB s.r.o.,Pera,7102022
-121,2022-10-07,-29.99,"Katarína Kluková - GIGA, reklamná agentúra",Plagaty,2022196
-122,2022-10-07,-3089.76,Dataprint sk s.r.o.,Letaky,20220092
-123,2022-10-07,-70.82,"Adverti, s.r.o.",Letaky,221432
-124,2022-10-07,-1480.98,Ján Jankola RaR,Bannery,20220200
-125,2022-10-06,30.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
-126,2022-10-06,3000.0,UHRIKOVA ZUZANA,"Dar Zuzana Uhrikova, Hornocermanska 81, Nitra",
-127,2022-10-06,70.82,PATRIK MATUSIK,"PATRIK MATUSIK, NOVE SADY 403, 95124 NOVE SADY - DAR",
-128,2022-10-06,500.0,PECHAC BRANISLAV,Branislav Pechac Sportova 198 Kamanova - Dar,
-129,2022-10-06,-120.0,GL-REKLAMA s.r.o.,letaky,20220040
-130,2022-10-06,-120.0,GL-REKLAMA s.r.o.,letaky,20220039
-131,2022-10-06,-120.0,"ISPA, spol. s.r.o.",Papierove dolepy,22950464
-132,2022-10-05,-118.8,GRYF reklamné štúdio s.r.o.,tlac dolepiek,20223450
-133,2022-10-05,318.6,"Kočišová Jana, Mgr.","Jana Kocisova, Hviezdoslavova 163/50, Vranov nad Toplou - dar",
-134,2022-10-05,238.8,Ivona Kellnerová,"Mgr. Ivona Kellnerova, Trieda 1. maja 2221/11, 052 01 Spisska Nova Ves - DAR",
-135,2022-10-05,-2657.88,"Red Post, s.r.o.",Distribucia letakov,2022058
-136,2022-10-05,-30.0,DUSAP spol. s.r.o.,Reklamne plochy,2872022
-137,2022-10-05,-339.6,GL-REKLAMA s.r.o.,"Letaky, plagaty",20220038
-138,2022-10-05,90.0,Marian Podoba,"Marian Podoba, M.Sch.Trnavskeho 22, Bratislava - d ar",
-139,2022-10-05,340.0,BENKO STEFAN,"Stefan Benko, Hlinkova 17, Kosice -dar",
-140,2022-10-05,3000.0,UHRIKOVA ZUZANA,"Dar Zuzana Uhrikova, Hornocermanska 81, Nitra",
-141,2022-10-05,500.0,Jana Krajčovičová,"Milan Krajcovic, 956 12 Kamanova 144 , DAR",
-142,2022-10-04,-900.0,Platba kartou,FACEBK QDLRNHBE fb.me/ads,****9638
-143,2022-10-04,-100.0,Igor Valach,Vratenie daru na ziadost darcu,
-144,2022-10-04,-480.0,"euroAWK, spol. s.r.o.",billboardy,225838
-145,2022-10-04,75.0,Lenka Nagyova,"Lenka Nagyova,Devicany 242,Devicany- dar",
-146,2022-10-04,-1785.6,Tlačiareň Kežmarok GG s.r.o.,skladacka A4,20221440
-147,2022-10-04,50.0,MLYNAR JAN,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",
-148,2022-10-04,100.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
-149,2022-10-04,-30.0,"NUBIUM, s.r.o.",Plagaty,22097746
-150,2022-10-04,-1000.0,"Bystrô, o.z.",Reklamna a propagacna cinnost,10220007
-151,2022-10-04,480.0,Jozef Týnus,"Ing Jozef Tynus, Tehelna 5045/4, 984 01 Lucenec- dar",
-152,2022-10-03,100.0,Maria Presinska,"Michal Presinsky, Slovenska 23B, Nove Zamky - dar",
-153,2022-09-30,-11.0,,Vedenie konta Transparentný účet P,9
-154,2022-09-30,-0.05,,POPLATKY ZA RECYKLACIU,9
-155,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,
-156,2022-09-30,-196.8,Viliam Michálek WIKI,"grafika, letaky",2022283
-157,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",
-158,2022-09-30,300.0,PUKAN PETER,"Peter Pukan, Celadice 399, Celadice- dar",
-159,2022-09-30,200.0,PAVOL TIMKO TI-XL STEEL,"Pavol Timko Kolta 631, financny dar",7708106692
-160,2022-09-29,-120.0,Peter Gažovčjak,Letaky,2022231
-161,2022-09-29,100.0,Peter Chmelo,"Peter Chmelo,Zerotinova basta 15,SK-94002 Nove Zamky - Dar",
-162,2022-09-29,30.0,Martin Banik,"Martin Banik, Stara Bystrica161, vratenie chybnej transakcie",
-163,2022-09-29,225.0,Martin Banik,"Martin Banik, Stara Bystrica161, DAR",
-164,2022-09-29,-242.83,"TRISTANPRESS, spol. s.r.o.","plagaty, banery, reklamne predmety, grafika",2022410
-165,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,
-166,2022-09-29,-990.77,Dataprint sk s.r.o.,"Plagaty, tricka",20220095
-167,2022-09-29,242.83,MAREK GABRIS,"Marek Gabris, Rybany 557, 95636 Rybany - dar",
-168,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692
-169,2022-09-29,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-170,2022-09-28,20.0,Martin Bori,Martin Bori Velky Lapas 850 dar,720214
-171,2022-09-28,-122.4,"REKUK, spol. s.r.o.","plagaty, pera",2022009055
-172,2022-09-28,-312.0,"BigMedia, spol. s.r.o.",billboardy,122290348
-173,2022-09-28,-260.4,"Tao Scorpi, s.r.o.",letaky a plagaty,220100379
-174,2022-09-28,-5520.0,"NUBIUM, s.r.o.",reklamne panely,22097433
-175,2022-09-28,-27.3,"DIGITRA Net, s.r.o.",grafika,162022414
-176,2022-09-28,-1555.2,"ISPA, spol. s.r.o.",reklamny priestor,22950433
-177,2022-09-28,-124.56,Tlačiareň Ján Šindléry - TESFO,plagaty,3132022
-178,2022-09-28,-666.0,GL-REKLAMA s.r.o.,reklamne plochy,20220035
-179,2022-09-28,-132.0,GL-REKLAMA s.r.o.,letaky,20220036
-180,2022-09-28,-255.0,Martin Baník,Vratenie daru,
-181,2022-09-27,225.0,Martin Banik,"Martin Banik, 02304 Stara Bystrica161",
-182,2022-09-27,312.0,Gabriel Volšík,"Gabriel Volsik, Andovska 31, 94053 Nove Zamky - DAR",
-183,2022-09-26,100.0,Andrej Viktorin,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",
-184,2022-09-26,400.0,Jan Komin,"Jan komin, Stred 420/11, Turzovka 02 354. Info: Ide o dar",
-185,2022-09-26,132.0,Tomáš Širgely,"Tomas Sirgely, Severna 8 Moldava nad Bodvou, 045 01, dar",
-186,2022-09-23,-264.0,MultiMedia s.r.o.,Priprava a prenajom CLV,220900036
-187,2022-09-23,-152.4,"Petit Press, a.s. divízia týždenníkov, o.z.",inzercia,2235110669
-188,2022-09-23,-45.0,Peter Kultan,Vratenie daru,
-189,2022-09-23,-45.0,Mesto Kysucke Nove Mesto,Inzercia,9915200064
-190,2022-09-23,-45.0,Peter Kultan,Vratenie daru,
-191,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",
-192,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",
-193,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,
-194,2022-09-22,124.56,Miroslav Urban,"Miroslav Urban, Stiavnicka 331, Dar",
-195,2022-09-21,-3089.76,Dataprint sk s.r.o.,Letaky,20220092
-196,2022-09-21,-100.8,Hal Production s.r.o.,"letaky, pera",30220003
-197,2022-09-21,-225.6,Guldan-Studio s.r.o.,Prenajom rekl. plochy,22017
-198,2022-09-21,-240.0,"FOREKO, s.r.o.",inzercia v novinach,2022165
-199,2022-09-21,-170.4,"Picasso Media, s.r.o.",Info MaXX,20220215
-200,2022-09-21,-360.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22152
-201,2022-09-21,-528.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22151
-202,2022-09-21,-177.6,euroAWK spol. s.r.o.,zaloha za kampan,2270546
-203,2022-09-21,240.0,Ľubomír Kyselý,Ing. Lubomir Kysely Hviezdoslavova 20 926 01 Sered DAR,
-204,2022-09-21,10000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-205,2022-09-20,324.0,"Hilka Majková Lucia, PhDr.",lucia hilka majjova vuc bsk lipova 50 ivanka pri dunaji kand bsk fin dar republika,16051976
-206,2022-09-20,528.0,Emanuel Omámik,"Lucia Omamikova, Doliny 1891/2, 03853 Turany - dar",
-207,2022-09-20,287.7,Jozef Tomanik,Jozef Tomanik Bernolakova 6032/11Banska Bystrica.Dar hnutiu Republika,
-208,2022-09-19,-21.83,Platba kartou,FACEBK QJ3GJHXD fb.me/ads,****9638
-209,2022-09-19,-48.0,Abracadabra s.r.o.,Letaky,2022075
-210,2022-09-19,100.0,DENIS GONDZALA,"DENIS GONDZALA, NOVOMESTSKA 1, NOVE ZAMKY - DAR",
-211,2022-09-19,-8046.0,Dataprint sk s.r.o.,tlac letakov,20220091
-212,2022-09-14,100.0,Martin Bori,Martin Bori Velky Lapas 850 dar,720214
-213,2022-09-14,300.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova kandid vuc bsk hnutie rep lipova 50 ivanka pri dunaji 900 28 fin dar hnutiu,16051976
-214,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082
-215,2022-09-14,-102.0,ARTON s.r.o.,reklamne plochy,220544
-216,2022-09-13,200.0,Lenka Nagyova,"Lenka Nagyova,Devicany 242,Devicany- dar",
-217,2022-09-13,490.0,Iveta Štrbáková,"Iveta Strbakova,Turcianska 3, Turc.Teplice, DAR, Peter Strbak",
-218,2022-09-13,-799.52,Dataprint sk s.r.o.,"tlac letakov, banneru a plagatov",20220085
-219,2022-09-13,100.0,TOTH RADOVAN,"Mgr. Radovan Toth, P.Pazmana 50/13, Sala - dar",
-220,2022-09-13,200.0,"Solčanský Dalimír, JUDr., PhD.","Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",22
-221,2022-09-13,200.0,Ľuboš Rusnák,Lubos Rusnak Lehota 781 psc 95136 Dar volby do VUC,
-222,2022-09-12,301.0,Henrieta Bevelaquová,dar od vladimir bevelaqua Vyhne 446,
-223,2022-09-12,100.0,Ľubomíra Ďuricová,"Imrich Ďurica, Jurkovičová 11, 94901 Nitra- dar",
-224,2022-09-12,100.0,PUKAN PETER,"Jana Pukanova, Celadice 399, Celadice - dar",
-225,2022-09-12,100.0,TUZINCIN LUBOS,"Lubos Tuzincin, ul. Ordodyho 3, Hurbanovo, DAR",
-226,2022-09-12,200.0,Andrej Viktorin,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",
-227,2022-09-09,-120.0,Tlačiareň Kubík,tlac letakov,220101082
-228,2022-09-09,12000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-229,2022-09-09,100.0,Miroslav Holý,"Miroslav Holy, 1. maja 1, Zlate Moravce - dar",
-230,2022-09-09,-3888.0,"Slovenská pošta, a.s.",distribucia letakov,9001534718
-231,2022-09-09,-117.13,TigerPrint,tlac letakov A6,20220707
-232,2022-09-08,-1000.0,Andrea Koreňová - Zdravie a imunita,reklamna a propagacna cinnost podujatia,2022013
-233,2022-09-08,100.0,Peter Holý,"Peter Holy, Hlavna 94 Tesarske Mlynany - dar",
-234,2022-09-08,500.0,MLYNAR JAN,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",
-235,2022-09-07,-408.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22141
-236,2022-09-07,-300.0,Network engineering s.r.o.,priprava na tlac letakov,2202001
-237,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",
-238,2022-09-07,-408.0,Mária Prešinská,vratenie daru,
-239,2022-09-07,408.0,Maria Presinska,Dar,
-240,2022-09-06,-500.0,Jan Mlynar,Vratenie daru,
-241,2022-09-06,500.0,MLYNAR JAN,DAR,
-242,2022-09-05,-9.0,Platba kartou,FACEBK STGNKGFS fb.me/ads,****9638
-243,2022-09-02,-250.0,Henrich Bečka st.,Prenajom detskych atrakcii,52022
-244,2022-08-31,11.0,,Odpustenie vedenie konta,9
-245,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
-246,2022-08-30,-528.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22124
-247,2022-08-30,-504.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22125
-248,2022-08-30,499.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
-249,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270421
-250,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270420
-251,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082
-252,2022-08-30,-2880.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22108
-253,2022-08-30,-864.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22109
-254,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090
-255,2022-08-22,-180.0,euroAWK spol. s.r.o.,kampan,2270379
-256,2022-08-22,-1080.0,euroAWK spol. s.r.o.,kampan,2270381
-257,2022-08-22,-810.0,NUBIUM s.r.o.,billboardy,1220408
-258,2022-08-22,-152.4,BigMedia spol. s.r.o.,billboard,122290233
-259,2022-08-22,-840.0,euroAWK spol. s.r.o.,kampan,2270380
-260,2022-08-22,-194.4,"ISPA, spol. s.r.o.",billboardy,22950295
-261,2022-08-22,-60.0,euroAWK spol. s.r.o.,kampan,2270386
-262,2022-08-19,500.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
-263,2022-08-18,-732.0,"NUBIUM, s.r.o.","prenajom rekl. panelov, tlac plagatov",12120491
-264,2022-08-18,-504.0,"euroAWK, spol. s.r.o.",kampan,2270355
-265,2022-08-18,-192.0,GRYF reklamné štúdio s.r.o.,Reklamna plocha,22090
-266,2022-08-17,-2212.5,RCS reklama,nalepky,1020220429
-267,2022-08-17,504.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
-268,2022-08-16,-372.0,"BigMedia, spol. s.r.o.",Billboardy,
-269,2022-08-16,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-270,2022-08-16,316.8,"Pšenák Roman, Mgr.",2 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
-271,2022-08-15,3000.0,"Pšenák Roman, Mgr.",1 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
-272,2022-08-15,372.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
-273,2022-08-12,300.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
-274,2022-08-11,732.0,"Solčanský Dalimír, JUDr., PhD.","Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",2022
-275,2022-08-03,-1440.0,GRYF reklamné štúdio s.r.o.,Reklamne plochy,22081
-276,2022-08-03,-751.2,"ISPA, spol s.r.o.",Billboardy,
-277,2022-08-03,2191.2,CARNANSKY ADAM,"Adam Carnansky, Gorazdova 1723/6, 052 01 Spisska Nova Ves - dar",
-278,2022-07-29,11.0,,Odpustenie vedenie konta,9
-279,2022-07-29,-11.0,,Vedenie konta Transparentný účet P,9
-280,2022-07-26,-291.6,GL-REKLAMA s.r.o.,"tlac letakov, banner, tlac billboardu",20220025
-281,2022-07-26,192.0,Gánovská Michala,"Michala Ganovska, Rastislavova 3486/18, Poprad 058 01-DAR",
-282,2022-07-26,-192.0,Michaela Gánovská,Vratenie daru,
-283,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,
-284,2022-07-26,300.0,BENKO STEFAN,"Stefan Benko, Hlinkova 17, Kosice -Dar",
-285,2022-07-26,192.0,Gánovská Michala,Dar,
-286,2022-07-19,-1976.45,GL-REKLAMA s.r.o.,promo stoly REPUBLIKA,20220026
-287,2022-07-19,-3.5,,P-Zmena pod. vzoru právnická osoba,
-288,2022-07-14,-612.0,Dataprint sk s.r.o.,balony s potlacou REPUBLIKA,20220065
-289,2022-07-14,-346.8,Dataprint sk s.r.o.,tlac letakov A5 REPUBLIKA,20220064
-290,2022-07-14,5000.0,REPUBLIKA,vklad prostriedkov na transparentny ucet,
-291,2022-07-04,-3240.0,Arton,najom billboardov,220275
-292,2022-06-30,11.0,,Odpustenie vedenie konta,9
-293,2022-06-30,-11.0,,Vedenie konta Transparentný účet P,9
-294,2022-06-16,-78.8,Platba kartou,HNONLINE.SK BRATISLAVA,****9638
-295,2022-06-16,-75.9,Platba kartou,WWW.DENNIKN.SK BRATISLAVA,****9638
-296,2022-06-16,-48.0,Platba kartou,PREDPLATNE.DENN BRATISLAVA,****9638
-297,2022-06-16,-39.9,Platba kartou,WWW.SME.SK BRATISLAVA,****9638
-298,2022-06-14,-1996.8,"NUBIUM, sro",reklamne panely REPUBLIKA,22064295
-299,2022-06-14,-4200.0,"GRYF reklamne studio, sro",reklamne plochy REPUBLIKA,20221723
-300,2022-06-06,10000.0,REPUBLIKA,prevod na transparentny ucet,
-301,2022-05-31,11.0,,Odpustenie vedenie konta,9
-302,2022-05-31,-11.0,,Vedenie konta Transparentný účet P,9
-303,2022-05-06,-864.0,data print,plachta na stan,20220034
-304,2022-05-03,-116.4,dataprint,,20220032
-305,2022-04-29,11.0,,Odpustenie vedenie konta,9
-306,2022-04-29,-11.0,,Vedenie konta Transparentný účet P,9
-307,2022-04-21,1000.0,REPUBLIKA,prevod na transparentny ucet,
-308,2022-03-31,6.0,,Odpust.-popl.za platby a ved.úč/ko,9
-309,2022-03-31,-6.0,,Vedenie účtu,9
+1,2022-10-21,40.0,Ondrej Hudec,Ondrej Hudec kandidat na starostu Dolne Plachtince,10220208
+2,2022-10-21,250.0,Laurinc Andrej,Andrej Laurinc-Dar,
+3,2022-10-20,-201.73,Platba kartou,FACEBK MV8HNHKE fb.me/ads,****9638
+4,2022-10-20,24.0,Milan-Henrich Schmidt,"Milan Henrich Schmidt, Clementisova 1, 04022 Kosice , DAR",
+5,2022-10-20,49.2,Tomáš Širgely,"Tomas Sirgely, Severna 8 Moldava nad Bodvou 045 01",20220045
+6,2022-10-20,806.4,Silvia Copova,Silvia CopovaDubova 2052/206601 HumenneDar,
+7,2022-10-20,24.0,Milan-Henrich Schmidt,"Milan Henrich Schmidt, Clementisova 1, 04022 Kosice , DAR",
+8,2022-10-20,-199.2,MinuteCopy s.r.o.,karticky,2022201
+9,2022-10-20,-390.0,"PROGROUP SK, s.r.o.","Letaky, samolepky, grafika",221724
+10,2022-10-20,-24.0,GL-REKLAMA s.r.o.,grafika,20220044
+11,2022-10-20,-31.92,"terč.sk, s.r.o.",Letaky,20220356
+12,2022-10-20,54.0,Miroslav Urban,"Miroslav Urban, Štiavnička 331, Dar",
+13,2022-10-20,65.0,Milan Lesko,"Milan Lesko, Kutnohorska 2114/7, 07501 Trebisov - dar",
+14,2022-10-20,30.24,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
+15,2022-10-20,150.0,REPKOVSKY IGOR,Igor Repkovsky Rajecke Teplice dar pre Silviu Bakkery,
+16,2022-10-20,31.92,Jozef Remenar,Dar Jozef Remenar Bucany 720,
+17,2022-10-20,539.52,Jozef Remenar,Dar Jozef Remenar Bucany 720,
+18,2022-10-20,390.0,Ivan Kerita,"Ivan Kerita, Zvonarska 25, 05201 Spisska Nova Ves, DAR",
+19,2022-10-19,-900.0,Platba kartou,FACEBK SV435HPD fb.me/ads,****9638
+20,2022-10-19,95.0,Vladimir Bajo,"Vladimir Bajo, Cintorinska 508/12,Modry Kamen, DAR",10220206
+21,2022-10-19,-999.6,Dataprint sk s.r.o.,Letaky,20220101
+22,2022-10-19,-152.4,"Petit Press, a.s. divízia týždenníkov, o.z.",inzercia,2235110908
+23,2022-10-19,-192.0,"Petit Press, s.s. divízia týždenníkov, o.z.",online banner,2235112109
+24,2022-10-19,-400.0,Network engineering s.r.o.,propagacne materialy,2202004
+25,2022-10-19,-147.87,FaxCopy a.s.,letaky,5502200072
+26,2022-10-19,-108.0,Vizual s.r.o.,"letaky, grafika",20220357
+27,2022-10-19,205.0,Darina Siposova Durianova,"Darina Durianova, dar pre hnutieRepublika, Zahradnicka 46/a, 82108Bratislava",
+28,2022-10-19,195.0,KOCIS EDUARD,"PhDr. Eduard Kocis, Akad. Pavlova 316/8, 091 01 Stropkov - Dar",
+29,2022-10-19,16.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
+30,2022-10-19,160.0,MIDLER MIROSLAV,"Miroslav Midler, Kuzmanyho 1603 /13, Topolcany-DAR",
+31,2022-10-19,999.0,"ARDIS, A.S.","Financny dar - p. Suja - ARDIS a.s., Krizna 13, 965 01 Ziar nad Hronom, ICO: 360 561 89",36056189
+32,2022-10-19,108.0,Rastislav Tkáč,"Ing. Rastislav Tkac, Pri Poste 9, 040 17, Kosice, Dar",
+33,2022-10-19,166.6,Jana Palíková,"Ing. Jana Palikova, Turicky 3, 985 22 Cinobana - dar",20220101
+34,2022-10-18,833.0,Jana Palíková,"Ing. Jana Palikova, Turicky 3, 985 22 Cinobana - dar",20220101
+35,2022-10-18,-52.5,IRPT s.r.o.,distribucia letakov,782022
+36,2022-10-18,-500.0,,Výber s poplatkom,9
+37,2022-10-18,-8.0,,Popl. za hotovostný výber,9
+38,2022-10-18,-400.0,Eduard Kočiš,Vratenie daru,
+39,2022-10-18,266.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
+40,2022-10-18,52.5,KUBICA JAN,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",
+41,2022-10-18,720.0,Bc.Miroslav Magdech,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, dar",
+42,2022-10-18,-1290.05,Delphia Tatry s.r.o.,Letaky,22020011
+43,2022-10-18,-2405.0,"TINO LASER, s.r.o.","bannery, letaky",2022017
+44,2022-10-18,-360.0,Richard Novák - MenAtWork,video,20220019
+45,2022-10-18,120.0,Budinský Vincent,Vincent Budinsky.Petra Jilemnickeho 665/97 Cierny Balog 97652-DAR,
+46,2022-10-17,600.0,"Kopecký Pavol, Ing.","Martina Kopecka, Huncovska 26, Kezmarok, dar",
+47,2022-10-17,-174.0,Roman Pšenák,vratenie daru,
+48,2022-10-17,690.05,"Kopecký Pavol, Ing.","Pavol Kopecky, Huncovska 26, Kezmarok, dar",
+49,2022-10-17,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Cadca Dar,
+50,2022-10-17,400.0,KOCIS EDUARD,,
+51,2022-10-17,110.0,ROMAN JAROSLAV,"DAR, Jaroslav Roman Zakopcie Stred 904",
+52,2022-10-17,199.0,Milan Kis Butka,"Milan Kis Butka, Leningradska 9,Michalovce, dar",
+53,2022-10-17,172.6,Lenka Nagyova,"Lenka Nagyova,Devicany 242,Devicany- dar",
+54,2022-10-17,-462.0,"Petit Press, a.s. divízia týždenníkov, o.z.",Inzercia,2233102352
+55,2022-10-17,-120.0,GL-REKLAMA s.r.o.,Letaky,20220039
+56,2022-10-17,-120.0,GL-REKLAMA s.r.o.,Letaky,20220040
+57,2022-10-17,-132.48,famous design s.r.o.,"banner, pera",2022184
+58,2022-10-17,-1290.05,Pavol Kopecký,Vratenie daru,
+59,2022-10-14,-900.0,Platba kartou,FACEBK UFPDAHFE fb.me/ads,****9638
+60,2022-10-14,1290.05,"Kopecký Pavol, Ing.","Pavol Kopecky, Huncovska 26, Kezmarok, dar",
+61,2022-10-14,462.0,Sona Zyglinska,"Sona Zyglinska, Slnecna 162/11,02901 Namestovo- dar",
+62,2022-10-14,-250.02,Andrea Veverkova,tlac a graf. navrh A2 plagaty,202200004
+63,2022-10-14,420.0,Maslak Denis,"Jedna sa o Dar pre Republiku od Denis Maslak Cadca,Hurbanova 2306/19",
+64,2022-10-14,70.0,Juraj Vrba,"Juraj Vrba, A. Bernolaka 2614/11, 02201 Cadca - Dar",
+65,2022-10-14,120.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho Cadca 128 Dar,
+66,2022-10-14,120.0,BENKO STEFAN,"Erika Feherova Gerlachovska 20, Kosice -dar",
+67,2022-10-14,120.0,BENKO STEFAN,Stefan Surmanek Rozalska 5 Kosice-Dar,
+68,2022-10-14,110.0,Miroslav Kubačka,Miroslav Kubacka Hlinene c.31 Turzovka 02354 DAR,
+69,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,
+70,2022-10-13,-182.4,Biznis Media s.r.o.,"grafika, letaky",1020220100
+71,2022-10-13,-21.0,Andrej Sušila - Print Production,plagaty,2022022
+72,2022-10-13,174.0,"Pšenák Roman, Mgr.",Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
+73,2022-10-13,132.48,Alexander Tilnak,"Alexander Tilnak, Orechova 11, Humenne - Dar",
+74,2022-10-13,-305.27,FaxCopy a.s.,"grafika, letaky, kalendariky",1707488
+75,2022-10-13,-396.32,DOB BUS,plagaty,2022152
+76,2022-10-13,182.4,Emanuel Omámik,"Lucia Omamikova, Doliny 1891/2, 03853 Turany - dar",
+77,2022-10-13,400.0,Juraj Vrba,"Juraj Vrba, A. Bernolaka 2614/11, 02201 Cadca - Dar",
+78,2022-10-13,396.32,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",
+79,2022-10-13,21.0,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",
+80,2022-10-13,170.0,Zavodnik Antonin,"Antonin Zavodnik, Stred 520, Turzovka 023 54. Info: dar",
+81,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,
+82,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330
+83,2022-10-12,-74.4,DIVERSSO s.r.o.,letaky,220100454
+84,2022-10-12,-25.2,"PROGRUP SK, s.r.o.",letaky,221639
+85,2022-10-12,25.2,Marek Horansky,"Marek Horansky, Obchodna 53/28, 05315, Hrabusice - dar",
+86,2022-10-12,348.0,Ivan Kerita,"Ivan Kerita, Zvonarska 25, 05201 Spisska Nova Ves, DAR",
+87,2022-10-12,-126.3,Ing. Amália Černajová - ČERTEX,Letaky,2022151
+88,2022-10-12,330.0,FERLEN S.R.O.,"Jozef Ferianc, Poziarnicka 6, 96901Banska Stiavnica - Dar",
+89,2022-10-12,100.0,Gánovská Michala,"Michala Ganovska, Rastislavova 18, Poprad, dar",
+90,2022-10-12,-720.0,"Hattech, s.r.o.",billboardy,22118
+91,2022-10-12,-348.0,GL-REKLAMA s.r.o.,Letaky,20220043
+92,2022-10-11,109.45,"Mikitovičová Alica, Mgr.","Alica Mikitovicova, Nad Laborcom 6, Michalovce - dar",
+93,2022-10-11,80.0,Monika Sklenár Kozánková,"DAR Monika Sklenar Kozankova, Majcichov 4, 919 22",
+94,2022-10-11,720.0,Alexander Tilnak,"Alexander Tilnak, Orechova 11, Humenne - Dar",
+95,2022-10-11,50.0,"Kočišová Jana, Mgr.","Jana Kocisova, Hviezdoslavova 163/50, Vranov nad Toplou - dar",
+96,2022-10-11,-90.0,SEM s.r.o.,letaky,2201335
+97,2022-10-11,-745.6,Bc. Andrea Fecková - VYDAVATEĽSTVO SPEKTRUM,Bc. Andrea Feckova - VYDAVATELSTVO SPEKTRUM: 2022162 - REPUBLIKA - 2022/10,2022162
+98,2022-10-11,-279.48,Jaroslav Oprala GARMONDNITRA-vydavateľstvo,letaky,220374
+99,2022-10-11,-150.0,TLAČIAREŇ POLYGRAFIA s.r.o.,grafika a tlac letakov,22009730
+100,2022-10-11,-66.52,"Projects, s.r.o.",letaky,41216184
+101,2022-10-11,-168.0,MIG29 s.r.o.,"Letaky, plagaty",20220072
+102,2022-10-11,168.0,JUDr.Viktor Jedlicka,"JUDr. Viktor Jedlicka, Polna c. 5954/3, 974 05 Banska Bystrica, dar Hnutiu REPUBLIKA",
+103,2022-10-11,150.0,Milan Lesko,"Milan Lesko, Kutnohorska 2114/7, 07501 Trebisov - dar",
+104,2022-10-11,66.52,VERONIKA TISLIAROVA,"VERONIKA TISLIAROVA, LUKA 692, 97662 BRUSNO - DAR",
+105,2022-10-11,279.48,KUBICA JAN,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",
+106,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330
+107,2022-10-11,745.6,Darina Siposova Durianova,"Darina Durianova, dar pre HnutieRepublika, Zahradnicka 46/A, 82108Bratislava - na uhradu fa preStropkovske Spektrum (Eduard Kocis)",
+108,2022-10-11,-109.45,GL-RERKLAMA s.r.o.,"Letaky, plagaty",20220042
+109,2022-10-11,110.0,Milan Sobčák,"Silvia Sobcak, Vysny koniec 156, Turzovka _ DAR",
+110,2022-10-10,-900.0,Platba kartou,FACEBK 4B38THBE fb.me/ads,****9638
+111,2022-10-10,-379.2,Impesa s.r.o.,plagaty,22005
+112,2022-10-10,-36.29,GmbH,"5501468, ASK12272142, platba vopred letaky",
+113,2022-10-10,300.0,Pavol Krištiak,"Pavol Kristiak, Cadca, ul. Horna c. 2167/77: DAR",
+114,2022-10-10,-984.0,"Petit Press, a.s. divízia týždenníkkov, o.z.",Inzercia,2233102208
+115,2022-10-10,200.0,SABIK BOHUMIR,"Mgr. Ing. Bohumir Sabik, Cerveny Hradok 30, 951 82 - dar",
+116,2022-10-10,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+117,2022-10-07,-60.0,IRPT s.r.o.,Distribucia letakov,722022
+118,2022-10-07,-46.8,"Miroslav Jiránek - BEPA, reklamná agentúra",Auto polepy,2022576
+119,2022-10-07,37.0,HRBAL JAN,"Jan Hrbal, ul. V.Clementisa 1163/15, RevUca - dar",
+120,2022-10-07,60.0,KUBICA JAN,"Jan Kubica, Moravske Lieskove 673, 916 42 Moravske Lieskove - dar",
+121,2022-10-07,-318.6,OSEFA NB s.r.o.,Pera,7102022
+122,2022-10-07,-29.99,"Katarína Kluková - GIGA, reklamná agentúra",Plagaty,2022196
+123,2022-10-07,-3089.76,Dataprint sk s.r.o.,Letaky,20220092
+124,2022-10-07,-70.82,"Adverti, s.r.o.",Letaky,221432
+125,2022-10-07,-1480.98,Ján Jankola RaR,Bannery,20220200
+126,2022-10-06,30.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
+127,2022-10-06,3000.0,UHRIKOVA ZUZANA,"Dar Zuzana Uhrikova, Hornocermanska 81, Nitra",
+128,2022-10-06,70.82,PATRIK MATUSIK,"PATRIK MATUSIK, NOVE SADY 403, 95124 NOVE SADY - DAR",
+129,2022-10-06,500.0,PECHAC BRANISLAV,Branislav Pechac Sportova 198 Kamanova - Dar,
+130,2022-10-06,-120.0,GL-REKLAMA s.r.o.,letaky,20220040
+131,2022-10-06,-120.0,GL-REKLAMA s.r.o.,letaky,20220039
+132,2022-10-06,-120.0,"ISPA, spol. s.r.o.",Papierove dolepy,22950464
+133,2022-10-05,-118.8,GRYF reklamné štúdio s.r.o.,tlac dolepiek,20223450
+134,2022-10-05,318.6,"Kočišová Jana, Mgr.","Jana Kocisova, Hviezdoslavova 163/50, Vranov nad Toplou - dar",
+135,2022-10-05,238.8,Ivona Kellnerová,"Mgr. Ivona Kellnerova, Trieda 1. maja 2221/11, 052 01 Spisska Nova Ves - DAR",
+136,2022-10-05,-2657.88,"Red Post, s.r.o.",Distribucia letakov,2022058
+137,2022-10-05,-30.0,DUSAP spol. s.r.o.,Reklamne plochy,2872022
+138,2022-10-05,-339.6,GL-REKLAMA s.r.o.,"Letaky, plagaty",20220038
+139,2022-10-05,90.0,Marian Podoba,"Marian Podoba, M.Sch.Trnavskeho 22, Bratislava - d ar",
+140,2022-10-05,340.0,BENKO STEFAN,"Stefan Benko, Hlinkova 17, Kosice -dar",
+141,2022-10-05,3000.0,UHRIKOVA ZUZANA,"Dar Zuzana Uhrikova, Hornocermanska 81, Nitra",
+142,2022-10-05,500.0,Jana Krajčovičová,"Milan Krajcovic, 956 12 Kamanova 144 , DAR",
+143,2022-10-04,-900.0,Platba kartou,FACEBK QDLRNHBE fb.me/ads,****9638
+144,2022-10-04,-100.0,Igor Valach,Vratenie daru na ziadost darcu,
+145,2022-10-04,-480.0,"euroAWK, spol. s.r.o.",billboardy,225838
+146,2022-10-04,75.0,Lenka Nagyova,"Lenka Nagyova,Devicany 242,Devicany- dar",
+147,2022-10-04,-1785.6,Tlačiareň Kežmarok GG s.r.o.,skladacka A4,20221440
+148,2022-10-04,50.0,MLYNAR JAN,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",
+149,2022-10-04,100.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
+150,2022-10-04,-30.0,"NUBIUM, s.r.o.",Plagaty,22097746
+151,2022-10-04,-1000.0,"Bystrô, o.z.",Reklamna a propagacna cinnost,10220007
+152,2022-10-04,480.0,Jozef Týnus,"Ing Jozef Tynus, Tehelna 5045/4, 984 01 Lucenec- dar",
+153,2022-10-03,100.0,Maria Presinska,"Michal Presinsky, Slovenska 23B, Nove Zamky - dar",
+154,2022-09-30,-11.0,,Vedenie konta Transparentný účet P,9
+155,2022-09-30,-0.05,,POPLATKY ZA RECYKLACIU,9
+156,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,
+157,2022-09-30,-196.8,Viliam Michálek WIKI,"grafika, letaky",2022283
+158,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",
+159,2022-09-30,300.0,PUKAN PETER,"Peter Pukan, Celadice 399, Celadice- dar",
+160,2022-09-30,200.0,PAVOL TIMKO TI-XL STEEL,"Pavol Timko Kolta 631, financny dar",7708106692
+161,2022-09-29,-120.0,Peter Gažovčjak,Letaky,2022231
+162,2022-09-29,100.0,Peter Chmelo,"Peter Chmelo,Zerotinova basta 15,SK-94002 Nove Zamky - Dar",
+163,2022-09-29,30.0,Martin Banik,"Martin Banik, Stara Bystrica161, vratenie chybnej transakcie",
+164,2022-09-29,225.0,Martin Banik,"Martin Banik, Stara Bystrica161, DAR",
+165,2022-09-29,-242.83,"TRISTANPRESS, spol. s.r.o.","plagaty, banery, reklamne predmety, grafika",2022410
+166,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,
+167,2022-09-29,-990.77,Dataprint sk s.r.o.,"Plagaty, tricka",20220095
+168,2022-09-29,242.83,MAREK GABRIS,"Marek Gabris, Rybany 557, 95636 Rybany - dar",
+169,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692
+170,2022-09-29,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+171,2022-09-28,20.0,Martin Bori,Martin Bori Velky Lapas 850 dar,720214
+172,2022-09-28,-122.4,"REKUK, spol. s.r.o.","plagaty, pera",2022009055
+173,2022-09-28,-312.0,"BigMedia, spol. s.r.o.",billboardy,122290348
+174,2022-09-28,-260.4,"Tao Scorpi, s.r.o.",letaky a plagaty,220100379
+175,2022-09-28,-5520.0,"NUBIUM, s.r.o.",reklamne panely,22097433
+176,2022-09-28,-27.3,"DIGITRA Net, s.r.o.",grafika,162022414
+177,2022-09-28,-1555.2,"ISPA, spol. s.r.o.",reklamny priestor,22950433
+178,2022-09-28,-124.56,Tlačiareň Ján Šindléry - TESFO,plagaty,3132022
+179,2022-09-28,-666.0,GL-REKLAMA s.r.o.,reklamne plochy,20220035
+180,2022-09-28,-132.0,GL-REKLAMA s.r.o.,letaky,20220036
+181,2022-09-28,-255.0,Martin Baník,Vratenie daru,
+182,2022-09-27,225.0,Martin Banik,"Martin Banik, 02304 Stara Bystrica161",
+183,2022-09-27,312.0,Gabriel Volšík,"Gabriel Volsik, Andovska 31, 94053 Nove Zamky - DAR",
+184,2022-09-26,100.0,Andrej Viktorin,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",
+185,2022-09-26,400.0,Jan Komin,"Jan komin, Stred 420/11, Turzovka 02 354. Info: Ide o dar",
+186,2022-09-26,132.0,Tomáš Širgely,"Tomas Sirgely, Severna 8 Moldava nad Bodvou, 045 01, dar",
+187,2022-09-23,-264.0,MultiMedia s.r.o.,Priprava a prenajom CLV,220900036
+188,2022-09-23,-152.4,"Petit Press, a.s. divízia týždenníkov, o.z.",inzercia,2235110669
+189,2022-09-23,-45.0,Peter Kultan,Vratenie daru,
+190,2022-09-23,-45.0,Mesto Kysucke Nove Mesto,Inzercia,9915200064
+191,2022-09-23,-45.0,Peter Kultan,Vratenie daru,
+192,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",
+193,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",
+194,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,
+195,2022-09-22,124.56,Miroslav Urban,"Miroslav Urban, Stiavnicka 331, Dar",
+196,2022-09-21,-3089.76,Dataprint sk s.r.o.,Letaky,20220092
+197,2022-09-21,-100.8,Hal Production s.r.o.,"letaky, pera",30220003
+198,2022-09-21,-225.6,Guldan-Studio s.r.o.,Prenajom rekl. plochy,22017
+199,2022-09-21,-240.0,"FOREKO, s.r.o.",inzercia v novinach,2022165
+200,2022-09-21,-170.4,"Picasso Media, s.r.o.",Info MaXX,20220215
+201,2022-09-21,-360.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22152
+202,2022-09-21,-528.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22151
+203,2022-09-21,-177.6,euroAWK spol. s.r.o.,zaloha za kampan,2270546
+204,2022-09-21,240.0,Ľubomír Kyselý,Ing. Lubomir Kysely Hviezdoslavova 20 926 01 Sered DAR,
+205,2022-09-21,10000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+206,2022-09-20,324.0,"Hilka Majková Lucia, PhDr.",lucia hilka majjova vuc bsk lipova 50 ivanka pri dunaji kand bsk fin dar republika,16051976
+207,2022-09-20,528.0,Emanuel Omámik,"Lucia Omamikova, Doliny 1891/2, 03853 Turany - dar",
+208,2022-09-20,287.7,Jozef Tomanik,Jozef Tomanik Bernolakova 6032/11Banska Bystrica.Dar hnutiu Republika,
+209,2022-09-19,-21.83,Platba kartou,FACEBK QJ3GJHXD fb.me/ads,****9638
+210,2022-09-19,-48.0,Abracadabra s.r.o.,Letaky,2022075
+211,2022-09-19,100.0,DENIS GONDZALA,"DENIS GONDZALA, NOVOMESTSKA 1, NOVE ZAMKY - DAR",
+212,2022-09-19,-8046.0,Dataprint sk s.r.o.,tlac letakov,20220091
+213,2022-09-14,100.0,Martin Bori,Martin Bori Velky Lapas 850 dar,720214
+214,2022-09-14,300.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova kandid vuc bsk hnutie rep lipova 50 ivanka pri dunaji 900 28 fin dar hnutiu,16051976
+215,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082
+216,2022-09-14,-102.0,ARTON s.r.o.,reklamne plochy,220544
+217,2022-09-13,200.0,Lenka Nagyova,"Lenka Nagyova,Devicany 242,Devicany- dar",
+218,2022-09-13,490.0,Iveta Štrbáková,"Iveta Strbakova,Turcianska 3, Turc.Teplice, DAR, Peter Strbak",
+219,2022-09-13,-799.52,Dataprint sk s.r.o.,"tlac letakov, banneru a plagatov",20220085
+220,2022-09-13,100.0,TOTH RADOVAN,"Mgr. Radovan Toth, P.Pazmana 50/13, Sala - dar",
+221,2022-09-13,200.0,"Solčanský Dalimír, JUDr., PhD.","Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",22
+222,2022-09-13,200.0,Ľuboš Rusnák,Lubos Rusnak Lehota 781 psc 95136 Dar volby do VUC,
+223,2022-09-12,301.0,Henrieta Bevelaquová,dar od vladimir bevelaqua Vyhne 446,
+224,2022-09-12,100.0,Ľubomíra Ďuricová,"Imrich Ďurica, Jurkovičová 11, 94901 Nitra- dar",
+225,2022-09-12,100.0,PUKAN PETER,"Jana Pukanova, Celadice 399, Celadice - dar",
+226,2022-09-12,100.0,TUZINCIN LUBOS,"Lubos Tuzincin, ul. Ordodyho 3, Hurbanovo, DAR",
+227,2022-09-12,200.0,Andrej Viktorin,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",
+228,2022-09-09,-120.0,Tlačiareň Kubík,tlac letakov,220101082
+229,2022-09-09,12000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+230,2022-09-09,100.0,Miroslav Holý,"Miroslav Holy, 1. maja 1, Zlate Moravce - dar",
+231,2022-09-09,-3888.0,"Slovenská pošta, a.s.",distribucia letakov,9001534718
+232,2022-09-09,-117.13,TigerPrint,tlac letakov A6,20220707
+233,2022-09-08,-1000.0,Andrea Koreňová - Zdravie a imunita,reklamna a propagacna cinnost podujatia,2022013
+234,2022-09-08,100.0,Peter Holý,"Peter Holy, Hlavna 94 Tesarske Mlynany - dar",
+235,2022-09-08,500.0,MLYNAR JAN,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",
+236,2022-09-07,-408.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22141
+237,2022-09-07,-300.0,Network engineering s.r.o.,priprava na tlac letakov,2202001
+238,2022-09-07,408.0,Maria Presinska,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",
+239,2022-09-07,-408.0,Mária Prešinská,vratenie daru,
+240,2022-09-07,408.0,Maria Presinska,Dar,
+241,2022-09-06,-500.0,Jan Mlynar,Vratenie daru,
+242,2022-09-06,500.0,MLYNAR JAN,DAR,
+243,2022-09-05,-9.0,Platba kartou,FACEBK STGNKGFS fb.me/ads,****9638
+244,2022-09-02,-250.0,Henrich Bečka st.,Prenajom detskych atrakcii,52022
+245,2022-08-31,11.0,,Odpustenie vedenie konta,9
+246,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
+247,2022-08-30,-528.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22124
+248,2022-08-30,-504.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,22125
+249,2022-08-30,499.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
+250,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270421
+251,2022-08-30,-168.0,"euroAWK, spol. s.r.o.",zaloha za kampan,2270420
+252,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082
+253,2022-08-30,-2880.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22108
+254,2022-08-30,-864.0,GRYF reklamné štúdio s.r.o.,zaloha za reklamne plochy,22109
+255,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090
+256,2022-08-22,-180.0,euroAWK spol. s.r.o.,kampan,2270379
+257,2022-08-22,-1080.0,euroAWK spol. s.r.o.,kampan,2270381
+258,2022-08-22,-810.0,NUBIUM s.r.o.,billboardy,1220408
+259,2022-08-22,-152.4,BigMedia spol. s.r.o.,billboard,122290233
+260,2022-08-22,-840.0,euroAWK spol. s.r.o.,kampan,2270380
+261,2022-08-22,-194.4,"ISPA, spol. s.r.o.",billboardy,22950295
+262,2022-08-22,-60.0,euroAWK spol. s.r.o.,kampan,2270386
+263,2022-08-19,500.0,Sklenka Martin,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",
+264,2022-08-18,-732.0,"NUBIUM, s.r.o.","prenajom rekl. panelov, tlac plagatov",12120491
+265,2022-08-18,-504.0,"euroAWK, spol. s.r.o.",kampan,2270355
+266,2022-08-18,-192.0,GRYF reklamné štúdio s.r.o.,Reklamna plocha,22090
+267,2022-08-17,-2212.5,RCS reklama,nalepky,1020220429
+268,2022-08-17,504.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
+269,2022-08-16,-372.0,"BigMedia, spol. s.r.o.",Billboardy,
+270,2022-08-16,5000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+271,2022-08-16,316.8,"Pšenák Roman, Mgr.",2 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
+272,2022-08-15,3000.0,"Pšenák Roman, Mgr.",1 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,
+273,2022-08-15,372.0,VALACH IGOR,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",
+274,2022-08-12,300.0,KOCIS EDUARD,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",
+275,2022-08-11,732.0,"Solčanský Dalimír, JUDr., PhD.","Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",2022
+276,2022-08-03,-1440.0,GRYF reklamné štúdio s.r.o.,Reklamne plochy,22081
+277,2022-08-03,-751.2,"ISPA, spol s.r.o.",Billboardy,
+278,2022-08-03,2191.2,CARNANSKY ADAM,"Adam Carnansky, Gorazdova 1723/6, 052 01 Spisska Nova Ves - dar",
+279,2022-07-29,11.0,,Odpustenie vedenie konta,9
+280,2022-07-29,-11.0,,Vedenie konta Transparentný účet P,9
+281,2022-07-26,-291.6,GL-REKLAMA s.r.o.,"tlac letakov, banner, tlac billboardu",20220025
+282,2022-07-26,192.0,Gánovská Michala,"Michala Ganovska, Rastislavova 3486/18, Poprad 058 01-DAR",
+283,2022-07-26,-192.0,Michaela Gánovská,Vratenie daru,
+284,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,
+285,2022-07-26,300.0,BENKO STEFAN,"Stefan Benko, Hlinkova 17, Kosice -Dar",
+286,2022-07-26,192.0,Gánovská Michala,Dar,
+287,2022-07-19,-1976.45,GL-REKLAMA s.r.o.,promo stoly REPUBLIKA,20220026
+288,2022-07-19,-3.5,,P-Zmena pod. vzoru právnická osoba,
+289,2022-07-14,-612.0,Dataprint sk s.r.o.,balony s potlacou REPUBLIKA,20220065
+290,2022-07-14,-346.8,Dataprint sk s.r.o.,tlac letakov A5 REPUBLIKA,20220064
+291,2022-07-14,5000.0,REPUBLIKA,vklad prostriedkov na transparentny ucet,
+292,2022-07-04,-3240.0,Arton,najom billboardov,220275
+293,2022-06-30,11.0,,Odpustenie vedenie konta,9
+294,2022-06-30,-11.0,,Vedenie konta Transparentný účet P,9
+295,2022-06-16,-78.8,Platba kartou,HNONLINE.SK BRATISLAVA,****9638
+296,2022-06-16,-75.9,Platba kartou,WWW.DENNIKN.SK BRATISLAVA,****9638
+297,2022-06-16,-48.0,Platba kartou,PREDPLATNE.DENN BRATISLAVA,****9638
+298,2022-06-16,-39.9,Platba kartou,WWW.SME.SK BRATISLAVA,****9638
+299,2022-06-14,-1996.8,"NUBIUM, sro",reklamne panely REPUBLIKA,22064295
+300,2022-06-14,-4200.0,"GRYF reklamne studio, sro",reklamne plochy REPUBLIKA,20221723
+301,2022-06-06,10000.0,REPUBLIKA,prevod na transparentny ucet,
+302,2022-05-31,11.0,,Odpustenie vedenie konta,9
+303,2022-05-31,-11.0,,Vedenie konta Transparentný účet P,9
+304,2022-05-06,-864.0,data print,plachta na stan,20220034
+305,2022-05-03,-116.4,dataprint,,20220032
+306,2022-04-29,11.0,,Odpustenie vedenie konta,9
+307,2022-04-29,-11.0,,Vedenie konta Transparentný účet P,9
+308,2022-04-21,1000.0,REPUBLIKA,prevod na transparentny ucet,
+309,2022-03-31,6.0,,Odpust.-popl.za platby a ved.úč/ko,9
+310,2022-03-31,-6.0,,Vedenie účtu,9
