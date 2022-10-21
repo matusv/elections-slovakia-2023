@@ -1,15 +1,16 @@
 index,date,amount,account_name,message,vs
-0,2022-10-20,-10.8,Platba kartou,Platba kartou u obchodníka,****8517
+0,2022-10-21,-14.4,Platba kartou,Platba kartou u obchodníka,****8517
 1,2022-10-20,-10.8,Platba kartou,Platba kartou u obchodníka,****8517
-2,2022-10-19,-10.8,Platba kartou,Platba kartou u obchodníka,****8517
-3,2022-10-20,500.0,Jozef Varga,Varga Jozef,
-4,2022-10-17,-78.0,"VUB,A.S.","DDKING~MEDIA,PP,HPOPRAD~~~~~~~~~P1",****8517
-5,2022-10-17,486.0,Peter Kandrac,Peter Kandrac,
-6,2022-10-10,-66.24,Platba kartou,"DPD SK, S.R.O. BRATISLAVA13:06",****8517
-7,2022-10-06,-1237.8,OBALOTAVA a.s.,platba letaky volby 2022 PP,22067118
-8,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-9,2022-09-29,-0.1,,Popl. Zobr. zostatku cez ATM VUB,8517
-10,2022-09-28,100.0,Stanek Martin,Startovne..,
-11,2022-09-21,2000.0,Ján Ondrišík,,
-12,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-13,2022-08-31,-5.0,,Vedenie účtu,9
+2,2022-10-20,-10.8,Platba kartou,Platba kartou u obchodníka,****8517
+3,2022-10-19,-10.8,Platba kartou,Platba kartou u obchodníka,****8517
+4,2022-10-20,500.0,Jozef Varga,Varga Jozef,
+5,2022-10-17,-78.0,"VUB,A.S.","DDKING~MEDIA,PP,HPOPRAD~~~~~~~~~P1",****8517
+6,2022-10-17,486.0,Peter Kandrac,Peter Kandrac,
+7,2022-10-10,-66.24,Platba kartou,"DPD SK, S.R.O. BRATISLAVA13:06",****8517
+8,2022-10-06,-1237.8,OBALOTAVA a.s.,platba letaky volby 2022 PP,22067118
+9,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+10,2022-09-29,-0.1,,Popl. Zobr. zostatku cez ATM VUB,8517
+11,2022-09-28,100.0,Stanek Martin,Startovne..,
+12,2022-09-21,2000.0,Ján Ondrišík,,
+13,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+14,2022-08-31,-5.0,,Vedenie účtu,9
