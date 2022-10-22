@@ -1032,155 +1032,155 @@ index,date,account_name,amount,message,vs,name,label
 1030,2022-10-04,VALACH IGOR,100.0,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",,REPUBLIKA,PS
 1031,2022-10-04,"euroAWK, spol. s.r.o.",-480.0,billboardy,225838,REPUBLIKA,PS
 1032,2022-10-04,Tlačiareň Kežmarok GG s.r.o.,-1785.6,skladacka A4,20221440,REPUBLIKA,PS
-1033,2022-10-04,Igor Valach,-100.0,Vratenie daru na ziadost darcu,,REPUBLIKA,PS
-1034,2022-10-04,Platba kartou,-900.0,FACEBK QDLRNHBE fb.me/ads,****9638,REPUBLIKA,PS
-1035,2022-10-04,Lenka Nagyova,75.0,"Lenka Nagyova,Devicany 242,Devicany- dar",,REPUBLIKA,PS
+1033,2022-10-04,Platba kartou,-900.0,FACEBK QDLRNHBE fb.me/ads,****9638,REPUBLIKA,PS
+1034,2022-10-04,Lenka Nagyova,75.0,"Lenka Nagyova,Devicany 242,Devicany- dar",,REPUBLIKA,PS
+1035,2022-10-04,Igor Valach,-100.0,Vratenie daru na ziadost darcu,,REPUBLIKA,PS
 1036,2022-10-03,Maria Presinska,100.0,"Michal Presinsky, Slovenska 23B, Nove Zamky - dar",,REPUBLIKA,PS
-1037,2022-09-30,MICHAELA SKLENKOVA,168.0,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA,PS
-1038,2022-09-30,PAVOL TIMKO TI-XL STEEL,200.0,"Pavol Timko Kolta 631, financny dar",7708106692,REPUBLIKA,PS
-1039,2022-09-30,PUKAN PETER,300.0,"Peter Pukan, Celadice 399, Celadice- dar",,REPUBLIKA,PS
+1037,2022-09-30,,-11.0,Vedenie konta Transparentný účet P,9,REPUBLIKA,PS
+1038,2022-09-30,,-0.05,POPLATKY ZA RECYKLACIU,9,REPUBLIKA,PS
+1039,2022-09-30,Michaela Sklenková,-168.0,Vratenie daru,,REPUBLIKA,PS
 1040,2022-09-30,Viliam Michálek WIKI,-196.8,"grafika, letaky",2022283,REPUBLIKA,PS
-1041,2022-09-30,Michaela Sklenková,-168.0,Vratenie daru,,REPUBLIKA,PS
-1042,2022-09-30,,-0.05,POPLATKY ZA RECYKLACIU,9,REPUBLIKA,PS
-1043,2022-09-30,,-11.0,Vedenie konta Transparentný účet P,9,REPUBLIKA,PS
+1041,2022-09-30,MICHAELA SKLENKOVA,168.0,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA,PS
+1042,2022-09-30,PUKAN PETER,300.0,"Peter Pukan, Celadice 399, Celadice- dar",,REPUBLIKA,PS
+1043,2022-09-30,PAVOL TIMKO TI-XL STEEL,200.0,"Pavol Timko Kolta 631, financny dar",7708106692,REPUBLIKA,PS
 1044,2022-09-29,PAVOL TIMKO TI-XL STEEL,-200.0,Vratenie daru,,REPUBLIKA,PS
 1045,2022-09-29,REPUBLIKA,5000.0,prevod prostriedkov na transparentny ucet,,REPUBLIKA,PS
-1046,2022-09-29,PAVOL TIMKO TI-XL STEEL,200.0,Financny dar,7708106692,REPUBLIKA,PS
-1047,2022-09-29,MAREK GABRIS,242.83,"Marek Gabris, Rybany 557, 95636 Rybany - dar",,REPUBLIKA,PS
-1048,2022-09-29,Dataprint sk s.r.o.,-990.77,"Plagaty, tricka",20220095,REPUBLIKA,PS
-1049,2022-09-29,Peter Chmelo,100.0,"Peter Chmelo,Zerotinova basta 15,SK-94002 Nove Zamky - Dar",,REPUBLIKA,PS
-1050,2022-09-29,"TRISTANPRESS, spol. s.r.o.",-242.83,"plagaty, banery, reklamne predmety, grafika",2022410,REPUBLIKA,PS
-1051,2022-09-29,Martin Banik,225.0,"Martin Banik, Stara Bystrica161, DAR",,REPUBLIKA,PS
-1052,2022-09-29,Martin Banik,30.0,"Martin Banik, Stara Bystrica161, vratenie chybnej transakcie",,REPUBLIKA,PS
-1053,2022-09-29,Peter Gažovčjak,-120.0,Letaky,2022231,REPUBLIKA,PS
+1046,2022-09-29,MAREK GABRIS,242.83,"Marek Gabris, Rybany 557, 95636 Rybany - dar",,REPUBLIKA,PS
+1047,2022-09-29,Dataprint sk s.r.o.,-990.77,"Plagaty, tricka",20220095,REPUBLIKA,PS
+1048,2022-09-29,PAVOL TIMKO TI-XL STEEL,200.0,Financny dar,7708106692,REPUBLIKA,PS
+1049,2022-09-29,"TRISTANPRESS, spol. s.r.o.",-242.83,"plagaty, banery, reklamne predmety, grafika",2022410,REPUBLIKA,PS
+1050,2022-09-29,Martin Banik,30.0,"Martin Banik, Stara Bystrica161, vratenie chybnej transakcie",,REPUBLIKA,PS
+1051,2022-09-29,Peter Chmelo,100.0,"Peter Chmelo,Zerotinova basta 15,SK-94002 Nove Zamky - Dar",,REPUBLIKA,PS
+1052,2022-09-29,Peter Gažovčjak,-120.0,Letaky,2022231,REPUBLIKA,PS
+1053,2022-09-29,Martin Banik,225.0,"Martin Banik, Stara Bystrica161, DAR",,REPUBLIKA,PS
 1054,2022-09-28,"DIGITRA Net, s.r.o.",-27.3,grafika,162022414,REPUBLIKA,PS
 1055,2022-09-28,Martin Baník,-255.0,Vratenie daru,,REPUBLIKA,PS
-1056,2022-09-28,GL-REKLAMA s.r.o.,-666.0,reklamne plochy,20220035,REPUBLIKA,PS
-1057,2022-09-28,Tlačiareň Ján Šindléry - TESFO,-124.56,plagaty,3132022,REPUBLIKA,PS
+1056,2022-09-28,GL-REKLAMA s.r.o.,-132.0,letaky,20220036,REPUBLIKA,PS
+1057,2022-09-28,GL-REKLAMA s.r.o.,-666.0,reklamne plochy,20220035,REPUBLIKA,PS
 1058,2022-09-28,"ISPA, spol. s.r.o.",-1555.2,reklamny priestor,22950433,REPUBLIKA,PS
-1059,2022-09-28,GL-REKLAMA s.r.o.,-132.0,letaky,20220036,REPUBLIKA,PS
+1059,2022-09-28,Tlačiareň Ján Šindléry - TESFO,-124.56,plagaty,3132022,REPUBLIKA,PS
 1060,2022-09-28,"NUBIUM, s.r.o.",-5520.0,reklamne panely,22097433,REPUBLIKA,PS
 1061,2022-09-28,"Tao Scorpi, s.r.o.",-260.4,letaky a plagaty,220100379,REPUBLIKA,PS
-1062,2022-09-28,Martin Bori,20.0,Martin Bori Velky Lapas 850 dar,720214,REPUBLIKA,PS
-1063,2022-09-28,"BigMedia, spol. s.r.o.",-312.0,billboardy,122290348,REPUBLIKA,PS
-1064,2022-09-28,"REKUK, spol. s.r.o.",-122.4,"plagaty, pera",2022009055,REPUBLIKA,PS
-1065,2022-09-27,Gabriel Volšík,312.0,"Gabriel Volsik, Andovska 31, 94053 Nove Zamky - DAR",,REPUBLIKA,PS
-1066,2022-09-27,Martin Banik,225.0,"Martin Banik, 02304 Stara Bystrica161",,REPUBLIKA,PS
-1067,2022-09-26,Tomáš Širgely,132.0,"Tomas Sirgely, Severna 8 Moldava nad Bodvou, 045 01, dar",,REPUBLIKA,PS
+1062,2022-09-28,"BigMedia, spol. s.r.o.",-312.0,billboardy,122290348,REPUBLIKA,PS
+1063,2022-09-28,"REKUK, spol. s.r.o.",-122.4,"plagaty, pera",2022009055,REPUBLIKA,PS
+1064,2022-09-28,Martin Bori,20.0,Martin Bori Velky Lapas 850 dar,720214,REPUBLIKA,PS
+1065,2022-09-27,Martin Banik,225.0,"Martin Banik, 02304 Stara Bystrica161",,REPUBLIKA,PS
+1066,2022-09-27,Gabriel Volšík,312.0,"Gabriel Volsik, Andovska 31, 94053 Nove Zamky - DAR",,REPUBLIKA,PS
+1067,2022-09-26,Andrej Viktorin,100.0,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",,REPUBLIKA,PS
 1068,2022-09-26,Jan Komin,400.0,"Jan komin, Stred 420/11, Turzovka 02 354. Info: Ide o dar",,REPUBLIKA,PS
-1069,2022-09-26,Andrej Viktorin,100.0,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",,REPUBLIKA,PS
+1069,2022-09-26,Tomáš Širgely,132.0,"Tomas Sirgely, Severna 8 Moldava nad Bodvou, 045 01, dar",,REPUBLIKA,PS
 1070,2022-09-23,Peter Kultan,-45.0,Vratenie daru,,REPUBLIKA,PS
-1071,2022-09-23,Mesto Kysucke Nove Mesto,-45.0,Inzercia,9915200064,REPUBLIKA,PS
-1072,2022-09-23,"Petit Press, a.s. divízia týždenníkov, o.z.",-152.4,inzercia,2235110669,REPUBLIKA,PS
-1073,2022-09-23,MultiMedia s.r.o.,-264.0,Priprava a prenajom CLV,220900036,REPUBLIKA,PS
-1074,2022-09-23,Peter Kultán,45.0,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA,PS
-1075,2022-09-23,Peter Kultán,45.0,"Peter Kultan, 02336 Radola 411",,REPUBLIKA,PS
-1076,2022-09-23,Peter Kultan,-45.0,Vratenie daru,,REPUBLIKA,PS
+1071,2022-09-23,Peter Kultán,45.0,"Peter Kultan, 02336 Radola 411",,REPUBLIKA,PS
+1072,2022-09-23,Peter Kultán,45.0,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA,PS
+1073,2022-09-23,Peter Kultan,-45.0,Vratenie daru,,REPUBLIKA,PS
+1074,2022-09-23,Mesto Kysucke Nove Mesto,-45.0,Inzercia,9915200064,REPUBLIKA,PS
+1075,2022-09-23,MultiMedia s.r.o.,-264.0,Priprava a prenajom CLV,220900036,REPUBLIKA,PS
+1076,2022-09-23,"Petit Press, a.s. divízia týždenníkov, o.z.",-152.4,inzercia,2235110669,REPUBLIKA,PS
 1077,2022-09-22,Peter Kultán,45.0,Kultan Peter dar,,REPUBLIKA,PS
 1078,2022-09-22,Miroslav Urban,124.56,"Miroslav Urban, Stiavnicka 331, Dar",,REPUBLIKA,PS
-1079,2022-09-21,Dataprint sk s.r.o.,-3089.76,Letaky,20220092,REPUBLIKA,PS
+1079,2022-09-21,"Picasso Media, s.r.o.",-170.4,Info MaXX,20220215,REPUBLIKA,PS
 1080,2022-09-21,REPUBLIKA,10000.0,prevod prostriedkov na transparentny ucet,,REPUBLIKA,PS
 1081,2022-09-21,Ľubomír Kyselý,240.0,Ing. Lubomir Kysely Hviezdoslavova 20 926 01 Sered DAR,,REPUBLIKA,PS
 1082,2022-09-21,euroAWK spol. s.r.o.,-177.6,zaloha za kampan,2270546,REPUBLIKA,PS
 1083,2022-09-21,GRYF reklamné štúdio s.r.o.,-528.0,reklamne plochy,22151,REPUBLIKA,PS
-1084,2022-09-21,GRYF reklamné štúdio s.r.o.,-360.0,reklamne plochy,22152,REPUBLIKA,PS
-1085,2022-09-21,"Picasso Media, s.r.o.",-170.4,Info MaXX,20220215,REPUBLIKA,PS
-1086,2022-09-21,"FOREKO, s.r.o.",-240.0,inzercia v novinach,2022165,REPUBLIKA,PS
-1087,2022-09-21,Guldan-Studio s.r.o.,-225.6,Prenajom rekl. plochy,22017,REPUBLIKA,PS
-1088,2022-09-21,Hal Production s.r.o.,-100.8,"letaky, pera",30220003,REPUBLIKA,PS
-1089,2022-09-20,Jozef Tomanik,287.7,Jozef Tomanik Bernolakova 6032/11Banska Bystrica.Dar hnutiu Republika,,REPUBLIKA,PS
+1084,2022-09-21,"FOREKO, s.r.o.",-240.0,inzercia v novinach,2022165,REPUBLIKA,PS
+1085,2022-09-21,Guldan-Studio s.r.o.,-225.6,Prenajom rekl. plochy,22017,REPUBLIKA,PS
+1086,2022-09-21,Hal Production s.r.o.,-100.8,"letaky, pera",30220003,REPUBLIKA,PS
+1087,2022-09-21,Dataprint sk s.r.o.,-3089.76,Letaky,20220092,REPUBLIKA,PS
+1088,2022-09-21,GRYF reklamné štúdio s.r.o.,-360.0,reklamne plochy,22152,REPUBLIKA,PS
+1089,2022-09-20,"Hilka Majková Lucia, PhDr.",324.0,lucia hilka majjova vuc bsk lipova 50 ivanka pri dunaji kand bsk fin dar republika,16051976,REPUBLIKA,PS
 1090,2022-09-20,Emanuel Omámik,528.0,"Lucia Omamikova, Doliny 1891/2, 03853 Turany - dar",,REPUBLIKA,PS
-1091,2022-09-20,"Hilka Majková Lucia, PhDr.",324.0,lucia hilka majjova vuc bsk lipova 50 ivanka pri dunaji kand bsk fin dar republika,16051976,REPUBLIKA,PS
-1092,2022-09-19,Platba kartou,-21.83,FACEBK QJ3GJHXD fb.me/ads,****9638,REPUBLIKA,PS
-1093,2022-09-19,Abracadabra s.r.o.,-48.0,Letaky,2022075,REPUBLIKA,PS
-1094,2022-09-19,DENIS GONDZALA,100.0,"DENIS GONDZALA, NOVOMESTSKA 1, NOVE ZAMKY - DAR",,REPUBLIKA,PS
-1095,2022-09-19,Dataprint sk s.r.o.,-8046.0,tlac letakov,20220091,REPUBLIKA,PS
-1096,2022-09-14,Martin Bori,100.0,Martin Bori Velky Lapas 850 dar,720214,REPUBLIKA,PS
-1097,2022-09-14,"Hilka Majková Lucia, PhDr.",300.0,lucia hilka majkova kandid vuc bsk hnutie rep lipova 50 ivanka pri dunaji 900 28 fin dar hnutiu,16051976,REPUBLIKA,PS
-1098,2022-09-14,TLAČIAREŇ KUBÍK S.R.O.,120.0,2xplatba,220101082,REPUBLIKA,PS
-1099,2022-09-14,ARTON s.r.o.,-102.0,reklamne plochy,220544,REPUBLIKA,PS
-1100,2022-09-13,Ľuboš Rusnák,200.0,Lubos Rusnak Lehota 781 psc 95136 Dar volby do VUC,,REPUBLIKA,PS
-1101,2022-09-13,Lenka Nagyova,200.0,"Lenka Nagyova,Devicany 242,Devicany- dar",,REPUBLIKA,PS
-1102,2022-09-13,Iveta Štrbáková,490.0,"Iveta Strbakova,Turcianska 3, Turc.Teplice, DAR, Peter Strbak",,REPUBLIKA,PS
+1091,2022-09-20,Jozef Tomanik,287.7,Jozef Tomanik Bernolakova 6032/11Banska Bystrica.Dar hnutiu Republika,,REPUBLIKA,PS
+1092,2022-09-19,DENIS GONDZALA,100.0,"DENIS GONDZALA, NOVOMESTSKA 1, NOVE ZAMKY - DAR",,REPUBLIKA,PS
+1093,2022-09-19,Dataprint sk s.r.o.,-8046.0,tlac letakov,20220091,REPUBLIKA,PS
+1094,2022-09-19,Abracadabra s.r.o.,-48.0,Letaky,2022075,REPUBLIKA,PS
+1095,2022-09-19,Platba kartou,-21.83,FACEBK QJ3GJHXD fb.me/ads,****9638,REPUBLIKA,PS
+1096,2022-09-14,"Hilka Majková Lucia, PhDr.",300.0,lucia hilka majkova kandid vuc bsk hnutie rep lipova 50 ivanka pri dunaji 900 28 fin dar hnutiu,16051976,REPUBLIKA,PS
+1097,2022-09-14,TLAČIAREŇ KUBÍK S.R.O.,120.0,2xplatba,220101082,REPUBLIKA,PS
+1098,2022-09-14,ARTON s.r.o.,-102.0,reklamne plochy,220544,REPUBLIKA,PS
+1099,2022-09-14,Martin Bori,100.0,Martin Bori Velky Lapas 850 dar,720214,REPUBLIKA,PS
+1100,2022-09-13,TOTH RADOVAN,100.0,"Mgr. Radovan Toth, P.Pazmana 50/13, Sala - dar",,REPUBLIKA,PS
+1101,2022-09-13,Ľuboš Rusnák,200.0,Lubos Rusnak Lehota 781 psc 95136 Dar volby do VUC,,REPUBLIKA,PS
+1102,2022-09-13,"Solčanský Dalimír, JUDr., PhD.",200.0,"Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",22,REPUBLIKA,PS
 1103,2022-09-13,Dataprint sk s.r.o.,-799.52,"tlac letakov, banneru a plagatov",20220085,REPUBLIKA,PS
-1104,2022-09-13,TOTH RADOVAN,100.0,"Mgr. Radovan Toth, P.Pazmana 50/13, Sala - dar",,REPUBLIKA,PS
-1105,2022-09-13,"Solčanský Dalimír, JUDr., PhD.",200.0,"Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",22,REPUBLIKA,PS
-1106,2022-09-12,Ľubomíra Ďuricová,100.0,"Imrich Ďurica, Jurkovičová 11, 94901 Nitra- dar",,REPUBLIKA,PS
-1107,2022-09-12,Henrieta Bevelaquová,301.0,dar od vladimir bevelaqua Vyhne 446,,REPUBLIKA,PS
+1104,2022-09-13,Iveta Štrbáková,490.0,"Iveta Strbakova,Turcianska 3, Turc.Teplice, DAR, Peter Strbak",,REPUBLIKA,PS
+1105,2022-09-13,Lenka Nagyova,200.0,"Lenka Nagyova,Devicany 242,Devicany- dar",,REPUBLIKA,PS
+1106,2022-09-12,Henrieta Bevelaquová,301.0,dar od vladimir bevelaqua Vyhne 446,,REPUBLIKA,PS
+1107,2022-09-12,Ľubomíra Ďuricová,100.0,"Imrich Ďurica, Jurkovičová 11, 94901 Nitra- dar",,REPUBLIKA,PS
 1108,2022-09-12,PUKAN PETER,100.0,"Jana Pukanova, Celadice 399, Celadice - dar",,REPUBLIKA,PS
 1109,2022-09-12,TUZINCIN LUBOS,100.0,"Lubos Tuzincin, ul. Ordodyho 3, Hurbanovo, DAR",,REPUBLIKA,PS
 1110,2022-09-12,Andrej Viktorin,200.0,"Jozef Viktorin, Hviezdoslavova750/60, 956 17 Solcany - dar",,REPUBLIKA,PS
 1111,2022-09-09,TigerPrint,-117.13,tlac letakov A6,20220707,REPUBLIKA,PS
-1112,2022-09-09,Miroslav Holý,100.0,"Miroslav Holy, 1. maja 1, Zlate Moravce - dar",,REPUBLIKA,PS
-1113,2022-09-09,Tlačiareň Kubík,-120.0,tlac letakov,220101082,REPUBLIKA,PS
+1112,2022-09-09,"Slovenská pošta, a.s.",-3888.0,distribucia letakov,9001534718,REPUBLIKA,PS
+1113,2022-09-09,Miroslav Holý,100.0,"Miroslav Holy, 1. maja 1, Zlate Moravce - dar",,REPUBLIKA,PS
 1114,2022-09-09,REPUBLIKA,12000.0,prevod prostriedkov na transparentny ucet,,REPUBLIKA,PS
-1115,2022-09-09,"Slovenská pošta, a.s.",-3888.0,distribucia letakov,9001534718,REPUBLIKA,PS
-1116,2022-09-08,MLYNAR JAN,500.0,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",,REPUBLIKA,PS
-1117,2022-09-08,Peter Holý,100.0,"Peter Holy, Hlavna 94 Tesarske Mlynany - dar",,REPUBLIKA,PS
-1118,2022-09-08,Andrea Koreňová - Zdravie a imunita,-1000.0,reklamna a propagacna cinnost podujatia,2022013,REPUBLIKA,PS
-1119,2022-09-07,Maria Presinska,408.0,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA,PS
+1115,2022-09-09,Tlačiareň Kubík,-120.0,tlac letakov,220101082,REPUBLIKA,PS
+1116,2022-09-08,Andrea Koreňová - Zdravie a imunita,-1000.0,reklamna a propagacna cinnost podujatia,2022013,REPUBLIKA,PS
+1117,2022-09-08,MLYNAR JAN,500.0,"Jan Mlynar,Hviezdoslavova 60/41 Praznovce 95501 - Dar",,REPUBLIKA,PS
+1118,2022-09-08,Peter Holý,100.0,"Peter Holy, Hlavna 94 Tesarske Mlynany - dar",,REPUBLIKA,PS
+1119,2022-09-07,GRYF reklamné štúdio s.r.o.,-408.0,reklamne plochy,22141,REPUBLIKA,PS
 1120,2022-09-07,Network engineering s.r.o.,-300.0,priprava na tlac letakov,2202001,REPUBLIKA,PS
-1121,2022-09-07,GRYF reklamné štúdio s.r.o.,-408.0,reklamne plochy,22141,REPUBLIKA,PS
-1122,2022-09-07,Maria Presinska,408.0,Dar,,REPUBLIKA,PS
-1123,2022-09-07,Mária Prešinská,-408.0,vratenie daru,,REPUBLIKA,PS
+1121,2022-09-07,Maria Presinska,408.0,"Michal Presinsky, Slovenska 23/B,Nove Zamky - dar",,REPUBLIKA,PS
+1122,2022-09-07,Mária Prešinská,-408.0,vratenie daru,,REPUBLIKA,PS
+1123,2022-09-07,Maria Presinska,408.0,Dar,,REPUBLIKA,PS
 1124,2022-09-06,MLYNAR JAN,500.0,DAR,,REPUBLIKA,PS
 1125,2022-09-06,Jan Mlynar,-500.0,Vratenie daru,,REPUBLIKA,PS
 1126,2022-09-05,Platba kartou,-9.0,FACEBK STGNKGFS fb.me/ads,****9638,REPUBLIKA,PS
 1127,2022-09-02,Henrich Bečka st.,-250.0,Prenajom detskych atrakcii,52022,REPUBLIKA,PS
 1128,2022-08-31,,11.0,Odpustenie vedenie konta,9,REPUBLIKA,PS
 1129,2022-08-31,,-11.0,Vedenie konta Transparentný účet P,9,REPUBLIKA,PS
-1130,2022-08-30,GRYF reklamné štúdio s.r.o.,-528.0,reklamne plochy,22124,REPUBLIKA,PS
-1131,2022-08-30,GRYF reklamné štúdio s.r.o.,-504.0,reklamne plochy,22125,REPUBLIKA,PS
-1132,2022-08-30,Sklenka Martin,499.0,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",,REPUBLIKA,PS
-1133,2022-08-30,"euroAWK, spol. s.r.o.",-168.0,zaloha za kampan,2270421,REPUBLIKA,PS
-1134,2022-08-30,"euroAWK, spol. s.r.o.",-168.0,zaloha za kampan,2270420,REPUBLIKA,PS
-1135,2022-08-30,Tlačiareň Kubík s.r.o.,-120.0,tovar,220101082,REPUBLIKA,PS
-1136,2022-08-30,GRYF reklamné štúdio s.r.o.,-2880.0,zaloha za reklamne plochy,22108,REPUBLIKA,PS
-1137,2022-08-30,GRYF reklamné štúdio s.r.o.,-864.0,zaloha za reklamne plochy,22109,REPUBLIKA,PS
-1138,2022-08-22,euroAWK spol. s.r.o.,-180.0,kampan,2270379,REPUBLIKA,PS
-1139,2022-08-22,NUBIUM s.r.o.,-810.0,billboardy,1220408,REPUBLIKA,PS
-1140,2022-08-22,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",192.0,vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA,PS
-1141,2022-08-22,euroAWK spol. s.r.o.,-1080.0,kampan,2270381,REPUBLIKA,PS
-1142,2022-08-22,BigMedia spol. s.r.o.,-152.4,billboard,122290233,REPUBLIKA,PS
-1143,2022-08-22,euroAWK spol. s.r.o.,-840.0,kampan,2270380,REPUBLIKA,PS
-1144,2022-08-22,"ISPA, spol. s.r.o.",-194.4,billboardy,22950295,REPUBLIKA,PS
-1145,2022-08-22,euroAWK spol. s.r.o.,-60.0,kampan,2270386,REPUBLIKA,PS
+1130,2022-08-30,GRYF reklamné štúdio s.r.o.,-864.0,zaloha za reklamne plochy,22109,REPUBLIKA,PS
+1131,2022-08-30,GRYF reklamné štúdio s.r.o.,-2880.0,zaloha za reklamne plochy,22108,REPUBLIKA,PS
+1132,2022-08-30,Tlačiareň Kubík s.r.o.,-120.0,tovar,220101082,REPUBLIKA,PS
+1133,2022-08-30,"euroAWK, spol. s.r.o.",-168.0,zaloha za kampan,2270420,REPUBLIKA,PS
+1134,2022-08-30,"euroAWK, spol. s.r.o.",-168.0,zaloha za kampan,2270421,REPUBLIKA,PS
+1135,2022-08-30,GRYF reklamné štúdio s.r.o.,-504.0,reklamne plochy,22125,REPUBLIKA,PS
+1136,2022-08-30,GRYF reklamné štúdio s.r.o.,-528.0,reklamne plochy,22124,REPUBLIKA,PS
+1137,2022-08-30,Sklenka Martin,499.0,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",,REPUBLIKA,PS
+1138,2022-08-22,BigMedia spol. s.r.o.,-152.4,billboard,122290233,REPUBLIKA,PS
+1139,2022-08-22,euroAWK spol. s.r.o.,-60.0,kampan,2270386,REPUBLIKA,PS
+1140,2022-08-22,"ISPA, spol. s.r.o.",-194.4,billboardy,22950295,REPUBLIKA,PS
+1141,2022-08-22,euroAWK spol. s.r.o.,-840.0,kampan,2270380,REPUBLIKA,PS
+1142,2022-08-22,NUBIUM s.r.o.,-810.0,billboardy,1220408,REPUBLIKA,PS
+1143,2022-08-22,euroAWK spol. s.r.o.,-1080.0,kampan,2270381,REPUBLIKA,PS
+1144,2022-08-22,euroAWK spol. s.r.o.,-180.0,kampan,2270379,REPUBLIKA,PS
+1145,2022-08-22,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",192.0,vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA,PS
 1146,2022-08-19,Sklenka Martin,500.0,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",,REPUBLIKA,PS
-1147,2022-08-18,GRYF reklamné štúdio s.r.o.,-192.0,Reklamna plocha,22090,REPUBLIKA,PS
+1147,2022-08-18,"NUBIUM, s.r.o.",-732.0,"prenajom rekl. panelov, tlac plagatov",12120491,REPUBLIKA,PS
 1148,2022-08-18,"euroAWK, spol. s.r.o.",-504.0,kampan,2270355,REPUBLIKA,PS
-1149,2022-08-18,"NUBIUM, s.r.o.",-732.0,"prenajom rekl. panelov, tlac plagatov",12120491,REPUBLIKA,PS
-1150,2022-08-17,KOCIS EDUARD,504.0,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",,REPUBLIKA,PS
-1151,2022-08-17,RCS reklama,-2212.5,nalepky,1020220429,REPUBLIKA,PS
-1152,2022-08-16,"Pšenák Roman, Mgr.",316.8,2 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,,REPUBLIKA,PS
-1153,2022-08-16,REPUBLIKA,5000.0,prevod prostriedkov na transparentny ucet,,REPUBLIKA,PS
+1149,2022-08-18,GRYF reklamné štúdio s.r.o.,-192.0,Reklamna plocha,22090,REPUBLIKA,PS
+1150,2022-08-17,RCS reklama,-2212.5,nalepky,1020220429,REPUBLIKA,PS
+1151,2022-08-17,KOCIS EDUARD,504.0,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",,REPUBLIKA,PS
+1152,2022-08-16,REPUBLIKA,5000.0,prevod prostriedkov na transparentny ucet,,REPUBLIKA,PS
+1153,2022-08-16,"Pšenák Roman, Mgr.",316.8,2 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,,REPUBLIKA,PS
 1154,2022-08-16,"BigMedia, spol. s.r.o.",-372.0,Billboardy,,REPUBLIKA,PS
-1155,2022-08-15,"Pšenák Roman, Mgr.",3000.0,1 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,,REPUBLIKA,PS
-1156,2022-08-15,VALACH IGOR,372.0,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",,REPUBLIKA,PS
+1155,2022-08-15,VALACH IGOR,372.0,"Igor Valach, Horska 1309/53, 958 06Partizanske - dar",,REPUBLIKA,PS
+1156,2022-08-15,"Pšenák Roman, Mgr.",3000.0,1 platba Mgr Roman Psenak Druzby 11 974 04 Banska Bystrica - Dar,,REPUBLIKA,PS
 1157,2022-08-12,KOCIS EDUARD,300.0,"Euard Kocis, Akad.Pavlova 316/8, Stropkov, Dar pre hnutie republika",,REPUBLIKA,PS
 1158,2022-08-11,"Solčanský Dalimír, JUDr., PhD.",732.0,"Dalimir Solcansky Okanika 2, 949 01 Nitra - dar",2022,REPUBLIKA,PS
-1159,2022-08-03,CARNANSKY ADAM,2191.2,"Adam Carnansky, Gorazdova 1723/6, 052 01 Spisska Nova Ves - dar",,REPUBLIKA,PS
+1159,2022-08-03,GRYF reklamné štúdio s.r.o.,-1440.0,Reklamne plochy,22081,REPUBLIKA,PS
 1160,2022-08-03,"ISPA, spol s.r.o.",-751.2,Billboardy,,REPUBLIKA,PS
-1161,2022-08-03,GRYF reklamné štúdio s.r.o.,-1440.0,Reklamne plochy,22081,REPUBLIKA,PS
+1161,2022-08-03,CARNANSKY ADAM,2191.2,"Adam Carnansky, Gorazdova 1723/6, 052 01 Spisska Nova Ves - dar",,REPUBLIKA,PS
 1162,2022-07-29,,11.0,Odpustenie vedenie konta,9,REPUBLIKA,PS
 1163,2022-07-29,,-11.0,Vedenie konta Transparentný účet P,9,REPUBLIKA,PS
-1164,2022-07-26,GRYF reklamné štúdio s.r.o.,-192.0,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA,PS
-1165,2022-07-26,Gánovská Michala,192.0,Dar,,REPUBLIKA,PS
-1166,2022-07-26,BENKO STEFAN,300.0,"Stefan Benko, Hlinkova 17, Kosice -Dar",,REPUBLIKA,PS
-1167,2022-07-26,Michaela Gánovská,-192.0,Vratenie daru,,REPUBLIKA,PS
-1168,2022-07-26,Gánovská Michala,192.0,"Michala Ganovska, Rastislavova 3486/18, Poprad 058 01-DAR",,REPUBLIKA,PS
-1169,2022-07-26,GL-REKLAMA s.r.o.,-291.6,"tlac letakov, banner, tlac billboardu",20220025,REPUBLIKA,PS
+1164,2022-07-26,GL-REKLAMA s.r.o.,-291.6,"tlac letakov, banner, tlac billboardu",20220025,REPUBLIKA,PS
+1165,2022-07-26,Gánovská Michala,192.0,"Michala Ganovska, Rastislavova 3486/18, Poprad 058 01-DAR",,REPUBLIKA,PS
+1166,2022-07-26,Michaela Gánovská,-192.0,Vratenie daru,,REPUBLIKA,PS
+1167,2022-07-26,GRYF reklamné štúdio s.r.o.,-192.0,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA,PS
+1168,2022-07-26,BENKO STEFAN,300.0,"Stefan Benko, Hlinkova 17, Kosice -Dar",,REPUBLIKA,PS
+1169,2022-07-26,Gánovská Michala,192.0,Dar,,REPUBLIKA,PS
 1170,2022-07-19,GL-REKLAMA s.r.o.,-1976.45,promo stoly REPUBLIKA,20220026,REPUBLIKA,PS
 1171,2022-07-19,,-3.5,P-Zmena pod. vzoru právnická osoba,,REPUBLIKA,PS
-1172,2022-07-14,Dataprint sk s.r.o.,-612.0,balony s potlacou REPUBLIKA,20220065,REPUBLIKA,PS
-1173,2022-07-14,Dataprint sk s.r.o.,-346.8,tlac letakov A5 REPUBLIKA,20220064,REPUBLIKA,PS
-1174,2022-07-14,REPUBLIKA,5000.0,vklad prostriedkov na transparentny ucet,,REPUBLIKA,PS
+1172,2022-07-14,Dataprint sk s.r.o.,-346.8,tlac letakov A5 REPUBLIKA,20220064,REPUBLIKA,PS
+1173,2022-07-14,REPUBLIKA,5000.0,vklad prostriedkov na transparentny ucet,,REPUBLIKA,PS
+1174,2022-07-14,Dataprint sk s.r.o.,-612.0,balony s potlacou REPUBLIKA,20220065,REPUBLIKA,PS
 1175,2022-07-04,Arton,-3240.0,najom billboardov,220275,REPUBLIKA,PS
 1176,2022-06-30,,11.0,Odpustenie vedenie konta,9,REPUBLIKA,PS
 1177,2022-06-30,,-11.0,Vedenie konta Transparentný účet P,9,REPUBLIKA,PS
-1178,2022-06-16,Platba kartou,-39.9,WWW.SME.SK BRATISLAVA,****9638,REPUBLIKA,PS
-1179,2022-06-16,Platba kartou,-48.0,PREDPLATNE.DENN BRATISLAVA,****9638,REPUBLIKA,PS
-1180,2022-06-16,Platba kartou,-75.9,WWW.DENNIKN.SK BRATISLAVA,****9638,REPUBLIKA,PS
-1181,2022-06-16,Platba kartou,-78.8,HNONLINE.SK BRATISLAVA,****9638,REPUBLIKA,PS
+1178,2022-06-16,Platba kartou,-78.8,HNONLINE.SK BRATISLAVA,****9638,REPUBLIKA,PS
+1179,2022-06-16,Platba kartou,-75.9,WWW.DENNIKN.SK BRATISLAVA,****9638,REPUBLIKA,PS
+1180,2022-06-16,Platba kartou,-48.0,PREDPLATNE.DENN BRATISLAVA,****9638,REPUBLIKA,PS
+1181,2022-06-16,Platba kartou,-39.9,WWW.SME.SK BRATISLAVA,****9638,REPUBLIKA,PS
 1182,2022-06-14,"NUBIUM, sro",-1996.8,reklamne panely REPUBLIKA,22064295,REPUBLIKA,PS
 1183,2022-06-14,"GRYF reklamne studio, sro",-4200.0,reklamne plochy REPUBLIKA,20221723,REPUBLIKA,PS
 1184,2022-06-06,REPUBLIKA,10000.0,prevod na transparentny ucet,,REPUBLIKA,PS
