@@ -1,0 +1,8 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,Brendza Ondrej,2022-10-01,5,EUR,F001011020220348072,Bezhotovostný vklad,,
+1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,Brendza Ondrej,2022-09-01,5,EUR,F001010920227879543,Bezhotovostný vklad,,
+3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,Brendza Ondrej,2022-08-01,5,EUR,F001010820226445187,Bezhotovostný vklad,,
+5,,2022-07-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+6,Brendza Ondrej,2022-07-29,70,EUR,F001290720224696095,Bezhotovostný vklad,,

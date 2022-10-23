@@ -1,0 +1,31 @@
+index,date,amount,account_name,message,vs
+0,2022-10-22,-80.0,Výber hotovosti,,****8691
+1,2022-10-20,-29.05,Platba kartou,Platba kartou u obchodníka,****8691
+2,2022-10-19,-28.67,Platba kartou,Platba kartou u obchodníka,****8691
+3,2022-10-21,1000.0,SVANCARA PAVOL,prispevok na transparentny ucet,
+4,2022-10-20,-28.26,Platba kartou,OMV 2368 Myjava,****8691
+5,2022-10-18,-325.84,ING PETR KOLAR VESELI NAD MORAVOU,,20221001
+6,2022-10-18,-20.0,ING PETR KOLAR VESELI NAD MORAVOU,,20221001
+7,2022-10-17,300.0,Viera Bakosova,,
+8,2022-10-10,-26.48,Platba kartou,OMV 2368 Myjava,****8691
+9,2022-09-30,-8.0,,Poplatky za platby nad rámec konta,9
+10,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+11,2022-09-30,-14.2,Platba kartou,PLAZAMOS RESTAU TRENCIN,****8691
+12,2022-09-28,-80.0,Výber hotovosti,S6AV182D MYJAVA 13:16,****8691
+13,2022-09-27,-0.1,,Popl. Zobr. zostatku cez ATM VUB,8691
+14,2022-09-26,-28.21,"VUB,A.S.",DDOMV~2368~~~~~~~Myjava~~~~~~~~~P1,****8691
+15,2022-09-23,-24.9,Platba kartou,PIZZERIA ANDIAM STARA TURA12:17,****8691
+16,2022-09-23,300.0,Viera Bakosova,,
+17,2022-09-23,-240.0,,,2220455
+18,2022-09-23,-231.58,ING. PETR KOLAR,,20220903
+19,2022-09-23,-20.0,ING. PETR KOLAR,,20220903
+20,2022-09-22,-29.22,Platba kartou,OMV 2368 Myjava,****8691
+21,2022-09-21,-26.43,Platba kartou,OMV 2368 Myjava,****8691
+22,2022-09-19,-29.85,"VUB,A.S.",DDOMV~2368~~~~~~~Myjava~~~~~~~~~P1,****8691
+23,2022-09-16,-28.14,Platba kartou,OMV 2368 Myjava,****8691
+24,2022-09-12,-80.0,"VUB,A.S.",DDS6AV182D~~~~~~~MYJAVA~~~~17:58B1,****8691
+25,2022-09-09,-80.0,Výber hotovosti,S6AV182D MYJAVA 11:33,****8691
+26,2022-09-09,700.0,Viera Bakošová,,
+27,2022-09-06,100.0,Viera Bakosova,,
+28,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+29,2022-08-31,-5.0,,Vedenie účtu,9

@@ -1,0 +1,8 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,SAD,2022-10-04,-100.0,EUR,28122,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,Svidnícka Tlačiareň,2022-10-04,-1027.6,EUR,20220923,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+2,Ispa,2022-10-01,-583.2,EUR,0221001082657.787131,Okamžitá platba (EB),202000162,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,Bilboardy GF CONCEPT,2022-09-30,-384.0,EUR,Úhrada faktúry 20220124,Okamžitá platba (EB),20220124,
+5,Vook Ján,2022-09-20,2500.0,EUR,F001200920224245582,Bezhotovostný vklad,,
+6,,2022-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
