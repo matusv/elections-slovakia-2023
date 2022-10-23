@@ -1,9 +1,10 @@
 index,date,amount,account_name,message,vs
-0,2022-10-22,-20.0,Platba kartou,Platba kartou u obchodníka,****4123
-1,2022-10-21,-20.0,Platba kartou,Platba kartou u obchodníka,****4123
-2,2022-10-12,-28.8,SOLTEC S.R.O.,Domena rieseniaprepiestany,202206020
-3,2022-10-12,-120.0,Rink.sk s.r.o.,,2022517
-4,2022-10-03,-28.99,TENET PRAKTIK,Svietidlo,2022339
-5,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-6,2022-09-30,-5.0,,Vedenie účtu,9
-7,2022-09-28,1000.0,HUDCOVIČ TOMÁŠ,,
+0,2022-10-23,-30.0,Platba kartou,Platba kartou u obchodníka,****4123
+1,2022-10-22,-20.0,Platba kartou,Platba kartou u obchodníka,****4123
+2,2022-10-21,-20.0,Platba kartou,Platba kartou u obchodníka,****4123
+3,2022-10-12,-28.8,SOLTEC S.R.O.,Domena rieseniaprepiestany,202206020
+4,2022-10-12,-120.0,Rink.sk s.r.o.,,2022517
+5,2022-10-03,-28.99,TENET PRAKTIK,Svietidlo,2022339
+6,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+7,2022-09-30,-5.0,,Vedenie účtu,9
+8,2022-09-28,1000.0,HUDCOVIČ TOMÁŠ,,
