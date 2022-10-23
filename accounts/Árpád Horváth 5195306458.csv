@@ -1,7 +1,8 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Mestské kult. sterdisko Kolárovo Kost. nám. č. 4,2022-10-21,-266,EUR,"Árpád Horváth Kolárovo Rábska 16, prenájom miestností v MsKS Kol. - Kampaň 2022",Okamžitá platba (EB),572022,1963070896
-1,Árpád Horváth,2022-10-21,600,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
-2,Gúta TV s.r.o. Kostolné nám. 32 Kolárovo,2022-10-20,-208,EUR,"Árpád Horváth Kolárovo video reklama a polit. inzercia, kampaň 2022",Platobný príkaz na úhradu / FIT 2.0 (EB),222076,1963070863
-3,Árpád Horváth,2022-10-17,500,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
-4,"Enikő Tóthová - Rustic, Partizánska 1136/13 IČO:54",2022-10-17,-300,EUR,Vyhotovenie reklamného šotu - Kampaň2022,Platobný príkaz na úhradu / FIT 2.0 (EB),20220001,1963070807
-5,,2022-10-17,-50,EUR,"Vedenie Platobnej karty elektronickej,2025,5,Karta č. 4544 12** **** 7990Poplatok za expresné vydanie",Kartový poplatok,,
+0,,2022-10-23,-9,EUR,"B1393378084-44544 12** **** 7990;FACEBK GVH3SG7C22 ,fb.me/ads ,IE ;21.10.2022 21:13:58 ;CashBack:0 EUR",Platba kartou,,
+1,Mestské kult. sterdisko Kolárovo Kost. nám. č. 4,2022-10-21,-266,EUR,"Árpád Horváth Kolárovo Rábska 16, prenájom miestností v MsKS Kol. - Kampaň 2022",Okamžitá platba (EB),572022,1963070896
+2,Árpád Horváth,2022-10-21,600,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
+3,Gúta TV s.r.o. Kostolné nám. 32 Kolárovo,2022-10-20,-208,EUR,"Árpád Horváth Kolárovo video reklama a polit. inzercia, kampaň 2022",Platobný príkaz na úhradu / FIT 2.0 (EB),222076,1963070863
+4,Árpád Horváth,2022-10-17,500,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
+5,"Enikő Tóthová - Rustic, Partizánska 1136/13 IČO:54",2022-10-17,-300,EUR,Vyhotovenie reklamného šotu - Kampaň2022,Platobný príkaz na úhradu / FIT 2.0 (EB),20220001,1963070807
+6,,2022-10-17,-50,EUR,"Vedenie Platobnej karty elektronickej,2025,5,Karta č. 4544 12** **** 7990Poplatok za expresné vydanie",Kartový poplatok,,
