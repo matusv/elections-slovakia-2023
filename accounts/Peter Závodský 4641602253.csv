@@ -1,9 +1,10 @@
 index,date,amount,account_name,message,vs
 0,2022-10-21,-24.0,Platba kartou,Platba kartou u obchodníka,****6134
 1,2022-10-21,-150.0,Platba kartou,Platba kartou u obchodníka,****6134
-2,2022-10-19,-24.0,Platba kartou,Mesto Hurbanovo HURBANOVO 09:53,****6134
-3,2022-10-18,300.0,Peter Závodský,Peter Zavodsky,
-4,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-5,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-6,2022-08-31,-5.0,,Vedenie účtu,9
-7,2022-08-26,100.0,Peter Závodský,,
+2,2022-10-24,70.0,Peter Závodský,,
+3,2022-10-19,-24.0,Platba kartou,Mesto Hurbanovo HURBANOVO 09:53,****6134
+4,2022-10-18,300.0,Peter Závodský,Peter Zavodsky,
+5,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+6,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+7,2022-08-31,-5.0,,Vedenie účtu,9
+8,2022-08-26,100.0,Peter Závodský,,

@@ -1,13 +1,14 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-12,-135.0,Bezhotovostná platba,,"prenajom reklamnej plochy 30 dni re
+0,2022-10-24,10.0,Bezhotovostný príjem,Dana Vaštáková,/DO2022-10-21/SP,,,,Dana Vaštáková
+1,2022-10-12,-135.0,Bezhotovostná platba,,"prenajom reklamnej plochy 30 dni re
 klamna plocha ?zaklad?",,2022011,,jozef dobrotka
-1,2022-10-11,10.0,Bezhotovostný príjem,Martin Káčer,/DO2022-10-11/SP,,,,Martin Káčer
-2,2022-10-10,100.0,Bezhotovostný príjem,David Parma,/DO2022-10-10/SP volebny prispevok,0298,,,David Parma
-3,2022-10-10,123.0,Bezhotovostný príjem,VLADIMIR BIZON,/DO2022-10-07/SPPRISPEVOK NA KAMPAN,,0028091953,,VLADIMIR BIZON
-4,2022-10-07,-180.0,Bezhotovostná platba,,Tlac na samolepku,,,,
-5,2022-10-06,99.0,Bezhotovostný príjem,Danková Oľga,"/DO2022-10-06/SPDankovci, dar/ podpora",,,,Danková Oľga
-6,2022-10-06,-95.27,Platba prevodom v rámci banky,,Objednávka ID MGLOSPYDA,,,,"v prospech majiteľa účtu DLD, s.r.o."
-7,2022-09-29,200.0,Bezhotovostný príjem,KOVACIK DEZIDER,/DO2022-09-28/SPPrispevok,,,,KOVACIK DEZIDER
-8,2022-09-23,500.0,Bezhotovostný príjem,DOBROTKA JOZEF,Vlastny vklad.Jozef Dobrotka,,,,DOBROTKA JOZEF
-9,2022-09-20,20.0,Bezhotovostný príjem,Šmatlák Filip,/DO2022-09-19/SPKatka babicka dar,,,,Šmatlák Filip
-10,2022-09-06,10.0,Vklad v hotovosti,,,0558,,,
+2,2022-10-11,10.0,Bezhotovostný príjem,Martin Káčer,/DO2022-10-11/SP,,,,Martin Káčer
+3,2022-10-10,100.0,Bezhotovostný príjem,David Parma,/DO2022-10-10/SP volebny prispevok,0298,,,David Parma
+4,2022-10-10,123.0,Bezhotovostný príjem,VLADIMIR BIZON,/DO2022-10-07/SPPRISPEVOK NA KAMPAN,,0028091953,,VLADIMIR BIZON
+5,2022-10-07,-180.0,Bezhotovostná platba,,Tlac na samolepku,,,,
+6,2022-10-06,99.0,Bezhotovostný príjem,Danková Oľga,"/DO2022-10-06/SPDankovci, dar/ podpora",,,,Danková Oľga
+7,2022-10-06,-95.27,Platba prevodom v rámci banky,,Objednávka ID MGLOSPYDA,,,,"v prospech majiteľa účtu DLD, s.r.o."
+8,2022-09-29,200.0,Bezhotovostný príjem,KOVACIK DEZIDER,/DO2022-09-28/SPPrispevok,,,,KOVACIK DEZIDER
+9,2022-09-23,500.0,Bezhotovostný príjem,DOBROTKA JOZEF,Vlastny vklad.Jozef Dobrotka,,,,DOBROTKA JOZEF
+10,2022-09-20,20.0,Bezhotovostný príjem,Šmatlák Filip,/DO2022-09-19/SPKatka babicka dar,,,,Šmatlák Filip
+11,2022-09-06,10.0,Vklad v hotovosti,,,0558,,,

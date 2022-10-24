@@ -5,38 +5,39 @@ index,date,amount,account_name,message,vs
 3,2022-10-23,-14.93,Platba kartou,Platba kartou u obchodníka,****419
 4,2022-10-21,-410.12,Platba kartou,Platba kartou u obchodníka,****419
 5,2022-10-19,-150.0,Platba kartou,Platba kartou u obchodníka,****419
-6,2022-10-24,800.0,Kelemen Ľubomír,"Podpora spravneho rozhodnutia,drzime palce.",202210
-7,2022-10-24,500.0,Kelemenová Mária,Prispevok na dobru vec,102022
-8,2022-10-21,999.0,Žideková Martina,drzime palce,
-9,2022-10-21,999.0,Židek Peter,,
-10,2022-10-21,999.0,Martina Ticha,Drzim palce,
-11,2022-10-20,-291.87,Platba kartou,FACEBK PSDVNF3F fb.me/ads,****419
-12,2022-10-20,-810.0,,zalohova faktura: 47 422 0099,
-13,2022-10-20,260.0,Radoslav Stuha,,
-14,2022-10-17,-500.0,"VUB,A.S.",DDGoogleAdwordsEUDublin~~~~~~~~~P1,****419
-15,2022-10-17,-333.71,"VUB,A.S.",DDFACEBK~DEYEDGXEfb.me/ads~~~~~~P1,****419
-16,2022-10-13,-90.32,Platba kartou,FACEBK 9GUPXHKC fb.me/ads,****419
-17,2022-10-13,985.0,Jozef Mikyška,Volby 2022,
-18,2022-10-13,2000.0,"RIGHT POWER, a.s.",Dar RIGHT POWER,
-19,2022-10-12,-500.0,Platba kartou,GOOGLE*ADS52914 INTERNET,****419
-20,2022-10-12,995.0,Jaroslav Pecho,volby 2022,
-21,2022-10-12,999.0,Lazar Tomáš,kampan,
-22,2022-10-07,-111.29,Platba kartou,FACEBK NNCMDFTF fb.me/ads,****419
-23,2022-10-03,-104.29,Platba kartou,FACEBK 29PVZFXE fb.me/ads,****419
-24,2022-10-03,-32.64,Platba kartou,FACEBK VNGTNHKC fb.me/ads,****419
-25,2022-09-30,11.0,,Odpustenie vedenie konta,9
-26,2022-09-30,-11.0,,Vedenie konta Transparentný účet P,9
-27,2022-09-30,-100.0,Platba kartou,FACEBK C4NGXGTC fb.me/ads,****419
-28,2022-09-22,-220.0,Platba kartou,FACEBK KSVXXE3F fb.me/ads,****419
-29,2022-09-21,-100.0,Platba kartou,FACEBK 3TDGQGTC fb.me/ads,****419
-30,2022-09-14,-400.0,Peter Gaman,Fotenie kampan 2022,20220021
-31,2022-09-09,-70.0,Platba kartou,FACEBK DTF24HKC fb.me/ads,****419
-32,2022-09-07,1000.0,Branislav Ondruška,volby2022,
-33,2022-08-31,11.0,,Odpustenie vedenie konta,9
-34,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
-35,2022-08-30,-56.43,Platba kartou,FACEBK 6BA53GFC fb.me/ads,****419
-36,2022-08-22,-40.0,Platba kartou,FACEBK JZE3FG7D fb.me/ads,****419
-37,2022-08-17,-40.0,Platba kartou,FACEBK TMSAQF3D fb.me/ads,****419
-38,2022-08-08,4000.0,DOMOV NÁRODNÁ STRANA,Spojene volby 2022,12022
-39,2022-07-29,7.0,,Odpust.-popl.za platby a ved.úč/ko,9
-40,2022-07-29,-7.0,,Vedenie účtu,9
+6,2022-10-24,800.0,Stanislav Hronec,vela uspechov pri volbach,
+7,2022-10-24,800.0,Kelemen Ľubomír,"Podpora spravneho rozhodnutia,drzime palce.",202210
+8,2022-10-24,500.0,Kelemenová Mária,Prispevok na dobru vec,102022
+9,2022-10-21,999.0,Žideková Martina,drzime palce,
+10,2022-10-21,999.0,Židek Peter,,
+11,2022-10-21,999.0,Martina Ticha,Drzim palce,
+12,2022-10-20,-291.87,Platba kartou,FACEBK PSDVNF3F fb.me/ads,****419
+13,2022-10-20,-810.0,,zalohova faktura: 47 422 0099,
+14,2022-10-20,260.0,Radoslav Stuha,,
+15,2022-10-17,-500.0,"VUB,A.S.",DDGoogleAdwordsEUDublin~~~~~~~~~P1,****419
+16,2022-10-17,-333.71,"VUB,A.S.",DDFACEBK~DEYEDGXEfb.me/ads~~~~~~P1,****419
+17,2022-10-13,-90.32,Platba kartou,FACEBK 9GUPXHKC fb.me/ads,****419
+18,2022-10-13,985.0,Jozef Mikyška,Volby 2022,
+19,2022-10-13,2000.0,"RIGHT POWER, a.s.",Dar RIGHT POWER,
+20,2022-10-12,-500.0,Platba kartou,GOOGLE*ADS52914 INTERNET,****419
+21,2022-10-12,995.0,Jaroslav Pecho,volby 2022,
+22,2022-10-12,999.0,Lazar Tomáš,kampan,
+23,2022-10-07,-111.29,Platba kartou,FACEBK NNCMDFTF fb.me/ads,****419
+24,2022-10-03,-104.29,Platba kartou,FACEBK 29PVZFXE fb.me/ads,****419
+25,2022-10-03,-32.64,Platba kartou,FACEBK VNGTNHKC fb.me/ads,****419
+26,2022-09-30,11.0,,Odpustenie vedenie konta,9
+27,2022-09-30,-11.0,,Vedenie konta Transparentný účet P,9
+28,2022-09-30,-100.0,Platba kartou,FACEBK C4NGXGTC fb.me/ads,****419
+29,2022-09-22,-220.0,Platba kartou,FACEBK KSVXXE3F fb.me/ads,****419
+30,2022-09-21,-100.0,Platba kartou,FACEBK 3TDGQGTC fb.me/ads,****419
+31,2022-09-14,-400.0,Peter Gaman,Fotenie kampan 2022,20220021
+32,2022-09-09,-70.0,Platba kartou,FACEBK DTF24HKC fb.me/ads,****419
+33,2022-09-07,1000.0,Branislav Ondruška,volby2022,
+34,2022-08-31,11.0,,Odpustenie vedenie konta,9
+35,2022-08-31,-11.0,,Vedenie konta Transparentný účet P,9
+36,2022-08-30,-56.43,Platba kartou,FACEBK 6BA53GFC fb.me/ads,****419
+37,2022-08-22,-40.0,Platba kartou,FACEBK JZE3FG7D fb.me/ads,****419
+38,2022-08-17,-40.0,Platba kartou,FACEBK TMSAQF3D fb.me/ads,****419
+39,2022-08-08,4000.0,DOMOV NÁRODNÁ STRANA,Spojene volby 2022,12022
+40,2022-07-29,7.0,,Odpust.-popl.za platby a ved.úč/ko,9
+41,2022-07-29,-7.0,,Vedenie účtu,9
