@@ -1,3 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Juhász Oľga,2022-10-21,100,EUR,F001211020228087034,Bezhotovostný vklad,,
-1,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,AVS - Elektro Ladislav Gubrica,2022-10-24,-246,EUR,Reklamné a grafické práce,Okamžitá platba (EB),22610602,
+1,Juhász Oľga,2022-10-21,100,EUR,F001211020228087034,Bezhotovostný vklad,,
+2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,

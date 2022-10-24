@@ -1,2 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Rečka Michal,2022-10-03,1000,EUR,FSY0011558610,Bezhotovostný vklad,,
+0,,2022-10-24,-6.0,EUR,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),Poplatok,20221004,
+1,NOTPROVIDED,2022-10-24,-203.2,EUR,Michal Rečka,Platobný príkaz na úhradu / FIT 2.0 (OM),20221004,
+2,Rečka Michal,2022-10-03,1000.0,EUR,FSY0011558610,Bezhotovostný vklad,,
