@@ -1,10 +1,11 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-20,2800.0,Bezhotovostný príjem,Jozef Vybostok,/DO2022-10-19/SP,,,,Jozef Vybostok
-1,2022-10-11,-50.0,Bezhotovostná platba,,Sluzba obcanovi,,,,Rozvoz lezákov
-2,2022-09-12,-270.0,Bezhotovostná platba,,,,22097079,,Kampan
-3,2022-09-09,-50.0,Bezhotovostná platba,,Sluzba obcanovi,,,,Rozvoz letákov
-4,2022-06-30,-156.0,Bezhotovostná platba,,kampan Jozef Vybostok,,12120313,,
-5,2022-06-30,-340.8,Bezhotovostná platba,,Kampan Jozef Vybostok,,122290165,,
-6,2022-06-30,450.0,Platba prevodom v rámci banky,Nelve s.r.o.,,,,,Nelve z USD
-7,2022-06-30,700.0,Platba prevodom v rámci banky,Nelve s.r.o.,,,,,Od Nelve
-8,2022-02-17,20.0,Platba prevodom v rámci banky,Nelve s.r.o.,,,,,
+0,2022-10-24,-144.0,Bezhotovostná platba,,Prenajom rekl. plochy,,2022000359,,
+1,2022-10-20,2800.0,Bezhotovostný príjem,Jozef Vybostok,/DO2022-10-19/SP,,,,Jozef Vybostok
+2,2022-10-11,-50.0,Bezhotovostná platba,,Sluzba obcanovi,,,,Rozvoz lezákov
+3,2022-09-12,-270.0,Bezhotovostná platba,,,,22097079,,Kampan
+4,2022-09-09,-50.0,Bezhotovostná platba,,Sluzba obcanovi,,,,Rozvoz letákov
+5,2022-06-30,-156.0,Bezhotovostná platba,,kampan Jozef Vybostok,,12120313,,
+6,2022-06-30,-340.8,Bezhotovostná platba,,Kampan Jozef Vybostok,,122290165,,
+7,2022-06-30,450.0,Platba prevodom v rámci banky,Nelve s.r.o.,,,,,Nelve z USD
+8,2022-06-30,700.0,Platba prevodom v rámci banky,Nelve s.r.o.,,,,,Od Nelve
+9,2022-02-17,20.0,Platba prevodom v rámci banky,Nelve s.r.o.,,,,,

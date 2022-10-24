@@ -35,16 +35,16 @@ index,index,date,amount,account_name,message,vs,name
 33,150,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
 34,111,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
 35,118,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
-36,171,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
-37,172,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
-38,71,2022-09-26,-756.0,ARTON s.r.o.,Úhrada DF 202209128 za poskytnutie priestoru na reklamu,202209128.0,Kresťanskodemokratické hnutie
-39,3,2022-10-21,756.0,ARTON s.r.o.,Duplicitna fakturacia.,202209128.0,Kresťanskodemokratické hnutie
-40,70,2022-09-26,-142.8,ARTON s.r.o.,Úhrada DF 202209129 za tlač plagátov,202209129.0,Kresťanskodemokratické hnutie
-41,4,2022-10-21,142.8,ARTON s.r.o.,Duplicitna fakturacia.,202209129.0,Kresťanskodemokratické hnutie
-42,67,2022-09-27,-500.0,VKM STARA LUBOVNA,Mylná platba- vrátený dar,9.0,Kresťanskodemokratické hnutie
-43,78,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
-44,26,2022-10-13,-5000.0,"DENT-IN, S.R.O.",Vrátenie daru - mylná platba,13102022.0,Kresťanskodemokratické hnutie
-45,34,2022-10-12,5000.0,"DENT-IN, S.R.O.",23711150,,Kresťanskodemokratické hnutie
+36,173,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
+37,174,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
+38,73,2022-09-26,-756.0,ARTON s.r.o.,Úhrada DF 202209128 za poskytnutie priestoru na reklamu,202209128.0,Kresťanskodemokratické hnutie
+39,5,2022-10-21,756.0,ARTON s.r.o.,Duplicitna fakturacia.,202209128.0,Kresťanskodemokratické hnutie
+40,72,2022-09-26,-142.8,ARTON s.r.o.,Úhrada DF 202209129 za tlač plagátov,202209129.0,Kresťanskodemokratické hnutie
+41,6,2022-10-21,142.8,ARTON s.r.o.,Duplicitna fakturacia.,202209129.0,Kresťanskodemokratické hnutie
+42,69,2022-09-27,-500.0,VKM STARA LUBOVNA,Mylná platba- vrátený dar,9.0,Kresťanskodemokratické hnutie
+43,80,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
+44,28,2022-10-13,-5000.0,"DENT-IN, S.R.O.",Vrátenie daru - mylná platba,13102022.0,Kresťanskodemokratické hnutie
+45,36,2022-10-12,5000.0,"DENT-IN, S.R.O.",23711150,,Kresťanskodemokratické hnutie
 46,317,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
 47,288,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
 48,285,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
@@ -85,34 +85,34 @@ index,index,date,amount,account_name,message,vs,name
 83,188,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
 84,158,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
 85,163,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
-86,1573,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
-87,1574,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
-88,1552,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
-89,1562,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
-90,1182,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
-91,1232,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
-92,453,2022-10-13,-3000.0,Lehotská  Jana,vratenie daru pre porusenie podmienok darovania,13102022.0,Team Bratislava
-93,541,2022-10-12,3000.0,Lehotská  Jana,dar,20221198.0,Team Bratislava
-94,292,2022-10-18,-1500.0,ZISKA MILAN,vrateny dar pre porusenie podmienok darovania,18102022.0,Team Bratislava
-95,304,2022-10-18,1500.0,ZISKA MILAN,dar,20221400.0,Team Bratislava
-96,202,2022-10-20,-1000.0,"Vallo Stanislav,Vallová Miroslava","otec, mama staci, ze vas mam. dakujem",20102022.0,Team Bratislava
-97,270,2022-10-19,1000.0,"Vallo Stanislav,Vallová Miroslava",dar,20221444.0,Team Bratislava
-98,201,2022-10-20,-500.0,Forgáčová Barbora,"Sestra, staci, ze ta mam. dakujem",20402022.0,Team Bratislava
-99,587,2022-10-10,500.0,Forgáčová Barbora,dar,20221136.0,Team Bratislava
-100,200,2022-10-20,-30.0,Katarina Komendova,vratenie daru pre trvale bydlisko mimo SR,,Team Bratislava
-101,1546,2022-08-20,30.0,Katarina Komendova,2022258,,Team Bratislava
-102,199,2022-10-20,-10.0,Jan Benko,vratenie daru pre trvale bydlisko mimo SR,,Team Bratislava
-103,1422,2022-09-14,10.0,Jan Benko,dar,2022341.0,Team Bratislava
-104,195,2022-10-20,-10.0,MICHAL ZURAVLOV,vratenie daru pre trvaly pobyt mimoSR,,Team Bratislava
-105,627,2022-10-07,10.0,MICHAL ZURAVLOV,PRAVDA A LASKA ZVITAZI NAD LZOU A NENAVISTOU,20221105.0,Team Bratislava
-106,197,2022-10-20,-15.0,Radoslav Puklus,vratenie daru pre trvale bydlisko mimo SR,,Team Bratislava
-107,1329,2022-09-16,15.0,Radoslav Puklus,23492038,2022423.0,Team Bratislava
-108,194,2022-10-20,-50.0,Alexandra Schaefferova,vratenie daru pre trvaly pobyt mimoSR,,Team Bratislava
-109,458,2022-10-13,50.0,Alexandra Schaefferova,20221265,,Team Bratislava
-110,172,2022-10-20,-3000.0,"Zálešák Peter, Ing.",vrateny dar pre porusenie podmienok darovania,20102022.0,Team Bratislava
-111,182,2022-10-20,3000.0,"Zálešák Peter, Ing.",dar pre TEAM Bratislava,20221551.0,Team Bratislava
-112,196,2022-10-20,-30.0,MARIAN JAN,vratenie daru pre trvaly pobyt mimoSR,,Team Bratislava
-113,1073,2022-09-27,30.0,MARIAN JAN,DAR,,Team Bratislava
+86,1574,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
+87,1575,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
+88,1553,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
+89,1563,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Team Bratislava
+90,1183,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Team Bratislava
+91,1233,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Team Bratislava
+92,454,2022-10-13,-3000.0,Lehotská  Jana,vratenie daru pre porusenie podmienok darovania,13102022.0,Team Bratislava
+93,542,2022-10-12,3000.0,Lehotská  Jana,dar,20221198.0,Team Bratislava
+94,293,2022-10-18,-1500.0,ZISKA MILAN,vrateny dar pre porusenie podmienok darovania,18102022.0,Team Bratislava
+95,305,2022-10-18,1500.0,ZISKA MILAN,dar,20221400.0,Team Bratislava
+96,203,2022-10-20,-1000.0,"Vallo Stanislav,Vallová Miroslava","otec, mama staci, ze vas mam. dakujem",20102022.0,Team Bratislava
+97,271,2022-10-19,1000.0,"Vallo Stanislav,Vallová Miroslava",dar,20221444.0,Team Bratislava
+98,202,2022-10-20,-500.0,Forgáčová Barbora,"Sestra, staci, ze ta mam. dakujem",20402022.0,Team Bratislava
+99,588,2022-10-10,500.0,Forgáčová Barbora,dar,20221136.0,Team Bratislava
+100,201,2022-10-20,-30.0,Katarina Komendova,vratenie daru pre trvale bydlisko mimo SR,,Team Bratislava
+101,1547,2022-08-20,30.0,Katarina Komendova,2022258,,Team Bratislava
+102,200,2022-10-20,-10.0,Jan Benko,vratenie daru pre trvale bydlisko mimo SR,,Team Bratislava
+103,1423,2022-09-14,10.0,Jan Benko,dar,2022341.0,Team Bratislava
+104,196,2022-10-20,-10.0,MICHAL ZURAVLOV,vratenie daru pre trvaly pobyt mimoSR,,Team Bratislava
+105,628,2022-10-07,10.0,MICHAL ZURAVLOV,PRAVDA A LASKA ZVITAZI NAD LZOU A NENAVISTOU,20221105.0,Team Bratislava
+106,198,2022-10-20,-15.0,Radoslav Puklus,vratenie daru pre trvale bydlisko mimo SR,,Team Bratislava
+107,1330,2022-09-16,15.0,Radoslav Puklus,23492038,2022423.0,Team Bratislava
+108,197,2022-10-20,-30.0,MARIAN JAN,vratenie daru pre trvaly pobyt mimoSR,,Team Bratislava
+109,1074,2022-09-27,30.0,MARIAN JAN,DAR,,Team Bratislava
+110,195,2022-10-20,-50.0,Alexandra Schaefferova,vratenie daru pre trvaly pobyt mimoSR,,Team Bratislava
+111,459,2022-10-13,50.0,Alexandra Schaefferova,20221265,,Team Bratislava
+112,173,2022-10-20,-3000.0,"Zálešák Peter, Ing.",vrateny dar pre porusenie podmienok darovania,20102022.0,Team Bratislava
+113,183,2022-10-20,3000.0,"Zálešák Peter, Ing.",dar pre TEAM Bratislava,20221551.0,Team Bratislava
 114,55,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 115,145,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 116,63,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
@@ -145,34 +145,34 @@ index,index,date,amount,account_name,message,vs,name
 143,65,2022-09-12,1000.0,Matej Pindroch,2225550000009825,12092022.0,Rastislav Trnka
 144,11,2022-10-18,-1000.0,ROMAN JOZEF,Vrátenie daru,,Marcel Vrchota
 145,25,2022-10-10,1000.0,ROMAN JOZEF,Drzim palce.,,Marcel Vrchota
-146,1573,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Matúš Vallo
-147,1574,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Matúš Vallo
-148,1552,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Matúš Vallo
-149,1562,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Matúš Vallo
-150,1182,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Matúš Vallo
-151,1232,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Matúš Vallo
-152,453,2022-10-13,-3000.0,Lehotská  Jana,vratenie daru pre porusenie podmienok darovania,13102022.0,Matúš Vallo
-153,541,2022-10-12,3000.0,Lehotská  Jana,dar,20221198.0,Matúš Vallo
-154,292,2022-10-18,-1500.0,ZISKA MILAN,vrateny dar pre porusenie podmienok darovania,18102022.0,Matúš Vallo
-155,304,2022-10-18,1500.0,ZISKA MILAN,dar,20221400.0,Matúš Vallo
-156,202,2022-10-20,-1000.0,"Vallo Stanislav,Vallová Miroslava","otec, mama staci, ze vas mam. dakujem",20102022.0,Matúš Vallo
-157,270,2022-10-19,1000.0,"Vallo Stanislav,Vallová Miroslava",dar,20221444.0,Matúš Vallo
-158,201,2022-10-20,-500.0,Forgáčová Barbora,"Sestra, staci, ze ta mam. dakujem",20402022.0,Matúš Vallo
-159,587,2022-10-10,500.0,Forgáčová Barbora,dar,20221136.0,Matúš Vallo
-160,200,2022-10-20,-30.0,Katarina Komendova,vratenie daru pre trvale bydlisko mimo SR,,Matúš Vallo
-161,1546,2022-08-20,30.0,Katarina Komendova,2022258,,Matúš Vallo
-162,199,2022-10-20,-10.0,Jan Benko,vratenie daru pre trvale bydlisko mimo SR,,Matúš Vallo
-163,1422,2022-09-14,10.0,Jan Benko,dar,2022341.0,Matúš Vallo
-164,195,2022-10-20,-10.0,MICHAL ZURAVLOV,vratenie daru pre trvaly pobyt mimoSR,,Matúš Vallo
-165,627,2022-10-07,10.0,MICHAL ZURAVLOV,PRAVDA A LASKA ZVITAZI NAD LZOU A NENAVISTOU,20221105.0,Matúš Vallo
-166,197,2022-10-20,-15.0,Radoslav Puklus,vratenie daru pre trvale bydlisko mimo SR,,Matúš Vallo
-167,1329,2022-09-16,15.0,Radoslav Puklus,23492038,2022423.0,Matúš Vallo
-168,194,2022-10-20,-50.0,Alexandra Schaefferova,vratenie daru pre trvaly pobyt mimoSR,,Matúš Vallo
-169,458,2022-10-13,50.0,Alexandra Schaefferova,20221265,,Matúš Vallo
-170,172,2022-10-20,-3000.0,"Zálešák Peter, Ing.",vrateny dar pre porusenie podmienok darovania,20102022.0,Matúš Vallo
-171,182,2022-10-20,3000.0,"Zálešák Peter, Ing.",dar pre TEAM Bratislava,20221551.0,Matúš Vallo
-172,196,2022-10-20,-30.0,MARIAN JAN,vratenie daru pre trvaly pobyt mimoSR,,Matúš Vallo
-173,1073,2022-09-27,30.0,MARIAN JAN,DAR,,Matúš Vallo
+146,1574,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Matúš Vallo
+147,1575,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Matúš Vallo
+148,1553,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Matúš Vallo
+149,1563,2022-08-01,40000.0,Dubec Milan,Dar - Team Bratislava - Milan Dubec,,Matúš Vallo
+150,1183,2022-09-20,-5000.0,Lucia Pašková,dar vrateny kvoli nespravnemu postupu pri darovani,20092022.0,Matúš Vallo
+151,1233,2022-09-18,5000.0,Lucia Pašková,dar,2022581.0,Matúš Vallo
+152,454,2022-10-13,-3000.0,Lehotská  Jana,vratenie daru pre porusenie podmienok darovania,13102022.0,Matúš Vallo
+153,542,2022-10-12,3000.0,Lehotská  Jana,dar,20221198.0,Matúš Vallo
+154,293,2022-10-18,-1500.0,ZISKA MILAN,vrateny dar pre porusenie podmienok darovania,18102022.0,Matúš Vallo
+155,305,2022-10-18,1500.0,ZISKA MILAN,dar,20221400.0,Matúš Vallo
+156,203,2022-10-20,-1000.0,"Vallo Stanislav,Vallová Miroslava","otec, mama staci, ze vas mam. dakujem",20102022.0,Matúš Vallo
+157,271,2022-10-19,1000.0,"Vallo Stanislav,Vallová Miroslava",dar,20221444.0,Matúš Vallo
+158,202,2022-10-20,-500.0,Forgáčová Barbora,"Sestra, staci, ze ta mam. dakujem",20402022.0,Matúš Vallo
+159,588,2022-10-10,500.0,Forgáčová Barbora,dar,20221136.0,Matúš Vallo
+160,201,2022-10-20,-30.0,Katarina Komendova,vratenie daru pre trvale bydlisko mimo SR,,Matúš Vallo
+161,1547,2022-08-20,30.0,Katarina Komendova,2022258,,Matúš Vallo
+162,200,2022-10-20,-10.0,Jan Benko,vratenie daru pre trvale bydlisko mimo SR,,Matúš Vallo
+163,1423,2022-09-14,10.0,Jan Benko,dar,2022341.0,Matúš Vallo
+164,196,2022-10-20,-10.0,MICHAL ZURAVLOV,vratenie daru pre trvaly pobyt mimoSR,,Matúš Vallo
+165,628,2022-10-07,10.0,MICHAL ZURAVLOV,PRAVDA A LASKA ZVITAZI NAD LZOU A NENAVISTOU,20221105.0,Matúš Vallo
+166,198,2022-10-20,-15.0,Radoslav Puklus,vratenie daru pre trvale bydlisko mimo SR,,Matúš Vallo
+167,1330,2022-09-16,15.0,Radoslav Puklus,23492038,2022423.0,Matúš Vallo
+168,197,2022-10-20,-30.0,MARIAN JAN,vratenie daru pre trvaly pobyt mimoSR,,Matúš Vallo
+169,1074,2022-09-27,30.0,MARIAN JAN,DAR,,Matúš Vallo
+170,195,2022-10-20,-50.0,Alexandra Schaefferova,vratenie daru pre trvaly pobyt mimoSR,,Matúš Vallo
+171,459,2022-10-13,50.0,Alexandra Schaefferova,20221265,,Matúš Vallo
+172,173,2022-10-20,-3000.0,"Zálešák Peter, Ing.",vrateny dar pre porusenie podmienok darovania,20102022.0,Matúš Vallo
+173,183,2022-10-20,3000.0,"Zálešák Peter, Ing.",dar pre TEAM Bratislava,20221551.0,Matúš Vallo
 174,73,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
 175,117,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
 176,55,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
@@ -183,15 +183,15 @@ index,index,date,amount,account_name,message,vs,name
 181,135,2021-11-15,501.0,PREVOD Z KRED. KARTY,Pre najlepsieho kandidata!,,Michal Djordjevič
 182,26,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
 183,25,2022-09-26,360.0,Kvál s. r. o.,OO22092600020201,,Pavol Kvál
-184,63,2022-07-29,-2500.0,LESNAKOVA LUCIA,platba 13072022 1/1,,ZA ĽUDÍ
-185,72,2022-07-13,2500.0,LESNAKOVA LUCIA,Milan Lesnak Kosice 2030,,ZA ĽUDÍ
-186,64,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000 2/2,,ZA ĽUDÍ
-187,78,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
-188,65,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000,,ZA ĽUDÍ
-189,77,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
-190,57,2022-08-05,-2000.0,Lesňáková Marta,platba 13072022 2000,,ZA ĽUDÍ
-191,75,2022-07-12,2000.0,Lesňáková Marta,Milan Lesnak,,ZA ĽUDÍ
-192,56,2022-08-05,-2000.0,Lesňáková Marta,platba Lesnakova Marta 12072022,,ZA ĽUDÍ
-193,71,2022-07-13,2000.0,Lesňáková Marta,Milan Lesňak Kosice,,ZA ĽUDÍ
-194,54,2022-08-08,-5000.0,LESNAK MILAN,platba 12072022 5000,72022.0,ZA ĽUDÍ
-195,76,2022-07-12,5000.0,LESNAK MILAN,vklad Milan Lesnak - Kosice 2030,72022.0,ZA ĽUDÍ
+184,66,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000 2/2,,ZA ĽUDÍ
+185,80,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
+186,65,2022-07-29,-2500.0,LESNAKOVA LUCIA,platba 13072022 1/1,,ZA ĽUDÍ
+187,74,2022-07-13,2500.0,LESNAKOVA LUCIA,Milan Lesnak Kosice 2030,,ZA ĽUDÍ
+188,67,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000,,ZA ĽUDÍ
+189,79,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
+190,59,2022-08-05,-2000.0,Lesňáková Marta,platba 13072022 2000,,ZA ĽUDÍ
+191,77,2022-07-12,2000.0,Lesňáková Marta,Milan Lesnak,,ZA ĽUDÍ
+192,58,2022-08-05,-2000.0,Lesňáková Marta,platba Lesnakova Marta 12072022,,ZA ĽUDÍ
+193,73,2022-07-13,2000.0,Lesňáková Marta,Milan Lesňak Kosice,,ZA ĽUDÍ
+194,56,2022-08-08,-5000.0,LESNAK MILAN,platba 12072022 5000,72022.0,ZA ĽUDÍ
+195,78,2022-07-12,5000.0,LESNAK MILAN,vklad Milan Lesnak - Kosice 2030,72022.0,ZA ĽUDÍ

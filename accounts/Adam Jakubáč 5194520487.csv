@@ -1,0 +1,6 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,JAKUBAC MILAN,2022-10-18,1000.0,EUR,23763396,Bezhotovostný vklad,,
+1,JAKUBAC MILAN,2022-10-17,1000.0,EUR,23754121,Bezhotovostný vklad,,
+2,"Jakubáč Adam, Mgr.",2022-10-13,2000.0,EUR,OO22101300027216,Bezhotovostný vklad - okamžitá platba,,
+3,,2022-09-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-09-30,-5.2,EUR,Poplatok za vedenie účtu,Poplatok,,
