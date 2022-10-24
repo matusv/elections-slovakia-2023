@@ -1,14 +1,17 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-10-22,-120.0,Bezhotovostná platba,,platba za tlac,0308,20220089,,platba za tlač
-1,2022-10-20,1000.0,Bezhotovostný príjem,Farkaš Jozef,/DO2022-10-19/SPKF - MSS - podpora,0558,202208,,Farkaš Jozef
-2,2022-10-18,10.0,Bezhotovostný príjem,Jaroslav Lazor,/DO2022-10-17/SPPKSK,,,,Jaroslav Lazor
-3,2022-10-17,-144.0,Bezhotovostná platba,,tlac a vylep papierovych plagatov,,202210017,,tlač a vylep plagatov
-4,2022-10-15,-50.4,Bezhotovostná platba,,,0308,221200189,,web uhrada faktury 221200189
-5,2022-10-15,-59.88,Bezhotovostná platba,,,0308,2022198,,uhrada faktury 2022/198
-6,2022-10-14,50.0,Bezhotovostný príjem,CERGETOVA RENATA,,,,,CERGETOVA RENATA
-7,2022-10-07,1000.0,Bezhotovostný príjem,"Kováč Jozef, Ing.","/DO2022-10-06/SPPrispevok, MGR.Sorocinova",,,,"Kováč Jozef, Ing."
-8,2022-10-06,1000.0,Bezhotovostný príjem,"Krampl Ján, Ing.",/DO2022-10-05/SP,,05102022,,"Krampl Ján, Ing."
-9,2022-10-04,100.0,Bezhotovostný príjem,"Sarkozy, Rene",,,,,"Sarkozy, Rene"
-10,2022-10-03,20.0,Bezhotovostný príjem,Kovárová Petra,/DO2022-10-01/SPvela stastia Monika,,,,Kovárová Petra
-11,2022-10-01,20.0,Platba prevodom v rámci banky,"Košťan, Peter",drzim palce,,,,drzim palce
-12,2022-09-05,500.0,Bezhotovostný príjem,Monika Soročinová,/DO2022-09-05/SP Volby 2022,,,,Monika Soročinová
+0,2022-10-24,-7.99,Transakcia kartou,,"Nákup: PLAY GO SMART,  NAMESTIE OSLOBODITEL, KOSICE, 040 01, SVK, dne 23.10.2022, částka  7.99 EUR",,4511,,"Nákup: PLAY GO SMART,  NAMESTIE OSLOBODITEL, KOSICE, 040 01, SVK, dne 23.10.2022, částka  7.99 EUR"
+1,2022-10-24,-73.01,Transakcia kartou,,"Nákup: SLOVNAFT-SK40104,  Lucenecka cesta, Zvolen, 960 01, SVK, dne 23.10.2022, částka  73.01 EUR",,4511,,"Nákup: SLOVNAFT-SK40104,  Lucenecka cesta, Zvolen, 960 01, SVK, dne 23.10.2022, částka  73.01 EUR"
+2,2022-10-24,-12.94,Transakcia kartou,,"Nákup: SLOVNAFT-SK40104,  Lucenecka cesta, Zvolen, 960 01, SVK, dne 23.10.2022, částka  12.94 EUR",,4511,,"Nákup: SLOVNAFT-SK40104,  Lucenecka cesta, Zvolen, 960 01, SVK, dne 23.10.2022, částka  12.94 EUR"
+3,2022-10-22,-120.0,Bezhotovostná platba,,platba za tlac,0308,20220089,,platba za tlač
+4,2022-10-20,1000.0,Bezhotovostný príjem,Farkaš Jozef,/DO2022-10-19/SPKF - MSS - podpora,0558,202208,,Farkaš Jozef
+5,2022-10-18,10.0,Bezhotovostný príjem,Jaroslav Lazor,/DO2022-10-17/SPPKSK,,,,Jaroslav Lazor
+6,2022-10-17,-144.0,Bezhotovostná platba,,tlac a vylep papierovych plagatov,,202210017,,tlač a vylep plagatov
+7,2022-10-15,-50.4,Bezhotovostná platba,,,0308,221200189,,web uhrada faktury 221200189
+8,2022-10-15,-59.88,Bezhotovostná platba,,,0308,2022198,,uhrada faktury 2022/198
+9,2022-10-14,50.0,Bezhotovostný príjem,CERGETOVA RENATA,,,,,CERGETOVA RENATA
+10,2022-10-07,1000.0,Bezhotovostný príjem,"Kováč Jozef, Ing.","/DO2022-10-06/SPPrispevok, MGR.Sorocinova",,,,"Kováč Jozef, Ing."
+11,2022-10-06,1000.0,Bezhotovostný príjem,"Krampl Ján, Ing.",/DO2022-10-05/SP,,05102022,,"Krampl Ján, Ing."
+12,2022-10-04,100.0,Bezhotovostný príjem,"Sarkozy, Rene",,,,,"Sarkozy, Rene"
+13,2022-10-03,20.0,Bezhotovostný príjem,Kovárová Petra,/DO2022-10-01/SPvela stastia Monika,,,,Kovárová Petra
+14,2022-10-01,20.0,Platba prevodom v rámci banky,"Košťan, Peter",drzim palce,,,,drzim palce
+15,2022-09-05,500.0,Bezhotovostný príjem,Monika Soročinová,/DO2022-09-05/SP Volby 2022,,,,Monika Soročinová
