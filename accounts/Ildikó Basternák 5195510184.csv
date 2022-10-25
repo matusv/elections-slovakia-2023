@@ -1,2 +1,3 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,BASTERNAKOVA ILDIKO,2022-10-11,1000,EUR,F001111020227291681,Bezhotovostný vklad,,
+0,DELTA,2022-10-24,-180,EUR,Politický inzerát,Okamžitá platba (EB),220356,
+1,BASTERNAKOVA ILDIKO,2022-10-11,1000,EUR,F001111020227291681,Bezhotovostný vklad,,

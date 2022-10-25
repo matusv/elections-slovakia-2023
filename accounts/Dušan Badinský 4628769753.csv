@@ -1,19 +1,20 @@
 index,date,amount,account_name,message,vs
-0,2022-10-22,-300.0,Výber hotovosti,,****5082
-1,2022-10-21,-193.02,Platba kartou,Platba kartou u obchodníka,****5082
-2,2022-10-24,400.0,Dušan Badinský,vklad,
-3,2022-10-17,-2287.0,Tibor Czere - CZETI,propag.material,442022
-4,2022-10-17,500.0,Dušan Badinský,os.vklad,
-5,2022-10-10,-108.0,AAA Media s.r.o.,prenajom rekl.plochy,2022235
-6,2022-10-10,800.0,Dušan Badinský,prevod na transp.ucet,
-7,2022-10-06,-233.0,Mesto Senec,inzercia,362
-8,2022-09-30,6.0,,Odpustenie vedenie konta,9
-9,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-10,2022-09-30,-642.6,"REGIONPRESS, s.r.o.",inzercia,914220032
-11,2022-09-16,-150.0,ATEKA s.r.o.,sluzby fotograf._Badinsky Dusan,1020220081
-12,2022-09-12,-432.0,"BigMedia, spol. s r.o.",Dusan Badinsky volby,122290306
-13,2022-08-31,6.0,,Odpustenie vedenie konta,9
-14,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-15,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-16,2022-07-29,-5.0,,Vedenie účtu,9
-17,2022-07-20,3000.0,Dušan Badinský,Dusan Badinsky,
+0,2022-10-24,-200.0,SCR Senec,prenajom,2022510
+1,2022-10-24,-300.0,Výber hotovosti,S6AV112D SENEC 08:36,****5082
+2,2022-10-24,-193.02,Platba kartou,Metro Ivanka Ivanka pri12:16,****5082
+3,2022-10-24,400.0,Dušan Badinský,vklad,
+4,2022-10-17,-2287.0,Tibor Czere - CZETI,propag.material,442022
+5,2022-10-17,500.0,Dušan Badinský,os.vklad,
+6,2022-10-10,-108.0,AAA Media s.r.o.,prenajom rekl.plochy,2022235
+7,2022-10-10,800.0,Dušan Badinský,prevod na transp.ucet,
+8,2022-10-06,-233.0,Mesto Senec,inzercia,362
+9,2022-09-30,6.0,,Odpustenie vedenie konta,9
+10,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+11,2022-09-30,-642.6,"REGIONPRESS, s.r.o.",inzercia,914220032
+12,2022-09-16,-150.0,ATEKA s.r.o.,sluzby fotograf._Badinsky Dusan,1020220081
+13,2022-09-12,-432.0,"BigMedia, spol. s r.o.",Dusan Badinsky volby,122290306
+14,2022-08-31,6.0,,Odpustenie vedenie konta,9
+15,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+16,2022-07-29,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+17,2022-07-29,-5.0,,Vedenie účtu,9
+18,2022-07-20,3000.0,Dušan Badinský,Dusan Badinsky,

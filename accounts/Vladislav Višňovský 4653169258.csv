@@ -1,4 +1,6 @@
 index,date,amount,account_name,message,vs
-0,2022-10-24,1000.0,Vladislav Višňovský,,
-1,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-2,2022-09-30,-5.0,,Vedenie účtu,9
+0,2022-10-25,1000.0,Vladislav Višňovský,,
+1,2022-10-25,-318.0,,prenajom bilboard a tlac,
+2,2022-10-24,1000.0,Vladislav Višňovský,,
+3,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+4,2022-09-30,-5.0,,Vedenie účtu,9

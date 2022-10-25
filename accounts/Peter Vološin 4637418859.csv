@@ -1,21 +1,23 @@
 index,date,amount,account_name,message,vs
-0,2022-10-24,-40.0,Platba kartou,Platba kartou u obchodníka,****333
-1,2022-10-23,-20.0,Platba kartou,Platba kartou u obchodníka,****333
-2,2022-10-23,-30.0,Platba kartou,Platba kartou u obchodníka,****333
-3,2022-10-22,-12.0,Platba kartou,Platba kartou u obchodníka,****333
+0,2022-10-25,-70.0,Platba kartou,Platba kartou u obchodníka,****333
+1,2022-10-24,-40.0,Platba kartou,Platba kartou u obchodníka,****333
+2,2022-10-23,-20.0,Platba kartou,Platba kartou u obchodníka,****333
+3,2022-10-23,-30.0,Platba kartou,Platba kartou u obchodníka,****333
 4,2022-10-22,-12.0,Platba kartou,Platba kartou u obchodníka,****333
-5,2022-10-21,-9.0,Platba kartou,Platba kartou u obchodníka,****333
-6,2022-10-21,-9.0,Platba kartou,Platba kartou u obchodníka,****333
-7,2022-10-20,-9.0,Platba kartou,Platba kartou u obchodníka,****333
-8,2022-10-24,-120.0,ING.MICHAL FEČÍK-PRESS,Fecik -PRESS,2210030
-9,2022-10-07,-814.2,DMRS,,20221001
-10,2022-10-05,1000.0,Peter Vološin,,
-11,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-12,2022-09-30,-240.0,peter filakovský,foto,3222
-13,2022-09-28,1000.0,Peter Vološin,,
-14,2022-09-23,-426.0,DMRS,,20220908
-15,2022-09-20,-90.0,ING.MICHAL FEČÍK-PRESS,Fecik -PRESS,2209015
-16,2022-09-19,-712.8,DMRS,baner,20220906
-17,2022-09-08,2000.0,Peter Vološin,volebna kampan,
-18,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-19,2022-08-31,-5.0,,Vedenie účtu,9
+5,2022-10-22,-12.0,Platba kartou,Platba kartou u obchodníka,****333
+6,2022-10-25,-650.0,marcomp,,2022003
+7,2022-10-24,-9.0,Platba kartou,FACEBK *S7NJ5LB fb.me/ads,****333
+8,2022-10-24,-9.0,Platba kartou,FACEBK *U8CF5JB fb.me/ads,****333
+9,2022-10-24,-9.0,Platba kartou,FACEBK *NXW44KX fb.me/ads,****333
+10,2022-10-24,-120.0,ING.MICHAL FEČÍK-PRESS,Fecik -PRESS,2210030
+11,2022-10-07,-814.2,DMRS,,20221001
+12,2022-10-05,1000.0,Peter Vološin,,
+13,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+14,2022-09-30,-240.0,peter filakovský,foto,3222
+15,2022-09-28,1000.0,Peter Vološin,,
+16,2022-09-23,-426.0,DMRS,,20220908
+17,2022-09-20,-90.0,ING.MICHAL FEČÍK-PRESS,Fecik -PRESS,2209015
+18,2022-09-19,-712.8,DMRS,baner,20220906
+19,2022-09-08,2000.0,Peter Vološin,volebna kampan,
+20,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+21,2022-08-31,-5.0,,Vedenie účtu,9
