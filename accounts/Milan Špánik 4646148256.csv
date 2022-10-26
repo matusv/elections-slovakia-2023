@@ -1,26 +1,28 @@
 index,date,amount,account_name,message,vs
 0,2022-10-25,-480.0,NTVS spol.s r.o.,,2022033
 1,2022-10-25,-91.8,"Marketeam, s. r. o.",,20220201
-2,2022-10-21,-440.0,Platba kartou,SLOVENSKA POSTA NOVE MESTO,****4811
-3,2022-10-20,1000.0,Spanik Milan,,
-4,2022-10-19,-0.1,,Popl. Zobr. zostatku cez ATM VUB,4811
-5,2022-10-18,500.0,Renáta Špániková,,181022
-6,2022-10-17,-24.0,"NUBIUM, s.r.o.",,22108247
-7,2022-10-11,-156.0,"NUBIUM, s.r.o.",,22108066
-8,2022-10-11,150.0,Milan Špánik,,
-9,2022-10-10,-550.0,Mobile application s.r.o.,,20220003
-10,2022-10-10,250.0,Milan Špánik,,
-11,2022-10-10,300.0,Milan Špánik,,
-12,2022-10-06,-400.0,Platba kartou,SLOVENSKA POSTA NOVE MESTO,****4811
-13,2022-10-03,-288.0,PN print s.r.o.,,20220666
-14,2022-10-03,100.0,Milan Špánik,,
-15,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-16,2022-09-30,-0.05,,POPLATKY ZA RECYKLACIU,9
-17,2022-09-30,600.0,Milan Špánik,,
-18,2022-09-28,-162.0,PN print s.r.o.,,20220652
-19,2022-09-19,-288.0,"NUBIUM, s.r.o.",,22097250
-20,2022-09-19,300.0,Milan Špánik,,
-21,2022-09-05,-320.4,"BigMedia, spol.s r.o.",Ing.Milan Spanik,122290283
-22,2022-09-05,500.0,Milan Špánik,,
-23,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-24,2022-08-31,-5.0,,Vedenie účtu,9
+2,2022-10-25,-480.0,NTVS spol.s r.o.,,2022033
+3,2022-10-25,-91.8,"Marketeam, s. r. o.",,20220201
+4,2022-10-21,-440.0,Platba kartou,SLOVENSKA POSTA NOVE MESTO,****4811
+5,2022-10-20,1000.0,Spanik Milan,,
+6,2022-10-19,-0.1,,Popl. Zobr. zostatku cez ATM VUB,4811
+7,2022-10-18,500.0,Renáta Špániková,,181022
+8,2022-10-17,-24.0,"NUBIUM, s.r.o.",,22108247
+9,2022-10-11,-156.0,"NUBIUM, s.r.o.",,22108066
+10,2022-10-11,150.0,Milan Špánik,,
+11,2022-10-10,-550.0,Mobile application s.r.o.,,20220003
+12,2022-10-10,250.0,Milan Špánik,,
+13,2022-10-10,300.0,Milan Špánik,,
+14,2022-10-06,-400.0,Platba kartou,SLOVENSKA POSTA NOVE MESTO,****4811
+15,2022-10-03,-288.0,PN print s.r.o.,,20220666
+16,2022-10-03,100.0,Milan Špánik,,
+17,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+18,2022-09-30,-0.05,,POPLATKY ZA RECYKLACIU,9
+19,2022-09-30,600.0,Milan Špánik,,
+20,2022-09-28,-162.0,PN print s.r.o.,,20220652
+21,2022-09-19,-288.0,"NUBIUM, s.r.o.",,22097250
+22,2022-09-19,300.0,Milan Špánik,,
+23,2022-09-05,-320.4,"BigMedia, spol.s r.o.",Ing.Milan Spanik,122290283
+24,2022-09-05,500.0,Milan Špánik,,
+25,2022-08-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+26,2022-08-31,-5.0,,Vedenie účtu,9

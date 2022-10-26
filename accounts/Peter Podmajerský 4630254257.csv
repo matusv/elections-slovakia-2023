@@ -1,8 +1,8 @@
 index,date,amount,account_name,message,vs
 0,2022-10-25,-279.0,Platba kartou,Platba kartou u obchodníka,****4608
-1,2022-10-25,-230.0,Platba kartou,Platba kartou u obchodníka,****4608
-2,2022-10-25,-279.0,Platba kartou,Platba kartou u obchodníka,****4608
-3,2022-10-25,279.0,Platba kartou,Platba kartou u obchodníka,****4608
+1,2022-10-25,279.0,Platba kartou,Platba kartou u obchodníka,****4608
+2,2022-10-25,-230.0,Platba kartou,Platba kartou u obchodníka,****4608
+3,2022-10-25,-279.0,Platba kartou,Platba kartou u obchodníka,****4608
 4,2022-10-25,200.0,POF SYSTEM S.R.O.,,
 5,2022-10-24,300.0,Eva Podmajerská,,
 6,2022-10-17,-187.5,"VUB,A.S.",DDSLOVENSKA~POSTAMYJAVA~~~~~~~~~P1,****4608

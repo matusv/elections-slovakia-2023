@@ -1,9 +1,9 @@
 index,date,amount,account_name,message,vs
 0,2022-10-25,-1080.0,"BigMedia, spol. s.r.o.",volby Ondrisik,1222301213
-1,2022-10-24,-14.4,Platba kartou,FACEBK L9LQ5GKD fb.me/ads,****8517
+1,2022-10-24,-14.4,"VUB,A.S.",DDFACEBK~L9LQ5GKDfb.me/ads~~~~~~P1,****8517
 2,2022-10-24,-10.8,Platba kartou,FACEBK PMHGAGXD fb.me/ads,****8517
-3,2022-10-24,-10.8,Platba kartou,FACEBK GNNVAGXD fb.me/ads,****8517
-4,2022-10-24,-10.8,Platba kartou,FACEBK BBETUHBD fb.me/ads,****8517
+3,2022-10-24,-10.8,"VUB,A.S.",DDFACEBK~GNNVAGXDfb.me/ads~~~~~~P1,****8517
+4,2022-10-24,-10.8,"VUB,A.S.",DDFACEBK~BBETUHBDfb.me/ads~~~~~~P1,****8517
 5,2022-10-20,500.0,Jozef Varga,Varga Jozef,
 6,2022-10-17,-78.0,"VUB,A.S.","DDKING~MEDIA,PP,HPOPRAD~~~~~~~~~P1",****8517
 7,2022-10-17,486.0,Peter Kandrac,Peter Kandrac,
