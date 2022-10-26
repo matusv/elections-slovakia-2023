@@ -1,8 +1,9 @@
 index,date,amount,account_name,message,vs
 0,2022-10-26,-161.24,Platba kartou,Platba kartou u obchodníka,****2014
-1,2022-10-26,200.0,Ščuka Radoslav,dar,
-2,2022-10-12,70.0,Ščuka Radoslav,dar,
-3,2022-10-03,-37.5,Mesto Krompachy,inzertacia Krompachy spravodaj,22300111
-4,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-5,2022-09-30,-5.0,,Vedenie účtu,9
-6,2022-09-30,40.0,Ščuka Radoslav,dar,
+1,2022-10-26,-45.5,Platba kartou,Platba kartou u obchodníka,****2014
+2,2022-10-26,200.0,Ščuka Radoslav,dar,
+3,2022-10-12,70.0,Ščuka Radoslav,dar,
+4,2022-10-03,-37.5,Mesto Krompachy,inzertacia Krompachy spravodaj,22300111
+5,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+6,2022-09-30,-5.0,,Vedenie účtu,9
+7,2022-09-30,40.0,Ščuka Radoslav,dar,
