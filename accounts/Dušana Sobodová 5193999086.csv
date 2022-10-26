@@ -1,6 +1,7 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Miščík Anton,2022-10-25,160,EUR,,Bezhotovostný vklad - okamžitá platba,,
-1,,2022-10-13,-27,EUR,"B1385919098-44544 12** **** 3900;OBALEX - KOSICE, S.R.O ,KOSICE ,SK ;10.10.2022 14:13:15 ;CashBack:0 EUR",Platba kartou,,
-2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-3,Cimbal Dusan,2022-09-30,250,EUR,DUSAN CIMBAL,Bezhotovostný vklad,,
-4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,theBestAgency,2022-10-26,-160,EUR,FA-2022-025,Platobný príkaz na úhradu / FIT 2.0 (EB),2022025,
+1,Miščík Anton,2022-10-25,160,EUR,,Bezhotovostný vklad - okamžitá platba,,
+2,,2022-10-13,-27,EUR,"B1385919098-44544 12** **** 3900;OBALEX - KOSICE, S.R.O ,KOSICE ,SK ;10.10.2022 14:13:15 ;CashBack:0 EUR",Platba kartou,,
+3,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,Cimbal Dusan,2022-09-30,250,EUR,DUSAN CIMBAL,Bezhotovostný vklad,,
+5,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,

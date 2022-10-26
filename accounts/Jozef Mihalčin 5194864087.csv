@@ -1,0 +1,10 @@
+index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,"SIETTEX, s.r.o.",2022-10-25,-282,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220371,
+1,ANKO,2022-10-14,-102,EUR,0221014162818.986976,Okamžitá platba (EB),220360,
+2,"SIETTEX, s.r.o.",2022-10-14,-534,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),20220347,
+3,"IWIN TRADE, s.r.o.",2022-10-14,-60,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),2022166,
+4,ANKO,2022-10-14,-306,EUR,najom rekl.plochy,Platobný príkaz na úhradu / FIT 2.0 (EB),220321,
+5,Mihalčin Jozef Ing.,2022-10-14,1000,EUR,F001141020229959181,Bezhotovostný vklad,9,
+6,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+7,ANKO,2022-09-16,-306,EUR,najom rekl.plochy,Okamžitá platba (EB),220272,
+8,Mihalčin Jozef Ing.,2022-09-16,1000,EUR,F001160920220939440,Bezhotovostný vklad,9,
