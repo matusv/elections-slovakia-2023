@@ -155,16 +155,16 @@ index,index,date,amount,account_name,message,vs,name
 153,4,2022-10-26,1500.0,Šimášek Matej,,,Matej Šimášek
 154,0,2022-10-26,-150.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
 155,2,2022-10-26,150.0,Šimášek Matej,,,Matej Šimášek
-156,175,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
-157,170,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
+156,176,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
+157,171,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 158,1,2022-10-26,-160.0,JADUD BRANISLAV MVDR,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK2509000000000074309895,,Branislav Jaďuď
 159,3,2022-10-26,160.0,JADUD BRANISLAV MVDR,,,Branislav Jaďuď
 160,0,2022-10-26,-400.0,JADUD BRANISLAV MVDR,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK2509000000000074309895,,Branislav Jaďuď
 161,2,2022-10-26,400.0,JADUD BRANISLAV MVDR,,,Branislav Jaďuď
 162,51,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
 163,50,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
-164,14,2022-10-22,-9.0,Martin Ruščanský,0221022203845.362317,,Slavomír Novák
-165,11,2022-10-23,9.0,Martin Ruščanský,Vratenie mylnej platby,,Slavomír Novák
+164,15,2022-10-22,-9.0,Martin Ruščanský,0221022203845.362317,,Slavomír Novák
+165,12,2022-10-23,9.0,Martin Ruščanský,Vratenie mylnej platby,,Slavomír Novák
 166,9,2022-10-26,-500.0,TATRA BANKA A.S. - CENTRÁLA,vratenie platby,,Miloslav Olejár
 167,10,2022-10-26,500.0,TATRA BANKA A.S. - CENTRÁLA,23831288,111.0,Miloslav Olejár
 168,17,2022-09-07,-150.0,Mesto Sobrance,"Daň/poplatok 2022 UVP DAN č. 115,",1215200115.0,Marián Sejna
