@@ -1,5 +1,7 @@
 index,date,amount,account_name,message,vs
-0,2022-10-27,-177.6,,Aprint tlac bannera,2022361
-1,2022-10-27,1000.0,Peter Antal,,
-2,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-3,2022-09-30,-5.0,,Vedenie účtu,9
+0,2022-10-27,200.0,Peter Antal,,
+1,2022-10-27,-201.8,Mesto Ziar nad Hronom,Mesto inzercia,80
+2,2022-10-27,-177.6,,Aprint tlac bannera,2022361
+3,2022-10-27,1000.0,Peter Antal,,
+4,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+5,2022-09-30,-5.0,,Vedenie účtu,9
