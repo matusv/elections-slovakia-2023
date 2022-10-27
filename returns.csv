@@ -91,8 +91,8 @@ index,index,date,amount,account_name,message,vs,name
 89,317,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
 90,251,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
 91,222,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
-92,185,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
-93,190,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
+92,230,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
+93,235,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
 94,1701,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
 95,1702,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
 96,1680,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
@@ -155,8 +155,8 @@ index,index,date,amount,account_name,message,vs,name
 153,4,2022-10-26,1500.0,Šimášek Matej,,,Matej Šimášek
 154,0,2022-10-26,-150.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
 155,2,2022-10-26,150.0,Šimášek Matej,,,Matej Šimášek
-156,176,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
-157,171,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
+156,177,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
+157,172,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 158,1,2022-10-26,-160.0,JADUD BRANISLAV MVDR,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK2509000000000074309895,,Branislav Jaďuď
 159,3,2022-10-26,160.0,JADUD BRANISLAV MVDR,,,Branislav Jaďuď
 160,0,2022-10-26,-400.0,JADUD BRANISLAV MVDR,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK2509000000000074309895,,Branislav Jaďuď
@@ -213,8 +213,8 @@ index,index,date,amount,account_name,message,vs,name
 211,3,2022-10-26,2400.0,Murín Ľubomír,,,Ľubomír Murín
 212,143,2021-11-16,-501.0,PREVOD Z KRED. KARTY,vrátenie platby z dôvodunedostatočnej identifikácie darcu,,Michal Djordjevič
 213,144,2021-11-15,501.0,PREVOD Z KRED. KARTY,Pre najlepsieho kandidata!,,Michal Djordjevič
-214,36,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
-215,35,2022-09-26,360.0,Kvál s. r. o.,OO22092600020201,,Pavol Kvál
+214,37,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
+215,36,2022-09-26,360.0,Kvál s. r. o.,OO22092600020201,,Pavol Kvál
 216,1,2022-10-26,-500.0,Árpád Horváth,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK7509000000005168031292,,Árpád Horváth
 217,22,2022-10-17,500.0,Árpád Horváth,Prevod medzi vlastnými účtami,,Árpád Horváth
 218,88,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000,,ZA ĽUDÍ
