@@ -1,1 +1,4 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
+0,DORLET s.r.o.,2022-10-21,-396.0,EUR,distribúcia letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),,
+1,"Alfa print, s.r.o.",2022-10-21,-1261.92,EUR,tlač letákov,Platobný príkaz na úhradu / FIT 2.0 (EB),166322,
+2,ING. MAREK BELAK,2022-10-20,2500.0,EUR,PREVOD PROSTRIEDKOV,Bezhotovostný vklad,,
