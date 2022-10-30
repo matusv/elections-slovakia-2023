@@ -47,16 +47,16 @@ index,index,date,amount,account_name,message,vs,name
 45,112,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
 46,60,2022-10-13,-5000.0,"DENT-IN, S.R.O.",Vrátenie daru - mylná platba,13102022.0,Kresťanskodemokratické hnutie
 47,68,2022-10-12,5000.0,"DENT-IN, S.R.O.",23711150,,Kresťanskodemokratické hnutie
-48,374,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-49,345,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-50,342,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
-51,305,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-52,329,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-53,330,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-54,279,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+48,395,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+49,366,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+50,363,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+51,326,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
+52,350,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+53,351,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
+54,281,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
 55,284,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-56,281,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-57,282,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
+56,279,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+57,283,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",,REPUBLIKA
 58,256,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
 59,259,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
 60,246,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
@@ -153,16 +153,16 @@ index,index,date,amount,account_name,message,vs,name
 151,7,2022-10-26,240.85,Jankulár Ján,,,Ján Jankulár
 152,4,2022-10-26,-5.0,Jankulár Ján,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK5109000000005118848456,,Ján Jankulár
 153,6,2022-10-26,5.0,Jankulár Ján,volby 2022,,Ján Jankulár
-154,31,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
-155,32,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
+154,32,2022-08-05,-2000.0,Eva Psotná,vrátenie zrejme omylom zaslaného daru,,Katarína Heneková
+155,33,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
 156,1,2022-10-26,-0.01,Hollý Jakub,Vrátenie vkladu,,Miloš Mičega
 157,67,2022-07-25,0.01,Hollý Jakub,Na kurz pre zlepsenie sebaovladania a kontrolu emocii,,Miloš Mičega
 158,0,2022-10-26,-0.01,Ďurža Mário,Vrátenie vkladu,,Miloš Mičega
 159,40,2022-09-15,0.01,Ďurža Mário,Pre pána primátora !,,Miloš Mičega
 160,0,2022-10-28,-450.0,Milan Spanik,vratena uhrada,,Milan Špánik
 161,1,2022-10-28,450.0,Milan Špánik,,,Milan Špánik
-162,100,2022-07-18,-342.0,Arton Sro,Kubáň Ľubomír; Gombalová - nájom ;08.07.2022,220290.0,Ľubomír Kubáň
-163,33,2022-10-14,342.0,ARTON s.r.o.,Duplicitna uhrada,62209133.0,Ľubomír Kubáň
+162,101,2022-07-18,-342.0,Arton Sro,Kubáň Ľubomír; Gombalová - nájom ;08.07.2022,220290.0,Ľubomír Kubáň
+163,34,2022-10-14,342.0,ARTON s.r.o.,Duplicitna uhrada,62209133.0,Ľubomír Kubáň
 164,0,2022-10-26,-57.0,Martaus Tomáš,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK8909000000005133345101,,Tomáš Martaus
 165,1,2022-10-26,57.0,Martaus Tomáš,,,Tomáš Martaus
 166,4,2022-10-26,-150.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
