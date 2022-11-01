@@ -1,652 +1,743 @@
-meno,label,typ_volieb,samosprava,ucet,stranicky_ucet,strana
-DOBRÁ VOĽBA a Umiernení,PS,,,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063,DOBRÁ VOĽBA a Umiernení
-DOMOV národná strana,PS,,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,DOMOV národná strana
-HLAS - sociálna demokracia,PS,,,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,HLAS - sociálna demokracia
-Komunistická strana Slovenska,PS,,,https://www.transparentneucty.sk/#/ucet/SK4809000000005193974137,https://www.transparentneucty.sk/#/ucet/SK4809000000005193974137,Komunistická strana Slovenska
-Kotlebovci - Ľudová strana Naše Slovensko,PS,,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Kresťanskodemokratické hnutie,PS,,,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,Kresťanskodemokratické hnutie
-ODS - Občianski demokrati Slovenska,PS,,,https://www.transparentneucty.sk/#/ucet/SK0709000000005190700640,https://www.transparentneucty.sk/#/ucet/SK0709000000005190700640,ODS - Občianski demokrati Slovenska
-"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA",PS,,,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA"
-PROGRESÍVNE SLOVENSKO,PS,,,https://www.transparentneucty.sk/#/ucet/SK5709000000005192786986,https://www.transparentneucty.sk/#/ucet/SK5709000000005192786986,PROGRESÍVNE SLOVENSKO
-REPUBLIKA,PS,,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Sloboda a Solidarita,PS,,,https://www.transparentneucty.sk/#/ucet/SK7109000000005178313461,https://www.transparentneucty.sk/#/ucet/SK7109000000005178313461,Sloboda a Solidarita
-Slovenský PATRIOT,PS,,,https://ib.fio.sk/ib/transparent?a=2902302357,https://ib.fio.sk/ib/transparent?a=2902302357,Slovenský PATRIOT
-SME RODINA,PS,,,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,SME RODINA
-SMER - sociálna demokracia,PS,,,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,SMER - sociálna demokracia
-Socialisti.sk,PS,,,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk
-SPOLU - občianska demokracia,PS,,,https://www.transparentneucty.sk/#/ucet/SK4809000000005188974466,https://www.transparentneucty.sk/#/ucet/SK4809000000005188974466,SPOLU - občianska demokracia
-SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny,PS,,,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny
-Team Bratislava,PS,,,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,Team Bratislava
-Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,PS,,,https://www.transparentneucty.sk/#/ucet/SK9609000000005194268541,https://www.transparentneucty.sk/#/ucet/SK9609000000005194268541,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-Zuzana Aufrichtová,BA,miestne,Bratislava - Staré Mesto,https://www.transparentneucty.sk/#/ucet/SK1709000000005147134268,,"Sloboda a solidarita,Kresťanskodemokratické hnutie, Občianska konzervatívna strana, Nova, Za ľudí, Zmena zdola, demokratická únia Slovenska"
-Katarína Bálintová,BA,miestne,Chorvátsky Grob,https://ib.fio.sk/ib/transparent?a=2302256756,,
-Sandra Benko,BA,miestne,Rovinka,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5602000000004626701253,,
-Matúš Čupka,BA,miestne,Bratislava - Nové Mesto,https://ib.fio.sk/ib/transparent?a=2102105267,,"Team Bratislava, Progresívne Slovensko, Sloboda a solidarita"
-Monika Debnárová,BA,miestne,Bratislava - Vajnory,https://ib.fio.sk/ib/transparent?a=2302288475,,
-Marek Dinuš,BA,miestne,Bratislava - Dúbravka,https://ib.fio.sk/ib/transparent?a=2502253250,,
-Michal Drotován,BA,miestne,Bratislava - Rača,https://ib.fio.sk/ib/transparent?a=2002202561,,
-Branislav Filipovič,BA,miestne,Bratislava - Nové Mesto,https://www.transparentneucty.sk/#/ucet/SK7109000000005194645060,,
-Šimon Gabura,BA,miestne,Svätý Jur,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8002000000004633324951,,
-Štefan Gašparovič,BA,miestne,Slovenský Grob,https://www.transparentneucty.sk/#/ucet/SK8009000000005193340636,,
-Hana Haldová,BA,miestne,Stupava,https://ib.fio.sk/ib/transparent?a=2302253862,,nezávislý kandidát
-Martin Chren,BA,miestne,Bratislava - Ružinov,https://www.transparentneucty.sk/#/ucet/SK5909000000005188209617,,
-Martin Kližan,BA,miestne,Bratislava - Petržalka,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004610405353,,
-Peter Kmeť,BA,miestne,Senec,https://www.transparentneucty.sk/#/ucet/SK9609000000005193232969,,
-Peter Komínek,BA,miestne,Rovinka,https://www.transparentneucty.sk/#/ucet/SK2709000000005194755753,,
-Michal Kakalík,BA,miestne,Šenkvice,https://www.transparentneucty.sk/#/ucet/SK0509000000005194456710,,
-Dárius Krajčír,BA,miestne,Bratislava - Devínska Nová Ves,https://www.transparentneucty.sk/#/ucet/SK5609000000005194603426,,
-Roman Lamoš,BA,miestne ,Bratislava - Podunajské Biskupice,https://www.transparentneucty.sk/#/ucet/SK3509000000005191445872,,
-Vladimír Letenay,BA,miestne,Ivanka pri Dunaji,https://ib.fio.sk/ib/transparent?a=2101782450,,
-Tomáš Lukačovský,BA,miestne,Slovenský Grob,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6202000000004588718758,,
-Roman Mács,BA,miestne,Pezinok,https://www.transparentneucty.sk/#/ucet/SK3609000000005187489418,,
-Martin Mlýnek,BA,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK0309000000005194188250,,"Nova, Občianska konzervatívna strana, Zmena zdola, demokratická únia Slovenska, Obyčajní ľudia a nezávislé osobnosti (oľano), nova, kresťanská únia (kú), zmena zdola"
-Peter Novisedlák,BA,miestne,Stupava,https://www.transparentneucty.sk/#/ucet/SK1109000000005193515993,,
-Radoslav Olekšák,BA,miestne,Bratislava - Lamač,https://www.transparentneucty.sk/#/ucet/SK8609000000005194682232,,"Hlas - sociálna demokracia, Smer - sociálna demokracia, Slovenská národná strana "
-Juraj Petrakovič,BA,miestne,Modra,https://ib.fio.sk/ib/transparent?a=2602158509,,
-Eva Pilátová,BA,miestne,Pezinok,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6902000000004609518051,,
-Vladimír Píš,BA,miestne,Dunajská Lužná,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4802000000004603477754,,
-Iva Pipíšková,BA,miestne,Bernolákovo ,https://www.transparentneucty.sk/#/ucet/SK0609000000005187129797,,
-Igor Polakovič,BA,miestne,Bratislava - Lamač,https://ib.fio.sk/ib/transparent?a=2502271731,,"Team Bratislava, Progresívne Slovensko, Sloboda a Solidarita"
-Ján Polakovič,BA,miestne,Bratislava - Rača,https://www.transparentneucty.sk/#/ucet/SK9809000000005190194311,,
-Slavomír Repka,BA,miestne,Pezinok,https://ib.fio.sk/ib/transparent?a=2602237282,,
-Juraj Říha,BA,miestne,Malacky,https://www.transparentneucty.sk/#/ucet/SK8009000000005193706423,,
-Michal Svátek,BA,miestne,Pezinok,https://www.transparentneucty.sk/#/ucet/SK5109000000005188427235,,
-Róbert Šegeda,BA,miestne,Malacky,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6702000000004609111657,,nezávislý kandidát
-Mária Šimončičová,BA,miestne,Bratislava - Lamač,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0502000000004655314455,,
-Adam Šipoš,BA,miestne,Bernolákovo,https://www.transparentneucty.sk/#/ucet/SK5709000000005192983023,,
-Ivor Švihran,BA,miestne,Bratislava - Ružinov,https://ib.fio.sk/ib/transparent?a=2001457730,,
-Iveta Ugrová,BA,miestne,Dunajská Lužná,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2302000000004655740155,,nezávislý kandidát
-Matej Vagač,BA,miestne,Bratislava - Staré Mesto,https://ib.fio.sk/ib/transparent?a=2402110543,,
-Dušan Velič,BA,župné,Bratislavský samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2502238421,,"ZA ĽUDÍ, SME RODINA, Kresťanskodemokratické hnutie, Magyar Fórum - Maďarské fórum"
-Vladimíra Vydrová,BA,miestne,Chorvátsky Grob,https://www.transparentneucty.sk/#/ucet/SK1709000000005192842511,,
-Mária Wagingerová,BA,miestne,Pezinok,https://ib.fio.sk/ib/transparent?a=2902283184,,
-Ján Žatko,BA,miestne,Bratislava - Devínska Nová Ves,https://ib.fio.sk/ib/transparent?a=2802241657,,
-Vladimír Bakita,TT,miestne,Piešťany,https://ib.fio.sk/ib/transparent?a=2602297664,,
-Branislav Baroš,TT,miestne,Trnava,https://ib.fio.sk/ib/transparent?a=2902265664,,nezávislý kandidát
-Jozef Bednár,TT,miestne,Šamorín,https://www.transparentneucty.sk/#/ucet/SK5809000000005194220919,,
-József Berényi,TT,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7209000000005194659980,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny
-László Bindics,TT,miestne,Dunajská Streda,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8002000000004630447155,,
-Zuzana Bošnáková,TT,miestne,Trnava,https://ib.fio.sk/ib/transparent?a=2902180273,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Kresťanskodemokratické hnutie, ZA ĽUDÍ , Kresťanská únia"
-Peter Bročka,TT,miestne,Trnava,https://www.transparentneucty.sk/#/ucet/SK5009000000005143893777,,nezávislý kandidát
-Viliam Brunner,TT,miestne,Sládkovičovo,https://www.transparentneucty.sk/#/ucet/SK3509000000005192823951,,
-Zdenko Čambal,TT,miestne,Holíč,https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849,,"Slovenská národná strana, SMER – sociálna demokracia"
-Zdenko Čambal,TT,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849,,"Slovenská národná strana, SMER – sociálna demokracia"
-Edita Červeňová,TT,miestne,Sereď,https://www.transparentneucty.sk/#/ucet/SK7509000000005194337498,,
-Marián Galbavý,TT,miestne,Trnava,https://www.transparentneucty.sk/#/ucet/SK8909000000005191642198,,"Sloboda a Solidarita, SME RODINA, ODS - Občianski demokrati Slovenska, ŠANCA"
-Roland Hakszer,TT,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK9409000000005194784423,,nezávislý kandidát
-Zoltán Hájos,TT,miestne,Dunajská Streda,https://www.transparentneucty.sk/#/ucet/SK7309000000005193276742,,Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. Regióny
-Roman Chudý,TT,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7809000000005194603127,,ŽIVOT – národná strana
-Peter Jančovič,TT,miestne,Piešťany,https://www.transparentneucty.sk/#/ucet/SK6509000000005190829479,,
-Ján Jankulár,TT,miestne,Sereď,https://www.transparentneucty.sk/#/ucet/SK5009000000005191739221,,
-Peter Kolek,TT,miestne,Galanta,https://ib.fio.sk/ib/transparent?a=2202198712,,
-Štefan Kubík,TT,miestne,Vrbové,https://www.transparentneucty.sk/#/ucet/SK3509000000005193228150,,
-Ondrej Kurbel,TT,miestne,Sereď,https://ib.fio.sk/ib/transparent?a=2102203756,,
-Matej Lančarič,TT,miestne,Trnava,https://ib.fio.sk/ib/transparent?a=2302232164,,nezávislý kandidát
-Oľga Luptáková,TT,miestne,Skalica,https://www.transparentneucty.sk/#/ucet/SK3109000000005193879092,,
-Csaba Orosz,TT,miestne,Šamorín,https://www.transparentneucty.sk/#/ucet/SK0209000000005190084489,,
-Stanislav Ralbovský,TT,,,https://www.transparentneucty.sk/#/ucet/SK0309000000005194605253,,
-Roman Sova,TT,miestne,Senica,https://www.transparentneucty.sk/#/ucet/SK3909000000005194514589,,
-Erika Szelle,TT,miestne,Dunajská Streda,https://www.transparentneucty.sk/#/ucet/SK8009000000005192781819,,
-František Sztruhár,TT,miestne,Šamorín,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3102000000004616097857,,
-Leopold Barszcz,TN,miestne,Stará Turá,https://www.transparentneucty.sk/#/ucet/SK3309000000005194528083,,
-Jaroslav Baška,TN,župné,Trenčiansky samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2202219296,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,"SMER - sociálna demokracia, HLAS sociálna demokracia, SME RODINA, Slovenská národná strana"
-Katarína Beranová,TN,miestne,Považská Bystrica,https://transparentneucty.sk/#/ucet/SK7509000000005194779915,,nezávislý kandidát
-Jozef Božik,TN,miestne,Partizánske,https://www.transparentneucty.sk/#/ucet/SK5009000000005150302373,,
-Pavol Crkoň,TN,miestne,Púchov,https://www.transparentneucty.sk/#/ucet/SK6709000000005194409519,,
-Róbert Gašparík,TN,miestne,Bánovce nad Bebravou,https://www.transparentneucty.sk/#/ucet/SK1209000000005191869982,,
-Branislav Gigac,TN,miestne,Prievidza,https://www.transparentneucty.sk/#/ucet/SK7109000000005192480602,,
-Maroš Greschner,TN,miestne,Bojnice,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004620137751,,
-Silvia Grúberová,TN,miestne,Handlová,https://www.transparentneucty.sk/#/ucet/SK2409000000005192391626,,
-Jozef Hatvanyi,TN,miestne,Bojnice,https://www.transparentneucty.sk/#/ucet/SK6209000000005193606449,,
-Katarína Heneková,TN,miestne,Púchov,https://www.transparentneucty.sk/#/ucet/SK2309000000005191715748,,
-Dávid Holý,TN,miestne,Bánovce nad Bebravou,https://ib.fio.sk/ib/transparent?a=2102272970,,
-Miroslava Hudecová,TN,miestne,Bánovce nad Bebravou,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4202000000004610892251,,
-Zuzana Hujsiová,TN,miestne,Handlová,https://www.transparentneucty.sk/#/ucet/SK5409000000005187992427,,
-Katarína Chlebíková,TN,miestne,Nové Mesto nad Váhom,https://www.transparentneucty.sk/#/ucet/SK1809000000005187598091,,
-Maroš Chudovský,TN,miestne,Považská Bystrica,https://www.transparentneucty.sk/#/ucet/SK2809000000005189396485,,
-Karol Janas,TN,miestne,Považská Bystrica,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7302000000004649337255,,
-Juraj Krištofovič,TN,miestne,Nemšová,https://www.transparentneucty.sk/#/ucet/SK3309000000005194012722,,
-Ján Kšiňan,TN,miestne,Bánovce nad Bebravou,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000004627902858,,
-Peter Kudlík,TN,miestne,Dubnica nad Váhom,https://ib.fio.sk/ib/transparent?a=2202286245,,
-Viliam Makový,TN,miestne,Bánovce nad Bebravou,https://www.transparentneucty.sk/#/ucet/SK0909000000005194516293,,
-František Mašlonka,TN,miestne,Nové Mesto nad Váhom,https://www.transparentneucty.sk/#/ucet/SK7309000000005188127400,,
-Peter Máťoš,TN,župné,Trenčiansky samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7802000000004599983856,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Kresťanskodemokratické hnutie, Sloboda a Solidarita, Občianska konzervatívna strana, DOBRÁ VOĽBA a Umiernení, Progresívne Slovensko, SPOLU občianska demokracia, ODS - Občianski demokrati Slovenska, ŠANCA"
-Miloš Mičega,TN,miestne,Trenčín,https://www.transparentneucty.sk/#/ucet/SK6209000000005192271923,,nezávislý kandidát
-Adrián Mikuš,TN,župné,Trenčiansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7609000000005194181892,,nezávislý kandidát
-Tatiana Molnárová,TN,miestne,Handlová,https://www.transparentneucty.sk/#/ucet/SK8509000000005185671726,,
-Nora Pániková,TN,miestne,Stará Turá,https://www.transparentneucty.sk/#/ucet/SK0909000000005194566442,,
-Peter Podmajerský,TN,miestne,Myjava,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004630254257,,"Smer – sociálna demokracia , Slovenská národná strana"
-Ján Prekop,TN,miestne,Beluša,https://www.transparentneucty.sk/#/ucet/SK8109000000005193962582,,
-Mikuláš Prokop,TN,miestne,Považská Bystrica,https://www.transparentneucty.sk/#/ucet/SK2009000000005194337615,,
-Richard Rybníček,TN,miestne,Trenčín,https://ib.fio.sk/ib/transparent?a=2802198281,,nezávislý kandidát
-Matej Slávik,TN,miestne,Beluša,https://www.transparentneucty.sk/#/ucet/SK4009000000005192913586,,
-Ladislav Smatana,TN,miestne,Bojnice,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004590125951,,
-Jozef Stopka,TN,miestne,Handlová,https://www.transparentneucty.sk/#/ucet/SK5609000000005193883104,,
-Milan Špánik,TN,miestne,Nové Mesto nad Váhom,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2602000000004646148256,,
-Peter Wolf,TN,miestne,Dubnica nad Váhom,https://www.transparentneucty.sk/#/ucet/SK0909000000005147312116,,
-Martina Balážová,NR,miestne,Zlaté Moravce,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5402000000004641278158,,
-Branislav Becík,NR,župné,Nitriansky samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2002248826,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,"HLAS - sociálna demokracia, SME RODINA"
-Milan Belica,NR,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7509000000005193795171,,nezávislý kandidát
-Jozef Belický,NR,miestne,Šaľa,https://www.transparentneucty.sk/#/ucet/SK3809000000005194560294,,
-Eva Bielik Hajdamárová,NR,miestne,Levice,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000004647039457,,
-Róbert Dobi,NR,miestne,Komárno,https://ib.fio.sk/ib/transparent?a=2702272835,,
-Jozef Dobrotka,NR,miestne,Topoľčany,https://ib.fio.sk/ib/transparent?a=2402304831,,
-Tímea Etheykatz,NR,miestne,Komárno,https://www.transparentneucty.sk/#/ucet/SK7109000000005194144055,,
-Eva Fazekašová,NR,miestne,Nové Zámky,https://www.transparentneucty.sk/#/ucet/SK0209000000005194527574,,
-Marcel Filaga,NR,miestne,Šurany,https://ib.fio.sk/ib/transparent?a=2102246246,,
-Alexandra Gieciová,NR,miestne,Topoľčany,https://www.transparentneucty.sk/#/ucet/SK9309000000005194176639,,
-Béla Halász,NR,miestne,Kolárovo,https://ib.fio.sk/ib/transparent?a=2102281009,,
-Martina Holečková,NR,župné,Nitriansky samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2502234914,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Kresťanskodemokratické hnutie, Sloboda a Solidarita, Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja, ŠANCA, SPOLU - občianska demokracia, ODS - Občianski demokrati Slovenska, Demokratická strana, Občianska konzervatívna strana, ZA ĽUDÍ"
-Ernö Kárpáty,NR,miestne,Kolárovo,https://www.transparentneucty.sk/#/ucet/SK9609000000005192744671,,
-Ildikó Kečkéš,NR,miestne,Hurbanovo,https://ib.fio.sk/ib/transparent?a=2202277381,,
-Béla Keszegh,NR,miestne,Komárno,https://www.transparentneucty.sk/#/ucet/SK1009000000005192459002,,
-Otokar Klein,NR,miestne,Nové Zámky,https://www.transparentneucty.sk/#/ucet/SK5909000000005151383179,,
-Igor Kršiak,NR,miestne,Nitra,https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947,,"HLAS - sociálna demokracia, SME RODINA, DOBRÁ VOĽBA a Umiernení, Demokrati Slovenska"
-Ján Krtík,NR,miestne,Levice,https://www.transparentneucty.sk/#/ucet/SK8809000000005147630018,,
-Tomáš Mészáros,NR,miestne,Šaľa,https://ib.fio.sk/ib/transparent?a=2902270180,,
-Viktor Németh,NR,miestne,Vráble,https://ib.fio.sk/ib/transparent?a=2002281255,,
-Pavol Obertáš,NR,miestne,Nitra,https://ib.fio.sk/ib/transparent?a=2302078881,,nezávislý kandidát
-Zoltán Oslanec,NR,miestne,Nesvady,https://ib.fio.sk/ib/transparent?a=2302118601,,
-Anita Petkovová,NR,miestne,Šaľa,https://ib.fio.sk/ib/transparent?a=2302200162,,
-Peter Podbehlý,NR,miestne,Nové Zámky,https://ib.fio.sk/ib/transparent?a=2902102427,,
-Eva Polerecká,NR,miestne,Nové Zámky,https://ib.fio.sk/ib/transparent?a=2902195416,,
-Roman Porubský,NR,miestne,Šurany,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7002000000004611867955,,
-Štefan Pupák,NR,miestne,Hurbanovo,https://www.transparentneucty.sk/#/ucet/SK8709000000005193444785,,
-Juraj Sitár,NR,miestne,Poľný Kesov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004637524053,,
-Dalimír Solčanský,NR,miestne,Nitra,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2302000000004641717253,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Stanislav Strieška,NR,miestne,Žitavce,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8902000000004647355257,,
-Eugen Szabó,NR,miestne,Štúrovo,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6602000000004625114153,,
-Tibor Tóth,NR,miestne,Vráble,https://www.transparentneucty.sk/#/ucet/SK4709000000005191407438,,
-Pál Zachar,NR,miestne,Šahy ,https://www.transparentneucty.sk/#/ucet/SK7709000000005193547397,,
-Peter Závodský,NR,miestne,Hurbanovo,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5302000000004641602253,,
-Ján Blcháč,ZA,miestne,Liptovský Mikuláš,https://www.transparentneucty.sk/#/ucet/SK3209000000005194470774,,
-Jozef Cech,ZA,miestne,Skalité,https://www.transparentneucty.sk/#/ucet/SK2109000000005194959561,,
-Peter Cibulka,ZA,miestne,Žilina,https://www.transparentneucty.sk/#/ucet/SK9309000000005186703080,,nezávislý kandidát
-Lucia Cukerová,ZA,miestne,Liptovský Mikuláš,https://ib.fio.sk/ib/transparent?a=2902266835,,
-Mária Červeňová,ZA,miestne,Námestovo,https://www.transparentneucty.sk/#/ucet/SK5409000000005191003986,,
-Ján Danko,ZA,miestne,Martin,https://www.transparentneucty.sk/#/ucet/SK6909000000005193466837,,
-Andrea Ferletjaková,ZA,miestne,Námestovo,https://www.transparentneucty.sk/#/ucet/SK1609000000005194558944,,
-Peter Fiabáne,ZA,miestne,Žilina,https://ib.fio.sk/ib/transparent?a=2902148695,,nezávislý kandidát
-Milan Ftorek,ZA,miestne,Martin,https://www.transparentneucty.sk/#/ucet/SK7509000000005193588367,,
-Patrik Habo,ZA,miestne,Ružomberok,https://www.transparentneucty.sk/#/ucet/SK8309000000005192325768,,
-Igor Hus,ZA,miestne,Turčianske Teplice,https://www.transparentneucty.sk/#/ucet/SK4709000000005189491300,,
-Igor Choma,ZA,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005191996359,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,Smer ‐ sociálna demokracia
-Felicita Chromjaková,ZA,miestne,Kysucké Nové Mesto,https://www.transparentneucty.sk/#/ucet/SK6209000000005193504696,,
-Jozef Grapa,ZA,miestne,Krásno nad Kysucou ,https://www.transparentneucty.sk/#/ucet/SK0709000000005194587139,,
-Igor Janckulík,ZA,župné,Žilinský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9202000000004608142953,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Kresťanskodemokratické hnutie, Dobrá voľba a umiernení, Slovenská národná strana"
-Ján Kadera,ZA,miestne,Námestovo,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0402000000004611438851,,
-Tomáš Klopta,ZA,miestne,Ružomberok,https://www.transparentneucty.sk/#/ucet/SK7309000000005190521845,,
-Štefan Kompánek,ZA,miestne,Turzovka,https://ib.fio.sk/ib/transparent?a=2901521726,,
-Ľubomír Kubáň,ZA,miestne,Ružomberok,https://www.transparentneucty.sk/#/ucet/SK2509000000005192670289,,
-Ján Laco,ZA,miestne,Liptovský Mikuláš,https://www.transparentneucty.sk/#/ucet/SK2809000000005193965767,,
-Ladislav Marek,ZA,miestne,Bytča,https://ib.fio.sk/ib/transparent?a=2702326290,,
-Tomáš Martaus,ZA,miestne,Liptovský Mikuláš,https://www.transparentneucty.sk/#/ucet/SK6709000000005191666165,,
-Marián Murín,ZA,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK5809000000005194350705,,nezávislý kandidát
-Jozef Petráš,ZA,miestne,Martin,https://www.transparentneucty.sk/#/ucet/SK5809000000005191691547,,
-Ján Prílepok,ZA,miestne,Dolný Kubín,https://www.transparentneucty.sk/#/ucet/SK8109000000005193034583,,
-Ján Rzeszoto,ZA,miestne,Žilina,https://ib.fio.sk/ib/transparent?a=2302222206,,nezávislý kandidát
-Peter Slyško,ZA,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK3009000000005192844314,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia
-Matej Šimášek,ZA,miestne,Čadca,https://www.transparentneucty.sk/#/ucet/SK7109000000005194363469,,
-Stanislav Thomka,ZA,miestne,Martin,https://www.transparentneucty.sk/#/ucet/SK9609000000005189717883,,
-Magdaléna Zmarzláková,ZA,miestne,Trstená,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6502000000004632431851,,
-Peter Zverec,ZA,miestne,Čadca,https://www.transparentneucty.sk/#/ucet/SK3509000000005192986232,,
-Attila Agócs,BB,miestne,Fiľakovo,https://www.transparentneucty.sk/#/ucet/SK2709000000005190115855,,Szovetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. Národnosti. Regióny
-Jana Ambrošová,BB,miestne,Veľký Krtíš,https://www.transparentneucty.sk/#/ucet/SK8009000000005193470713,,
-Dominika Árvaiová,BB,miestne,Zvolen,https://www.transparentneucty.sk/#/ucet/SK0809000000005192567775,,
-Branislav Baran,BB,miestne,Detva,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8402000000004633005555,,
-Rastislav Bartoš,BB,,,https://ib.fio.sk/ib/transparent?a=2102288163,,
-Martina Brisudová,BB,miestne,Poltár,https://www.transparentneucty.sk/#/ucet/SK4809000000005192823038,,
-Július Buchta,BB,miestne,Revúca,https://www.transparentneucty.sk/#/ucet/SK2909000000005192010520,,
-Slavomír Ciglan,BB,miestne,Detva,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000004631858853,,
-Nadežda Demeterová,BB,miestne,Rimavská Sobota,https://transparentneucty.sk/#/ucet/SK7209000000005192895162,,
-Marian Dorkin,BB, miestne,Tornaľa,https://www.transparentneucty.sk/#/ucet/SK3509000000005192879920,,
-Renáta Endrödyová,BB,miestne,Lučenec,https://ib.fio.sk/ib/transparent?a=2102295662,,
-Erika Györfiová,BB,miestne,Tornaľa,https://www.transparentneucty.sk/#/ucet/SK9209000000005194452525,,
-Stanislav Horník,BB,miestne,Hriňová,https://www.transparentneucty.sk/#/ucet/SK9409000000005147357437,,
-Branislav Jaďuď,BB,miestne,Nová Baňa,https://www.transparentneucty.sk/#/ucet/SK2109000000005192474421,,
-Diana Javorčíková,BB,miestne,Banská Bystrica,https://ib.fio.sk/ib/transparent?a=2802047811,,nezávislý kandidát
-Daniel Karas,BB,miestne,Banská Bystrica,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004644139356,,"Smer - sociálna demokracia, Republika"
-Alena Kazimírová,BB,miestne,Žarnovica,https://www.transparentneucty.sk/#/ucet/SK9309000000005193929774,,
-Peter Kmeť,BB,miestne,Žarnovica,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2902000000004630674956,,
-Zsolt Lajka,BB,miestne,Rimavská Sobota,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9002000000004592717758,,
-Roman Lebeda,BB,miestne,Hnúšťa,https://www.transparentneucty.sk/#/ucet/SK7409000000005193619231,,
-Ondrej Lunter,BB,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK9609000000005187590479,,nezávislý kandidát
-Petra Mazúrová,BB,miestne,Žiar nad Hronom,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2702000000004641591857,,
-Anton Minárik,BB,miestne,Banská Bystrica,https://ib.fio.sk/ib/transparent?a=2402252007,,nezávislý kandidát
-Ján Nosko,BB,miestne,Banská Bystrica,https://www.transparentneucty.sk/#/ucet/SK5709000000005192743142,,nezávislý kandidát
-Rút Olšiaková,BB,miestne,Lučenec,https://www.transparentneucty.sk/#/ucet/SK2809000000005192547336,,
-Mikuláš Pál,BB,miestne,Banská Štiavnica,https://www.transparentneucty.sk/#/ucet/SK5109000000005190626807,,
-Alexandra Pivková,BB,miestne,Lučenec,https://ib.fio.sk/ib/transparent?a=2902266544,,
-Adrian Polóny,BB,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK8709000000005192269145,,nezávislý kandidát
-Peter Rék,BB,miestne,Veľký Krtíš,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5502000000004627927254,,
-Peter Sitor,BB,miestne,Poltár,https://www.transparentneucty.sk/#/ucet/SK6109000000005191998207,,
-Klaudia Vajová,BB,miestne,Veľký Krtíš,https://www.transparentneucty.sk/#/ucet/SK5309000000005193680040,,
-Radim Vojtko,BB,miestne,Žarnovica,https://www.transparentneucty.sk/#/ucet/SK4809000000005189986370,,
-Ján Andrejko,PO,miestne,Prešov,https://ib.fio.sk/ib/transparent?a=2102247038,,nezávislý kandidát
-Daniel Barnišin,PO,miestne,Humenné,https://ib.fio.sk/ib/transparent?a=2202291386,,
-Zuzana Bednárová,PO,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK5109000000005192541102,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,Kresťanskodemokratické hnutie
-Patrik Benčík,PO,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK2609000000005194405892,,nezávislý kandidát
-Artúr Benes,PO,miestne,Prešov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7402000000004624126355,,nezávislý kandidát
-Ján Bync,PO,župné,Prešovský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0702000000004637555853,,nezávislý kandidát
-Jozef Cvoliga,PO,miestne,Levoča,https://www.transparentneucty.sk/#/ucet/SK6209000000005194612242,,
-Anton Danko,PO,miestne,Poprad,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6102000000004615514153,,
-Peter Duda,PO,miestne,Veľká Lomnica,https://www.transparentneucty.sk/#/ucet/SK3109000000005192199343,,
-Martin Eštočák,PO,miestne,Prešov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0902000000004638738053,,nezávislý kandidát
-Pavol Fejerčák,PO,miestne,Kežmarok,https://www.transparentneucty.sk/#/ucet/SK9009000000005194337228,,
-Angela Františková,PO,miestne,Poprad,https://www.transparentneucty.sk/#/ucet/SK7409000000005191121966,,
-Daniela Galandová,PO,miestne,Snina,https://www.transparentneucty.sk/#/ucet/SK4909000000005148626037,,
-Ľubomír Gergeľ,PO,miestne,Humenné,https://ib.fio.sk/ib/transparent?a=2902290026,,
-Pavel Hagyari,PO,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK6809000000005192445639,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,"Starostovia a nezávislí kandidáti, Sme rodina"
-Vladimír Jánošík,PO,miestne,Lipany,https://www.transparentneucty.sk/#/ucet/SK5909000000005194133698,,
-Michal Kaliňák,PO,župné,Prešovský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK9309000000005194199822,,"HLAS - sociálna demokracia, SMER - sociálna demokracia, Slovenská národná strana, SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny"
-Tomáš Kirňak,PO,miestne,Snina,https://www.transparentneucty.sk/#/ucet/SK6309000000005192268898,,
-Miroslav Koščák,PO,miestne,Lendak,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004620401858,,
-Víťazoslav Lukačik,PO,miestne,Medzilaborce,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7302000000004652764653,,
-Ľuboš Micheľ,PO,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK0309000000005193259475,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia
-Slavomír Novák,PO,miestne,Humenné,https://www.transparentneucty.sk/#/ucet/SK2009000000005192794054,,
-Miloslav Olejár,PO,miestne,Bardejov,https://www.transparentneucty.sk/#/ucet/SK8709000000005190016320,,
-Ján Ondrišík,PO,miestne,Poprad,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000004646242357,,
-Lenka Potočná,PO,miestne,Štrba,https://www.transparentneucty.sk/#/ucet/SK4109000000005194125874,,
-Beáta Pribulová,PO,miestne,Sabinov,https://www.transparentneucty.sk/#/ucet/SK3809000000005194421681,,
-Michal Repaský,PO,miestne,Sabinov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3102000000004633030953,,
-Katarína Siváková,PO,miestne,Svidník,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6702000000004651558954,,
-Stanislav Soroka,PO,miestne,Bardejov,https://www.transparentneucty.sk/#/ucet/SK8509000000005194393481,,
-Miloš Stronček,PO,miestne,Svidník,https://www.transparentneucty.sk/#/ucet/SK3509000000005193911806,,
-Tomáš Šimoňák,PO,miestne,Kežmarok,https://www.transparentneucty.sk/#/ucet/SK7109000000005187780176,,
-Vladimír Škára,PO,miestne,Kežmarok,https://www.transparentneucty.sk/#/ucet/SK8109000000005190804941,,
-Miroslav Škvarek,PO,miestne,Svit,https://www.transparentneucty.sk/#/ucet/SK4809000000005193707290,,
-Ján Štovka,PO,miestne,Prešov,https://ib.fio.sk/ib/transparent?a=2302295632,,nezávislý kandidát
-Vladislav Višňovský,PO,miestne,Medzilaborce,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004653169258,,
-Peter Vološin,PO,miestne,Snina,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004637418859,,
-Dominik Babušík,KE,miestne,Košice - Dargovských hrdinov,https://www.transparentneucty.sk/#/ucet/SK3409000000005193407618,,
-Andrej Cpin,KE,miestne,Spišská Nová Ves,https://www.transparentneucty.sk/#/ucet/SK4609000000005194144020,,
-Jaroslav Džunko,KE,miestne,Košice,https://ib.fio.sk/ib/transparent?a=2302299158,,STRANA MODERNÉHO SLOVENSKA (SMS)
-Štefan Ferencsik,KE,miestne,Košice - Sever,https://www.transparentneucty.sk/#/ucet/SK3309000000005194578814,,
-Patrik Géci,KE,miestne,Košice - Juh,https://www.transparentneucty.sk/#/ucet/SK1209000000005193360290,,
-Lukáš Harhaj,KE,miestne,Sečovce,https://www.transparentneucty.sk/#/ucet/SK0509000000005183104509,,nezávislý kandidát
-Marek Hutník,KE,miestne,Košice - Šaca,https://www.transparentneucty.sk/#/ucet/SK6709000000005194627866,,
-Anna Jenčová,KE,miestne,Košice - Nad jazerom,https://www.transparentneucty.sk/#/ucet/SK5509000000005194309825,,
-Milan Kaplan,KE,miestne,Michalovce,https://www.transparentneucty.sk/#/ucet/SK5909000000005186671197,,
-Kolos Kiss,KE,miestne,Veľké Kapušany,https://www.transparentneucty.sk/#/ucet/SK6209000000005194468682,,
-Michal Kotrady,KE,miestne,Smižany,https://www.transparentneucty.sk/#/ucet/SK0709000000005192875671,,
-Matej Kundrát,KE,miestne,Košice - Sever,https://ib.fio.sk/ib/transparent?a=2402114157,,
-Štefan Lasky,KE,miestne,Košice,https://www.transparentneucty.sk/#/ucet/SK9309000000005190196341,,nezávislý kandidát
-Erik Ňarjaš,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK6609000000005194008539,,"Obyčajní ľudia a nezávislé osobnosti (oľano), nova, kresťanská únia (kú), zmena zdola, Za ľudí, Zmena zdola, demokratická únia Slovenska, Nova, Kresťanská únia"
-Oliver Petrík,KE,miestne,Michalovce,https://www.transparentneucty.sk/#/ucet/SK3009000000005192134371,,Socialisti.sk
-Igor Petrovčík,KE,miestne,Košice - Staré Mesto,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8902000000004643669451,,
-Jaroslav Polaček,KE,miestne,Košice,https://www.transparentneucty.sk/#/ucet/SK7609000000005144413229,,"Kresťanskodemokratické hnutie, Sloboda a Solidarita, SME RODINA, NOVA, SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny, Strana rómskej koalície - SRK, DOBRÁ VOĽBA a Umiernení, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA"
-Pavol Priester,KE,miestne,Košice - Staré Mesto,https://ib.fio.sk/ib/transparent?a=2402298208,,
-Marián Sejna,KE,miestne,Sobrance,https://www.transparentneucty.sk/#/ucet/SK0909000000005192562907,,
-Martin Seman,KE,miestne,Košice - Nad jazerom,https://www.transparentneucty.sk/#/ucet/SK9009000000005193038883,,
-Dušana Sobodová,KE,miestne,Košice - Dargovských hrdinov,https://www.transparentneucty.sk/#/ucet/SK9009000000005193999086,,
-Monika Sofiya Soročinová,KE,župné,Košický samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2802299461,,nezávislý kandidát
-Tímea Sotáková,KE,miestne,Michalovce,https://www.transparentneucty.sk/#/ucet/SK2209000000005192148095,,
-Róbert Suja,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7309000000005190311258,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia
-Marcel Šaňa,KE,miestne,Košice - Luník IX,https://www.transparentneucty.sk/#/ucet/SK8509000000005191855767,,
-Andrea Tragalová,KE,miestne,Košice - Juh,https://www.transparentneucty.sk/#/ucet/SK2209000000005194488026,,
-Rastislav Trnka,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708,,"Kresťanskodemokratické hnutie, Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny, Starostovia a nezávislí kandidáti, Šanca, Demokratická strana"
-Miroslav Tuleja,KE,miestne,Košice - Krásna,https://www.transparentneucty.sk/#/ucet/SK7209000000005192393963,,
-Tomáš Vasok,KE,miestne,Košice - Dargovských hrdinov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8002000000004647593554,,
-Marcel Vrchota,KE,miestne,Košice - Západ,https://www.transparentneucty.sk/#/ucet/SK4409000000005194161613,,
-Natália Železníková,KE,miestne,Košice - Šaca,https://www.transparentneucty.sk/#/ucet/SK5509000000005194605384,,
-Peter Podhorský,BB,miestne,Banská Bystrica,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Jozef Sásik,BB,miestne,Banská Bystrica,,,Slovenská ľudová strana Andreja Hlinku
-Jozef Sásik,BB,župné,Banskobystrický samosprávny kraj,,,Slovenská ľudová strana Andreja Hlinku
-Marek Kotleba,BB,župné,Banskobystrický samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Rudolf Huliak,BB,župné,Banskobystrický samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Miroslav Suja,BB,župné,Banskobystrický samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Maroš Čupka,BB,župné,Banskobystrický samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk
-Michal Albert,BB,župné,Banskobystrický samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK4809000000005193974137,Komunistická strana Slovenska
-Marek Modranský,BB,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7009000000005191868453,,nezávislý kandidát
-Rudolf Kusý,BA,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK4109000000005192830924,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063;https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449;https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Sme rodina, Kresťanskodemokratické hnutie, Za ľudí, Dobrá voľba a umiernení, Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny"
-Martin Jakubec,BA,miestne,Bratislava,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - ľudová strana Naše Slovensko
-Miroslav Heredoš,BA,miestne,Bratislava,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,Národná koalícia / nezávislí kandidáti
-Matúš Vallo,BA,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,"Team Bratislava, Progresívne Slovensko, Sloboda a solidarita"
-Milena Minichová,BA,miestne,Bratislava,,,Strana moderného Slovenska (sms)
-Peter Poláček,BA,miestne,Bratislava,,,Hnutie občan národ spravodlivosť
-Andrej Trnovec,BA,miestne,Bratislava,,,Slovenská ľudová strana Andreja Hlinku
-Andrej Trnovec,BA,župné,Bratislavský samosprávny kraj,,,Slovenská ľudová strana Andreja Hlinku
-Miroslav Vetrík,BA,miestne,Bratislava,https://ib.fio.sk/ib/transparent?a=2102255206,,Život - národná strana
-Magdaléna Sulanová,BA,župné,Bratislavský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Juraj Droba,BA,župné,Bratislavský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK7109000000005178313461,"Sloboda a Solidarita, Progresívne Slovensko, Team Bratislava"
-Ján Mažgút,BA,župné,Bratislavský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,"SMER - sociálna demokracia, Slovenská národná strana"
-Ivan Bošňák,BA,župné,Bratislavský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004644770754,,"Demokratická strana, ODS - Občianski demokrati Slovenska, SPOLU - občianska demokracia, ŠANCA"
-Milan Lopašovský,BA,župné,Bratislavský samosprávny kraj,,,STRANA MODERNÉHO SLOVENSKA (SMS)
-Štefan Zima,BA,župné,Bratislavský samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,Republika
-Viliam Novotný,KE,miestne,Košice,https://www.transparentneucty.sk/#/ucet/SK0209000000005193512469,,"SPOLU - občianska demokracia, Demokratická strana, ŠANCA, ODS - Občianski demokrati Slovenska"
-Milan Lesňák,KE,miestne,Košice,,https://www.transparentneucty.sk/?1/#/ucet/SK4209000000005190694287,ZA ĽUDÍ
-Jozef Karabin,KE,miestne,Košice,https://ib.fio.sk/ib/transparent?a=2301472043,,nezávislý kandidát
-Miloslav Klíma,KE,miestne,Košice,https://www.transparentneucty.sk/#/ucet/SK9409000000005190685882,,nezávislý kandidát
-Monika Kováčová,KE,miestne,Košice,https://www.transparentneucty.sk/#/ucet/SK8709000000005192983162,,nezávislý kandidát
-Stanislav Mizík,KE,župné,Košický samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - ľudová strana naše Slovensko
-Erik Ňajraš,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK6609000000005194008539,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,
-Džemal Kodrazi,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7109000000005193952480,https://www.transparentneucty.sk/#/ucet/SK2909000000005186956723,Princíp
-Tomáš Janco,KE,župné,Košický samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,Republika
-Juraj Ďurove,KE,župné,Košický samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk
-Ivan Hriczko,KE,župné,Košický samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2402280905,,Slovenská iniciatíva menšín
-Viliam Zahorčák,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK3709000000005193035084,,"Smer - sociálna demokracia, Sme rodina, Slovenská národná strana, Život - národná strana, Strana moderného Slovenska (sms), Národná koalícia / nezávislí kandidáti"
-Juraj Sinay,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK4409000000005193748199,,nezávislý kandidát
-Vladislav Stanko,KE,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK6809000000005192663986,,nezávislý kandidát
-Erik Blaško,NR,miestne,Nitra,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640#rocne,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Marek Hattas,NR,miestne,Nitra,https://www.transparentneucty.sk/?1/#/ucet/SK9609000000005194268541,https://www.transparentneucty.sk/?1/#/ucet/SK9609000000005194268541,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-Štefan Štefek,NR,miestne,Nitra,https://www.transparentneucty.sk/#/ucet/SK4909000000005191747678,,nezávislý kandidát
-Tibor Csenger,NR,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK1009000000005194001011,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny
-Milan Španír,NR,župné,Nitriansky samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2602342621,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Lukáš Kyselica,NR,župné,Nitriansky samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA"
-Peter Pukan,NR,župné,Nitriansky samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Artur Bekmatov,NR,župné,Nitriansky samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk
-Martin Kusenda,NR,župné,Nitriansky samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2102100167,,nezávislý kandidát
-Renáta Kolenčíková,NR,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7709000000005195000942,,nezávislý kandidát
-Jozef Kubica,PO,miestne,Prešov,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640#rocne,Národná koalícia/nezávislí kandidáti
-Marek Kurta,PO,miestne,Prešov,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,Republika
-Renáta Bobáková,PO,miestne,Prešov,,,Hnutie občan národ spravodlivosť
-František Oľha,PO,miestne,Prešov,https://ib.fio.sk/ib/transparent?a=2901493956,,"Sloboda a solidarita, Progresívne Slovensko, Spolu - občianska demokracia, Demokratická strana, Šanca, Ods - občianski demokrati Slovenska, Dobrá voľba a umiernení"
-Milan Majerský,PO,župné,Prešovský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Kresťanskodemokratické hnutie, SME RODINA, Sloboda a Solidarita, ZA ĽUDÍ"
-Milan Mazurek,PO,župné,Prešovský samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Ingrid Tomková,PO,župné,Prešovský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Michal Biganič,PO,župné,Prešovský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8802000000004664631751,,nezávislý kandidát
-Ľubomír Goliaš,PO,župné,Prešovský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK1109000000005195109024,,Hnutie Občan Národ Spravodlivosť
-Jozef Mihalčin,PO,župné,Prešovský samosprávny kraj,,,SRDCE - SLOVENSKÁ NÁRODNÁ JEDNOTA - strana vlastencov
-Patrícia Reváková,PO,župné,Prešovský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Filip Kuffa,PO,župné,Prešovský samosprávny kraj,,,ŽIVOT - národná strana
-Anton Kyseľ,TN,župné,Trenčiansky samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - Ľudová strana Naše Slovensko
-Miroslav Magdech,TN,župné,Trenčiansky samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Marian Kňažko,TN,župné,Trenčiansky samosprávny kraj,,,Slovenská ľudová strana Andreja Hlinku
-Zdenko Rosina,TT,miestne,Trnava,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Zdenko Rosina,TT,župné,Trnavský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Martin Beluský,TT,župné,Trnavský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci – Ľudová strana Naše Slovensko
-Jozef Viskupič,TT,župné,Trnavský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA; Sloboda a Solidarita; Kresťanskodemokratické hnutie; SPOLU - občianska demokracia; ŠANCA; ODS - Občianski demokrati Slovenska; ZA ĽUDÍ; SME RODINA; Občianska konzervatívna strana; Demokratická strana; Magyar Fórum – Maďarské fórum"
-Veronika Temňáková,TT,župné,Trnavský samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Martin Červenka,TT,župné,Trnavský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000004596324759,,nezávislý kandidát
-Ivan Stanovič,TT,župné,Trnavský samosprávny kraj,,,Hnutie Občan Národ Spravodlivosť
-Pavol Slota,ZA,miestne,Žilina,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,Domov národná strana
-Štefan Zelník,ZA,miestne,Žilina,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3702000000004647357551,,Život - národná strana
-Silvia Bakkery,ZA,miestne,Žilina,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,Republika
-Patrik Groma,ZA,miestne,Žilina,https://www.transparentneucty.sk/#/ucet/SK6509000000005194503257,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474; https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Hlas - sociálna demokracia, Kresťanskodemokratické hnutie"
-Daniela Zemanová,ZA,miestne,Žilina,https://ib.fio.sk/ib/transparent?a=2102337009,,Hnutie občan národ spravodlivosť
-Daniela Zemanová,ZA,župné,Žilinský samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2102337009,,Hnutie občan národ spravodlivosť
-Timotej Bernhauser,ZA,miestne,Žilina,,,nezávislý kandidát
-František Drozd,ZA,župné,Žilinský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,Kotlebovci - ľudová strana naše Slovensko
-Erika Jurinová,ZA,župné,Žilinský samosprávny kraj,,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"Obyčajní ľudia a nezávislé osobnosti (oľano), nova, kresťanská únia (kú), zmena zdola, Sme rodina, Za ľudí, Demokratická strana, Ods ‐ občianski demokrati Slovenska, Šanca, Občianska konzervatívna strana, Sloboda a solidarita"
-Miroslav Urban,ZA,župné,Žilinský samosprávny kraj,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,Republika
-Katarína Boková,ZA,župné,Žilinský samosprávny kraj,https://ib.fio.sk/ib/transparent?a=2602324271,,Slovenské hnutie obrody
-Andrea Starinská,ZA,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK8509000000005195414600,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,Národná koalícia / nezávislí kandidáti
-Oliver Štaudner,NR,župné,Nitriansky samosprávny kraj,,,Slovenská ľudová strana Andreja Hlinku
-Elena Pätoprstá,BA,miestne,Bratislava - Petržalka,https://www.transparentneucty.sk/#/ucet/SK9009000000005149622265,,"Zmena zdola, demokratická únia Slovenska"
-Ján Hrčka ,BA,miestne,Bratislava - Petržalka,,,nezávislý kandidát
-Veronika Biksadská,BA,miestne,Bratislava - Ružinov,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Jana Jányová,BA,miestne,Bratislava - Ružinov,https://www.transparentneucty.sk/#/ucet/SK3309000000005193902918,,"Smer - sociálna demokracia, Republika, Domov národná strana"
-Peter Strapák ,BA,miestne,Bratislava - Ružinov,https://ib.fio.sk/ib/transparent?a=2102267469,,nezávislý kandidát
-Marek Belák,ZA,miestne,Martin,,,nezávislý kandidát
-Martin Kalnický,ZA,miestne,Martin,https://www.transparentneucty.sk/#/ucet/SK8909000000005185698232,,nezávislý kandidát
-Michal Uherčík,ZA,miestne,Martin,https://www.transparentneucty.sk/#/ucet/SK4709000000005190305130,,"Koalícia Skúsme to inak, Sloboda a Solidarita, Občianska konzervatívna strana"
-Peter Dujava,PO,miestne,Poprad,https://ib.fio.sk/ib/transparent?a=2401385529,,nezávislý kandidát
-František Majerský,PO,miestne,Poprad,https://www.transparentneucty.sk/#/ucet/SK6509000000005194404996,,"Kresťanskodemokratické hnutie, Progresívne Slovensko, Sloboda a Solidarita, STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI "
-Marián Saraka ,PO,miestne,Poprad,,,"ODS - Občianski demokrati Slovenska, Demokratická strana, ŠANCA "
-Katarína Macháčková,TN,miestne,Prievidza,,https://www.transparentneucty.sk/#/ucet/SK4809000000005188974466,SPOLU - občianska demokracia
-Jana Michaličková,TN,miestne,Prievidza,https://www.transparentneucty.sk/#/ucet/SK5709000000005194804586,,nezávislý kandidát
-Vladimír Revický,TN,miestne,Prievidza,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA
-Dominika Vážna,TN,miestne,Prievidza,https://www.transparentneucty.sk/#/ucet/SK5509000000005194661159,,HLAS - sociálna demokracia 
-Vladimír Maňka ,BB,miestne,Zvolen,https://www.transparentneucty.sk/#/ucet/SK0209000000005191664522,,nezávislý kandidát
-Samir Moumani,BB,miestne,Zvolen,,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063,DOBRÁ VOĽBA a Umiernení 
-Jozef Dobroslav Pinka ,BB,miestne,Zvolen,,,nezávislý kandidát
-Matej Snopko ,BB,miestne,Zvolen,https://www.transparentneucty.sk/#/ucet/SK4109000000005189449989,,nezávislý kandidát
-Jaroslav Stehlík ,BB,miestne,Zvolen,,,nezávislý kandidát
-Jozef Bača,BA,miestne,Bratislava - Staré Mesto,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,Domov národná strana
-Michal Čambal ,BA,miestne,Bratislava - Staré Mesto,https://www.transparentneucty.sk/#/ucet/SK5809000000005194486020,,Život - národná strana
-Martin Gajdoš ,BA,miestne,Bratislava - Staré Mesto,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6202000000004617265955,,"SPOLU - občianska demokracia, Demokratická strana, ODS - občianski demokrati Slovenska, ŠANCA"
-Zuzana Luhová ,BA,miestne,Bratislava - Staré Mesto,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Milena Minichová,BA,miestne,Bratislava - Staré Mesto,,,STRANA MODERNÉHO SLOVENSKA (SMS)
-Radoslav Števčík ,BA,miestne,Bratislava - Staré Mesto,https://ib.fio.sk/ib/transparent?a=2901464231,,Starostovia a nezávislí kandidáti
-Romana Tabák ,BA,miestne,Bratislava - Staré Mesto,,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,SME RODINA
-Andrej Trnovec ,BA,miestne,Bratislava - Staré Mesto,,,Slovenská ľudová strana Andreja Hlinku
-Andrej Árva,BA,miestne,Bratislava - Nové Mesto,https://www.transparentneucty.sk/#/ucet/SK4309000000005195406141,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,Starostovia a nezávislí kandidáti 
-Radúz Dula ,BA,miestne,Bratislava - Nové Mesto,,,"Demokratická strana, ODS - Občianski demokrati Slovenska, SPOLU - občianska demokracia, ŠANCA"
-Zuzana Rattajová ,BA,miestne,Bratislava - Nové Mesto,https://www.transparentneucty.sk/#/ucet/SK6309000000005194391064,,nezávislý kandidát
-Simona Timková ,BA,miestne,Bratislava - Nové Mesto,,,Demokrati Slovenska
-Rastislav Blaško,BA,mieste,Pezinok,https://ib.fio.sk/ib/transparent?a=4112017091,,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Ján Rigler,BA,miestne ,Stupava,https://www.transparentneucty.sk/#/ucet/SK8409000000005195230609,,HLAS - sociálna demokracia
-Miroslav Turenič,BA,miestne,Bernolákovo,https://www.transparentneucty.sk/#/ucet/SK7209000000005186454459,,nezávislý kandidát
-Zoltán Horváth,TT,miestne,Dunajská Streda,https://www.transparentneucty.sk/#/ucet/SK8609000000005195037446,,nezávislý kandidát
-Tomáš Hudcovič,TT,miestne,Piešťany,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2602000000004658884453,,nezávislý kandidát
-Marián Chovanec,TN,miestne ,Bánovce nad Bebravou,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004659258358,,nezávislý kandidát
-Viktor Wiedermann,TN,miestne,Ilava,https://www.transparentneucty.sk/#/ucet/SK7709000000005195214051,,DOBRÁ VOĽBA a Umiernení
-Peter Bodoki,NR,miestne,Komárno,https://www.transparentneucty.sk/#/ucet/SK8509000000005194733175,,HLAS - sociálna demokracia
-Mário Jamrich,NR,miestne,Vráble,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000004659569551,,Strana moderného Slovenska (sms)
-Oľga Juhász,NR,miestne,Štúrovo,https://www.transparentneucty.sk/#/ucet/SK3509000000005194984820,,nezávislý kandidát
-Marián Tóth,NR,miestne,Tvrdošovce,https://www.transparentneucty.sk/#/ucet/SK6009000000005195250538,,Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny
-Ivan Šaško,ZA,miestne,Tvrdošín,https://www.transparentneucty.sk/#/ucet/SK7609000000005195074001,,nezávislý kandidát
-Branislav Šušolík,ZA,miestne,Bytča,https://www.transparentneucty.sk/#/ucet/SK1709000000005195221921,,nezávislý kandidát
-Branislav Zacharides,ZA,miestne,Vrútky,https://www.transparentneucty.sk/#/ucet/SK5709000000005194275354,,nezávislý kandidát
-Vladislav Lalka,BB,miestne,Nová Baňa,https://www.transparentneucty.sk/#/ucet/SK0309000000005193890654,,nezávislý kandidát
-Štefan Kostilník,PO,miestne,Medzilaborce,https://www.transparentneucty.sk/#/ucet/SK9309000000005194394695,,nezávislý kandidát
-Ľubomír Murín,PO,miestne,Levoča,https://www.transparentneucty.sk/#/ucet/SK1309000000005194175169,,nezávislý kandidát
-Ján Ragan,PO,miestne,Vranov nad Topľou,https://www.transparentneucty.sk/#/ucet/SK5109000000005195108304,,nezávislý kandidát
-Pavol Džurina,KE,miestne,Sobrance,https://www.transparentneucty.sk/#/ucet/SK8209000000005195175355,,nezávislý kandidát
-Róbert Filko,KE,miestne,Sečovce,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004659990151,,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA"
-Alena Hiráková,KE,miestne,Sobrance,https://ib.fio.sk/ib/transparent?a=2502325605,,Slovenská národná strana
-Ján Sklár,KE,miestne,Sobrance,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559,,nezávislý kandidát
-Miroslava Szitová,KE,miestne,Smižany,https://www.transparentneucty.sk/#/ucet/SK5009000000005194655429,,"Kresťanskodemokratické hnutie, Sloboda a solidarita "
-Richard Gajdošík,TN,miestne,Považská Bystrica,,,Socialisti.sk
-Marian Kňažko ,TN,miestne,Považská Bystrica,,,nezávislý kandidát
-Milan Oršula ,TN ,miestne,Považská Bystrica,,,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA, ZA ĽUDÍ, Demokratická strana "
-Jaroslav Ševčík ,TN,miestne,Považská Bystrica,https://www.transparentneucty.sk/#/ucet/SK8109000000005194412953,,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI 
-Dušan Drotár ,KE,miestne,Košice - Západ,https://www.transparentneucty.sk/#/ucet/SK5509000000005194159863,,"Spolu - občianska demokracia, Demokratická strana, Šanca, Ods - občianski demokrati Slovenska"
-Matúš Lukáč ,KE,miestne,Košice - Západ,https://www.transparentneucty.sk/#/ucet/SK6209000000005194892184,,Hlas - sociálna demokracia
-Ladislav Rovinský,KE,miestne,Košice - Západ,https://ib.fio.sk/ib/transparent?a=2402313076,,"Demokrati Slovenska, Strana rómskej koalície - srk, Sme rodina, Nova"
-Andrej Sitkár ,KE,miestne,Košice - Západ,,,"Smer -sociálna demokracia, Slovenská národná strana, Život - národná strana, Strana moderného Slovenska (sms), Národná koalícia / nezávislí kandidáti"
-Beáta Zemková ,KE,miestne,Košice - Západ,https://www.transparentneucty.sk/#/ucet/SK8409000000005195238272,,nezávislý kandidát
-Eva Poleracká,NR,miestne,Nové Zámky,,,"Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja (Tím Kraj Nitra), Magyar Fórum - Maďarské fórum, Občianska konzervatívna strana (OKS)"
-Jozef Bobík,KE,miestne,Michalovce,,,"Kresťanská únia, NOVA, ZA ĽUDÍ, ZMENA ZDOLA, Demokratická únia Slovenska "
-Miroslav Dufinec,KE,miestne ,Michalovce,https://www.transparentneucty.sk/#/ucet/SK3309000000005193266501,,"SMER -sociálna demokracia, Sme rodina, Slovenská národná strana, Strana moderného Slovenska (sms)"
-Dušan Goda,KE,miestne,Michalovce,https://www.transparentneucty.sk/#/ucet/SK7409000000005195228461,,nezávislý kandidát
-Erik Sibal ,KE,miestne ,Michalovce,https://www.transparentneucty.sk/#/ucet/SK0509000000005194574565,,nezávislý kandidát
-Martin Zaťovič,BA,miestne,Bratislava - Dúbravka,https://www.transparentneucty.sk/#/ucet/SK6209000000005192055710,,Strana obcí a miest - som Slovensko
-Ľubica Cintulová,BA,miestne,Bratislava - Karlova Ves,,,Hnutie občan národ spravodlivosť
-Dana Čahojová,BA,miestne,Bratislava - Karlova Ves,https://www.transparentneucty.sk/#/ucet/SK3009000000005149256103,,Starostovia a nezávislí kandidáti
-Ján Krošlák ,BA,miestne,Bratislava - Karlova Ves,,,"Sme rodina, ZA ĽUDÍ, Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny"
-Branislav Rusnák ,BA,miestne,Bratislava - Karlova Ves,,,Národná koalícia / nezávislí kandidáti 
-Pavol Bečarik ,KE,miestne ,Spišská Nová Ves,https://www.transparentneucty.sk/#/ucet/SK8009000000005193597589,,"Slovenská národná strana, HLAS – sociálna demokracia, SMER – sociálna demokracia, Sme rodina"
-Zlatica Dzurillová,KE,miestne,Spišská Nová Ves,,,Národná koalícia / nezávislí kandidáti
-Ildikó Bauer,NR,miestne,Komárno,https://www.transparentneucty.sk/#/ucet/SK6109000000005191915854,,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny
-Ľubica Burešová,PO,miestne,Humenné,,,Sme rodina
-Miloš Meričko,PO,miestne,Humenné,https://www.transparentneucty.sk/#/ucet/SK2509000000005194349747,,nezávislý kandidát
-Stanislav Onderišin,PO,miestne,Humenné,https://ib.fio.sk/ib/transparent?a=2002260470,,"SMER - sociálna demokracia, Život - národná strana, Slovenská národná strana"
-Mária Ferková,PO,miestne,Bardejov,https://www.transparentneucty.sk/#/ucet/SK3909000000005178771198,,NEKA
-Boris Hanuščák ,PO,miestne,Bardejov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3002000000004644674754,,"HLAS - sociálna demokracia, SMER - sociálna demokracia, Slovenská národná strana "
-Igor Éder,NR,miestne,Levice,,,"HLAS - sociálna demokracia, SME RODINA, DOBRÁ VOĽBA a Umiernení"
-Igor Kúdela ,NR,miestne,Levice,https://ib.fio.sk/ib/transparent?a=2302325045,,"ZMENA ZDOLA, Demokratická únia Slovenska "
-Ervin Szalma ,NR,miestne,Levice,https://ib.fio.sk/ib/transparent?a=2802283427,,nezávislý kandidát
-Petra Števková ,NR,miestne,Levice,,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-Peter Jakubove,BB,miestne,Lučenec,,,nezávislý kandidát
-Michal Kelemen,BB,miestne,Lučenec,,,SOLIDARITA – Hnutie pracujúcej chudoby
-Juraj Čop,KE,miestne,Košice - Dargovských hrdinov,,,SME RODINA
-Vladislav Stanko,KE,miestne,Košice - Dargovských hrdinov,,,nezávislý kandidát
-Pavol Vehéc,KE,miestne,Košice - Dargovských hrdinov,,,PRINCÍP
-Miroslav Holzman,BA,miestne,Pezinok,https://ib.fio.sk/ib/transparent?a=2502324469,,nezávislý kandidát
-Božena Mizerová,BA,miestne,Pezinok ,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000004663082957,,nezávislý kandidát
-Peter Baláž,NR,miestne,Topoľčany,https://www.transparentneucty.sk/#/ucet/SK7209000000005192861309,,Hlas - sociálna demokracia 
-Mária Bezáková,NR,miestne,Topoľčany,,,Republika
-Igor Hupka,NR,miestne,Topoľčany,https://www.transparentneucty.sk/#/ucet/SK3809000000005191778140,,nezávislý kandidát
-Andrej Bojczún,BA,miestne,Bratislava - Podunajské Biskupice,https://www.transparentneucty.sk/#/ucet/SK9609000000005194873821,,nezávislý kandidát
-Martina Frohlich Činovská ,BA,miestne,Bratislava - Podunajské Biskupice,,,"STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI, DOBRÁ VOĽBA a Umiernení"
-Pavol Kubiš,BA,miestne,Bratislava - Podunajské Biskupice,https://www.transparentneucty.sk/#/ucet/SK9309000000005192093661,,Demokratická strana
-Zoran Kupkovič,BA,miestne,Bratislava - Podunajské Biskupice,https://ib.fio.sk/ib/transparent?a=2702306353,,HLAS - sociálna demokracia 
-Zoltán Pék,BA,miestne,Bratislava - Podunajské Biskupice,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3102000000004642226456,,"Strana obcí a miest - SOM SLOVENSKO, SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny"
-Boris Vereš,BA,miestne,Bratislava - Podunajské Biskupice,,,"SME RODINA, Kresťanskodemokratické hnutie, ZA ĽUDÍ"
-Martin Cifra,TT,miestne,Piešťany,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6502000000004660911051,,Starostovia a nezávislí kandidáti
-Martin Graus,TT,miestne,Piešťany,,,nezávislý kandidát
-Martin Madlo,TT,miestne,Piešťany,https://www.transparentneucty.sk/#/ucet/SK6309000000005192497818,,Hlas – sociálna demokracia
-Jozef Stupavský,TT,miestne,Piešťany,,,Národná koalícia / nezávislí kandidáti
-Zuzana Svrčeková,TT,miestne,Piešťany,https://www.transparentneucty.sk/#/ucet/SK4509000000005194651348,,nezávislý kandidát
-Alžbeta Svrčková,TT,miestne,Piešťany,,,Skúsme to inak
-Ján Bednárik,ZA,miestne,Ružomberok,https://www.transparentneucty.sk/#/ucet/SK2009000000005190414353,,Kresťanskodemokratické hnutie
-Petronela Ilavská,ZA,miestne,Ružomberok,,,Hnutie Občan Národ Spravodlivosť
-Rudolf Ivičič,BA,miestne,Bratislava - Rača,,,SRDCE - SLOVENSKÁ NÁRODNÁ JEDNOTA - strana vlastencov
-Teodor Žitný,BA,miestne,Bratislava - Rača,,,NÁRODNÁ KOALÍCIA/NEZÁVISLÍ KANDIDÁTI
-Strana obcí a miest - SOM SLOVENSKO,PS,,,https://www.transparentneucty.sk/#/ucet/SK1609000000005195176737,,
-Tomáš Káčer,BA,miestne,Rovinka,https://www.transparentneucty.sk/#/ucet/SK8609000000005195288288,,nezávislý kandidát
-Jozef Krúpa,BA,miestne,Bratislava - Záhorská Bystrica,https://www.transparentneucty.sk/#/ucet/SK9209000000005189655002,,Strana obcí a miest – SOM SLOVENSKO
-František Zajíček,BA,miestne,Rovinka,https://www.transparentneucty.sk/#/ucet/SK3709000000005195037649,,nezávislý kandidát
-Ctibor Melich,NR,miestne,Hurbanovo,https://www.transparentneucty.sk/#/ucet/SK6409000000005194581263,,nezávislý kandidát
-Miloš Hucík,ZA,miestne,Trstená,https://www.transparentneucty.sk/#/ucet/SK2509000000005195433043,,nezávislý kandidát
-Miroslav Mazúr,ZA,miestne,Vrútky,https://www.transparentneucty.sk/#/ucet/SK3309000000005195377803,,nezávislý kandidát
-Ľubomíra Benešová,BB,miestne,Revúca,https://www.transparentneucty.sk/#/ucet/SK4709000000005191064543,,nezávislý kandidát
-Martin Pliešovský,BB,miestne,Hnúšťa,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3002000000004657789251,,Slovenská národná strana
-Martin Buzáš,PO,miestne,Vranov nad Topľou,https://www.transparentneucty.sk/#/ucet/SK2509000000005194185914,,nezávislý kandidát
-Lukáš Chovaňák,PO,miestne,Spišská Belá,https://www.transparentneucty.sk/#/ucet/SK3909000000005195400102,,nezávislý kandidát
-Viliam Kall,PO,miestne,Veľký Šariš,https://ib.fio.sk/ib/transparent?a=2202302145,,nezávislý kandidát
-Michal Djordjevič,KE,miestne,Košice - Staré Mesto,https://www.transparentneucty.sk/#/ucet/SK7009000000005182906235,,nezávislý kandidát
-Karol Pataky,KE,miestne,Kráľovský Chlmec,https://www.transparentneucty.sk/#/ucet/SK3709000000005192409822,,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny
-Michal Rečka,KE,miestne,Čaňa,https://www.transparentneucty.sk/#/ucet/SK9709000000005195399543,,Smer - sociálna demokracia
-Marek Čižmár,KE,miestne,Trebišov,https://www.transparentneucty.sk/#/ucet/SK2409000000005149898448,,nezávislý kandidát
-Roland Hakszer,TT,miestne,Dunajská Streda ,https://www.transparentneucty.sk/#/ucet/SK9409000000005194784423,,nezávislý kandidát
-Tibor Iró ,TT,miestne,Dunajská Streda ,,,SME RODINA
-Tomáš Stredl,TT,miestne,Dunajská Streda ,https://ib.fio.sk/ib/transparent?a=2302084106,,nezávislý kandidát
-Bohdan Fidyk,ZA,miestne,Čadca,,,nezávislý kandidát
-Milan Gura,ZA,miestne,Čadca,https://www.transparentneucty.sk/#/ucet/SK5409000000005149572376,,nezávislý kandidát
-Peter Staškovan ,ZA,miestne,Čadca,,,NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI
-Xénia Šurhaňáková,ZA,miestne,Čadca,,,nezávislý kandidát
-Jozef Vražel ,ZA,miestne,Čadca,https://www.transparentneucty.sk/#/ucet/SK8209000000005193566707,,"SMER - sociálna demokracia, REPUBLIKA"
-Peter Buchlák,KE,miestne,Košice - Nad Jazerom,,,"DS, ODS, SPOLU, ŠANCA"
-Martina Edery Lysina,KE,miestne,Košice - Nad Jazerom,https://www.transparentneucty.sk/#/ucet/SK1909000000005195695051,,PATRIOT
-Lenka Kovačevičová,KE,miestne,Košice - Nad Jazerom,https://www.transparentneucty.sk/#/ucet/SK6809000000005169500580,,STANK
-Milan Staňo,TN,miestne,Dubnica nad Váhom,,,nezávislý kandidát
-Ladislav Lörinc,KE,miestne,Košice - Sídlisko KVP,https://www.transparentneucty.sk/#/ucet/SK2409000000005194468105,,nezávislý kandidát
-Odrej Štefik,KE,miestne,Košice - Sídlisko KVP,https://www.transparentneucty.sk/#/ucet/SK2009000000005194120723,,"SMER - sociálna demokracia, Slovenská národná strana, ŽIVOT - národná strana, STRANA MODERNÉHO SLOVENSKA (SMS), NÁRODNÁ KOALÍCIA / NEZÁVISLÍ KANDIDÁTI"
-Jaroslav Bagačka,BB,miestne,Rimavská Sobota,https://www.transparentneucty.sk/#/ucet/SK3009000000005193158594,,"Koalícia Kresťanskodemokratické hnutie, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA, Sloboda a Solidarita, ZA ĽUDÍ, SPOLU - občianska demokracia, Progresívne Slovensko"
-Ivan Hazucha,BB,miestne,Rimavská Sobota,https://www.transparentneucty.sk/#/ucet/SK6009000000005194733140,,"Koalícia SMER - sociálna demokracia,REPUBLIKA, HLAS - sociálna demokracia"
-Csaba Horváth ,BB,miestne,Rimavská Sobota,,,PRINCÍP
-Jozef Šimko,BB,miestne,Rimavská Sobota,https://www.transparentneucty.sk/#/ucet/SK5109000000005194233461,,nezávislý kandidát
-Vladimír Kozák,KE,miestne,Košice - Juh,https://www.transparentneucty.sk/#/ucet/SK4509000000005194216303,,"Smer - sociálna demokracia, Slovenská národná strana, Život - národná strana, Strana moderného Slovenska (sms), Národná koalícia / nezávislí kandidáti"
-Peter Múdry,KE,miestne,Košice - Juh,https://ib.fio.sk/ib/transparent?a=2202297278,,"Kresťanskodemokratické hnutie, Sloboda a solidarita, Sme rodina, Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny, Nova, Dobrá voľba a umiernení, Za ľudí"
-Anna Súkeníková,KE,miestne,Košice - Juh,,,nezávislý kandidát
-Tibor Pápeš,NR,miestne,Šaľa,https://www.transparentneucty.sk/#/ucet/SK6209000000005194137912,,nezávislý kandidát
-Martin Kuruc,BA,miestne,Bratislava - Vrkúňa ,https://www.transparentneucty.sk/#/ucet/SK8609000000005188670075,,nezávislý kandidát
-Miloš Ihnát,KE,miestne,Košice - Sídlisko Ťahanovce,https://www.transparentneucty.sk/#/ucet/SK5009000000005149353325,,nezávislý kandidát
-Ján Kováčik,KE,miestne,Košice - Sídlisko Ťahanovce,,,"koalícia SMER – sociálna demokracia, Slovenská národná strana, ŽIVOT - národná strana, STRANA MODERNÉHO SLOVENSKA (SMS)"
-Ján Pavúk,KE,miestne,Košice - Sídlisko Ťahanovce,https://www.transparentneucty.sk/#/ucet/SK8509000000005195481336,,"koalícia Kresťanskodemokratické hnutie, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA, Sloboda a Solidarita, SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny, NOVA, DOBRÁ VOĽBA a Umiernení"
-Emil Petrvalský,KE,miestne,Košice - Sídlisko Ťahanovce,,,"koalícia SPOLU - občianska demokracia, Demokratická strana, ŠANCA, ODS - Občianski demokrati Slovenska "
-Zuzana Slivenská ,KE,miestne,Košice - Sídlisko Ťahanovce,https://www.transparentneucty.sk/#/ucet/SK6509000000005192216967,,nezávislý kandidát
-Ivan Baranovič,TT,miestne,Hlohovec,https://www.transparentneucty.sk/#/ucet/SK4709000000005193285649,,nezávislý kandidát
-Miroslav Kollár,TT,miestne,Hlohovec ,,,Spolu - občianska demokracia
-Dušan Badinský,BA,miestne,Senec,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5202000000004628769753,,nezávislý kandidát
-Pavol Kvál,BA,miestne,Senec,https://www.transparentneucty.sk/#/ucet/SK4409000000005193260871,,nezávislý kandidát
-Andrea Palcová,BA,miestne,Senec,https://www.transparentneucty.sk/#/ucet/SK6109000000005192263405,,nezávislý kandidát
-Ján Juhász,KE,miestne,Košice - Staré Mesto,https://ib.fio.sk/ib/transparent?a=2902235625,,"SPOLU - občianska demokracia, Demokratická strana, ŠANCA, ODS - Občianski demokrati Slovenska"
-Ján Ragan ,KE,miestne,Košice - Staré Mesto,,,PRINCÍP
-Tomáš Abel ,BB,miestne,Brezno,,,nezávislý kandidát
-Michal Dolňan,BB,miestne,Brezno,https://ib.fio.sk/ib/transparent?a=2802103641,,nezávislý kandidát
-Vladimír Strmeň,BB,miestne,Brezno,,,Národná koalícia/nezávislí kandidáti
-Martin Džačovský,TT,miestne,Senica,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8402000000004664456156,,nezávislý kandidát
-Branislav Grimm,TT,miestne,Senica,,,nezávislý kandidát
-Adam Jakubáč,TT,miestne,Senica,,,nezávislý kandidát
-Dana Kristiník ,TT,miestne,Senica,,,nezávislý kandidát
-Juraj Moravčík ,TT,miestne,Senica,https://www.transparentneucty.sk/#/ucet/SK0809000000005194104643,,"ŽIVOT - národná strana, HLAS - sociálna demokracia"
-Mária Cagalová,TN,miestne,Nové Mesto nad Váhom,,,nezávislý kandidát
-Miroslav Hlinka,TN,miestne,Nové Mesto nad Váhom,,,nezávislý kandidát
-Ľubomír Karaba ,TN,miestne,Nové Mesto nad Váhom,,,"koalícia Slovenská demokratická a kresťanská únia – Demokratická strana, Sloboda a Solidarita "
-Jozef Trtenský,TN,miestne,Nové Mesto nad Váhom,,,nezávislý kandidát
-Štefan Benko,KE,miestne,Košice - Sever,,,REPUBLIKA
-František Ténai,KE,miestne,Košice - Sever,https://ib.fio.sk/ib/transparent?a=2001496545,,"Kresťanskodemokratické hnutie, Sloboda a Solidarita, SME RODINA, SZÖVETSÉG – Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny, NOVA, Strana rómskej koalície - SRK, DOBRÁ VOĽBA a Umiernení, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA"
-Otto Múčka,BA,miestne,Malacky,https://www.transparentneucty.sk/#/ucet/SK0409000000005194745109,,nezávislý kandidát
-Jaroslav Sedlák,BA,miestne,Malacky,https://www.transparentneucty.sk/#/ucet/SK7009000000005194671074,,Národná koalícia / nezávislí kandidáti
-Tomáš Kriňák,PO,miestne,Snina,,,"Hlas – sociálna demokracia, Sme rodina"
-Roland Varga,PO,miestne,Snina,https://www.transparentneucty.sk/#/ucet/SK4009000000005195247697,,Národná koalícia/nezávislí kandidáti
-Jozef Slosarčík,ZA,miestne,Dolný Kubín,,,NÁRODNÁ KOALÍCIA/NEZÁVISLÍ KANDIDÁTI 
-Pavol Burdiga,KE,miestne,Rožňava,https://www.transparentneucty.sk/#/ucet/SK3309000000005193776333,,nezávislý kandidát
-Michal Domik,KE,miestne,Rožňava,https://www.transparentneucty.sk/#/ucet/SK1109000000005152974261,,nezávislý kandidát
-Igor Senčák,BA,miestne,Rovinka,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3402000000004644213253,,nezávislý kandidát
-Tibor Szalay,TT,miestne,Galanta,https://www.transparentneucty.sk/#/ucet/SK4009000000005194685388,,nezávislý kandidát
-Martin Mikuš,TN,miestne,Bánovce nad Bebravou,https://www.transparentneucty.sk/#/ucet/SK5409000000005194974390,,Slovenská národná strana
-Árpád Horváth,NR,miestne,Kolárovo,https://www.transparentneucty.sk/#/ucet/SK2509000000005195306458,,Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny
-Miroslav Mariak,ZA,miestne,Raková,https://www.transparentneucty.sk/#/ucet/SK6809000000005195213534,,nezávislý kandidát
-Pavol Balážik,BB,miestne,Revúca,https://ib.fio.sk/ib/transparent?a=2202335094,,nezávislý kandidát
-Ján Šufliarsky,BB,miestne,Detva,https://www.transparentneucty.sk/#/ucet/SK6109000000005195264876,,nezávislý kandidát
-Viktória Valachovičová,BB,miestne,Nová Baňa,https://ib.fio.sk/ib/transparent?a=2902327132,,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti, NOVA, Kresťanská únia, ZMENA ZDOLA, Sloboda a Solidarita, Kresťanskodemokratické hnutie, Občianska konzervatívna strana, ZA ĽUDÍ"
-Michal Biganič,PO,miestne,Stará Ľubovňa,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8802000000004664631751,,99 % - občiansky hlas
-Marta Britaňáková,PO,miestne,Spišská Belá,https://www.transparentneucty.sk/#/ucet/SK4609000000005195302588,,nezávislý kandidát
-Róbert Šándor,KE,miestne,Čaňa,https://ib.fio.sk/ib/transparent?a=2402335072,,nezávislý kandidát
-Cyril Crkoň,TN,miestne,Púchov,https://www.transparentneucty.sk/#/ucet/SK2009000000005191890984,,nezávislý kandidát
-Roman Hvizdák,TN,miestne,Púchov,https://www.transparentneucty.sk/#/ucet/SK5609000000005191939709,,nezávislý kandidát
-Marián Michalec,TN,miestne ,Púchov,https://www.transparentneucty.sk/#/ucet/SK0309000000005188093255,,nezávislý kandidát
-Peter Antal,BB,mietsne,Žiar nad Hronom,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2702000000004649723658,,nezávislý kandidát
-Viliam Ciberej,TN,miestne,Handlová,,,Národná koalícia / nezávislí kandidáti
-Branislav Ondruška ,TN,miestne,Handlová,,,Domov národná strana
-Peter Smorek,TN,miestne,Handlová,,,Život - národná strana
-Ján Spevár,TN,miestne,Handlová,https://www.transparentneucty.sk/#/ucet/SK7009000000005192134718,,nezávislý kandidát
-Robert Šuník,TN,miestne,Handlová,https://www.transparentneucty.sk/#/ucet/SK6009000000005194136784,,nezávislý kandidát
-Ľuboš Tomko,PO,miestne,Stará Ľubovňa,,,nezávislý kandidát
-Tomáš Karmažín,TT,miestne,Sereď,,,DOBRÁ VOĽBA a Umiernení; STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI
-Vladislav Horňák,TT,miestne,Skalica,https://www.transparentneucty.sk/#/ucet/SK7209000000005169640479,,nezávislý kandidát
-Ivan Kazinota,TT,miestne,Skalica,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2902000000004645793958,,nezávislý kandidát
-Anna Mierna ,TT,miestne,Skalica,,,"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA, Kresťanskodemokratické hnutie, Sloboda a Solidarita"
-Martin Štepán,TT,miestne,Skalica,https://www.transparentneucty.sk/#/ucet/SK7609000000005193743646,,nezávislý kandidát
-Ján Ferenčák,PO,miestne,Kežmarok,https://www.transparentneucty.sk/#/ucet/SK5009000000005194254334,,"HLAS – sociálna demokracia, SMER – sociálna demokracia, Slovenská národná strana"
-Karol Gurka ,PO,miestne,Kežmarok,https://www.transparentneucty.sk/#/ucet/SK6409000000005190708829,,nezávislý kandidát
-Lukáš Baňacký,BA,miestne,Bratislava - Lamač,https://www.transparentneucty.sk/#/ucet/SK9809000000005194406633,,Strana obcí a miest – SOM SLOVENSKO
-Ernest Németh,BA,miestne,Dunajská Lužná,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004665428456,,Kresťanskodemokratické hnutie 
-Ildikó Basternák,NR,miestne,Hurbanovo,https://www.transparentneucty.sk/#/ucet/SK0209000000005195510184,,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny
-Peter Petrikán,KE,miestne,Veľké Kapušany,https://www.transparentneucty.sk/#/ucet/SK2809000000005194949056,,nezávislý kandidát
-Matej Fabšík,ZA,miestne,Kysucké Nové Mesto,https://ib.fio.sk/ib/transparent?a=2901400166,,nezávislý kandidát
-Marian Mihalda,ZA,miestne,Kysucké Nové Mesto,https://www.transparentneucty.sk/#/ucet/SK2109000000005194928327,,nezávislý kandidát
-Vladimír Adamkovič,PO,miestne,Levoča,https://www.transparentneucty.sk/#/ucet/SK7309000000005195412779,,nezávislý kandidát
-Robert Novotný,PO,miestne,Levoča,,,nezávislý kandidát
-Miroslav Vilkovský,PO,miestne,Levoča,,,nezávislý kandidát
-Jozef Výbošťok,BB,miestne,Detva,https://ib.fio.sk/ib/transparent?a=2101164935,,nezávislý kandidát
-Marek Hrabčák,PO,miestne,Sabinov,https://www.transparentneucty.sk/#/ucet/SK8709000000005193554298,,nezávislý kandidát
-Marta Balážová,NR,miestne,Zlaté Moravce,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5402000000004641278158,,"ZA ĽUDÍ, ODS – Občianski demokrati Slovenska, Občianska konzervatívna strana"
-Roman Geiszler,NR,miestne,Zlaté Moravce,,,nezávislý kandidát
-Marian Grznár,NR,miestne,Zlaté Moravce,,,SME RODINA
-Dušan Husár,NR,miestne,Zlaté Moravce,https://www.transparentneucty.sk/#/ucet/SK7809000000005194412910,,"SMER – sociálna demokracia, HLAS – sociálna demokracia, Slovenská národná strana"
-Miroslav Minárčik,ZA,miestne,Bytča,,,HLAS – sociálna demokracia
-Ján Sekáč,ZA,miestne,Bytča,,,Republika
-Jozef Šutara,ZA,miestne,Bytča,,,nezávislý kandidát
-Dalibor Surkoš,BB,miestne,Veľký Krtíš,,,"Sme rodina, Szövetség - Magyarok. Nemzetiségek. Regiók. | Aliancia - Maďari. národnosti. regióny, Starostovia a nezávislí kandidáti, Strana moderného Slovenska (sms)"
-Peter Krupa,TN,miestne,Nová Dubnica,,,Kotlebovci - Ľudová strana Naše Slovensko
-Peter Marušinec,TN,miestne,Nová Dubnica,https://www.transparentneucty.sk/#/ucet/SK6009000000005192207163,,"HLAS - sociálna demokracia, SMER - sociálna demokracia, Slovenská národná strana"
-Slavomír Borovský,KE,miestne,Moldava nad Bodvou,,,nezávislý kandidát
-Ján Csala,KE,miestne,Moldava nad Bodvou,https://www.transparentneucty.sk/#/ucet/SK2209000000005192833594,,SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny.
-Marcela Ivančová,PO,miestne,Svidník,https://www.transparentneucty.sk/#/ucet/SK0709000000005193916287,,"HLAS – sociálna demokracia, Sme rodina, Kresťanskodemokratické hnutie"
-Ján Vook,PO,miestne,Svidník,https://www.transparentneucty.sk/#/ucet/SK1109000000005194172101,,nezávislý kandidát
-Marcela Tabačeková,BA,miestne,Rovinka,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000004670999958,,"SPOLU, Demokratická strana, ODS - Občianski demokrati Slovenska, ŠANCA"
-Iván Fenes,TT,miestne,Gabčíkovo,https://www.transparentneucty.sk/#/ucet/SK1209000000005194214957,,Szövetség – Magyarok. Nemzetiségek. Regiók. | Aliancia – Maďari. národnosti. regióny
-Peter Horník,TT,miestne,Sládkovičovo,https://www.transparentneucty.sk/#/ucet/SK8309000000005194753096,,nezávislý kandidát
-Ľuboš Ilenčík,TN,miestne,Nové Mesto nad Váhom,https://www.transparentneucty.sk/#/ucet/SK8609000000005195567260,,nezávislý kandidát
-Marián Plevko,ZA,miestne,Oščadnica,https://www.transparentneucty.sk/#/ucet/SK4009000000005148021695,,nezávislý kandidát
-Iveta Ružeková,PO,miestne,Svit,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6702000000004652861955,,Národ a Spravodlivosť – naša strana
-Dominik Frajkor,KE,miestne,Sečovce,https://www.transparentneucty.sk/#/ucet/SK5809000000005193325997,,nezávislý kandidát
-Ondrej Brendza,PO,miestne,Stropkov,https://www.transparentneucty.sk/#/ucet/SK4809000000005193304352,,nezávislý kandidát
-Zigmund Doboš,PO,miestne,Stropkov,,,Kresťanská únia 
-Eduard Kočiš,PO,miestne,Stropkov,,,"SMER – sociálna demokracia, REPUBLIKA"
-Tibor Palúch ,BB,miestne,Fiľakovo,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7902000000004650853257,,Hlas - sociálna demokracia
-Eugen Szabó,NR,miestne,Štúrovo,,,nezávislý kandidát
-Nadežda Babiaková,BB,miestne,Banská Štiavnica,https://www.transparentneucty.sk/#/ucet/SK7909000000005190741733,,"Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana, Strana moderného Slovenska (sms), Sme rodina, Republika"
-Štefan Mičura,BB,miestne,Banská Štiavnica,https://www.transparentneucty.sk/#/ucet/SK9209000000005187453490,,nezávislý kandidát
-Marek Oremus,NR,miestne,Šurany ,https://www.transparentneucty.sk/#/ucet/SK4309000000005193579049,,Smer - sociálna demokracia
-Ján Štark,NR,miestne,Šurany ,https://www.transparentneucty.sk/#/ucet/SK7809000000005193553199,,nezávislý kandidát
-Ján Chalabala,BA,miestne,Modra,,,Komunistická strana Slovenska
-Lukáš Lepáček,ZA,miestne,Tvrdošín,https://ib.fio.sk/ib/transparent?a=2302307234,,
-Lukáš Bagin,KE,miestne,Krompachy,https://www.transparentneucty.sk/#/ucet/SK1409000000005195302000,,nezávislý kandidát
-Pavol Benedikt Benedik,KE,miestne,Krompachy,https://ib.vub.sk/pch/transparentne-ucty?iban=SK1702000000004662520951,,Princíp
-Dárius Dubiňák,KE,miestne,Krompachy,https://www.transparentneucty.sk/#/ucet/SK3909000000005195017437,,Spolu - občianska demokracia
-Slavomír Ľach,KE,miestne,Krompachy,,,Národná koalícia / nezávislí kandidáti
-Rudolf Mihalik,KE,miestne,Krompachy,,,nezávislý kandidát
-Andrej Radena ,TN,miestne,Stará Turá,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7602000000004655824658,,nezávislý kandidát
-Michal Hohoš,KE,miestne,Sečovce,https://www.transparentneucty.sk/#/ucet/SK8809000000005192609015,,nezávislý kandidát
-Marcel Hurčík,KE,miestne,Sečovce,,,nezávislý kandidát
-Marián Vanci,KE,miestne,Sečovce,https://ib.fio.sk/ib/transparent?a=2902327597,,nezávislý kandidát
-Ernest Taldík,NR,miestne,Vráble,,,nezávislý kandidát
-Alexander Egrecký,TT,miestne,Veľký Meder,,,nezávislý kandidát
-Gergő Holényi,TT,miestne,Veľký Meder,https://www.transparentneucty.sk/#/ucet/SK0409000000005195892231,,nezávislý kandidát
-Zalán Kórósi,TT,miestne,Veľký Meder,https://www.transparentneucty.sk/#/ucet/SK1609000000005195095451,,nezávislý kandidát
-Samuel Lojkovič,TT,miestne,Veľký Meder,,,nezávislý kandidát
-Marian Soóky,TT,miestne,Veľký Meder,https://www.transparentneucty.sk/#/ucet/SK1109000000005195691800,,nezávislý kandidát
-Juraj Vajai,TT,miestne,Veľký Meder,https://www.transparentneucty.sk/#/ucet/SK4009000000005194940983,,Strana obcí a miest - som Slovensko
-Peter Paška,TT,miestne,Galanta,https://www.transparentneucty.sk/#/ucet/SK5709000000005195295891,,nezávislý kandidát
-Marek Petráš,BA,miestne,Stupava,,,SME RODINA a ZA ĽUDÍ
-Peter Novisedlák,BA,miestne,Stupava,https://www.transparentneucty.sk/#/ucet/SK1109000000005193515993,,Strana obcí a miest - SOM SLOVENSKO
-Boris Bízek,TT,miestne,Holíč,https://www.transparentneucty.sk/#/ucet/SK5209000000005194409498,,nezávislý kandidát
-Juraj Bakoš,TN,miestne,Myjava,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8802000000004638441751,,nezávislý kandidát
-Ľubomír Halabrín,TN,miestne,Myjava,,,Hlas – sociálna demokracia
-Milan Holič,TN,miestne,Myjava,,,Hnutie Občan Národ Spravodlivosť
+meno,label,ucet,typ_volieb,samosprava,stranicky_ucet,strana,vysledok
+Matúš Čupka,BA,https://ib.fio.sk/ib/transparent?a=2102105267,miestne,Bratislava - Nové Mesto,,"Team Bratislava, Progresívne Slovensko, SaS",zvolený
+Michal Drotován,BA,https://ib.fio.sk/ib/transparent?a=2002202561,miestne,Bratislava - Rača,,nezávislý kandidát,zvolený
+Šimon Gabura,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8002000000004633324951,miestne,Svätý Jur,,KDH,zvolený
+Štefan Gašparovič,BA,https://www.transparentneucty.sk/#/ucet/SK8009000000005193340636,miestne,Slovenský Grob,,Hlas - sociálna demokracia,zvolený
+Martin Chren,BA,https://www.transparentneucty.sk/#/ucet/SK5909000000005188209617,miestne,Bratislava - Ružinov,,TÍM RUŽINOV,zvolený
+Dárius Krajčír,BA,https://www.transparentneucty.sk/#/ucet/SK5609000000005194603426,miestne,Bratislava - Devínska Nová Ves,,SOM Slovensko,zvolený
+Roman Lamoš,BA,https://www.transparentneucty.sk/#/ucet/SK3509000000005191445872,miestne,Bratislava - Podunajské Biskupice,,"Team Bratislava, Progresívne Slovensko, SaS",zvolený
+Vladimír Letenay,BA,https://ib.fio.sk/ib/transparent?a=2101782450,miestne,Ivanka pri Dunaji,,nezávislý kandidát,zvolený
+Roman Mács,BA,https://www.transparentneucty.sk/#/ucet/SK3609000000005187489418,miestne,Pezinok,,nezávislý kandidát,zvolený
+Peter Novisedlák,BA,https://www.transparentneucty.sk/#/ucet/SK1109000000005193515993,miestne,Stupava,,SOM Slovensko,zvolený
+Juraj Petrakovič,BA,https://ib.fio.sk/ib/transparent?a=2602158509,miestne,Modra,,nezávislý kandidát,zvolený
+Igor Polakovič,BA,https://ib.fio.sk/ib/transparent?a=2502271731,miestne,Bratislava - Lamač,,"Team Bratislava, Progresívne Slovensko, SaS",zvolený
+Juraj Říha,BA,https://www.transparentneucty.sk/#/ucet/SK8009000000005193706423,miestne,Malacky,,nezávislý kandidát,zvolený
+Matej Vagač,BA,https://ib.fio.sk/ib/transparent?a=2402110543,miestne,Bratislava - Staré Mesto,,"Team Bratislava, Progresívne Slovensko",zvolený
+Vladimíra Vydrová,BA,https://www.transparentneucty.sk/#/ucet/SK1709000000005192842511,miestne,Chorvátsky Grob,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,zvolený
+Jozef Bednár,TT,https://www.transparentneucty.sk/#/ucet/SK5809000000005194220919,miestne,Šamorín,,nezávislý kandidát,zvolený
+Peter Bročka,TT,https://www.transparentneucty.sk/#/ucet/SK5009000000005143893777,miestne,Trnava,,nezávislý kandidát,zvolený
+Zdenko Čambal,TT,https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849,miestne,Holíč,,"SNS, SMER - SD, Hlas - sociálna demokracia, SME RODINA",zvolený
+Zdenko Čambal,TT,https://www.transparentneucty.sk/#/ucet/SK6709000000005193137849,župné,Trnavský samosprávny kraj,,"SNS, SMER - SD, Hlas - sociálna demokracia, SME RODINA",zvolený
+Zoltán Hájos,TT,https://www.transparentneucty.sk/#/ucet/SK7309000000005193276742,miestne,Dunajská Streda,,SZÖVETSÉG - ALIANCIA,zvolený
+Peter Jančovič,TT,https://www.transparentneucty.sk/#/ucet/SK6509000000005190829479,miestne,Piešťany,,nezávislý kandidát,zvolený
+Peter Kolek,TT,https://ib.fio.sk/ib/transparent?a=2202198712,miestne,Galanta,,nezávislý kandidát,zvolený
+Štefan Kubík,TT,https://www.transparentneucty.sk/#/ucet/SK3509000000005193228150,miestne,Vrbové,,SMER - SD,zvolený
+Ondrej Kurbel,TT,https://ib.fio.sk/ib/transparent?a=2102203756,miestne,Sereď,,nezávislý kandidát,zvolený
+Oľga Luptáková,TT,https://www.transparentneucty.sk/#/ucet/SK3109000000005193879092,miestne,Skalica,,nezávislý kandidát,zvolený
+Csaba Orosz,TT,https://www.transparentneucty.sk/#/ucet/SK0209000000005190084489,miestne,Šamorín,,SZÖVETSÉG - ALIANCIA,zvolený
+Leopold Barszcz,TN,https://www.transparentneucty.sk/#/ucet/SK3309000000005194528083,miestne,Stará Turá,,nezávislý kandidát,zvolený
+Jaroslav Baška,TN,https://ib.fio.sk/ib/transparent?a=2202219296,župné,Trenčiansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,"SMER - SD, Hlas - sociálna demokracia, SME RODINA, SNS",zvolený
+Jozef Božik,TN,https://www.transparentneucty.sk/#/ucet/SK5009000000005150302373,miestne,Partizánske,,nezávislý kandidát,zvolený
+Róbert Gašparík,TN,https://www.transparentneucty.sk/#/ucet/SK1209000000005191869982,miestne,Bánovce nad Bebravou,,"Hlas - sociálna demokracia, SMER - SD",zvolený
+Silvia Grúberová,TN,https://www.transparentneucty.sk/#/ucet/SK2409000000005192391626,miestne,Handlová,,nezávislý kandidát,zvolený
+Katarína Heneková,TN,https://www.transparentneucty.sk/#/ucet/SK2309000000005191715748,miestne,Púchov,,nezávislý kandidát,zvolený
+Karol Janas,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7302000000004649337255,miestne,Považská Bystrica,,"Hlas - sociálna demokracia, SMER - SD, SNS",zvolený
+František Mašlonka,TN,https://www.transparentneucty.sk/#/ucet/SK7309000000005188127400,miestne,Nové Mesto nad Váhom,,nezávislý kandidát,zvolený
+Ján Prekop,TN,https://www.transparentneucty.sk/#/ucet/SK8109000000005193962582,miestne,Beluša,,nezávislý kandidát,zvolený
+Richard Rybníček,TN,https://ib.fio.sk/ib/transparent?a=2802198281,miestne,Trenčín,,nezávislý kandidát,zvolený
+Ladislav Smatana,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004590125951,miestne,Bojnice,,nezávislý kandidát,zvolený
+Peter Wolf,TN,https://www.transparentneucty.sk/#/ucet/SK0909000000005147312116,miestne,Dubnica nad Váhom,,nezávislý kandidát,zvolený
+Branislav Becík,NR,https://ib.fio.sk/ib/transparent?a=2002248826,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia,zvolený
+Jozef Belický,NR,https://www.transparentneucty.sk/#/ucet/SK3809000000005194560294,miestne,Šaľa,,nezávislý kandidát,zvolený
+Marcel Filaga,NR,https://ib.fio.sk/ib/transparent?a=2102246246,miestne,Šurany,,nezávislý kandidát,zvolený
+Alexandra Gieciová,NR,https://www.transparentneucty.sk/#/ucet/SK9309000000005194176639,miestne,Topoľčany,,nezávislý kandidát,zvolený
+Béla Halász,NR,https://ib.fio.sk/ib/transparent?a=2102281009,miestne,Kolárovo,,nezávislý kandidát,zvolený
+Béla Keszegh,NR,https://www.transparentneucty.sk/#/ucet/SK1009000000005192459002,miestne,Komárno,,nezávislý kandidát,zvolený
+Otokar Klein,NR,https://www.transparentneucty.sk/#/ucet/SK5909000000005151383179,miestne,Nové Zámky,,nezávislý kandidát,zvolený
+Ján Krtík,NR,https://www.transparentneucty.sk/#/ucet/SK8809000000005147630018,miestne,Levice,,nezávislý kandidát,zvolený
+Viktor Németh,NR,https://ib.fio.sk/ib/transparent?a=2002281255,miestne,Vráble,,Tím Kraj Nitra,zvolený
+Stanislav Strieška,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8902000000004647355257,miestne,Žitavce,,Hlas - sociálna demokracia,zvolený
+Eugen Szabó,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6602000000004625114153,miestne,Štúrovo,,nezávislý kandidát,zvolený
+Pál Zachar,NR,https://www.transparentneucty.sk/#/ucet/SK7709000000005193547397,miestne,Šahy,,SZÖVETSÉG - ALIANCIA,zvolený
+Peter Závodský,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5302000000004641602253,miestne,Hurbanovo,,REPUBLIKA,zvolený
+Ján Blcháč,ZA,https://www.transparentneucty.sk/#/ucet/SK3209000000005194470774,miestne,Liptovský Mikuláš,,"Hlas - sociálna demokracia, SMER - SD",zvolený
+Jozef Cech,ZA,https://www.transparentneucty.sk/#/ucet/SK2109000000005194959561,miestne,Skalité,,"Hlas - sociálna demokracia, SMER - SD, SNS",zvolený
+Ján Danko,ZA,https://www.transparentneucty.sk/#/ucet/SK6909000000005193466837,miestne,Martin,,nezávislý kandidát,zvolený
+Peter Fiabáne,ZA,https://ib.fio.sk/ib/transparent?a=2902148695,miestne,Žilina,,nezávislý kandidát,zvolený
+Igor Hus,ZA,https://www.transparentneucty.sk/#/ucet/SK4709000000005189491300,miestne,Turčianske Teplice,,nezávislý kandidát,zvolený
+Jozef Grapa,ZA,https://www.transparentneucty.sk/#/ucet/SK0709000000005194587139,miestne,Krásno nad Kysucou,,nezávislý kandidát,zvolený
+Ján Kadera,ZA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0402000000004611438851,miestne,Námestovo,,"SMER - SD, Hlas - sociálna demokracia, REPUBLIKA, SNS",zvolený
+Ľubomír Kubáň,ZA,https://www.transparentneucty.sk/#/ucet/SK2509000000005192670289,miestne,Ružomberok,,nezávislý kandidát,zvolený
+Marián Murín,ZA,https://www.transparentneucty.sk/#/ucet/SK5809000000005194350705,župné,Žilinský samosprávny kraj,,nezávislý kandidát,
+Ján Prílepok,ZA,https://www.transparentneucty.sk/#/ucet/SK8109000000005193034583,miestne,Dolný Kubín,,nezávislý kandidát,zvolený
+Matej Šimášek,ZA,https://www.transparentneucty.sk/#/ucet/SK7109000000005194363469,miestne,Čadca,,Hlas - sociálna demokracia,zvolený
+Magdaléna Zmarzláková,ZA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6502000000004632431851,miestne,Trstená,,nezávislý kandidát,zvolený
+Attila Agócs,BB,https://www.transparentneucty.sk/#/ucet/SK2709000000005190115855,miestne,Fiľakovo,,SZÖVETSÉG - ALIANCIA,zvolený
+Branislav Baran,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8402000000004633005555,miestne,Detva,,nezávislý kandidát,zvolený
+Július Buchta,BB,https://www.transparentneucty.sk/#/ucet/SK2909000000005192010520,miestne,Revúca,,nezávislý kandidát,zvolený
+Stanislav Horník,BB,https://www.transparentneucty.sk/#/ucet/SK9409000000005147357437,miestne,Hriňová,,nezávislý kandidát,zvolený
+Branislav Jaďuď,BB,https://www.transparentneucty.sk/#/ucet/SK2109000000005192474421,miestne,Nová Baňa,,"SNS, SMER - SD, Hlas - sociálna demokracia",zvolený
+Alena Kazimírová,BB,https://www.transparentneucty.sk/#/ucet/SK9309000000005193929774,miestne,Žarnovica,,nezávislý kandidát,zvolený
+Ondrej Lunter,BB,https://www.transparentneucty.sk/#/ucet/SK9609000000005187590479,župné,Banskobystrický samosprávny kraj,,nezávislý kandidát,zvolený
+Ján Nosko,BB,https://www.transparentneucty.sk/#/ucet/SK5709000000005192743142,miestne,Banská Bystrica,,nezávislý kandidát,zvolený
+Alexandra Pivková,BB,https://ib.fio.sk/ib/transparent?a=2902266544,miestne,Lučenec,,"ZA ĽUDÍ, SaS, NOVA, SME RODINA, SZÖVETSÉG - ALIANCIA",zvolený
+Peter Sitor,BB,https://www.transparentneucty.sk/#/ucet/SK6109000000005191998207,miestne,Poltár,,nezávislý kandidát,zvolený
+Anton Danko,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6102000000004615514153,miestne,Poprad,,nezávislý kandidát,zvolený
+Peter Duda,PO,https://www.transparentneucty.sk/#/ucet/SK3109000000005192199343,miestne,Veľká Lomnica,,nezávislý kandidát,zvolený
+Vladimír Jánošík,PO,https://www.transparentneucty.sk/#/ucet/SK5909000000005194133698,miestne,Lipany,,"Hlas - sociálna demokracia, SMER - SD",zvolený
+Miroslav Koščák,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004620401858,miestne,Lendak,,nezávislý kandidát,zvolený
+Michal Repaský,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3102000000004633030953,miestne,Sabinov,,nezávislý kandidát,zvolený
+Vladislav Višňovský,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004653169258,miestne,Medzilaborce,,"Hlas - sociálna demokracia, SMER - SD",zvolený
+Peter Vološin,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004637418859,miestne,Snina,,KDH,zvolený
+Dominik Babušík,KE,https://www.transparentneucty.sk/#/ucet/SK3409000000005193407618,miestne,Košice - Dargovských hrdinov,,nezávislý kandidát,zvolený
+Igor Petrovčik,KE,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8902000000004643669451,miestne,Košice - Staré Mesto,,"STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI, SME RODINA, SZÖVETSÉG - ALIANCIA",zvolený
+Jaroslav Polaček,KE,https://www.transparentneucty.sk/#/ucet/SK7609000000005144413229,miestne,Košice,,"KDH, SaS, SME RODINA, NOVA, SZÖVETSÉG - ALIANCIA, SRK, DOBRÁ VOĽBA a Umiernení, OĽANO-NOVA-KÚ-ZMENA ZDOLA",zvolený
+Marcel Šaňa,KE,https://www.transparentneucty.sk/#/ucet/SK8509000000005191855767,miestne,Košice - Luník IX,,SRK,zvolený
+Rastislav Trnka,KE,https://www.transparentneucty.sk/#/ucet/SK2109000000005191142708,župné,Košický samosprávny kraj,,"KDH, SZÖVETSÉG - ALIANCIA, STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI, ŠANCA, DS",zvolený
+Marcel Vrchota,KE,https://www.transparentneucty.sk/#/ucet/SK4409000000005194161613,miestne,Košice - Západ,,"SaS, Progresívne Slovensko, ZA ĽUDÍ, SZÖVETSÉG - ALIANCIA, OĽANO-NOVA-KÚ-ZMENA ZDOLA",zvolený
+Matúš Vallo,BA,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,"Team Bratislava, Progresívne Slovensko, SaS",zvolený
+Marek Hattas,NR,https://www.transparentneucty.sk/?1/#/ucet/SK9609000000005194268541,miestne,Nitra,https://www.transparentneucty.sk/?1/#/ucet/SK9609000000005194268541,Tím Kraj Nitra,zvolený
+František Oľha,PO,https://ib.fio.sk/ib/transparent?a=2901493956,miestne,Prešov,,"SaS, Progresívne Slovensko, SPOLU, DS, ŠANCA, ODS - Občianski demokrati Slovenska, DOBRÁ VOĽBA a Umiernení",zvolený
+Martin Červenka,TT,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3302000000004596324759,župné,Trnavský samosprávny kraj,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,zvolený
+Vladimír Maňka,BB,https://www.transparentneucty.sk/#/ucet/SK0209000000005191664522,miestne,Zvolen,,nezávislý kandidát,zvolený
+Miroslav Turenič,BA,https://www.transparentneucty.sk/#/ucet/SK7209000000005186454459,miestne,Bernolákovo,,nezávislý kandidát,zvolený
+Zoltán Horváth,TT,https://www.transparentneucty.sk/#/ucet/SK8609000000005195037446,miestne,Dunajská Streda,,nezávislý kandidát,zvolený
+Viktor Wiedermann,TN,https://www.transparentneucty.sk/#/ucet/SK7709000000005195214051,miestne,Ilava,,DOBRÁ VOĽBA a Umiernení,zvolený
+Marián Tóth,NR,https://www.transparentneucty.sk/#/ucet/SK6009000000005195250538,miestne,Tvrdošovce,,SZÖVETSÉG - ALIANCIA,zvolený
+Ivan Šaško,ZA,https://www.transparentneucty.sk/#/ucet/SK7609000000005195074001,miestne,Tvrdošín,,nezávislý kandidát,zvolený
+Branislav Zacharides,ZA,https://www.transparentneucty.sk/#/ucet/SK5709000000005194275354,miestne,Vrútky,,nezávislý kandidát,zvolený
+Ján Ragan,PO,https://www.transparentneucty.sk/#/ucet/SK5109000000005195108304,miestne,Vranov nad Topľou,,nezávislý kandidát,zvolený
+Ján Sklár,KE,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5802000000004657749559,miestne,Sobrance,,nezávislý kandidát,zvolený
+Miroslava Szitová,KE,https://www.transparentneucty.sk/#/ucet/SK5009000000005194655429,miestne,Smižany,,"KDH, SaS",zvolený
+Miroslav Dufinec,KE,https://www.transparentneucty.sk/#/ucet/SK3309000000005193266501,miestne,Michalovce,,"SMER - SD, SME RODINA, SNS, STRANA MODERNÉHO SLOVENSKA (SMS)",zvolený
+Martin Zaťovič,BA,https://www.transparentneucty.sk/#/ucet/SK6209000000005192055710,miestne,Bratislava - Dúbravka,,SOM Slovensko,zvolený
+Dana Čahojová,BA,https://www.transparentneucty.sk/#/ucet/SK3009000000005149256103,miestne,Bratislava - Karlova Ves,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,zvolený
+Pavol Bečarik,KE,https://www.transparentneucty.sk/#/ucet/SK8009000000005193597589,miestne,Spišská Nová Ves,,"SNS, Hlas - sociálna demokracia, SMER - SD, SME RODINA",zvolený
+Miloš Meričko,PO,https://www.transparentneucty.sk/#/ucet/SK2509000000005194349747,miestne,Humenné,,nezávislý kandidát,zvolený
+Tomáš Káčer,BA,https://www.transparentneucty.sk/#/ucet/SK8609000000005195288288,miestne,Rovinka,,nezávislý kandidát,zvolený
+Jozef Krúpa,BA,https://www.transparentneucty.sk/#/ucet/SK9209000000005189655002,miestne,Bratislava - Záhorská Bystrica,,SOM Slovensko,zvolený
+Martin Pliešovský,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3002000000004657789251,miestne,Hnúšťa,,SNS,zvolený
+Viliam Kall,PO,https://ib.fio.sk/ib/transparent?a=2202302145,miestne,Veľký Šariš,,nezávislý kandidát,zvolený
+Karol Pataky,KE,https://www.transparentneucty.sk/#/ucet/SK3709000000005192409822,miestne,Kráľovský Chlmec,,SZÖVETSÉG - ALIANCIA,zvolený
+Michal Rečka,KE,https://www.transparentneucty.sk/#/ucet/SK9709000000005195399543,miestne,Čaňa,,SMER - SD,zvolený
+Marek Čižmár,KE,https://www.transparentneucty.sk/#/ucet/SK2409000000005149898448,miestne,Trebišov,,nezávislý kandidát,zvolený
+Lenka Kovačevičová,KE,https://www.transparentneucty.sk/#/ucet/SK6809000000005169500580,miestne,Košice - Nad Jazerom,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,zvolený
+Ladislav Lörinc,KE,https://www.transparentneucty.sk/#/ucet/SK2409000000005194468105,miestne,Košice - Sídlisko KVP,,nezávislý kandidát,zvolený
+Jozef Šimko,BB,https://www.transparentneucty.sk/#/ucet/SK5109000000005194233461,miestne,Rimavská Sobota,,nezávislý kandidát,zvolený
+Martin Kuruc,BA,https://www.transparentneucty.sk/#/ucet/SK8609000000005188670075,miestne,Bratislava - Vrkúňa,,nezávislý kandidát,zvolený
+Miloš Ihnát,KE,https://www.transparentneucty.sk/#/ucet/SK5009000000005149353325,miestne,Košice - Sídlisko Ťahanovce,,nezávislý kandidát,zvolený
+Ivan Baranovič,TT,https://www.transparentneucty.sk/#/ucet/SK4709000000005193285649,miestne,Hlohovec,,nezávislý kandidát,zvolený
+Pavol Kvál,BA,https://www.transparentneucty.sk/#/ucet/SK4409000000005193260871,miestne,Senec,,nezávislý kandidát,zvolený
+Ján Juhász,KE,https://ib.fio.sk/ib/transparent?a=2902235625,miestne,Košice - Staré Mesto,,KDH,zvolený
+Martin Džačovský,TT,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8402000000004664456156,miestne,Senica,,nezávislý kandidát,zvolený
+František Ténai,KE,https://ib.fio.sk/ib/transparent?a=2001496545,miestne,Košice - Sever,,"KDH, SaS, SME RODINA, SZÖVETSÉG - ALIANCIA, NOVA, SRK, DOBRÁ VOĽBA a Umiernení, OĽANO-NOVA-KÚ-ZMENA ZDOLA",zvolený
+Michal Domik,KE,https://www.transparentneucty.sk/#/ucet/SK1109000000005152974261,miestne,Rožňava,,nezávislý kandidát,zvolený
+Peter Antal,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2702000000004649723658,mietsne,Žiar nad Hronom,,nezávislý kandidát,zvolený
+Ján Ferenčák,PO,https://www.transparentneucty.sk/#/ucet/SK5009000000005194254334,miestne,Kežmarok,,"Hlas - sociálna demokracia, SMER - SD, SNS",zvolený
+Ernest Németh,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004665428456,miestne,Dunajská Lužná,,KDH,zvolený
+Peter Petrikán,KE,https://www.transparentneucty.sk/#/ucet/SK2809000000005194949056,miestne,Veľké Kapušany,,nezávislý kandidát,zvolený
+Marian Mihalda,ZA,https://www.transparentneucty.sk/#/ucet/SK2109000000005194928327,miestne,Kysucké Nové Mesto,,nezávislý kandidát,zvolený
+Dušan Husár,NR,https://www.transparentneucty.sk/#/ucet/SK7809000000005194412910,miestne,Zlaté Moravce,,"SMER - SD, Hlas - sociálna demokracia, SNS",zvolený
+Peter Marušinec,TN,https://www.transparentneucty.sk/#/ucet/SK6009000000005192207163,miestne,Nová Dubnica,,"Hlas - sociálna demokracia, SMER - SD, SNS",zvolený
+Marcela Ivančová,PO,https://www.transparentneucty.sk/#/ucet/SK0709000000005193916287,miestne,Svidník,,"Hlas - sociálna demokracia, SME RODINA, KDH",zvolený
+Iván Fenes,TT,https://www.transparentneucty.sk/#/ucet/SK1209000000005194214957,miestne,Gabčíkovo,,SZÖVETSÉG - ALIANCIA,zvolený
+Marián Plevko,ZA,https://www.transparentneucty.sk/#/ucet/SK4009000000005148021695,miestne,Oščadnica,,nezávislý kandidát,zvolený
+Dominik Frajkor,KE,https://www.transparentneucty.sk/#/ucet/SK5809000000005193325997,miestne,Sečovce,,nezávislý kandidát,zvolený
+Ondrej Brendza,PO,https://www.transparentneucty.sk/#/ucet/SK4809000000005193304352,miestne,Stropkov,,nezávislý kandidát,zvolený
+Nadežda Babiaková,BB,https://www.transparentneucty.sk/#/ucet/SK7909000000005190741733,miestne,Banská Štiavnica,,"SMER - SD, Hlas - sociálna demokracia, SNS, STRANA MODERNÉHO SLOVENSKA (SMS), SME RODINA, REPUBLIKA",zvolený
+Dárius Dubiňák,KE,https://www.transparentneucty.sk/#/ucet/SK3909000000005195017437,miestne,Krompachy,,SPOLU,zvolený
+Marian Soóky,TT,https://www.transparentneucty.sk/#/ucet/SK1109000000005195691800,miestne,Veľký Meder,,nezávislý kandidát,zvolený
+Peter Trojna,BA,https://www.transparentneucty.sk/#/ucet/SK6209000000005194866576,,Šenkvice,,nezávislý kandidát,zvolený
+Ľubomír Golis,ZA,https://www.transparentneucty.sk/#/ucet/SK1109000000005195109024,,Turzovka,,"Hlas - sociálna demokracia, SNS",zvolený
+Tomáš Abel,BB,https://www.transparentneucty.sk/#/ucet/SK7809000000005148595445,,Brezno,,nezávislý kandidát,zvolený
+Dáša Vojsovičová,PO,https://www.transparentneucty.sk/#/ucet/SK7409000000005192817332,,Svit,,nezávislý kandidát,zvolený
+Anna Súkeníková,KE,https://www.transparentneucty.sk/#/ucet/SK1609000000005191944794,miestne,Košice - Juh,,nezávislý kandidát,zvolený
+Rudolf Huliak,BB,,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,"SNS, NK/NEKA",
+Juraj Droba,BA,,župné,Bratislavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7109000000005178313461,"SaS, Progresívne Slovensko, Team Bratislava",zvolený
+Milan Majerský,PO,,župné,Prešovský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"KDH, SME RODINA, SaS, ZA ĽUDÍ",zvolený
+Jozef Viskupič,TT,,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, KDH, SPOLU, ŠANCA, ODS - Občianski demokrati Slovenska, ZA ĽUDÍ, SME RODINA, OKS, DS, Magyar Fórum - Maďarské fórum",zvolený
+Erika Jurinová,ZA,,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, SME RODINA, ZA ĽUDÍ, DS, ODS - Občianski demokrati Slovenska, ŠANCA, OKS, SaS",zvolený
+Ján Hrčka,BA,,miestne,Bratislava - Petržalka,,nezávislý kandidát,zvolený
+Katarína Macháčková,TN,,miestne,Prievidza,https://www.transparentneucty.sk/#/ucet/SK4809000000005188974466,SPOLU,zvolený
+Jozef Bača,BA,,miestne,Bratislava - Staré Mesto,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,DOMOV-NS,zvolený
+Milan Staňo,TN,,miestne,Dubnica nad Váhom,,nezávislý kandidát,zvolený
+Ján Ragan,KE,,miestne,Košice - Staré Mesto,,nezávislý kandidát,zvolený
+Ľuboš Tomko,PO,,miestne,Stará Ľubovňa,,nezávislý kandidát,zvolený
+Miroslav Vilkovský,PO,,miestne,Levoča,,nezávislý kandidát,zvolený
+Miroslav Minárčik,ZA,,miestne,Bytča,,Hlas - sociálna demokracia,zvolený
+Dalibor Surkoš,BB,,miestne,Veľký Krtíš,,"SMER - SD, SME RODINA, SZÖVETSÉG - ALIANCIA, STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI, STRANA MODERNÉHO SLOVENSKA (SMS)",zvolený
+Peter Krupa,TN,,miestne,Nová Dubnica,,ĽS Naše Slovensko,zvolený
+Slavomír Borovský,KE,,miestne,Moldava nad Bodvou,,nezávislý kandidát,zvolený
+Ľubomír Halabrín,TN,,miestne,Myjava,,Hlas - sociálna demokracia,zvolený
+Zoltán Molnár,,https://www.transparentneucty.sk/#/ucet/SK0609000000005193450317,miestne,Nesvady,,SZÖVETSÉG - ALIANCIA,zvolený
+Michal Vetrák,,,miestne,Čierny Balog,,nezávislý kandidát,zvolený
+Ján Slovák,,https://www.transparentneucty.sk/#/ucet/SK9309000000005193817836,miestne,Dobšiná,,"KDH, SME RODINA, Slovenský PATRIOT",zvolený
+Július Piták,,https://www.transparentneucty.sk/#/ucet/SK1409000000005195663519,miestne,Rabča,,nezávislý kandidát,zvolený
+Gábor Krommer,,,miestne,Sládkovičovo,,nezávislý kandidát,zvolený
+Peter Klimčík,,,miestne,Zákamenné,,nezávislý kandidát,zvolený
+Anton Heglas,,,miestne,Raková,,nezávislý kandidát,zvolený
+Jana Petrášová,,,miestne,Košice - Šaca,,nezávislý kandidát,zvolený
+Daniel Petrík,,https://www.transparentneucty.sk/#/ucet/SK7409000000005195906103,miestne,Košice - Šaca,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,zvolený
+Peter Tomko,,https://www.transparentneucty.sk/#/ucet/SK8309000000005194192727,miestne,Košice - Krásna,,KDH,zvolený
+Peter Hanus,,https://www.transparentneucty.sk/#/ucet/SK3709000000005194871391,miestne,Rajec,,nezávislý kandidát,zvolený
+Dušan Tomaško,,https://www.transparentneucty.sk/#/ucet/SK8709000000005194926460,miestne,Gelnica,,nezávislý kandidát,zvolený
+Michal Vlček,,,miestne,Bratislava - Vajnory,,nezávislý kandidát,zvolený
+Miloš Mojto,,https://www.transparentneucty.sk/#/ucet/SK0509000000005195029980,miestne,Nemšová,,nezávislý kandidát,zvolený
+Peter Zibura,,,miestne,Spišská Belá,,"KDH, SaS",zvolený
+Ondrej Juhász,,https://www.transparentneucty.sk/#/ucet/SK0709000000005196080454,miestne,Želiezovce,,nezávislý kandidát,zvolený
+Erika Győrfiová,,https://www.transparentneucty.sk/#/ucet/SK9209000000005194452525,miestne,Tornaľa,,"Hlas - sociálna demokracia, SZÖVETSÉG - ALIANCIA, SME RODINA",zvolený
+Branislav Tréger,,,miestne,Liptovský Hrádok,,nezávislý kandidát,zvolený
+Florián Giňa,,https://www.transparentneucty.sk/#/ucet/SK2709000000005195606055,miestne,Jarovnice,,SRK,zvolený
+Radoslav Vazan,,https://www.transparentneucty.sk/#/ucet/SK4109000000005194685855,miestne,Krupina,,nezávislý kandidát,zvolený
+Boris Hanuščak,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3002000000004644674754,miestne,Bardejov,,"Hlas - sociálna demokracia, SMER - SD, SNS",zvolený
+DOBRÁ VOĽBA a Umiernení,PS,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063,,,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063,,
+DOMOV národná strana,PS,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,,
+HLAS - sociálna demokracia,PS,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,,,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,,
+Komunistická strana Slovenska,PS,https://www.transparentneucty.sk/#/ucet/SK4809000000005193974137,,,https://www.transparentneucty.sk/#/ucet/SK4809000000005193974137,,
+Kotlebovci - Ľudová strana Naše Slovensko,PS,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,,,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,,
+Kresťanskodemokratické hnutie,PS,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,,,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,,
+ODS - Občianski demokrati Slovenska,PS,https://www.transparentneucty.sk/#/ucet/SK0709000000005190700640,,,https://www.transparentneucty.sk/#/ucet/SK0709000000005190700640,,
+"OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), NOVA, Kresťanská únia (KÚ), ZMENA ZDOLA",PS,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,,,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,,
+PROGRESÍVNE SLOVENSKO,PS,https://www.transparentneucty.sk/#/ucet/SK5709000000005192786986,,,https://www.transparentneucty.sk/#/ucet/SK5709000000005192786986,,
+REPUBLIKA,PS,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,,
+Sloboda a Solidarita,PS,https://www.transparentneucty.sk/#/ucet/SK7109000000005178313461,,,https://www.transparentneucty.sk/#/ucet/SK7109000000005178313461,,
+Slovenský PATRIOT,PS,https://ib.fio.sk/ib/transparent?a=2902302357,,,https://ib.fio.sk/ib/transparent?a=2902302357,,
+SME RODINA,PS,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,,,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,,
+SMER - sociálna demokracia,PS,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,,,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,,
+Socialisti.sk,PS,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,,,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,,
+SPOLU - občianska demokracia,PS,https://www.transparentneucty.sk/#/ucet/SK4809000000005188974466,,,https://www.transparentneucty.sk/#/ucet/SK4809000000005188974466,,
+SZÖVETSÉG - Magyarok. Nemzetiségek. Regiók. | ALIANCIA - Maďari. Národnosti. Regióny,PS,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,,,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,,
+Team Bratislava,PS,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,,,https://www.transparentneucty.sk/#/ucet/SK7309000000005191923301,,
+Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja,PS,https://www.transparentneucty.sk/#/ucet/SK9609000000005194268541,,,https://www.transparentneucty.sk/#/ucet/SK9609000000005194268541,,
+Zuzana Aufrichtová,BA,https://www.transparentneucty.sk/#/ucet/SK1709000000005147134268,miestne,Bratislava - Staré Mesto,,"SaS, KDH, OKS, NOVA, ZA ĽUDÍ, Zmena zdola, DÚ",nezvolený
+Katarína Bálintová,BA,https://ib.fio.sk/ib/transparent?a=2302256756,miestne,Chorvátsky Grob,,nezávislý kandidát,nezvolený
+Sandra Benko,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5602000000004626701253,miestne,Rovinka,,nezávislý kandidát,nezvolený
+Monika Debnárová,BA,https://ib.fio.sk/ib/transparent?a=2302288475,miestne,Bratislava - Vajnory,,nezávislý kandidát,nezvolený
+Marek Dinuš,BA,https://ib.fio.sk/ib/transparent?a=2502253250,miestne,Bratislava - Dúbravka,,nezávislý kandidát,nezvolený
+Branislav Filipovič,BA,https://www.transparentneucty.sk/#/ucet/SK7109000000005194645060,miestne,Bratislava - Nové Mesto,,nezávislý kandidát,nezvolený
+Hana Haldová,BA,https://ib.fio.sk/ib/transparent?a=2302253862,miestne,Stupava,,nezávislý kandidát,nezvolený
+Martin Kližan,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004610405353,miestne,Bratislava - Petržalka,,nezávislý kandidát,nezvolený
+Peter Kmeť,BA,https://www.transparentneucty.sk/#/ucet/SK9609000000005193232969,miestne,Senec,,Progresívne Slovensko,nezvolený
+Peter Komínek,BA,https://www.transparentneucty.sk/#/ucet/SK2709000000005194755753,miestne,Rovinka,,"NOVA, OKS, Zmena zdola, DÚ, OĽANO-NOVA-KÚ-ZMENA ZDOLA",nezvolený
+Michal Kakalík,BA,https://www.transparentneucty.sk/#/ucet/SK0509000000005194456710,miestne,Šenkvice,,nezávislý kandidát,nezvolený
+Tomáš Lukačovský,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6202000000004588718758,miestne,Slovenský Grob,,nezávislý kandidát,nezvolený
+Martin Mlýnek,BA,https://www.transparentneucty.sk/#/ucet/SK0309000000005194188250,miestne,Bratislava,,"NOVA, OKS, Zmena zdola, DÚ, OĽANO-NOVA-KÚ-ZMENA ZDOLA",nezvolený
+Radoslav Olekšák,BA,https://www.transparentneucty.sk/#/ucet/SK8609000000005194682232,miestne,Bratislava - Lamač,,"Hlas - sociálna demokracia, SMER - SD, SNS",nezvolený
+Eva Pilátová,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6902000000004609518051,miestne,Pezinok,,nezávislý kandidát,nezvolený
+Vladimír Píš,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4802000000004603477754,miestne,Dunajská Lužná,,nezávislý kandidát,nezvolený
+Iva Pipíšková,BA,https://www.transparentneucty.sk/#/ucet/SK0609000000005187129797,miestne,Bernolákovo,,"SaS, SPOLU, DS, ŠANCA, ODS - Občianski demokrati Slovenska, KDH",nezvolený
+Ján Polakovič,BA,https://www.transparentneucty.sk/#/ucet/SK9809000000005190194311,miestne,Bratislava - Rača,,nezávislý kandidát,nezvolený
+Slavomír Repka,BA,https://ib.fio.sk/ib/transparent?a=2602237282,miestne,Pezinok,,nezávislý kandidát,nezvolený
+Michal Svátek,BA,https://www.transparentneucty.sk/#/ucet/SK5109000000005188427235,miestne,Pezinok,,nezávislý kandidát,nezvolený
+Róbert Šegeda,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6702000000004609111657,miestne,Malacky,,nezávislý kandidát,nezvolený
+Mária Šimončičová,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0502000000004655314455,miestne,Bratislava - Lamač,,nezávislý kandidát,nezvolený
+Adam Šipoš,BA,https://www.transparentneucty.sk/#/ucet/SK5709000000005192983023,miestne,Bernolákovo,,nezávislý kandidát,nezvolený
+Ivor Švihran,BA,https://ib.fio.sk/ib/transparent?a=2001457730,miestne,Bratislava - Ružinov,,nezávislý kandidát,nezvolený
+Iveta Ugrová,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2302000000004655740155,miestne,Dunajská Lužná,,nezávislý kandidát,nezvolený
+Dušan Velič,BA,https://ib.fio.sk/ib/transparent?a=2502238421,župné,Bratislavský samosprávny kraj,,"ZA ĽUDÍ, SME RODINA, KDH, Magyar Fórum - Maďarské fórum",nezvolený
+Mária Wagingerová,BA,https://ib.fio.sk/ib/transparent?a=2902283184,miestne,Pezinok,,nezávislý kandidát,nezvolený
+Ján Žatko,BA,https://ib.fio.sk/ib/transparent?a=2802241657,miestne,Bratislava - Devínska Nová Ves,,"SME RODINA, KDH, ZA ĽUDÍ, DOBRÁ VOĽBA a Umiernení, SPOLU",nezvolený
+Vladimír Bakita,TT,https://ib.fio.sk/ib/transparent?a=2602297664,miestne,Piešťany,,nezávislý kandidát,nezvolený
+Branislav Baroš,TT,https://ib.fio.sk/ib/transparent?a=2902265664,miestne,Trnava,,nezávislý kandidát,nezvolený
+József Berényi,TT,https://www.transparentneucty.sk/#/ucet/SK7209000000005194659980,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,SZÖVETSÉG - ALIANCIA,nezvolený
+Zuzana Bošnáková,TT,https://ib.fio.sk/ib/transparent?a=2902180273,miestne,Trnava,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"KDH, ZA ĽUDÍ, Kresťanská únia",nezvolený
+Viliam Brunner,TT,https://www.transparentneucty.sk/#/ucet/SK3509000000005192823951,miestne,Sládkovičovo,,nezávislý kandidát,nezvolený
+Edita Červeňová,TT,https://www.transparentneucty.sk/#/ucet/SK7509000000005194337498,miestne,Sereď,,Slovenský PATRIOT,nezvolený
+Marián Galbavý,TT,https://www.transparentneucty.sk/#/ucet/SK8909000000005191642198,miestne,Trnava,,"SaS, SME RODINA, ODS - Občianski demokrati Slovenska, ŠANCA",nezvolený
+Roland Hakszer,TT,https://www.transparentneucty.sk/#/ucet/SK9409000000005194784423,župné,Trnavský samosprávny kraj,,nezávislý kandidát,nezvolený
+Roland Hakszer,TT,https://www.transparentneucty.sk/#/ucet/SK9409000000005194784423,miestne,Dunajská Streda,,nezávislý kandidát,nezvolený
+Roman Chudý,TT,https://www.transparentneucty.sk/#/ucet/SK7809000000005194603127,župné,Trnavský samosprávny kraj,,ŽIVOT,nezvolený
+Ján Jankulár,TT,https://www.transparentneucty.sk/#/ucet/SK5009000000005191739221,miestne,Sereď,,nezávislý kandidát,nezvolený
+Matej Lančarič,TT,https://ib.fio.sk/ib/transparent?a=2302232164,miestne,Trnava,,nezávislý kandidát,nezvolený
+Stanislav Ralbovský,TT,https://www.transparentneucty.sk/#/ucet/SK0309000000005194605253,miestne,Brodské,,NK/NEKA,nezvolený
+Roman Sova,TT,https://www.transparentneucty.sk/#/ucet/SK3909000000005194514589,miestne,Senica,,"SaS, KDH",nezvolený
+Erika Szelle,TT,https://www.transparentneucty.sk/#/ucet/SK8009000000005192781819,miestne,Dunajská Streda,,nezávislý kandidát,nezvolený
+František Sztruhár,TT,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3102000000004616097857,miestne,Šamorín,,"Magyar Fórum - Maďarské fórum, KDH, SaS, OKS",nezvolený
+Katarína Beranová,TN,https://transparentneucty.sk/#/ucet/SK7509000000005194779915,miestne,Považská Bystrica,,nezávislý kandidát,nezvolený
+Pavol Crkoň,TN,https://www.transparentneucty.sk/#/ucet/SK6709000000005194409519,miestne,Púchov,,Hlas - sociálna demokracia,nezvolený
+Branislav Gigac,TN,https://www.transparentneucty.sk/#/ucet/SK7109000000005192480602,miestne,Prievidza,,nezávislý kandidát,nezvolený
+Maroš Greschner,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7202000000004620137751,miestne,Bojnice,,nezávislý kandidát,nezvolený
+Jozef Hatvanyi,TN,https://www.transparentneucty.sk/#/ucet/SK6209000000005193606449,miestne,Bojnice,,nezávislý kandidát,nezvolený
+Dávid Holý,TN,https://ib.fio.sk/ib/transparent?a=2102272970,miestne,Bánovce nad Bebravou,,nezávislý kandidát,nezvolený
+Miroslava Hudecová,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4202000000004610892251,miestne,Bánovce nad Bebravou,,nezávislý kandidát,nezvolený
+Katarína Chlebíková,TN,https://www.transparentneucty.sk/#/ucet/SK1809000000005187598091,miestne,Nové Mesto nad Váhom,,"Hlas - sociálna demokracia, SME RODINA",nezvolený
+Maroš Chudovský,TN,https://www.transparentneucty.sk/#/ucet/SK2809000000005189396485,miestne,Považská Bystrica,,nezávislý kandidát,nezvolený
+Juraj Krištofovič,TN,https://www.transparentneucty.sk/#/ucet/SK3309000000005194012722,miestne,Nemšová,,nezávislý kandidát,nezvolený
+Ján Kšiňan,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000004627902858,miestne,Bánovce nad Bebravou,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, ZA ĽUDÍ, KDH",nezvolený
+Peter Kudlík,TN,https://ib.fio.sk/ib/transparent?a=2202286245,miestne,Dubnica nad Váhom,,nezávislý kandidát,nezvolený
+Viliam Makový,TN,https://www.transparentneucty.sk/#/ucet/SK0909000000005194516293,miestne,Bánovce nad Bebravou,,nezávislý kandidát,nezvolený
+Peter Máťoš,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7802000000004599983856,župné,Trenčiansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"KDH, SaS, OKS, DOBRÁ VOĽBA a Umiernení, Progresívne Slovensko, SPOLU, ODS - Občianski demokrati Slovenska, ŠANCA",nezvolený
+Miloš Mičega,TN,https://www.transparentneucty.sk/#/ucet/SK6209000000005192271923,miestne,Trenčín,,nezávislý kandidát,nezvolený
+Adrián Mikuš,TN,https://www.transparentneucty.sk/#/ucet/SK7609000000005194181892,župné,Trenčiansky samosprávny kraj,,nezávislý kandidát,nezvolený
+Tatiana Molnárová,TN,https://www.transparentneucty.sk/#/ucet/SK8509000000005185671726,miestne,Handlová,,nezávislý kandidát,nezvolený
+Nora Pániková,TN,https://www.transparentneucty.sk/#/ucet/SK0909000000005194566442,miestne,Stará Turá,,nezávislý kandidát,nezvolený
+Peter Podmajerský,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004630254257,miestne,Myjava,,"SMER - SD, SNS",nezvolený
+Mikuláš Prokop,TN,https://www.transparentneucty.sk/#/ucet/SK2009000000005194337615,miestne,Považská Bystrica,,nezávislý kandidát,nezvolený
+Matej Slávik,TN,https://www.transparentneucty.sk/#/ucet/SK4009000000005192913586,miestne,Beluša,,nezávislý kandidát,nezvolený
+Jozef Stopka,TN,https://www.transparentneucty.sk/#/ucet/SK5609000000005193883104,miestne,Handlová,,SMER - SD,nezvolený
+Milan Špánik,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2602000000004646148256,miestne,Nové Mesto nad Váhom,,nezávislý kandidát,nezvolený
+Milan Belica,NR,https://www.transparentneucty.sk/#/ucet/SK7509000000005193795171,župné,Nitriansky samosprávny kraj,,nezávislý kandidát,nezvolený
+Eva Bielik Hajdamárová,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000004647039457,miestne,Levice,,OĽANO-NOVA-KÚ-ZMENA ZDOLA,nezvolený
+Róbert Dobi,NR,https://ib.fio.sk/ib/transparent?a=2702272835,miestne,Komárno,,nezávislý kandidát,nezvolený
+Jozef Dobrotka,NR,https://ib.fio.sk/ib/transparent?a=2402304831,miestne,Topoľčany,,NK/NEKA,nezvolený
+Tímea Etheykatz,NR,https://www.transparentneucty.sk/#/ucet/SK7109000000005194144055,miestne,Komárno,,nezávislý kandidát,nezvolený
+Eva Fazekašová,NR,https://www.transparentneucty.sk/#/ucet/SK0209000000005194527574,miestne,Nové Zámky,,nezávislý kandidát,nezvolený
+Martina Holečková,NR,https://ib.fio.sk/ib/transparent?a=2502234914,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"KDH, SaS, Tím Kraj Nitra, ŠANCA, SPOLU, ODS - Občianski demokrati Slovenska, DS, OKS, ZA ĽUDÍ",nezvolený
+Ildikó Kečkéš,NR,https://ib.fio.sk/ib/transparent?a=2202277381,miestne,Hurbanovo,,nezávislý kandidát,nezvolený
+Igor Kršiak,NR,https://www.transparentneucty.sk/#/ucet/SK1009000000005189469947,miestne,Nitra,,"Hlas - sociálna demokracia, SME RODINA, DOBRÁ VOĽBA a Umiernení, Demokrati Slovenska",nezvolený
+Tomáš Mészáros,NR,https://ib.fio.sk/ib/transparent?a=2902270180,miestne,Šaľa,,nezávislý kandidát,nezvolený
+Pavol Obertáš,NR,https://ib.fio.sk/ib/transparent?a=2302078881,miestne,Nitra,,nezávislý kandidát,nezvolený
+Zoltán Oslanec,NR,https://ib.fio.sk/ib/transparent?a=2302118601,miestne,Nesvady,,nezávislý kandidát,nezvolený
+Anita Petkovová,NR,https://ib.fio.sk/ib/transparent?a=2302200162,miestne,Šaľa,,nezávislý kandidát,nezvolený
+Peter Podbehlý,NR,https://ib.fio.sk/ib/transparent?a=2902102427,miestne,Nové Zámky,,nezávislý kandidát,nezvolený
+Eva Polerecká,NR,https://ib.fio.sk/ib/transparent?a=2902195416,miestne,Nové Zámky,,"Tím Kraj Nitra, Magyar Fórum - Maďarské fórum, OKS",nezvolený
+Roman Porubský,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7002000000004611867955,miestne,Šurany,,Hlas - sociálna demokracia,nezvolený
+Štefan Pupák,NR,https://www.transparentneucty.sk/#/ucet/SK8709000000005193444785,miestne,Hurbanovo,,nezávislý kandidát,nezvolený
+Juraj Sitár,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004637524053,miestne,Poľný Kesov,,NK/NEKA,nezvolený
+Dalimír Solčanský,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2302000000004641717253,miestne,Nitra,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Tibor Tóth,NR,https://www.transparentneucty.sk/#/ucet/SK4709000000005191407438,miestne,Vráble,,SZÖVETSÉG - ALIANCIA,nezvolený
+Peter Cibulka,ZA,https://www.transparentneucty.sk/#/ucet/SK9309000000005186703080,miestne,Žilina,,nezávislý kandidát,nezvolený
+Lucia Cukerová,ZA,https://ib.fio.sk/ib/transparent?a=2902266835,miestne,Liptovský Mikuláš,,nezávislý kandidát,nezvolený
+Mária Červeňová,ZA,https://www.transparentneucty.sk/#/ucet/SK5409000000005191003986,miestne,Námestovo,,nezávislý kandidát,nezvolený
+Andrea Ferletjaková,ZA,https://www.transparentneucty.sk/#/ucet/SK1609000000005194558944,miestne,Námestovo,,nezávislý kandidát,nezvolený
+Milan Ftorek,ZA,https://www.transparentneucty.sk/#/ucet/SK7509000000005193588367,miestne,Martin,,nezávislý kandidát,nezvolený
+Patrik Habo,ZA,https://www.transparentneucty.sk/#/ucet/SK8309000000005192325768,miestne,Ružomberok,,nezávislý kandidát,nezvolený
+Igor Choma,ZA,https://www.transparentneucty.sk/#/ucet/SK0209000000005191996359,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,SMER - SD,nezvolený
+Igor Janckulík,ZA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9202000000004608142953,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"KDH, DOBRÁ VOĽBA a Umiernení, SNS",nezvolený
+Tomáš Klopta,ZA,https://www.transparentneucty.sk/#/ucet/SK7309000000005190521845,miestne,Ružomberok,,nezávislý kandidát,nezvolený
+Štefan Kompánek,ZA,https://ib.fio.sk/ib/transparent?a=2901521726,miestne,Turzovka,,ZA ĽUDÍ,nezvolený
+Ján Laco,ZA,https://www.transparentneucty.sk/#/ucet/SK2809000000005193965767,miestne,Liptovský Mikuláš,,nezávislý kandidát,nezvolený
+Ladislav Marek,ZA,https://ib.fio.sk/ib/transparent?a=2702326290,miestne,Bytča,,nezávislý kandidát,nezvolený
+Tomáš Martaus,ZA,https://www.transparentneucty.sk/#/ucet/SK6709000000005191666165,miestne,Liptovský Mikuláš,,nezávislý kandidát,nezvolený
+Jozef Petráš,ZA,https://www.transparentneucty.sk/#/ucet/SK5809000000005191691547,miestne,Martin,,nezávislý kandidát,nezvolený
+Ján Rzeszoto,ZA,https://ib.fio.sk/ib/transparent?a=2302222206,miestne,Žilina,,nezávislý kandidát,nezvolený
+Peter Slyško,ZA,https://www.transparentneucty.sk/#/ucet/SK3009000000005192844314,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia,nezvolený
+Stanislav Thomka,ZA,https://www.transparentneucty.sk/#/ucet/SK9609000000005189717883,miestne,Martin,,nezávislý kandidát,nezvolený
+Peter Zverec,ZA,https://www.transparentneucty.sk/#/ucet/SK3509000000005192986232,miestne,Čadca,,nezávislý kandidát,nezvolený
+Jana Ambrošová,BB,https://www.transparentneucty.sk/#/ucet/SK8009000000005193470713,miestne,Veľký Krtíš,,nezávislý kandidát,nezvolený
+Dominika Árvaiová,BB,https://www.transparentneucty.sk/#/ucet/SK0809000000005192567775,miestne,Zvolen,,nezávislý kandidát,nezvolený
+Martina Brisudová,BB,https://www.transparentneucty.sk/#/ucet/SK4809000000005192823038,miestne,Poltár,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, ZA ĽUDÍ, SME RODINA",nezvolený
+Slavomír Ciglan,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9302000000004631858853,miestne,Detva,,nezávislý kandidát,nezvolený
+Nadežda Demeterová,BB,https://transparentneucty.sk/#/ucet/SK7209000000005192895162,miestne,Rimavská Sobota,,OKS,nezvolený
+Marian Dorkin,BB,https://www.transparentneucty.sk/#/ucet/SK3509000000005192879920,miestne,Tornaľa,,OĽANO-NOVA-KÚ-ZMENA ZDOLA,nezvolený
+Renáta Endrődyová,BB,https://ib.fio.sk/ib/transparent?a=2102295662,miestne,Lučenec,,nezávislý kandidát,nezvolený
+Diana Javorčíková,BB,https://ib.fio.sk/ib/transparent?a=2802047811,miestne,Banská Bystrica,,nezávislý kandidát,nezvolený
+Daniel Karas,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004644139356,miestne,Banská Bystrica,,"SMER - SD, REPUBLIKA",nezvolený
+Peter Kmeť,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2902000000004630674956,miestne,Žarnovica,,nezávislý kandidát,nezvolený
+Zsolt Lajka,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9002000000004592717758,miestne,Rimavská Sobota,,nezávislý kandidát,nezvolený
+Roman Lebeda,BB,https://www.transparentneucty.sk/#/ucet/SK7409000000005193619231,miestne,Hnúšťa,,nezávislý kandidát,nezvolený
+Petra Mazúrová,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2702000000004641591857,miestne,Žiar nad Hronom,,nezávislý kandidát,nezvolený
+Anton Minárik,BB,https://ib.fio.sk/ib/transparent?a=2402252007,miestne,Banská Bystrica,,nezávislý kandidát,nezvolený
+Rút Olšiaková,BB,https://www.transparentneucty.sk/#/ucet/SK2809000000005192547336,miestne,Lučenec,,nezávislý kandidát,nezvolený
+Mikuláš Pál,BB,https://www.transparentneucty.sk/#/ucet/SK5109000000005190626807,miestne,Banská Štiavnica,,nezávislý kandidát,nezvolený
+Adrian Polóny,BB,https://www.transparentneucty.sk/#/ucet/SK8709000000005192269145,župné,Banskobystrický samosprávny kraj,,nezávislý kandidát,nezvolený
+Peter Rék,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5502000000004627927254,miestne,Veľký Krtíš,,nezávislý kandidát,nezvolený
+Klaudia Vajová,BB,https://www.transparentneucty.sk/#/ucet/SK5309000000005193680040,miestne,Veľký Krtíš,,Hlas - sociálna demokracia,nezvolený
+Radim Vojtko,BB,https://www.transparentneucty.sk/#/ucet/SK4809000000005189986370,miestne,Žarnovica,,nezávislý kandidát,nezvolený
+Ján Andrejko,PO,https://ib.fio.sk/ib/transparent?a=2102247038,miestne,Prešov,,nezávislý kandidát,nezvolený
+Daniel Barnišin,PO,https://ib.fio.sk/ib/transparent?a=2202291386,miestne,Humenné,,nezávislý kandidát,nezvolený
+Zuzana Bednárová,PO,https://www.transparentneucty.sk/#/ucet/SK5109000000005192541102,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,KDH,nezvolený
+Patrik Benčík,PO,https://www.transparentneucty.sk/#/ucet/SK2609000000005194405892,miestne,Prešov,,nezávislý kandidát,nezvolený
+Artúr Benes,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7402000000004624126355,miestne,Prešov,,nezávislý kandidát,nezvolený
+Ján Bync,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0702000000004637555853,župné,Prešovský samosprávny kraj,,nezávislý kandidát,nezvolený
+Jozef Cvoliga,PO,https://www.transparentneucty.sk/#/ucet/SK6209000000005194612242,miestne,Levoča,,"KDH, SME RODINA, SaS, OKS",nezvolený
+Martin Eštočák,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0902000000004638738053,miestne,Prešov,,nezávislý kandidát,nezvolený
+Pavol Fejerčák,PO,https://www.transparentneucty.sk/#/ucet/SK9009000000005194337228,miestne,Kežmarok,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,nezvolený
+Angela Františková,PO,https://www.transparentneucty.sk/#/ucet/SK7409000000005191121966,miestne,Poprad,,SNS,nezvolený
+Daniela Galandová,PO,https://www.transparentneucty.sk/#/ucet/SK4909000000005148626037,miestne,Snina,,nezávislý kandidát,nezvolený
+Ľubomír Gergeľ,PO,https://ib.fio.sk/ib/transparent?a=2902290026,miestne,Humenné,,"SRDCE - SNJ - sv, NaS - ns",nezvolený
+Pavel Hagyari,PO,https://www.transparentneucty.sk/#/ucet/SK6809000000005192445639,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,"STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI, SME RODINA",nezvolený
+Michal Kaliňák,PO,https://www.transparentneucty.sk/#/ucet/SK9309000000005194199822,župné,Prešovský samosprávny kraj,,"Hlas - sociálna demokracia, SMER - SD, SNS, SZÖVETSÉG - ALIANCIA",nezvolený
+Tomáš Kirňák,PO,https://www.transparentneucty.sk/#/ucet/SK6309000000005192268898,miestne,Snina,,"Hlas - sociálna demokracia, SME RODINA",nezvolený
+Víťazoslav Lukačik,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7302000000004652764653,miestne,Medzilaborce,,nezávislý kandidát,nezvolený
+Ľuboš Micheľ,PO,https://www.transparentneucty.sk/#/ucet/SK0309000000005193259475,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia,nezvolený
+Slavomír Novák,PO,https://www.transparentneucty.sk/#/ucet/SK2009000000005192794054,miestne,Humenné,,"SPOLU, SaS, ODS - Občianski demokrati Slovenska, OĽANO-NOVA-KÚ-ZMENA ZDOLA, ŠANCA, Progresívne Slovensko, OKS, DS, Zmena zdola, DÚ",nezvolený
+Miloslav Olejár,PO,https://www.transparentneucty.sk/#/ucet/SK8709000000005190016320,miestne,Bardejov,,nezávislý kandidát,nezvolený
+Ján Ondrišík,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000004646242357,miestne,Poprad,,OĽANO-NOVA-KÚ-ZMENA ZDOLA,nezvolený
+Lenka Potočná,PO,https://www.transparentneucty.sk/#/ucet/SK4109000000005194125874,miestne,Štrba,,nezávislý kandidát,nezvolený
+Beáta Pribulová,PO,https://www.transparentneucty.sk/#/ucet/SK3809000000005194421681,miestne,Sabinov,,nezávislý kandidát,nezvolený
+Katarína Siváková,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6702000000004651558954,miestne,Svidník,,nezávislý kandidát,nezvolený
+Stanislav Soroka,PO,https://www.transparentneucty.sk/#/ucet/SK8509000000005194393481,miestne,Bardejov,,SME RODINA,nezvolený
+Miloš Stronček,PO,https://www.transparentneucty.sk/#/ucet/SK3509000000005193911806,miestne,Svidník,,nezávislý kandidát,nezvolený
+Tomáš Šimoňák,PO,https://www.transparentneucty.sk/#/ucet/SK7109000000005187780176,miestne,Kežmarok,,KDH,nezvolený
+Vladimír Škára,PO,https://www.transparentneucty.sk/#/ucet/SK8109000000005190804941,miestne,Kežmarok,,nezávislý kandidát,nezvolený
+Miroslav Škvarek,PO,https://www.transparentneucty.sk/#/ucet/SK4809000000005193707290,miestne,Svit,,nezávislý kandidát,nezvolený
+Ján Štovka,PO,https://ib.fio.sk/ib/transparent?a=2302295632,miestne,Prešov,,nezávislý kandidát,nezvolený
+Andrej Cpin,KE,https://www.transparentneucty.sk/#/ucet/SK4609000000005194144020,miestne,Spišská Nová Ves,,"KDH, DS, SPOLU",nezvolený
+Jaroslav Džunko,KE,https://ib.fio.sk/ib/transparent?a=2302299158,miestne,Košice,,STRANA MODERNÉHO SLOVENSKA (SMS),nezvolený
+Štefan Ferencsik,KE,https://www.transparentneucty.sk/#/ucet/SK3309000000005194578814,miestne,Košice - Sever,,Hlas - sociálna demokracia,nezvolený
+Patrik Géci,KE,https://www.transparentneucty.sk/#/ucet/SK1209000000005193360290,miestne,Košice - Juh,,Hlas - sociálna demokracia,nezvolený
+Lukáš Harhaj,KE,https://www.transparentneucty.sk/#/ucet/SK0509000000005183104509,miestne,Sečovce,,nezávislý kandidát,nezvolený
+Marek Hutník,KE,https://www.transparentneucty.sk/#/ucet/SK6709000000005194627866,miestne,Košice - Šaca,,nezávislý kandidát,nezvolený
+Anna Jenčová,KE,https://www.transparentneucty.sk/#/ucet/SK5509000000005194309825,miestne,Košice - Nad jazerom,,nezávislý kandidát,nezvolený
+Milan Kaplan,KE,https://www.transparentneucty.sk/#/ucet/SK5909000000005186671197,miestne,Michalovce,,nezávislý kandidát,nezvolený
+Kolos Kiss,KE,https://www.transparentneucty.sk/#/ucet/SK6209000000005194468682,miestne,Veľké Kapušany,,SZÖVETSÉG - ALIANCIA,nezvolený
+Michal Kotrady,KE,https://www.transparentneucty.sk/#/ucet/SK0709000000005192875671,miestne,Smižany,,nezávislý kandidát,nezvolený
+Matej Kundrát,KE,https://ib.fio.sk/ib/transparent?a=2402114157,miestne,Košice - Sever,,nezávislý kandidát,nezvolený
+Štefan Lasky,KE,https://www.transparentneucty.sk/#/ucet/SK9309000000005190196341,miestne,Košice,,nezávislý kandidát,nezvolený
+Oliver Petrík,KE,https://www.transparentneucty.sk/#/ucet/SK3009000000005192134371,miestne,Michalovce,,Socialisti.sk,nezvolený
+Pavol Priester,KE,https://ib.fio.sk/ib/transparent?a=2402298208,miestne,Košice - Staré Mesto,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, ZA ĽUDÍ, Progresívne Slovensko, Zmena zdola, DÚ",nezvolený
+Marián Sejna,KE,https://www.transparentneucty.sk/#/ucet/SK0909000000005192562907,miestne,Sobrance,,"Hlas - sociálna demokracia, SME RODINA",nezvolený
+Martin Seman,KE,https://www.transparentneucty.sk/#/ucet/SK9009000000005193038883,miestne,Košice - Nad jazerom,,nezávislý kandidát,nezvolený
+Dušana Sobodová,KE,https://www.transparentneucty.sk/#/ucet/SK9009000000005193999086,miestne,Košice - Dargovských hrdinov,,Hlas - sociálna demokracia,nezvolený
+Monika Sofiya Soročinová,KE,https://ib.fio.sk/ib/transparent?a=2802299461,župné,Košický samosprávny kraj,,nezávislý kandidát,nezvolený
+Tímea Sotáková,KE,https://www.transparentneucty.sk/#/ucet/SK2209000000005192148095,miestne,Michalovce,,Hlas - sociálna demokracia,nezvolený
+Róbert Suja,KE,https://www.transparentneucty.sk/#/ucet/SK7309000000005190311258,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474,Hlas - sociálna demokracia,nezvolený
+Andrea Tragalová,KE,https://www.transparentneucty.sk/#/ucet/SK2209000000005194488026,miestne,Košice - Juh,,nezávislý kandidát,nezvolený
+Miroslav Tuleja,KE,https://www.transparentneucty.sk/#/ucet/SK7209000000005192393963,miestne,Košice - Krásna,,nezávislý kandidát,nezvolený
+Tomáš Vasok,KE,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8002000000004647593554,miestne,Košice - Dargovských hrdinov,,"KDH, SaS, Progresívne Slovensko, NOVA, SZÖVETSÉG - ALIANCIA, SRK, DOBRÁ VOĽBA a Umiernení, OĽANO-NOVA-KÚ-ZMENA ZDOLA",nezvolený
+Natália Železníková,KE,https://www.transparentneucty.sk/#/ucet/SK5509000000005194605384,miestne,Košice - Šaca,,Hlas - sociálna demokracia,nezvolený
+Marek Modranský,BB,https://www.transparentneucty.sk/#/ucet/SK7009000000005191868453,župné,Banskobystrický samosprávny kraj,,nezávislý kandidát,nezvolený
+Rudolf Kusý,BA,https://www.transparentneucty.sk/#/ucet/SK4109000000005192830924,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063;https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449;https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"SME RODINA, KDH, ZA ĽUDÍ, DOBRÁ VOĽBA a Umiernení, SZÖVETSÉG - ALIANCIA",nezvolený
+Miroslav Vetrík,BA,https://ib.fio.sk/ib/transparent?a=2102255206,miestne,Bratislava,,ŽIVOT,nezvolený
+Ivan Bošňák,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004644770754,župné,Bratislavský samosprávny kraj,,"DS, ODS - Občianski demokrati Slovenska, SPOLU, ŠANCA",nezvolený
+Viliam Novotný,KE,https://www.transparentneucty.sk/#/ucet/SK0209000000005193512469,miestne,Košice,,"SPOLU, DS, ŠANCA, ODS - Občianski demokrati Slovenska",nezvolený
+Jozef Karabin,KE,https://ib.fio.sk/ib/transparent?a=2301472043,miestne,Košice,,nezávislý kandidát,nezvolený
+Miloslav Klíma,KE,https://www.transparentneucty.sk/#/ucet/SK9409000000005190685882,miestne,Košice,,nezávislý kandidát,nezvolený
+Monika Kováčová,KE,https://www.transparentneucty.sk/#/ucet/SK8709000000005192983162,miestne,Košice,,nezávislý kandidát,nezvolený
+Erik Ňarjaš,KE,https://www.transparentneucty.sk/#/ucet/SK6609000000005194008539,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, ZA ĽUDÍ, Zmena zdola, DÚ, NOVA, Kresťanská únia",nezvolený
+Džemal Kodrazi,KE,https://www.transparentneucty.sk/#/ucet/SK7109000000005193952480,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2909000000005186956723,PRINCÍP,nezvolený
+Ivan Hriczko,KE,https://ib.fio.sk/ib/transparent?a=2402280905,župné,Košický samosprávny kraj,,SIM,nezvolený
+Viliam Zahorčák,KE,https://www.transparentneucty.sk/#/ucet/SK3709000000005193035084,župné,Košický samosprávny kraj,,"SMER - SD, SME RODINA, SNS, ŽIVOT, STRANA MODERNÉHO SLOVENSKA (SMS), NK/NEKA",nezvolený
+Juraj Sinay,KE,https://www.transparentneucty.sk/#/ucet/SK4409000000005193748199,župné,Košický samosprávny kraj,,nezávislý kandidát,nezvolený
+Vladislav Stanko,KE,https://www.transparentneucty.sk/#/ucet/SK6809000000005192663986,župné,Košický samosprávny kraj,,nezávislý kandidát,nezvolený
+Štefan Štefek,NR,https://www.transparentneucty.sk/#/ucet/SK4909000000005191747678,miestne,Nitra,,nezávislý kandidát,nezvolený
+Tibor Csenger,NR,https://www.transparentneucty.sk/#/ucet/SK1009000000005194001011,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK2109000000005193282528,SZÖVETSÉG - ALIANCIA,nezvolený
+Milan Španír,NR,https://ib.fio.sk/ib/transparent?a=2602342621,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Martin Kusenda,NR,https://ib.fio.sk/ib/transparent?a=2102100167,župné,Nitriansky samosprávny kraj,,nezávislý kandidát,nezvolený
+Renáta Kolenčíková,NR,https://www.transparentneucty.sk/#/ucet/SK7709000000005195000942,župné,Nitriansky samosprávny kraj,,nezávislý kandidát,nezvolený
+Michal Biganič,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8802000000004664631751,župné,Prešovský samosprávny kraj,,99 % - občiansky hlas,nezvolený
+Michal Biganič,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8802000000004664631751,miestne,Stará Ľubovňa,,99 % - občiansky hlas,nezvolený
+Ľubomír Goliaš,PO,https://www.transparentneucty.sk/#/ucet/SK1109000000005195109024,župné,Prešovský samosprávny kraj,,Hnutie ONÁS,nezvolený
+Štefan Zelník,ZA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3702000000004647357551,miestne,Žilina,,ŽIVOT,nezvolený
+Patrik Groma,ZA,https://www.transparentneucty.sk/#/ucet/SK6509000000005194503257,miestne,Žilina,https://www.transparentneucty.sk/#/ucet/SK2309000000005192332474; https://www.transparentneucty.sk/#/ucet/SK0709000000005191733399,"Hlas - sociálna demokracia, KDH",nezvolený
+Daniela Zemanová,ZA,https://ib.fio.sk/ib/transparent?a=2102337009,miestne,Žilina,,Hnutie ONÁS,nezvolený
+Daniela Zemanová,ZA,https://ib.fio.sk/ib/transparent?a=2102337009,župné,Žilinský samosprávny kraj,,Hnutie ONÁS,nezvolený
+Katarína Boková,ZA,https://ib.fio.sk/ib/transparent?a=2602324271,župné,Žilinský samosprávny kraj,,Slovenské Hnutie Obrody,nezvolený
+Andrea Starinská,ZA,https://www.transparentneucty.sk/#/ucet/SK8509000000005195414600,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Elena Pätoprstá,BA,https://www.transparentneucty.sk/#/ucet/SK9009000000005149622265,miestne,Bratislava - Petržalka,,"Zmena zdola, DÚ",nezvolený
+Jana Jányová,BA,https://www.transparentneucty.sk/#/ucet/SK3309000000005193902918,miestne,Bratislava - Ružinov,,"SMER - SD, REPUBLIKA, DOMOV-NS",nezvolený
+Peter Strapák,BA,https://ib.fio.sk/ib/transparent?a=2102267469,miestne,Bratislava - Ružinov,,nezávislý kandidát,nezvolený
+Martin Kalnický,ZA,https://www.transparentneucty.sk/#/ucet/SK8909000000005185698232,miestne,Martin,,nezávislý kandidát,nezvolený
+Michal Uherčík,ZA,https://www.transparentneucty.sk/#/ucet/SK4709000000005190305130,miestne,Martin,,"Skúsme to inak, SaS, OKS",nezvolený
+Peter Dujava,PO,https://ib.fio.sk/ib/transparent?a=2401385529,miestne,Poprad,,nezávislý kandidát,nezvolený
+František Majerský,PO,https://www.transparentneucty.sk/#/ucet/SK6509000000005194404996,miestne,Poprad,,"KDH, Progresívne Slovensko, SaS, STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI",nezvolený
+Jana Michaličková,TN,https://www.transparentneucty.sk/#/ucet/SK5709000000005194804586,miestne,Prievidza,,nezávislý kandidát,nezvolený
+Dominika Vážna,TN,https://www.transparentneucty.sk/#/ucet/SK5509000000005194661159,miestne,Prievidza,,Hlas - sociálna demokracia,nezvolený
+Matej Snopko,BB,https://www.transparentneucty.sk/#/ucet/SK4109000000005189449989,miestne,Zvolen,,nezávislý kandidát,nezvolený
+Michal Čambal,BA,https://www.transparentneucty.sk/#/ucet/SK5809000000005194486020,miestne,Bratislava - Staré Mesto,,ŽIVOT,nezvolený
+Martin Gajdoš,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6202000000004617265955,miestne,Bratislava - Staré Mesto,,"SPOLU, DS, ODS - Občianski demokrati Slovenska, ŠANCA",nezvolený
+Radoslav Števčík,BA,https://ib.fio.sk/ib/transparent?a=2901464231,miestne,Bratislava - Staré Mesto,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,nezvolený
+Andrej Árva,BA,https://www.transparentneucty.sk/#/ucet/SK4309000000005195406141,miestne,Bratislava - Nové Mesto,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,nezvolený
+Zuzana Rattajová,BA,https://www.transparentneucty.sk/#/ucet/SK6309000000005194391064,miestne,Bratislava - Nové Mesto,,nezávislý kandidát,nezvolený
+Rastislav Blaško,BA,https://ib.fio.sk/ib/transparent?a=4112017091,mieste,Pezinok,,NK/NEKA,nezvolený
+Ján Rigler,BA,https://www.transparentneucty.sk/#/ucet/SK8409000000005195230609,miestne,Stupava,,Hlas - sociálna demokracia,nezvolený
+Tomáš Hudcovič,TT,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2602000000004658884453,miestne,Piešťany,,nezávislý kandidát,nezvolený
+Marián Chovanec,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6002000000004659258358,miestne,Bánovce nad Bebravou,,nezávislý kandidát,nezvolený
+Peter Bodoki,NR,https://www.transparentneucty.sk/#/ucet/SK8509000000005194733175,miestne,Komárno,,Hlas - sociálna demokracia,nezvolený
+Mário Jamrich,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000004659569551,miestne,Vráble,,STRANA MODERNÉHO SLOVENSKA (SMS),nezvolený
+Oľga Juhász,NR,https://www.transparentneucty.sk/#/ucet/SK3509000000005194984820,miestne,Štúrovo,,nezávislý kandidát,nezvolený
+Branislav Šušolík,ZA,https://www.transparentneucty.sk/#/ucet/SK1709000000005195221921,miestne,Bytča,,nezávislý kandidát,nezvolený
+Vladislav Lalka,BB,https://www.transparentneucty.sk/#/ucet/SK0309000000005193890654,miestne,Nová Baňa,,nezávislý kandidát,nezvolený
+Štefan Kostilník,PO,https://www.transparentneucty.sk/#/ucet/SK9309000000005194394695,miestne,Medzilaborce,,nezávislý kandidát,nezvolený
+Ľubomír Murín,PO,https://www.transparentneucty.sk/#/ucet/SK1309000000005194175169,miestne,Levoča,,nezávislý kandidát,nezvolený
+Pavol Džurina,KE,https://www.transparentneucty.sk/#/ucet/SK8209000000005195175355,miestne,Sobrance,,nezávislý kandidát,nezvolený
+Róbert Filko,KE,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6402000000004659990151,miestne,Sečovce,,OĽANO-NOVA-KÚ-ZMENA ZDOLA,nezvolený
+Alena Hiráková,KE,https://ib.fio.sk/ib/transparent?a=2502325605,miestne,Sobrance,,nezávislý kandidát,nezvolený
+Jaroslav Ševčík,TN,https://www.transparentneucty.sk/#/ucet/SK8109000000005194412953,miestne,Považská Bystrica,,NK/NEKA,nezvolený
+Dušan Drotár,KE,https://www.transparentneucty.sk/#/ucet/SK5509000000005194159863,miestne,Košice - Západ,,"SPOLU, DS, ŠANCA, ODS - Občianski demokrati Slovenska",nezvolený
+Matúš Lukáč,KE,https://www.transparentneucty.sk/#/ucet/SK6209000000005194892184,miestne,Košice - Západ,,Hlas - sociálna demokracia,nezvolený
+Ladislav Rovinský,KE,https://ib.fio.sk/ib/transparent?a=2402313076,miestne,Košice - Západ,,"Demokrati Slovenska, SRK, SME RODINA, NOVA",nezvolený
+Beáta Zemková,KE,https://www.transparentneucty.sk/#/ucet/SK8409000000005195238272,miestne,Košice - Západ,,nezávislý kandidát,nezvolený
+Dušan Goda,KE,https://www.transparentneucty.sk/#/ucet/SK7409000000005195228461,miestne,Michalovce,,nezávislý kandidát,nezvolený
+Erik Sibal,KE,https://www.transparentneucty.sk/#/ucet/SK0509000000005194574565,miestne,Michalovce,,nezávislý kandidát,nezvolený
+Ildikó Bauer,NR,https://www.transparentneucty.sk/#/ucet/SK6109000000005191915854,miestne,Komárno,,SZÖVETSÉG - ALIANCIA,nezvolený
+Stanislav Onderišin,PO,https://ib.fio.sk/ib/transparent?a=2002260470,miestne,Humenné,,"SMER - SD, ŽIVOT, SNS",nezvolený
+Mária Ferková,PO,https://www.transparentneucty.sk/#/ucet/SK3909000000005178771198,miestne,Bardejov,,nezávislý kandidát,nezvolený
+Igor Kúdela,NR,https://ib.fio.sk/ib/transparent?a=2302325045,miestne,Levice,,"Zmena zdola, DÚ",nezvolený
+Ervín Szalma,NR,https://ib.fio.sk/ib/transparent?a=2802283427,miestne,Levice,,nezávislý kandidát,nezvolený
+Miroslav Holzmann,BA,https://ib.fio.sk/ib/transparent?a=2502324469,miestne,Pezinok,,nezávislý kandidát,nezvolený
+Božena Mizerová,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5002000000004663082957,miestne,Pezinok,,nezávislý kandidát,nezvolený
+Peter Baláž,NR,https://www.transparentneucty.sk/#/ucet/SK7209000000005192861309,miestne,Topoľčany,,KDH,nezvolený
+Igor Hupka,NR,https://www.transparentneucty.sk/#/ucet/SK3809000000005191778140,miestne,Topoľčany,,nezávislý kandidát,nezvolený
+Andrej Bojczún,BA,https://www.transparentneucty.sk/#/ucet/SK9609000000005194873821,miestne,Bratislava - Podunajské Biskupice,,nezávislý kandidát,nezvolený
+Pavol Kubiš,BA,https://www.transparentneucty.sk/#/ucet/SK9309000000005192093661,miestne,Bratislava - Podunajské Biskupice,,DS,nezvolený
+Zoran Kupkovič,BA,https://ib.fio.sk/ib/transparent?a=2702306353,miestne,Bratislava - Podunajské Biskupice,,Hlas - sociálna demokracia,nezvolený
+Zoltán Pék,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3102000000004642226456,miestne,Bratislava - Podunajské Biskupice,,"SOM Slovensko, SZÖVETSÉG - ALIANCIA",nezvolený
+Martin Cifra,TT,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6502000000004660911051,miestne,Piešťany,,STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI,nezvolený
+Martin Madlo,TT,https://www.transparentneucty.sk/#/ucet/SK6309000000005192497818,miestne,Piešťany,,Hlas - sociálna demokracia,nezvolený
+Zuzana Svrčeková,TT,https://www.transparentneucty.sk/#/ucet/SK4509000000005194651348,miestne,Piešťany,,nezávislý kandidát,nezvolený
+Ján Bednárik,ZA,https://www.transparentneucty.sk/#/ucet/SK2009000000005190414353,miestne,Ružomberok,,KDH,nezvolený
+Strana obcí a miest - SOM SLOVENSKO,PS,https://www.transparentneucty.sk/#/ucet/SK1609000000005195176737,,,https://www.transparentneucty.sk/#/ucet/SK1609000000005195176737,,
+František Zajíček,BA,https://www.transparentneucty.sk/#/ucet/SK3709000000005195037649,miestne,Rovinka,,nezávislý kandidát,nezvolený
+Ctibor Melich,NR,https://www.transparentneucty.sk/#/ucet/SK6409000000005194581263,miestne,Hurbanovo,,SaS,nezvolený
+Miloš Hucík,ZA,https://www.transparentneucty.sk/#/ucet/SK2509000000005195433043,miestne,Trstená,,nezávislý kandidát,nezvolený
+Miroslav Mazúr,ZA,https://www.transparentneucty.sk/#/ucet/SK3309000000005195377803,miestne,Vrútky,,nezávislý kandidát,nezvolený
+Ľubomíra Benešová,BB,https://www.transparentneucty.sk/#/ucet/SK4709000000005191064543,miestne,Revúca,,nezávislý kandidát,nezvolený
+Martin Buzáš,PO,https://www.transparentneucty.sk/#/ucet/SK2509000000005194185914,miestne,Vranov nad Topľou,,nezávislý kandidát,nezvolený
+Lukáš Chovaňák,PO,https://www.transparentneucty.sk/#/ucet/SK3909000000005195400102,miestne,Spišská Belá,,nezávislý kandidát,nezvolený
+Michal Djordjevič,KE,https://www.transparentneucty.sk/#/ucet/SK7009000000005182906235,miestne,Košice - Staré Mesto,,nezávislý kandidát,nezvolený
+Tomáš Stredl,TT,https://ib.fio.sk/ib/transparent?a=2302084106,miestne,Dunajská Streda,,nezávislý kandidát,nezvolený
+Milan Gura,ZA,https://www.transparentneucty.sk/#/ucet/SK5409000000005149572376,miestne,Čadca,,nezávislý kandidát,nezvolený
+Jozef Vražel,ZA,https://www.transparentneucty.sk/#/ucet/SK8209000000005193566707,miestne,Čadca,,"SMER - SD, REPUBLIKA",nezvolený
+Martina Edery Lysina,KE,https://www.transparentneucty.sk/#/ucet/SK1909000000005195695051,miestne,Košice - Nad Jazerom,,Slovenský PATRIOT,nezvolený
+Odrej Štefik,KE,https://www.transparentneucty.sk/#/ucet/SK2009000000005194120723,miestne,Košice - Sídlisko KVP,,"SMER - SD, SNS, ŽIVOT, STRANA MODERNÉHO SLOVENSKA (SMS), NK/NEKA",nezvolený
+Jaroslav Bagačka,BB,https://www.transparentneucty.sk/#/ucet/SK3009000000005193158594,miestne,Rimavská Sobota,,"KDH, OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, ZA ĽUDÍ, SPOLU, Progresívne Slovensko",nezvolený
+Ivan Hazucha,BB,https://www.transparentneucty.sk/#/ucet/SK6009000000005194733140,miestne,Rimavská Sobota,,"SMER - SD, REPUBLIKA, Hlas - sociálna demokracia",nezvolený
+Vladimír Kozák,KE,https://www.transparentneucty.sk/#/ucet/SK4509000000005194216303,miestne,Košice - Juh,,"SMER - SD, SNS, ŽIVOT, STRANA MODERNÉHO SLOVENSKA (SMS), NK/NEKA",nezvolený
+Peter Múdry,KE,https://ib.fio.sk/ib/transparent?a=2202297278,miestne,Košice - Juh,,"KDH, SaS, SME RODINA, SZÖVETSÉG - ALIANCIA, NOVA, DOBRÁ VOĽBA a Umiernení, ZA ĽUDÍ",nezvolený
+Tibor Pápeš,NR,https://www.transparentneucty.sk/#/ucet/SK6209000000005194137912,miestne,Šaľa,,nezávislý kandidát,nezvolený
+Ján Pavúk,KE,https://www.transparentneucty.sk/#/ucet/SK8509000000005195481336,miestne,Košice - Sídlisko Ťahanovce,,"KDH, OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, SZÖVETSÉG - ALIANCIA, NOVA, DOBRÁ VOĽBA a Umiernení",nezvolený
+Zuzana Slivenská,KE,https://www.transparentneucty.sk/#/ucet/SK6509000000005192216967,miestne,Košice - Sídlisko Ťahanovce,,nezávislý kandidát,nezvolený
+Dušan Badinský,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5202000000004628769753,miestne,Senec,,nezávislý kandidát,nezvolený
+Andrea Palcová,BA,https://www.transparentneucty.sk/#/ucet/SK6109000000005192263405,miestne,Senec,,nezávislý kandidát,nezvolený
+Michal Dolňan,BB,https://ib.fio.sk/ib/transparent?a=2802103641,miestne,Brezno,,nezávislý kandidát,nezvolený
+Juraj Moravčík,TT,https://www.transparentneucty.sk/#/ucet/SK0809000000005194104643,miestne,Senica,,"ŽIVOT, Hlas - sociálna demokracia",nezvolený
+Otto Múčka,BA,https://www.transparentneucty.sk/#/ucet/SK0409000000005194745109,miestne,Malacky,,nezávislý kandidát,nezvolený
+Jaroslav Sedlák,BA,https://www.transparentneucty.sk/#/ucet/SK7009000000005194671074,miestne,Malacky,,NK/NEKA,nezvolený
+Roland Varga,PO,https://www.transparentneucty.sk/#/ucet/SK4009000000005195247697,miestne,Snina,,NK/NEKA,nezvolený
+Pavol Burdiga,KE,https://www.transparentneucty.sk/#/ucet/SK3309000000005193776333,miestne,Rožňava,,nezávislý kandidát,nezvolený
+Igor Senčák,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK3402000000004644213253,miestne,Rovinka,,nezávislý kandidát,nezvolený
+Tibor Szalay,TT,https://www.transparentneucty.sk/#/ucet/SK4009000000005194685388,miestne,Galanta,,nezávislý kandidát,nezvolený
+Martin Mikuš,TN,https://www.transparentneucty.sk/#/ucet/SK5409000000005194974390,miestne,Bánovce nad Bebravou,,SNS,nezvolený
+Árpád Horváth,NR,https://www.transparentneucty.sk/#/ucet/SK2509000000005195306458,miestne,Kolárovo,,SZÖVETSÉG - ALIANCIA,nezvolený
+Miroslav Mariak,ZA,https://www.transparentneucty.sk/#/ucet/SK6809000000005195213534,miestne,Raková,,nezávislý kandidát,nezvolený
+Pavol Balážik,BB,https://ib.fio.sk/ib/transparent?a=2202335094,miestne,Revúca,,nezávislý kandidát,nezvolený
+Viktória Valachovičová,BB,https://ib.fio.sk/ib/transparent?a=2902327132,miestne,Nová Baňa,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, SaS, KDH, OKS, ZA ĽUDÍ",nezvolený
+Marta Britaňáková,PO,https://www.transparentneucty.sk/#/ucet/SK4609000000005195302588,miestne,Spišská Belá,,nezávislý kandidát,nezvolený
+Róbert Šándor,KE,https://ib.fio.sk/ib/transparent?a=2402335072,miestne,Čaňa,,nezávislý kandidát,nezvolený
+Cyril Crkoň,TN,https://www.transparentneucty.sk/#/ucet/SK2009000000005191890984,miestne,Púchov,,nezávislý kandidát,nezvolený
+Roman Hvizdák,TN,https://www.transparentneucty.sk/#/ucet/SK5609000000005191939709,miestne,Púchov,,nezávislý kandidát,nezvolený
+Marián Michalec,TN,https://www.transparentneucty.sk/#/ucet/SK0309000000005188093255,miestne,Púchov,,nezávislý kandidát,nezvolený
+Ján Spevár,TN,https://www.transparentneucty.sk/#/ucet/SK7009000000005192134718,miestne,Handlová,,nezávislý kandidát,nezvolený
+Robert Šuník,TN,https://www.transparentneucty.sk/#/ucet/SK6009000000005194136784,miestne,Handlová,,nezávislý kandidát,nezvolený
+Vladislav Horňák,TT,https://www.transparentneucty.sk/#/ucet/SK7209000000005169640479,miestne,Skalica,,nezávislý kandidát,nezvolený
+Ivan Kazinota,TT,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2902000000004645793958,miestne,Skalica,,nezávislý kandidát,nezvolený
+Martin Štepán,TT,https://www.transparentneucty.sk/#/ucet/SK7609000000005193743646,miestne,Skalica,,nezávislý kandidát,nezvolený
+Karol Gurka,PO,https://www.transparentneucty.sk/#/ucet/SK6409000000005190708829,miestne,Kežmarok,,nezávislý kandidát,nezvolený
+Lukáš Baňacký,BA,https://www.transparentneucty.sk/#/ucet/SK9809000000005194406633,miestne,Bratislava - Lamač,,SOM Slovensko,nezvolený
+Ildikó Basternák,NR,https://www.transparentneucty.sk/#/ucet/SK0209000000005195510184,miestne,Hurbanovo,,SZÖVETSÉG - ALIANCIA,nezvolený
+Matej Fabšík,ZA,https://ib.fio.sk/ib/transparent?a=2901400166,miestne,Kysucké Nové Mesto,,nezávislý kandidát,nezvolený
+Vladimír Adamkovič,PO,https://www.transparentneucty.sk/#/ucet/SK7309000000005195412779,miestne,Levoča,,nezávislý kandidát,nezvolený
+Jozef Výbošťok,BB,https://ib.fio.sk/ib/transparent?a=2101164935,miestne,Detva,,nezávislý kandidát,nezvolený
+Marek Hrabčák,PO,https://www.transparentneucty.sk/#/ucet/SK8709000000005193554298,miestne,Sabinov,,nezávislý kandidát,nezvolený
+Marta Balážová,NR,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5402000000004641278158,miestne,Zlaté Moravce,,"KDH, ŠANCA, DS, SPOLU, ZA ĽUDÍ, ODS - Občianski demokrati Slovenska, OKS",nezvolený
+Ján Csala,KE,https://www.transparentneucty.sk/#/ucet/SK2209000000005192833594,miestne,Moldava nad Bodvou,,SZÖVETSÉG - ALIANCIA,nezvolený
+Ján Vook,PO,https://www.transparentneucty.sk/#/ucet/SK1109000000005194172101,miestne,Svidník,,nezávislý kandidát,nezvolený
+Marcela Tabačeková,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK2002000000004670999958,miestne,Rovinka,,"SPOLU, DS, ODS - Občianski demokrati Slovenska, ŠANCA",nezvolený
+Peter Horník,TT,https://www.transparentneucty.sk/#/ucet/SK8309000000005194753096,miestne,Sládkovičovo,,nezávislý kandidát,nezvolený
+Ľuboš Ilenčík,TN,https://www.transparentneucty.sk/#/ucet/SK8609000000005195567260,miestne,Nové Mesto nad Váhom,,nezávislý kandidát,nezvolený
+Iveta Ružeková,PO,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6702000000004652861955,miestne,Svit,,NaS - ns,nezvolený
+Tibor Palúch,BB,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7902000000004650853257,miestne,Fiľakovo,,Hlas - sociálna demokracia,nezvolený
+Štefan Mičura,BB,https://www.transparentneucty.sk/#/ucet/SK9209000000005187453490,miestne,Banská Štiavnica,,nezávislý kandidát,nezvolený
+Marek Oremus,NR,https://www.transparentneucty.sk/#/ucet/SK4309000000005193579049,miestne,Šurany,,SMER - SD,nezvolený
+Ján Štark,NR,https://www.transparentneucty.sk/#/ucet/SK7809000000005193553199,miestne,Šurany,,nezávislý kandidát,nezvolený
+Lukáš Lepáček,ZA,https://ib.fio.sk/ib/transparent?a=2302307234,miestne,Tvrdošín,,nezávislý kandidát,nezvolený
+Lukáš Bagin,KE,https://www.transparentneucty.sk/#/ucet/SK1409000000005195302000,miestne,Krompachy,,nezávislý kandidát,nezvolený
+Pavol Benedikt Bendik,KE,https://ib.vub.sk/pch/transparentne-ucty?iban=SK1702000000004662520951,miestne,Krompachy,,PRINCÍP,nezvolený
+Andrej Radena,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK7602000000004655824658,miestne,Stará Turá,,nezávislý kandidát,nezvolený
+Michal Hohoš,KE,https://www.transparentneucty.sk/#/ucet/SK8809000000005192609015,miestne,Sečovce,,nezávislý kandidát,nezvolený
+Marián Vanci,KE,https://ib.fio.sk/ib/transparent?a=2902327597,miestne,Sečovce,,nezávislý kandidát,nezvolený
+Gergő Holényi,TT,https://www.transparentneucty.sk/#/ucet/SK0409000000005195892231,miestne,Veľký Meder,,nezávislý kandidát,nezvolený
+Zalán Kórósi,TT,https://www.transparentneucty.sk/#/ucet/SK1609000000005195095451,miestne,Veľký Meder,,nezávislý kandidát,nezvolený
+Juraj Vajai,TT,https://www.transparentneucty.sk/#/ucet/SK4009000000005194940983,miestne,Veľký Meder,,SOM Slovensko,nezvolený
+Peter Paška,TT,https://www.transparentneucty.sk/#/ucet/SK5709000000005195295891,miestne,Galanta,,nezávislý kandidát,nezvolený
+Boris Bízek,TT,https://www.transparentneucty.sk/#/ucet/SK5209000000005194409498,miestne,Holíč,,nezávislý kandidát,nezvolený
+Juraj Bakoš,TN,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8802000000004638441751,miestne,Myjava,,nezávislý kandidát,nezvolený
+NÁRODNÁ KOALÍCIA - NEZÁVISLÍ KANDIDÁTI,PS,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,,,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,,
+PRINCÍP,PS,https://www.transparentneucty.sk/#/ucet/SK2909000000005186956723,,,https://www.transparentneucty.sk/#/ucet/SK2909000000005186956723,,
+ZA ĽUDÍ,PS,https://www.transparentneucty.sk/#/ucet/SK4209000000005190694287,,,https://www.transparentneucty.sk/#/ucet/SK4209000000005190694287,,
+Ivan Jurczazak,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK1402000000004677253753,,Dunajská Lužná,,nezávislý kandidát,nezvolený
+Darina Mosná,BA,https://www.transparentneucty.sk/#/ucet/SK2209000000005194484922,,Ivanka pri Dunaji,,ŽIVOT,nezvolený
+Adriana Uhríková,BA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8602000000004648850954,,Svätý Jur,,SME RODINA,nezvolený
+Alžbeta Vlčková,TT,https://www.transparentneucty.sk/#/ucet/SK6709000000005193555434,,Piešťany,,Skúsme to inak,nezvolený
+Milan Lipka,ZA,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4402000000004649218758,,Rajec,,nezávislý kandidát,nezvolený
+Jaroslav Považan,BB,https://www.transparentneucty.sk/#/ucet/SK8209000000005194339215,,Žarnovica,,nezávislý kandidát,nezvolený
+Ondrej Štefik,KE,https://www.transparentneucty.sk/#/ucet/SK2009000000005194120723,,Košice - Sídlisko KVP,,"SMER - SD, SNS, ŽIVOT, STRANA MODERNÉHO SLOVENSKA (SMS), NK/NEKA",nezvolený
+Peter Podhorský,BB,,miestne,Banská Bystrica,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Jozef Sásik,BB,,miestne,Banská Bystrica,,Slovenská ľudová strana (SĽS),nezvolený
+Jozef Sásik,BB,,župné,Banskobystrický samosprávny kraj,,Slovenská ľudová strana (SĽS),nezvolený
+Marek Kotleba,BB,,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Miroslav Suja,BB,,župné,Banskobystrický samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Maroš Čupka,BB,,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk,nezvolený
+Michal Albert,BB,,župné,Banskobystrický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK4809000000005193974137,KSS,nezvolený
+Martin Jakubec,BA,,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Miroslav Heredoš,BA,,miestne,Bratislava,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Milena Minichová,BA,,miestne,Bratislava,,STRANA MODERNÉHO SLOVENSKA (SMS),nezvolený
+Milena Minichová,BA,,miestne,Bratislava - Staré Mesto,,STRANA MODERNÉHO SLOVENSKA (SMS),nezvolený
+Peter Poláček,BA,,miestne,Bratislava,,Hnutie ONÁS,nezvolený
+Andrej Trnovec,BA,,miestne,Bratislava,,Slovenská ľudová strana (SĽS),nezvolený
+Andrej Trnovec,BA,,župné,Bratislavský samosprávny kraj,,Slovenská ľudová strana (SĽS),nezvolený
+Andrej Trnovec,BA,,miestne,Bratislava - Staré Mesto,,Slovenská ľudová strana (SĽS),nezvolený
+Magdaléna Sulanová,BA,,župné,Bratislavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Ján Mažgút,BA,,župné,Bratislavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK1209000000005191226290,"SMER - SD, SNS",nezvolený
+Milan Lopašovský,BA,,župné,Bratislavský samosprávny kraj,,STRANA MODERNÉHO SLOVENSKA (SMS),nezvolený
+Štefan Zima,BA,,župné,Bratislavský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Milan Lesňák,KE,,miestne,Košice,https://www.transparentneucty.sk/?1/#/ucet/SK4209000000005190694287,ZA ĽUDÍ,nezvolený
+Stanislav Mizík,KE,,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Tomáš Janco,KE,,župné,Košický samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Juraj Ďurove,KE,,župné,Košický samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk,nezvolený
+Erik Blaško,NR,,miestne,Nitra,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640#rocne,NK/NEKA,nezvolený
+Lukáš Kyselica,NR,,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK3809000000005188927504,OĽANO-NOVA-KÚ-ZMENA ZDOLA,nezvolený
+Peter Pukan,NR,,župné,Nitriansky samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Artúr Bekmatov,NR,,župné,Nitriansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK7809000000005194064389,Socialisti.sk,nezvolený
+Jozef Kubica,PO,,miestne,Prešov,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640#rocne,NK/NEKA,nezvolený
+Marek Kurta,PO,,miestne,Prešov,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Renáta Bobáková,PO,,miestne,Prešov,,Hnutie ONÁS,nezvolený
+Milan Mazurek,PO,,župné,Prešovský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Ingrid Tomková,PO,,župné,Prešovský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Jozef Mihalčin,PO,https://www.transparentneucty.sk/#/ucet/SK4409000000005194864087,župné,Prešovský samosprávny kraj,,SRDCE - SNJ - sv,nezvolený
+Patrícia Reváková,PO,,župné,Prešovský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Filip Kuffa,PO,,župné,Prešovský samosprávny kraj,,ŽIVOT,nezvolený
+Anton Kysel,TN,,župné,Trenčiansky samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Miroslav Magdech,TN,,župné,Trenčiansky samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Marian Kňažko,TN,,župné,Trenčiansky samosprávny kraj,,Slovenská ľudová strana (SĽS),nezvolený
+Marian Kňažko,TN,,miestne,Považská Bystrica,,Slovenská ľudová strana (SĽS),nezvolený
+Zdenko Rosina,TT,,miestne,Trnava,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Zdenko Rosina,TT,,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Martin Beluský,TT,,župné,Trnavský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Veronika Temňáková,TT,,župné,Trnavský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Ivan Stanovič,TT,,župné,Trnavský samosprávny kraj,,Hnutie ONÁS,nezvolený
+Pavol Slota,ZA,,miestne,Žilina,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0802000000004624586159,DOMOV-NS,nezvolený
+Silvia Bakkery,ZA,,miestne,Žilina,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Timotej Bernhauser,ZA,,miestne,Žilina,,nezávislý kandidát,nezvolený
+František Drozd,ZA,,župné,Žilinský samosprávny kraj,https://www.transparentneucty.sk/#/ucet/SK0209000000005187339874,ĽS Naše Slovensko,nezvolený
+Miroslav Urban,ZA,,župné,Žilinský samosprávny kraj,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Oliver Štaudner,NR,,župné,Nitriansky samosprávny kraj,,Slovenská ľudová strana (SĽS),nezvolený
+Veronika Biksadská,BA,,miestne,Bratislava - Ružinov,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Marek Belák,ZA,https://www.transparentneucty.sk/#/ucet/SK9609000000005195917056,miestne,Martin,,nezávislý kandidát,nezvolený
+Marián Saraka,PO,,miestne,Poprad,,"DS, ODS - Občianski demokrati Slovenska, ŠANCA",nezvolený
+Vladimír Revický,TN,,miestne,Prievidza,https://ib.vub.sk/pch/transparentne-ucty?iban=SK4102000000004570401656,REPUBLIKA,nezvolený
+Samir Moumani,BB,,miestne,Zvolen,https://www.transparentneucty.sk/#/ucet/SK9309000000005193555063,DOBRÁ VOĽBA a Umiernení,nezvolený
+Jozef Dobroslav Pinka,BB,,miestne,Zvolen,,nezávislý kandidát,nezvolený
+Jaroslav Stehlík,BB,,miestne,Zvolen,,nezávislý kandidát,nezvolený
+Zuzana Luhová,BA,,miestne,Bratislava - Staré Mesto,https://www.transparentneucty.sk/#/ucet/SK5509000000005190807640,NK/NEKA,nezvolený
+Romana Tabák,BA,,miestne,Bratislava - Staré Mesto,https://www.transparentneucty.sk/#/ucet/SK2109000000005189770449,SME RODINA,nezvolený
+Radúz Dula,BA,,miestne,Bratislava - Nové Mesto,,"DS, ODS - Občianski demokrati Slovenska, ŠANCA, SPOLU",nezvolený
+Simona Timková,BA,,miestne,Bratislava - Nové Mesto,,Demokrati Slovenska,nezvolený
+Richard Gajdošík,TN,,miestne,Považská Bystrica,,Socialisti.sk,nezvolený
+Milan Oršula,TN,,miestne,Považská Bystrica,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, ZA ĽUDÍ, DS",nezvolený
+Andrej Sitkár,KE,,miestne,Košice - Západ,,"SMER - SD, SNS, ŽIVOT, STRANA MODERNÉHO SLOVENSKA (SMS), NK/NEKA",nezvolený
+Eva Poleracká,NR,,miestne,Nové Zámky,,"Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja (Tím Kraj Nitra), Magyar Fórum - Maďarské fórum, Občianska konzervatívna strana (OKS)",nezvolený
+Jozef Bobík,KE,,miestne,Michalovce,,"Kresťanská únia, NOVA, ZA ĽUDÍ, Zmena zdola, DÚ",nezvolený
+Ľubica Cintulová,BA,,miestne,Bratislava - Karlova Ves,,Hnutie ONÁS,nezvolený
+Ján Krošlák,BA,,miestne,Bratislava - Karlova Ves,,"SME RODINA, ZA ĽUDÍ, SZÖVETSÉG - ALIANCIA",nezvolený
+Branislav Rusnák,BA,,miestne,Bratislava - Karlova Ves,,NK/NEKA,nezvolený
+Zlatica Dzurillová,KE,,miestne,Spišská Nová Ves,,NK/NEKA,nezvolený
+Ľubica Burešová,PO,,miestne,Humenné,,SME RODINA,nezvolený
+Igor Éder,NR,,miestne,Levice,,"Hlas - sociálna demokracia, SME RODINA, DOBRÁ VOĽBA a Umiernení",nezvolený
+Petra Števková,NR,,miestne,Levice,,Tím Kraj Nitra,nezvolený
+Peter Jakubove,BB,,miestne,Lučenec,,nezávislý kandidát,nezvolený
+Michal Kelemen,BB,,miestne,Lučenec,,SOLIDARITA - Hnutie pracujúcej chudoby,nezvolený
+Juraj Čop,KE,,miestne,Košice - Dargovských hrdinov,,SME RODINA,nezvolený
+Vladislav Stanko,KE,,miestne,Košice - Dargovských hrdinov,,nezávislý kandidát,nezvolený
+Pavol Vehéc,KE,,miestne,Košice - Dargovských hrdinov,,PRINCÍP,nezvolený
+Mária Bezáková,NR,,miestne,Topoľčany,,REPUBLIKA,nezvolený
+Martina Frőhlich Činovská,BA,,miestne,Bratislava - Podunajské Biskupice,,,nezvolený
+Boris Vereš,BA,,miestne,Bratislava - Podunajské Biskupice,,"SME RODINA, KDH, ZA ĽUDÍ",nezvolený
+Martin Graus,TT,,miestne,Piešťany,,nezávislý kandidát,nezvolený
+Jozef Stupavský,TT,,miestne,Piešťany,,NK/NEKA,nezvolený
+Alžbeta Svrčeková,TT,,miestne,Piešťany,,nezávislý kandidát,nezvolený
+Petronela Ilavská,ZA,,miestne,Ružomberok,,Hnutie ONÁS,nezvolený
+Rudolf Ivičič,BA,,miestne,Bratislava - Rača,,SRDCE - SNJ - sv,nezvolený
+Teodor Žitný,BA,,miestne,Bratislava - Rača,,NK/NEKA,nezvolený
+Tibor Iró,TT,,miestne,Dunajská Streda,,SME RODINA,nezvolený
+Bohdan Fidyk,ZA,,miestne,Čadca,,nezávislý kandidát,nezvolený
+Peter Staškovan,ZA,,miestne,Čadca,,NK/NEKA,nezvolený
+Xénia Šurhaňáková,ZA,,miestne,Čadca,,nezávislý kandidát,nezvolený
+Peter Buchlák,KE,,miestne,Košice - Nad Jazerom,,"SPOLU, DS, ŠANCA, ODS - Občianski demokrati Slovenska",nezvolený
+Csaba Horváth,BB,,miestne,Rimavská Sobota,,PRINCÍP,nezvolený
+Ján Kováčik,KE,,miestne,Košice - Sídlisko Ťahanovce,,"SMER - SD, SNS, ŽIVOT, STRANA MODERNÉHO SLOVENSKA (SMS)",nezvolený
+Emil Petrvalský,KE,,miestne,Košice - Sídlisko Ťahanovce,,"SPOLU, DS, ŠANCA, ODS - Občianski demokrati Slovenska",nezvolený
+Miroslav Kollár,TT,,miestne,Hlohovec,,SPOLU,nezvolený
+Vladimír Strmeň,BB,,miestne,Brezno,,NK/NEKA,nezvolený
+Branislav Grimm,TT,,miestne,Senica,,nezávislý kandidát,nezvolený
+Adam Jakubáč,TT,https://www.transparentneucty.sk/#/ucet/SK6709000000005194520487,miestne,Senica,,nezávislý kandidát,nezvolený
+Dana Kristiník,TT,,miestne,Senica,,nezávislý kandidát,nezvolený
+Štefan Benko,KE,,miestne,Košice - Sever,,"SMER - SD, Hlas - sociálna demokracia",nezvolený
+Tomáš Kriňák,PO,,miestne,Snina,,"Hlas – sociálna demokracia, Sme rodina",nezvolený
+Jozef Slosarčík,ZA,,miestne,Dolný Kubín,,NK/NEKA,nezvolený
+Viliam Ciberej,TN,,miestne,Handlová,,NK/NEKA,nezvolený
+Branislav Ondruška,TN,,miestne,Handlová,,DOMOV-NS,nezvolený
+Peter Smorek,TN,,miestne,Handlová,,ŽIVOT,nezvolený
+Tomáš Karmažín,TT,,miestne,Sereď,,"DOBRÁ VOĽBA a Umiernení, STAROSTOVIA A NEZÁVISLÍ KANDIDÁTI",nezvolený
+Anna Mierna,TT,,miestne,Skalica,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, KDH, SaS",nezvolený
+Robert Novotný,PO,,miestne,Levoča,,nezávislý kandidát,nezvolený
+Roman Geiszler,NR,,miestne,Zlaté Moravce,,nezávislý kandidát,nezvolený
+Marian Grznár,NR,,miestne,Zlaté Moravce,,SME RODINA,nezvolený
+Ján Sekáč,ZA,,miestne,Bytča,,REPUBLIKA,nezvolený
+Jozef Šutara,ZA,,miestne,Bytča,,nezávislý kandidát,nezvolený
+Zigmund Doboš,PO,,miestne,Stropkov,,Kresťanská únia,nezvolený
+Eduard Kočiš,PO,,miestne,Stropkov,,"SMER - SD, REPUBLIKA",nezvolený
+Ján Chalabala,BA,,miestne,Modra,,KSS,nezvolený
+Slavomír Ľach,KE,,miestne,Krompachy,,NK/NEKA,nezvolený
+Rudolf Mihalik,KE,,miestne,Krompachy,,nezávislý kandidát,nezvolený
+Marcel Hurčík,KE,,miestne,Sečovce,,nezávislý kandidát,nezvolený
+Ernest Taldík,NR,,miestne,Vráble,,nezávislý kandidát,nezvolený
+Alexander Egrecký,TT,,miestne,Veľký Meder,,nezávislý kandidát,nezvolený
+Samuel Lojkovič,TT,,miestne,Veľký Meder,,nezávislý kandidát,nezvolený
+Marek Petráš,BA,,miestne,Stupava,,"SME RODINA, ZA ĽUDÍ",nezvolený
+Milan Holič,TN,,miestne,Myjava,,Hnutie ONÁS,nezvolený
+Vincent Budinský,,,miestne,Čierny Balog,,REPUBLIKA,nezvolený
+Tomáš Pančík,,,miestne,Čierny Balog,,nezávislý kandidát,nezvolený
+Anton Rosík,,,miestne,Čierny Balog,,nezávislý kandidát,nezvolený
+Viera Štulrajterová,,,miestne,Čierny Balog,,nezávislý kandidát,nezvolený
+Radovan Žori,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6102000000004667573956,miestne,Dobšiná,,nezávislý kandidát,nezvolený
+Štefan Kiška,,https://www.transparentneucty.sk/#/ucet/SK8509000000005194943471,miestne,Veľká Lomnica,,"OĽANO-NOVA-KÚ-ZMENA ZDOLA, ZA ĽUDÍ, Progresívne Slovensko",nezvolený
+Milan Kubeš,,,miestne,Rovinka,,nezávislý kandidát,nezvolený
+Pavol Kobyliak,,,miestne,Rabča,,SaS,nezvolený
+Nikolas Dömény,,https://www.transparentneucty.sk/#/ucet/SK3109000000005195688142,miestne,Gabčíkovo,,nezávislý kandidát,nezvolený
+Zoltán Jakus,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK6502000000004625961854,miestne,Gabčíkovo,,nezávislý kandidát,nezvolený
+Robert Benčurik,,,miestne,Šenkvice,,nezávislý kandidát,nezvolený
+Ján Hudaček,,,miestne,Lendak,,nezávislý kandidát,nezvolený
+Pavel Hudáček,,https://www.transparentneucty.sk/#/ucet/SK6609000000005195337051,miestne,Lendak,,KDH,nezvolený
+Peter Durčák,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK8002000000004678717556,miestne,Zákamenné,,nezávislý kandidát,nezvolený
+Marián Iglár,,,miestne,Zákamenné,,Hlas - sociálna demokracia,nezvolený
+Martin Oleš,,,miestne,Zákamenné,,ZA ĽUDÍ,nezvolený
+Ľuboš Greguška,,,miestne,Ilava,,NK/NEKA,nezvolený
+Lukáš Koník,,https://www.transparentneucty.sk/#/ucet/SK3409000000005193720540,miestne,Ilava,,Hlas - sociálna demokracia,nezvolený
+Janka Hnidková,,,miestne,Raková,,KSS,nezvolený
+Ľubomíra Borošová,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK5402000000004672825759,miestne,Košice - Šaca,,nezávislý kandidát,nezvolený
+Lucia Iľaščíková,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0702000000004674066653,miestne,Košice - Šaca,,nezávislý kandidát,nezvolený
+Miroslav Belanský,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0702000000004658420456,miestne,Vrbové,,nezávislý kandidát,nezvolený
+Ema Maggiová,,https://www.transparentneucty.sk/#/ucet/SK2009000000005195035627,,Vrbové,,nezávislý kandidát,nezvolený
+Jaroslav Ubert,,,miestne,Žarnovica,,ZA ĽUDÍ,nezvolený
+Radoslav Čekan,,,miestne,Čaňa,,nezávislý kandidát,nezvolený
+Milan Varga,,,miestne,Čaňa,,nezávislý kandidát,nezvolený
+Daniel Wolczko,,,miestne,Čaňa,,nezávislý kandidát,nezvolený
+Michal Gič,,https://www.transparentneucty.sk/#/ucet/SK3109000000005192829261,miestne,Sobrance,,KDH,nezvolený
+Monika Ďurechová,,,miestne,Rajec,,"SMER - SD, REPUBLIKA",nezvolený
+Lumír Kardoš,,,miestne,Rajec,,nezávislý kandidát,nezvolený
+Emanuel Piala,,,miestne,Rajec,,nezávislý kandidát,nezvolený
+Jozef Papcun,,,miestne,Gelnica,,SNS,nezvolený
+Miloš Goga,,,miestne,Medzilaborce,,NK/NEKA,nezvolený
+Juraj Ondruška,,https://ib.fio.sk/ib/transparent?a=2301464529,,Bratislava - Vajnory,,nezávislý kandidát,nezvolený
+Ivan Jankovič,,https://www.transparentneucty.sk/#/ucet/SK5909000000005194338853,miestne,Beluša,,SNS,nezvolený
+František Bagin,,https://www.transparentneucty.sk/#/ucet/SK5509000000005195166723,miestne,Nemšová,,NK/NEKA,nezvolený
+Ladislav Palička,,https://www.transparentneucty.sk/#/ucet/SK6809000000005195058140,miestne,Nemšová,,nezávislý kandidát,nezvolený
+Ladislav Horňák,,https://www.transparentneucty.sk/#/ucet/SK7809000000005195561002,miestne,Turčianske Teplice,,Hnutie ONÁS,nezvolený
+Rastislav Makový,,,miestne,Turčianske Teplice,,REPUBLIKA,nezvolený
+Jozef Kanuščák,,,miestne,Lipany,,"SaS, SME RODINA, ZA ĽUDÍ",nezvolený
+Róbert Martauz,,,miestne,Bratislava - Záhorská Bystrica,,NK/NEKA,nezvolený
+Miroslava Wožniaková,,,miestne,Spišská Belá,,nezávislý kandidát,nezvolený
+Peter Fačka,,,miestne,Hnúšťa,,nezávislý kandidát,nezvolený
+Michal Lisický,,,miestne,Ivanka pri Dunaji,,nezávislý kandidát,nezvolený
+Igor Rašla,,,miestne,Ivanka pri Dunaji,,SOM Slovensko,nezvolený
+Ivan Schreiner,,https://www.transparentneucty.sk/#/ucet/SK7309000000005195358071,miestne,Ivanka pri Dunaji,,nezávislý kandidát,nezvolený
+Štefan Dusza,,https://www.transparentneucty.sk/#/ucet/SK3509000000005195410650,miestne,Tornaľa,,nezávislý kandidát,nezvolený
+Róbert Jóry,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9802000000004660745751,miestne,Tornaľa,,nezávislý kandidát,nezvolený
+Norbert Hmilanský,,,miestne,Košice - Luník IX,,PRINCÍP,nezvolený
+Tibor Horváth,,https://www.transparentneucty.sk/#/ucet/SK8309000000005195863940,miestne,Košice - Luník IX,,Slovenský PATRIOT,nezvolený
+Ján Lacko,,,miestne,Košice - Luník IX,,SIM,nezvolený
+Erika Marková,,https://www.transparentneucty.sk/#/ucet/SK8909000000005195291532,miestne,Hriňová,,"REPUBLIKA, SMER - SD",nezvolený
+Jozef Liss,,https://www.transparentneucty.sk/#/ucet/SK6109000000005196069394,miestne,Trstená,,nezávislý kandidát,nezvolený
+Ľuboš Stroka,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK1802000000004666092958,miestne,Trstená,,nezávislý kandidát,nezvolený
+Mariana Chylík Riboňová,,,miestne,Turzovka,,"REPUBLIKA, SMER - SD",nezvolený
+Kamil Kobolka,,https://www.transparentneucty.sk/#/ucet/SK4809000000005194112459,miestne,Turzovka,,SPOLU,nezvolený
+Marián Červeňák,,,miestne,Jarovnice,,Hlas - sociálna demokracia,nezvolený
+Peter Kaleja,,,miestne,Jarovnice,,KDH,nezvolený
+Štefan Gregor,,https://www.transparentneucty.sk/#/ucet/SK2309000000005064142609,miestne,Šahy,,"SaS, KDH, Magyar Fórum - Maďarské fórum, OKS, Tím Kraj Nitra",nezvolený
+Peter Szőllősy,,https://www.transparentneucty.sk/#/ucet/SK6209000000005192919398,miestne,Šahy,,nezávislý kandidát,nezvolený
+Jozef Šuchter,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK9002000000004657352156,miestne,Šahy,,nezávislý kandidát,nezvolený
+Gabriela Zvolenská,,,miestne,Kráľovský Chlmec,,nezávislý kandidát,nezvolený
+Juraj Bado,,,miestne,Vrútky,,nezávislý kandidát,nezvolený
+Maroš Skopal,,,miestne,Krupina,,"SaS, KDH",nezvolený
+Štefan Jurčík,,,miestne,Dunajská Lužná,,Hlas - sociálna demokracia,nezvolený
+Ján Muráň,,,miestne,Dunajská Lužná,,"SME RODINA, DOBRÁ VOĽBA a Umiernení",nezvolený
+Milan Hubík,,https://www.transparentneucty.sk/#/ucet/SK2709000000005194221962,miestne,Námestovo,,nezávislý kandidát,nezvolený
+Jozef Parížek,,,miestne,Námestovo,,nezávislý kandidát,nezvolený
+Vladimír Zentko,,,miestne,Svit,,nezávislý kandidát,nezvolený
+Rastislav Požár,,https://www.transparentneucty.sk/#/ucet/SK5809000000005195814532,miestne,Bernolákovo,,nezávislý kandidát,nezvolený
+Pavol Slanička,,https://ib.vub.sk/pch/transparentne-ucty?iban=SK0302000000004656292251,miestne,Štúrovo,,"Hlas - sociálna demokracia, SME RODINA",nezvolený
+Ernő Kárpáty,,https://www.transparentneucty.sk/#/ucet/SK9609000000005192744671,miestne,Kolárovo,,nezávislý kandidát,nezvolený
+Ján Šufliarský,,https://www.transparentneucty.sk/#/ucet/SK6109000000005195264876,miestne,Detva,,nezávislý kandidát,nezvolený
