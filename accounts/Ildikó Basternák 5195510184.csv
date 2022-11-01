@@ -1,3 +1,5 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,DELTA,2022-10-24,-180,EUR,Politický inzerát,Okamžitá platba (EB),220356,
-1,BASTERNAKOVA ILDIKO,2022-10-11,1000,EUR,F001111020227291681,Bezhotovostný vklad,,
+0,MESTO HURBANOVO,2022-11-01,-177,EUR,"prenájom DK 22.10.2022, +rozhlas",Okamžitá platba (EB),,
+1,,2022-10-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+2,DELTA,2022-10-24,-180,EUR,Politický inzerát,Okamžitá platba (EB),220356,
+3,BASTERNAKOVA ILDIKO,2022-10-11,1000,EUR,F001111020227291681,Bezhotovostný vklad,,

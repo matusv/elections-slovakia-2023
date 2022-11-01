@@ -1,5 +1,6 @@
 index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Marek Oremus,2022-10-18,580,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
-1,Marek Oremus,2022-10-05,2000,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
-2,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
-3,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+0,,2022-10-31,-5,EUR,Zverejňovanie účtu,Poplatok,,
+1,Marek Oremus,2022-10-18,580,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
+2,Marek Oremus,2022-10-05,2000,EUR,Prevod medzi vlastnými účtami,Bezhotovostný vklad,,
+3,,2022-09-30,-5,EUR,Zverejňovanie účtu,Poplatok,,
+4,,2022-08-31,-5,EUR,Zverejňovanie účtu,Poplatok,,

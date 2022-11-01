@@ -1,9 +1,12 @@
 index,date,amount,account_name,message,vs
-0,2022-10-05,-1.5,,Popl. za upomienku,9
-1,2022-10-05,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
-2,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-3,2022-09-30,-5.0,,Vedenie účtu,9
-4,2022-09-30,-0.37,,Debetný úrok-zinkasovaný,9
-5,2022-09-22,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
-6,2022-09-22,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
-7,2022-09-22,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
+0,2022-10-31,6.0,,Odpustenie vedenie konta,9
+1,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
+2,2022-10-31,-1.63,,Debetný úrok-zinkasovaný,9
+3,2022-10-05,-1.5,,Popl. za upomienku,9
+4,2022-10-05,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
+5,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+6,2022-09-30,-5.0,,Vedenie účtu,9
+7,2022-09-30,-0.37,,Debetný úrok-zinkasovaný,9
+8,2022-09-22,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
+9,2022-09-22,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,
+10,2022-09-22,-20.0,,POPLATOK ZA SPRACOVANIE EXEKUCIE,

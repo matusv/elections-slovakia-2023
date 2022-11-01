@@ -1,11 +1,13 @@
 index,date,amount,account_name,message,vs
-0,2022-10-31,142.0,Dana Zajacova,,
-1,2022-10-26,-396.0,tlacka,"plagaty, bannery",2022169
-2,2022-10-26,246.0,Iveta Ružeková,,
-3,2022-10-24,120.0,Dana Zajacova,,
-4,2022-10-19,-9.0,Platba kartou,FACEBK *ATPN4JP fb.me/ads,****7045
-5,2022-10-14,-9.0,Platba kartou,FACEBK *VE7TGH3 fb.me/ads,****7045
-6,2022-10-03,50.0,Iveta Ružeková,,
-7,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-8,2022-09-30,-5.0,,Vedenie účtu,9
-9,2022-09-30,-0.2,,POPLATKY ZA RECYKLACIU,9
+0,2022-10-31,6.0,,Odpustenie vedenie konta,9
+1,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
+2,2022-10-31,142.0,Dana Zajacova,,
+3,2022-10-26,-396.0,tlacka,"plagaty, bannery",2022169
+4,2022-10-26,246.0,Iveta Ružeková,,
+5,2022-10-24,120.0,Dana Zajacova,,
+6,2022-10-19,-9.0,Platba kartou,FACEBK *ATPN4JP fb.me/ads,****7045
+7,2022-10-14,-9.0,Platba kartou,FACEBK *VE7TGH3 fb.me/ads,****7045
+8,2022-10-03,50.0,Iveta Ružeková,,
+9,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+10,2022-09-30,-5.0,,Vedenie účtu,9
+11,2022-09-30,-0.2,,POPLATKY ZA RECYKLACIU,9
