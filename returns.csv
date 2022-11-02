@@ -269,8 +269,8 @@ index,index,date,amount,account_name,message,vs,name
 267,26,2022-08-12,10.0,Tomas Soukal,Babeta na radnicu,,Alžbeta Vlčková
 268,3,2022-10-26,-1000.0,Stručková Eva Ing.,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK5609000000000048212942,695919.0,Alžbeta Vlčková
 269,4,2022-10-26,1000.0,Stručková Eva Ing.,,695919.0,Alžbeta Vlčková
-270,4,2022-10-31,-75.2,Ľuboš Stroka,,9.0,Ľuboš Stroka
-271,1,2022-11-02,75.2,Ľuboš Stroka,,,Ľuboš Stroka
+270,5,2022-10-31,-75.2,Ľuboš Stroka,,9.0,Ľuboš Stroka
+271,2,2022-11-02,75.2,Ľuboš Stroka,,,Ľuboš Stroka
 272,28,2021-10-15,-2000.0,OZ Srdcom za Šahy,Pozicka do konca roka 2021,,Štefan Gregor
 273,24,2021-11-23,2000.0,OZ Srdcom za Šahy,Vrátenie pôžičky pre oz Srdcom za Šahy. ĎAKUJEME,,Štefan Gregor
 274,97,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Záhorčák
