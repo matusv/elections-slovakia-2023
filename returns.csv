@@ -57,12 +57,12 @@ index,index,date,amount,account_name,message,vs,name
 55,123,2022-10-25,50.0,Čunderlík Ján,dar,20222838.0,Matúš Vallo
 56,37,2022-10-27,-30.0,Veronika Kovacsova,vratenie daru pre porusenie podmienok darovania,,Matúš Vallo
 57,999,2022-09-30,30.0,Veronika Kovacsova,dar,,Matúš Vallo
-58,79,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
-59,169,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
+58,83,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
+59,173,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
 60,1,2022-10-25,-1000.0,"HERZ, SPOL. S R.O.",Vratenie daru. Miroslav Turenic,,Miroslav Turenič
 61,4,2022-10-04,1000.0,"HERZ, SPOL. S R.O.","dar - HERZ, spol. s r.o., Priemyselna ulica 3131,900 27 Bernolakovo,ICO: 31369847",31369847.0,Miroslav Turenič
-62,41,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
-63,40,2022-09-26,360.0,Kvál s. r. o.,OO22092600020201,,Pavol Kvál
+62,42,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
+63,41,2022-09-26,360.0,Kvál s. r. o.,OO22092600020201,,Pavol Kvál
 64,55,2022-09-21,-0.01,Gajdoš Kristián,Pre bukvicku peleho na benzin do traktora aby boli zemiaky.,,HLAS - sociálna demokracia
 65,72,2022-09-15,0.01,Gajdoš Kristián,Pre bukvicku peleho na benzin do traktora aby boli zemiaky.,,HLAS - sociálna demokracia
 66,56,2022-09-21,-0.01,Škultéty Tomáš,Precedovi na vylet do modrejustrice ;),,HLAS - sociálna demokracia
@@ -139,8 +139,8 @@ index,index,date,amount,account_name,message,vs,name
 137,67,2022-10-24,297.0,Martinova Zuzana,Ladislav Martin dar,21102022,REPUBLIKA
 138,26,2022-10-26,-110.0,Michal Sidor,vratenie daru,,REPUBLIKA
 139,45,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny",,REPUBLIKA
-140,450,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
-141,432,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
+140,452,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
+141,434,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 142,502,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
 143,373,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
 144,493,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
@@ -197,8 +197,8 @@ index,index,date,amount,account_name,message,vs,name
 195,123,2022-10-25,50.0,Čunderlík Ján,dar,20222838.0,Team Bratislava
 196,37,2022-10-27,-30.0,Veronika Kovacsova,vratenie daru pre porusenie podmienok darovania,,Team Bratislava
 197,999,2022-09-30,30.0,Veronika Kovacsova,dar,,Team Bratislava
-198,79,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-199,169,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+198,83,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+199,173,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 200,101,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
 201,96,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
 202,60,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
@@ -223,8 +223,8 @@ index,index,date,amount,account_name,message,vs,name
 221,3,2022-10-28,450.0,Milan Špánik,,,Milan Špánik
 222,1,2022-10-26,-57.0,Martaus Tomáš,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK8909000000005133345101,,Tomáš Martaus
 223,2,2022-10-26,57.0,Martaus Tomáš,,,Tomáš Martaus
-224,182,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
-225,177,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
+224,183,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
+225,178,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 226,53,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
 227,52,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
 228,22,2022-10-22,-9.0,Martin Ruščanský,0221022203845.362317,,Slavomír Novák
