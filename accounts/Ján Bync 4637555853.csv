@@ -1,9 +1,9 @@
 index,date,amount,account_name,message,vs
 0,2022-10-31,-80.0,,Poplatky za platby nad rámec konta,9
 1,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
-2,2022-10-31,-750.0,Platba kartou,FACEBK DDLQCJXX fb.me/ads,****6232
+2,2022-10-31,-750.0,"VUB,A.S.",DDFACEBK~DDLQCJXXfb.me/ads~~~~~~P1,****6232
 3,2022-10-31,-750.0,Platba kartou,FACEBK HVEM6JFX fb.me/ads,****6232
-4,2022-10-31,-23.99,Platba kartou,ADOBE PR CREATI ADOBE.COM,****6232
+4,2022-10-31,-23.99,"VUB,A.S.",DDADOBE~PR~CREATIADOBE.COM~~~~~~P1,****6232
 5,2022-10-28,-750.0,Platba kartou,FACEBK QJJDQJBX fb.me/ads,****6232
 6,2022-10-28,-600.0,Platba kartou,GoogleAdwordsEU Dublin,****6232
 7,2022-10-27,-750.0,Platba kartou,FACEBK F4KH5K3Y fb.me/ads,****6232

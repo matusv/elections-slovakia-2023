@@ -1,8 +1,8 @@
 index,date,amount,account_name,message,vs
 0,2022-11-01,-83.71,Platba kartou,Platba kartou u obchodníka,****3666
 1,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
-2,2022-10-31,-402.75,Platba kartou,SLOVENSKA POSTA KOSICE,****3666
-3,2022-10-31,-120.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
+2,2022-10-31,-402.75,"VUB,A.S.",DDSLOVENSKA~POSTAKOSICE~~~~~~~~~P1,****3666
+3,2022-10-31,-120.0,"VUB,A.S.",DDPAYPAL~*FACEBOO3531436900~~~~~P1,****3666
 4,2022-10-31,-120.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
 5,2022-10-31,-120.0,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
 6,2022-10-31,-27.73,Platba kartou,PAYPAL *FACEBOO 3531436900,****3666
