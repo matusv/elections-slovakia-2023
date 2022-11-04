@@ -1,15 +1,16 @@
 index,date,amount,account_name,message,vs
 0,2022-10-31,-453.67,Platba kartou,Platba kartou u obchodníka,****3677
-1,2022-10-31,6.0,,Odpustenie vedenie konta,9
-2,2022-10-31,-24.0,,Poplatky za platby nad rámec konta,9
-3,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
-4,2022-10-13,-1565.88,,BROŽÚRA,220728
-5,2022-10-13,-1680.0,,PRENÁJOM A REALIZÁCIA REKLAMNÉ PANELY,221000
-6,2022-10-13,-2481.6,,VÝROBA A MONTÁŽ BILBORDOV,20222036
-7,2022-10-13,3450.0,Karol Janas,,
-8,2022-10-03,-516.22,Platba kartou,FACEBK ESW7HJB2 fb.me/ads,****3677
-9,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-10,2022-09-30,-5.0,,Vedenie účtu,9
-11,2022-09-16,3600.0,Karol Janas,,
-12,2022-09-06,-0.1,,Popl. Zobr. zostatku cez ATM VUB,3677
-13,2022-09-05,500.0,Karol Janas,,
+1,2022-11-03,-453.67,Platba kartou,FACEBK 5ZT9JK32 fb.me/ads,****3677
+2,2022-10-31,6.0,,Odpustenie vedenie konta,9
+3,2022-10-31,-24.0,,Poplatky za platby nad rámec konta,9
+4,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
+5,2022-10-13,-1565.88,,BROŽÚRA,220728
+6,2022-10-13,-1680.0,,PRENÁJOM A REALIZÁCIA REKLAMNÉ PANELY,221000
+7,2022-10-13,-2481.6,,VÝROBA A MONTÁŽ BILBORDOV,20222036
+8,2022-10-13,3450.0,Karol Janas,,
+9,2022-10-03,-516.22,Platba kartou,FACEBK ESW7HJB2 fb.me/ads,****3677
+10,2022-09-30,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+11,2022-09-30,-5.0,,Vedenie účtu,9
+12,2022-09-16,3600.0,Karol Janas,,
+13,2022-09-06,-0.1,,Popl. Zobr. zostatku cez ATM VUB,3677
+14,2022-09-05,500.0,Karol Janas,,
