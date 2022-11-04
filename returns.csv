@@ -57,8 +57,8 @@ index,index,date,amount,account_name,message,vs,name
 55,123,2022-10-25,50.0,Čunderlík Ján,dar,20222838.0,Matúš Vallo
 56,37,2022-10-27,-30.0,Veronika Kovacsova,vratenie daru pre porusenie podmienok darovania,,Matúš Vallo
 57,999,2022-09-30,30.0,Veronika Kovacsova,dar,,Matúš Vallo
-58,83,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
-59,173,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
+58,84,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
+59,174,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
 60,1,2022-10-25,-1000.0,"HERZ, SPOL. S R.O.",Vratenie daru. Miroslav Turenic,,Miroslav Turenič
 61,4,2022-10-04,1000.0,"HERZ, SPOL. S R.O.","dar - HERZ, spol. s r.o., Priemyselna ulica 3131,900 27 Bernolakovo,ICO: 31369847",31369847.0,Miroslav Turenič
 62,42,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
@@ -197,8 +197,8 @@ index,index,date,amount,account_name,message,vs,name
 195,123,2022-10-25,50.0,Čunderlík Ján,dar,20222838.0,Team Bratislava
 196,37,2022-10-27,-30.0,Veronika Kovacsova,vratenie daru pre porusenie podmienok darovania,,Team Bratislava
 197,999,2022-09-30,30.0,Veronika Kovacsova,dar,,Team Bratislava
-198,83,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-199,173,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+198,84,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+199,174,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 200,101,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
 201,96,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
 202,60,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
@@ -209,8 +209,8 @@ index,index,date,amount,account_name,message,vs,name
 207,36,2022-10-04,1500.0,Andrej Balga,Prispevok - bezhotovostny prevod,,Branislav Filipovič
 208,6,2022-10-18,-1.0,Milan Bodnár,,,Peter Komínek
 209,12,2022-09-15,1.0,Milan Bodnár,,,Peter Komínek
-210,70,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
-211,71,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
+210,71,2022-08-15,-915.0,"JUDR. ANDREA ONDREJKOVA, SUDNAEXEKUTORA",vratenie mylnej platby,2022026,Eva Pilátová
+211,72,2022-08-15,915.0,"JUDR. ANDREA ONDREJKOVÁ, SÚDNAEXEKÚTORA",stretnutie s obcanmi 6.8.2022,2022026,Eva Pilátová
 212,6,2022-10-26,-240.85,Jankulár Ján,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK5109000000005118848456,,Ján Jankulár
 213,8,2022-10-26,240.85,Jankulár Ján,,,Ján Jankulár
 214,5,2022-10-26,-5.0,Jankulár Ján,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK5109000000005118848456,,Ján Jankulár
@@ -241,8 +241,8 @@ index,index,date,amount,account_name,message,vs,name
 239,15,2022-10-27,150.0,KUCMINA FRANTISEK,23841025,,Miloslav Olejár
 240,19,2022-09-07,-150.0,Mesto Sobrance,"Daň/poplatok 2022 UVP DAN č. 115,",1215200115.0,Marián Sejna
 241,11,2022-10-17,150.0,MESTO SOBRANCE,Vrátenie UVP´22- Ing. Marián Sejna,,Marián Sejna
-242,1,2022-11-02,-50.0,MARUSAK STEFAN,Dar vratenie - po termine,,Ivan Bošňák
-243,5,2022-10-27,50.0,MARUSAK STEFAN,Dar,,Ivan Bošňák
+242,2,2022-11-02,-50.0,MARUSAK STEFAN,Dar vratenie - po termine,,Ivan Bošňák
+243,6,2022-10-27,50.0,MARUSAK STEFAN,Dar,,Ivan Bošňák
 244,97,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
 245,141,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
 246,32,2022-10-14,-936.0,Nubium s.r.o.,FA 22108119- prenajom reklamnychpanelov v mesiaci oktober 2022 nazaklade objednavky NR/202/07/22,22108119.0,Štefan Štefek
