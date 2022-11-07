@@ -7,10 +7,10 @@ index,index,date,amount,account_name,message,vs,name
 5,38,2022-08-05,2000.0,Eva Psotná,Dar pre mesto od EVIScleaning,,Katarína Heneková
 6,102,2022-07-18,-342.0,Arton Sro,Kubáň Ľubomír; Gombalová - nájom ;08.07.2022,220290.0,Ľubomír Kubáň
 7,35,2022-10-14,342.0,ARTON s.r.o.,Duplicitna uhrada,62209133.0,Ľubomír Kubáň
-8,5,2022-10-26,-150.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
-9,7,2022-10-26,150.0,Šimášek Matej,,,Matej Šimášek
-10,6,2022-10-26,-1500.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
-11,9,2022-10-26,1500.0,Šimášek Matej,,,Matej Šimášek
+8,6,2022-10-26,-150.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
+9,8,2022-10-26,150.0,Šimášek Matej,,,Matej Šimášek
+10,7,2022-10-26,-1500.0,Šimášek Matej,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK6309000000000433648718,,Matej Šimášek
+11,10,2022-10-26,1500.0,Šimášek Matej,,,Matej Šimášek
 12,1,2022-10-26,-400.0,JADUD BRANISLAV MVDR,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK2509000000000074309895,,Branislav Jaďuď
 13,3,2022-10-26,400.0,JADUD BRANISLAV MVDR,,,Branislav Jaďuď
 14,2,2022-10-26,-160.0,JADUD BRANISLAV MVDR,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK2509000000000074309895,,Branislav Jaďuď
@@ -59,8 +59,8 @@ index,index,date,amount,account_name,message,vs,name
 57,316,2022-10-21,30.0,Ing. archAnna Sisolakova Igriciova,dar,20221537.0,Matúš Vallo
 58,44,2022-10-27,-50.0,Čunderlík Ján,vratenie daru pre porusenie podmienok darovania,,Matúš Vallo
 59,133,2022-10-25,50.0,Čunderlík Ján,dar,20222838.0,Matúš Vallo
-60,84,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
-61,174,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
+60,85,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Marek Hattas
+61,175,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Marek Hattas
 62,1,2022-10-25,-1000.0,"HERZ, SPOL. S R.O.",Vratenie daru. Miroslav Turenic,,Miroslav Turenič
 63,4,2022-10-04,1000.0,"HERZ, SPOL. S R.O.","dar - HERZ, spol. s r.o., Priemyselna ulica 3131,900 27 Bernolakovo,ICO: 31369847",31369847.0,Miroslav Turenič
 64,42,2022-09-26,-360.0,Kvals.r.o.,Uhrada faktury FO2022037,2022037.0,Pavol Kvál
@@ -143,22 +143,22 @@ index,index,date,amount,account_name,message,vs,name
 141,46,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny",,REPUBLIKA
 142,521,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 143,503,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
-144,503,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
-145,374,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
-146,494,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
-147,356,2022-08-25,40.0,MESTO DUBNICA NAD VÁHOM,Vratka duplicitnej platby - pouzitie dreveneho podia,6049022.0,SME RODINA
-148,484,2022-06-15,-1086.78,Roda press s.r.o.,Roda press s.r.o.,2022225.0,SME RODINA
-149,375,2022-08-16,1086.78,RODA PRESS S.R.O.,preplatok,2022225.0,SME RODINA
-150,361,2022-08-21,-4500.0,Ochrana Zamestnanca,Jul 2022,220100005.0,SME RODINA
-151,354,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
-152,362,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
-153,355,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
-154,306,2022-09-13,-200.0,Veronika Žilinčanová - IMAGELOOK,Vrátenie mylnej pladby,,SME RODINA
-155,321,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
-156,255,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
-157,226,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
-158,320,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
-159,325,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
+144,548,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
+145,419,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
+146,539,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
+147,401,2022-08-25,40.0,MESTO DUBNICA NAD VÁHOM,Vratka duplicitnej platby - pouzitie dreveneho podia,6049022.0,SME RODINA
+148,529,2022-06-15,-1086.78,Roda press s.r.o.,Roda press s.r.o.,2022225.0,SME RODINA
+149,420,2022-08-16,1086.78,RODA PRESS S.R.O.,preplatok,2022225.0,SME RODINA
+150,406,2022-08-21,-4500.0,Ochrana Zamestnanca,Jul 2022,220100005.0,SME RODINA
+151,400,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100005.0,SME RODINA
+152,407,2022-08-21,-4500.0,Ochrana Zamestnanca,Jun 2022,220100004.0,SME RODINA
+153,399,2022-08-26,4500.0,Ochrana Zamestnanca,chybna platba,220100004.0,SME RODINA
+154,351,2022-09-13,-200.0,Veronika Žilinčanová - IMAGELOOK,Vrátenie mylnej pladby,,SME RODINA
+155,366,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
+156,300,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
+157,271,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
+158,322,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
+159,327,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
 160,1749,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
 161,1750,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
 162,1728,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
@@ -199,8 +199,8 @@ index,index,date,amount,account_name,message,vs,name
 197,316,2022-10-21,30.0,Ing. archAnna Sisolakova Igriciova,dar,20221537.0,Team Bratislava
 198,44,2022-10-27,-50.0,Čunderlík Ján,vratenie daru pre porusenie podmienok darovania,,Team Bratislava
 199,133,2022-10-25,50.0,Čunderlík Ján,dar,20222838.0,Team Bratislava
-200,84,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
-201,174,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+200,85,2022-10-05,-500.0,BON ZUR S.R.O.,vrátenie daru z dôvodu nesprávneho spôsobu poskytnutia,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
+201,175,2022-09-05,500.0,BON ZUR S.R.O.,Sponzorsky dar,,Tím Kraj Nitra - Združenie kandidátov Nitrianskeho kraja
 202,101,2022-09-13,-1000.0,Aufrichtová Zuzana Ing.arch.,vrátenie hotovostného vkladu z 4.8.2022,,Zuzana Aufrichtová
 203,96,2022-09-27,1000.0,Aufrichtová Zuzana Ing.arch.,'najlepsi su ZA :),,Zuzana Aufrichtová
 204,60,2022-09-16,-300.0,"GFD, s.r.o.",vratenie platby omyl,,Branislav Filipovič
@@ -243,8 +243,8 @@ index,index,date,amount,account_name,message,vs,name
 241,15,2022-10-27,150.0,KUCMINA FRANTISEK,23841025,,Miloslav Olejár
 242,19,2022-09-07,-150.0,Mesto Sobrance,"Daň/poplatok 2022 UVP DAN č. 115,",1215200115.0,Marián Sejna
 243,11,2022-10-17,150.0,MESTO SOBRANCE,Vrátenie UVP´22- Ing. Marián Sejna,,Marián Sejna
-244,2,2022-11-02,-50.0,MARUSAK STEFAN,Dar vratenie - po termine,,Ivan Bošňák
-245,6,2022-10-27,50.0,MARUSAK STEFAN,Dar,,Ivan Bošňák
+244,3,2022-11-02,-50.0,MARUSAK STEFAN,Dar vratenie - po termine,,Ivan Bošňák
+245,7,2022-10-27,50.0,MARUSAK STEFAN,Dar,,Ivan Bošňák
 246,97,2022-09-26,-1000.0,Michalov Michal Ing.,0220926063649.020597,,Viliam Zahorčák
 247,141,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
 248,32,2022-10-14,-936.0,Nubium s.r.o.,FA 22108119- prenajom reklamnychpanelov v mesiaci oktober 2022 nazaklade objednavky NR/202/07/22,22108119.0,Štefan Štefek
