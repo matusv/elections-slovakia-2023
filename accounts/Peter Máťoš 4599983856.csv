@@ -1,134 +1,135 @@
 index,date,amount,account_name,message,vs
-0,2022-11-04,-614.28,Platba kartou,Platba kartou u obchodníka,****8552
-1,2022-11-04,-540.0,"Petit Press, a.s. divízia týždenníkov, o.z",,2235113158
-2,2022-11-04,-576.0,ARTON s.r.o,,220765
-3,2022-11-04,5000.0,MATOS PETER,Na uhradu FA,
-4,2022-11-03,-130.0,Martin Slatkovský-Px-fotoateliér,prenajom fotoatelieru,12022
-5,2022-10-31,6.0,,Odpustenie vedenie konta,9
-6,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
-7,2022-10-28,-6210.0,Nubium,platba faktury,22096923
-8,2022-10-28,-756.0,nubium,platba faktury,22108439
-9,2022-10-28,4000.0,Peter Máťoš,dar kampan,
-10,2022-10-27,-750.0,Platba kartou,FACEBK AXMMKJTE fb.me/ads,****8552
-11,2022-10-26,50.0,Ivana Wiedermann,dar Wiedermann Viktor,
-12,2022-10-26,-701.79,Minika Žišková,,2022022
-13,2022-10-26,-120.0,"BigMedia, spol.s.r.o.",citylight,1222207386
-14,2022-10-26,-190.0,Kúpele Nimnica,,1632022
-15,2022-10-26,50.0,BOCINCOVA EVA,Bilboard IL Eva Bocincova,251122
-16,2022-10-26,-165.6,,Uhrada faktury 202210419,202210419
-17,2022-10-26,-1227.6,RHGRAFIKA,Uhrada faktury 202210405,202210405
-18,2022-10-26,-20.0,MESTO HANDLOVA,dan za uzivanie verejneho priestranstva,14002483
-19,2022-10-25,30.0,Juraj Hort,,
-20,2022-10-25,-120.0,Red Post,,2022069
-21,2022-10-25,145.0,MONIKA PEKAROVA,PENAZNY DAR,
-22,2022-10-25,50.0,Vladislav Galko,"Vladislav Galko, bilboard",
-23,2022-10-24,-750.0,Platba kartou,FACEBK 8TKKEJFE fb.me/ads,****8552
-24,2022-10-24,300.0,Ladislav Matejka,Matejka Ladislav,
-25,2022-10-21,80.0,Juraj Hort,,
-26,2022-10-20,162.0,Eduard Filo,Eduard Filo,
-27,2022-10-19,-240.0,Trenčiansky Blesk s.r.o.,inzercia,22046
-28,2022-10-19,-279.0,,Uhrada faktury 13 422 0389,134220389
-29,2022-10-19,-50.0,Mirosla Lisál-tvorba krizoviek,krizovka o novin,20221029
-30,2022-10-19,-229.0,,inzercia puchovske noviny,20220016
-31,2022-10-18,400.0,SKRABAN RADOSLAV,Dar,
-32,2022-10-17,-96.0,Gryf,reklamna plocha,20223722
-33,2022-10-17,-672.0,euroAWK,reklamne plochy,226513
-34,2022-10-17,-75.0,,komentovana prehliadka 5 osob,
-35,2022-10-17,-720.0,"euroAWK, spol. s r.o.",prenajom CLV,
-36,2022-10-17,700.0,Ivana Wiedermann,dar Wiedermann Viktor,
-37,2022-10-14,-750.0,Platba kartou,FACEBK HUNW7JFE fb.me/ads,****8552
-38,2022-10-14,-900.0,euroawk,,900
-39,2022-10-14,-768.0,CORETA,tlac,220659
-40,2022-10-14,-348.0,CORETA,tlac,220706
-41,2022-10-14,-320.2,Michal Benko CREATIVE LEMON,tlac materialov,20220055
-42,2022-10-14,-390.0,Michal Benko CREATIVE LEMON,tlac materialov,20220052
-43,2022-10-13,700.0,Lenka Rolnikova,prispevok kampan,
-44,2022-10-13,700.0,Miroslav Hajský,Miroslav Hajsky dar,
-45,2022-10-11,-1250.0,,Reklamne a marketingove sluzby,20220011
-46,2022-10-11,-2633.4,REGIONPRESS,plosna inzercia,134220339
-47,2022-10-11,700.0,Juraj Hort,volby Juraj Hort,
-48,2022-10-11,800.0,KARAS RUDOLF,Prispevok na kampan Rudolf Karas,
-49,2022-10-11,384.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",,20223332
-50,2022-10-10,950.0,Marian Jankoviech,,
-51,2022-10-10,-9316.19,"RED Post, s.r.o.",distribucia a tlac,2022064
-52,2022-10-07,100.0,Nezník Marek,Dar na kampan,
-53,2022-10-06,700.0,MERASICKY TOMAS,Tomas Merasicky dar,
-54,2022-10-06,700.0,MONIKA PEKAROVA,PENAZNY DAR,
-55,2022-10-03,-448.32,Platba kartou,FACEBK HD7DEHXE fb.me/ads,****8552
-56,2022-10-03,195.0,MATUSOV JOZEF,,
-57,2022-10-03,-316.8,Púchovská kultúra s.r.o.,inzercia,22170246
-58,2022-09-30,6.0,,Odpustenie vedenie konta,9
-59,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
-60,2022-09-29,66.0,Hodas Rudolf,Dar Hodas Volby 22,
-61,2022-09-28,990.0,Martin Simik,Dar na uspesnu kampan prenasho top kandidata,
-62,2022-09-28,-513.0,MEDMAX s. r. o.,prenajom priestorov+obcerstvenie,220100123
-63,2022-09-27,-2112.0,gryf,billboardy oktober,22106
-64,2022-09-27,400.0,Tomáš Urminský,Dar,
-65,2022-09-27,-2622.0,Nubium,reklamne plochy september,22096926
-66,2022-09-27,-1792.0,VodneBubliny s.r.o.,zabezpecenie podujati,2022206
-67,2022-09-26,-360.0,Arton,Billboardy oktober,220598
-68,2022-09-26,-4446.0,ARTON,plochy billboardy TNkraj 2.cast,220448
-69,2022-09-23,-750.0,Platba kartou,FACEBK 8FSCKHKE fb.me/ads,****8552
-70,2022-09-23,11500.0,Kresťanskodemokratické hnutie,Peňažný dar,22092022
-71,2022-09-22,-576.0,Gryf,reklamne plochy,22105
-72,2022-09-21,700.0,BAKOS JURAJ,na kampan,
-73,2022-09-20,700.0,"Fedorová Michaela, Mgr.",dar,
-74,2022-09-20,-972.0,Ispa,plochy 10.2022,22950300
-75,2022-09-20,700.0,Sučanský Peter,SUCANSKY PETER,
-76,2022-09-19,1500.0,Ľuboš Žiško,dar kampan 2022,
-77,2022-09-19,700.0,MATUSOV JOZEF,,
-78,2022-09-19,700.0,"Oulehle Peter, MUDr.",Oulehle Peter MUDr.,
-79,2022-09-16,-4800.0,Art eu s..r..o,reklamne plochy,2022039
-80,2022-09-16,4800.0,Miroslav Žiak,dar Ziak Miroslav,
-81,2022-09-13,-80.0,mesto nove mesto nad vahom,kampan na zupana,55301
-82,2022-09-12,700.0,Eduard Filo,Eduard Filo,
-83,2022-09-12,300.0,Pavol Mičuda - PAVEL,Volby 2022,
-84,2022-09-12,700.0,Jana Danova,dano peter,9
-85,2022-09-09,700.0,Porubec Ivan,Ivan Porubec,
-86,2022-09-09,700.0,ELEONORA PORUBCOVA,ELEONORA PORUBCOVA,
-87,2022-09-08,-756.0,Mgr. Michal Benko CREATIVE LEMON,,20220049
-88,2022-09-08,-396.0,Gryf,,20223023
-89,2022-09-05,-282.23,Platba kartou,FACEBK RP7P3HKE fb.me/ads,****8552
-90,2022-09-05,700.0,BOCINCOVA EVA,Kampan VUC Eva Bocincova,
-91,2022-09-05,700.0,POSPISILOVA IVETA,dar na kampan,636210
-92,2022-09-05,700.0,"Beňová Viera, RNDr.","darca V.Benova, kampan 2022",
-93,2022-09-02,-414.0,Juraj Prostinák,,20220005
-94,2022-08-31,6.0,,Odpustenie vedenie konta,9
-95,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
-96,2022-08-31,500.0,Peter Mikulas,Dar pre Petra Matosa,
-97,2022-08-31,500.0,Katarina Malanova,Penazny dar,
-98,2022-08-30,-432.0,"Trenčiansky BLESK, s. r. o.",,22038
-99,2022-08-30,4446.0,"euroAWK, spol. s r. o.",,220448
-100,2022-08-26,-432.0,arton,uhrada billboardov,220532
-101,2022-08-26,-4446.0,Arton,,220448
-102,2022-08-26,-252.0,Grif,,20221993
-103,2022-08-24,-1313.52,RH Grafika,"urhrada fa, propagacne materialy",202207288
-104,2022-08-23,-840.0,euroAWK,kampan VUC reklamne plochy,
-105,2022-08-23,-4446.0,ARTON s.r.o.,prenajom billboardov,220448
-106,2022-08-22,10000.0,Kresťanskodemokratické hnutie,Peňažný dar,19082022
-107,2022-08-09,-900.0,euroawk,zaloha za reklamne plochy,
-108,2022-08-08,500.0,Kresťanskodemokratické hnutie,Peňažný dar,5082022
-109,2022-08-04,-1250.0,Mgr. Michal Benko CREATIVE LEMON,Tvorba grafiky a video spotov k volebnej kampani,
-110,2022-08-02,-171.39,Platba kartou,FACEBK JGYRVFXE fb.me/ads,****8552
-111,2022-07-29,6.0,,Odpustenie vedenie konta,9
-112,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
-113,2022-07-19,-580.8,RH grafika,Uhrada faktury 202206248,202206248
-114,2022-07-19,-450.0,"PITMEDIA, s.r.o",Zalohova faktura na tvorbu webovej stranky,2022920007
-115,2022-07-15,-840.0,euroawk,zaloha za kampan,2270123
-116,2022-07-15,-648.0,euroawk,billboardy TN kraj,
-117,2022-07-11,-200.0,Platba kartou,FACEBK VUF3VFTE fb.me/ads,****8552
-118,2022-07-04,-164.81,Platba kartou,FACEBK PQZXNEPE fb.me/ads,****8552
-119,2022-06-30,6.0,,Odpustenie vedenie konta,9
-120,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
-121,2022-06-30,-864.0,"euroAWK, spol. s r.o.",reklamna kampan billboardy,222867
-122,2022-06-27,-580.0,Juraj Prostinák,Video a fotograficke prace,
-123,2022-06-24,-543.95,"Xfusion, s.r.o.",prenajom priestorov na konferenciu 16.6.2022,
-124,2022-06-23,-720.0,ARTON,najom billboardov,
-125,2022-06-23,-388.8,NUBIUM,,
-126,2022-06-23,10000.0,Kresťanskodemokratické hnutie,Peňažný dar,22062022
-127,2022-06-02,-1800.0,,Peter Matos Arton - plochy jun,220211
-128,2022-06-02,-1347.9,,Uhrada faktury 202205196,202205196
-129,2022-06-01,100.0,Jozef Dokupil,,
-130,2022-06-01,10000.0,Kresťanskodemokratické hnutie,Peňažný dar,31052022
-131,2022-05-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
-132,2022-05-31,-5.0,,Vedenie účtu,9
+0,2022-11-08,-1800.0,VodneBubliny,zabezpecenie kampanovych podujati,2022224
+1,2022-11-07,-614.28,Platba kartou,FACEBK VA57BK7F fb.me/ads,****8552
+2,2022-11-04,-540.0,"Petit Press, a.s. divízia týždenníkov, o.z",,2235113158
+3,2022-11-04,-576.0,ARTON s.r.o,,220765
+4,2022-11-04,5000.0,MATOS PETER,Na uhradu FA,
+5,2022-11-03,-130.0,Martin Slatkovský-Px-fotoateliér,prenajom fotoatelieru,12022
+6,2022-10-31,6.0,,Odpustenie vedenie konta,9
+7,2022-10-31,-6.0,,Vedenie konta Transparentný účet,9
+8,2022-10-28,-6210.0,Nubium,platba faktury,22096923
+9,2022-10-28,-756.0,nubium,platba faktury,22108439
+10,2022-10-28,4000.0,Peter Máťoš,dar kampan,
+11,2022-10-27,-750.0,Platba kartou,FACEBK AXMMKJTE fb.me/ads,****8552
+12,2022-10-26,50.0,Ivana Wiedermann,dar Wiedermann Viktor,
+13,2022-10-26,-701.79,Minika Žišková,,2022022
+14,2022-10-26,-120.0,"BigMedia, spol.s.r.o.",citylight,1222207386
+15,2022-10-26,-190.0,Kúpele Nimnica,,1632022
+16,2022-10-26,50.0,BOCINCOVA EVA,Bilboard IL Eva Bocincova,251122
+17,2022-10-26,-165.6,,Uhrada faktury 202210419,202210419
+18,2022-10-26,-1227.6,RHGRAFIKA,Uhrada faktury 202210405,202210405
+19,2022-10-26,-20.0,MESTO HANDLOVA,dan za uzivanie verejneho priestranstva,14002483
+20,2022-10-25,30.0,Juraj Hort,,
+21,2022-10-25,-120.0,Red Post,,2022069
+22,2022-10-25,145.0,MONIKA PEKAROVA,PENAZNY DAR,
+23,2022-10-25,50.0,Vladislav Galko,"Vladislav Galko, bilboard",
+24,2022-10-24,-750.0,Platba kartou,FACEBK 8TKKEJFE fb.me/ads,****8552
+25,2022-10-24,300.0,Ladislav Matejka,Matejka Ladislav,
+26,2022-10-21,80.0,Juraj Hort,,
+27,2022-10-20,162.0,Eduard Filo,Eduard Filo,
+28,2022-10-19,-240.0,Trenčiansky Blesk s.r.o.,inzercia,22046
+29,2022-10-19,-279.0,,Uhrada faktury 13 422 0389,134220389
+30,2022-10-19,-50.0,Mirosla Lisál-tvorba krizoviek,krizovka o novin,20221029
+31,2022-10-19,-229.0,,inzercia puchovske noviny,20220016
+32,2022-10-18,400.0,SKRABAN RADOSLAV,Dar,
+33,2022-10-17,-96.0,Gryf,reklamna plocha,20223722
+34,2022-10-17,-672.0,euroAWK,reklamne plochy,226513
+35,2022-10-17,-75.0,,komentovana prehliadka 5 osob,
+36,2022-10-17,-720.0,"euroAWK, spol. s r.o.",prenajom CLV,
+37,2022-10-17,700.0,Ivana Wiedermann,dar Wiedermann Viktor,
+38,2022-10-14,-750.0,Platba kartou,FACEBK HUNW7JFE fb.me/ads,****8552
+39,2022-10-14,-900.0,euroawk,,900
+40,2022-10-14,-768.0,CORETA,tlac,220659
+41,2022-10-14,-348.0,CORETA,tlac,220706
+42,2022-10-14,-320.2,Michal Benko CREATIVE LEMON,tlac materialov,20220055
+43,2022-10-14,-390.0,Michal Benko CREATIVE LEMON,tlac materialov,20220052
+44,2022-10-13,700.0,Lenka Rolnikova,prispevok kampan,
+45,2022-10-13,700.0,Miroslav Hajský,Miroslav Hajsky dar,
+46,2022-10-11,-1250.0,,Reklamne a marketingove sluzby,20220011
+47,2022-10-11,-2633.4,REGIONPRESS,plosna inzercia,134220339
+48,2022-10-11,700.0,Juraj Hort,volby Juraj Hort,
+49,2022-10-11,800.0,KARAS RUDOLF,Prispevok na kampan Rudolf Karas,
+50,2022-10-11,384.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",,20223332
+51,2022-10-10,950.0,Marian Jankoviech,,
+52,2022-10-10,-9316.19,"RED Post, s.r.o.",distribucia a tlac,2022064
+53,2022-10-07,100.0,Nezník Marek,Dar na kampan,
+54,2022-10-06,700.0,MERASICKY TOMAS,Tomas Merasicky dar,
+55,2022-10-06,700.0,MONIKA PEKAROVA,PENAZNY DAR,
+56,2022-10-03,-448.32,Platba kartou,FACEBK HD7DEHXE fb.me/ads,****8552
+57,2022-10-03,195.0,MATUSOV JOZEF,,
+58,2022-10-03,-316.8,Púchovská kultúra s.r.o.,inzercia,22170246
+59,2022-09-30,6.0,,Odpustenie vedenie konta,9
+60,2022-09-30,-6.0,,Vedenie konta Transparentný účet,9
+61,2022-09-29,66.0,Hodas Rudolf,Dar Hodas Volby 22,
+62,2022-09-28,990.0,Martin Simik,Dar na uspesnu kampan prenasho top kandidata,
+63,2022-09-28,-513.0,MEDMAX s. r. o.,prenajom priestorov+obcerstvenie,220100123
+64,2022-09-27,-2112.0,gryf,billboardy oktober,22106
+65,2022-09-27,400.0,Tomáš Urminský,Dar,
+66,2022-09-27,-2622.0,Nubium,reklamne plochy september,22096926
+67,2022-09-27,-1792.0,VodneBubliny s.r.o.,zabezpecenie podujati,2022206
+68,2022-09-26,-360.0,Arton,Billboardy oktober,220598
+69,2022-09-26,-4446.0,ARTON,plochy billboardy TNkraj 2.cast,220448
+70,2022-09-23,-750.0,Platba kartou,FACEBK 8FSCKHKE fb.me/ads,****8552
+71,2022-09-23,11500.0,Kresťanskodemokratické hnutie,Peňažný dar,22092022
+72,2022-09-22,-576.0,Gryf,reklamne plochy,22105
+73,2022-09-21,700.0,BAKOS JURAJ,na kampan,
+74,2022-09-20,700.0,"Fedorová Michaela, Mgr.",dar,
+75,2022-09-20,-972.0,Ispa,plochy 10.2022,22950300
+76,2022-09-20,700.0,Sučanský Peter,SUCANSKY PETER,
+77,2022-09-19,1500.0,Ľuboš Žiško,dar kampan 2022,
+78,2022-09-19,700.0,MATUSOV JOZEF,,
+79,2022-09-19,700.0,"Oulehle Peter, MUDr.",Oulehle Peter MUDr.,
+80,2022-09-16,-4800.0,Art eu s..r..o,reklamne plochy,2022039
+81,2022-09-16,4800.0,Miroslav Žiak,dar Ziak Miroslav,
+82,2022-09-13,-80.0,mesto nove mesto nad vahom,kampan na zupana,55301
+83,2022-09-12,700.0,Eduard Filo,Eduard Filo,
+84,2022-09-12,300.0,Pavol Mičuda - PAVEL,Volby 2022,
+85,2022-09-12,700.0,Jana Danova,dano peter,9
+86,2022-09-09,700.0,Porubec Ivan,Ivan Porubec,
+87,2022-09-09,700.0,ELEONORA PORUBCOVA,ELEONORA PORUBCOVA,
+88,2022-09-08,-756.0,Mgr. Michal Benko CREATIVE LEMON,,20220049
+89,2022-09-08,-396.0,Gryf,,20223023
+90,2022-09-05,-282.23,Platba kartou,FACEBK RP7P3HKE fb.me/ads,****8552
+91,2022-09-05,700.0,BOCINCOVA EVA,Kampan VUC Eva Bocincova,
+92,2022-09-05,700.0,POSPISILOVA IVETA,dar na kampan,636210
+93,2022-09-05,700.0,"Beňová Viera, RNDr.","darca V.Benova, kampan 2022",
+94,2022-09-02,-414.0,Juraj Prostinák,,20220005
+95,2022-08-31,6.0,,Odpustenie vedenie konta,9
+96,2022-08-31,-6.0,,Vedenie konta Transparentný účet,9
+97,2022-08-31,500.0,Peter Mikulas,Dar pre Petra Matosa,
+98,2022-08-31,500.0,Katarina Malanova,Penazny dar,
+99,2022-08-30,-432.0,"Trenčiansky BLESK, s. r. o.",,22038
+100,2022-08-30,4446.0,"euroAWK, spol. s r. o.",,220448
+101,2022-08-26,-432.0,arton,uhrada billboardov,220532
+102,2022-08-26,-4446.0,Arton,,220448
+103,2022-08-26,-252.0,Grif,,20221993
+104,2022-08-24,-1313.52,RH Grafika,"urhrada fa, propagacne materialy",202207288
+105,2022-08-23,-840.0,euroAWK,kampan VUC reklamne plochy,
+106,2022-08-23,-4446.0,ARTON s.r.o.,prenajom billboardov,220448
+107,2022-08-22,10000.0,Kresťanskodemokratické hnutie,Peňažný dar,19082022
+108,2022-08-09,-900.0,euroawk,zaloha za reklamne plochy,
+109,2022-08-08,500.0,Kresťanskodemokratické hnutie,Peňažný dar,5082022
+110,2022-08-04,-1250.0,Mgr. Michal Benko CREATIVE LEMON,Tvorba grafiky a video spotov k volebnej kampani,
+111,2022-08-02,-171.39,Platba kartou,FACEBK JGYRVFXE fb.me/ads,****8552
+112,2022-07-29,6.0,,Odpustenie vedenie konta,9
+113,2022-07-29,-6.0,,Vedenie konta Transparentný účet,9
+114,2022-07-19,-580.8,RH grafika,Uhrada faktury 202206248,202206248
+115,2022-07-19,-450.0,"PITMEDIA, s.r.o",Zalohova faktura na tvorbu webovej stranky,2022920007
+116,2022-07-15,-840.0,euroawk,zaloha za kampan,2270123
+117,2022-07-15,-648.0,euroawk,billboardy TN kraj,
+118,2022-07-11,-200.0,Platba kartou,FACEBK VUF3VFTE fb.me/ads,****8552
+119,2022-07-04,-164.81,Platba kartou,FACEBK PQZXNEPE fb.me/ads,****8552
+120,2022-06-30,6.0,,Odpustenie vedenie konta,9
+121,2022-06-30,-6.0,,Vedenie konta Transparentný účet,9
+122,2022-06-30,-864.0,"euroAWK, spol. s r.o.",reklamna kampan billboardy,222867
+123,2022-06-27,-580.0,Juraj Prostinák,Video a fotograficke prace,
+124,2022-06-24,-543.95,"Xfusion, s.r.o.",prenajom priestorov na konferenciu 16.6.2022,
+125,2022-06-23,-720.0,ARTON,najom billboardov,
+126,2022-06-23,-388.8,NUBIUM,,
+127,2022-06-23,10000.0,Kresťanskodemokratické hnutie,Peňažný dar,22062022
+128,2022-06-02,-1800.0,,Peter Matos Arton - plochy jun,220211
+129,2022-06-02,-1347.9,,Uhrada faktury 202205196,202205196
+130,2022-06-01,100.0,Jozef Dokupil,,
+131,2022-06-01,10000.0,Kresťanskodemokratické hnutie,Peňažný dar,31052022
+132,2022-05-31,5.0,,Odpust.-popl.za platby a ved.úč/ko,9
+133,2022-05-31,-5.0,,Vedenie účtu,9
