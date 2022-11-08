@@ -1,5 +1,5 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2022-11-06,-214.65,Bezhotovostná platba,,vratenie daru,,,,vratenie daru
+0,2022-11-06,-214.65,Bezhotovostná platba,,vratenie daru,,,,cestovné výdavky
 1,2022-11-01,-1.93,Transakcia kartou,,"Nákup: FACEBK JTXCXJXZU2, fb.me/ads, IE, dne 31.10.2022, částka  1.93 EUR",,2031,,"Nákup: FACEBK JTXCXJXZU2, fb.me/ads, IE, dne 31.10.2022, částka  1.93 EUR"
 2,2022-10-30,-0.01,Transakcia kartou,,"Nákup: FACEBK T7HPTKP2V2, fb.me/ads, IE, dne 29.10.2022, částka  0.01 EUR",,2031,,"Nákup: FACEBK T7HPTKP2V2, fb.me/ads, IE, dne 29.10.2022, částka  0.01 EUR"
 3,2022-10-28,-135.9,Transakcia kartou,,"Nákup: GoogleAdwordsEU ADS476734, Dublin, IE, dne 27.10.2022, částka  135.90 EUR",,2031,,"Nákup: GoogleAdwordsEU ADS476734, Dublin, IE, dne 27.10.2022, částka  135.90 EUR"
