@@ -141,8 +141,8 @@ index,index,date,amount,account_name,message,vs,name
 139,75,2022-10-24,297.0,Martinova Zuzana,Ladislav Martin dar,21102022,REPUBLIKA
 140,34,2022-10-26,-110.0,Michal Sidor,vratenie daru,,REPUBLIKA
 141,53,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny",,REPUBLIKA
-142,553,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
-143,535,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
+142,557,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
+143,539,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 144,548,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
 145,419,2022-08-17,1200.0,AEROCAFE S. R. O.,"Aerocafe sro, vratena platba",16082022.0,SME RODINA
 146,539,2022-06-09,-40.0,Mesto Dubnica nad Váhom,Mesto Dubnica nad Váhom,41220012.0,SME RODINA
@@ -221,8 +221,8 @@ index,index,date,amount,account_name,message,vs,name
 219,70,2022-07-25,0.01,Hollý Jakub,Na kurz pre zlepsenie sebaovladania a kontrolu emocii,,Miloš Mičega
 220,3,2022-10-26,-0.01,Ďurža Mário,Vrátenie vkladu,,Miloš Mičega
 221,43,2022-09-15,0.01,Ďurža Mário,Pre pána primátora !,,Miloš Mičega
-222,8,2022-10-28,-450.0,Milan Spanik,vratena uhrada,,Milan Špánik
-223,9,2022-10-28,450.0,Milan Špánik,,,Milan Špánik
+222,4,2022-10-28,-450.0,Milan Spanik,vratena uhrada,,Milan Špánik
+223,5,2022-10-28,450.0,Milan Špánik,,,Milan Špánik
 224,2,2022-10-26,-57.0,Martaus Tomáš,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK8909000000005133345101,,Tomáš Martaus
 225,3,2022-10-26,57.0,Martaus Tomáš,,,Tomáš Martaus
 226,183,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
