@@ -119,34 +119,34 @@ index,index,date,amount,account_name,message,vs,name
 117,125,2022-09-23,500.0,VKM STARA LUBOVNA,Dar Pavol Gurega,9.0,Kresťanskodemokratické hnutie
 118,73,2022-10-13,-5000.0,"DENT-IN, S.R.O.",Vrátenie daru - mylná platba,13102022.0,Kresťanskodemokratické hnutie
 119,81,2022-10-12,5000.0,"DENT-IN, S.R.O.",23711150,,Kresťanskodemokratické hnutie
-120,388,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
-121,359,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
-122,356,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
-123,319,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
-124,343,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
-125,344,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-126,295,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-127,298,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-128,293,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-129,297,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",,REPUBLIKA
-130,270,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
-131,273,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
-132,260,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
-133,262,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
-134,173,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,,REPUBLIKA
-135,185,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
-136,186,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
-137,210,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
-138,88,2022-10-21,-702.0,Dobošová Tatiana,Vratenie daru od Branislava Dobosa,,REPUBLIKA
-139,102,2022-10-21,702.0,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",,REPUBLIKA
-140,103,2022-10-21,-40.0,Ondrej Hudec,Vratenie daru,,REPUBLIKA
-141,105,2022-10-21,40.0,Ondrej Hudec,Ondrej Hudec kandidat na starostu Dolne Plachtince,10220208,REPUBLIKA
-142,52,2022-10-25,-110.0,Michal Sidor,Vratenie daru,,REPUBLIKA
-143,44,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny, prevod penazi na transparentny ucet Hnutia REPUBLIKA pre tlac letakov",,REPUBLIKA
-144,32,2022-10-26,-297.0,Martinova Zuzana,vratenie daru,21102022,REPUBLIKA
-145,76,2022-10-24,297.0,Martinova Zuzana,Ladislav Martin dar,21102022,REPUBLIKA
-146,35,2022-10-26,-110.0,Michal Sidor,vratenie daru,,REPUBLIKA
-147,54,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny",,REPUBLIKA
+120,390,2022-07-26,-192.0,GRYF reklamné štúdio s.r.o.,zaloha za prenajom a realizaciu reklamnej plochy,,REPUBLIKA
+121,361,2022-08-22,192.0,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.",vrátenie finančných prostriedkov za duplicitnú platby,22090,REPUBLIKA
+122,358,2022-08-30,-120.0,Tlačiareň Kubík s.r.o.,tovar,220101082,REPUBLIKA
+123,321,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
+124,345,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
+125,346,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
+126,297,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+127,300,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
+128,295,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+129,299,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",,REPUBLIKA
+130,272,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
+131,275,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
+132,262,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
+133,264,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
+134,175,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,,REPUBLIKA
+135,187,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
+136,188,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
+137,212,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
+138,91,2022-10-21,-702.0,Dobošová Tatiana,Vratenie daru od Branislava Dobosa,,REPUBLIKA
+139,104,2022-10-21,702.0,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",,REPUBLIKA
+140,105,2022-10-21,-40.0,Ondrej Hudec,Vratenie daru,,REPUBLIKA
+141,107,2022-10-21,40.0,Ondrej Hudec,Ondrej Hudec kandidat na starostu Dolne Plachtince,10220208,REPUBLIKA
+142,55,2022-10-25,-110.0,Michal Sidor,Vratenie daru,,REPUBLIKA
+143,47,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny, prevod penazi na transparentny ucet Hnutia REPUBLIKA pre tlac letakov",,REPUBLIKA
+144,35,2022-10-26,-297.0,Martinova Zuzana,vratenie daru,21102022,REPUBLIKA
+145,79,2022-10-24,297.0,Martinova Zuzana,Ladislav Martin dar,21102022,REPUBLIKA
+146,38,2022-10-26,-110.0,Michal Sidor,vratenie daru,,REPUBLIKA
+147,57,2022-10-25,110.0,Michal Sidor,"Bc. Michal Sidor, kandidat na poslanca MsZ Ruzomberok - Laziny",,REPUBLIKA
 148,559,2022-08-27,-579.6,ARRIVA Slovakia a.s.,prenájom reklamnej plochy NZ zadné sklo,3010024596.0,Sloboda a Solidarita
 149,541,2022-09-07,579.6,ARRIVA SLOVAKIA A.S.,"Sloboda a Solidarita, storno 3010024596. Payment refund",,Sloboda a Solidarita
 150,563,2022-06-07,-1200.0,AEROCAFE s.r.o.,AEROCAFE s.r.o.-balóny Partizánske,20220020.0,SME RODINA
