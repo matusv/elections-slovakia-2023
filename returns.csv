@@ -125,18 +125,18 @@ index,index,date,amount,account_name,message,vs,name
 123,321,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
 124,345,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
 125,346,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-126,283,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+126,297,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
 127,300,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-128,285,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-129,286,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
-130,260,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
-131,263,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
-132,250,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
-133,252,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
+128,295,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+129,299,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",,REPUBLIKA
+130,272,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
+131,275,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
+132,262,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
+133,264,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
 134,175,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,,REPUBLIKA
 135,187,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
 136,188,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
-137,200,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
+137,212,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
 138,91,2022-10-21,-702.0,Dobošová Tatiana,Vratenie daru od Branislava Dobosa,,REPUBLIKA
 139,104,2022-10-21,702.0,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",,REPUBLIKA
 140,105,2022-10-21,-40.0,Ondrej Hudec,Vratenie daru,,REPUBLIKA
@@ -255,26 +255,26 @@ index,index,date,amount,account_name,message,vs,name
 253,141,2022-08-25,1000.0,"Michalov Michal, Ing.",Michal Michalov,,Viliam Zahorčák
 254,32,2022-10-14,-936.0,Nubium s.r.o.,FA 22108119- prenajom reklamnychpanelov v mesiaci oktober 2022 nazaklade objednavky NR/202/07/22,22108119.0,Štefan Štefek
 255,38,2022-10-01,936.0,"NUBIUM, s. r. o.",vratenie platby,22075349.0,Štefan Štefek
-256,5,2022-10-26,-2400.0,Murín Ľubomír,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK4109000000005144414053,,Ľubomír Murín
-257,6,2022-10-26,2400.0,Murín Ľubomír,,,Ľubomír Murín
+256,6,2022-10-26,-2400.0,Murín Ľubomír,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK4109000000005144414053,,Ľubomír Murín
+257,7,2022-10-26,2400.0,Murín Ľubomír,,,Ľubomír Murín
 258,148,2021-11-16,-501.0,PREVOD Z KRED. KARTY,vrátenie platby z dôvodunedostatočnej identifikácie darcu,,Michal Djordjevič
 259,149,2021-11-15,501.0,PREVOD Z KRED. KARTY,Pre najlepsieho kandidata!,,Michal Djordjevič
 260,5,2022-10-26,-500.0,Árpád Horváth,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK7509000000005168031292,,Árpád Horváth
 261,26,2022-10-17,500.0,Árpád Horváth,Prevod medzi vlastnými účtami,,Árpád Horváth
 262,81,2022-09-09,-28.8,ARTON s.r.o.,0220909104243.618141,220553.0,NÁRODNÁ KOALÍCIA - NEZÁVISLÍ KANDIDÁTI
 263,78,2022-09-14,28.8,ARTON s.r.o.,Duplicitna uhrada,220553.0,NÁRODNÁ KOALÍCIA - NEZÁVISLÍ KANDIDÁTI
-264,97,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000,,ZA ĽUDÍ
-265,110,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
-266,96,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000 2/2,,ZA ĽUDÍ
-267,109,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
-268,95,2022-07-29,-2500.0,LESNAKOVA LUCIA,platba 13072022 1/1,,ZA ĽUDÍ
-269,104,2022-07-13,2500.0,LESNAKOVA LUCIA,Milan Lesnak Kosice 2030,,ZA ĽUDÍ
-270,88,2022-08-05,-2000.0,Lesňáková Marta,platba Lesnakova Marta 12072022,,ZA ĽUDÍ
-271,107,2022-07-12,2000.0,Lesňáková Marta,Milan Lesnak,,ZA ĽUDÍ
-272,89,2022-08-05,-2000.0,Lesňáková Marta,platba 13072022 2000,,ZA ĽUDÍ
-273,103,2022-07-13,2000.0,Lesňáková Marta,Milan Lesňak Kosice,,ZA ĽUDÍ
-274,86,2022-08-08,-5000.0,LESNAK MILAN,platba 12072022 5000,72022.0,ZA ĽUDÍ
-275,108,2022-07-12,5000.0,LESNAK MILAN,vklad Milan Lesnak - Kosice 2030,72022.0,ZA ĽUDÍ
+264,98,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000,,ZA ĽUDÍ
+265,111,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
+266,97,2022-07-29,-2000.0,Feketeová Iveta,platba 11072022 2000 2/2,,ZA ĽUDÍ
+267,110,2022-07-11,2000.0,Feketeová Iveta,Milan Lesnak,,ZA ĽUDÍ
+268,96,2022-07-29,-2500.0,LESNAKOVA LUCIA,platba 13072022 1/1,,ZA ĽUDÍ
+269,105,2022-07-13,2500.0,LESNAKOVA LUCIA,Milan Lesnak Kosice 2030,,ZA ĽUDÍ
+270,89,2022-08-05,-2000.0,Lesňáková Marta,platba Lesnakova Marta 12072022,,ZA ĽUDÍ
+271,108,2022-07-12,2000.0,Lesňáková Marta,Milan Lesnak,,ZA ĽUDÍ
+272,90,2022-08-05,-2000.0,Lesňáková Marta,platba 13072022 2000,,ZA ĽUDÍ
+273,104,2022-07-13,2000.0,Lesňáková Marta,Milan Lesňak Kosice,,ZA ĽUDÍ
+274,87,2022-08-08,-5000.0,LESNAK MILAN,platba 12072022 5000,72022.0,ZA ĽUDÍ
+275,109,2022-07-12,5000.0,LESNAK MILAN,vklad Milan Lesnak - Kosice 2030,72022.0,ZA ĽUDÍ
 276,21,2022-09-19,-10.0,Tomas Soukal,vrátenie platby,,Alžbeta Vlčková
 277,30,2022-08-12,10.0,Tomas Soukal,Babeta na radnicu,,Alžbeta Vlčková
 278,7,2022-10-26,-1000.0,Stručková Eva Ing.,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK5609000000000048212942,695919.0,Alžbeta Vlčková
