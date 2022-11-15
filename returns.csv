@@ -125,18 +125,18 @@ index,index,date,amount,account_name,message,vs,name
 123,321,2022-09-14,120.0,TLAČIAREŇ KUBÍK S.R.O.,2xplatba,220101082,REPUBLIKA
 124,345,2022-09-07,-408.0,Mária Prešinská,vratenie daru,,REPUBLIKA
 125,346,2022-09-07,408.0,Maria Presinska,Dar,,REPUBLIKA
-126,283,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+126,297,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
 127,300,2022-09-22,45.0,Peter Kultán,Kultan Peter dar,,REPUBLIKA
-128,285,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
-129,286,2022-09-23,45.0,Peter Kultán,"Dar, Peter Kultan, 02336, Radola 411",,REPUBLIKA
-130,260,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
-131,263,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
-132,250,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
-133,252,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
+128,295,2022-09-23,-45.0,Peter Kultan,Vratenie daru,,REPUBLIKA
+129,299,2022-09-23,45.0,Peter Kultán,"Peter Kultan, 02336 Radola 411",,REPUBLIKA
+130,272,2022-09-29,-200.0,PAVOL TIMKO TI-XL STEEL,Vratenie daru,,REPUBLIKA
+131,275,2022-09-29,200.0,PAVOL TIMKO TI-XL STEEL,Financny dar,7708106692,REPUBLIKA
+132,262,2022-09-30,-168.0,Michaela Sklenková,Vratenie daru,,REPUBLIKA
+133,264,2022-09-30,168.0,MICHAELA SKLENKOVA,"Michaela Sklenkova, StUrova 1375/3, ZH Dar 3",,REPUBLIKA
 134,175,2022-10-13,-590.0,Sadibol Luboslav,vratenie daru,,REPUBLIKA
 135,187,2022-10-13,590.0,SADIBOL LUBOSLAV,Luboslav Sadibol Komenskeho 128 Dar,,REPUBLIKA
 136,188,2022-10-13,-1000.0,NADACIA ARDIS,vratenie daru,45022330,REPUBLIKA
-137,200,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
+137,212,2022-10-11,1000.0,NADACIA ARDIS,Dar pre Miroslava Suju - Nadacia ARDIS,45022330,REPUBLIKA
 138,91,2022-10-21,-702.0,Dobošová Tatiana,Vratenie daru od Branislava Dobosa,,REPUBLIKA
 139,104,2022-10-21,702.0,DOBOSOVA TATIANA,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",,REPUBLIKA
 140,105,2022-10-21,-40.0,Ondrej Hudec,Vratenie daru,,REPUBLIKA
@@ -163,8 +163,8 @@ index,index,date,amount,account_name,message,vs,name
 161,381,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
 162,315,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
 163,286,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
-164,380,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
-165,385,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
+164,381,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
+165,386,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
 166,1751,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
 167,1752,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
 168,1730,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
