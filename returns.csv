@@ -113,10 +113,10 @@ index,index,date,amount,account_name,message,vs,name
 111,57,2022-09-24,0.01,Ivan Čerňanský,Pre Pelle bukvicaka na vibrator.,,HLAS - sociálna demokracia
 112,13,2022-10-26,-0.01,Horváth Kristián,Prispevok na vazelinu,,HLAS - sociálna demokracia
 113,43,2022-10-03,0.01,Horváth Kristián,Prispevok na vazelinu,,HLAS - sociálna demokracia
-114,190,2022-07-04,-161.7,Poľnohospodárske družstvo Chtelnica,potraviny na podujatie,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
-115,183,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
-116,144,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
-117,151,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
+114,192,2022-07-04,-161.7,Poľnohospodárske družstvo Chtelnica,potraviny na podujatie,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
+115,185,2022-07-13,161.7,POĽNOHOSPODÁRSKE DRUŽSTVO CHTELNICA,2X UHRADENA FAKTURA,1200672.0,Kotlebovci - Ľudová strana Naše Slovensko
+116,146,2022-08-31,-0.01,Matej Kosík,vrátenie daru,,Kotlebovci - Ľudová strana Naše Slovensko
+117,153,2022-08-22,0.01,Matej Kosik,Pge Magiana na lvogopeda,,Kotlebovci - Ľudová strana Naše Slovensko
 118,218,2022-07-20,-50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH - mylná platba,20072022.0,Kresťanskodemokratické hnutie
 119,219,2022-07-20,50000.0,Kresťanskodemokratické hnutie,Prevod fin. prostriedkov z bežného účtu KDH,20072022.0,Kresťanskodemokratické hnutie
 120,118,2022-09-26,-756.0,ARTON s.r.o.,Úhrada DF 202209128 za poskytnutie priestoru na reklamu,202209128.0,Kresťanskodemokratické hnutie
@@ -171,8 +171,8 @@ index,index,date,amount,account_name,message,vs,name
 169,402,2022-09-06,200.0,Veronika Žilinčanová - IMAGELOOK,"platba KaS advertising, s.r.o. - vratenie casti duplicitnej platby za kampan pre Borisa Veresa",,SME RODINA
 170,336,2022-09-26,-10.0,Mesto Tisovec,Rozhlas Vengrin DsR,220036.0,SME RODINA
 171,307,2022-09-29,10.0,MESTO TISOVEC,Vratka - duplicitná platba za fa.č. 220036,220036.0,SME RODINA
-172,381,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
-173,386,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
+172,383,2022-06-15,-1.0,Sagatova Vanessa,Vratenie fin.prostriedkov,13062022.0,SMER - sociálna demokracia
+173,388,2022-06-13,1.0,SAGATOVA VANESSA,Zafo,,SMER - sociálna demokracia
 174,1751,2022-07-23,-100.0,"Kratochvílová Tatiana, Ing.",vrateny dar,23072022.0,Team Bratislava
 175,1752,2022-07-22,100.0,"Kratochvílová Tatiana, Ing.",clenske Kratochvilova,220722.0,Team Bratislava
 176,1730,2022-08-15,-40000.0,Dubec Milan,dar vrateny kvoli nespravnemu postupu pri darovani,1082022.0,Team Bratislava
