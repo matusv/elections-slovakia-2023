@@ -239,8 +239,8 @@ index,index,date,amount,account_name,message,vs,name
 237,6,2022-10-28,450.0,Milan Špánik,,,Milan Špánik
 238,2,2022-10-26,-57.0,Martaus Tomáš,Opravné účtovanie originál transakcie zo dňa 26.10.2022 z účtu SK8909000000005133345101,,Tomáš Martaus
 239,3,2022-10-26,57.0,Martaus Tomáš,,,Tomáš Martaus
-240,186,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
-241,181,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
+240,187,2022-06-17,-360.0,"Alfa PRINT, s.r.o.",Tlač letákov,97422.0,Stanislav Thomka
+241,182,2022-06-22,360.0,"Alfa print, s.r.o.",Vratenie duplicitnej platby,97422.0,Stanislav Thomka
 242,53,2022-08-19,-22452.0,"BigMedia, spol. s r.o.",,1222205521.0,Adrian Polóny
 243,52,2022-08-26,22452.0,"BIGMEDIA, SPOL. S R.O.",32221/0037 25.08.2022,,Adrian Polóny
 244,22,2022-10-22,-9.0,Martin Ruščanský,0221022203845.362317,,Slavomír Novák
