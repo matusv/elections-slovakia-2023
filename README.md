@@ -1,1 +1,0 @@
-# transparent-account-data-slovak-elections-2022
