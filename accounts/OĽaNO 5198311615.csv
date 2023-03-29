@@ -1,6 +1,6 @@
-index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,O¼ANO-NOVA-KÚ-ZMENA ZDOLA,2023-03-10,20000.0,EUR,Prevod,Bezhotovostný vklad,,
-1,,2023-02-28,-5.0,EUR,Zverejòovanie úètu,Poplatok,,
-2,,2023-02-28,-5.0,EUR,Poplatok za vedenie úètu,Poplatok,,
-3,,2023-01-31,-5.0,EUR,Zverejòovanie úètu,Poplatok,,
-4,,2023-01-31,-3.23,EUR,Poplatok za vedenie úètu,Poplatok,,
+index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
+0,0,OĽANO-NOVA-KÚ-ZMENA ZDOLA,2023-03-10,20000.0,EUR,Prevod,Bezhotovostný vklad,,
+1,1,,2023-02-28,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,2,,2023-02-28,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,3,,2023-01-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,4,,2023-01-31,-3.23,EUR,Poplatok za vedenie účtu,Poplatok,,

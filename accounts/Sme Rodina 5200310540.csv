@@ -1,5 +1,5 @@
-index,account_name,date,amount,currency,message,tx_type,vs,ss
-0,Victory Production,2023-03-20,-40800,EUR,Poskyt. sluzieb na zaklade zmluvy,Platobný príkaz na úhradu / FIT 2.0 (EB),2023001,
-1,ghstudio,2023-03-20,-40000,EUR,ghstudio s.r.o.: 2023202 - vyroba reklamnych predmetov,Platobný príkaz na úhradu / FIT 2.0 (EB),2023202,
-2,Prevádzkový úèet,2023-03-15,100000,EUR,Parlamentne volby 2023,Bezhotovostný vklad,,
-3,SME RODINA_Boris Kollár_hlavný úèet,2023-03-15,200,EUR,F001150320239443661,Bezhotovostný vklad,,
+index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
+0,0,Victory Production,2023-03-20,-40800.0,EUR,Poskyt. sluzieb na zaklade zmluvy,Platobný príkaz na úhradu / FIT 2.0 (EB),2023001.0,
+1,1,ghstudio,2023-03-20,-40000.0,EUR,ghstudio s.r.o.: 2023202 - vyroba reklamnych predmetov,Platobný príkaz na úhradu / FIT 2.0 (EB),2023202.0,
+2,2,Prevádzkový účet,2023-03-15,100000.0,EUR,Parlamentne volby 2023,Bezhotovostný vklad,,
+3,3,SME RODINA_Boris Kollár_hlavný účet,2023-03-15,200.0,EUR,F001150320239443661,Bezhotovostný vklad,,
