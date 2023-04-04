@@ -61,3 +61,5 @@ index,date,account_name,amount,message,vs,name,label
 59,2023-02-28,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
 60,2023-01-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
 61,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
+62,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
+63,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
