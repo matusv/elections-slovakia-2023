@@ -63,5 +63,6 @@ index,date,account_name,amount,message,vs,name,label
 61,2023-02-28,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
 62,2023-01-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
 63,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
-64,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
-65,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
+64,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
+65,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
+66,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
