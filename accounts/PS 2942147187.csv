@@ -1,4 +1,7 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
-1,2023-03-31,-0.0,EUR,,Poplatok za balík,
-2,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+0,2023-04-05,-30000.0,EUR,"BigMedia, spol. s r.o.","Platba/BigMedia billboard,busboard,citylight",1223202582
+1,2023-04-05,-2587.25,EUR,"LionsPartners, a.s.",Platba/najom kancelaria 04 23,23174
+2,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
+3,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
+4,2023-03-31,-0.0,EUR,,Poplatok za balík,
+5,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
