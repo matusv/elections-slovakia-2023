@@ -65,9 +65,10 @@ index,date,account_name,amount,message,vs,name,label
 63,2023-02-28,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
 64,2023-01-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
 65,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
-66,2023-04-05,"BigMedia, spol. s r.o.",-30000.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
-67,2023-04-05,"LionsPartners, a.s.",-2587.25,Platba/najom kancelaria 04 23,23174.0,PS,PS
-68,2023-04-05,,-750.0,EUR NÁKUP POS,,PS,PS
-69,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
-70,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
-71,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
+66,2023-04-06,,-2000.0,VÝBER V HOTOVOSTI/Výber do pokladne,,PS,PS
+67,2023-04-05,"BigMedia, spol. s r.o.",-30000.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
+68,2023-04-05,"LionsPartners, a.s.",-2587.25,Platba/najom kancelaria 04 23,23174.0,PS,PS
+69,2023-04-05,,-750.0,EUR NÁKUP POS,,PS,PS
+70,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
+71,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
+72,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
