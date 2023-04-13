@@ -82,3 +82,6 @@ index,date,account_name,amount,message,vs,name,label
 80,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
 81,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
 82,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
+83,2023-04-06,SLOV NARODNA STRANA,100.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
+84,2023-03-31,,-0.16,Poplatok za vedenie účtu,,SNS,PS
+85,2023-04-13,KOTLEBOVCI - LUDOVA,40000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,,LSNS,PS
