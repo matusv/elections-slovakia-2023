@@ -1,15 +1,15 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-04-14,-750.0,EUR,,EUR NÁKUP POS,
-1,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466
-2,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259
-3,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
+0,2023-04-17,-750.0,EUR,,EUR NÁKUP POS,
+1,2023-04-14,-750.0,EUR,,EUR NÁKUP POS,
+2,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466
+3,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259
 4,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
-5,2023-04-12,-900.0,EUR,"BIGMEDIA, S.R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
-6,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-7,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-8,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318
-9,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
-10,2023-04-12,-750.0,EUR,,EUR NÁKUP POS,
-11,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
-12,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-13,2023-04-11,-1.17,EUR,,EUR NÁKUP POS,
+5,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
+6,2023-04-12,-900.0,EUR,"BigMedia, spol. s r.o.","Platba/BigMedia billboard,busboard,citylight",1223202582
+7,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+8,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+9,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318
+10,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
+11,2023-04-12,-750.0,EUR,,EUR NÁKUP POS,
+12,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
+13,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
