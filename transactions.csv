@@ -94,14 +94,25 @@ index,date,account_name,amount,message,vs,name,label
 92,2023-04-12,More Design s. r. o.,-10759.2,"Platba/More Design, s.r.o. graficke prace",202318.0,PS,PS
 93,2023-04-12,SLAVOMIR SIMCAK,150.0,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS,PS
 94,2023-04-12,,-750.0,EUR NÁKUP POS,,PS,PS
-95,2023-04-11,Príbiš Milena,100.0,Platba/Milena Pribis,,PS,PS
+95,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
 96,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
-97,2023-04-17,LUBOMIR MORAVCIK,0.01,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas,PS
-98,2023-04-18,"GRYF reklamné štúdio,s.r.o.",-576.0,billboardy d,23029.0,SNS,PS
-99,2023-04-18,"BigMedia, spol. s.r.o.",-525.6,billboardy d,122390047.0,SNS,PS
-100,2023-04-18,SLOV NARODNA STRANA,4000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
-101,2023-04-06,SLOV NARODNA STRANA,100.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
-102,2023-03-31,,-0.16,Poplatok za vedenie účtu,,SNS,PS
-103,2023-04-13,GRYF reklamné štúdio s.r.o.,-2400.0,prenájom a real. reklamnej plochy,23017.0,LSNS,PS
-104,2023-04-13,GRYF reklamné štúdio s.r.o.,-30937.2,prenájom a real. reklam. plôch,23016.0,LSNS,PS
-105,2023-04-13,KOTLEBOVCI - LUDOVA,40000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,,LSNS,PS
+97,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
+98,2023-04-11,Príbiš Milena,100.0,Platba/Milena Pribis,,PS,PS
+99,2023-04-11,,-1.17,EUR NÁKUP POS,,PS,PS
+100,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
+101,2023-04-06,,-2000.0,VÝBER V HOTOVOSTI/Výber do pokladne,,PS,PS
+102,2023-04-05,"BigMedia, spol. s r.o.",-30000.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
+103,2023-04-05,"LionsPartners, a.s.",-2587.25,Platba/najom kancelaria 04 23,23174.0,PS,PS
+104,2023-04-05,,-750.0,EUR NÁKUP POS,,PS,PS
+105,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
+106,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
+107,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
+108,2023-04-17,LUBOMIR MORAVCIK,0.01,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas,PS
+109,2023-04-18,"GRYF reklamné štúdio,s.r.o.",-576.0,billboardy d,23029.0,SNS,PS
+110,2023-04-18,"BigMedia, spol. s.r.o.",-525.6,billboardy d,122390047.0,SNS,PS
+111,2023-04-18,SLOV NARODNA STRANA,4000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
+112,2023-04-06,SLOV NARODNA STRANA,100.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
+113,2023-03-31,,-0.16,Poplatok za vedenie účtu,,SNS,PS
+114,2023-04-13,GRYF reklamné štúdio s.r.o.,-2400.0,prenájom a real. reklamnej plochy,23017.0,LSNS,PS
+115,2023-04-13,GRYF reklamné štúdio s.r.o.,-30937.2,prenájom a real. reklam. plôch,23016.0,LSNS,PS
+116,2023-04-13,KOTLEBOVCI - LUDOVA,40000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,,LSNS,PS
