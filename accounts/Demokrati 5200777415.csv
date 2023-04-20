@@ -1,6 +1,7 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,"Bořuta Dávid, Ing., MSc.",2023-04-18,500.0,EUR,prispevok na kampan David Boruta Lubinska 8 Bratislava dar,Bezhotovostný vklad - okamžitá platba,,
-1,1,Marek Polonec,2023-04-18,30.0,EUR,prispevok na kampan,Bezhotovostný vklad - okamžitá platba,,
-2,2,,2023-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,3,,2023-03-31,-1.29,EUR,Poplatok za vedenie účtu,Poplatok,,
-4,4,KISONOVA SABINA,2023-03-27,0.5,EUR,25101512,Bezhotovostný vklad,,
+0,0,"Kollár Miroslav, Ing.",2023-04-19,900.0,EUR,prispevok na kampan,Bezhotovostný vklad - okamžitá platba,,
+1,1,"Bořuta Dávid, Ing., MSc.",2023-04-18,500.0,EUR,prispevok na kampan David Boruta Lubinska 8 Bratislava dar,Bezhotovostný vklad - okamžitá platba,,
+2,2,Marek Polonec,2023-04-18,30.0,EUR,prispevok na kampan,Bezhotovostný vklad - okamžitá platba,,
+3,3,,2023-03-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,4,,2023-03-31,-1.29,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,5,KISONOVA SABINA,2023-03-27,0.5,EUR,25101512,Bezhotovostný vklad,,
