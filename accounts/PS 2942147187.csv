@@ -1,29 +1,32 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-04-19,-1260.0,EUR,ATRIOS S.R.O.,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201
-1,2023-04-18,-250.0,EUR,Pavol Krajci,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701
-2,2023-04-18,-750.0,EUR,,EUR NÁKUP POS,
-3,2023-04-17,-750.0,EUR,,EUR NÁKUP POS,
-4,2023-04-14,-750.0,EUR,,EUR NÁKUP POS,
-5,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466
-6,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259
-7,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
-8,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
-9,2023-04-12,-900.0,EUR,Bigmedia,"Platba/BigMedia billboard,busboard,citylight",1223202582
-10,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-11,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-12,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318
-13,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
-14,2023-04-12,-750.0,EUR,,EUR NÁKUP POS,
-15,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
-16,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-17,2023-04-11,-1.17,EUR,,EUR NÁKUP POS,
-18,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+0,2023-04-20,-750.0,EUR,,EUR NÁKUP POS,
+1,2023-04-20,-117.69,EUR,,POS nákup zahr.,
+2,2023-04-20,-80.4,EUR,,POS nákup zahr.,
+3,2023-04-19,-1260.0,EUR,ATRIOS S.R.O.,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201
+4,2023-04-18,-250.0,EUR,Pavol Krajci,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701
+5,2023-04-18,-750.0,EUR,,EUR NÁKUP POS,
+6,2023-04-17,-750.0,EUR,,EUR NÁKUP POS,
+7,2023-04-14,-750.0,EUR,,EUR NÁKUP POS,
+8,2023-04-13,-86.04,EUR,ECOKrabickys.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466
+9,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259
+10,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
+11,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
+12,2023-04-12,-900.0,EUR,Big Media,"Platba/BigMedia billboard,busboard,citylight",1223202582
+13,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+14,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+15,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318
+16,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
+17,2023-04-12,-750.0,EUR,,EUR NÁKUP POS,
+18,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
 19,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-20,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-21,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
-22,2023-04-05,-30000.0,EUR,Bigmedia,"Platba/BigMedia billboard,busboard,citylight",1223202582
-23,2023-04-05,-2587.25,EUR,"LionsPartners, a.s.",Platba/najom kancelaria 04 23,23174
-24,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
-25,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
-26,2023-03-31,-0.0,EUR,,Poplatok za balík,
-27,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+20,2023-04-11,-1.17,EUR,,EUR NÁKUP POS,
+21,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+22,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+23,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+24,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
+25,2023-04-05,-30000.0,EUR,Big Media,"Platba/BigMedia billboard,busboard,citylight",1223202582
+26,2023-04-05,-2587.25,EUR,"LionsPartners, a.s.",Platba/najom kancelaria 04 23,23174
+27,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
+28,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
+29,2023-03-31,-0.0,EUR,,Poplatok za balík,
+30,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,

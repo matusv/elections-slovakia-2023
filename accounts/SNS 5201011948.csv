@@ -1,6 +1,8 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,"GRYF reklamné štúdio,s.r.o.",2023-04-18,-576.0,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),23029.0,5762023.0
-1,1,"BigMedia, spol. s.r.o.",2023-04-18,-525.6,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),122390047.0,525602023.0
-2,2,SLOV NARODNA STRANA,2023-04-18,4000.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,2002023.0,
-3,3,SLOV NARODNA STRANA,2023-04-06,100.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,1002023.0,
-4,4,,2023-03-31,-0.16,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,0,,2023-04-21,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+1,1,,2023-04-21,-59.44,EUR,"B1511236929-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;20.04.2023 12:43:41 ;CashBack:0 EUR",Platba kartou,,
+2,2,"GRYF reklamné štúdio,s.r.o.",2023-04-18,-576.0,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),23029.0,5762023.0
+3,3,"BigMedia, spol. s.r.o.",2023-04-18,-525.6,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),122390047.0,525602023.0
+4,4,SLOV NARODNA STRANA,2023-04-18,4000.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,2002023.0,
+5,5,SLOV NARODNA STRANA,2023-04-06,100.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,1002023.0,
+6,6,,2023-03-31,-0.16,EUR,Poplatok za vedenie účtu,Poplatok,,
