@@ -9,143 +9,144 @@ index,date,account_name,amount,message,vs,name,label
 7,2023-03-20,ghstudio,-40000.0,ghstudio s.r.o.: 2023202 - vyroba reklamnych predmetov,2023202.0,Sme Rodina,PS
 8,2023-03-15,Prevádzkový účet,100000.0,Parlamentne volby 2023,,Sme Rodina,PS
 9,2023-03-15,SME RODINA_Boris Kollár_hlavný účet,200.0,F001150320239443661,,Sme Rodina,PS
-10,2023-04-25,TVRDY DUSAN,20.0,"Dusan Tvrdy, Letna 414, Zilina 01003",,Demokrati,PS
-11,2023-04-25,VLADIMIR BILCIK,900.0,Dar pre Demokratov Vlado Bilcik,,Demokrati,PS
-12,2023-04-24,Cocherová Andrea,900.0,prispevok na kampan,,Demokrati,PS
-13,2023-04-24,Petrík Michal,10.0,Dar,0.0,Demokrati,PS
-14,2023-04-24,HIRMAN KAREL,950.0,Clenske,,Demokrati,PS
-15,2023-04-24,FILIP GLEMBA,20.0,"FILIP GLEMBA, J. HANULU 1707/7 RUZOMBEROK - DAR",,Demokrati,PS
-16,2023-04-24,MARKOVIC PETER,900.0,prispevok na kampan,,Demokrati,PS
-17,2023-04-24,KUJAN DANIEL,5.0,prispevok na kampan,0.0,Demokrati,PS
-18,2023-04-23,"Naď Jaroslav, PhDr.",900.0,Jaroslav Nad Pri akademii Hruba Borsa DAR,,Demokrati,PS
-19,2023-04-22,Vašková Alexandra,20.0,F001220420239777818,,Demokrati,PS
-20,2023-04-21,"Letanovská Andrea, MUDr., PhD.",900.0,Letanovska dar strane,,Demokrati,PS
-21,2023-04-21,Heger Eduard,900.0,prispevok na kampan,,Demokrati,PS
-22,2023-04-21,"Galáš Pavol, Mgr.",20.0,"dar, prispevok na kampan, Pavol Galas, Jozefa Cigera Hronskeho 20, Bratislava 83102",,Demokrati,PS
-23,2023-04-19,"Kollár Miroslav, Ing.",900.0,prispevok na kampan,,Demokrati,PS
-24,2023-04-18,"Bořuta Dávid, Ing., MSc.",500.0,prispevok na kampan David Boruta Lubinska 8 Bratislava dar,,Demokrati,PS
-25,2023-04-18,Marek Polonec,30.0,prispevok na kampan,,Demokrati,PS
-26,2023-03-31,,-5.0,Zverejňovanie účtu,,Demokrati,PS
-27,2023-03-31,,-1.29,Poplatok za vedenie účtu,,Demokrati,PS
-28,2023-03-27,KISONOVA SABINA,0.5,25101512,,Demokrati,PS
-29,2023-04-24,AGENT RA SMER,-94416.85,FD-768-reklamne predmety,42023134.0,Smer,PS
-30,2023-04-03,"ISPA, SPOL. S R.O.",-110.4,FD-530-billboardy,20231275.0,Smer,PS
-31,2023-04-03,NIVEL PLUS s.r.o.,-1320.0,Zaloh.fa c.25-inzercia,1623910004.0,Smer,PS
-32,2023-03-31,,-5.0,Zverejňovanie účtu,,Smer,PS
-33,2023-03-31,,-3.06,Poplatok za vedenie účtu,,Smer,PS
-34,2023-03-20,AGENTURA SMER,-100000.0,Zal.fa 19-reklamne predmety,230800001.0,Smer,PS
-35,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+10,2023-04-25,Andrej Stančík,500.0,F001250420231575123,,Demokrati,PS
+11,2023-04-25,TVRDY DUSAN,20.0,"Dusan Tvrdy, Letna 414, Zilina 01003",,Demokrati,PS
+12,2023-04-25,VLADIMIR BILCIK,900.0,Dar pre Demokratov Vlado Bilcik,,Demokrati,PS
+13,2023-04-24,Cocherová Andrea,900.0,prispevok na kampan,,Demokrati,PS
+14,2023-04-24,Petrík Michal,10.0,Dar,0.0,Demokrati,PS
+15,2023-04-24,HIRMAN KAREL,950.0,Clenske,,Demokrati,PS
+16,2023-04-24,FILIP GLEMBA,20.0,"FILIP GLEMBA, J. HANULU 1707/7 RUZOMBEROK - DAR",,Demokrati,PS
+17,2023-04-24,MARKOVIC PETER,900.0,prispevok na kampan,,Demokrati,PS
+18,2023-04-24,KUJAN DANIEL,5.0,prispevok na kampan,0.0,Demokrati,PS
+19,2023-04-23,"Naď Jaroslav, PhDr.",900.0,Jaroslav Nad Pri akademii Hruba Borsa DAR,,Demokrati,PS
+20,2023-04-22,Vašková Alexandra,20.0,F001220420239777818,,Demokrati,PS
+21,2023-04-21,"Letanovská Andrea, MUDr., PhD.",900.0,Letanovska dar strane,,Demokrati,PS
+22,2023-04-21,Heger Eduard,900.0,prispevok na kampan,,Demokrati,PS
+23,2023-04-21,"Galáš Pavol, Mgr.",20.0,"dar, prispevok na kampan, Pavol Galas, Jozefa Cigera Hronskeho 20, Bratislava 83102",,Demokrati,PS
+24,2023-04-19,"Kollár Miroslav, Ing.",900.0,prispevok na kampan,,Demokrati,PS
+25,2023-04-18,"Bořuta Dávid, Ing., MSc.",500.0,prispevok na kampan David Boruta Lubinska 8 Bratislava dar,,Demokrati,PS
+26,2023-04-18,Marek Polonec,30.0,prispevok na kampan,,Demokrati,PS
+27,2023-03-31,,-5.0,Zverejňovanie účtu,,Demokrati,PS
+28,2023-03-31,,-1.29,Poplatok za vedenie účtu,,Demokrati,PS
+29,2023-03-27,KISONOVA SABINA,0.5,25101512,,Demokrati,PS
+30,2023-04-24,AGENT RA SMER,-94416.85,FD-768-reklamne predmety,42023134.0,Smer,PS
+31,2023-04-03,"ISPA, SPOL. S R.O.",-110.4,FD-530-billboardy,20231275.0,Smer,PS
+32,2023-04-03,NIVEL PLUS s.r.o.,-1320.0,Zaloh.fa c.25-inzercia,1623910004.0,Smer,PS
+33,2023-03-31,,-5.0,Zverejňovanie účtu,,Smer,PS
+34,2023-03-31,,-3.06,Poplatok za vedenie účtu,,Smer,PS
+35,2023-03-20,AGENTURA SMER,-100000.0,Zal.fa 19-reklamne predmety,230800001.0,Smer,PS
 36,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
 37,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
 38,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
 39,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
 40,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
 41,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
-42,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,,Smer,PS
-43,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
-44,2023-03-13,SMER - sociálna demokracia,129990.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
-45,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+42,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+43,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,,Smer,PS
+44,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+45,2023-03-13,SMER - sociálna demokracia,129990.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
 46,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
-47,2023-03-13,SMER - sociálna demokracia,10.0,Dotacia na volby NR SR 2023 z bu SMER SD,,Smer,PS
-48,2023-04-24,ARTON s.r.o.,-16198.8,"bilboardová kampaň máj 2023,101 ks, bigboard 5ks,",230207.0,SaS,PS
-49,2023-04-24,Sloboda a Solidarita (SaS),50000.0,presun financií,,SaS,PS
-50,2023-04-24,ARTON s.r.o.,-2220.0,"inštalácia banerov 5 ksosvetlenie, máj 2023",230122.0,SaS,PS
-51,2023-04-23,,-0.2,Poplatok za platbu kartou,,SaS,PS
-52,2023-04-23,,-900.0,"B1511839071-44544 17** **** 7969;FACEBK *HKSWMPTQM2 ,fb.me/ads ,IE ;21.04.2023 15:51:34 ;CashBack:0 EUR",,SaS,PS
-53,2023-04-20,,-0.2,Poplatok za platbu kartou,,SaS,PS
-54,2023-04-20,,-900.0,"B1510271809-44544 17** **** 7969;FACEBK *RQ8GHQBQM2 ,fb.me/ads ,IE ;19.04.2023 11:43:33 ;CashBack:0 EUR",,SaS,PS
-55,2023-04-19,X print s.r.o.,-201.6,roll up 150 x 200,230361.0,SaS,PS
-56,2023-04-18,Reklama Boka,-150.0,inzercia Michalovské noviny,23111.0,SaS,PS
-57,2023-04-17,,-0.2,Poplatok za platbu kartou,,SaS,PS
-58,2023-04-17,,-900.0,"B1508476049-44544 17** **** 7969;FACEBK *NVT3JR3RM2 ,fb.me/ads ,IE ;16.04.2023 22:56:23 ;CashBack:0 EUR",,SaS,PS
-59,2023-04-14,,-900.0,"B1505908685-44544 17** **** 7969;FACEBK *4JUAZNFQM2 ,fb.me/ads ,IE ;13.04.2023 20:02:13 ;CashBack:0 EUR",,SaS,PS
-60,2023-04-14,,-0.2,Poplatok za platbu kartou,,SaS,PS
-61,2023-04-13,,-53.57,"B1505715925-44544 17** **** 4964;JAJO, BA, TUPOLEVOVA ,BRATISLAVA ,SK ;12.04.2023 15:10:20 ;CashBack:0 EUR",,SaS,PS
-62,2023-04-13,Mgr. Andrej Kovac,-1500.0,reklamné a marketingové služby,20230002.0,SaS,PS
-63,2023-04-13,Marcel Ihnačák,-3500.0,"služby v gastro, kampaň 2023",202304002.0,SaS,PS
-64,2023-04-13,,-0.2,Poplatok za platbu kartou,,SaS,PS
-65,2023-04-12,Petit Press a.s.,-720.0,"inzercia MY Turiec, Uherčík",2335103591.0,SaS,PS
-66,2023-04-12,X print s.r.o.,-360.0,banner kongreska,230332.0,SaS,PS
-67,2023-04-09,,-0.2,Poplatok za platbu kartou,,SaS,PS
-68,2023-04-09,,-900.0,"B1503267544-44544 17** **** 7969;FACEBK *BYXU7QBQM2 ,fb.me/ads ,IE ;08.04.2023 16:14:18 ;CashBack:0 EUR",,SaS,PS
-69,2023-04-06,NUBIUM s.r.o.,-29700.0,"bigboardy 15 ks, 4/2023",23042288.0,SaS,PS
-70,2023-04-06,NUBIUM s.r.o.,-30888.0,"bilboardy 260ks, 4/2023",23042286.0,SaS,PS
-71,2023-04-04,Karol Cagáň,-1500.0,"poradenské služby, marketing 3/2023",20230002.0,SaS,PS
-72,2023-04-04,Bittner print s.r.o.,-12188.4,"tlač bilboardov, bigboardov, citylightov, outdoor kampaň 4/2023",1020231258.0,SaS,PS
-73,2023-04-04,Suggestics s.r.o.,-3000.0,marketingové služby 3/2023,20230003.0,SaS,PS
-74,2023-04-01,,-202.4,"B1498057889-44544 17** **** 7969;FACEBK *486VENKQM2 ,fb.me/ads ,IE ;31.03.2023 15:06:57 ;CashBack:0 EUR",,SaS,PS
-75,2023-04-01,,-0.2,Poplatok za platbu kartou,,SaS,PS
-76,2023-03-31,,-5.0,Zverejňovanie účtu,,SaS,PS
-77,2023-03-31,,-5.0,Poplatok za vedenie účtu,,SaS,PS
-78,2023-03-31,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 17** **** 4964Poplatok za Platobnú kartu",,SaS,PS
-79,2023-03-30,,-0.2,Poplatok za platbu kartou,,SaS,PS
-80,2023-03-30,,-900.0,"B1496562624-44544 17** **** 7969;FACEBK *Y9Y8DNKQM2 ,fb.me/ads ,IE ;29.03.2023 16:58:57 ;CashBack:0 EUR",,SaS,PS
-81,2023-03-29,Mgr. Andrej Kovac,-1500.0,reklamne a marketingove sluzby,20230001.0,SaS,PS
-82,2023-03-28,"TBB, a.s.",-66000.0,záloha tlač kniha 50000ks,951239.0,SaS,PS
-83,2023-03-28,Sloboda a Solidarita (SaS),100000.0,presun prostriedkov na kampaň,,SaS,PS
-84,2023-03-23,Suggestics s.r.o.,-3000.0,marketingové služby,20230002.0,SaS,PS
-85,2023-03-23,Karol Cagáň,-1500.0,poradenské služby v marketingu,20230001.0,SaS,PS
-86,2023-03-22,ARTON s.r.o.,-16198.8,"prenájom 101 ks bilboardov a 5ks bigboardov, záloha 1-4/2023",230121.0,SaS,PS
-87,2023-03-21,,-1.65,"Spracov. transakcií v inej mene ako EUR,2232,5,Karta c. 4544 17** **** 7969Poplatok za spracovanie transakcií v inej mene ako EUR20.03.2023 11:31:21 87.5000 USDCOMMERCIAL TYPE HTTPSCOMMERCI US",,SaS,PS
-88,2023-03-21,,-0.2,Poplatok za platbu kartou,,SaS,PS
-89,2023-03-21,,-82.52,"B1490993101-44544 17** **** 7969;COMMERCIAL TYPE ,HTTPSCOMMERCI ,US ;20.03.2023 11:31:21;87.5;USD;CashBack:0 EUR",,SaS,PS
-90,2023-03-21,,-0.2,Poplatok za platbu kartou,,SaS,PS
-91,2023-03-21,,-480.0,"B1490401817-44544 17** **** 7969;PRODUCTION TYPE ,PARIS ,FR ;20.03.2023 11:26:07 ;CashBack:0 EUR",,SaS,PS
-92,2023-03-15,euroAWK,-3120.0,"citylighty NR záloha, kandidáti",2370011.0,SaS,PS
-93,2023-03-14,Guldan-Studio s.r.o.,-9864.0,outdoor kampaň 09/2023 Halgašová,23003.0,SaS,PS
-94,2023-03-10,Sloboda a Solidarita (SaS),100000.0,presun finančných prostriedkov,,SaS,PS
-95,2023-02-28,,-5.0,Zverejňovanie účtu,,SaS,PS
-96,2023-02-28,,-2.14,Poplatok za vedenie účtu,,SaS,PS
-97,2023-02-28,,-0.51,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 17** **** 4964Poplatok za Platobnú kartu",,SaS,PS
-98,2023-02-20,Sloboda a Solidarita (SaS),100.0,presun prostriedkov,,SaS,PS
-99,2023-03-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
-100,2023-03-31,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
-101,2023-03-10,OĽANO-NOVA-KÚ-ZMENA ZDOLA,20000.0,Prevod,,OĽaNO,PS
-102,2023-02-28,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
-103,2023-02-28,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
-104,2023-01-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
-105,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
-106,2023-04-21,Divadlo Štúdio tanca,-478.56,Platba/prenajom saly Banska Bystrica,3323.0,PS,PS
-107,2023-04-21,,-60.0,POS nákup,,PS,PS
-108,2023-04-20,,-750.0,EUR NÁKUP POS,,PS,PS
-109,2023-04-20,,-117.69,POS nákup zahr.,,PS,PS
-110,2023-04-20,,-80.4,POS nákup zahr.,,PS,PS
-111,2023-04-19,ATRIOS S.R.O.,-1260.0,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201.0,PS,PS
-112,2023-04-18,Pavol Krajci,-250.0,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701.0,PS,PS
-113,2023-04-18,,-750.0,EUR NÁKUP POS,,PS,PS
-114,2023-04-17,,-750.0,EUR NÁKUP POS,,PS,PS
-115,2023-04-14,,-750.0,EUR NÁKUP POS,,PS,PS
-116,2023-04-13,ECOKrabickys.r.o.,-86.04,Platba/Eco krabicky eko jednorazove pohare,2202301466.0,PS,PS
-117,2023-04-13,"GALAXI, SPOL. S R.O.",-825.12,Platba/Galaxi vizitky,1230259.0,PS,PS
-118,2023-04-13,,-750.0,EUR NÁKUP POS,,PS,PS
+47,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+48,2023-03-13,SMER - sociálna demokracia,10.0,Dotacia na volby NR SR 2023 z bu SMER SD,,Smer,PS
+49,2023-04-24,ARTON s.r.o.,-16198.8,"bilboardová kampaň máj 2023,101 ks, bigboard 5ks,",230207.0,SaS,PS
+50,2023-04-24,Sloboda a Solidarita (SaS),50000.0,presun financií,,SaS,PS
+51,2023-04-24,ARTON s.r.o.,-2220.0,"inštalácia banerov 5 ksosvetlenie, máj 2023",230122.0,SaS,PS
+52,2023-04-23,,-0.2,Poplatok za platbu kartou,,SaS,PS
+53,2023-04-23,,-900.0,"B1511839071-44544 17** **** 7969;FACEBK *HKSWMPTQM2 ,fb.me/ads ,IE ;21.04.2023 15:51:34 ;CashBack:0 EUR",,SaS,PS
+54,2023-04-20,,-0.2,Poplatok za platbu kartou,,SaS,PS
+55,2023-04-20,,-900.0,"B1510271809-44544 17** **** 7969;FACEBK *RQ8GHQBQM2 ,fb.me/ads ,IE ;19.04.2023 11:43:33 ;CashBack:0 EUR",,SaS,PS
+56,2023-04-19,X print s.r.o.,-201.6,roll up 150 x 200,230361.0,SaS,PS
+57,2023-04-18,Reklama Boka,-150.0,inzercia Michalovské noviny,23111.0,SaS,PS
+58,2023-04-17,,-0.2,Poplatok za platbu kartou,,SaS,PS
+59,2023-04-17,,-900.0,"B1508476049-44544 17** **** 7969;FACEBK *NVT3JR3RM2 ,fb.me/ads ,IE ;16.04.2023 22:56:23 ;CashBack:0 EUR",,SaS,PS
+60,2023-04-14,,-900.0,"B1505908685-44544 17** **** 7969;FACEBK *4JUAZNFQM2 ,fb.me/ads ,IE ;13.04.2023 20:02:13 ;CashBack:0 EUR",,SaS,PS
+61,2023-04-14,,-0.2,Poplatok za platbu kartou,,SaS,PS
+62,2023-04-13,,-53.57,"B1505715925-44544 17** **** 4964;JAJO, BA, TUPOLEVOVA ,BRATISLAVA ,SK ;12.04.2023 15:10:20 ;CashBack:0 EUR",,SaS,PS
+63,2023-04-13,Mgr. Andrej Kovac,-1500.0,reklamné a marketingové služby,20230002.0,SaS,PS
+64,2023-04-13,Marcel Ihnačák,-3500.0,"služby v gastro, kampaň 2023",202304002.0,SaS,PS
+65,2023-04-13,,-0.2,Poplatok za platbu kartou,,SaS,PS
+66,2023-04-12,Petit Press a.s.,-720.0,"inzercia MY Turiec, Uherčík",2335103591.0,SaS,PS
+67,2023-04-12,X print s.r.o.,-360.0,banner kongreska,230332.0,SaS,PS
+68,2023-04-09,,-0.2,Poplatok za platbu kartou,,SaS,PS
+69,2023-04-09,,-900.0,"B1503267544-44544 17** **** 7969;FACEBK *BYXU7QBQM2 ,fb.me/ads ,IE ;08.04.2023 16:14:18 ;CashBack:0 EUR",,SaS,PS
+70,2023-04-06,NUBIUM s.r.o.,-29700.0,"bigboardy 15 ks, 4/2023",23042288.0,SaS,PS
+71,2023-04-06,NUBIUM s.r.o.,-30888.0,"bilboardy 260ks, 4/2023",23042286.0,SaS,PS
+72,2023-04-04,Karol Cagáň,-1500.0,"poradenské služby, marketing 3/2023",20230002.0,SaS,PS
+73,2023-04-04,Bittner print s.r.o.,-12188.4,"tlač bilboardov, bigboardov, citylightov, outdoor kampaň 4/2023",1020231258.0,SaS,PS
+74,2023-04-04,Suggestics s.r.o.,-3000.0,marketingové služby 3/2023,20230003.0,SaS,PS
+75,2023-04-01,,-202.4,"B1498057889-44544 17** **** 7969;FACEBK *486VENKQM2 ,fb.me/ads ,IE ;31.03.2023 15:06:57 ;CashBack:0 EUR",,SaS,PS
+76,2023-04-01,,-0.2,Poplatok za platbu kartou,,SaS,PS
+77,2023-03-31,,-5.0,Zverejňovanie účtu,,SaS,PS
+78,2023-03-31,,-5.0,Poplatok za vedenie účtu,,SaS,PS
+79,2023-03-31,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 17** **** 4964Poplatok za Platobnú kartu",,SaS,PS
+80,2023-03-30,,-0.2,Poplatok za platbu kartou,,SaS,PS
+81,2023-03-30,,-900.0,"B1496562624-44544 17** **** 7969;FACEBK *Y9Y8DNKQM2 ,fb.me/ads ,IE ;29.03.2023 16:58:57 ;CashBack:0 EUR",,SaS,PS
+82,2023-03-29,Mgr. Andrej Kovac,-1500.0,reklamne a marketingove sluzby,20230001.0,SaS,PS
+83,2023-03-28,"TBB, a.s.",-66000.0,záloha tlač kniha 50000ks,951239.0,SaS,PS
+84,2023-03-28,Sloboda a Solidarita (SaS),100000.0,presun prostriedkov na kampaň,,SaS,PS
+85,2023-03-23,Suggestics s.r.o.,-3000.0,marketingové služby,20230002.0,SaS,PS
+86,2023-03-23,Karol Cagáň,-1500.0,poradenské služby v marketingu,20230001.0,SaS,PS
+87,2023-03-22,ARTON s.r.o.,-16198.8,"prenájom 101 ks bilboardov a 5ks bigboardov, záloha 1-4/2023",230121.0,SaS,PS
+88,2023-03-21,,-1.65,"Spracov. transakcií v inej mene ako EUR,2232,5,Karta c. 4544 17** **** 7969Poplatok za spracovanie transakcií v inej mene ako EUR20.03.2023 11:31:21 87.5000 USDCOMMERCIAL TYPE HTTPSCOMMERCI US",,SaS,PS
+89,2023-03-21,,-0.2,Poplatok za platbu kartou,,SaS,PS
+90,2023-03-21,,-82.52,"B1490993101-44544 17** **** 7969;COMMERCIAL TYPE ,HTTPSCOMMERCI ,US ;20.03.2023 11:31:21;87.5;USD;CashBack:0 EUR",,SaS,PS
+91,2023-03-21,,-0.2,Poplatok za platbu kartou,,SaS,PS
+92,2023-03-21,,-480.0,"B1490401817-44544 17** **** 7969;PRODUCTION TYPE ,PARIS ,FR ;20.03.2023 11:26:07 ;CashBack:0 EUR",,SaS,PS
+93,2023-03-15,euroAWK,-3120.0,"citylighty NR záloha, kandidáti",2370011.0,SaS,PS
+94,2023-03-14,Guldan-Studio s.r.o.,-9864.0,outdoor kampaň 09/2023 Halgašová,23003.0,SaS,PS
+95,2023-03-10,Sloboda a Solidarita (SaS),100000.0,presun finančných prostriedkov,,SaS,PS
+96,2023-02-28,,-5.0,Zverejňovanie účtu,,SaS,PS
+97,2023-02-28,,-2.14,Poplatok za vedenie účtu,,SaS,PS
+98,2023-02-28,,-0.51,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 17** **** 4964Poplatok za Platobnú kartu",,SaS,PS
+99,2023-02-20,Sloboda a Solidarita (SaS),100.0,presun prostriedkov,,SaS,PS
+100,2023-03-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
+101,2023-03-31,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
+102,2023-03-10,OĽANO-NOVA-KÚ-ZMENA ZDOLA,20000.0,Prevod,,OĽaNO,PS
+103,2023-02-28,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
+104,2023-02-28,,-5.0,Poplatok za vedenie účtu,,OĽaNO,PS
+105,2023-01-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
+106,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
+107,2023-04-21,Divadlo Štúdio tanca,-478.56,Platba/prenajom saly Banska Bystrica,3323.0,PS,PS
+108,2023-04-21,,-60.0,POS nákup,,PS,PS
+109,2023-04-20,,-750.0,EUR NÁKUP POS,,PS,PS
+110,2023-04-20,,-117.69,POS nákup zahr.,,PS,PS
+111,2023-04-20,,-80.4,POS nákup zahr.,,PS,PS
+112,2023-04-19,ATRIOS S.R.O.,-1260.0,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201.0,PS,PS
+113,2023-04-18,Pavol Krajci,-250.0,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701.0,PS,PS
+114,2023-04-18,,-750.0,EUR NÁKUP POS,,PS,PS
+115,2023-04-17,,-750.0,EUR NÁKUP POS,,PS,PS
+116,2023-04-14,,-750.0,EUR NÁKUP POS,,PS,PS
+117,2023-04-13,ECOKrabickys.r.o.,-86.04,Platba/Eco krabicky eko jednorazove pohare,2202301466.0,PS,PS
+118,2023-04-13,"GALAXI, SPOL. S R.O.",-825.12,Platba/Galaxi vizitky,1230259.0,PS,PS
 119,2023-04-13,,-750.0,EUR NÁKUP POS,,PS,PS
-120,2023-04-12,More Design s. r. o.,-10759.2,"Platba/More Design, s.r.o. graficke prace",202318.0,PS,PS
-121,2023-04-12,,-750.0,EUR NÁKUP POS,,PS,PS
-122,2023-04-12,SLAVOMIR SIMCAK,150.0,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS,PS
-123,2023-04-12,SLAVOMIR SIMCAK,-150.0,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS,PS
-124,2023-04-12,Príbiš Milena,-100.0,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS,PS
-125,2023-04-12,"BIGMEDIA, SPOL. S R.O.",-900.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
-126,2023-04-11,Príbiš Milena,100.0,Platba/Milena Pribis,,PS,PS
-127,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
-128,2023-04-11,,-1.17,EUR NÁKUP POS,,PS,PS
-129,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
+120,2023-04-13,,-750.0,EUR NÁKUP POS,,PS,PS
+121,2023-04-12,More Design s. r. o.,-10759.2,"Platba/More Design, s.r.o. graficke prace",202318.0,PS,PS
+122,2023-04-12,,-750.0,EUR NÁKUP POS,,PS,PS
+123,2023-04-12,SLAVOMIR SIMCAK,150.0,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS,PS
+124,2023-04-12,SLAVOMIR SIMCAK,-150.0,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS,PS
+125,2023-04-12,Príbiš Milena,-100.0,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS,PS
+126,2023-04-12,"BIGMEDIA, SPOL. S R.O.",-900.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
+127,2023-04-11,Príbiš Milena,100.0,Platba/Milena Pribis,,PS,PS
+128,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
+129,2023-04-11,,-1.17,EUR NÁKUP POS,,PS,PS
 130,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
 131,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
-132,2023-04-06,,-2000.0,VÝBER V HOTOVOSTI/Výber do pokladne,,PS,PS
-133,2023-04-05,"BIGMEDIA, SPOL. S R.O.",-30000.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
-134,2023-04-05,"LIONS & PARTNERS, a.s.",-2587.25,Platba/najom kancelaria 04 23,23174.0,PS,PS
-135,2023-04-05,,-750.0,EUR NÁKUP POS,,PS,PS
-136,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
-137,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
-138,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
-139,2023-04-17,LUBOMIR MORAVCIK,0.01,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas,PS
-140,2023-04-21,,-0.2,Poplatok za platbu kartou,,SNS,PS
-141,2023-04-21,,-59.44,"B1511236929-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;20.04.2023 12:43:41 ;CashBack:0 EUR",,SNS,PS
-142,2023-04-18,"GRYF reklamné štúdio,s.r.o.",-576.0,billboardy d,23029.0,SNS,PS
-143,2023-04-18,"BigMedia, spol. s.r.o.",-525.6,billboardy d,122390047.0,SNS,PS
-144,2023-04-18,SLOV NARODNA STRANA,4000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
-145,2023-04-06,SLOV NARODNA STRANA,100.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
-146,2023-03-31,,-0.16,Poplatok za vedenie účtu,,SNS,PS
-147,2023-04-13,GRYF reklamné štúdio s.r.o.,-2400.0,prenájom a real. reklamnej plochy,23017.0,LSNS,PS
-148,2023-04-13,GRYF reklamné štúdio s.r.o.,-30937.2,prenájom a real. reklam. plôch,23016.0,LSNS,PS
-149,2023-04-13,KOTLEBOVCI - LUDOVA,40000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,,LSNS,PS
+132,2023-04-11,,-750.0,EUR NÁKUP POS,,PS,PS
+133,2023-04-06,,-2000.0,VÝBER V HOTOVOSTI/Výber do pokladne,,PS,PS
+134,2023-04-05,"BIGMEDIA, SPOL. S R.O.",-30000.0,"Platba/BigMedia billboard,busboard,citylight",1223202582.0,PS,PS
+135,2023-04-05,"LIONS & PARTNERS, a.s.",-2587.25,Platba/najom kancelaria 04 23,23174.0,PS,PS
+136,2023-04-05,,-750.0,EUR NÁKUP POS,,PS,PS
+137,2023-04-04,"DUBECI, MSC. MARTIN",-500.0,Platba/Dubeci 03 23,230009.0,PS,PS
+138,2023-03-31,,-0.0,Poplatok za balík,,PS,PS
+139,2023-03-31,Progresívne Slov.,100000.0,Platba/prevod medzi uctami,,PS,PS
+140,2023-04-17,LUBOMIR MORAVCIK,0.01,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas,PS
+141,2023-04-21,,-0.2,Poplatok za platbu kartou,,SNS,PS
+142,2023-04-21,,-59.44,"B1511236929-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;20.04.2023 12:43:41 ;CashBack:0 EUR",,SNS,PS
+143,2023-04-18,"GRYF reklamné štúdio,s.r.o.",-576.0,billboardy d,23029.0,SNS,PS
+144,2023-04-18,"BigMedia, spol. s.r.o.",-525.6,billboardy d,122390047.0,SNS,PS
+145,2023-04-18,SLOV NARODNA STRANA,4000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
+146,2023-04-06,SLOV NARODNA STRANA,100.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
+147,2023-03-31,,-0.16,Poplatok za vedenie účtu,,SNS,PS
+148,2023-04-13,GRYF reklamné štúdio s.r.o.,-2400.0,prenájom a real. reklamnej plochy,23017.0,LSNS,PS
+149,2023-04-13,GRYF reklamné štúdio s.r.o.,-30937.2,prenájom a real. reklam. plôch,23016.0,LSNS,PS
+150,2023-04-13,KOTLEBOVCI - LUDOVA,40000.0,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,,LSNS,PS
