@@ -1,12 +1,15 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,,2023-04-30,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-1,1,,2023-04-30,-26.32,EUR,"B1517594249-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;28.04.2023 12:04:42 ;CashBack:0 EUR",Platba kartou,,
-2,2,,2023-04-30,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-3,3,,2023-04-30,-46.39,EUR,"B1517298248-44544 17** **** 9943;KINEKUS, ZA, KAMENNA ,ZILINA ,SK ;28.04.2023 11:53:03 ;CashBack:0 EUR",Platba kartou,,
-4,4,,2023-04-21,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
-5,5,,2023-04-21,-59.44,EUR,"B1511236929-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;20.04.2023 12:43:41 ;CashBack:0 EUR",Platba kartou,,
-6,6,"GRYF reklamné štúdio,s.r.o.",2023-04-18,-576.0,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),23029.0,5762023.0
-7,7,"BigMedia, spol. s.r.o.",2023-04-18,-525.6,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),122390047.0,525602023.0
-8,8,SLOV NARODNA STRANA,2023-04-18,4000.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,2002023.0,
-9,9,SLOV NARODNA STRANA,2023-04-06,100.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,1002023.0,
-10,10,,2023-03-31,-0.16,EUR,Poplatok za vedenie účtu,Poplatok,,
+0,0,,2023-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,1,,2023-04-30,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,2,,2023-04-30,-3.5,EUR,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",Kartový poplatok,,
+3,3,,2023-04-30,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+4,4,,2023-04-30,-26.32,EUR,"B1517594249-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;28.04.2023 12:04:42 ;CashBack:0 EUR",Platba kartou,,
+5,5,,2023-04-30,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+6,6,,2023-04-30,-46.39,EUR,"B1517298248-44544 17** **** 9943;KINEKUS, ZA, KAMENNA ,ZILINA ,SK ;28.04.2023 11:53:03 ;CashBack:0 EUR",Platba kartou,,
+7,7,,2023-04-21,-0.2,EUR,Poplatok za platbu kartou,Poplatok za kartovú transakciu,,
+8,8,,2023-04-21,-59.44,EUR,"B1511236929-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;20.04.2023 12:43:41 ;CashBack:0 EUR",Platba kartou,,
+9,9,"GRYF reklamné štúdio,s.r.o.",2023-04-18,-576.0,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),23029.0,5762023.0
+10,10,"BigMedia, spol. s.r.o.",2023-04-18,-525.6,EUR,billboardy d,Platobný príkaz na úhradu / FIT 2.0 (EB),122390047.0,525602023.0
+11,11,SLOV NARODNA STRANA,2023-04-18,4000.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,2002023.0,
+12,12,SLOV NARODNA STRANA,2023-04-06,100.0,EUR,prevod na volby NR SR 2023 z BU SNS,Bezhotovostný vklad,1002023.0,
+13,13,,2023-03-31,-0.16,EUR,Poplatok za vedenie účtu,Poplatok,,

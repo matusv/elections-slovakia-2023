@@ -1,4 +1,6 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,GRYF reklamné štúdio s.r.o.,2023-04-13,-2400.0,EUR,prenájom a real. reklamnej plochy,Okamžitá platba (EB),23017.0,
-1,1,GRYF reklamné štúdio s.r.o.,2023-04-13,-30937.2,EUR,prenájom a real. reklam. plôch,Okamžitá platba (EB),23016.0,
-2,2,KOTLEBOVCI - LUDOVA,2023-04-13,40000.0,EUR,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,Bezhotovostný vklad,,
+0,0,,2023-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+1,1,,2023-04-30,-4.5,EUR,Poplatok za vedenie účtu,Poplatok,,
+2,2,GRYF reklamné štúdio s.r.o.,2023-04-13,-2400.0,EUR,prenájom a real. reklamnej plochy,Okamžitá platba (EB),23017.0,
+3,3,GRYF reklamné štúdio s.r.o.,2023-04-13,-30937.2,EUR,prenájom a real. reklam. plôch,Okamžitá platba (EB),23016.0,
+4,4,KOTLEBOVCI - LUDOVA,2023-04-13,40000.0,EUR,prevod z bezneho uctu LS Nase Slovensko na transparentny ucet pre volby do NR SR 2023,Bezhotovostný vklad,,
