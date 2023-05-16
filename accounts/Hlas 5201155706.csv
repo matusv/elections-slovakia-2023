@@ -1,6 +1,7 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,PAULINA SUTA,2023-05-09,0.01,EUR,... MAFIA ZLODEJSKA-,Bezhotovostný vklad,,
-1,1,Kubík Tomáš,2023-05-08,0.05,EUR,naskrabkaj si ty zmrd,Bezhotovostný vklad,,
-2,2,,2023-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-3,3,,2023-04-30,-4.17,EUR,Poplatok za vedenie účtu,Poplatok,,
-4,4,LUBOMIR MORAVCIK,2023-04-17,0.01,EUR,Aby ste si naskrabkali a mohli dalej kradnut,Bezhotovostný vklad,,
+0,0,HLAS - sociálna demokracia,2023-05-16,60000.0,EUR,prevod na transparentny ucet volby,Bezhotovostný vklad,9.0,
+1,1,PAULINA SUTA,2023-05-09,0.01,EUR,... MAFIA ZLODEJSKA-,Bezhotovostný vklad,,
+2,2,Kubík Tomáš,2023-05-08,0.05,EUR,naskrabkaj si ty zmrd,Bezhotovostný vklad,,
+3,3,,2023-04-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+4,4,,2023-04-30,-4.17,EUR,Poplatok za vedenie účtu,Poplatok,,
+5,5,LUBOMIR MORAVCIK,2023-04-17,0.01,EUR,Aby ste si naskrabkali a mohli dalej kradnut,Bezhotovostný vklad,,
