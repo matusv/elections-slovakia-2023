@@ -1,6 +1,6 @@
 index,index,date,amount,account_name,message,vs,name
-0,59,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
-1,58,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
+0,60,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
+1,59,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
 2,110,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
 3,115,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
 4,111,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
@@ -11,5 +11,5 @@ index,index,date,amount,account_name,message,vs,name
 9,9,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
 10,1,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
 11,6,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-12,11,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-13,14,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+12,12,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+13,15,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
