@@ -1,17 +1,19 @@
 index,index,date,amount,account_name,message,vs,name
 0,77,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
 1,76,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
-2,126,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
-3,131,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
-4,127,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
-5,129,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
-6,0,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
-7,25,2023-05-17,30.0,Patrik Petráš,PLATBA,259288.0,PS
-8,3,2023-05-17,-0.01,PAULINA SUTA,,,Hlas
-9,5,2023-05-09,0.01,PAULINA SUTA,... MAFIA ZLODEJSKA-,,Hlas
-10,2,2023-05-17,-0.01,LUBOMIR MORAVCIK,,,Hlas
-11,9,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
-12,1,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
-13,6,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-14,16,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-15,19,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+2,128,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
+3,133,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
+4,129,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
+5,131,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
+6,2,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
+7,27,2023-05-17,30.0,Patrik Petráš,PLATBA,259288.0,PS
+8,0,2023-05-25,-50.0,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",,PS
+9,18,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,71028.0,PS
+10,3,2023-05-17,-0.01,PAULINA SUTA,,,Hlas
+11,5,2023-05-09,0.01,PAULINA SUTA,... MAFIA ZLODEJSKA-,,Hlas
+12,2,2023-05-17,-0.01,LUBOMIR MORAVCIK,,,Hlas
+13,9,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
+14,1,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
+15,6,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
+16,16,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+17,19,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
