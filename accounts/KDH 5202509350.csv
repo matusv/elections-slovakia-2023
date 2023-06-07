@@ -1,0 +1,6 @@
+index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
+0,0,Kresťanskodemokratické hnutie,2023-06-05,10000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,5062023.0,
+1,1,,2023-05-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+2,2,,2023-05-31,-1.61,EUR,Poplatok za vedenie účtu,Poplatok,,
+3,3,"Daško Štefan, Ing.",2023-05-31,200.0,EUR,Stefan Dasko Ilava byvaly primator,Bezhotovostný vklad - okamžitá platba,,
+4,4,Kresťanskodemokratické hnutie,2023-05-30,1000.0,EUR,Prevod fin. prostriedkov z bežného účtu KDH,Bezhotovostný vklad,30052023.0,
