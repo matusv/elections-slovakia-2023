@@ -1,7 +1,8 @@
 index,date,amount,account_name,message,vs
-0,2023-06-05,3500.0,Matej Garaj,,
-1,2023-06-02,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-2,2023-06-01,-14.0,,Ročný popl. Vydanie/obnova karty,8125
-3,2023-05-31,-0.18,,Poplatky za platby spolu,9
-4,2023-05-31,-7.0,,Vedenie účtu,9
-5,2023-05-29,1000.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
+0,2023-06-07,-3500.0,Martin Garaj,Vratenie platby,
+1,2023-06-05,3500.0,Matej Garaj,,
+2,2023-06-02,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+3,2023-06-01,-14.0,,Ročný popl. Vydanie/obnova karty,8125
+4,2023-05-31,-0.18,,Poplatky za platby spolu,9
+5,2023-05-31,-7.0,,Vedenie účtu,9
+6,2023-05-29,1000.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
