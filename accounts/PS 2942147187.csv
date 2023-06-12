@@ -1,250 +1,258 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-06-08,-5000.0,EUR,,"Platba/Kiss, ekonomicke poradenstvo",523
-1,2023-06-08,-2900.0,EUR,Prostredníková Zuzan,"Platba/prostrednikova, administrativne sluzby - produkcia",2023001
-2,2023-06-08,-1202.4,EUR,"Pandan, s. r. o.","Platba/pandan: bloky, snurky, letaky a karticky",202305049
-3,2023-06-08,50.0,EUR,"Vlasková Oľga, Ing.",Platba/PS dar Olga Vlaskova,146315
-4,2023-06-08,-500.0,EUR,,EUR NÁKUP POS,
-5,2023-06-08,-466.76,EUR,,INT NÁKUP POS EUR,
-6,2023-06-08,-500.0,EUR,,EUR NÁKUP POS,
-7,2023-06-08,-60.74,EUR,,POS nákup,
-8,2023-06-07,-265.0,EUR,Kristy Wolf sro,Platba/maskerske prace videospot,2023014
-9,2023-06-07,-11.48,EUR,SUNNYSOFT S.R.O.,"Platba/sunnysoft, drziak na mobil na tocenie",4260730187
-10,2023-06-07,-60.0,EUR,HROMEC ROBERT MGR.,Platba/komparz videospot,112023
-11,2023-06-07,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8
-12,2023-06-07,-500.0,EUR,,EUR NÁKUP POS,
-13,2023-06-07,-500.0,EUR,,EUR NÁKUP POS,
-14,2023-06-07,-43.8,EUR,,POS nákup,
-15,2023-06-07,-500.0,EUR,,EUR NÁKUP POS,
-16,2023-06-06,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov jun,23284
-17,2023-06-06,-500.0,EUR,VADOVICOVA MARIANN,"Platba/Vadovicova, kameramanske prace videospot social",20230007
-18,2023-06-06,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/vojtek, administrativa - komunita, maj",32023
-19,2023-06-06,-500.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby - komunikacie",230014
-20,2023-06-06,-440.0,EUR,LILACOMM S.R.O.,"Platba/lilacomm, komunikacny trening",2023
-21,2023-06-06,-500.0,EUR,PETER BARNAS,"Platba/barnas, marketingove online sluzby maj",20230009
-22,2023-06-06,-960.0,EUR,CONTENT FACTORY s. r,"Platba/content factory, prenajom techniky na videospot",2306004
-23,2023-06-06,-60.0,EUR,KOLEKTIVFX S.R.O.,Platba/komparz videospot,2023013
-24,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
-25,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
-26,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
-27,2023-06-06,-279.21,EUR,,EUR NÁKUP POS,
-28,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
-29,2023-06-06,-750.0,EUR,,EUR NÁKUP POS,
-30,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
-31,2023-06-06,-19.42,EUR,,POS nákup,
-32,2023-06-06,-30.4,EUR,,POS nákup,
-33,2023-06-05,3000.0,EUR,"Kelíšek Peter, Mgr.a",Platba/darovacia zmluva Peter Kelisek,
-34,2023-06-05,-840.0,EUR,MUSIC FORUM V.O.S.,Platba/reziserske prace videospot social,20230108
-35,2023-06-05,-360.0,EUR,ROADTRIP STUDIO,"Platba/roadtrip studio, color grading reklamneho spotu social",60223
-36,2023-06-05,-480.0,EUR,Samuel Škubla,"Platba/skubla, zvuk a postprodukcia video spot social",202313
-37,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
-38,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
-39,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
-40,2023-06-05,-800.0,EUR,,EUR NÁKUP POS,
-41,2023-06-05,-668.61,EUR,,POS nákup,
-42,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
-43,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
-44,2023-06-05,-8.59,EUR,,INT NÁKUP POS EUR,
-45,2023-06-05,-157.47,EUR,,INT NÁKUP POS EUR,
+0,2023-06-09,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby maj,2023003
+1,2023-06-09,-40360.0,EUR,"HITCHHIKER FILMS,S.R",Platba/Kampanove video,2023075
+2,2023-06-09,100000.0,EUR,Progresívne Slov.,Platba,
+3,2023-06-09,-20.0,EUR,,POS nákup,
+4,2023-06-09,-500.0,EUR,,EUR NÁKUP POS,
+5,2023-06-09,-55.2,EUR,,POS nákup,
+6,2023-06-09,-15.08,EUR,,POS nákup,
+7,2023-06-09,-500.0,EUR,,EUR NÁKUP POS,
+8,2023-06-08,-5000.0,EUR,,"Platba/Kiss, ekonomicke poradenstvo",523
+9,2023-06-08,-2900.0,EUR,Prostredníková Zuzan,"Platba/prostrednikova, administrativne sluzby - produkcia",2023001
+10,2023-06-08,-1202.4,EUR,"Pandan, s. r. o.","Platba/pandan: bloky, snurky, letaky a karticky",202305049
+11,2023-06-08,50.0,EUR,"Vlasková Oľga, Ing.",Platba/PS dar Olga Vlaskova,146315
+12,2023-06-08,-500.0,EUR,,EUR NÁKUP POS,
+13,2023-06-08,-466.76,EUR,,INT NÁKUP POS EUR,
+14,2023-06-08,-500.0,EUR,,EUR NÁKUP POS,
+15,2023-06-08,-60.74,EUR,,POS nákup,
+16,2023-06-07,-265.0,EUR,Kristy Wolf sro,Platba/maskerske prace videospot,2023014
+17,2023-06-07,-11.48,EUR,SUNNYSOFT S.R.O.,"Platba/sunnysoft, drziak na mobil na tocenie",4260730187
+18,2023-06-07,-60.0,EUR,HROMEC ROBERT MGR.,Platba/komparz videospot,112023
+19,2023-06-07,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8
+20,2023-06-07,-500.0,EUR,,EUR NÁKUP POS,
+21,2023-06-07,-500.0,EUR,,EUR NÁKUP POS,
+22,2023-06-07,-43.8,EUR,,POS nákup,
+23,2023-06-07,-500.0,EUR,,EUR NÁKUP POS,
+24,2023-06-06,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov jun,23284
+25,2023-06-06,-500.0,EUR,VADOVICOVA MARIANN,"Platba/Vadovicova, kameramanske prace videospot social",20230007
+26,2023-06-06,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/vojtek, administrativa - komunita, maj",32023
+27,2023-06-06,-500.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby - komunikacie",230014
+28,2023-06-06,-440.0,EUR,LILACOMM S.R.O.,"Platba/lilacomm, komunikacny trening",2023
+29,2023-06-06,-500.0,EUR,PETER BARNAS,"Platba/barnas, marketingove online sluzby maj",20230009
+30,2023-06-06,-960.0,EUR,CONTENT FACTORY s. r,"Platba/content factory, prenajom techniky na videospot",2306004
+31,2023-06-06,-60.0,EUR,KOLEKTIVFX S.R.O.,Platba/komparz videospot,2023013
+32,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
+33,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
+34,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
+35,2023-06-06,-279.21,EUR,,EUR NÁKUP POS,
+36,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
+37,2023-06-06,-750.0,EUR,,EUR NÁKUP POS,
+38,2023-06-06,-500.0,EUR,,EUR NÁKUP POS,
+39,2023-06-06,-19.42,EUR,,POS nákup,
+40,2023-06-06,-30.4,EUR,,POS nákup,
+41,2023-06-05,3000.0,EUR,"Kelíšek Peter, Mgr.a",Platba/darovacia zmluva Peter Kelisek,
+42,2023-06-05,-840.0,EUR,MUSIC FORUM V.O.S.,Platba/reziserske prace videospot social,20230108
+43,2023-06-05,-360.0,EUR,ROADTRIP STUDIO,"Platba/roadtrip studio, color grading reklamneho spotu social",60223
+44,2023-06-05,-480.0,EUR,Samuel Škubla,"Platba/skubla, zvuk a postprodukcia video spot social",202313
+45,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
 46,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
-47,2023-06-05,-313.31,EUR,,EUR NÁKUP POS,
-48,2023-06-05,-1500.0,EUR,,EUR NÁKUP POS,
-49,2023-06-05,-239.48,EUR,,EUR NÁKUP POS,
-50,2023-06-05,-61.13,EUR,,POS nákup,
-51,2023-06-02,-120.0,EUR,"Petit Press, a.s.","Platba/PetitPress, zaloha za inzerciu v Pardon Nitra",2333101102
-52,2023-06-02,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie,20230012
-53,2023-06-02,-2.0,EUR,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,
-54,2023-06-02,-1200.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby maj,20230011
-55,2023-06-02,-8757.6,EUR,More Design s. r. o.,Platba/graficke sluzby a web,202327
-56,2023-06-02,-1250.0,EUR,Dávid Javorský,"Platba/javorsky video, zvuk a fotograficke sluzby maj",2023004
-57,2023-06-02,-500.0,EUR,,EUR NÁKUP POS,
-58,2023-06-01,-53180.64,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampan outdoor august 2023,720230031
-59,2023-06-01,100000.0,EUR,Progresívne Slov.,Platba,
-60,2023-06-01,-1200.0,EUR,"th media, s.r.o.",Platba/PR sluzby maj,20230034
-61,2023-06-01,-325.0,EUR,TrollWall AI,Platba/praca socialne siete,20230301
-62,2023-06-01,-3500.0,EUR,Ridzoň Jerguš,"Platba/administrativne a marketingove sluzby, vedenie kampane",2023013
-63,2023-06-01,-100.0,EUR,Krjak Tomas,Platba/doplatenie chybajucej sumy k fakture za maj,123
-64,2023-06-01,-1510.99,EUR,Turňová Diana,Platba/marketing a administrativne sluzby maj,20423
-65,2023-06-01,-900.0,EUR,Kučerová Veronika,"Platba/vizaz na fotenie a video, 3 dni",2023050004
-66,2023-06-01,-2500.0,EUR,VELICKA JANA,Platba/administrativne sluzby maj,20230003
-67,2023-06-01,-1000.0,EUR,Natalia Heribanova,Platba/komunikacne sluzby maj,22023
-68,2023-06-01,-1950.0,EUR,Matúš Mikšík,Platba/marketingove sluzby maj,20230004
-69,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
-70,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
-71,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
-72,2023-06-01,-6.98,EUR,,POS nákup,
-73,2023-06-01,-46.72,EUR,,POS nákup,
-74,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
-75,2023-05-31,-0.0,EUR,,Poplatok za balík,
-76,2023-05-31,-1700.0,EUR,Krjak Tomas,Platba/sluzby v oblasti marketingu a administrativy maj,123
-77,2023-05-31,100.0,EUR,SAMUEL ADAMISIN,PLATBA/DAR,77260
-78,2023-05-31,2.0,EUR,"Wood Service, s.r.o.",Platba,
-79,2023-05-30,-2124.0,EUR,EDEN CARS SRO,Platba/prenajom auta jun plus depozit,323006
-80,2023-05-30,-294.0,EUR,"Pandan, s. r. o.",Platba/3ks repas mechaniky,202305071
-81,2023-05-30,-2000.0,EUR,KLUJEV NAZARIJ,Platba/strih videospot,
-82,2023-05-30,-2000.0,EUR,Kľujev Maxim,Platba/kameraman videospot,
-83,2023-05-30,-5760.0,EUR,HEDONIST S.R.O.,Platba/organizacno technicke zabezpecenie nakracania video spotu,723
-84,2023-05-30,-1800.0,EUR,,Platba/pocitacove spracovanie video spot,202301
-85,2023-05-30,-600.0,EUR,Matej Volf,Platba/snimanie zvuku a postprodukcia video spot,20230010
-86,2023-05-30,-400.0,EUR,Diana Švihlová,Platba/produkcne prace video spot,20230006
-87,2023-05-30,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov na podujatie 29.4.,230100093
-88,2023-05-30,-500.0,EUR,,EUR NÁKUP POS,
-89,2023-05-30,-750.0,EUR,,EUR NÁKUP POS,
-90,2023-05-30,-500.0,EUR,,EUR NÁKUP POS,
-91,2023-05-30,-800.0,EUR,,EUR NÁKUP POS,
-92,2023-05-29,-2046.3,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kanc.priestor- energie 04 23,23249
-93,2023-05-29,-191.9,EUR,"J+Z Bystrinaresort, s. r. o.",Platba/hotel bystrina progresivne slovensko 18-19.8.,
-94,2023-05-29,-19.9,EUR,"HAMA SLOVAKIA, SPOL.",Platba/stativ,72004
-95,2023-05-29,-1000.0,EUR,"NOLIS, s.r.o.",Platba/catering sluzby 24.05.2023,1123060
-96,2023-05-29,30.0,EUR,"Zaiček Martin, Mgr.a",Platba/PS dar Martin Zaicek,165900
-97,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
-98,2023-05-29,-133.0,EUR,,POS nákup,
-99,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
-100,2023-05-29,-1.79,EUR,,POS nákup,
-101,2023-05-29,-40.88,EUR,,POS nákup,
-102,2023-05-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335
-103,2023-05-25,-50.0,EUR,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",
-104,2023-05-25,-500.0,EUR,,EUR NÁKUP POS,
-105,2023-05-24,-30.0,EUR,Patrik Petras,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,
-106,2023-05-24,-1200.0,EUR,HANA BOYACIOVA P. -,Platba/praca stylistu simecka,1123
-107,2023-05-24,-864.0,EUR,K.KO ENTERPRISES S.,Platba/reklamne a eventove sluzby,120230052
-108,2023-05-24,-2500.0,EUR,MGR. ZUZANA MACUROVA,Platba/administrativne a organizacne prace,20230007
-109,2023-05-24,-172.8,EUR,"ARES SECURITY, s.r.o",Platba/bezpecnostno - strazne sluzby 18.5.,20230085
-110,2023-05-24,-1458.0,EUR,DANIEL FERENCIK,Platba/prenajom fotostudia a techniky,2305010
-111,2023-05-24,-300.0,EUR,Paulina Kralikova,Platba/makeup a vlasy na fotenie 18.5.,2023008
-112,2023-05-24,-2132.23,EUR,"TRNKA GASTRONOMY, SPOL. S R. O.",Platba/catering na event 18.5.,42230076
-113,2023-05-24,-200.4,EUR,Delip s. r. o.,Platba/vymena grafiky do pultiku,2023112
-114,2023-05-24,100000.0,EUR,Progresívne Slov.,Platba,
-115,2023-05-24,-2619.0,EUR,BRICHTA & PARTNERS S.R.O.,Platba/pravne sluzby a poradenstvo k programu,20230290
-116,2023-05-23,-3404.4,EUR,LASA s.r.o.,"Platba/ozvucenie, osvetlenie a led stena na konferencii 18.05.",2023016
-117,2023-05-23,-67.68,EUR,TECHNOPOL INTERNATIO,Platba/prenajom radiostanic 12ks na 18.5.,1230498
-118,2023-05-23,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov 18.5.,230100109
-119,2023-05-23,-800.0,EUR,,EUR NÁKUP POS,
-120,2023-05-23,-750.0,EUR,,EUR NÁKUP POS,
-121,2023-05-20,50.0,EUR,Tomas Sisak,Platba/PS dar Tomas Sisak,71028
-122,2023-05-19,-700.0,EUR,"Foodman, s. r. o.",Platba/catering na podujatie v binariu 29.4.,2301006
-123,2023-05-19,-400.0,EUR,APERTUM s.r.o. LEITMAN RADOVAN,Platba/prenajom atelierovych priestorov,20230004
-124,2023-05-19,-600.0,EUR,BEICA s. r. o.,Platba/styling na fotenie,2305001
-125,2023-05-19,-71640.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390075
-126,2023-05-19,50000.0,EUR,Progresívne Slov.,Platba,
-127,2023-05-18,-559.2,EUR,LASA s.r.o.,Platba/ozvucenie podujatia 29.4.,2023012
-128,2023-05-18,-800.0,EUR,,EUR NÁKUP POS,
-129,2023-05-18,-102.88,EUR,,INT NÁKUP POS EUR,
-130,2023-05-17,30.0,EUR,Patrik Petras,PLATBA,259288
-131,2023-05-17,-750.0,EUR,,EUR NÁKUP POS,
-132,2023-05-16,-360.0,EUR,BAJKO S.R.O.,Platba/voiceover promo spot,2023125
-133,2023-05-15,-6000.0,EUR,,Platba/ekonomicke a organizacne poradenstvo,423
-134,2023-05-15,-56.45,EUR,CleaningSK s. r. o.,Platba/Upratovacie sluzby,20230009
-135,2023-05-15,-60.58,EUR,,INT NÁKUP POS EUR,
-136,2023-05-15,-750.0,EUR,,EUR NÁKUP POS,
-137,2023-05-12,-356.53,EUR,,POS nákup,
-138,2023-05-12,-86.1,EUR,,POS nákup,
-139,2023-05-12,-468.49,EUR,,INT NÁKUP POS EUR,
-140,2023-05-12,-72.53,EUR,,INT NÁKUP POS EUR,
-141,2023-05-11,-500.0,EUR,,EUR NÁKUP POS,
-142,2023-05-10,-750.0,EUR,Turňová Diana,Platba/administrativne sluzby april,10423
-143,2023-05-10,-2300.0,EUR,Chrťan Samuel,Platba/marketingove sluzby,202304
-144,2023-05-10,-6820.0,EUR,Gubka & Fish Media s,Platba/video a foto produkcia,2023020
-145,2023-05-10,50000.0,EUR,Progresívne Slov.,Platba,
-146,2023-05-10,-127.61,EUR,,EUR NÁKUP POS,
-147,2023-05-10,-350.0,EUR,,EUR NÁKUP POS,
-148,2023-05-09,-20238.0,EUR,More Design s. r. o.,Platba/graficke sluzby,202322
-149,2023-05-09,-225.0,EUR,,EUR NÁKUP POS,
-150,2023-05-09,-750.0,EUR,,EUR NÁKUP POS,
-151,2023-05-09,-150.0,EUR,,EUR NÁKUP POS,
-152,2023-05-09,-100.0,EUR,,EUR NÁKUP POS,
-153,2023-05-09,-70.0,EUR,,EUR NÁKUP POS,
-154,2023-05-09,-40.0,EUR,,EUR NÁKUP POS,
-155,2023-05-09,-30.0,EUR,,EUR NÁKUP POS,
-156,2023-05-09,-20.0,EUR,,EUR NÁKUP POS,
-157,2023-05-09,-12.0,EUR,,EUR NÁKUP POS,
-158,2023-05-09,-12.0,EUR,,EUR NÁKUP POS,
-159,2023-05-09,-9.0,EUR,,EUR NÁKUP POS,
-160,2023-05-09,-6.0,EUR,,EUR NÁKUP POS,
-161,2023-05-09,-4.0,EUR,,EUR NÁKUP POS,
-162,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
-163,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
-164,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
-165,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
-166,2023-05-05,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/poradenske sluzby april,230012
-167,2023-05-05,-750.0,EUR,,EUR NÁKUP POS,
-168,2023-05-04,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby april,2023002
-169,2023-05-04,-403.52,EUR,"Beňáková Nora, Ing.",Platba/CP Benakova Oxford april,
-170,2023-05-04,-47.4,EUR,MIKACOVA TEREZA,Platba/CP Tallinn Mikacova april,
-171,2023-05-04,-3500.0,EUR,Ridzoň Jerguš,Platba/administrativne a marketingove sluzby april,2023011
-172,2023-05-04,-700.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby april,20230007
-173,2023-05-04,-1000.0,EUR,Mgr. Zora Jaurová,Platba/priprava volebneho programu april,62023
-174,2023-05-03,-77.29,EUR,UPC BROADBAND SLOVAK,Platba/UPC / PayBySquare,9368061
-175,2023-05-03,-74520.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390063
-176,2023-05-03,100000.0,EUR,Progresívne Slov.,Platba,
-177,2023-05-03,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie april,20230010
-178,2023-05-03,-1000.0,EUR,Natalia Heribanova,Platba/marketingove a komunikacne sluzby april,12023
-179,2023-05-03,-65.32,EUR,,EUR NÁKUP POS,
-180,2023-05-02,-500.0,EUR,PETER BARNAS,Platba/marketingove sluzby april,20230001
-181,2023-05-02,-1200.0,EUR,"Vojtek Marián, Mgr.",Platba/administrativne sluzby april,22023
-182,2023-05-02,-660.0,EUR,LILACOMM S.R.O.,Platba/komunikacny trening,1623
-183,2023-05-02,-1950.0,EUR,Matúš Mikšík,Platba/marketingove sluzby april,20230003
-184,2023-05-02,-1200.0,EUR,"th media, s.r.o.",Platba/reklamne a marketingove sluzby marec,20230016
-185,2023-05-02,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov maj,23228
-186,2023-05-02,-240.0,EUR,BAVARIS FACILITY SERVICES s.r.o.,Platba/upratovacie sluzby april,230102041
-187,2023-05-02,500.0,EUR,,POS návrat,
-188,2023-05-02,-37.43,EUR,,POS nákup,
-189,2023-05-02,-750.0,EUR,,EUR NÁKUP POS,
-190,2023-05-02,-112.41,EUR,,POS nákup,
-191,2023-05-02,-7.9,EUR,,POS nákup,
-192,2023-05-02,-64.3,EUR,,POS nákup,
-193,2023-05-02,-40.59,EUR,,POS nákup,
-194,2023-05-02,-69.47,EUR,,INT NÁKUP POS EUR,
-195,2023-04-29,-6.0,EUR,,Poplatky za transakcie,
-196,2023-04-29,-0.0,EUR,,Poplatok za balík,
-197,2023-04-28,-290.88,EUR,Petra Dzurovcinova,"Platba/CP Brno, Kosice, Banska Bystrica",
-198,2023-04-28,-2569.0,EUR,VELICKA JANA,Platba/administrativne sluzby april,20230002
-199,2023-04-28,-107.67,EUR,,INT NÁKUP POS EUR,
-200,2023-04-28,-589.0,EUR,,POS nákup,
-201,2023-04-28,-10.0,EUR,,Výber z bankomatu,
-202,2023-04-28,-99.99,EUR,,INT NÁKUP POS EUR,
-203,2023-04-26,-584.4,EUR,LAVACOM s.r.o.,Platba/pultik PS,2301240169
-204,2023-04-26,-60.0,EUR,Dej Dávid,Platba/CP Banska Bystrica Dej 04/23,
-205,2023-04-26,-820.0,EUR,Underdog Production,Platba/polep a oprava steny,2023015
-206,2023-04-26,-36.0,EUR,AFINITA s.r.o.,Platba/Kapa doska,23010099
-207,2023-04-26,-1402.8,EUR,"Pandan, s. r. o.",Platba/nalepky 1000ks a polep steny,202304022
-208,2023-04-25,-144.0,EUR,RJ Gastro s.r.o.,Platba/catering vyjazd kosice,2023058
-209,2023-04-25,-80.0,EUR,Hlavné mesto Slovenskej republiky Bratislava,Platba/spravny poplatok za umiestnenie interaktivnej mapy,2231331188
-210,2023-04-25,-52027.82,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampa outdoor jul 2023,720230025
-211,2023-04-25,50000.0,EUR,Progresívne Slov.,Platba,
-212,2023-04-25,-258.26,EUR,TAMARA STOHLOVA,Platba/CP Kosice Stohlova 04/23,
-213,2023-04-25,-777.05,EUR,TeleDom Hotel,Platba/vyjazd Kosice ubytovanie,20100285
-214,2023-04-25,-750.0,EUR,,EUR NÁKUP POS,
-215,2023-04-24,-74.06,EUR,,EUR NÁKUP POS,
-216,2023-04-21,-478.56,EUR,Divadlo Štúdio tanca,Platba/prenajom saly Banska Bystrica,3323
-217,2023-04-21,-60.0,EUR,,POS nákup,
-218,2023-04-20,-750.0,EUR,,EUR NÁKUP POS,
-219,2023-04-20,-117.69,EUR,,POS nákup zahr.,
-220,2023-04-20,-80.4,EUR,,POS nákup zahr.,
-221,2023-04-19,-1260.0,EUR,ATRIOS S.R.O.,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201
-222,2023-04-18,-250.0,EUR,Pavol Krajci,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701
-223,2023-04-18,-750.0,EUR,,EUR NÁKUP POS,
-224,2023-04-17,-750.0,EUR,,EUR NÁKUP POS,
-225,2023-04-14,-750.0,EUR,,EUR NÁKUP POS,
-226,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466
-227,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259
-228,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
-229,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
-230,2023-04-12,-900.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
-231,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-232,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-233,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318
-234,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
-235,2023-04-12,-750.0,EUR,,EUR NÁKUP POS,
-236,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
-237,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-238,2023-04-11,-1.17,EUR,,EUR NÁKUP POS,
-239,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-240,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-241,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
-242,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
-243,2023-04-05,-30000.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
-244,2023-04-05,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/najom kancelaria 04 23,23174
-245,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
-246,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
-247,2023-03-31,-0.0,EUR,,Poplatok za balík,
-248,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+47,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
+48,2023-06-05,-800.0,EUR,,EUR NÁKUP POS,
+49,2023-06-05,-668.61,EUR,,POS nákup,
+50,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
+51,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
+52,2023-06-05,-8.59,EUR,,INT NÁKUP POS EUR,
+53,2023-06-05,-157.47,EUR,,INT NÁKUP POS EUR,
+54,2023-06-05,-500.0,EUR,,EUR NÁKUP POS,
+55,2023-06-05,-313.31,EUR,,EUR NÁKUP POS,
+56,2023-06-05,-1500.0,EUR,,EUR NÁKUP POS,
+57,2023-06-05,-239.48,EUR,,EUR NÁKUP POS,
+58,2023-06-05,-61.13,EUR,,POS nákup,
+59,2023-06-02,-120.0,EUR,"Petit Press, a.s.","Platba/PetitPress, zaloha za inzerciu v Pardon Nitra",2333101102
+60,2023-06-02,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie,20230012
+61,2023-06-02,-2.0,EUR,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,
+62,2023-06-02,-1200.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby maj,20230011
+63,2023-06-02,-8757.6,EUR,More Design s. r. o.,Platba/graficke sluzby a web,202327
+64,2023-06-02,-1250.0,EUR,Dávid Javorský,"Platba/javorsky video, zvuk a fotograficke sluzby maj",2023004
+65,2023-06-02,-500.0,EUR,,EUR NÁKUP POS,
+66,2023-06-01,-53180.64,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampan outdoor august 2023,720230031
+67,2023-06-01,100000.0,EUR,Progresívne Slov.,Platba,
+68,2023-06-01,-1200.0,EUR,"th media, s.r.o.",Platba/PR sluzby maj,20230034
+69,2023-06-01,-325.0,EUR,TrollWall AI,Platba/praca socialne siete,20230301
+70,2023-06-01,-3500.0,EUR,Ridzoň Jerguš,"Platba/administrativne a marketingove sluzby, vedenie kampane",2023013
+71,2023-06-01,-100.0,EUR,Krjak Tomas,Platba/doplatenie chybajucej sumy k fakture za maj,123
+72,2023-06-01,-1510.99,EUR,Turňová Diana,Platba/marketing a administrativne sluzby maj,20423
+73,2023-06-01,-900.0,EUR,Kučerová Veronika,"Platba/vizaz na fotenie a video, 3 dni",2023050004
+74,2023-06-01,-2500.0,EUR,VELICKA JANA,Platba/administrativne sluzby maj,20230003
+75,2023-06-01,-1000.0,EUR,Natalia Heribanova,Platba/komunikacne sluzby maj,22023
+76,2023-06-01,-1950.0,EUR,Matúš Mikšík,Platba/marketingove sluzby maj,20230004
+77,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
+78,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
+79,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
+80,2023-06-01,-6.98,EUR,,POS nákup,
+81,2023-06-01,-46.72,EUR,,POS nákup,
+82,2023-06-01,-500.0,EUR,,EUR NÁKUP POS,
+83,2023-05-31,-0.0,EUR,,Poplatok za balík,
+84,2023-05-31,-1700.0,EUR,Krjak Tomas,Platba/sluzby v oblasti marketingu a administrativy maj,123
+85,2023-05-31,100.0,EUR,SAMUEL ADAMISIN,PLATBA/DAR,77260
+86,2023-05-31,2.0,EUR,"Wood Service, s.r.o.",Platba,
+87,2023-05-30,-2124.0,EUR,EDENcars,Platba/prenajom auta jun plus depozit,323006
+88,2023-05-30,-294.0,EUR,"Pandan, s. r. o.",Platba/3ks repas mechaniky,202305071
+89,2023-05-30,-2000.0,EUR,KLUJEV NAZARIJ,Platba/strih videospot,
+90,2023-05-30,-2000.0,EUR,Kľujev Maxim,Platba/kameraman videospot,
+91,2023-05-30,-5760.0,EUR,HEDONIST S.R.O.,Platba/organizacno technicke zabezpecenie nakracania video spotu,723
+92,2023-05-30,-1800.0,EUR,,Platba/pocitacove spracovanie video spot,202301
+93,2023-05-30,-600.0,EUR,Matej Volf,Platba/snimanie zvuku a postprodukcia video spot,20230010
+94,2023-05-30,-400.0,EUR,Diana Švihlová,Platba/produkcne prace video spot,20230006
+95,2023-05-30,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov na podujatie 29.4.,230100093
+96,2023-05-30,-500.0,EUR,,EUR NÁKUP POS,
+97,2023-05-30,-750.0,EUR,,EUR NÁKUP POS,
+98,2023-05-30,-500.0,EUR,,EUR NÁKUP POS,
+99,2023-05-30,-800.0,EUR,,EUR NÁKUP POS,
+100,2023-05-29,-2046.3,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kanc.priestor- energie 04 23,23249
+101,2023-05-29,-191.9,EUR,"J+Z Bystrinaresort, s. r. o.",Platba/hotel bystrina progresivne slovensko 18-19.8.,
+102,2023-05-29,-19.9,EUR,"HAMA SLOVAKIA, SPOL.",Platba/stativ,72004
+103,2023-05-29,-1000.0,EUR,"NOLIS, s.r.o.",Platba/catering sluzby 24.05.2023,1123060
+104,2023-05-29,30.0,EUR,"Zaiček Martin, Mgr.a",Platba/PS dar Martin Zaicek,165900
+105,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
+106,2023-05-29,-133.0,EUR,,POS nákup,
+107,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
+108,2023-05-29,-1.79,EUR,,POS nákup,
+109,2023-05-29,-40.88,EUR,,POS nákup,
+110,2023-05-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335
+111,2023-05-25,-50.0,EUR,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",
+112,2023-05-25,-500.0,EUR,,EUR NÁKUP POS,
+113,2023-05-24,-30.0,EUR,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,
+114,2023-05-24,-1200.0,EUR,HANA BOYACIOVA P. -,Platba/praca stylistu simecka,1123
+115,2023-05-24,-864.0,EUR,K.KO ENTERPRISES S.,Platba/reklamne a eventove sluzby,120230052
+116,2023-05-24,-2500.0,EUR,MGR. ZUZANA MACUROVA,Platba/administrativne a organizacne prace,20230007
+117,2023-05-24,-172.8,EUR,"ARES SECURITY, s.r.o",Platba/bezpecnostno - strazne sluzby 18.5.,20230085
+118,2023-05-24,-1458.0,EUR,DANIEL FERENCIK,Platba/prenajom fotostudia a techniky,2305010
+119,2023-05-24,-300.0,EUR,Paulina Kralikova,Platba/makeup a vlasy na fotenie 18.5.,2023008
+120,2023-05-24,-2132.23,EUR,"TRNKA GASTRONOMY, SPOL. S R. O.",Platba/catering na event 18.5.,42230076
+121,2023-05-24,-200.4,EUR,Delip s. r. o.,Platba/vymena grafiky do pultiku,2023112
+122,2023-05-24,100000.0,EUR,Progresívne Slov.,Platba,
+123,2023-05-24,-2619.0,EUR,BRICHTA & PARTNERS S.R.O.,Platba/pravne sluzby a poradenstvo k programu,20230290
+124,2023-05-23,-3404.4,EUR,LASA s.r.o.,"Platba/ozvucenie, osvetlenie a led stena na konferencii 18.05.",2023016
+125,2023-05-23,-67.68,EUR,TECHNOPOL INTERNATIO,Platba/prenajom radiostanic 12ks na 18.5.,1230498
+126,2023-05-23,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov 18.5.,230100109
+127,2023-05-23,-800.0,EUR,,EUR NÁKUP POS,
+128,2023-05-23,-750.0,EUR,,EUR NÁKUP POS,
+129,2023-05-20,50.0,EUR,Tomas Sisak,Platba/PS dar Tomas Sisak,71028
+130,2023-05-19,-700.0,EUR,"Foodman, s. r. o.",Platba/catering na podujatie v binariu 29.4.,2301006
+131,2023-05-19,-400.0,EUR,APERTUM s.r.o. LEITMAN RADOVAN,Platba/prenajom atelierovych priestorov,20230004
+132,2023-05-19,-600.0,EUR,BEICA s. r. o.,Platba/styling na fotenie,2305001
+133,2023-05-19,-71640.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390075
+134,2023-05-19,50000.0,EUR,Progresívne Slov.,Platba,
+135,2023-05-18,-559.2,EUR,LASA s.r.o.,Platba/ozvucenie podujatia 29.4.,2023012
+136,2023-05-18,-800.0,EUR,,EUR NÁKUP POS,
+137,2023-05-18,-102.88,EUR,,INT NÁKUP POS EUR,
+138,2023-05-17,30.0,EUR,Patrik Petráš,PLATBA,259288
+139,2023-05-17,-750.0,EUR,,EUR NÁKUP POS,
+140,2023-05-16,-360.0,EUR,BAJKO S.R.O.,Platba/voiceover promo spot,2023125
+141,2023-05-15,-6000.0,EUR,,Platba/ekonomicke a organizacne poradenstvo,423
+142,2023-05-15,-56.45,EUR,CleaningSK s. r. o.,Platba/Upratovacie sluzby,20230009
+143,2023-05-15,-60.58,EUR,,INT NÁKUP POS EUR,
+144,2023-05-15,-750.0,EUR,,EUR NÁKUP POS,
+145,2023-05-12,-356.53,EUR,,POS nákup,
+146,2023-05-12,-86.1,EUR,,POS nákup,
+147,2023-05-12,-468.49,EUR,,INT NÁKUP POS EUR,
+148,2023-05-12,-72.53,EUR,,INT NÁKUP POS EUR,
+149,2023-05-11,-500.0,EUR,,EUR NÁKUP POS,
+150,2023-05-10,-750.0,EUR,Turňová Diana,Platba/administrativne sluzby april,10423
+151,2023-05-10,-2300.0,EUR,Chrťan Samuel,Platba/marketingove sluzby,202304
+152,2023-05-10,-6820.0,EUR,Gubka & Fish Media s,Platba/video a foto produkcia,2023020
+153,2023-05-10,50000.0,EUR,Progresívne Slov.,Platba,
+154,2023-05-10,-127.61,EUR,,EUR NÁKUP POS,
+155,2023-05-10,-350.0,EUR,,EUR NÁKUP POS,
+156,2023-05-09,-20238.0,EUR,More Design s. r. o.,Platba/graficke sluzby,202322
+157,2023-05-09,-225.0,EUR,,EUR NÁKUP POS,
+158,2023-05-09,-750.0,EUR,,EUR NÁKUP POS,
+159,2023-05-09,-150.0,EUR,,EUR NÁKUP POS,
+160,2023-05-09,-100.0,EUR,,EUR NÁKUP POS,
+161,2023-05-09,-70.0,EUR,,EUR NÁKUP POS,
+162,2023-05-09,-40.0,EUR,,EUR NÁKUP POS,
+163,2023-05-09,-30.0,EUR,,EUR NÁKUP POS,
+164,2023-05-09,-20.0,EUR,,EUR NÁKUP POS,
+165,2023-05-09,-12.0,EUR,,EUR NÁKUP POS,
+166,2023-05-09,-12.0,EUR,,EUR NÁKUP POS,
+167,2023-05-09,-9.0,EUR,,EUR NÁKUP POS,
+168,2023-05-09,-6.0,EUR,,EUR NÁKUP POS,
+169,2023-05-09,-4.0,EUR,,EUR NÁKUP POS,
+170,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
+171,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
+172,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
+173,2023-05-09,-2.0,EUR,,EUR NÁKUP POS,
+174,2023-05-05,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/poradenske sluzby april,230012
+175,2023-05-05,-750.0,EUR,,EUR NÁKUP POS,
+176,2023-05-04,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby april,2023002
+177,2023-05-04,-403.52,EUR,"Beňáková Nora, Ing.",Platba/CP Benakova Oxford april,
+178,2023-05-04,-47.4,EUR,MIKACOVA TEREZA,Platba/CP Tallinn Mikacova april,
+179,2023-05-04,-3500.0,EUR,Ridzoň Jerguš,Platba/administrativne a marketingove sluzby april,2023011
+180,2023-05-04,-700.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby april,20230007
+181,2023-05-04,-1000.0,EUR,Mgr. Zora Jaurová,Platba/priprava volebneho programu april,62023
+182,2023-05-03,-77.29,EUR,UPC BROADBAND SLOVAK,Platba/UPC / PayBySquare,9368061
+183,2023-05-03,-74520.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390063
+184,2023-05-03,100000.0,EUR,Progresívne Slov.,Platba,
+185,2023-05-03,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie april,20230010
+186,2023-05-03,-1000.0,EUR,Natalia Heribanova,Platba/marketingove a komunikacne sluzby april,12023
+187,2023-05-03,-65.32,EUR,,EUR NÁKUP POS,
+188,2023-05-02,-500.0,EUR,PETER BARNAS,Platba/marketingove sluzby april,20230001
+189,2023-05-02,-1200.0,EUR,"Vojtek Marián, Mgr.",Platba/administrativne sluzby april,22023
+190,2023-05-02,-660.0,EUR,LILACOMM S.R.O.,Platba/komunikacny trening,1623
+191,2023-05-02,-1950.0,EUR,Matúš Mikšík,Platba/marketingove sluzby april,20230003
+192,2023-05-02,-1200.0,EUR,"th media, s.r.o.",Platba/reklamne a marketingove sluzby marec,20230016
+193,2023-05-02,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov maj,23228
+194,2023-05-02,-240.0,EUR,BAVARIS FACILITY SERVICES s.r.o.,Platba/upratovacie sluzby april,230102041
+195,2023-05-02,500.0,EUR,,POS návrat,
+196,2023-05-02,-37.43,EUR,,POS nákup,
+197,2023-05-02,-750.0,EUR,,EUR NÁKUP POS,
+198,2023-05-02,-112.41,EUR,,POS nákup,
+199,2023-05-02,-7.9,EUR,,POS nákup,
+200,2023-05-02,-64.3,EUR,,POS nákup,
+201,2023-05-02,-40.59,EUR,,POS nákup,
+202,2023-05-02,-69.47,EUR,,INT NÁKUP POS EUR,
+203,2023-04-29,-6.0,EUR,,Poplatky za transakcie,
+204,2023-04-29,-0.0,EUR,,Poplatok za balík,
+205,2023-04-28,-290.88,EUR,Petra Dzurovcinova,"Platba/CP Brno, Kosice, Banska Bystrica",
+206,2023-04-28,-2569.0,EUR,VELICKA JANA,Platba/administrativne sluzby april,20230002
+207,2023-04-28,-107.67,EUR,,INT NÁKUP POS EUR,
+208,2023-04-28,-589.0,EUR,,POS nákup,
+209,2023-04-28,-10.0,EUR,,Výber z bankomatu,
+210,2023-04-28,-99.99,EUR,,INT NÁKUP POS EUR,
+211,2023-04-26,-584.4,EUR,LAVACOM s.r.o.,Platba/pultik PS,2301240169
+212,2023-04-26,-60.0,EUR,Dej Dávid,Platba/CP Banska Bystrica Dej 04/23,
+213,2023-04-26,-820.0,EUR,Underdog Production,Platba/polep a oprava steny,2023015
+214,2023-04-26,-36.0,EUR,AFINITA s.r.o.,Platba/Kapa doska,23010099
+215,2023-04-26,-1402.8,EUR,"Pandan, s. r. o.",Platba/nalepky 1000ks a polep steny,202304022
+216,2023-04-25,-144.0,EUR,RJ Gastro s.r.o.,Platba/catering vyjazd kosice,2023058
+217,2023-04-25,-80.0,EUR,Hlavné mesto Slovenskej republiky Bratislava,Platba/spravny poplatok za umiestnenie interaktivnej mapy,2231331188
+218,2023-04-25,-52027.82,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampa outdoor jul 2023,720230025
+219,2023-04-25,50000.0,EUR,Progresívne Slov.,Platba,
+220,2023-04-25,-258.26,EUR,TAMARA STOHLOVA,Platba/CP Kosice Stohlova 04/23,
+221,2023-04-25,-777.05,EUR,TeleDom Hotel,Platba/vyjazd Kosice ubytovanie,20100285
+222,2023-04-25,-750.0,EUR,,EUR NÁKUP POS,
+223,2023-04-24,-74.06,EUR,,EUR NÁKUP POS,
+224,2023-04-21,-478.56,EUR,Divadlo Štúdio tanca,Platba/prenajom saly Banska Bystrica,3323
+225,2023-04-21,-60.0,EUR,,POS nákup,
+226,2023-04-20,-750.0,EUR,,EUR NÁKUP POS,
+227,2023-04-20,-117.69,EUR,,POS nákup zahr.,
+228,2023-04-20,-80.4,EUR,,POS nákup zahr.,
+229,2023-04-19,-1260.0,EUR,ATRIOS S.R.O.,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201
+230,2023-04-18,-250.0,EUR,Pavol Krajci,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701
+231,2023-04-18,-750.0,EUR,,EUR NÁKUP POS,
+232,2023-04-17,-750.0,EUR,,EUR NÁKUP POS,
+233,2023-04-14,-750.0,EUR,,EUR NÁKUP POS,
+234,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466
+235,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259
+236,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
+237,2023-04-13,-750.0,EUR,,EUR NÁKUP POS,
+238,2023-04-12,-900.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
+239,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+240,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+241,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318
+242,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
+243,2023-04-12,-750.0,EUR,,EUR NÁKUP POS,
+244,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
+245,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+246,2023-04-11,-1.17,EUR,,EUR NÁKUP POS,
+247,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+248,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+249,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
+250,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
+251,2023-04-05,-30000.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
+252,2023-04-05,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/najom kancelaria 04 23,23174
+253,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
+254,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
+255,2023-03-31,-0.0,EUR,,Poplatok za balík,
+256,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
