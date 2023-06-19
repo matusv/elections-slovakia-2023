@@ -1,8 +1,8 @@
 index,index,date,amount,account_name,message,vs,name
-0,127,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
-1,126,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
-2,81,2023-05-16,-7082.4,DIW sro,Noviny sme rodina - doplatok DIW s.r.o.: ZF2023050003 - SME RODINA - 2023/05,2023050003.0,Sme Rodina
-3,26,2023-06-02,7082.4,DIW s.r.o.,vratenie mylnej platby,2023050003.0,Sme Rodina
+0,129,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
+1,128,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
+2,83,2023-05-16,-7082.4,DIW sro,Noviny sme rodina - doplatok DIW s.r.o.: ZF2023050003 - SME RODINA - 2023/05,2023050003.0,Sme Rodina
+3,28,2023-06-02,7082.4,DIW s.r.o.,vratenie mylnej platby,2023050003.0,Sme Rodina
 4,302,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
 5,307,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
 6,303,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
@@ -19,9 +19,9 @@ index,index,date,amount,account_name,message,vs,name
 17,68,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
 18,60,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
 19,65,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-20,29,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-21,32,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
-22,0,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
-23,1,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
-24,11,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
-25,12,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
+20,30,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+21,33,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+22,1,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
+23,2,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
+24,16,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
+25,17,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
