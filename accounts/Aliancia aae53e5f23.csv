@@ -1,5 +1,8 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-06-22,70000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023
-1,2023-06-06,-65954.4,EUR,,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204
-2,2023-05-25,-27000,EUR,,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001
-3,2023-05-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023
+0,2023-06-26,-5620,EUR,,"Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
+KS: 0308"
+1,2023-06-26,-5000,EUR,,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027
+2,2023-06-22,70000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023
+3,2023-06-06,-65954.4,EUR,,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204
+4,2023-05-25,-27000,EUR,,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001
+5,2023-05-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023

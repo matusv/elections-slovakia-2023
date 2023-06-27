@@ -1,121 +1,132 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2023-06-23,20.0,Bezhotovostný príjem,Morgošová Sandra,/DO2023-06-22/SPclenske rok 2023,,,,Morgošová Sandra
-1,2023-06-22,20.0,Bezhotovostný príjem,"SLOVENSKÁ POŠTA, A.S",/DO2023-06-22/SP,0998,1017200001,6010002246,"SLOVENSKÁ POŠTA, A.S"
-2,2023-06-19,-100.7,Transakcia kartou,,"Nákup: Crowne Plaza Bratislav,  Hodzovo námestie 2, Bratislava, 816 25, SVK, dne 17.6.2023, částka  100.70 EUR",,9154,,"Nákup: Crowne Plaza Bratislav,  Hodzovo námestie 2, Bratislava, 816 25, SVK, dne 17.6.2023, částka  100.70 EUR"
-3,2023-06-19,-198.7,Transakcia kartou,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 18.6.2023, částka  198.70 EUR",,9154,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 18.6.2023, částka  198.70 EUR"
-4,2023-06-16,20.0,Bezhotovostný príjem,Martin Kresák,/DO2023-06-15/SP Clensky prispevok za rok 2023 - Ing. Martin Kresak,,,,Martin Kresák
-5,2023-06-16,80.0,Bezhotovostný príjem,Martin Kresák,/DO2023-06-15/SP Dar - Ing. Kresak,,,,Martin Kresák
-6,2023-06-15,20.0,Bezhotovostný príjem,JAN BERCELI,Jan Berceli clenstvo za rok 2023,,,,JAN BERCELI
-7,2023-06-15,100.0,Bezhotovostný príjem,MUDr. Miri Dana,/DO2023-06-14/SP,,,,MUDr. Miri Dana
-8,2023-06-14,-20.0,Bezhotovostná platba,,Vratenie vkladu v hotovosti,,,,Vrátenie vkladu v hotovosti
-9,2023-06-14,20.0,Bezhotovostný príjem,Sylvia Bolechová,/DO2023-06-13/SPčlenský príspevok 2023,,,,Sylvia Bolechová
-10,2023-06-12,-9.02,Transakcia kartou,,"Nákup: FACEBK *ASRRKRXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.6.2023, částka  9.02 EUR",,9154,,"Nákup: FACEBK *ASRRKRXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.6.2023, částka  9.02 EUR"
-11,2023-06-12,40.0,Bezhotovostný príjem,Benjamín Schlesinger,"/DO2023-06-09/SP Z Lasky Benjamin Schlesinger, Clen.2023",,,,Benjamín Schlesinger
-12,2023-06-12,20.0,Bezhotovostný príjem,Bednár Stanislav,/DO2023-06-10/SPClenske 2023,,,,Bednár Stanislav
-13,2023-06-11,-22.0,Transakcia kartou,,"Nákup: FACEBK *3QHMPQT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 10.6.2023, částka  22.00 EUR",,9154,,"Nákup: FACEBK *3QHMPQT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 10.6.2023, částka  22.00 EUR"
-14,2023-06-09,-18.0,Transakcia kartou,,"Nákup: FACEBK *TSXS7SF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 8.6.2023, částka  18.00 EUR",,9154,,"Nákup: FACEBK *TSXS7SF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 8.6.2023, částka  18.00 EUR"
-15,2023-06-08,-575.0,Bezhotovostná platba,,"Sluzby suvisiace s produkciou filmo
+0,2023-06-27,2000.0,Bezhotovostný príjem,Maxian Rosová Dajana,/DO2023-06-26/SPPOZICKA,,,,Maxian Rosová Dajana
+1,2023-06-27,1000.0,Bezhotovostný príjem,Pirek Michal,POZicka Michal Pirek,,26062023,,pôžička Pirek Michal
+2,2023-06-27,20.0,Bezhotovostný príjem,MARCINOVA TATIANA,/DO2023-06-26/SPClenske za rok 2023 Ondrej Forgac,,,,MARCINOVA TATIANA
+3,2023-06-27,-33.0,Transakcia kartou,,"Nákup: FACEBK *8LF89RT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.6.2023, částka  33.00 EUR",,9154,,"Nákup: FACEBK *8LF89RT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.6.2023, částka  33.00 EUR"
+4,2023-06-26,1000.0,Platba prevodom v rámci banky,"Ing. Krátky, Juraj",pozicka Juraj Kratky,,26062023,26062023,pozicka Juraj Kratky
+5,2023-06-26,20.0,Platba prevodom v rámci banky,"Ing. Krátky, Juraj",clenske za rok 2023 Juraj Kratky,,26062023,26062023,clenske za rok 2023 Juraj Kratky
+6,2023-06-26,9000.0,Bezhotovostný príjem,JAN BERCELI,Pozicka od Jan Berceli,,,,JAN BERCELI
+7,2023-06-25,20.0,Platba prevodom v rámci banky,"Nosaľ, Jaroslav",Nosal-clensky prispevok pre rok 2023,,,,Nosal-clensky prispevok pre rok 2023
+8,2023-06-25,-20.85,Transakcia kartou,,"Nákup: FACEBK *MSQ89RP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.6.2023, částka  20.85 EUR",,9154,,"Nákup: FACEBK *MSQ89RP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.6.2023, částka  20.85 EUR"
+9,2023-06-25,-21.16,Transakcia kartou,,"Nákup: FACEBK *H2LVZRB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.6.2023, částka  21.16 EUR",,9154,,"Nákup: FACEBK *H2LVZRB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.6.2023, částka  21.16 EUR"
+10,2023-06-25,-5.84,Transakcia kartou,,"Nákup: FACEBK *AJY87RT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.6.2023, částka  5.84 EUR",,9154,,"Nákup: FACEBK *AJY87RT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.6.2023, částka  5.84 EUR"
+11,2023-06-23,20.0,Bezhotovostný príjem,Morgošová Sandra,/DO2023-06-22/SPclenske rok 2023,,,,Morgošová Sandra
+12,2023-06-22,20.0,Bezhotovostný príjem,"SLOVENSKÁ POŠTA, A.S",/DO2023-06-22/SP,0998,1017200001,6010002246,"SLOVENSKÁ POŠTA, A.S"
+13,2023-06-19,-100.7,Transakcia kartou,,"Nákup: Crowne Plaza Bratislav,  Hodzovo námestie 2, Bratislava, 816 25, SVK, dne 17.6.2023, částka  100.70 EUR",,9154,,"Nákup: Crowne Plaza Bratislav,  Hodzovo námestie 2, Bratislava, 816 25, SVK, dne 17.6.2023, částka  100.70 EUR"
+14,2023-06-19,-198.7,Transakcia kartou,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 18.6.2023, částka  198.70 EUR",,9154,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 18.6.2023, částka  198.70 EUR"
+15,2023-06-16,20.0,Bezhotovostný príjem,Martin Kresák,/DO2023-06-15/SP Clensky prispevok za rok 2023 - Ing. Martin Kresak,,,,Martin Kresák
+16,2023-06-16,80.0,Bezhotovostný príjem,Martin Kresák,/DO2023-06-15/SP Dar - Ing. Kresak,,,,Martin Kresák
+17,2023-06-15,20.0,Bezhotovostný príjem,JAN BERCELI,Jan Berceli clenstvo za rok 2023,,,,JAN BERCELI
+18,2023-06-15,100.0,Bezhotovostný príjem,MUDr. Miri Dana,/DO2023-06-14/SP,,,,MUDr. Miri Dana
+19,2023-06-14,-20.0,Bezhotovostná platba,,Vratenie vkladu v hotovosti,,,,Vrátenie vkladu v hotovosti
+20,2023-06-14,20.0,Bezhotovostný príjem,Sylvia Bolechová,/DO2023-06-13/SPčlenský príspevok 2023,,,,Sylvia Bolechová
+21,2023-06-12,-9.02,Transakcia kartou,,"Nákup: FACEBK *ASRRKRXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.6.2023, částka  9.02 EUR",,9154,,"Nákup: FACEBK *ASRRKRXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.6.2023, částka  9.02 EUR"
+22,2023-06-12,40.0,Bezhotovostný príjem,Benjamín Schlesinger,"/DO2023-06-09/SP Z Lasky Benjamin Schlesinger, Clen.2023",,,,Benjamín Schlesinger
+23,2023-06-12,20.0,Bezhotovostný príjem,Bednár Stanislav,/DO2023-06-10/SPClenske 2023,,,,Bednár Stanislav
+24,2023-06-11,-22.0,Transakcia kartou,,"Nákup: FACEBK *3QHMPQT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 10.6.2023, částka  22.00 EUR",,9154,,"Nákup: FACEBK *3QHMPQT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 10.6.2023, částka  22.00 EUR"
+25,2023-06-09,-18.0,Transakcia kartou,,"Nákup: FACEBK *TSXS7SF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 8.6.2023, částka  18.00 EUR",,9154,,"Nákup: FACEBK *TSXS7SF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 8.6.2023, částka  18.00 EUR"
+26,2023-06-08,-575.0,Bezhotovostná platba,,"Sluzby suvisiace s produkciou filmo
 v alebo videozaznamov",0308,2023010,,Služby súvisiace s produkciou filmov alebo videozáznamov
-16,2023-06-08,20.0,Bezhotovostný príjem,Čarný Juraj,/DO2023-06-07/SPClenske za rok 2023 Iveta Klacanska,,,,Čarný Juraj
-17,2023-06-06,20.0,Bezhotovostný príjem,"Eštočák Martin, JUDr",/DO2023-06-05/SPclenske 2023/Estocak Martin,,,,"Eštočák Martin, JUDr"
-18,2023-06-06,400.0,Bezhotovostný príjem,SIRUCKA DRAHOMIR,/DO2023-06-05/SPDar Drahomir Sirucka ml.,,,,SIRUCKA DRAHOMIR
-19,2023-06-05,-50.0,Bezhotovostná platba,,"Pirate Party Slovakia membership fe
+27,2023-06-08,20.0,Bezhotovostný príjem,Čarný Juraj,/DO2023-06-07/SPClenske za rok 2023 Iveta Klacanska,,,,Čarný Juraj
+28,2023-06-06,20.0,Bezhotovostný príjem,"Eštočák Martin, JUDr",/DO2023-06-05/SPclenske 2023/Estocak Martin,,,,"Eštočák Martin, JUDr"
+29,2023-06-06,400.0,Bezhotovostný príjem,SIRUCKA DRAHOMIR,/DO2023-06-05/SPDar Drahomir Sirucka ml.,,,,SIRUCKA DRAHOMIR
+30,2023-06-05,-50.0,Bezhotovostná platba,,"Pirate Party Slovakia membership fe
 e 2023",,,,Pirate Parties International členské 2023 - Pirate Party Slovakia membership fee 2023
-20,2023-06-05,-50.0,Platba prevodom v rámci banky,,Pirate Party Slovakia membership fee 2023,,,,PPEU - Členské 2023 - Pirate Party Slovakia membership fee 2023
-21,2023-06-05,-423.0,Platba prevodom v rámci banky,,Konzultace v oblasti médií FAKTURA 2023-0028,,20230028,,Konzultace v oblasti médií FAKTURA 2023-0028
-22,2023-06-05,-2406.0,Bezhotovostná platba,,"Uhrada faktury: 202305015 Dokonceni
+31,2023-06-05,-50.0,Platba prevodom v rámci banky,,Pirate Party Slovakia membership fee 2023,,,,PPEU - Členské 2023 - Pirate Party Slovakia membership fee 2023
+32,2023-06-05,-423.0,Platba prevodom v rámci banky,,Konzultace v oblasti médií FAKTURA 2023-0028,,20230028,,Konzultace v oblasti médií FAKTURA 2023-0028
+33,2023-06-05,-2406.0,Bezhotovostná platba,,"Uhrada faktury: 202305015 Dokonceni
 e a spustenie webovej stranky",,202305015,,Dokončenie a spustenie webovej stránky
-23,2023-06-05,-231.9,Transakcia kartou,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 4.6.2023, částka  231.90 EUR",,9154,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 4.6.2023, částka  231.90 EUR"
-24,2023-06-05,-39.69,Transakcia kartou,,"Nákup: Alza sk s r o,  Bottova 6654/7, Bratislava, 811 09, SVK, dne 4.6.2023, částka  39.69 EUR",,9154,,"Nákup: Alza sk s r o,  Bottova 6654/7, Bratislava, 811 09, SVK, dne 4.6.2023, částka  39.69 EUR"
-25,2023-06-05,-17.67,Transakcia kartou,,"Nákup: FACEBK *ELFUQR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.6.2023, částka  17.67 EUR",,9154,,"Nákup: FACEBK *ELFUQR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.6.2023, částka  17.67 EUR"
-26,2023-06-03,-15.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.6.2023, částka  15.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.6.2023, částka  15.00 EUR"
-27,2023-06-03,-0.29,Transakcia kartou,,"Nákup: FACEBK *AEBZJQP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 3.6.2023, částka  0.29 EUR",,9154,,"Nákup: FACEBK *AEBZJQP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 3.6.2023, částka  0.29 EUR"
-28,2023-06-02,7000.0,Bezhotovostný príjem,JAN BERCELI,Pozicka od Jan Berceli,,,,JAN BERCELI
-29,2023-06-02,100.0,Bezhotovostný príjem,RUDOLF MOLNAR,,,,,RUDOLF MOLNAR
-30,2023-06-02,-12.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.6.2023, částka  12.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.6.2023, částka  12.00 EUR"
-31,2023-05-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9154,,poplatek za pojištění
-32,2023-05-31,-21.25,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 30.5.2023, částka  21.25 EUR",,9154,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 30.5.2023, částka  21.25 EUR"
-33,2023-05-30,20.0,Bezhotovostný príjem,Karol Silnicky,clenske na rok 2023,,,,Karol Silnicky
-34,2023-05-30,-97.37,Transakcia kartou,,"Nákup: TWITTER PAID FEATURES,  1355 Market StreetSuite 900, SAN FRANCISCO, 94103, USA, dne 29.5.2023, částka  2244.00 CZK",,9154,,"Nákup: TWITTER PAID FEATURES,  1355 Market StreetSuite 900, SAN FRANCISCO, 94103, USA, dne 29.5.2023, částka  2244.00 CZK"
-35,2023-05-29,-7.23,Transakcia kartou,,"Nákup: FACEBK *84SU5RXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.5.2023, částka  7.23 EUR",,9154,,"Nákup: FACEBK *84SU5RXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.5.2023, částka  7.23 EUR"
-36,2023-05-28,-10.0,Transakcia kartou,,"Nákup: FACEBK *P8ZGHR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 27.5.2023, částka  10.00 EUR",,9154,,"Nákup: FACEBK *P8ZGHR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 27.5.2023, částka  10.00 EUR"
-37,2023-05-26,-378.0,Bezhotovostná platba,,Vyroba Roll-upu 240x200cm,,202305009,,Výroba Roll-upu 240x200cm
-38,2023-05-25,20.0,Bezhotovostný príjem,ASTALOS NORBERT,/DO2023-05-24/SPNorbert Astalos prispevok - clenske,,,,ASTALOS NORBERT
-39,2023-05-25,-1.66,Transakcia kartou,,"Nákup: FACEBK *56NL5QT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.66 EUR",,9154,,"Nákup: FACEBK *56NL5QT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.66 EUR"
-40,2023-05-25,-3.34,Transakcia kartou,,"Nákup: FACEBK *XJJTFQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  3.34 EUR",,9154,,"Nákup: FACEBK *XJJTFQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  3.34 EUR"
-41,2023-05-25,-1.73,Transakcia kartou,,"Nákup: FACEBK *WTS89QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.73 EUR",,9154,,"Nákup: FACEBK *WTS89QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.73 EUR"
-42,2023-05-25,-1.85,Transakcia kartou,,"Nákup: FACEBK *T475GQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.85 EUR",,9154,,"Nákup: FACEBK *T475GQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.85 EUR"
-43,2023-05-25,-6.0,Transakcia kartou,,"Nákup: FACEBK *NR9LQRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  6.00 EUR",,9154,,"Nákup: FACEBK *NR9LQRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  6.00 EUR"
-44,2023-05-25,-2.86,Transakcia kartou,,"Nákup: FACEBK *LCDSYP33Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  2.86 EUR",,9154,,"Nákup: FACEBK *LCDSYP33Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  2.86 EUR"
-45,2023-05-25,-8.0,Transakcia kartou,,"Nákup: FACEBK *KRX2ER32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  8.00 EUR",,9154,,"Nákup: FACEBK *KRX2ER32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  8.00 EUR"
-46,2023-05-24,-2.45,Transakcia kartou,,"Nákup: FACEBK *9ARFDR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.5.2023, částka  2.45 EUR",,9154,,"Nákup: FACEBK *9ARFDR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.5.2023, částka  2.45 EUR"
-47,2023-05-24,50.0,Bezhotovostný príjem,Máteffy Alexander,/DO2023-05-23/SPdar,,,,Máteffy Alexander
-48,2023-05-23,-4.0,Transakcia kartou,,"Nákup: FACEBK *74EFYQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.5.2023, částka  4.00 EUR",,9154,,"Nákup: FACEBK *74EFYQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.5.2023, částka  4.00 EUR"
-49,2023-05-22,-1.01,Transakcia kartou,,"Nákup: FACEBK *JSDAXQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 21.5.2023, částka  1.01 EUR",,9154,,"Nákup: FACEBK *JSDAXQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 21.5.2023, částka  1.01 EUR"
-50,2023-05-21,-3.0,Transakcia kartou,,"Nákup: FACEBK *NUBZZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  3.00 EUR",,9154,,"Nákup: FACEBK *NUBZZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  3.00 EUR"
-51,2023-05-20,-2.4,Transakcia kartou,,"Nákup: FACEBK *QPQ6ZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  2.40 EUR",,9154,,"Nákup: FACEBK *QPQ6ZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  2.40 EUR"
-52,2023-05-19,-2.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.5.2023, částka  2.00 EUR"
-53,2023-05-19,-1.38,Transakcia kartou,,"Nákup: FACEBK *M2HE3QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  1.38 EUR",,9154,,"Nákup: FACEBK *M2HE3QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  1.38 EUR"
-54,2023-05-19,-2.0,Transakcia kartou,,"Nákup: FACEBK *AK8R9QX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK *AK8R9QX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  2.00 EUR"
-55,2023-05-18,-2.0,Transakcia kartou,,"Nákup: FACEBK *DRHHTQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK *DRHHTQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  2.00 EUR"
-56,2023-05-18,-0.01,Transakcia kartou,,"Nákup: FACEBK *AC9PHRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  0.01 EUR",,9154,,"Nákup: FACEBK *AC9PHRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  0.01 EUR"
-57,2023-05-17,-2.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.5.2023, částka  2.00 EUR"
-58,2023-05-17,-45.54,Transakcia kartou,,"Nákup: PADDLE.NET* ELFSIGHT,  Avenida Antonio Augusto de Aguiar, no 19, 4o, LISBOA, 1050-012, PRT, dne 16.5.2023, částka  48.00 USD",,9154,,"Nákup: PADDLE.NET* ELFSIGHT,  Avenida Antonio Augusto de Aguiar, no 19, 4o, LISBOA, 1050-012, PRT, dne 16.5.2023, částka  48.00 USD"
-59,2023-05-10,20.0,Bezhotovostný príjem,SIRUCKA DRAHOMIR,/DO2023-05-09/SPDrahomir Sirucka clenske rok 2023,,,,SIRUCKA DRAHOMIR
-60,2023-05-09,-450.0,Bezhotovostná platba,,,,2023008,,Fotografické služby
-61,2023-05-03,100.0,Bezhotovostný príjem,Uličný Peter,/DO2023-05-02/SPClenstvo za 2023,,,,Uličný Peter
-62,2023-05-02,-1200.0,Bezhotovostná platba,,,,2023001,,Tvorba webstránky slovenskipirati.sk
-63,2023-05-01,-402.0,Bezhotovostná platba,,,,202304010,,"Grafcké práce a tlačové dáta, 2 x potlač na Rollup flm + brand na rečnícky pult, Projektové riadenie, accounting, doručenie"
-64,2023-05-01,-8.75,Transakcia kartou,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 30.4.2023, částka  200.00 CZK",,9154,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 30.4.2023, částka  200.00 CZK"
-65,2023-05-01,-68.25,Transakcia kartou,,"Nákup: DLOUNGE,  Chlumecka - OC Cerny Most 765/6, Praha 9, 198 19, CZE, dne 30.4.2023, částka  1560.00 CZK",,9154,,"Nákup: DLOUNGE,  Chlumecka - OC Cerny Most 765/6, Praha 9, 198 19, CZE, dne 30.4.2023, částka  1560.00 CZK"
-66,2023-04-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9154,,poplatek za pojištění
-67,2023-04-30,-72.49,Transakcia kartou,,"Nákup: CHICAGO BAR & GRILL,  DR. MILADY HORAKOVE, LIBEREC 1, 460 01, CZE, dne 29.4.2023, částka  1657.00 CZK",,9154,,"Nákup: CHICAGO BAR & GRILL,  DR. MILADY HORAKOVE, LIBEREC 1, 460 01, CZE, dne 29.4.2023, částka  1657.00 CZK"
-68,2023-04-30,-115.67,Transakcia kartou,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  2644.00 CZK",,9154,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  2644.00 CZK"
-69,2023-04-30,-38.5,Transakcia kartou,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  880.00 CZK",,9154,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  880.00 CZK"
-70,2023-04-30,-19.91,Transakcia kartou,,"Nákup: MOC BISTRO 01,  namesti Soukenne 669, Liberec, 460 01, CZE, dne 29.4.2023, částka  455.00 CZK",,9154,,"Nákup: MOC BISTRO 01,  namesti Soukenne 669, Liberec, 460 01, CZE, dne 29.4.2023, částka  455.00 CZK"
-71,2023-04-30,-14.44,Transakcia kartou,,"Nákup: OBCERSTVENI CANCUN,  SIROKA 16414, LIBEREC, 460 01, CZE, dne 29.4.2023, částka  330.00 CZK",,9154,,"Nákup: OBCERSTVENI CANCUN,  SIROKA 16414, LIBEREC, 460 01, CZE, dne 29.4.2023, částka  330.00 CZK"
-72,2023-04-30,-115.67,Transakcia kartou,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2644.00 CZK",,9154,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2644.00 CZK"
-73,2023-04-30,-116.5,Transakcia kartou,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2663.00 CZK",,9154,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2663.00 CZK"
-74,2023-04-30,-19.91,Transakcia kartou,,"Nákup: WWW.DKLIBEREC.CZ,  NAM. SOUKENNE 613/3, LIBEREC 1, 46001, CZE, dne 29.4.2023, částka  455.00 CZK",,9154,,"Nákup: WWW.DKLIBEREC.CZ,  NAM. SOUKENNE 613/3, LIBEREC 1, 46001, CZE, dne 29.4.2023, částka  455.00 CZK"
-75,2023-04-29,-33.0,Transakcia kartou,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR",,9154,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR"
-76,2023-04-29,-33.0,Transakcia kartou,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR",,9154,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR"
-77,2023-04-28,-100.0,Transakcia kartou,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81109, SVK, dne 27.4.2023, částka  100.00 EUR",,9154,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81109, SVK, dne 27.4.2023, částka  100.00 EUR"
-78,2023-04-27,3000.0,Bezhotovostný príjem,JAN BERCELI,Dar jan berceli,,,,JAN BERCELI
-79,2023-04-26,-168.4,Bezhotovostná platba,,"Catering celostatneho fora Piratska
+34,2023-06-05,-231.9,Transakcia kartou,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 4.6.2023, částka  231.90 EUR",,9154,,"Nákup: ARTHUR CAFE,  Zamocka 10, Bratislava, 81101, SVK, dne 4.6.2023, částka  231.90 EUR"
+35,2023-06-05,-39.69,Transakcia kartou,,"Nákup: Alza sk s r o,  Bottova 6654/7, Bratislava, 811 09, SVK, dne 4.6.2023, částka  39.69 EUR",,9154,,"Nákup: Alza sk s r o,  Bottova 6654/7, Bratislava, 811 09, SVK, dne 4.6.2023, částka  39.69 EUR"
+36,2023-06-05,-17.67,Transakcia kartou,,"Nákup: FACEBK *ELFUQR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.6.2023, částka  17.67 EUR",,9154,,"Nákup: FACEBK *ELFUQR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.6.2023, částka  17.67 EUR"
+37,2023-06-03,-15.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.6.2023, částka  15.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.6.2023, částka  15.00 EUR"
+38,2023-06-03,-0.29,Transakcia kartou,,"Nákup: FACEBK *AEBZJQP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 3.6.2023, částka  0.29 EUR",,9154,,"Nákup: FACEBK *AEBZJQP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 3.6.2023, částka  0.29 EUR"
+39,2023-06-02,7000.0,Bezhotovostný príjem,JAN BERCELI,Pozicka od Jan Berceli,,,,JAN BERCELI
+40,2023-06-02,100.0,Bezhotovostný príjem,RUDOLF MOLNAR,,,,,RUDOLF MOLNAR
+41,2023-06-02,-12.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.6.2023, částka  12.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.6.2023, částka  12.00 EUR"
+42,2023-05-31,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9154,,poplatek za pojištění
+43,2023-05-31,-21.25,Transakcia kartou,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 30.5.2023, částka  21.25 EUR",,9154,,"Nákup: WWW.WEBSUPPORT.SK,  KARADZICOVA 12, BRATISLAVA, 82108, SVK, dne 30.5.2023, částka  21.25 EUR"
+44,2023-05-30,20.0,Bezhotovostný príjem,Karol Silnicky,clenske na rok 2023,,,,Karol Silnicky
+45,2023-05-30,-97.37,Transakcia kartou,,"Nákup: TWITTER PAID FEATURES,  1355 Market StreetSuite 900, SAN FRANCISCO, 94103, USA, dne 29.5.2023, částka  2244.00 CZK",,9154,,"Nákup: TWITTER PAID FEATURES,  1355 Market StreetSuite 900, SAN FRANCISCO, 94103, USA, dne 29.5.2023, částka  2244.00 CZK"
+46,2023-05-29,-7.23,Transakcia kartou,,"Nákup: FACEBK *84SU5RXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.5.2023, částka  7.23 EUR",,9154,,"Nákup: FACEBK *84SU5RXZP2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.5.2023, částka  7.23 EUR"
+47,2023-05-28,-10.0,Transakcia kartou,,"Nákup: FACEBK *P8ZGHR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 27.5.2023, částka  10.00 EUR",,9154,,"Nákup: FACEBK *P8ZGHR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 27.5.2023, částka  10.00 EUR"
+48,2023-05-26,-378.0,Bezhotovostná platba,,Vyroba Roll-upu 240x200cm,,202305009,,Výroba Roll-upu 240x200cm
+49,2023-05-25,20.0,Bezhotovostný príjem,ASTALOS NORBERT,/DO2023-05-24/SPNorbert Astalos prispevok - clenske,,,,ASTALOS NORBERT
+50,2023-05-25,-1.66,Transakcia kartou,,"Nákup: FACEBK *56NL5QT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.66 EUR",,9154,,"Nákup: FACEBK *56NL5QT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.66 EUR"
+51,2023-05-25,-3.34,Transakcia kartou,,"Nákup: FACEBK *XJJTFQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  3.34 EUR",,9154,,"Nákup: FACEBK *XJJTFQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  3.34 EUR"
+52,2023-05-25,-1.73,Transakcia kartou,,"Nákup: FACEBK *WTS89QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.73 EUR",,9154,,"Nákup: FACEBK *WTS89QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.73 EUR"
+53,2023-05-25,-1.85,Transakcia kartou,,"Nákup: FACEBK *T475GQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.85 EUR",,9154,,"Nákup: FACEBK *T475GQX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  1.85 EUR"
+54,2023-05-25,-6.0,Transakcia kartou,,"Nákup: FACEBK *NR9LQRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  6.00 EUR",,9154,,"Nákup: FACEBK *NR9LQRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  6.00 EUR"
+55,2023-05-25,-2.86,Transakcia kartou,,"Nákup: FACEBK *LCDSYP33Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  2.86 EUR",,9154,,"Nákup: FACEBK *LCDSYP33Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  2.86 EUR"
+56,2023-05-25,-8.0,Transakcia kartou,,"Nákup: FACEBK *KRX2ER32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  8.00 EUR",,9154,,"Nákup: FACEBK *KRX2ER32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2023, částka  8.00 EUR"
+57,2023-05-24,-2.45,Transakcia kartou,,"Nákup: FACEBK *9ARFDR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.5.2023, částka  2.45 EUR",,9154,,"Nákup: FACEBK *9ARFDR32Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.5.2023, částka  2.45 EUR"
+58,2023-05-24,50.0,Bezhotovostný príjem,Máteffy Alexander,/DO2023-05-23/SPdar,,,,Máteffy Alexander
+59,2023-05-23,-4.0,Transakcia kartou,,"Nákup: FACEBK *74EFYQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.5.2023, částka  4.00 EUR",,9154,,"Nákup: FACEBK *74EFYQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.5.2023, částka  4.00 EUR"
+60,2023-05-22,-1.01,Transakcia kartou,,"Nákup: FACEBK *JSDAXQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 21.5.2023, částka  1.01 EUR",,9154,,"Nákup: FACEBK *JSDAXQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 21.5.2023, částka  1.01 EUR"
+61,2023-05-21,-3.0,Transakcia kartou,,"Nákup: FACEBK *NUBZZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  3.00 EUR",,9154,,"Nákup: FACEBK *NUBZZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  3.00 EUR"
+62,2023-05-20,-2.4,Transakcia kartou,,"Nákup: FACEBK *QPQ6ZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  2.40 EUR",,9154,,"Nákup: FACEBK *QPQ6ZPT2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.5.2023, částka  2.40 EUR"
+63,2023-05-19,-2.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.5.2023, částka  2.00 EUR"
+64,2023-05-19,-1.38,Transakcia kartou,,"Nákup: FACEBK *M2HE3QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  1.38 EUR",,9154,,"Nákup: FACEBK *M2HE3QP2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  1.38 EUR"
+65,2023-05-19,-2.0,Transakcia kartou,,"Nákup: FACEBK *AK8R9QX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK *AK8R9QX2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.5.2023, částka  2.00 EUR"
+66,2023-05-18,-2.0,Transakcia kartou,,"Nákup: FACEBK *DRHHTQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK *DRHHTQB2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  2.00 EUR"
+67,2023-05-18,-0.01,Transakcia kartou,,"Nákup: FACEBK *AC9PHRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  0.01 EUR",,9154,,"Nákup: FACEBK *AC9PHRF2Q2,  Hanover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.5.2023, částka  0.01 EUR"
+68,2023-05-17,-2.0,Transakcia kartou,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.5.2023, částka  2.00 EUR",,9154,,"Nákup: FACEBK ADS,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.5.2023, částka  2.00 EUR"
+69,2023-05-17,-45.54,Transakcia kartou,,"Nákup: PADDLE.NET* ELFSIGHT,  Avenida Antonio Augusto de Aguiar, no 19, 4o, LISBOA, 1050-012, PRT, dne 16.5.2023, částka  48.00 USD",,9154,,"Nákup: PADDLE.NET* ELFSIGHT,  Avenida Antonio Augusto de Aguiar, no 19, 4o, LISBOA, 1050-012, PRT, dne 16.5.2023, částka  48.00 USD"
+70,2023-05-10,20.0,Bezhotovostný príjem,SIRUCKA DRAHOMIR,/DO2023-05-09/SPDrahomir Sirucka clenske rok 2023,,,,SIRUCKA DRAHOMIR
+71,2023-05-09,-450.0,Bezhotovostná platba,,,,2023008,,Fotografické služby
+72,2023-05-03,100.0,Bezhotovostný príjem,Uličný Peter,/DO2023-05-02/SPClenstvo za 2023,,,,Uličný Peter
+73,2023-05-02,-1200.0,Bezhotovostná platba,,,,2023001,,Tvorba webstránky slovenskipirati.sk
+74,2023-05-01,-402.0,Bezhotovostná platba,,,,202304010,,"Grafcké práce a tlačové dáta, 2 x potlač na Rollup flm + brand na rečnícky pult, Projektové riadenie, accounting, doručenie"
+75,2023-05-01,-8.75,Transakcia kartou,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 30.4.2023, částka  200.00 CZK",,9154,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 30.4.2023, částka  200.00 CZK"
+76,2023-05-01,-68.25,Transakcia kartou,,"Nákup: DLOUNGE,  Chlumecka - OC Cerny Most 765/6, Praha 9, 198 19, CZE, dne 30.4.2023, částka  1560.00 CZK",,9154,,"Nákup: DLOUNGE,  Chlumecka - OC Cerny Most 765/6, Praha 9, 198 19, CZE, dne 30.4.2023, částka  1560.00 CZK"
+77,2023-04-30,-0.6,Poplatok - platobná karta,,poplatek za pojištění,,9154,,poplatek za pojištění
+78,2023-04-30,-72.49,Transakcia kartou,,"Nákup: CHICAGO BAR & GRILL,  DR. MILADY HORAKOVE, LIBEREC 1, 460 01, CZE, dne 29.4.2023, částka  1657.00 CZK",,9154,,"Nákup: CHICAGO BAR & GRILL,  DR. MILADY HORAKOVE, LIBEREC 1, 460 01, CZE, dne 29.4.2023, částka  1657.00 CZK"
+79,2023-04-30,-115.67,Transakcia kartou,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  2644.00 CZK",,9154,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  2644.00 CZK"
+80,2023-04-30,-38.5,Transakcia kartou,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  880.00 CZK",,9154,,"Nákup: PYTLOUN CITY BOUTIQUE,  Broumovska 697/21, Liberec VI-Ro, 460 06, CZE, dne 29.4.2023, částka  880.00 CZK"
+81,2023-04-30,-19.91,Transakcia kartou,,"Nákup: MOC BISTRO 01,  namesti Soukenne 669, Liberec, 460 01, CZE, dne 29.4.2023, částka  455.00 CZK",,9154,,"Nákup: MOC BISTRO 01,  namesti Soukenne 669, Liberec, 460 01, CZE, dne 29.4.2023, částka  455.00 CZK"
+82,2023-04-30,-14.44,Transakcia kartou,,"Nákup: OBCERSTVENI CANCUN,  SIROKA 16414, LIBEREC, 460 01, CZE, dne 29.4.2023, částka  330.00 CZK",,9154,,"Nákup: OBCERSTVENI CANCUN,  SIROKA 16414, LIBEREC, 460 01, CZE, dne 29.4.2023, částka  330.00 CZK"
+83,2023-04-30,-115.67,Transakcia kartou,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2644.00 CZK",,9154,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2644.00 CZK"
+84,2023-04-30,-116.5,Transakcia kartou,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2663.00 CZK",,9154,,"Nákup: Pytloun Hotel Liberec,  Pytloun Hotel Liberec, Liberec - Roc, 46006, CZE, dne 29.4.2023, částka  2663.00 CZK"
+85,2023-04-30,-19.91,Transakcia kartou,,"Nákup: WWW.DKLIBEREC.CZ,  NAM. SOUKENNE 613/3, LIBEREC 1, 46001, CZE, dne 29.4.2023, částka  455.00 CZK",,9154,,"Nákup: WWW.DKLIBEREC.CZ,  NAM. SOUKENNE 613/3, LIBEREC 1, 46001, CZE, dne 29.4.2023, částka  455.00 CZK"
+86,2023-04-29,-33.0,Transakcia kartou,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR",,9154,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR"
+87,2023-04-29,-33.0,Transakcia kartou,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR",,9154,,"Nákup: ODBOR VSEOB VNUTOR,  DRIENOVA 22, BRATISLAVA, 82686, SVK, dne 28.4.2023, částka  33.00 EUR"
+88,2023-04-28,-100.0,Transakcia kartou,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81109, SVK, dne 27.4.2023, částka  100.00 EUR",,9154,,"Výběr z bankomatu: TATRABANKA,  TATRABANKA, BRATISLAVA, 81109, SVK, dne 27.4.2023, částka  100.00 EUR"
+89,2023-04-27,3000.0,Bezhotovostný príjem,JAN BERCELI,Dar jan berceli,,,,JAN BERCELI
+90,2023-04-26,-168.4,Bezhotovostná platba,,"Catering celostatneho fora Piratska
  strana - Slovensko dna 15.4.2023",,,,Catering celostatneho fora Piratska strana - Slovensko dna 15.4.2023
-80,2023-04-24,16.0,Bezhotovostný príjem,JAN ZOLNA,/DO2023-04-21/SPZOLNA JAN DAR,,,,JAN ZOLNA
-81,2023-04-24,20.0,Bezhotovostný príjem,"Spišiak Pavel, RNDr.",/DO2023-04-21/SPDar,,,,"Spišiak Pavel, RNDr."
-82,2023-04-21,-384.0,Bezhotovostná platba,,"Platba auditorke - Ing. Katarina KA
+91,2023-04-24,16.0,Bezhotovostný príjem,JAN ZOLNA,/DO2023-04-21/SPZOLNA JAN DAR,,,,JAN ZOLNA
+92,2023-04-24,20.0,Bezhotovostný príjem,"Spišiak Pavel, RNDr.",/DO2023-04-21/SPDar,,,,"Spišiak Pavel, RNDr."
+93,2023-04-21,-384.0,Bezhotovostná platba,,"Platba auditorke - Ing. Katarina KA
 RCZAGOVA - audit 2022",,2023001,,Platba audítorke - Ing. Katarína KARCZAGOVÁ - audit 2022
-83,2023-04-20,20.0,Bezhotovostný príjem,Matúš Cilik,"/DO2023-04-19/SPDaniel Cilik MVDr, dar",,,,Matúš Cilik
-84,2023-04-17,20.0,Bezhotovostný príjem,Lively.sk s. r. o.,"/DO2023-04-17/SP, clenske Peter Rigo",,,,Lively.sk s. r. o.
-85,2023-04-17,30.0,Bezhotovostný príjem,Bednár Stanislav,/DO2023-04-16/SP,,,,Bednár Stanislav
-86,2023-04-17,30.0,Bezhotovostný príjem,Máteffy Alexander,/DO2023-04-15/SPdar,,,,Máteffy Alexander
-87,2023-04-17,20.0,Bezhotovostný príjem,"Teöke Roland, Ing.",/DO2023-04-15/SPRoland Teoke,,,,"Teöke Roland, Ing."
-88,2023-04-17,20.0,Bezhotovostný príjem,"Šubová Zuzana, Ing.",/DO2023-04-14/SPClenske rok 2023 O.Mistrik,,,,"Šubová Zuzana, Ing."
-89,2023-04-14,20.0,Vklad v hotovosti,členske 2023 - -Berceli,,0558,,,členske 2023 - -Berceli
-90,2023-04-14,30.0,Bezhotovostný príjem,JAN ZOLNA,/DO2023-04-13/SPZOLNA JAN CLENSKE,,,,JAN ZOLNA
-91,2023-04-14,20.0,Bezhotovostný príjem,Wimmer Štefan,/DO2023-04-13/SPStefan Wimmer clenske 2023,,,,Wimmer Štefan
-92,2023-04-14,80.0,Bezhotovostný príjem,Čarný Juraj,/DO2023-04-13/SPDar,,,,Čarný Juraj
-93,2023-04-14,20.0,Bezhotovostný príjem,Čarný Juraj,/DO2023-04-13/SPClenske za rok 2023,,,,Čarný Juraj
-94,2023-04-13,20.0,Bezhotovostný príjem,Křístek Kozárová And,/DO2023-04-12/SPclenske Andrea Kristek Kozarova,,,,Křístek Kozárová And
-95,2023-04-13,20.0,Bezhotovostný príjem,"RUGEVIT, S. R. O.",/DO2023-04-12/SPMaria Molnarova clenske 2023,,,,"RUGEVIT, S. R. O."
-96,2023-04-13,20.0,Bezhotovostný príjem,Marek Kvak,/DO2023-04-12/SP clenstvo 2023,,,,Marek Kvak
-97,2023-04-12,20.0,Bezhotovostný príjem,"Šubová Zuzana, Ing.",/DO2023-04-11/SPClenske pre rok 2023,,,,"Šubová Zuzana, Ing."
-98,2023-04-11,20.0,Bezhotovostný príjem,Uričová Eva,/DO2023-04-08/SPPiratska strana slovensko,,,,Uričová Eva
-99,2023-04-11,20.0,Bezhotovostný príjem,Bodo Tomáš,/DO2023-04-07/SPClenstvo za rok 2023,,,,Bodo Tomáš
-100,2023-04-11,20.0,Bezhotovostný príjem,Veronika Kvetáková,/DO2023-04-07/SPKvetakova Veronika - clenske za rok 2023,,,,Veronika Kvetáková
-101,2023-04-11,20.0,Bezhotovostný príjem,KACIREKOVA DAGMAR,/DO2023-04-11/SPclenske rok 2023,,,,KACIREKOVA DAGMAR
-102,2023-04-06,20.0,Bezhotovostný príjem,Beáta Drdáková,/DO2023-04-05/SPPavol Drdák-Členské,,,,Beáta Drdáková
-103,2023-04-06,20.0,Bezhotovostný príjem,Beáta Drdáková,/DO2023-04-05/SPBeáta Drdáková-Členské,,,,Beáta Drdáková
-104,2023-04-06,20.0,Bezhotovostný príjem,Július Vrábeľ,/DO2023-04-05/SPčlenske rok 2023,,,,Július Vrábeľ
-105,2023-04-05,20.0,Bezhotovostný príjem,Maxian Rosová Dajana,/DO2023-04-04/SPClenske DMR,,,,Maxian Rosová Dajana
-106,2023-04-05,20.0,Bezhotovostný príjem,Máteffy Alexander,/DO2023-04-04/SPclenske 2023,,,,Máteffy Alexander
-107,2023-04-05,20.0,Bezhotovostný príjem,Katarína Ringelband,/DO2023-04-04/SPČlenské KR,,,,Katarína Ringelband
-108,2023-04-04,20.0,Bezhotovostný príjem,DI Ladislav Rauchman,Sympatizanti E+L,,,,DI Ladislav Rauchman
-109,2023-03-28,20.0,Bezhotovostný príjem,Novotný Patrik,"/DO2023-03-27/SPPatrik Novotny clenske za 2023, Patrik Novotny clenske za 2023",,,,Novotný Patrik
-110,2023-03-21,20.0,Platba prevodom v rámci banky,"Pirek, Michal",M. Pírek  dar,,,,M. Pírek  dar
-111,2023-03-21,20.0,Platba prevodom v rámci banky,"Pirek, Michal",Michal Pírek členské za 2023,,,,Michal Pírek členské za 2023
-112,2023-02-22,40.0,Bezhotovostný príjem,RUDOLF MOLNAR,DAR,,,,RUDOLF MOLNAR
-113,2023-02-22,20.0,Bezhotovostný príjem,Magdaléna Šimeková,/DO2023-02-21/SPčlenské 2023 - Magdaléna Šebestová,,,,Magdaléna Šimeková
-114,2023-02-22,20.0,Bezhotovostný príjem,RUDOLF MOLNAR,,,,,RUDOLF MOLNAR
+94,2023-04-20,20.0,Bezhotovostný príjem,Matúš Cilik,"/DO2023-04-19/SPDaniel Cilik MVDr, dar",,,,Matúš Cilik
+95,2023-04-17,20.0,Bezhotovostný príjem,Lively.sk s. r. o.,"/DO2023-04-17/SP, clenske Peter Rigo",,,,Lively.sk s. r. o.
+96,2023-04-17,30.0,Bezhotovostný príjem,Bednár Stanislav,/DO2023-04-16/SP,,,,Bednár Stanislav
+97,2023-04-17,30.0,Bezhotovostný príjem,Máteffy Alexander,/DO2023-04-15/SPdar,,,,Máteffy Alexander
+98,2023-04-17,20.0,Bezhotovostný príjem,"Teöke Roland, Ing.",/DO2023-04-15/SPRoland Teoke,,,,"Teöke Roland, Ing."
+99,2023-04-17,20.0,Bezhotovostný príjem,"Šubová Zuzana, Ing.",/DO2023-04-14/SPClenske rok 2023 O.Mistrik,,,,"Šubová Zuzana, Ing."
+100,2023-04-14,20.0,Vklad v hotovosti,členske 2023 - -Berceli,,0558,,,členske 2023 - -Berceli
+101,2023-04-14,30.0,Bezhotovostný príjem,JAN ZOLNA,/DO2023-04-13/SPZOLNA JAN CLENSKE,,,,JAN ZOLNA
+102,2023-04-14,20.0,Bezhotovostný príjem,Wimmer Štefan,/DO2023-04-13/SPStefan Wimmer clenske 2023,,,,Wimmer Štefan
+103,2023-04-14,80.0,Bezhotovostný príjem,Čarný Juraj,/DO2023-04-13/SPDar,,,,Čarný Juraj
+104,2023-04-14,20.0,Bezhotovostný príjem,Čarný Juraj,/DO2023-04-13/SPClenske za rok 2023,,,,Čarný Juraj
+105,2023-04-13,20.0,Bezhotovostný príjem,Křístek Kozárová And,/DO2023-04-12/SPclenske Andrea Kristek Kozarova,,,,Křístek Kozárová And
+106,2023-04-13,20.0,Bezhotovostný príjem,"RUGEVIT, S. R. O.",/DO2023-04-12/SPMaria Molnarova clenske 2023,,,,"RUGEVIT, S. R. O."
+107,2023-04-13,20.0,Bezhotovostný príjem,Marek Kvak,/DO2023-04-12/SP clenstvo 2023,,,,Marek Kvak
+108,2023-04-12,20.0,Bezhotovostný príjem,"Šubová Zuzana, Ing.",/DO2023-04-11/SPClenske pre rok 2023,,,,"Šubová Zuzana, Ing."
+109,2023-04-11,20.0,Bezhotovostný príjem,Uričová Eva,/DO2023-04-08/SPPiratska strana slovensko,,,,Uričová Eva
+110,2023-04-11,20.0,Bezhotovostný príjem,Bodo Tomáš,/DO2023-04-07/SPClenstvo za rok 2023,,,,Bodo Tomáš
+111,2023-04-11,20.0,Bezhotovostný príjem,Veronika Kvetáková,/DO2023-04-07/SPKvetakova Veronika - clenske za rok 2023,,,,Veronika Kvetáková
+112,2023-04-11,20.0,Bezhotovostný príjem,KACIREKOVA DAGMAR,/DO2023-04-11/SPclenske rok 2023,,,,KACIREKOVA DAGMAR
+113,2023-04-06,20.0,Bezhotovostný príjem,Beáta Drdáková,/DO2023-04-05/SPPavol Drdák-Členské,,,,Beáta Drdáková
+114,2023-04-06,20.0,Bezhotovostný príjem,Beáta Drdáková,/DO2023-04-05/SPBeáta Drdáková-Členské,,,,Beáta Drdáková
+115,2023-04-06,20.0,Bezhotovostný príjem,Július Vrábeľ,/DO2023-04-05/SPčlenske rok 2023,,,,Július Vrábeľ
+116,2023-04-05,20.0,Bezhotovostný príjem,Maxian Rosová Dajana,/DO2023-04-04/SPClenske DMR,,,,Maxian Rosová Dajana
+117,2023-04-05,20.0,Bezhotovostný príjem,Máteffy Alexander,/DO2023-04-04/SPclenske 2023,,,,Máteffy Alexander
+118,2023-04-05,20.0,Bezhotovostný príjem,Katarína Ringelband,/DO2023-04-04/SPČlenské KR,,,,Katarína Ringelband
+119,2023-04-04,20.0,Bezhotovostný príjem,DI Ladislav Rauchman,Sympatizanti E+L,,,,DI Ladislav Rauchman
+120,2023-03-28,20.0,Bezhotovostný príjem,Novotný Patrik,"/DO2023-03-27/SPPatrik Novotny clenske za 2023, Patrik Novotny clenske za 2023",,,,Novotný Patrik
+121,2023-03-21,20.0,Platba prevodom v rámci banky,"Pirek, Michal",M. Pírek  dar,,,,M. Pírek  dar
+122,2023-03-21,20.0,Platba prevodom v rámci banky,"Pirek, Michal",Michal Pírek členské za 2023,,,,Michal Pírek členské za 2023
+123,2023-02-22,40.0,Bezhotovostný príjem,RUDOLF MOLNAR,DAR,,,,RUDOLF MOLNAR
+124,2023-02-22,20.0,Bezhotovostný príjem,Magdaléna Šimeková,/DO2023-02-21/SPčlenské 2023 - Magdaléna Šebestová,,,,Magdaléna Šimeková
+125,2023-02-22,20.0,Bezhotovostný príjem,RUDOLF MOLNAR,,,,,RUDOLF MOLNAR

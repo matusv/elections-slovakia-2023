@@ -1,19 +1,20 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-06-19,-15000,EUR,,"Odoslaná platba elektronicky, uhrada zaloh. fakt 52023",
-1,2023-06-19,35000,EUR,Ing. Zsolt Simon,"Prijatá platba, Pozicka Simon",
-2,2023-06-01,-665,EUR,,"Odoslaná platba elektronicky, najom kanc. priest. 06","VS: 2302222306
+0,2023-06-27,-17000,EUR,,"Odoslaná platba elektronicky, volebna kaucia",VS: 52211479
+1,2023-06-19,-15000,EUR,,"Odoslaná platba elektronicky, uhrada zaloh. fakt 52023",
+2,2023-06-19,35000,EUR,Ing. Zsolt Simon,"Prijatá platba, Pozicka Simon",
+3,2023-06-01,-665,EUR,,"Odoslaná platba elektronicky, najom kanc. priest. 06","VS: 2302222306
 KS: 038"
-3,2023-06-01,-432,EUR,,"Odoslaná platba elektronicky, prenajom priestorov + technicke zariadenie","VS: 122300063
+4,2023-06-01,-432,EUR,,"Odoslaná platba elektronicky, prenajom priestorov + technicke zariadenie","VS: 122300063
 KS: 0308"
-4,2023-05-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.05.2023","VS: 495000150
+5,2023-05-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.05.2023","VS: 495000150
 ŠS: 5032139166
 KS: 6898"
-5,2023-05-26,-500,EUR,,"Odoslaná platba elektronicky, uhrada fakt.","VS: 230001
+6,2023-05-26,-500,EUR,,"Odoslaná platba elektronicky, uhrada fakt.","VS: 230001
 KS: 0308"
-6,2023-05-22,-665,EUR,,"Odoslaná platba elektronicky, kaucia na kanc. priest.",VS: 9923050002
-7,2023-05-16,-30000,EUR,,"Odoslaná platba elektronicky, zaloha na volebnu kampan 2023","VS: 42023
+7,2023-05-22,-665,EUR,,"Odoslaná platba elektronicky, kaucia na kanc. priest.",VS: 9923050002
+8,2023-05-16,-30000,EUR,,"Odoslaná platba elektronicky, zaloha na volebnu kampan 2023","VS: 42023
 KS: 308"
-8,2023-05-16,-620,EUR,,"Odoslaná platba elektronicky, najom knacelarie 05/23",VS: *********
-9,2023-05-15,20000,EUR,Ing. Zsolt Simon,"Prijatá platba, pozicka na vol.kampan 2023",
+9,2023-05-16,-620,EUR,,"Odoslaná platba elektronicky, najom knacelarie 05/23",VS: *********
 10,2023-05-15,20000,EUR,Ing. Zsolt Simon,"Prijatá platba, pozicka na vol.kampan 2023",
-11,2023-05-10,100,EUR,MAGYAR FORUM- MADARS,"Prijatá platba, pociatocny vklad transparent. uc.",
+11,2023-05-15,20000,EUR,Ing. Zsolt Simon,"Prijatá platba, pozicka na vol.kampan 2023",
+12,2023-05-10,100,EUR,MAGYAR FORUM- MADARS,"Prijatá platba, pociatocny vklad transparent. uc.",
