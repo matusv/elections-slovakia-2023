@@ -1,34 +1,35 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-07-06,8000,EUR,Pavel Macko,"Prijatá platba, Pozicka_volby2023_Macko_ODS",
-1,2023-07-06,1000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
-2,2023-07-06,2000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
-3,2023-07-06,4250,EUR,ODS - Obcianski demokrati Slovenska,"Prijatá platba, Dar v zmysle darovacej zmluvy",
-4,2023-07-04,2000,EUR,"Racko Vladimir, Mgr.","Prijatá platba, Za Regiony",
-5,2023-07-04,1000,EUR,Dominika Mikelova,"Prijatá platba, pozicka Ing . Miroslav Mikel SRK",
-6,2023-07-04,1000,EUR,Gabriela Radicova,"Prijatá platba, Gabriela Radicova -pozicka",VS: 1000
-7,2023-07-04,2000,EUR,Ingrid Lukacova,"Prijatá platba, Mgr.Ingrid Lukacova - pozicka",
-8,2023-07-04,-665,EUR,,"Odoslaná platba elektronicky, najom kanc. priest. 07","VS: 2302222306
+0,2023-07-07,500,EUR,ERIKA VAROSOVA,"Prijatá platba, ERIKA VAROSOVA, ZR",
+1,2023-07-06,8000,EUR,Pavel Macko,"Prijatá platba, Pozicka_volby2023_Macko_ODS",
+2,2023-07-06,1000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
+3,2023-07-06,2000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
+4,2023-07-06,4250,EUR,ODS - Obcianski demokrati Slovenska,"Prijatá platba, Dar v zmysle darovacej zmluvy",
+5,2023-07-04,2000,EUR,"Racko Vladimir, Mgr.","Prijatá platba, Za Regiony",
+6,2023-07-04,1000,EUR,Dominika Mikelova,"Prijatá platba, pozicka Ing . Miroslav Mikel SRK",
+7,2023-07-04,1000,EUR,Gabriela Radicova,"Prijatá platba, Gabriela Radicova -pozicka",VS: 1000
+8,2023-07-04,2000,EUR,Ingrid Lukacova,"Prijatá platba, Mgr.Ingrid Lukacova - pozicka",
+9,2023-07-04,-665,EUR,,"Odoslaná platba elektronicky, najom kanc. priest. 07","VS: 2302222306
 KS: 038"
-9,2023-06-30,-10,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
-10,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
+10,2023-06-30,-10,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
+11,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
 ŠS: 5032139166
 KS: 6898"
-11,2023-06-27,-17000,EUR,,"Odoslaná platba elektronicky, volebna kaucia",VS: 52211479
-12,2023-06-19,-15000,EUR,,"Odoslaná platba elektronicky, uhrada zaloh. fakt 52023",
-13,2023-06-19,35000,EUR,Ing. Zsolt Simon,"Prijatá platba, Pozicka Simon",
-14,2023-06-01,-665,EUR,,"Odoslaná platba elektronicky, najom kanc. priest. 06","VS: 2302222306
+12,2023-06-27,-17000,EUR,,"Odoslaná platba elektronicky, volebna kaucia",VS: 52211479
+13,2023-06-19,-15000,EUR,,"Odoslaná platba elektronicky, uhrada zaloh. fakt 52023",
+14,2023-06-19,35000,EUR,Ing. Zsolt Simon,"Prijatá platba, Pozicka Simon",
+15,2023-06-01,-665,EUR,,"Odoslaná platba elektronicky, najom kanc. priest. 06","VS: 2302222306
 KS: 038"
-15,2023-06-01,-432,EUR,,"Odoslaná platba elektronicky, prenajom priestorov + technicke zariadenie","VS: 122300063
+16,2023-06-01,-432,EUR,,"Odoslaná platba elektronicky, prenajom priestorov + technicke zariadenie","VS: 122300063
 KS: 0308"
-16,2023-05-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.05.2023","VS: 495000150
+17,2023-05-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.05.2023","VS: 495000150
 ŠS: 5032139166
 KS: 6898"
-17,2023-05-26,-500,EUR,,"Odoslaná platba elektronicky, uhrada fakt.","VS: 230001
+18,2023-05-26,-500,EUR,,"Odoslaná platba elektronicky, uhrada fakt.","VS: 230001
 KS: 0308"
-18,2023-05-22,-665,EUR,,"Odoslaná platba elektronicky, kaucia na kanc. priest.",VS: 9923050002
-19,2023-05-16,-30000,EUR,,"Odoslaná platba elektronicky, zaloha na volebnu kampan 2023","VS: 42023
+19,2023-05-22,-665,EUR,,"Odoslaná platba elektronicky, kaucia na kanc. priest.",VS: 9923050002
+20,2023-05-16,-30000,EUR,,"Odoslaná platba elektronicky, zaloha na volebnu kampan 2023","VS: 42023
 KS: 308"
-20,2023-05-16,-620,EUR,,"Odoslaná platba elektronicky, najom knacelarie 05/23",VS: *********
-21,2023-05-15,20000,EUR,Ing. Zsolt Simon,"Prijatá platba, pozicka na vol.kampan 2023",
+21,2023-05-16,-620,EUR,,"Odoslaná platba elektronicky, najom knacelarie 05/23",VS: *********
 22,2023-05-15,20000,EUR,Ing. Zsolt Simon,"Prijatá platba, pozicka na vol.kampan 2023",
-23,2023-05-10,100,EUR,MAGYAR FORUM- MADARS,"Prijatá platba, pociatocny vklad transparent. uc.",
+23,2023-05-15,20000,EUR,Ing. Zsolt Simon,"Prijatá platba, pozicka na vol.kampan 2023",
+24,2023-05-10,100,EUR,MAGYAR FORUM- MADARS,"Prijatá platba, pociatocny vklad transparent. uc.",
