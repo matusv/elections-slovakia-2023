@@ -487,9 +487,9 @@ index,date,amount,currency,account_name,message,vs
 485,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
 486,2023-04-11,-750.0,EUR,,EUR NÁKUP POS,
 487,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
-488,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
-489,2023-04-05,-30000.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
-490,2023-04-05,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/najom kancelaria 04 23,23174
+488,2023-04-05,-30000.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,busboard,citylight",1223202582
+489,2023-04-05,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/najom kancelaria 04 23,23174
+490,2023-04-05,-750.0,EUR,,EUR NÁKUP POS,
 491,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009
 492,2023-03-31,-0.0,EUR,,Poplatok za balík,
 493,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
