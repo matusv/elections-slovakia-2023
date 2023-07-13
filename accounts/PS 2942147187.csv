@@ -5,28 +5,28 @@ index,date,amount,currency,account_name,message,vs
 3,2023-07-11,-3500.0,EUR,Jan Kral,"PLATBA VA23071103291/kral, marketingove a komunikacne sluzby",
 4,2023-07-11,-1750.0,EUR,Jan Kral,"Platba OO23071100019081/Kral, marketingove a komunikacne sluzby",
 5,2023-07-11,500.0,EUR,HELLEBRANDT TOMAS,PLATBA,25
-6,2023-07-11,-1000.0,EUR,,EUR NÁKUP POS,
-7,2023-07-11,-343.27,EUR,,EUR NÁKUP POS,
-8,2023-07-11,-6.2,EUR,,POS nákup,
-9,2023-07-11,-110.2,EUR,,POS nákup,
-10,2023-07-11,-45.4,EUR,,EUR NÁKUP POS,
-11,2023-07-10,150.0,EUR,"Šubert Anton, Mgr.,",Platba/PS dar Anton Subert,2
-12,2023-07-10,500.0,EUR,"Pullman Ján, Ing.",Platba/PS dar Jan Pullman,73
-13,2023-07-10,500.0,EUR,Michaela Hinnerová,Platba/Kandidat Michaela Hinnerova,110
-14,2023-07-10,-2300.0,EUR,Chrťan Samuel,"Platba/Chrtan, marketingove sluzby",202306
-15,2023-07-10,-2500.0,EUR,Dávid Javorský,"Platba/Javorsky, foto a video",2023005
-16,2023-07-10,-4150.0,EUR,Gubka & Fish Media s,"Platba/Gubka, foto a video",2023040
-17,2023-07-10,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby",20230012
-18,2023-07-10,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacia",20230014
-19,2023-07-10,-2300.0,EUR,"DUBECI, MSC. MARTIN","Platba/Dubeci, poradenske sluzby komunikacia",230016
-20,2023-07-10,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby",2023001
-21,2023-07-10,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8
-22,2023-07-10,300.0,EUR,Livia Augustin Simanska,Platba,118
-23,2023-07-10,10.0,EUR,Ivona Zahorecova,Platba/PS dar Ivona Zahorecova,197600
-24,2023-07-10,310.0,EUR,"Toličová Jana, Mgr.",Platba/Dar Jana Tolicova,98
-25,2023-07-10,-750.0,EUR,,EUR NÁKUP POS,
-26,2023-07-10,-1000.0,EUR,,EUR NÁKUP POS,
-27,2023-07-10,-4.7,EUR,,POS nákup,
+6,2023-07-10,150.0,EUR,"Šubert Anton, Mgr.,",Platba/PS dar Anton Subert,2
+7,2023-07-10,500.0,EUR,"Pullman Ján, Ing.",Platba/PS dar Jan Pullman,73
+8,2023-07-10,500.0,EUR,Michaela Hinnerová,Platba/Kandidat Michaela Hinnerova,110
+9,2023-07-10,-2300.0,EUR,Chrťan Samuel,"Platba/Chrtan, marketingove sluzby",202306
+10,2023-07-10,-2500.0,EUR,Dávid Javorský,"Platba/Javorsky, foto a video",2023005
+11,2023-07-10,-4150.0,EUR,Gubka & Fish Media s,"Platba/Gubka, foto a video",2023040
+12,2023-07-10,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby",20230012
+13,2023-07-10,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacia",20230014
+14,2023-07-11,1000.0,EUR,LIPTAJ MICHAL,Platba PO23071150090948/Dar-Branislav Vanco-023,
+15,2023-07-11,1000.0,EUR,"Kocúr Miroslav, ThDr",Platba/PS dar Miroslav Kocur,49
+16,2023-07-11,-1080.0,EUR,"EDENcars, s. r. o.","Platba/Edencars, prenajom dodavky na jul",302300702
+17,2023-07-11,-3500.0,EUR,Jan Kral,"PLATBA VA23071103291/kral, marketingove a komunikacne sluzby",
+18,2023-07-11,-1750.0,EUR,Jan Kral,"Platba OO23071100019081/Kral, marketingove a komunikacne sluzby",
+19,2023-07-11,500.0,EUR,HELLEBRANDT TOMAS,PLATBA,25
+20,2023-07-11,-1000.0,EUR,,EUR NÁKUP POS,
+21,2023-07-11,-343.27,EUR,,EUR NÁKUP POS,
+22,2023-07-11,-6.2,EUR,,POS nákup,
+23,2023-07-11,-110.2,EUR,,POS nákup,
+24,2023-07-11,-45.4,EUR,,EUR NÁKUP POS,
+25,2023-07-10,150.0,EUR,"Šubert Anton, Mgr.,",Platba/PS dar Anton Subert,2
+26,2023-07-10,500.0,EUR,"Pullman Ján, Ing.",Platba/PS dar Jan Pullman,73
+27,2023-07-10,500.0,EUR,Michaela Hinnerová,Platba/Kandidat Michaela Hinnerova,110
 28,2023-07-10,-7.2,EUR,,POS nákup,
 29,2023-07-10,-59.8,EUR,,POS nákup,
 30,2023-07-10,-8.6,EUR,,POS nákup,
