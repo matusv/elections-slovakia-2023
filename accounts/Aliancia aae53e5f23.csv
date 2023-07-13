@@ -1,22 +1,27 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-07-12,2500,EUR,Tamas Ivan,"Prijatá platba, DAR-TAMAS IVAN",
-1,2023-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.07.2023","VS: 497000188
+0,2023-07-13,-85200,EUR,,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jul,august 2023",VS: 30230003
+1,2023-07-12,-684,EUR,,"Odoslaná platba elektronicky, Prenajom reklamnych panelov a dodanie tlace plagatov 08-09/2023",VS: 13120239
+2,2023-07-12,-1281.6,EUR,,"Odoslaná platba elektronicky, Poskytnutie reklamneho priestoru kampane za obdobie 01.08.2023 - 30.09.2023",VS: 23950179
+3,2023-07-12,-9600,EUR,,"Odoslaná platba elektronicky, Fotograficke sluzby",VS: 23700002
+4,2023-07-12,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 12072023
+5,2023-07-12,2500,EUR,Tamas Ivan,"Prijatá platba, DAR-TAMAS IVAN",
+6,2023-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.07.2023","VS: 497000188
 ŠS: 5032806830
 KS: 6898"
-2,2023-07-10,-751.53,EUR,,"Transakcia platobnou kartou, Suma: 751,53 EUR 06.07.2023 Miesto: FACEBK *KYRS3PFDA2 fb.me/ads","VS: 405000188
+7,2023-07-10,-751.53,EUR,,"Transakcia platobnou kartou, Suma: 751,53 EUR 06.07.2023 Miesto: FACEBK *KYRS3PFDA2 fb.me/ads","VS: 405000188
 ŠS: 5032806830
 KS: 0608"
-3,2023-07-04,-1580,EUR,,"Odoslaná platba elektronicky, Tlac propagacnych materialov",VS: 230084
-4,2023-07-04,-20502,EUR,,"Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456
-5,2023-06-30,-10,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
-6,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
+8,2023-07-04,-1580,EUR,,"Odoslaná platba elektronicky, Tlac propagacnych materialov",VS: 230084
+9,2023-07-04,-20502,EUR,,"Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456
+10,2023-06-30,-10,EUR,,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
+11,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
 ŠS: 5032806830
 KS: 6898"
-7,2023-06-30,-9000,EUR,,"Odoslaná platba elektronicky, Marketingove sluzby-billboardy-graficka uprava,sprostredkovanie prenajmu",VS: 20230121
-8,2023-06-26,-5620,EUR,,"Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
+12,2023-06-30,-9000,EUR,,"Odoslaná platba elektronicky, Marketingove sluzby-billboardy-graficka uprava,sprostredkovanie prenajmu",VS: 20230121
+13,2023-06-26,-5620,EUR,,"Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
 KS: 0308"
-9,2023-06-26,-5000,EUR,,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027
-10,2023-06-22,70000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023
-11,2023-06-06,-65954.4,EUR,,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204
-12,2023-05-25,-27000,EUR,,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001
-13,2023-05-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023
+14,2023-06-26,-5000,EUR,,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027
+15,2023-06-22,70000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023
+16,2023-06-06,-65954.4,EUR,,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204
+17,2023-05-25,-27000,EUR,,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001
+18,2023-05-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023
