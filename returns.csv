@@ -1,51 +1,51 @@
 index,index,date,amount,account_name,message,vs,name
-0,245,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
-1,244,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
-2,199,2023-05-16,-7082.4,DIW sro,Noviny sme rodina - doplatok DIW s.r.o.: ZF2023050003 - SME RODINA - 2023/05,2023050003.0,Sme Rodina
-3,144,2023-06-02,7082.4,DIW s.r.o.,vratenie mylnej platby,2023050003.0,Sme Rodina
-4,112,2023-06-21,-1.0,"Sukupčák Martin, Ing.",vrátenie,,Sme Rodina
-5,120,2023-06-16,1.0,"Sukupčák Martin, Ing.",Boris kup si kondomy hlupakov uz mame dost,,Sme Rodina
-6,520,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
-7,525,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
-8,521,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
-9,523,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
-10,515,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466.0,PS
-11,137,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),2202301466.0,PS
-12,394,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
-13,419,2023-05-17,30.0,Patrik Petráš,PLATBA,259288.0,PS
-14,392,2023-05-25,-50.0,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",,PS
-15,410,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,71028.0,PS
-16,342,2023-06-02,-2.0,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,,PS
-17,367,2023-05-31,2.0,"Wood Service, s.r.o.",Platba,,PS
-18,238,2023-05-17,-0.01,PAULINA SUTA,,,Hlas
-19,240,2023-05-09,0.01,PAULINA SUTA,... MAFIA ZLODEJSKA-,,Hlas
-20,237,2023-05-17,-0.01,LUBOMIR MORAVCIK,,,Hlas
-21,244,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
-22,236,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
-23,241,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-24,83,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-25,86,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
-26,54,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
-27,55,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
-28,31,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
-29,33,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
-30,15,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-31,16,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-32,43,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
-33,44,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
-34,34,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042,Republika
-35,22,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042,Republika
-36,31,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023,Republika
-37,23,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023,Republika
-38,7,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",,Republika
-39,12,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
-40,6,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
-41,17,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
-42,131,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
-43,148,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
-44,33,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
-45,73,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
-46,8,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
-47,92,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
+0,249,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
+1,248,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
+2,203,2023-05-16,-7082.4,DIW sro,Noviny sme rodina - doplatok DIW s.r.o.: ZF2023050003 - SME RODINA - 2023/05,2023050003.0,Sme Rodina
+3,148,2023-06-02,7082.4,DIW s.r.o.,vratenie mylnej platby,2023050003.0,Sme Rodina
+4,116,2023-06-21,-1.0,"Sukupčák Martin, Ing.",vrátenie,,Sme Rodina
+5,124,2023-06-16,1.0,"Sukupčák Martin, Ing.",Boris kup si kondomy hlupakov uz mame dost,,Sme Rodina
+6,533,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
+7,538,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
+8,534,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
+9,536,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
+10,528,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466.0,PS
+11,150,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),2202301466.0,PS
+12,407,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
+13,432,2023-05-17,30.0,Patrik Petráš,PLATBA,259288.0,PS
+14,405,2023-05-25,-50.0,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",,PS
+15,423,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,71028.0,PS
+16,355,2023-06-02,-2.0,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,,PS
+17,380,2023-05-31,2.0,"Wood Service, s.r.o.",Platba,,PS
+18,244,2023-05-17,-0.01,PAULINA SUTA,,,Hlas
+19,246,2023-05-09,0.01,PAULINA SUTA,... MAFIA ZLODEJSKA-,,Hlas
+20,243,2023-05-17,-0.01,LUBOMIR MORAVCIK,,,Hlas
+21,250,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
+22,242,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
+23,247,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
+24,90,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+25,93,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+26,61,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
+27,62,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
+28,38,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
+29,40,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
+30,22,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+31,23,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+32,49,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
+33,50,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
+34,40,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042,Republika
+35,28,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042,Republika
+36,37,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023,Republika
+37,29,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023,Republika
+38,13,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",,Republika
+39,18,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
+40,12,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
+41,23,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
+42,154,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
+43,171,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
+44,56,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
+45,96,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
+46,31,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
+47,115,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
 48,77,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
 49,34,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
