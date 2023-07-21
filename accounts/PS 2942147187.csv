@@ -12,7 +12,9 @@ index,date,amount,currency,account_name,message,vs
 10,2023-07-18,-10.0,EUR,,SPRAC.POPLATOK VI23071802857,
 11,2023-07-18,-472.38,EUR,giba cz px,PLATBA VI23071802857,
 12,2023-07-18,40.0,EUR,Pavel Melech,Platba/dar. Mgr. Jozef Baksa,85
-13,2023-07-18,25.0,EUR,Filip Vodicka,"
+13,2023-07-18,25.0,EUR,"
+                            Filip Vodicka
+                    ","
                         Platba
                     /
                         PS dar Filip Vodicka

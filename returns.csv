@@ -25,37 +25,37 @@ index,index,date,amount,account_name,message,vs,name
 23,289,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
 24,281,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
 25,286,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-26,100,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-27,103,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
-28,71,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
-29,72,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
-30,48,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
-31,50,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
-32,32,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-33,33,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-34,63,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
-35,64,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
-36,54,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042,Republika
-37,42,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042,Republika
-38,51,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023,Republika
-39,43,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023,Republika
-40,27,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",,Republika
-41,32,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
-42,26,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
-43,37,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
-44,271,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
-45,288,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
-46,173,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
-47,213,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
-48,148,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
-49,232,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
-50,45,2023-07-18,-700.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
-51,164,2023-07-12,700.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
-52,47,2023-07-18,-100.0,Spolocnost Jezisova,Vrátenie daru/ mylná platba,2023002213.0,KDH
-53,99,2023-07-16,100.0,Spolocnost Jezisova,Dar,2023002213.0,KDH
-54,46,2023-07-18,-500.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
-55,165,2023-07-12,500.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
-56,83,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
-57,40,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
-58,23,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
-59,1,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
+26,115,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+27,118,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+28,86,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
+29,87,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
+30,63,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
+31,65,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
+32,47,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+33,48,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+34,64,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
+35,65,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
+36,55,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042,Republika
+37,43,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042,Republika
+38,52,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023,Republika
+39,44,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023,Republika
+40,28,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",,Republika
+41,33,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
+42,27,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
+43,38,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
+44,272,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
+45,289,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
+46,174,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
+47,214,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
+48,149,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
+49,233,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
+50,46,2023-07-18,-700.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
+51,165,2023-07-12,700.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
+52,48,2023-07-18,-100.0,Spolocnost Jezisova,Vrátenie daru/ mylná platba,2023002213.0,KDH
+53,100,2023-07-16,100.0,Spolocnost Jezisova,Dar,2023002213.0,KDH
+54,47,2023-07-18,-500.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
+55,166,2023-07-12,500.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
+56,84,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
+57,41,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
+58,24,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
+59,2,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
