@@ -3,56 +3,16 @@ index,date,amount,currency,account_name,message,vs
 1,2023-07-22,15.0,EUR,Kollár Patrik,Platba,60019
 2,2023-07-21,50.0,EUR,Dr. Andreas Jusko,DE23072154734 204042307202AIP-/Dar pre Lenka Jusko,
 3,2023-07-21,20.0,EUR,Tomas Rudy,Platba,263475
-4,2023-07-20,3000.0,EUR,"Dvořák Oskar, Mgr.",Platba/dar Oskar Dvorak,13
-5,2023-07-20,-900.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby v admin time",30723
-6,2023-07-20,-194.4,EUR,"ISPA, spol. s r.o.","Platba/ISPA, bilboard 1ks na august, pollak",23950187
-7,2023-07-20,50.0,EUR,Kvasnickova Lucia,PLATBA,116
-8,2023-07-19,-253.2,EUR,"Pandan, s. r. o.","Platba/Pandan, letaky a plagaty",202307026
-9,2023-07-19,-1503.5,EUR,"
-                            LIONS & PARTNERS, a.s.
-                    ","
-                        Platba
-                    /
-                        lions&partners, energie kancelaria
-                    ","
-                        23366
-                    "
-10,2023-07-21,-1000.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS
-                    /
-                        
-                    ","
-                        
-                    "
-11,2023-07-19,500.0,EUR,"
-                            Jaroslav Sleboda
-                    ","
-                        Platba
-                    /
-                        Dar David Dej
-                    ","
-                        29
-                    "
-12,2023-07-21,-7.0,EUR,"
-                            
-                    ","
-                        POS nákup
-                    /
-                        
-                    ","
-                        
-                    "
-13,2023-07-19,500.0,EUR,"
-                            Turlik Vladimir
-                    ","
-                        PLATBA
-                    /
-                        PS dar Vladimir Turlik
-                    ","
-                        182953
-                    "
+4,2023-07-21,-1000.0,EUR,,EUR NÁKUP POS,
+5,2023-07-21,-7.0,EUR,,POS nákup,
+6,2023-07-20,3000.0,EUR,"Dvořák Oskar, Mgr.",Platba/dar Oskar Dvorak,13
+7,2023-07-20,-900.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby v admin time",30723
+8,2023-07-20,-194.4,EUR,"ISPA, spol. s r.o.","Platba/ISPA, bilboard 1ks na august, pollak",23950187
+9,2023-07-20,50.0,EUR,Kvasnickova Lucia,PLATBA,116
+10,2023-07-20,-800.0,EUR,,EUR NÁKUP POS,
+11,2023-07-20,-25.5,EUR,,POS nákup,
+12,2023-07-20,-800.0,EUR,,EUR NÁKUP POS,
+13,2023-07-19,-253.2,EUR,"Pandan, s. r. o.","Platba/Pandan, letaky a plagaty",202307026
 14,2023-07-19,-1503.5,EUR,"LIONS & PARTNERS, a.s.","Platba/lions&partners, energie kancelaria",23366
 15,2023-07-19,500.0,EUR,Jaroslav Sleboda,Platba/Dar David Dej,29
 16,2023-07-19,500.0,EUR,Turlik Vladimir,PLATBA/PS dar Vladimir Turlik,182953
