@@ -1,15 +1,17 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-07-24,-100.0,EUR,,EUR NÁKUP POS,
-1,2023-07-21,-450.0,EUR,NEMETH BORIS,Platba/portret foto podla zadania,62023
-2,2023-07-18,-300.0,EUR,,Platba/vizaz a uprava vlasov na fotenie,32023
-3,2023-07-17,-1800.0,EUR,CREA:THINK s. r. o.,Platba/Prave na webe 1. vast Uhrada fa 2023028,2023028
-4,2023-07-17,-143.25,EUR,,EUR NÁKUP POS,
-5,2023-07-11,-100.0,EUR,,EUR NÁKUP POS,
-6,2023-07-11,-100.0,EUR,,EUR NÁKUP POS,
-7,2023-07-10,-1000.0,EUR,Tomáš Meravý,Platba/ekonomicke poradenstvo T.Meravy,72023
-8,2023-07-03,-30.97,EUR,,EUR NÁKUP POS,
-9,2023-06-30,-19.0,EUR,,Poplatok za balík,
-10,2023-06-26,-100.0,EUR,,EUR NÁKUP POS,
-11,2023-06-19,-111.07,EUR,,EUR NÁKUP POS,
-12,2023-06-05,9000.0,EUR,ZA ĽUDÍ,Platba/Prevod fin prostriedkov z bezneho uctu ZA LUDI,5062023
-13,2023-05-31,-0.0,EUR,,Poplatok za balík,
+0,2023-07-25,-31794.0,EUR,HAVOC s.r.o.,Platba/PRODUKCIA A VYROBA TV SPOTU ZALOHA,20230064
+1,2023-07-25,91000.0,EUR,ZA ĽUDÍ,Platba/prevod prostriedkov z bezneho uctu strany ZA LUDI,25072023
+2,2023-07-24,-100.0,EUR,,EUR NÁKUP POS,
+3,2023-07-21,-450.0,EUR,NEMETH BORIS,Platba/portret foto podla zadania,62023
+4,2023-07-18,-300.0,EUR,,Platba/vizaz a uprava vlasov na fotenie,32023
+5,2023-07-17,-1800.0,EUR,CREA:THINK s. r. o.,Platba/Prave na webe 1. vast Uhrada fa 2023028,2023028
+6,2023-07-17,-143.25,EUR,,EUR NÁKUP POS,
+7,2023-07-11,-100.0,EUR,,EUR NÁKUP POS,
+8,2023-07-11,-100.0,EUR,,EUR NÁKUP POS,
+9,2023-07-10,-1000.0,EUR,Tomáš Meravý,Platba/ekonomicke poradenstvo T.Meravy,72023
+10,2023-07-03,-30.97,EUR,,EUR NÁKUP POS,
+11,2023-06-30,-19.0,EUR,,Poplatok za balík,
+12,2023-06-26,-100.0,EUR,,EUR NÁKUP POS,
+13,2023-06-19,-111.07,EUR,,EUR NÁKUP POS,
+14,2023-06-05,9000.0,EUR,ZA ĽUDÍ,Platba/Prevod fin prostriedkov z bezneho uctu ZA LUDI,5062023
+15,2023-05-31,-0.0,EUR,,Poplatok za balík,
