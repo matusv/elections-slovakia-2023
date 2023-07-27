@@ -6,69 +6,13 @@ index,date,amount,currency,account_name,message,vs
 4,2023-07-25,-1.0,EUR,PETER CHOMA,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
 5,2023-07-25,-200.0,EUR,KALINOVA EVA,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
 6,2023-07-25,1800.0,EUR,LIPTAJ MICHAL,Platba PO23072551624056/Dar-Branislav Vanco-023,
-7,2023-07-25,-3500.0,EUR,"
-                            Jan Kral
-                    ","
-                        PLATBA VA23072502050
-                    /
-                        Kral, marketingove a komunikacne sluzby jun
-                    ","
-                        
-                    "
-8,2023-07-25,-400.0,EUR,"
-                            SpozaVoza
-                    ","
-                        Platba
-                    /
-                        SpozaVoza, divadelne predstavenie zilina
-                    ","
-                        20230709
-                    "
-9,2023-07-24,900.0,EUR,"
-                            Kleinert Dana, Mgr.a
-                    ","
-                        Platba
-                    /
-                        PS dar Dana Kleinert
-                    ","
-                        28
-                    "
-10,2023-07-24,-63.0,EUR,"
-                            Mesto Martin
-                    ","
-                        Platba
-                    /
-                        mesto martin vyrubenie dane za uzivanie verejneho priestranstva 24.7
-                    ","
-                        51224836
-                    "
-11,2023-07-24,300.0,EUR,"
-                            Veronika Srobova
-                    ","
-                        Platba
-                    /
-                        Dar, Veronika Srobova
-                    ","
-                        32
-                    "
-12,2023-07-24,-180.0,EUR,"
-                            Ing. Alena Voštenáko
-                    ","
-                        Platba
-                    /
-                        emocia, prenajom priestorov zilina 19.7.
-                    ","
-                        202301
-                    "
-13,2023-07-24,-2300.0,EUR,"
-                            íčko s.r.o.
-                    ","
-                        Platba
-                    /
-                        icko, produkcne a organizacne prace jun
-                    ","
-                        20230005
-                    "
+7,2023-07-25,-3500.0,EUR,Jan Kral,"PLATBA VA23072502050/Kral, marketingove a komunikacne sluzby jun",
+8,2023-07-25,-400.0,EUR,SpozaVoza,"Platba/SpozaVoza, divadelne predstavenie zilina",20230709
+9,2023-07-25,-800.0,EUR,,EUR NÁKUP POS,
+10,2023-07-25,-114.68,EUR,,POS nákup,
+11,2023-07-25,-68.2,EUR,,POS nákup,
+12,2023-07-25,-1000.0,EUR,,EUR NÁKUP POS,
+13,2023-07-24,900.0,EUR,"Kleinert Dana, Mgr.a",Platba/PS dar Dana Kleinert,28
 14,2023-07-24,-63.0,EUR,Mesto Martin,Platba/mesto martin vyrubenie dane za uzivanie verejneho priestranstva 24.7,51224836
 15,2023-07-24,300.0,EUR,Veronika Srobova,"Platba/Dar, Veronika Srobova",32
 16,2023-07-24,-180.0,EUR,Ing. Alena Voštenáko,"Platba/emocia, prenajom priestorov zilina 19.7.",202301
@@ -538,16 +482,16 @@ index,date,amount,currency,account_name,message,vs
 480,2023-05-30,-750.0,EUR,,EUR NÁKUP POS,
 481,2023-05-30,-500.0,EUR,,EUR NÁKUP POS,
 482,2023-05-30,-800.0,EUR,,EUR NÁKUP POS,
-483,2023-05-29,-2046.3,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kanc.priestor- energie 04 23,23249
-484,2023-05-29,-191.9,EUR,"J+Z Bystrinaresort, s. r. o.",Platba/hotel bystrina progresivne slovensko 18-19.8.,
-485,2023-05-29,-19.9,EUR,"HAMA SLOVAKIA, SPOL.",Platba/stativ,72004
-486,2023-05-29,-1000.0,EUR,"NOLIS, s.r.o.",Platba/catering sluzby 24.05.2023,1123060
-487,2023-05-29,30.0,EUR,"Zaiček Martin, Mgr.a",Platba/PS dar Martin Zaicek,165900
-488,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
-489,2023-05-29,-133.0,EUR,,POS nákup,
-490,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
-491,2023-05-29,-1.79,EUR,,POS nákup,
-492,2023-05-29,-40.88,EUR,,POS nákup,
+483,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
+484,2023-05-29,-1.79,EUR,,POS nákup,
+485,2023-05-29,-40.88,EUR,,POS nákup,
+486,2023-05-29,-2046.3,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kanc.priestor- energie 04 23,23249
+487,2023-05-29,-191.9,EUR,"J+Z Bystrinaresort, s. r. o.",Platba/hotel bystrina progresivne slovensko 18-19.8.,
+488,2023-05-29,-19.9,EUR,"HAMA SLOVAKIA, SPOL.",Platba/stativ,72004
+489,2023-05-29,-1000.0,EUR,"NOLIS, s.r.o.",Platba/catering sluzby 24.05.2023,1123060
+490,2023-05-29,30.0,EUR,"Zaiček Martin, Mgr.a",Platba/PS dar Martin Zaicek,165900
+491,2023-05-29,-500.0,EUR,,EUR NÁKUP POS,
+492,2023-05-29,-133.0,EUR,,POS nákup,
 493,2023-05-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335
 494,2023-05-25,-50.0,EUR,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",
 495,2023-05-25,-500.0,EUR,,EUR NÁKUP POS,

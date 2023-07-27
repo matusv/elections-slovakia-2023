@@ -13,12 +13,12 @@ index,index,date,amount,account_name,message,vs,name
 11,627,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
 12,623,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
 13,625,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
-14,617,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466,PS
-15,239,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),2202301466,PS
+14,617,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466.0,PS
+15,239,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),2202301466.0,PS
 16,496,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
-17,521,2023-05-17,30.0,Patrik Petráš,PLATBA,259288,PS
+17,521,2023-05-17,30.0,Patrik Petráš,PLATBA,259288.0,PS
 18,494,2023-05-25,-50.0,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",,PS
-19,512,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,71028,PS
+19,512,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,71028.0,PS
 20,444,2023-06-02,-2.0,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,,PS
 21,469,2023-05-31,2.0,"Wood Service, s.r.o.",Platba,,PS
 22,3,2023-07-25,-100.0,Radovan Tisko,"Platba/vratenie daru podla 85/2005 z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS

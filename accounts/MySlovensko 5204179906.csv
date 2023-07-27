@@ -1,0 +1,8 @@
+index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
+0,0,Marketing House,2023-07-27,-840.0,EUR,0230727123224.123486,Okamžitá platba (EB),202300016.0,
+1,1,Strana,2023-07-27,4000.0,EUR,F001270720235561965,Bezhotovostný vklad,,
+2,2,Marketing House,2023-07-25,-480.0,EUR,0230725135638.110727,Okamžitá platba (EB),202300017.0,
+3,3,Panenka Štefan Ing.,2023-07-19,1000.0,EUR,F001190720230034466,Bezhotovostný vklad,,
+4,4,Panenka Štefan Ing.,2023-06-30,20.0,EUR,,Bezhotovostný vklad,,
+5,5,,2023-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+6,6,,2023-06-30,-0.83,EUR,Poplatok za vedenie účtu,Poplatok,,
