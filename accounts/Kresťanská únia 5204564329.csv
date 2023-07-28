@@ -1,4 +1,6 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,Krnáč Radoslav,2023-07-27,10.0,EUR,ku,Bezhotovostný vklad,,
-1,1,"KP consulting & services, s.r.o.",2023-07-19,-18000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),262023.0,
-2,2,Kresťanská únia,2023-07-18,20000.0,EUR,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,Bezhotovostný vklad,18072023.0,
+0,0,"euroAWK, spol. s r.o.",2023-07-28,-552.0,EUR,ZF - záloha na kampaň: PV SN,Platobný príkaz na úhradu / FIT 2.0 (EB),2370082.0,
+1,1,"ISPA, spol s r.o.",2023-07-28,-194.4,EUR,Poskytnutie priestoru na reklamných plochách,Platobný príkaz na úhradu / FIT 2.0 (EB),202302001.0,
+2,2,Krnáč Radoslav,2023-07-27,10.0,EUR,ku,Bezhotovostný vklad,,
+3,3,"KP consulting & services, s.r.o.",2023-07-19,-18000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),262023.0,
+4,4,Kresťanská únia,2023-07-18,20000.0,EUR,Prevod fin. prostriedkov z bežného účtu Kresťanská únia,Bezhotovostný vklad,18072023.0,
