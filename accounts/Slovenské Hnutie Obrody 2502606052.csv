@@ -1,41 +1,42 @@
 index,date,amount,tx_type,account_name,message,ks,vs,ss,note
-0,2023-07-28,11.0,Bezhotovostný príjem,IGOR PANAK,"/DO2023-07-27/SPPREVOD PROSTRIEDKOV - DAR, IGOR PANAK, KALINCIAKOVA 1759/27, SENEC 903 01",,,,IGOR PANAK
-1,2023-07-28,11.0,Bezhotovostný príjem,Milan Minjarik,"/DO2023-07-27/SPMilan Minjarik, Rovníková 3250/14, 821 02 Bratisla va, dar",,,,Milan Minjarik
-2,2023-07-27,11.0,Bezhotovostný príjem,TATIANA MINJARIKOVA,"/DO2023-07-26/SPTATIANA MINJARIKOVA, GERCENOVA 9, 85101 BRATISLAVA, DAR",,,,TATIANA MINJARIKOVA
-3,2023-07-27,11.0,Bezhotovostný príjem,DUSAN KSINSKY,"/DO2023-07-26/SPDUSAN KSINSKY, GERCENOVA 9, 851 01 BRATISLAVA, DAR",,,,DUSAN KSINSKY
-4,2023-07-27,70.0,Bezhotovostný príjem,Richard Székely,"/DO2023-07-26/SPDar. Richard Székely, inžinierska 22 , Košice",,,,Richard Székely
-5,2023-07-27,11.0,Bezhotovostný príjem,Bronislava Minjariko,"/DO2023-07-26/SPBronislava Minjariková, Pribišova 3099/2, 841 05 B ratislava, dar",,,,Bronislava Minjariko
-6,2023-07-27,11.0,Bezhotovostný príjem,Miroslav Pozník,"/DO2023-07-26/SPMiroslav Pozník ,Rozkvet 2064/139 , 01701 , Považs ká Bystrica , dar",,,,Miroslav Pozník
-7,2023-07-26,-324.0,Bezhotovostná platba,,"GRYF MEDIA s.r.o. -prenajom reklamn
+0,2023-07-31,20.0,Bezhotovostný príjem,Dáša Remperová,/DO2023-07-29/SP,,,,Dáša Remperová
+1,2023-07-28,11.0,Bezhotovostný príjem,IGOR PANAK,"/DO2023-07-27/SPPREVOD PROSTRIEDKOV - DAR, IGOR PANAK, KALINCIAKOVA 1759/27, SENEC 903 01",,,,IGOR PANAK
+2,2023-07-28,11.0,Bezhotovostný príjem,Milan Minjarik,"/DO2023-07-27/SPMilan Minjarik, Rovníková 3250/14, 821 02 Bratisla va, dar",,,,Milan Minjarik
+3,2023-07-27,11.0,Bezhotovostný príjem,TATIANA MINJARIKOVA,"/DO2023-07-26/SPTATIANA MINJARIKOVA, GERCENOVA 9, 85101 BRATISLAVA, DAR",,,,TATIANA MINJARIKOVA
+4,2023-07-27,11.0,Bezhotovostný príjem,DUSAN KSINSKY,"/DO2023-07-26/SPDUSAN KSINSKY, GERCENOVA 9, 851 01 BRATISLAVA, DAR",,,,DUSAN KSINSKY
+5,2023-07-27,70.0,Bezhotovostný príjem,Richard Székely,"/DO2023-07-26/SPDar. Richard Székely, inžinierska 22 , Košice",,,,Richard Székely
+6,2023-07-27,11.0,Bezhotovostný príjem,Bronislava Minjariko,"/DO2023-07-26/SPBronislava Minjariková, Pribišova 3099/2, 841 05 B ratislava, dar",,,,Bronislava Minjariko
+7,2023-07-27,11.0,Bezhotovostný príjem,Miroslav Pozník,"/DO2023-07-26/SPMiroslav Pozník ,Rozkvet 2064/139 , 01701 , Považs ká Bystrica , dar",,,,Miroslav Pozník
+8,2023-07-26,-324.0,Bezhotovostná platba,,"GRYF MEDIA s.r.o. -prenajom reklamn
 ych ploch",0308,23004,,GRYF MEDIA s.r.o. -prenajom reklamnych ploch
-8,2023-07-25,-234.0,Bezhotovostná platba,,Sluzby,0000,230297,0,GARMONDNITRA tlac letakov
-9,2023-07-25,11.0,Bezhotovostný príjem,DANIELA FRATRICOVA,"/DO2023-07-24/SPDAR, DANIELA FRATRICOVA, HURBANOVA 1A, LEOPOLDOV",,,,DANIELA FRATRICOVA
-10,2023-07-25,-11.0,Bezhotovostná platba,,Dzono Angelov Vratenie daru,,,,Džono Angelov Vratenie daru
-11,2023-07-25,35.0,Bezhotovostný príjem,Pavol Skýpala,/DO2023-07-24/SPDar - Pavol Skýpala Fučíkova 636/22 98701 Poltár,,,,Pavol Skýpala
-12,2023-07-24,11.0,Bezhotovostný príjem,PAVOL POPROCKY,"/DO2023-07-21/SPMGR. PAVOL POPROCKY, RUMINCE 36, 980 50, DAR",,,,PAVOL POPROCKY
-13,2023-07-24,11.0,Bezhotovostný príjem,Džono Angelov,/DO2023-07-24/SP Dar,,,,Džono Angelov
-14,2023-07-24,11.0,Bezhotovostný príjem,Chovan Galiková Zden,"/DO2023-07-22/SPZdenka Chovan Galikova, Srobarova 4, Poprad, DAR",,,,Chovan Galiková Zden
-15,2023-07-21,11.0,Bezhotovostný príjem,IGOR PANAK,"/DO2023-07-20/SPDAR, IGOR PANAK, KALINCIAKOVA 1759/27, SENEC 90301",,,,IGOR PANAK
-16,2023-07-20,11.0,Bezhotovostný príjem,PUKOVA MARIA,"/DO2023-07-19/SPKarol Puk Medvecke 72 Plave Vozokany, dar",,,,PUKOVA MARIA
-17,2023-07-19,-50.0,Bezhotovostná platba,,PETER VISNYI - VRATENIE DARU,,,,PETER VISNYI - VRATENIE DARU
-18,2023-07-19,22.0,Platba prevodom v rámci banky,"Szénasiová, Alžbeta","Alzbeta Szenasiova, Levice 93401, Polna 4,Dar",,,,"Alzbeta Szenasiova, Levice 93401, Polna 4,Dar"
-19,2023-07-19,50.0,Bezhotovostný príjem,PETER VISNYI,"/DO2023-07-18/SPPETER VISNYI, SPC H-46, KRNOV, CR, DAR, PREDVLEBNA KAMPAN",,,,PETER VISNYI
-20,2023-07-18,11.0,Platba prevodom v rámci banky,"Szénasiová, Alžbeta","Alzbeta Szenasiova, Levice 93401, Polna 4,Dar",,,,"Alzbeta Szenasiova, Levice 93401, Polna 4,Dar"
-21,2023-07-18,-11.0,Bezhotovostná platba,,Karol Puk VRATENIE DARU,,,,PUKOVA MARIA - KAROL PUK - VRATENIE DARU
-22,2023-07-18,11.0,Bezhotovostný príjem,PUKOVA MARIA,/DO2023-07-17/SPKarol Puk 11e,,,,PUKOVA MARIA
-23,2023-07-18,22.0,Bezhotovostný príjem,"Polician Gabriel, In",/DO2023-07-17/SPDar Gabriel Polician Postupimska31 Kosice,,,,"Polician Gabriel, In"
-24,2023-07-18,50.0,Bezhotovostný príjem,Emília Šovčíková,"/DO2023-07-17/SPŠovčíková Emília, Komenského 348, Nedožery-Brezany , DAR",0968,,,Emília Šovčíková
-25,2023-07-18,11.0,Bezhotovostný príjem,Radomír Pikna,"/DO2023-07-17/SP Radomir Pikna, Ivana Krasku 884/24, Leopoldov 920 41, DAR",,,,Radomír Pikna
-26,2023-07-18,30.0,Bezhotovostný príjem,TICHOMIROVA DANKA,"Dar D.Tichomirova SNP 130/16, Trencianske Teplice",,,,TICHOMIROVA DANKA
-27,2023-07-17,11.0,Bezhotovostný príjem,IGOR PANAK,"/DO2023-07-14/SPDAR, IGOR PANAK, KALINCIAKOVA 1759/27, SENEC 903 01",,,,IGOR PANAK
-28,2023-07-17,11.0,Bezhotovostný príjem,Marek Lesík,"/DO2023-07-17/SP Dar od Mareka Lesika, Osuskeho 3 C Bratislava 851 03",,,,Marek Lesík
-29,2023-07-17,11.0,Bezhotovostný príjem,Marián Chudý,/DO2023-07-15/SPMARIAN CHUDY EMILA SKAKALU 1761/10LEOPOLDOV 92041 DAR,,,,Marián Chudý
-30,2023-07-17,20.0,Bezhotovostný príjem,MATUSIK VLADIMIR,/DO2023-07-14/SPDAR Vladimir Matusik Upohlav 552 Udica,,,,MATUSIK VLADIMIR
-31,2023-07-17,20.0,Bezhotovostný príjem,Michal Kozák,"/DO2023-07-14/SPDar, Michal Kozák, Jaltská 17, Košice",,,,Michal Kozák
-32,2023-07-17,50.0,Bezhotovostný príjem,Tibor Šovčík,"/DO2023-07-14/SP Tibor Sovcik, Komenskeho 348/12 Nedozery Brezany, DAR",0968,,,Tibor Šovčík
-33,2023-07-14,-20.0,Bezhotovostná platba,,MATUSIK VLADIMIR - VRATENIE DARU,,,,MATUSIK VLADIMIR - VRATENIE DARU
-34,2023-07-14,20.0,Bezhotovostný príjem,MATUSIK VLADIMIR,/DO2023-07-13/SPDAR Vladimir Matusik,,,,MATUSIK VLADIMIR
-35,2023-07-13,-231.0,Bezhotovostná platba,,GARMOND Tlac letakov,0000,230291,0,GARMOND Tlac letakov
-36,2023-07-13,-146.4,Bezhotovostná platba,,,0308,20230261,,Výroba reklamnych predmetov
-37,2023-07-13,700.0,Platba prevodom v rámci banky,Slovenské Hnutie Obrody,Uhrada nakladov na volebnu kampan,,,,Uhrada nakladov na volebnu kampan
-38,2023-07-13,40.0,Bezhotovostný príjem,MARCEL POLACIK,DAR Stefan Polacik Schurmannova 1206/3 Nitra,,,,MARCEL POLACIK
+9,2023-07-25,-234.0,Bezhotovostná platba,,Sluzby,0000,230297,0,GARMONDNITRA tlac letakov
+10,2023-07-25,11.0,Bezhotovostný príjem,DANIELA FRATRICOVA,"/DO2023-07-24/SPDAR, DANIELA FRATRICOVA, HURBANOVA 1A, LEOPOLDOV",,,,DANIELA FRATRICOVA
+11,2023-07-25,-11.0,Bezhotovostná platba,,Dzono Angelov Vratenie daru,,,,Džono Angelov Vratenie daru
+12,2023-07-25,35.0,Bezhotovostný príjem,Pavol Skýpala,/DO2023-07-24/SPDar - Pavol Skýpala Fučíkova 636/22 98701 Poltár,,,,Pavol Skýpala
+13,2023-07-24,11.0,Bezhotovostný príjem,PAVOL POPROCKY,"/DO2023-07-21/SPMGR. PAVOL POPROCKY, RUMINCE 36, 980 50, DAR",,,,PAVOL POPROCKY
+14,2023-07-24,11.0,Bezhotovostný príjem,Džono Angelov,/DO2023-07-24/SP Dar,,,,Džono Angelov
+15,2023-07-24,11.0,Bezhotovostný príjem,Chovan Galiková Zden,"/DO2023-07-22/SPZdenka Chovan Galikova, Srobarova 4, Poprad, DAR",,,,Chovan Galiková Zden
+16,2023-07-21,11.0,Bezhotovostný príjem,IGOR PANAK,"/DO2023-07-20/SPDAR, IGOR PANAK, KALINCIAKOVA 1759/27, SENEC 90301",,,,IGOR PANAK
+17,2023-07-20,11.0,Bezhotovostný príjem,PUKOVA MARIA,"/DO2023-07-19/SPKarol Puk Medvecke 72 Plave Vozokany, dar",,,,PUKOVA MARIA
+18,2023-07-19,-50.0,Bezhotovostná platba,,PETER VISNYI - VRATENIE DARU,,,,PETER VISNYI - VRATENIE DARU
+19,2023-07-19,22.0,Platba prevodom v rámci banky,"Szénasiová, Alžbeta","Alzbeta Szenasiova, Levice 93401, Polna 4,Dar",,,,"Alzbeta Szenasiova, Levice 93401, Polna 4,Dar"
+20,2023-07-19,50.0,Bezhotovostný príjem,PETER VISNYI,"/DO2023-07-18/SPPETER VISNYI, SPC H-46, KRNOV, CR, DAR, PREDVLEBNA KAMPAN",,,,PETER VISNYI
+21,2023-07-18,11.0,Platba prevodom v rámci banky,"Szénasiová, Alžbeta","Alzbeta Szenasiova, Levice 93401, Polna 4,Dar",,,,"Alzbeta Szenasiova, Levice 93401, Polna 4,Dar"
+22,2023-07-18,-11.0,Bezhotovostná platba,,Karol Puk VRATENIE DARU,,,,PUKOVA MARIA - KAROL PUK - VRATENIE DARU
+23,2023-07-18,11.0,Bezhotovostný príjem,PUKOVA MARIA,/DO2023-07-17/SPKarol Puk 11e,,,,PUKOVA MARIA
+24,2023-07-18,22.0,Bezhotovostný príjem,"Polician Gabriel, In",/DO2023-07-17/SPDar Gabriel Polician Postupimska31 Kosice,,,,"Polician Gabriel, In"
+25,2023-07-18,50.0,Bezhotovostný príjem,Emília Šovčíková,"/DO2023-07-17/SPŠovčíková Emília, Komenského 348, Nedožery-Brezany , DAR",0968,,,Emília Šovčíková
+26,2023-07-18,11.0,Bezhotovostný príjem,Radomír Pikna,"/DO2023-07-17/SP Radomir Pikna, Ivana Krasku 884/24, Leopoldov 920 41, DAR",,,,Radomír Pikna
+27,2023-07-18,30.0,Bezhotovostný príjem,TICHOMIROVA DANKA,"Dar D.Tichomirova SNP 130/16, Trencianske Teplice",,,,TICHOMIROVA DANKA
+28,2023-07-17,11.0,Bezhotovostný príjem,IGOR PANAK,"/DO2023-07-14/SPDAR, IGOR PANAK, KALINCIAKOVA 1759/27, SENEC 903 01",,,,IGOR PANAK
+29,2023-07-17,11.0,Bezhotovostný príjem,Marek Lesík,"/DO2023-07-17/SP Dar od Mareka Lesika, Osuskeho 3 C Bratislava 851 03",,,,Marek Lesík
+30,2023-07-17,11.0,Bezhotovostný príjem,Marián Chudý,/DO2023-07-15/SPMARIAN CHUDY EMILA SKAKALU 1761/10LEOPOLDOV 92041 DAR,,,,Marián Chudý
+31,2023-07-17,20.0,Bezhotovostný príjem,MATUSIK VLADIMIR,/DO2023-07-14/SPDAR Vladimir Matusik Upohlav 552 Udica,,,,MATUSIK VLADIMIR
+32,2023-07-17,20.0,Bezhotovostný príjem,Michal Kozák,"/DO2023-07-14/SPDar, Michal Kozák, Jaltská 17, Košice",,,,Michal Kozák
+33,2023-07-17,50.0,Bezhotovostný príjem,Tibor Šovčík,"/DO2023-07-14/SP Tibor Sovcik, Komenskeho 348/12 Nedozery Brezany, DAR",0968,,,Tibor Šovčík
+34,2023-07-14,-20.0,Bezhotovostná platba,,MATUSIK VLADIMIR - VRATENIE DARU,,,,MATUSIK VLADIMIR - VRATENIE DARU
+35,2023-07-14,20.0,Bezhotovostný príjem,MATUSIK VLADIMIR,/DO2023-07-13/SPDAR Vladimir Matusik,,,,MATUSIK VLADIMIR
+36,2023-07-13,-231.0,Bezhotovostná platba,,GARMOND Tlac letakov,0000,230291,0,GARMOND Tlac letakov
+37,2023-07-13,-146.4,Bezhotovostná platba,,,0308,20230261,,Výroba reklamnych predmetov
+38,2023-07-13,700.0,Platba prevodom v rámci banky,Slovenské Hnutie Obrody,Uhrada nakladov na volebnu kampan,,,,Uhrada nakladov na volebnu kampan
+39,2023-07-13,40.0,Bezhotovostný príjem,MARCEL POLACIK,DAR Stefan Polacik Schurmannova 1206/3 Nitra,,,,MARCEL POLACIK
