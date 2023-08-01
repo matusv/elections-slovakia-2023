@@ -3,10 +3,32 @@ index,date,amount,currency,account_name,message,vs
 1,2023-07-28,5000.0,EUR,"Maar Stanislav, RNDr",Platba/darovacia zmluva kandidat 23 Vanco,
 2,2023-07-28,-1518.29,EUR,Turňová Diana,"Platba/Turnova, marketing a admin sluzby jul",40723
 3,2023-07-28,-350.0,EUR,Hotel Mamut s. r. o.,"Platba/mamut, prenajom priestorov poprad jul",7082023
-4,2023-07-28,199.0,EUR,Peter Pollák,PLATBA,147
-5,2023-07-28,50.0,EUR,ADAM ORMANDY,PLATBA/PS dar Adam Ormandy,258155
-6,2023-07-28,250.0,EUR,,VKLAD V HOTOVOSTI/Martina Žilková,38
-7,2023-07-27,-1000.0,EUR,Mestská časť Bratislava - Staré Mesto,"
+4,2023-07-28,199.0,EUR,Peter Pollák,"PLATBA/
+                        
+                    ","
+                        147
+                    "
+5,2023-07-28,50.0,EUR,"
+                            ADAM ORMANDY
+                    ","
+                        PLATBA
+                    /
+                        PS dar Adam Ormandy
+                    ","
+                        258155
+                    "
+6,2023-07-28,250.0,EUR,"
+                            
+                    ","
+                        VKLAD V HOTOVOSTI
+                    /
+                        Martina Žilková
+                    ","
+                        38
+                    "
+7,2023-07-27,-1000.0,EUR,"
+                            Mestská časť Bratislava - Staré Mesto
+                    ","
                         Platba
                     /
                         BA-Stare mesto, prenajom Pistoriho palac 25.7.
