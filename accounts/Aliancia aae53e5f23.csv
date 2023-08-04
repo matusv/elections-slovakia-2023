@@ -1,57 +1,63 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-07-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 4 x prijaté platby: 0,00, 20 x debet - elektronicky: 0,00",
-1,2023-07-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
+0,2023-08-04,-1,EUR,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023
+1,2023-08-04,-1,EUR,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023
+2,2023-08-03,1260,EUR,VARGA TIBOR,"Prijatá platba, Hajra Szovetseg",
+3,2023-08-03,1,EUR,GASPAROVA ZDENKA,"Prijatá platba, ",
+4,2023-08-03,-1430,EUR,Alena Jassova - Vydavatelstvo HELENA,"Odoslaná platba elektronicky, Politicka inzercia v parlamentnych volbach 9/2023 - Galantsky a Saliansky Zurnal, Surany infozurnal",VS: 23015
+5,2023-08-03,1,EUR,GASPAROVA ZDENKA,"Prijatá platba, ",
+6,2023-07-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 4 x prijaté platby: 0,00, 20 x debet - elektronicky: 0,00",
+7,2023-07-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
 ŠS: 5032806830
 KS: 6898"
-2,2023-07-31,-5376,EUR,"DUEL - PRESS, s.r.o.","Odoslaná platba elektronicky, Uverejnenie-specialny projekt UJ SZO 8,9/2023","VS: 7012300509
+8,2023-07-31,-5376,EUR,"DUEL - PRESS, s.r.o.","Odoslaná platba elektronicky, Uverejnenie-specialny projekt UJ SZO 8,9/2023","VS: 7012300509
 KS: 0308"
-3,2023-07-27,-3600,EUR,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Pera s potlacou",VS: 20230303
-4,2023-07-24,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.07.2023","VS: 497000204
+9,2023-07-27,-3600,EUR,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Pera s potlacou",VS: 20230303
+10,2023-07-24,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.07.2023","VS: 497000204
 ŠS: 5032806830
 KS: 6898"
-5,2023-07-24,-750,EUR,,"Transakcia platobnou kartou, Suma: 750 EUR 22.07.2023 Miesto: FACEBK T4BPKPFDA2 fb.me/ads","VS: 405000204
+11,2023-07-24,-750,EUR,,"Transakcia platobnou kartou, Suma: 750 EUR 22.07.2023 Miesto: FACEBK T4BPKPFDA2 fb.me/ads","VS: 405000204
 ŠS: 5032806830
 KS: 0608"
-6,2023-07-24,-156,EUR,"euroAWK, spol. s r.o.","Odoslaná platba elektronicky, Zaloha na kampan: PV Tamas",VS: 2370080
-7,2023-07-24,-60000,EUR,Obcianske zdruzenie PRO REGIA DANUBIA,"Odoslaná platba elektronicky, Naklady samplingovej kampane","VS: 052023
+12,2023-07-24,-156,EUR,"euroAWK, spol. s r.o.","Odoslaná platba elektronicky, Zaloha na kampan: PV Tamas",VS: 2370080
+13,2023-07-24,-60000,EUR,Obcianske zdruzenie PRO REGIA DANUBIA,"Odoslaná platba elektronicky, Naklady samplingovej kampane","VS: 052023
 KS: 0308"
-8,2023-07-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24072023
-9,2023-07-21,-3600,EUR,"WM Agentura, s.r.o.","Odoslaná platba elektronicky, Graficke prace,pocitacova priprava pre tlac a tlac propagacnych materialov",VS: 230097
-10,2023-07-21,-35000.4,EUR,H K Plus s.r.o. ICO: 51471965,"Odoslaná platba elektronicky, Prenajom billboardov na 7/2023",VS: 20230086
-11,2023-07-20,-10000,EUR,GRAPHIC s.r.o.,"Odoslaná platba elektronicky, Marketingove sluzby - volby NR SR 2023",VS: 20230149
-12,2023-07-20,-10000,EUR,InStar Digital s.r.o.,"Odoslaná platba elektronicky, Online reklama,videa,grafika- volby NR SR 2023",VS: 20230001
-13,2023-07-20,-6852.4,EUR,Veco-Mont s.r.o.,"Odoslaná platba elektronicky, Vyroba stanov - volby NR SR 2023",VS: 20230230
-14,2023-07-20,-2004,EUR,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230296
-15,2023-07-20,-2484,EUR,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230297
-16,2023-07-20,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 20072023
-17,2023-07-17,-1200,EUR,Csaladi Konyvklub s.r.o.,"Odoslaná platba elektronicky, Reklama v kataloge Csaladi Konyvklub 7,8/2023",VS: 231989
-18,2023-07-17,-10000,EUR,KPK Print s.r.o.,"Odoslaná platba elektronicky, Vyroba a tlac - Roll Up, plagaty,letaky","VS: 92307113
+14,2023-07-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24072023
+15,2023-07-21,-3600,EUR,"WM Agentura, s.r.o.","Odoslaná platba elektronicky, Graficke prace,pocitacova priprava pre tlac a tlac propagacnych materialov",VS: 230097
+16,2023-07-21,-35000.4,EUR,H K Plus s.r.o. ICO: 51471965,"Odoslaná platba elektronicky, Prenajom billboardov na 7/2023",VS: 20230086
+17,2023-07-20,-10000,EUR,GRAPHIC s.r.o.,"Odoslaná platba elektronicky, Marketingove sluzby - volby NR SR 2023",VS: 20230149
+18,2023-07-20,-10000,EUR,InStar Digital s.r.o.,"Odoslaná platba elektronicky, Online reklama,videa,grafika- volby NR SR 2023",VS: 20230001
+19,2023-07-20,-6852.4,EUR,Veco-Mont s.r.o.,"Odoslaná platba elektronicky, Vyroba stanov - volby NR SR 2023",VS: 20230230
+20,2023-07-20,-2004,EUR,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230296
+21,2023-07-20,-2484,EUR,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230297
+22,2023-07-20,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 20072023
+23,2023-07-17,-1200,EUR,Csaladi Konyvklub s.r.o.,"Odoslaná platba elektronicky, Reklama v kataloge Csaladi Konyvklub 7,8/2023",VS: 231989
+24,2023-07-17,-10000,EUR,KPK Print s.r.o.,"Odoslaná platba elektronicky, Vyroba a tlac - Roll Up, plagaty,letaky","VS: 92307113
 KS: 0008"
-19,2023-07-17,-2740.8,EUR,MultiMedia s.r.o.,"Odoslaná platba elektronicky, Vyroba papierovych tasiek s potlacou","VS: 230700027
+25,2023-07-17,-2740.8,EUR,MultiMedia s.r.o.,"Odoslaná platba elektronicky, Vyroba papierovych tasiek s potlacou","VS: 230700027
 KS: 0008"
-20,2023-07-13,-85200,EUR,H K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jul,august 2023",VS: 30230003
-21,2023-07-12,-684,EUR,"NUBIUM, s.r.o.","Odoslaná platba elektronicky, Prenajom reklamnych panelov a dodanie tlace plagatov 08-09/2023",VS: 13120239
-22,2023-07-12,-1281.6,EUR,"ISPA, spol.s r.o.","Odoslaná platba elektronicky, Poskytnutie reklamneho priestoru kampane za obdobie 01.08.2023 - 30.09.2023",VS: 23950179
-23,2023-07-12,-9600,EUR,"KANOVITS FINEART, s.r.o.","Odoslaná platba elektronicky, Fotograficke sluzby",VS: 23700002
-24,2023-07-12,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 12072023
-25,2023-07-12,2500,EUR,Tamas Ivan,"Prijatá platba, DAR-TAMAS IVAN",
-26,2023-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.07.2023","VS: 497000188
+26,2023-07-13,-85200,EUR,H K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jul,august 2023",VS: 30230003
+27,2023-07-12,-684,EUR,"NUBIUM, s.r.o.","Odoslaná platba elektronicky, Prenajom reklamnych panelov a dodanie tlace plagatov 08-09/2023",VS: 13120239
+28,2023-07-12,-1281.6,EUR,"ISPA, spol.s r.o.","Odoslaná platba elektronicky, Poskytnutie reklamneho priestoru kampane za obdobie 01.08.2023 - 30.09.2023",VS: 23950179
+29,2023-07-12,-9600,EUR,"KANOVITS FINEART, s.r.o.","Odoslaná platba elektronicky, Fotograficke sluzby",VS: 23700002
+30,2023-07-12,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 12072023
+31,2023-07-12,2500,EUR,Tamas Ivan,"Prijatá platba, DAR-TAMAS IVAN",
+32,2023-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.07.2023","VS: 497000188
 ŠS: 5032806830
 KS: 6898"
-27,2023-07-10,-751.53,EUR,,"Transakcia platobnou kartou, Suma: 751,53 EUR 06.07.2023 Miesto: FACEBK *KYRS3PFDA2 fb.me/ads","VS: 405000188
+33,2023-07-10,-751.53,EUR,,"Transakcia platobnou kartou, Suma: 751,53 EUR 06.07.2023 Miesto: FACEBK *KYRS3PFDA2 fb.me/ads","VS: 405000188
 ŠS: 5032806830
 KS: 0608"
-28,2023-07-04,-1580,EUR,"WM Agentura, s.r.o.","Odoslaná platba elektronicky, Tlac propagacnych materialov",VS: 230084
-29,2023-07-04,-20502,EUR,"DUEL - PRESS, s.r.o.","Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456
-30,2023-06-30,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
-31,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
+34,2023-07-04,-1580,EUR,"WM Agentura, s.r.o.","Odoslaná platba elektronicky, Tlac propagacnych materialov",VS: 230084
+35,2023-07-04,-20502,EUR,"DUEL - PRESS, s.r.o.","Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456
+36,2023-06-30,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
+37,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
 ŠS: 5032806830
 KS: 6898"
-32,2023-06-30,-9000,EUR,GRAPHIC s.r.o.,"Odoslaná platba elektronicky, Marketingove sluzby-billboardy-graficka uprava,sprostredkovanie prenajmu",VS: 20230121
-33,2023-06-26,-5620,EUR,"EGM, s.r.o.","Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
+38,2023-06-30,-9000,EUR,GRAPHIC s.r.o.,"Odoslaná platba elektronicky, Marketingove sluzby-billboardy-graficka uprava,sprostredkovanie prenajmu",VS: 20230121
+39,2023-06-26,-5620,EUR,"EGM, s.r.o.","Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
 KS: 0308"
-34,2023-06-26,-5000,EUR,Veco-Mont s.r.o.,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027
-35,2023-06-22,70000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023
-36,2023-06-06,-65954.4,EUR,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204
-37,2023-05-25,-27000,EUR,H K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001
-38,2023-05-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023
+40,2023-06-26,-5000,EUR,Veco-Mont s.r.o.,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027
+41,2023-06-22,70000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023
+42,2023-06-06,-65954.4,EUR,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204
+43,2023-05-25,-27000,EUR,H K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001
+44,2023-05-24,100000,EUR,SZOVETSEG - ALIANCIA,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023

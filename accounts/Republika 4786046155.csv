@@ -1,215 +1,218 @@
 index,date,amount,account_name,message,vs
-0,2023-08-03,800.0,Roman Hubert,"Roman Hubert, Lukovistia 226, (Dar)",740514
-1,2023-08-02,-30576.0,"euroAWK, spol. s.r.o.",kampan,2370098
-2,2023-08-02,-10495.87,"MARIGMA SK, s.r.o.",billboardova kampan,2023001
-3,2023-08-02,500.0,Maros Klika,"Maros Klika, Vranovska 1435/7, Stropkov, Dar.",
-4,2023-08-02,-482.4,Guldan-Studio s.r.o.,Prenajom rekl. plochy,23013
-5,2023-08-02,-54.0,"Miroslav Jiránek - BEPA, reklamná agentúra",polep,2023415
-6,2023-08-02,-400.0,Vranovčania pre šport a kultúru,prenajom reklamnej plochy,32023
-7,2023-08-02,-758.4,"K&S/advertising, s.r.o.",billboardy,372023
-8,2023-08-02,483.0,Fomenko Kuľa Ivan,"Ivan Fomenko Kula , Romanova 35 , 8t102 Bratislava - Dar",
-9,2023-08-02,-96.0,ARTON s.r.o.,billboard,230441
-10,2023-08-02,40000.0,Milan Mazurek,"Milan Mazurek, Kupelna 1303/70, 05901 Spisska Bela, pozicka",
-11,2023-08-02,400.0,Tomáš Špaček,"Tomas Spacek, Romanova 5, Bratislava. Dar",
-12,2023-08-02,1500.0,Ivana Slivkova,"JUDr. Ivana Slivkova, Figusa Bystreho 26, 974 01 Banska Bystrica; DAR",
-13,2023-08-02,300.0,Tomáš Špaček,"Tomas Spacek, Romanova 5, Bratislava. Dar",
-14,2023-08-01,-342.0,"BigMedia, spol. s.r.o.",billboardy,122390147
-15,2023-08-01,500.0,Kulašik Sylvia,"54 Sylvia Kulasik , Antona Bernolaka 1410/27, 0340 Ruzomberok, DAR.",
-16,2023-08-01,10.0,Stefan Hornak,"Hornak Stefan, Samuela Tesedika 5,Michalovce -dar",
-17,2023-08-01,-84.0,"BROART, s.r.o.",banner,20230138
-18,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,
-19,2023-08-01,-7128.0,"NUBIUM, s.r.o.",reklamne plochy,23085182
-20,2023-08-01,-84.0,Ing. Pavol Anderko - ANKO,billboard,230263
-21,2023-08-01,-1224.0,Ing. Pavol Anderko - ANKO,billboardy,230279
-22,2023-08-01,200.0,Tomáš Špaček,"Tomas Spacek, Romanova 5, Bratislava. Dar",
-23,2023-08-01,500.0,CHOVANAK LUKAS,"Lukas Chovanak, Hviezdoslavova 31, Sp. Bela - dar",
-24,2023-08-01,642.0,MORAVCIK IGOR,"Igor Moravcik, Radnicne nam. 5308/5D, 821 05 Bratislava - dar",
-25,2023-08-01,500.0,KOCIS EDUARD,"Eduard Kocis, Akad. Pavlova 316/8, Stropkov - dar",
-26,2023-08-01,500.0,DULEBOVA MARTINA,"Branislav Duleba, K. Porubka 27, Svidnik - dar",
-27,2023-08-01,7500.0,KECSKES JAN,"Jan Kecskes, Novozamocka 85/156, Nitra - dar",
-28,2023-08-01,500.0,ALICA MIKITOVICOVA,"Alica Mikitovicova, Nad Laborcom 6, Michalovce-dar",
-29,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723
-30,2023-08-01,500.0,Darina Nakatová,"Darina Nakatova, Licartovce c 240, 08203 - DAR",
-31,2023-08-01,500.0,Milan Mazurek,"Milan Mazurek, Kupelna 1303/70, Spisska Bela, dar",
-32,2023-07-31,-46.5,,Poplatky za platby spolu,9
-33,2023-07-31,-0.2,,Popl.za 1x elektronický výpis,9
-34,2023-07-31,-7.0,,Vedenie účtu,9
-35,2023-07-31,-2106.0,ALFA Reklama s.r.o.,billboardy,20231774
-36,2023-07-31,-4.0,Obec Brehy,Oznam v rozhlase,142023
-37,2023-07-31,-3600.0,ARTON s.r.o.,billboard,230436
-38,2023-07-31,-684.0,ARTON s.r.o.,plagaty,230437
-39,2023-07-31,500.0,Tomáš Senko,"Tomas Senko, Obchodna 8555/3A, 010 08 Zilina. Dar",
-40,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,
-41,2023-07-31,-20.0,Mesto Nová Baňa,vyhlasenie v rozhlase,1310300130
-42,2023-07-31,-900.0,iPlatforma s.r.o.,billboardy,2300039
-43,2023-07-31,500.0,Viera Rudľovská,"Ondrej Rudlovsky, Hatalov 90 - dar",160283
-44,2023-07-31,500.0,Alexandra Jašurková,"Ing. Alexandra Jasurkova, Bernolakova 17, 065 03 Podolinec, DAR",
-45,2023-07-31,500.0,"Kočišová Jana, Mgr. PhDr.","Jana Kocisova, Hviezdoslavova 163/50, Vranov n.T. - dar",
-46,2023-07-31,500.0,Ivona Kellnerová,"Ivona Kellnerova, Trieda 1 maja 11, Spisska Nova Ves , DAR",
-47,2023-07-31,2106.0,Bc.Miroslav Magdech,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, DAR",20231774
-48,2023-07-31,40000.0,Milan Mazurek,PÔŽIČKA - REPUBLIKA,
-49,2023-07-31,150.0,Jozef Týnus,"Ing. Jozef Tynus, Tehelna 5045/4, 984 01 Lucenec dar",
-50,2023-07-31,500.0,Jakub Hajduk,"Jakub Hajduk, Mlynarovce 105 - dar",
-51,2023-07-31,-30.0,Peter Adamec,Rezijny poplatok,20230038
-52,2023-07-31,500.0,Miroslav Urban,"Dar, Miroslav Urban, Stiavnicka 331, 03401, Zilinsky kraj",
-53,2023-07-31,1000.0,Terézia Kudla,"od JUDr. Terezia Kudla, Hradska20, 821 07 Bratislava, dar",1
-54,2023-07-31,-500.0,Tomáš Senko,Vratenie daru,
-55,2023-07-31,500.0,Tomáš Senko,Dar,
-56,2023-07-28,1000.0,Erika Švecová,"Erika Svecova , Narcisova 12 , Bratislava82101 , dar p",
-57,2023-07-28,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078007
-58,2023-07-28,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078001
-59,2023-07-28,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078006
-60,2023-07-28,-330.0,Vladimíra Mikušiaková,Vratenie daru,
-61,2023-07-28,-4424.02,Dataprint sk s.r.o.,"billboardy, bannery, plagaty",20230068
-62,2023-07-28,-54.0,"Miroslav Jiránek - BEPA, reklamná agentúra",prelep infografiky,2023385
-63,2023-07-28,-20.0,Obec Štós,prenajom saly,2331
-64,2023-07-28,1000.0,JURAJ KOREC,"JURAJ KOREC, ESTONSKA 42, BRATISLAVA 821 06 - DAR",
-65,2023-07-28,1000.0,Stanislav Záhumenský,"Ing.Ing.Mgr.Stanislav Zahumensky, Velke Lovce 505, 94142 - dar",
-66,2023-07-28,2760.0,ARTON s.r.o.,duplicitna uhrada (uhradene 17.7.),230390
-67,2023-07-28,30000.0,UHRIKOVA ZUZANA,"Zuzana Uhrikova, Hornocermanska 81, Nitra - Pozicka",
-68,2023-07-28,330.0,MIKUSIAKOVA VLADIMIR,"Vladimira Mikusiakova, Dopravna 6, BA - DAR",8258
-69,2023-07-28,-4956.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,23078
-70,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078017
-71,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078018
-72,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078016
-73,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078020
-74,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078021
-75,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078019
-76,2023-07-27,500.0,Martin Klepkoň,Martin Klepkon Brezovica Vysne Hrady 187/37 02801 Dar,
-77,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078002
-78,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078003
-79,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078004
-80,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078005
-81,2023-07-27,-144.0,"Amirp, spol. s r.o.",prenajom reklamnej plochy,23078002
-82,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078003
-83,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078002
-84,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078004
-85,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078005
-86,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078006
-87,2023-07-27,1000.0,FURDÍK FILIP,"Filip Furdik, Hlbinna 5, Bratislava 821 06 - dar",
-88,2023-07-27,1000.0,Simona Perrin Miklášová,"Simona Perrin Miklasova, Komarovska 10, Bratislava 82106 - dar",
-89,2023-07-27,-1370.4,Guldan-Studio s.r.o.,Prenajom rekl. plochy,23011
-90,2023-07-27,-5676.0,"NUBIUM, s.r.o.",reklamne panely jul 2023,23074411
-91,2023-07-27,-186.0,Lucia Baricakova - LB reklama,"Reklamny baner, letaky",1020230245
-92,2023-07-27,350.0,Jarmila Červeňanová,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,27072023
-93,2023-07-27,1000.0,Tekauer Štefan,"Stefan Tekauer, Hlbinna 7/B, 82106 Bratialava - dar",
-94,2023-07-27,-3786.0,"Imagewell, s.r.o.",baner,460230037
-95,2023-07-27,-5028.0,"Imagewell, s.r.o.",billboardy,460230036
-96,2023-07-27,230.0,Maslak Denis,"Denis Maslak,Cadca-Hurbanova 2306,jedna sa o DAR",
-97,2023-07-27,500.0,SIMOVA JANA,"Jana Simova, Nizna Revuca 71, Liptovske Revuce DAR",
-98,2023-07-27,672.0,MIKUSIAKOVA VLADIMIR,"Vladimira Mikusiakova, Dopravna 6, Bratislava DAR",8258
-99,2023-07-27,1000.0,"Zathurecká Petra, Mgr.","Petra Zathurecka, Horska 11/A, 83152 Bratislava - Dar",
-100,2023-07-27,1000.0,Reinhardt Alexandra,"Reinhardt Alexandra, Magurska 5, Poprad 05801 - dar",
-101,2023-07-27,-24.0,ARTON s.r.o.,plagaty,230336
-102,2023-07-27,-342.0,"BigMedia, spol. s.r.o.",reklamne sluzby,122390125
-103,2023-07-27,-1068.0,"Imagewell, s.r.o.",kampan,460230039
-104,2023-07-27,-720.0,"Imagewell, s.r.o.",tlac a vyves baneru,460230040
-105,2023-07-27,-4455.0,GRYF reklamné štúdio s.r.o.,bigboardy,20232551
-106,2023-07-27,-685.2,Confidence media SR. s.r.o.,billboardy,2321152
-107,2023-07-27,-6840.0,GRYF reklamné štúdio s.r.o.,prenajom rekl. ploch,20232550
-108,2023-07-26,-1896.0,K&S/advertising s.r.o.,prenajom billboardovych ploch,342023
-109,2023-07-26,11629.2,Viera MORAVČÍKOVÁ,VIERA MORAVČÍKOVA RADNIČNÉ NAM 53C8 5ID BRATISLAVA 82105-DAR,
-110,2023-07-26,-6000.0,Viera Moravčíková,"Vratenie platby, Igor Moravcik",
-111,2023-07-26,140.0,Jarmila Červeňanová,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,26072023
-112,2023-07-26,-480.0,Anton Toma TOMA s.r.o.,napolitanky s logom,230363
-113,2023-07-26,-672.0,"ISPA, spol. s.r.o.",poskytnutie reklamneho priestoru,23950202
-114,2023-07-26,-325.2,"BigMedia, spol. s.r.o.",Reklamne sluzby,122390138
-115,2023-07-26,-758.4,"K&S/advertising, s.r.o.",prenajom billboardovych ploch,352023
-116,2023-07-26,-1218.0,GRYF reklamné štúdio s.r.o.,prenajom a realizacia reklamnych ploch,23057
-117,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova lipova 50 ivanka pri dunaji 900 28 -DAR,
-118,2023-07-26,-1000.0,"Hilka Majkova Lucia, PhDr.",vratenie daru,
-119,2023-07-26,-30000.0,UHRIKOVA ZUZANA,vratenie platby,
-120,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",fin dar republika,
-121,2023-07-26,480.0,Jozef Sprlak,Jozef Sprlak Sucha Hora 37 dar,
-122,2023-07-25,6000.0,Viera Moravčíková,Igor Moravcik,
-123,2023-07-25,1000.0,Igor Macuch,"JUDr. Igor Macuch, Trnkova 13, 85110 Bratislava - dar",
-124,2023-07-25,1000.0,"Furdíková Miriam, Mgr.","Mgr.Miriam Furdikova,Hlbinna 5,Bratislava 821 06 - dar",
-125,2023-07-25,938.0,Martin Banik,"Martin Banik, Stara Bystrica 161, Stara Bystrica - dar",
-126,2023-07-25,2000.0,Juraj Trebuľa,"Juraj Trebula , snp 457/88 ,Budca DAR",
-127,2023-07-25,500.0,Sona Zyglinska,"Sona Zyglinska, Slnecna 162/11, 029 01 Namestovo- dar",
-128,2023-07-25,1218.0,Bc.Miroslav Magdech,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, dar",
-129,2023-07-25,1000.0,"Mrázek Pavol, Ing. arch.",Pavol Mrazek Astrova 2/A 82101 Bratislava DAR,
-130,2023-07-24,-192.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,23064
-131,2023-07-24,-72.0,ARTON s.r.o.,tlac plagatov,230405
-132,2023-07-24,-360.0,ARTON s.r.o.,prenajom reklamnych ploch,230404
-133,2023-07-24,-1000.0,"Mrazek Pavol, Ing. arch.",vratenie daru,
-134,2023-07-24,1000.0,"Mrázek Pavol, Ing. arch.",Financny dar kampan Lucia Hilka Majkova,9
-135,2023-07-24,624.0,Dusan Kisfalusi,"Dusan Kisfalusi, M.R.Stefanika 2600/3, Zvolen - DAR",
-136,2023-07-24,-326.0,"Hilka Majkova Lucia, PhDr.",Vratenie daru,
-137,2023-07-24,30000.0,UHRIKOVA ZUZANA,"ZUZANA UHRIKOVA, HORNOCERMANSKA 81",
-138,2023-07-24,326.0,"Hilka Majková Lucia, PhDr.",republika fin dar lucia hilka majkova volby,
-139,2023-07-21,30000.0,Mária Kopáčová,"Lukas Kopac, Dolne Trhoviste 246, 92061, pozicka",
-140,2023-07-21,200.0,Vlastimír Javorka,"Vlastimír Javorka, L. Svobodu 1, Banská Štiavnica; dar",
-141,2023-07-20,-868.82,Platba kartou,FACEBK P46VMQ3E fb.me/ads,****8125
-142,2023-07-20,100000.0,Milan Uhrík,"MILAN UHRÍK, HORNOČERMÁNSKA 81, NITRA - PÔŽIČKA",
-143,2023-07-20,-200.0,Vladimir Javorka,Vratenie daru,
-144,2023-07-20,-3.0,Obec Uhrovec,Oznamenie v rozhlase,202316
-145,2023-07-20,-2.0,Obec Podlužany,Vyhlasenie v rozhlase,72023
-146,2023-07-19,200.0,Vlastimir Javorka,"Darca, Vlastimir Javorka",
-147,2023-07-18,-48.88,FaxCopy a.s.,Graficke prace a tlac,2337266
-148,2023-07-18,-800.0,Peter Siran KAM-STAV,"najom, hudba, gilas, zabavne atrakcie",2023055
-149,2023-07-18,-414.0,ARTON s.r.o.,Najom billboardu,230335
-150,2023-07-18,-468.0,"RADOLSKY REKLAMA, s.r.o.",Bilboardvyroba a vylep,20230366
-151,2023-07-18,-60.0,"NUBIUM, s.r.o.",tlac plagatov 07/2023,23074794
-152,2023-07-18,-11856.0,"euroAWK, spol. s r.o.",billboardy 8/2023,2370063
-153,2023-07-18,-2760.0,ARTON s.r.o.,billboardy 8/2023,230390
-154,2023-07-14,-5568.0,"Imagewell, s.r.o.",kampan,460230034
-155,2023-07-14,-1200.0,33D s.r.o.,tvorba a uprava online obsahu,2322000098
-156,2023-07-14,-3099.0,W-Mont s.r.o.,montaz banerov,2023011
-157,2023-07-14,-331.2,ARTON s.r.o.,tlac plagatov,230391
-158,2023-07-14,-60.0,Mestske kulturne stredisko Levice,prenajom saly CK Junior,202310202
-159,2023-07-14,-2760.0,ARTON s.r.o.,bilbordy 08/2023,230390
-160,2023-07-14,13000.0,"Janco Andrej, MUDr.","Andrej Janco, Amurska 7,Kosice,dar",
-161,2023-07-14,-300.0,Jaroslav Vajda,prenajom priestorov Poprad,2023029
-162,2023-07-14,-979.2,RCS reklama s.r.o.,balony s potlacou,1020230407
-163,2023-07-13,5000.0,Oleksandra Markova,"DAR- PhDr Jan Marko Ipelska 5,Bratislava",
-164,2023-07-13,-10.5,Mesto Banovce nad Bebravou,vyhlasovanie oznamu v rozhlase,2023090
-165,2023-07-13,-291.0,Mesto Zarnovica,prenajom KD,9018300049
-166,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,
-167,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",
-168,2023-07-11,690.0,SADIBOL LUBOSLAV,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",
-169,2023-07-10,800.0,CHYLIK RIBONOVA MARI,"Mariana Chylik Ribonova, Zavodie 83, 023 54 Turzovka - dar",
-170,2023-07-07,-52.5,Kulturne a informacne centrum mesta Kremnica,prenajom MsKS velka sala,142023
-171,2023-07-07,-180.0,Dusan Kovac,prenajom priestorov Dudince,202309
-172,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,
-173,2023-07-06,-900.0,iPlatforma sro,"bigboard, billboardy 07/2023",2300035
-174,2023-07-06,-450.0,PZL,gravirovanie laserom USB,2023054
-175,2023-07-04,-13000.0,HandPlay sro,bilbordova kampan 07/2023,102023003
-176,2023-07-04,-3788.35,Dataprint sk s.r.o.,tlac bannerov,20230056
-177,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,
-178,2023-07-03,300.0,SADIBOL LUBOSLAV,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",
-179,2023-06-30,-7.44,,Poplatky za platby spolu,9
-180,2023-06-30,-0.2,,Popl.za 1x elektronický výpis,9
-181,2023-06-30,-7.0,,Vedenie účtu,9
-182,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042
-183,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023
-184,2023-06-21,-126.9,"Mestske sluzby Topolcany, sro",prenajom Domu kultury Topolcany,23090
-185,2023-06-21,-32.9,"Mestske sluzby Topolcany, sro",prenajom KD Velke Bedzany,23091
-186,2023-06-21,-11.0,Mesto Žarnovica,hlasenie v rozhlase,9019300048
-187,2023-06-20,-227.11,Platba kartou,FACEBK SZNJ7RXD fb.me/ads,****8125
-188,2023-06-19,-9.0,Obec Slepcany,prenajom KD,20230021
-189,2023-06-19,-57.0,Mesto Turcianske Teplice,prenajom kinosaly,5019300042
-190,2023-06-19,-39.0,"Mestske kulturne stredisko, NM",prenajom miestnosti MsKS Nove Mesto nad Vahom,2023072
-191,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023
-192,2023-06-19,-12.0,Mesto Partizánske,hlasenie v rozhlase,2023144
-193,2023-06-15,-11400.0,ARTON s.r.o.,prenajom reklamnych ploch 7/2023,230326
-194,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042
-195,2023-06-15,-15756.0,"euroAWK, spol. s.r.o.",reklamne plochy 7/2023,2370058
-196,2023-06-14,-660.0,"PZL, sro",pera znacenie laserom,2023049
-197,2023-06-12,5000.0,"AREC 16, s. r. o.","DAR - AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32
-198,2023-06-12,-900.0,iPlatforma sro,"bigboard, billboardy 06/2023",2300028
-199,2023-06-12,-84.0,Ing. Pavol Anderko - ANKO,prenajom billboardu 06/2023,230202
-200,2023-06-12,-63.0,"Frick, sro",prenajom priestorov,2023198
-201,2023-06-12,-99.0,Mesto Banovce nad Bebravou,prenajom priestorov KD,2023076
-202,2023-06-09,-1200.0,33D s.r.o.,Online reklama,2322000084
-203,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),
-204,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32
-205,2023-06-08,-3261.6,Guldan-Studio s.r.o.,Prenajom rekl. plochy,23008
-206,2023-06-08,3500.0,Matej Garaj,"Matej Garaj, Stvrt Ladislava Novomeskeho 1235/24, 97701 Brezno, DAR",
-207,2023-06-07,-3500.0,Martin Garaj,Vratenie platby,
-208,2023-06-05,3500.0,Matej Garaj,,
-209,2023-06-02,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
-210,2023-06-01,-14.0,,Ročný popl. Vydanie/obnova karty,8125
-211,2023-05-31,-0.18,,Poplatky za platby spolu,9
-212,2023-05-31,-7.0,,Vedenie účtu,9
-213,2023-05-29,1000.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
+0,2023-08-03,-118.5,Ľubomír Kuzma,"prenajom priestorov, obcerstvenie",20230234
+1,2023-08-03,-202.1,Mesto Žiar nad Hronom,najomne za divadelnu salu,1750075632
+2,2023-08-03,500.0,KELLER JOZEF,"J. Keller,Levoca,Czauczika 4 - dar",20823
+3,2023-08-03,800.0,Roman Hubert,"Roman Hubert, Lukovistia 226, (Dar)",740514
+4,2023-08-02,-30576.0,"euroAWK, spol. s.r.o.",kampan,2370098
+5,2023-08-02,-10495.87,"MARIGMA SK, s.r.o.",billboardova kampan,2023001
+6,2023-08-02,500.0,Maros Klika,"Maros Klika, Vranovska 1435/7, Stropkov, Dar.",
+7,2023-08-02,-482.4,Guldan-Studio s.r.o.,Prenajom rekl. plochy,23013
+8,2023-08-02,-54.0,"Miroslav Jiránek - BEPA, reklamná agentúra",polep,2023415
+9,2023-08-02,-400.0,Vranovčania pre šport a kultúru,prenajom reklamnej plochy,32023
+10,2023-08-02,-758.4,"K&S/advertising, s.r.o.",billboardy,372023
+11,2023-08-02,483.0,Fomenko Kuľa Ivan,"Ivan Fomenko Kula , Romanova 35 , 8t102 Bratislava - Dar",
+12,2023-08-02,-96.0,ARTON s.r.o.,billboard,230441
+13,2023-08-02,40000.0,Milan Mazurek,"Milan Mazurek, Kupelna 1303/70, 05901 Spisska Bela, pozicka",
+14,2023-08-02,400.0,Tomáš Špaček,"Tomas Spacek, Romanova 5, Bratislava. Dar",
+15,2023-08-02,1500.0,Ivana Slivkova,"JUDr. Ivana Slivkova, Figusa Bystreho 26, 974 01 Banska Bystrica; DAR",
+16,2023-08-02,300.0,Tomáš Špaček,"Tomas Spacek, Romanova 5, Bratislava. Dar",
+17,2023-08-01,-342.0,"BigMedia, spol. s.r.o.",billboardy,122390147
+18,2023-08-01,500.0,Kulašik Sylvia,"54 Sylvia Kulasik , Antona Bernolaka 1410/27, 0340 Ruzomberok, DAR.",
+19,2023-08-01,10.0,Stefan Hornak,"Hornak Stefan, Samuela Tesedika 5,Michalovce -dar",
+20,2023-08-01,-84.0,"BROART, s.r.o.",banner,20230138
+21,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,
+22,2023-08-01,-7128.0,"NUBIUM, s.r.o.",reklamne plochy,23085182
+23,2023-08-01,-84.0,Ing. Pavol Anderko - ANKO,billboard,230263
+24,2023-08-01,-1224.0,Ing. Pavol Anderko - ANKO,billboardy,230279
+25,2023-08-01,200.0,Tomáš Špaček,"Tomas Spacek, Romanova 5, Bratislava. Dar",
+26,2023-08-01,500.0,CHOVANAK LUKAS,"Lukas Chovanak, Hviezdoslavova 31, Sp. Bela - dar",
+27,2023-08-01,642.0,MORAVCIK IGOR,"Igor Moravcik, Radnicne nam. 5308/5D, 821 05 Bratislava - dar",
+28,2023-08-01,500.0,KOCIS EDUARD,"Eduard Kocis, Akad. Pavlova 316/8, Stropkov - dar",
+29,2023-08-01,500.0,DULEBOVA MARTINA,"Branislav Duleba, K. Porubka 27, Svidnik - dar",
+30,2023-08-01,7500.0,KECSKES JAN,"Jan Kecskes, Novozamocka 85/156, Nitra - dar",
+31,2023-08-01,500.0,ALICA MIKITOVICOVA,"Alica Mikitovicova, Nad Laborcom 6, Michalovce-dar",
+32,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723
+33,2023-08-01,500.0,Darina Nakatová,"Darina Nakatova, Licartovce c 240, 08203 - DAR",
+34,2023-08-01,500.0,Milan Mazurek,"Milan Mazurek, Kupelna 1303/70, Spisska Bela, dar",
+35,2023-07-31,-46.5,,Poplatky za platby spolu,9
+36,2023-07-31,-0.2,,Popl.za 1x elektronický výpis,9
+37,2023-07-31,-7.0,,Vedenie účtu,9
+38,2023-07-31,-2106.0,ALFA Reklama s.r.o.,billboardy,20231774
+39,2023-07-31,-4.0,Obec Brehy,Oznam v rozhlase,142023
+40,2023-07-31,-3600.0,ARTON s.r.o.,billboard,230436
+41,2023-07-31,-684.0,ARTON s.r.o.,plagaty,230437
+42,2023-07-31,500.0,Tomáš Senko,"Tomas Senko, Obchodna 8555/3A, 010 08 Zilina. Dar",
+43,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,
+44,2023-07-31,-20.0,Mesto Nová Baňa,vyhlasenie v rozhlase,1310300130
+45,2023-07-31,-900.0,iPlatforma s.r.o.,billboardy,2300039
+46,2023-07-31,500.0,Viera Rudľovská,"Ondrej Rudlovsky, Hatalov 90 - dar",160283
+47,2023-07-31,500.0,Alexandra Jašurková,"Ing. Alexandra Jasurkova, Bernolakova 17, 065 03 Podolinec, DAR",
+48,2023-07-31,500.0,"Kočišová Jana, Mgr. PhDr.","Jana Kocisova, Hviezdoslavova 163/50, Vranov n.T. - dar",
+49,2023-07-31,500.0,Ivona Kellnerová,"Ivona Kellnerova, Trieda 1 maja 11, Spisska Nova Ves , DAR",
+50,2023-07-31,2106.0,Bc.Miroslav Magdech,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, DAR",20231774
+51,2023-07-31,40000.0,Milan Mazurek,PÔŽIČKA - REPUBLIKA,
+52,2023-07-31,150.0,Jozef Týnus,"Ing. Jozef Tynus, Tehelna 5045/4, 984 01 Lucenec dar",
+53,2023-07-31,500.0,Jakub Hajduk,"Jakub Hajduk, Mlynarovce 105 - dar",
+54,2023-07-31,-30.0,Peter Adamec,Rezijny poplatok,20230038
+55,2023-07-31,500.0,Miroslav Urban,"Dar, Miroslav Urban, Stiavnicka 331, 03401, Zilinsky kraj",
+56,2023-07-31,1000.0,Terézia Kudla,"od JUDr. Terezia Kudla, Hradska20, 821 07 Bratislava, dar",1
+57,2023-07-31,-500.0,Tomáš Senko,Vratenie daru,
+58,2023-07-31,500.0,Tomáš Senko,Dar,
+59,2023-07-28,1000.0,Erika Švecová,"Erika Svecova , Narcisova 12 , Bratislava82101 , dar p",
+60,2023-07-28,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078007
+61,2023-07-28,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078001
+62,2023-07-28,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078006
+63,2023-07-28,-330.0,Vladimíra Mikušiaková,Vratenie daru,
+64,2023-07-28,-4424.02,Dataprint sk s.r.o.,"billboardy, bannery, plagaty",20230068
+65,2023-07-28,-54.0,"Miroslav Jiránek - BEPA, reklamná agentúra",prelep infografiky,2023385
+66,2023-07-28,-20.0,Obec Štós,prenajom saly,2331
+67,2023-07-28,1000.0,JURAJ KOREC,"JURAJ KOREC, ESTONSKA 42, BRATISLAVA 821 06 - DAR",
+68,2023-07-28,1000.0,Stanislav Záhumenský,"Ing.Ing.Mgr.Stanislav Zahumensky, Velke Lovce 505, 94142 - dar",
+69,2023-07-28,2760.0,ARTON s.r.o.,duplicitna uhrada (uhradene 17.7.),230390
+70,2023-07-28,30000.0,UHRIKOVA ZUZANA,"Zuzana Uhrikova, Hornocermanska 81, Nitra - Pozicka",
+71,2023-07-28,330.0,MIKUSIAKOVA VLADIMIR,"Vladimira Mikusiakova, Dopravna 6, BA - DAR",8258
+72,2023-07-28,-4956.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,23078
+73,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078017
+74,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078018
+75,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078016
+76,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078020
+77,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078021
+78,2023-07-28,-144.0,"FOOD FACTORING, s.r.o.",prenajom reklamnej plochy,23078019
+79,2023-07-27,500.0,Martin Klepkoň,Martin Klepkon Brezovica Vysne Hrady 187/37 02801 Dar,
+80,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078002
+81,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078003
+82,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078004
+83,2023-07-27,-144.0,"LUDO, spol. s r.o.",prenajom reklamnej plochy,23078005
+84,2023-07-27,-144.0,"Amirp, spol. s r.o.",prenajom reklamnej plochy,23078002
+85,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078003
+86,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078002
+87,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078004
+88,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078005
+89,2023-07-27,-144.0,PEMA spol. s r.o.,prenajom reklamnej plochy,23078006
+90,2023-07-27,1000.0,FURDÍK FILIP,"Filip Furdik, Hlbinna 5, Bratislava 821 06 - dar",
+91,2023-07-27,1000.0,Simona Perrin Miklášová,"Simona Perrin Miklasova, Komarovska 10, Bratislava 82106 - dar",
+92,2023-07-27,-1370.4,Guldan-Studio s.r.o.,Prenajom rekl. plochy,23011
+93,2023-07-27,-5676.0,"NUBIUM, s.r.o.",reklamne panely jul 2023,23074411
+94,2023-07-27,-186.0,Lucia Baricakova - LB reklama,"Reklamny baner, letaky",1020230245
+95,2023-07-27,350.0,Jarmila Červeňanová,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,27072023
+96,2023-07-27,1000.0,Tekauer Štefan,"Stefan Tekauer, Hlbinna 7/B, 82106 Bratialava - dar",
+97,2023-07-27,-3786.0,"Imagewell, s.r.o.",baner,460230037
+98,2023-07-27,-5028.0,"Imagewell, s.r.o.",billboardy,460230036
+99,2023-07-27,230.0,Maslak Denis,"Denis Maslak,Cadca-Hurbanova 2306,jedna sa o DAR",
+100,2023-07-27,500.0,SIMOVA JANA,"Jana Simova, Nizna Revuca 71, Liptovske Revuce DAR",
+101,2023-07-27,672.0,MIKUSIAKOVA VLADIMIR,"Vladimira Mikusiakova, Dopravna 6, Bratislava DAR",8258
+102,2023-07-27,1000.0,"Zathurecká Petra, Mgr.","Petra Zathurecka, Horska 11/A, 83152 Bratislava - Dar",
+103,2023-07-27,1000.0,Reinhardt Alexandra,"Reinhardt Alexandra, Magurska 5, Poprad 05801 - dar",
+104,2023-07-27,-24.0,ARTON s.r.o.,plagaty,230336
+105,2023-07-27,-342.0,"BigMedia, spol. s.r.o.",reklamne sluzby,122390125
+106,2023-07-27,-1068.0,"Imagewell, s.r.o.",kampan,460230039
+107,2023-07-27,-720.0,"Imagewell, s.r.o.",tlac a vyves baneru,460230040
+108,2023-07-27,-4455.0,GRYF reklamné štúdio s.r.o.,bigboardy,20232551
+109,2023-07-27,-685.2,Confidence media SR. s.r.o.,billboardy,2321152
+110,2023-07-27,-6840.0,GRYF reklamné štúdio s.r.o.,prenajom rekl. ploch,20232550
+111,2023-07-26,-1896.0,K&S/advertising s.r.o.,prenajom billboardovych ploch,342023
+112,2023-07-26,11629.2,Viera MORAVČÍKOVÁ,VIERA MORAVČÍKOVA RADNIČNÉ NAM 53C8 5ID BRATISLAVA 82105-DAR,
+113,2023-07-26,-6000.0,Viera Moravčíková,"Vratenie platby, Igor Moravcik",
+114,2023-07-26,140.0,Jarmila Červeňanová,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,26072023
+115,2023-07-26,-480.0,Anton Toma TOMA s.r.o.,napolitanky s logom,230363
+116,2023-07-26,-672.0,"ISPA, spol. s.r.o.",poskytnutie reklamneho priestoru,23950202
+117,2023-07-26,-325.2,"BigMedia, spol. s.r.o.",Reklamne sluzby,122390138
+118,2023-07-26,-758.4,"K&S/advertising, s.r.o.",prenajom billboardovych ploch,352023
+119,2023-07-26,-1218.0,GRYF reklamné štúdio s.r.o.,prenajom a realizacia reklamnych ploch,23057
+120,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova lipova 50 ivanka pri dunaji 900 28 -DAR,
+121,2023-07-26,-1000.0,"Hilka Majkova Lucia, PhDr.",vratenie daru,
+122,2023-07-26,-30000.0,UHRIKOVA ZUZANA,vratenie platby,
+123,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",fin dar republika,
+124,2023-07-26,480.0,Jozef Sprlak,Jozef Sprlak Sucha Hora 37 dar,
+125,2023-07-25,6000.0,Viera Moravčíková,Igor Moravcik,
+126,2023-07-25,1000.0,Igor Macuch,"JUDr. Igor Macuch, Trnkova 13, 85110 Bratislava - dar",
+127,2023-07-25,1000.0,"Furdíková Miriam, Mgr.","Mgr.Miriam Furdikova,Hlbinna 5,Bratislava 821 06 - dar",
+128,2023-07-25,938.0,Martin Banik,"Martin Banik, Stara Bystrica 161, Stara Bystrica - dar",
+129,2023-07-25,2000.0,Juraj Trebuľa,"Juraj Trebula , snp 457/88 ,Budca DAR",
+130,2023-07-25,500.0,Sona Zyglinska,"Sona Zyglinska, Slnecna 162/11, 029 01 Namestovo- dar",
+131,2023-07-25,1218.0,Bc.Miroslav Magdech,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, dar",
+132,2023-07-25,1000.0,"Mrázek Pavol, Ing. arch.",Pavol Mrazek Astrova 2/A 82101 Bratislava DAR,
+133,2023-07-24,-192.0,GRYF reklamné štúdio s.r.o.,reklamne plochy,23064
+134,2023-07-24,-72.0,ARTON s.r.o.,tlac plagatov,230405
+135,2023-07-24,-360.0,ARTON s.r.o.,prenajom reklamnych ploch,230404
+136,2023-07-24,-1000.0,"Mrazek Pavol, Ing. arch.",vratenie daru,
+137,2023-07-24,1000.0,"Mrázek Pavol, Ing. arch.",Financny dar kampan Lucia Hilka Majkova,9
+138,2023-07-24,624.0,Dusan Kisfalusi,"Dusan Kisfalusi, M.R.Stefanika 2600/3, Zvolen - DAR",
+139,2023-07-24,-326.0,"Hilka Majkova Lucia, PhDr.",Vratenie daru,
+140,2023-07-24,30000.0,UHRIKOVA ZUZANA,"ZUZANA UHRIKOVA, HORNOCERMANSKA 81",
+141,2023-07-24,326.0,"Hilka Majková Lucia, PhDr.",republika fin dar lucia hilka majkova volby,
+142,2023-07-21,30000.0,Mária Kopáčová,"Lukas Kopac, Dolne Trhoviste 246, 92061, pozicka",
+143,2023-07-21,200.0,Vlastimír Javorka,"Vlastimír Javorka, L. Svobodu 1, Banská Štiavnica; dar",
+144,2023-07-20,-868.82,Platba kartou,FACEBK P46VMQ3E fb.me/ads,****8125
+145,2023-07-20,100000.0,Milan Uhrík,"MILAN UHRÍK, HORNOČERMÁNSKA 81, NITRA - PÔŽIČKA",
+146,2023-07-20,-200.0,Vladimir Javorka,Vratenie daru,
+147,2023-07-20,-3.0,Obec Uhrovec,Oznamenie v rozhlase,202316
+148,2023-07-20,-2.0,Obec Podlužany,Vyhlasenie v rozhlase,72023
+149,2023-07-19,200.0,Vlastimir Javorka,"Darca, Vlastimir Javorka",
+150,2023-07-18,-48.88,FaxCopy a.s.,Graficke prace a tlac,2337266
+151,2023-07-18,-800.0,Peter Siran KAM-STAV,"najom, hudba, gilas, zabavne atrakcie",2023055
+152,2023-07-18,-414.0,ARTON s.r.o.,Najom billboardu,230335
+153,2023-07-18,-468.0,"RADOLSKY REKLAMA, s.r.o.",Bilboardvyroba a vylep,20230366
+154,2023-07-18,-60.0,"NUBIUM, s.r.o.",tlac plagatov 07/2023,23074794
+155,2023-07-18,-11856.0,"euroAWK, spol. s r.o.",billboardy 8/2023,2370063
+156,2023-07-18,-2760.0,ARTON s.r.o.,billboardy 8/2023,230390
+157,2023-07-14,-5568.0,"Imagewell, s.r.o.",kampan,460230034
+158,2023-07-14,-1200.0,33D s.r.o.,tvorba a uprava online obsahu,2322000098
+159,2023-07-14,-3099.0,W-Mont s.r.o.,montaz banerov,2023011
+160,2023-07-14,-331.2,ARTON s.r.o.,tlac plagatov,230391
+161,2023-07-14,-60.0,Mestske kulturne stredisko Levice,prenajom saly CK Junior,202310202
+162,2023-07-14,-2760.0,ARTON s.r.o.,bilbordy 08/2023,230390
+163,2023-07-14,13000.0,"Janco Andrej, MUDr.","Andrej Janco, Amurska 7,Kosice,dar",
+164,2023-07-14,-300.0,Jaroslav Vajda,prenajom priestorov Poprad,2023029
+165,2023-07-14,-979.2,RCS reklama s.r.o.,balony s potlacou,1020230407
+166,2023-07-13,5000.0,Oleksandra Markova,"DAR- PhDr Jan Marko Ipelska 5,Bratislava",
+167,2023-07-13,-10.5,Mesto Banovce nad Bebravou,vyhlasovanie oznamu v rozhlase,2023090
+168,2023-07-13,-291.0,Mesto Zarnovica,prenajom KD,9018300049
+169,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,
+170,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",
+171,2023-07-11,690.0,SADIBOL LUBOSLAV,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",
+172,2023-07-10,800.0,CHYLIK RIBONOVA MARI,"Mariana Chylik Ribonova, Zavodie 83, 023 54 Turzovka - dar",
+173,2023-07-07,-52.5,Kulturne a informacne centrum mesta Kremnica,prenajom MsKS velka sala,142023
+174,2023-07-07,-180.0,Dusan Kovac,prenajom priestorov Dudince,202309
+175,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,
+176,2023-07-06,-900.0,iPlatforma sro,"bigboard, billboardy 07/2023",2300035
+177,2023-07-06,-450.0,PZL,gravirovanie laserom USB,2023054
+178,2023-07-04,-13000.0,HandPlay sro,bilbordova kampan 07/2023,102023003
+179,2023-07-04,-3788.35,Dataprint sk s.r.o.,tlac bannerov,20230056
+180,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,
+181,2023-07-03,300.0,SADIBOL LUBOSLAV,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",
+182,2023-06-30,-7.44,,Poplatky za platby spolu,9
+183,2023-06-30,-0.2,,Popl.za 1x elektronický výpis,9
+184,2023-06-30,-7.0,,Vedenie účtu,9
+185,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042
+186,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023
+187,2023-06-21,-126.9,"Mestske sluzby Topolcany, sro",prenajom Domu kultury Topolcany,23090
+188,2023-06-21,-32.9,"Mestske sluzby Topolcany, sro",prenajom KD Velke Bedzany,23091
+189,2023-06-21,-11.0,Mesto Žarnovica,hlasenie v rozhlase,9019300048
+190,2023-06-20,-227.11,Platba kartou,FACEBK SZNJ7RXD fb.me/ads,****8125
+191,2023-06-19,-9.0,Obec Slepcany,prenajom KD,20230021
+192,2023-06-19,-57.0,Mesto Turcianske Teplice,prenajom kinosaly,5019300042
+193,2023-06-19,-39.0,"Mestske kulturne stredisko, NM",prenajom miestnosti MsKS Nove Mesto nad Vahom,2023072
+194,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023
+195,2023-06-19,-12.0,Mesto Partizánske,hlasenie v rozhlase,2023144
+196,2023-06-15,-11400.0,ARTON s.r.o.,prenajom reklamnych ploch 7/2023,230326
+197,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042
+198,2023-06-15,-15756.0,"euroAWK, spol. s.r.o.",reklamne plochy 7/2023,2370058
+199,2023-06-14,-660.0,"PZL, sro",pera znacenie laserom,2023049
+200,2023-06-12,5000.0,"AREC 16, s. r. o.","DAR - AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32
+201,2023-06-12,-900.0,iPlatforma sro,"bigboard, billboardy 06/2023",2300028
+202,2023-06-12,-84.0,Ing. Pavol Anderko - ANKO,prenajom billboardu 06/2023,230202
+203,2023-06-12,-63.0,"Frick, sro",prenajom priestorov,2023198
+204,2023-06-12,-99.0,Mesto Banovce nad Bebravou,prenajom priestorov KD,2023076
+205,2023-06-09,-1200.0,33D s.r.o.,Online reklama,2322000084
+206,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),
+207,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32
+208,2023-06-08,-3261.6,Guldan-Studio s.r.o.,Prenajom rekl. plochy,23008
+209,2023-06-08,3500.0,Matej Garaj,"Matej Garaj, Stvrt Ladislava Novomeskeho 1235/24, 97701 Brezno, DAR",
+210,2023-06-07,-3500.0,Martin Garaj,Vratenie platby,
+211,2023-06-05,3500.0,Matej Garaj,,
+212,2023-06-02,100000.0,REPUBLIKA,prevod prostriedkov na transparentny ucet,
+213,2023-06-01,-14.0,,Ročný popl. Vydanie/obnova karty,8125
+214,2023-05-31,-0.18,,Poplatky za platby spolu,9
+215,2023-05-31,-7.0,,Vedenie účtu,9
+216,2023-05-29,1000.0,ANTAL VLADIMIR,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",
