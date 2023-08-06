@@ -1,6 +1,7 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-07-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00",
-1,2023-07-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
+0,2023-08-04,800,EUR,Marian Liptak,"Prijatá platba, ",ŠS: 4001899308
+1,2023-07-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00",
+2,2023-07-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
 ŠS: 5032809677
 KS: 6898"
-2,2023-06-27,111,EUR,KLASICO S.R.O.,"Prijatá platba, ",
+3,2023-06-27,111,EUR,KLASICO S.R.O.,"Prijatá platba, ",
