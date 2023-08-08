@@ -10,135 +10,23 @@ index,date,amount,currency,account_name,message,vs
 8,2023-08-04,20.0,EUR,Vnutorny ucet banky,"PLATBA/CZ9401000001159879250297,KOVACIC KAROL,",
 9,2023-08-04,4000.0,EUR,PETRIK SIMONA,PLATBA/Dar,8
 10,2023-08-04,100.0,EUR,"Cifra Matej, Mgr.",Platba/Ondrej Prostrednik,
-11,2023-08-03,-2300.0,EUR,Chrťan Samuel,"Platba/chrtan, marketingove sluzby jul",202307
-12,2023-08-03,-86.8,EUR,MONSTERS CAFE AND BA,"Platba/Monsters cafe, konzum podujatie 31.7.",20230044
-13,2023-08-03,-320.0,EUR,REŠTAURÁCIA MERIDIANA S.R.O.,"Platba/Meridiana, priestory Bojnice 2.8.",23249
-14,2023-08-03,-400.0,EUR,"
-                            House of Art s.r.o.
-                    ","
-                        Platba
-                    /
-                        house of art, priestory Nitra 16.8.
-                    ","
-                        62023
-                    "
-15,2023-08-03,-2300.0,EUR,"
-                            DUBECI, MSC. MARTIN
-                    ","
-                        Platba
-                    /
-                        dubeci, poradenske sluzby komunikacia jul
-                    ","
-                        230018
-                    "
-16,2023-08-03,-1250.0,EUR,"
-                            Marek Brezovsky
-                    ","
-                        Platba
-                    /
-                        Brezovsky, marketingove sluzby koordinatora jul
-                    ","
-                        2023002
-                    "
-17,2023-08-03,-1000.0,EUR,"
-                            Marek Brezovsky
-                    ","
-                        Platba
-                    /
-                        Brezovsky, marketingove sluzby koordinatora jun
-                    ","
-                        2023001
-                    "
-18,2023-08-03,-150.0,EUR,"
-                            Orvoš Dominik
-                    ","
-                        Platba
-                    /
-                        Orgos, vizazisticke sluzby
-                    ","
-                        20230029
-                    "
-19,2023-08-03,-300.0,EUR,"
-                            Gavenda Daniel
-                    ","
-                        Platba
-                    /
-                        Gavenda, postprodukcia video jaurova
-                    ","
-                        2023017
-                    "
-20,2023-08-03,-480.0,EUR,"
-                            Samuel Škubla
-                    ","
-                        Platba
-                    /
-                        Skubla, zvuk a postprodukcia video spot Jaurova
-                    ","
-                        202318
-                    "
-21,2023-08-03,-80.0,EUR,"
-                            
-                    ","
-                        Platba
-                    /
-                        HZS, reklama kezmarske noviny A6 07/2023
-                    ","
-                        72023
-                    "
-22,2023-08-03,-3300.0,EUR,"
-                            Dančiak Martin
-                    ","
-                        Platba
-                    /
-                        Danciak, marketingove sluzby jul
-                    ","
-                        2023005
-                    "
-23,2023-08-03,100000.0,EUR,"
-                            Progresívne Slov.
-                    ","
-                        Platba
-                    /
-                        prevod medzi uctami
-                    ","
-                        
-                    "
-24,2023-08-03,50.0,EUR,"
-                            MATLON MICHAL
-                    ","
-                        PLATBA
-                    /
-                        PS dar Michal Matlon
-                    ","
-                        256508
-                    "
-25,2023-08-03,150.0,EUR,"
-                            MGR. PETER BARTOS
-                    ","
-                        PLATBA
-                    /
-                        PS dar 50136232
-                    ","
-                        2
-                    "
-26,2023-08-03,100.0,EUR,"
-                            MATULA PETER
-                    ","
-                        PLATBA
-                    /
-                        Dar, Peter Matula
-                    ","
-                        135
-                    "
-27,2023-08-03,30.0,EUR,"
-                            MORAVANSKA NADEZDA
-                    ","
-                        PLATBA
-                    /
-                        PS dar Nadezda Moravanska
-                    ","
-                        99175
-                    "
+11,2023-08-04,-3.99,EUR,,POS nákup,
+12,2023-08-03,-2300.0,EUR,Chrťan Samuel,"Platba/chrtan, marketingove sluzby jul",202307
+13,2023-08-03,-86.8,EUR,MONSTERS CAFE AND BA,"Platba/Monsters cafe, konzum podujatie 31.7.",20230044
+14,2023-08-03,-320.0,EUR,REŠTAURÁCIA MERIDIANA S.R.O.,"Platba/Meridiana, priestory Bojnice 2.8.",23249
+15,2023-08-03,-400.0,EUR,House of Art s.r.o.,"Platba/house of art, priestory Nitra 16.8.",62023
+16,2023-08-03,-2300.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby komunikacia jul",230018
+17,2023-08-03,-1250.0,EUR,Marek Brezovsky,"Platba/Brezovsky, marketingove sluzby koordinatora jul",2023002
+18,2023-08-03,-1000.0,EUR,Marek Brezovsky,"Platba/Brezovsky, marketingove sluzby koordinatora jun",2023001
+19,2023-08-03,-150.0,EUR,Orvoš Dominik,"Platba/Orgos, vizazisticke sluzby",20230029
+20,2023-08-03,-300.0,EUR,Gavenda Daniel,"Platba/Gavenda, postprodukcia video jaurova",2023017
+21,2023-08-03,-480.0,EUR,Samuel Škubla,"Platba/Skubla, zvuk a postprodukcia video spot Jaurova",202318
+22,2023-08-03,-80.0,EUR,,"Platba/HZS, reklama kezmarske noviny A6 07/2023",72023
+23,2023-08-03,-3300.0,EUR,Dančiak Martin,"Platba/Danciak, marketingove sluzby jul",2023005
+24,2023-08-03,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+25,2023-08-03,50.0,EUR,MATLON MICHAL,PLATBA/PS dar Michal Matlon,256508
+26,2023-08-03,150.0,EUR,MGR. PETER BARTOS,PLATBA/PS dar 50136232,2
+27,2023-08-03,100.0,EUR,MATULA PETER,"PLATBA/Dar, Peter Matula",135
 28,2023-08-03,30.0,EUR,MORAVANSKA NADEZDA,PLATBA/PS dar Nadezda Moravanska,99175
 29,2023-08-03,20.0,EUR,ADAM SEBESTA,"DE23080351507/ADAM SEBESTA, DAR PRE ONDREJA PROSTREDNIKA",
 30,2023-08-03,20.0,EUR,Pék János,Platba/PS dar Janos Pek Lucia Plavakova,2
