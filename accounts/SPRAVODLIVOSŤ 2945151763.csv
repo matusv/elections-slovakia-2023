@@ -36,10 +36,48 @@ index,date,amount,currency,account_name,message,vs
 34,2023-07-20,-4.6,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),
 35,2023-07-14,-208.92,EUR,LEMICOM spol. s r.o.,Platba/Objednavka Belabel 1223877,1223877
 36,2023-07-13,-27.88,EUR,,EUR NÁKUP POS TWILIO.COM / DUBLIN / (POS 53IIYEDY),
-37,2023-06-30,-0.0,EUR,,Poplatok za balík,
-38,2023-06-30,750.0,EUR,Tatana Stancikova,Platba/DAR,3006
-39,2023-06-30,-28.44,EUR,,POS nákup zahr. MIDJOURNEY INC. / HTTPSWWW.MIDJ / (POS MGQQ43JR),
-40,2023-06-26,-56.82,EUR,,POS nákup zahr. HEYGEN / WANCHAI / (POS CAMNKXWU),
-41,2023-06-23,-18.78,EUR,,POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF),
+37,2023-06-30,-0.0,EUR,,"
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+38,2023-06-30,750.0,EUR,"
+                            Tatana Stancikova
+                    ","
+                        Platba
+                    /
+                        DAR
+                    ","
+                        3006
+                    "
+39,2023-06-30,-28.44,EUR,"
+                            
+                    ","
+                        POS nákup zahr. MIDJOURNEY INC. / HTTPSWWW.MIDJ / (POS MGQQ43JR)
+                    /
+                        
+                    ","
+                        
+                    "
+40,2023-06-26,-56.82,EUR,"
+                            
+                    ","
+                        POS nákup zahr. HEYGEN / WANCHAI / (POS CAMNKXWU)
+                    /
+                        
+                    ","
+                        
+                    "
+41,2023-06-23,-18.78,EUR,"
+                            
+                    ","
+                        POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF)
+                    /
+                        
+                    ","
+                        
+                    "
 42,2023-06-14,2000.0,EUR,FERDINAND BUCI,PLATBA/DAR FERDINAND BUCI,
 43,2023-06-09,2000.0,EUR,Zuzana Sosikova,Platba/Dar,

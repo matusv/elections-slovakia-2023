@@ -61,49 +61,55 @@ index,index,date,amount,account_name,message,vs,name
 59,231,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
 60,225,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
 61,236,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
-62,99,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,,Republika
-63,69,2023-08-02,40000.0,Milan Mazurek,"Milan Mazurek, Kupelna 1303/70, 05901 Spisska Bela, pozicka",,Republika
-64,199,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,,Republika
-65,169,2023-08-02,40000.0,Milan Mazurek,"Milan Mazurek, Kupelna 1303/70, 05901 Spisska Bela, pozicka",,Republika
-66,77,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,,Republika
-67,88,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723,Republika
-68,177,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,,Republika
-69,188,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723,Republika
-70,18,2023-08-10,-233.0,Stefan Sitar,Vratenie daru (absencia cisla domu),,Republika
-71,21,2023-08-10,233.0,Štefan Sitár,"Štefan Sitár, Šurany - dar",,Republika
-72,118,2023-08-10,-233.0,Stefan Sitar,Vratenie daru (absencia cisla domu),,Republika
-73,121,2023-08-10,233.0,Štefan Sitár,"Štefan Sitár, Šurany - dar",,Republika
-74,101,2023-08-11,-27949.2,Ján Sabol,Vratenie daru (chybajuce udaje o darcovi),9,Republika
-75,14,2023-08-10,27949.2,Ján Sabol,JAN SABOL 24061972,9,Republika
-76,1,2023-08-11,-27949.2,Ján Sabol,Vratenie daru (chybajuce udaje o darcovi),9,Republika
-77,114,2023-08-10,27949.2,Ján Sabol,JAN SABOL 24061972,9,Republika
-78,638,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
-79,655,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
-80,540,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
-81,580,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
-82,515,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
-83,599,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
-84,412,2023-07-18,-700.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
-85,531,2023-07-12,700.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
-86,414,2023-07-18,-100.0,Spolocnost Jezisova,Vrátenie daru/ mylná platba,2023002213.0,KDH
-87,466,2023-07-16,100.0,Spolocnost Jezisova,Dar,2023002213.0,KDH
-88,413,2023-07-18,-500.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
-89,532,2023-07-12,500.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
-90,301,2023-07-26,-100.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylná platba,25072023.0,KDH
-91,516,2023-07-13,100.0,"Kaňuščák Milín, Ing.",kampan Facebook,2023.0,KDH
-92,300,2023-07-26,-2634.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylný platba,214.0,KDH
-93,315,2023-07-25,2634.0,"Kaňuščák Milín, Ing.",milin Kanuscak Eshop,214.0,KDH
-94,303,2023-07-26,-200.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
-95,441,2023-07-17,200.0,Peter Stuller,Dar Stuller,,KDH
-96,302,2023-07-26,-150.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
-97,314,2023-07-25,150.0,Peter Stuller,Objednavka 213 (25. jula 2023),,KDH
-98,54,2023-08-09,-100.0,Oberle Tomáš,Vrátenie daru/mylná platba,2023002301.0,KDH
-99,64,2023-08-08,100.0,Oberle Tomáš,Dar,2023002301.0,KDH
-100,13,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
-101,17,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
-102,12,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
-103,15,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
-104,102,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
-105,59,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
-106,42,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
-107,20,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
+62,218,2023-07-14,-2760.0,ARTON s.r.o.,bilbordy 08/2023,230390,Republika
+63,125,2023-07-28,2760.0,ARTON s.r.o.,duplicitna uhrada (uhradene 17.7.),230390,Republika
+64,192,2023-07-24,-1000.0,"Mrazek Pavol, Ing. arch.",vratenie daru,,Republika
+65,193,2023-07-24,1000.0,"Mrázek Pavol, Ing. arch.",Financny dar kampan Lucia Hilka Majkova,9,Republika
+66,195,2023-07-24,-326.0,"Hilka Majkova Lucia, PhDr.",Vratenie daru,,Republika
+67,197,2023-07-24,326.0,"Hilka Majková Lucia, PhDr.",republika fin dar lucia hilka majkova volby,,Republika
+68,169,2023-07-26,-6000.0,Viera Moravčíková,"Vratenie platby, Igor Moravcik",,Republika
+69,181,2023-07-25,6000.0,Viera Moravčíková,Igor Moravcik,,Republika
+70,177,2023-07-26,-1000.0,"Hilka Majkova Lucia, PhDr.",vratenie daru,,Republika
+71,176,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova lipova 50 ivanka pri dunaji 900 28 -DAR,,Republika
+72,178,2023-07-26,-30000.0,UHRIKOVA ZUZANA,vratenie platby,,Republika
+73,196,2023-07-24,30000.0,UHRIKOVA ZUZANA,"ZUZANA UHRIKOVA, HORNOCERMANSKA 81",,Republika
+74,99,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,,Republika
+75,107,2023-07-31,40000.0,Milan Mazurek,PÔŽIČKA - REPUBLIKA,,Republika
+76,113,2023-07-31,-500.0,Tomáš Senko,Vratenie daru,,Republika
+77,98,2023-07-31,500.0,Tomáš Senko,"Tomas Senko, Obchodna 8555/3A, 010 08 Zilina. Dar",,Republika
+78,77,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,,Republika
+79,88,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723,Republika
+80,18,2023-08-10,-233.0,Stefan Sitar,Vratenie daru (absencia cisla domu),,Republika
+81,21,2023-08-10,233.0,Štefan Sitár,"Štefan Sitár, Šurany - dar",,Republika
+82,1,2023-08-11,-27949.2,Ján Sabol,Vratenie daru (chybajuce udaje o darcovi),9,Republika
+83,14,2023-08-10,27949.2,Ján Sabol,JAN SABOL 24061972,9,Republika
+84,638,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
+85,655,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
+86,540,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
+87,580,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
+88,515,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
+89,599,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
+90,412,2023-07-18,-700.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
+91,531,2023-07-12,700.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
+92,414,2023-07-18,-100.0,Spolocnost Jezisova,Vrátenie daru/ mylná platba,2023002213.0,KDH
+93,466,2023-07-16,100.0,Spolocnost Jezisova,Dar,2023002213.0,KDH
+94,413,2023-07-18,-500.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
+95,532,2023-07-12,500.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
+96,301,2023-07-26,-100.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylná platba,25072023.0,KDH
+97,516,2023-07-13,100.0,"Kaňuščák Milín, Ing.",kampan Facebook,2023.0,KDH
+98,300,2023-07-26,-2634.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylný platba,214.0,KDH
+99,315,2023-07-25,2634.0,"Kaňuščák Milín, Ing.",milin Kanuscak Eshop,214.0,KDH
+100,303,2023-07-26,-200.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
+101,441,2023-07-17,200.0,Peter Stuller,Dar Stuller,,KDH
+102,302,2023-07-26,-150.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
+103,314,2023-07-25,150.0,Peter Stuller,Objednavka 213 (25. jula 2023),,KDH
+104,54,2023-08-09,-100.0,Oberle Tomáš,Vrátenie daru/mylná platba,2023002301.0,KDH
+105,64,2023-08-08,100.0,Oberle Tomáš,Dar,2023002301.0,KDH
+106,13,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
+107,17,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
+108,12,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
+109,15,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
+110,102,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
+111,59,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
+112,42,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
+113,20,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
