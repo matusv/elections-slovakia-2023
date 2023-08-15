@@ -4,9 +4,7 @@ index,date,amount,currency,account_name,message,vs
 2,2023-08-11,-2587.25,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, najomne kancelaria jul",23341/VS23341/SS/KS
 3,2023-08-11,-1354.8,EUR,"Bratiska, s.r.o.","Platba/Bratiska, tricko, mikina a graficke prace",2023100/VS2023100/SS/KS
 4,2023-08-11,-6436.8,EUR,"Pandan, s. r. o.","Platba/Pandan, pera, tasky, kandidatske letaky",202308001/VS202308001/SS/KS
-5,2023-08-11,250.0,EUR,"
-                            Miroslav Otocka
-                    ","
+5,2023-08-11,250.0,EUR,Miroslav Otocka,"
                         Platba
                     /
                         PS dar Miroslav Otocka
@@ -85,132 +83,20 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         105/VS105/SS/KS
                     "
-14,2023-08-10,150.0,EUR,"
-                            MICHAL STYK
-                    ","
-                        PLATBA
-                    /
-                        DAR MICHAL STYK
-                    ","
-                        87/VS0000000087/SS/KS
-                    "
-15,2023-08-10,100.0,EUR,"
-                            Gabor Bordacs
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        240078/VS240078/SS/KS
-                    "
-16,2023-08-10,-5000.0,EUR,"
-                            ING. ŠTEFAN KIŠŠ
-                    ","
-                        Platba
-                    /
-                        Kiss, ekonomicke poradenstvo
-                    ","
-                        723/VS723/SS/KS
-                    "
-17,2023-08-10,-500.0,EUR,"
-                            HOTEL NARODNY DOM, S
-                    ","
-                        Platba
-                    /
-                        Hotel narodny dom, prenajom priestorov
-                    ","
-                        2300123/VS2300123/SS/KS308
-                    "
-18,2023-08-10,20.0,EUR,"
-                            MALIKOVA VANDA
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        156791/VS156791/SS/KS
-                    "
-19,2023-08-10,50.0,EUR,"
-                            ANTON KUBALA
-                    ","
-                        PLATBA
-                    /
-                        PS dar Anton Kubala
-                    ","
-                        264055/VS264055/SS/KS0308
-                    "
-20,2023-08-10,-40.0,EUR,"
-                            MESTO PIEŠŤANY
-                    ","
-                        Platba
-                    /
-                        Zvolen, spravny poplatok - akcia doprava
-                    ","
-                        221004/VS221004/SS/KS
-                    "
-21,2023-08-10,50.0,EUR,"
-                            Hrnčiarik Pavel, Ing
-                    ","
-                        Platba
-                    /
-                        PS dar Pavel Hrnciarik
-                    ","
-                        264092/VS264092/SS/KS308
-                    "
-22,2023-08-11,-1000.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-23,2023-08-09,500.0,EUR,"
-                            Kendra Pavel, Ing.
-                    ","
-                        Platba
-                    /
-                        PS dar Pavel Kendra
-                    ","
-                        95
-                    "
-24,2023-08-09,100.0,EUR,"
-                            Polešenský Milan, Mg
-                    ","
-                        Platba
-                    /
-                        PS dar Milan Polesensky
-                    ","
-                        57
-                    "
-25,2023-08-11,-1000.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-26,2023-08-09,-1000.0,EUR,"
-                            Vajda Ivan
-                    ","
-                        Platba
-                    /
-                        Vajda, graficke prace
-                    ","
-                        2023011
-                    "
-27,2023-08-09,10.0,EUR,"
-                            Bednár Libor, Mgr.,
-                    ","
-                        Platba
-                    /
-                        Ondrej Prostrednik, dar pre Ondreja Prostrednika
-                    ","
-                        19
-                    "
+14,2023-08-11,-40.52,EUR,,POS nákup IKEA SK ecom / Bratislava / (POS E3800067),
+15,2023-08-11,-1.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+16,2023-08-11,-556.36,EUR,,EUR NÁKUP POS FACEBK *98C6HRBN52 / fb.me/ads / (POS 99999999),
+17,2023-08-10,25.0,EUR,Martin Varchol,Platba/PS dar Martin Varchol,264110/VS264110/SS/KS
+18,2023-08-10,100.0,EUR,KÁRA SERGEJ,Platba/kampan Sergej Kara,51/VS051/SS/KS
+19,2023-08-10,250.0,EUR,Jan Turek,Platba/PS dar Jan Turek,51007/VS51007/SS/KS308
+20,2023-08-10,300.0,EUR,Ing.Ladislav Gala,PLATBA,105/VS105/SS/KS
+21,2023-08-10,150.0,EUR,MICHAL STYK,PLATBA/DAR MICHAL STYK,87/VS0000000087/SS/KS
+22,2023-08-10,100.0,EUR,Gabor Bordacs,Platba,240078/VS240078/SS/KS
+23,2023-08-10,-5000.0,EUR,ING. ŠTEFAN KIŠŠ,"Platba/Kiss, ekonomicke poradenstvo",723/VS723/SS/KS
+24,2023-08-10,-500.0,EUR,"HOTEL NARODNY DOM, S","Platba/Hotel narodny dom, prenajom priestorov",2300123/VS2300123/SS/KS308
+25,2023-08-10,20.0,EUR,MALIKOVA VANDA,PLATBA,156791/VS156791/SS/KS
+26,2023-08-10,50.0,EUR,ANTON KUBALA,PLATBA/PS dar Anton Kubala,264055/VS264055/SS/KS0308
+27,2023-08-10,-40.0,EUR,MESTO PIEŠŤANY,"Platba/Zvolen, spravny poplatok - akcia doprava",221004/VS221004/SS/KS
 28,2023-08-10,50.0,EUR,"Hrnčiarik Pavel, Ing",Platba/PS dar Pavel Hrnciarik,264092/VS264092/SS/KS308
 29,2023-08-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
 30,2023-08-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),

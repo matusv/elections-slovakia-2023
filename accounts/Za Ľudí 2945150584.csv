@@ -5,76 +5,14 @@ index,date,amount,currency,account_name,message,vs
 3,2023-08-08,-645.0,EUR,Lenka Hajdukova,"Platba/vizaz, styling, makeup pre fotenie kandidatov",20230816
 4,2023-08-08,-216.72,EUR,Róbert Páleník,Platba/prenajom vozidla TT831HN 07 2023,20231600
 5,2023-08-08,-216.77,EUR,Róbert Páleník,Platba/prenajom vozidla TT986JF 07 2023,20231599
-6,2023-08-07,-1948.0,EUR,,"
-                        POS nákup
-                    /
-                        
-                    ","
-                        
-                    "
-7,2023-08-03,1500.0,EUR,"
-                            Jaroslav Rusina
-                    ","
-                        Platba
-                    /
-                        Jaroslav Rusina - 84
-                    ","
-                        
-                    "
-8,2023-08-02,-3500.0,EUR,"
-                            Mushla s. r. o.
-                    ","
-                        Platba
-                    /
-                        Reklamne, marketingove sluzby 07 2023
-                    ","
-                        20230009
-                    "
-9,2023-08-02,-41.96,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS
-                    /
-                        
-                    ","
-                        
-                    "
-10,2023-08-01,-100.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS
-                    /
-                        
-                    ","
-                        
-                    "
-11,2023-07-31,-6.0,EUR,"
-                            
-                    ","
-                        Poplatky za transakcie
-                    /
-                        
-                    ","
-                        
-                    "
-12,2023-07-31,-19.0,EUR,"
-                            
-                    ","
-                        Poplatok za balík
-                    /
-                        
-                    ","
-                        
-                    "
-13,2023-07-31,-3000.0,EUR,"
-                            
-                    ","
-                        Výber z bankomatu
-                    /
-                        
-                    ","
-                        
-                    "
+6,2023-08-07,-1948.0,EUR,,POS nákup,
+7,2023-08-03,1500.0,EUR,Jaroslav Rusina,Platba/Jaroslav Rusina - 84,
+8,2023-08-02,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 07 2023",20230009
+9,2023-08-02,-41.96,EUR,,EUR NÁKUP POS,
+10,2023-08-01,-100.0,EUR,,EUR NÁKUP POS,
+11,2023-07-31,-6.0,EUR,,Poplatky za transakcie,
+12,2023-07-31,-19.0,EUR,,Poplatok za balík,
+13,2023-07-31,-3000.0,EUR,,Výber z bankomatu,
 14,2023-07-28,-870.0,EUR,"UNIPOSTER, s.r.o.",Platba/Bilboardy zaloha fa c. 23VZ/007,23007
 15,2023-07-28,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 06 2023",20230008
 16,2023-07-27,-5280.0,EUR,MM PLUS s.r.o.,Platba/prenajom auta MM PLUS s.r.o.: 2023145 - ZA LUDI - 2023/07,2023145
