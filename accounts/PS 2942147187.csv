@@ -2,18 +2,8 @@ index,date,amount,currency,account_name,message,vs
 0,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,116/VS116/SS/KS0308
 1,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,134/VS134/SS/KS0308
 2,2023-08-18,50.0,EUR,EVA DUBOVSKA,DE23081866028 MBANKO6210670122/DAKUJEM A DRZIM PALCE,
-3,2023-08-18,-7978.8,EUR,"
-                            Pandan, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Pandan, kandidatske letaky  a tricka
-                    ","
-                        202308037/VS202308037/SS/KS
-                    "
-4,2023-08-18,10.0,EUR,"
-                            Konkol Karol
-                    ","
+3,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","Platba/Pandan, kandidatske letaky a tricka",202308037/VS202308037/SS/KS
+4,2023-08-18,10.0,EUR,Konkol Karol,"
                         PLATBA
                     /
                         PS dar Karol Konkol
@@ -101,20 +91,108 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         1510066312/VS1510066312/SS2303077201/KS0558
                     "
-14,2023-08-17,3000.0,EUR,Kristina Mikulova,"Platba/Kristina Mikulova, dar 2023",
-15,2023-08-17,-27000.0,EUR,"GROOW DIGITAL, s. r.","Platba/Nakup medialneho priestoru 08 23 Ringier,Aktuality,",2023118/VS2023118/SS/KS
-16,2023-08-17,-60.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 19.7.",1510066312/VS1510066312/SS2303077200/KS0558
-17,2023-08-17,-120.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 23.7.",1510066312/VS1510066312/SS2303077201/KS0558
-18,2023-08-17,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
-19,2023-08-17,30.0,EUR,MISIK MICHAL,PLATBA/PS dar Michal Misik,264250/VS264250/SS/KS0308
-20,2023-08-17,-418.5,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850193),
-21,2023-08-17,-800.0,EUR,,EUR NÁKUP POS FACEBK R6DR2TPTJ2 / fb.me/ads / (POS 99999999),
-22,2023-08-17,-7.6,EUR,,POS nákup PARKOVANI PIESTIANY / PIESTIANY / (POS 37473836),
-23,2023-08-17,-5.32,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-24,2023-08-16,50.0,EUR,Branislav Osif,Platba/PS dar Branislav Osif,264251/VS264251/SS/KS308
-25,2023-08-16,-272.4,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac a vylep BB 09 Kendra",2023024/VS2023024/SS/KS
-26,2023-08-16,20.0,EUR,JANKECH ROBERT,Platba,264248/VS264248/SS/KS
-27,2023-08-16,-60.0,EUR,David Marko,"Platba/Marko, tlmocenie do SPJ",612023/VS612023/SS/KS
+14,2023-08-17,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+15,2023-08-17,30.0,EUR,MISIK MICHAL,PLATBA/PS dar Michal Misik,264250/VS264250/SS/KS0308
+16,2023-08-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+17,2023-08-16,50.0,EUR,"
+                            Branislav Osif
+                    ","
+                        Platba
+                    /
+                        PS dar Branislav Osif
+                    ","
+                        264251/VS264251/SS/KS308
+                    "
+18,2023-08-18,-800.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 6VLGWSX8D2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+19,2023-08-16,-272.4,EUR,"
+                            JOZEF STRACENSKY - D
+                    ","
+                        Platba
+                    /
+                        dajsprint, tlac a vylep BB 09 Kendra
+                    ","
+                        2023024/VS2023024/SS/KS
+                    "
+20,2023-08-18,-800.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK *8CDEVQBM52 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+21,2023-08-16,20.0,EUR,"
+                            JANKECH ROBERT
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        264248/VS264248/SS/KS
+                    "
+22,2023-08-16,-60.0,EUR,"
+                            David Marko
+                    ","
+                        Platba
+                    /
+                        Marko, tlmocenie do SPJ
+                    ","
+                        612023/VS612023/SS/KS
+                    "
+23,2023-08-16,-2500.0,EUR,"
+                            KEED Slovakia
+                    ","
+                        Platba
+                    /
+                        KEED, koordinacia kampane zapadne slovensko
+                    ","
+                        2023001/VS2023001/SS/KS
+                    "
+24,2023-08-16,-3600.0,EUR,"
+                            ARTON s.r.o.
+                    ","
+                        Platba
+                    /
+                        Arton, tlac a instalacia baneru 2ks september
+                    ","
+                        230452/VS230452/SS/KS
+                    "
+25,2023-08-16,-656.4,EUR,"
+                            Pandan, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Pandan, odznaky, letaky, nalepka na auto
+                    ","
+                        202307036/VS202307036/SS/KS
+                    "
+26,2023-08-16,70.0,EUR,"
+                            ANNA URBASIKOVA
+                    ","
+                        PLATBA
+                    /
+                        DAR
+                    ","
+                        93916/VS0000093916/SS/KS
+                    "
+27,2023-08-18,-4.99,EUR,"
+                            
+                    ","
+                        POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978)
+                    /
+                        
+                    ","
+                        
+                    "
 28,2023-08-16,-2500.0,EUR,KEED Slovakia,"Platba/KEED, koordinacia kampane zapadne slovensko",2023001/VS2023001/SS/KS
 29,2023-08-16,-3600.0,EUR,ARTON s.r.o.,"Platba/Arton, tlac a instalacia baneru 2ks september",230452/VS230452/SS/KS
 30,2023-08-16,-656.4,EUR,"Pandan, s. r. o.","Platba/Pandan, odznaky, letaky, nalepka na auto",202307036/VS202307036/SS/KS
