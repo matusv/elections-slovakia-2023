@@ -38,8 +38,24 @@ index,date,amount,currency,account_name,message,vs
 36,2023-07-11,-100.0,EUR,,EUR NÁKUP POS FACEBK MWDR5R7UX2 / fb.me/ads / (POS 99999999),
 37,2023-07-10,-1000.0,EUR,Tomáš Meravý,Platba/ekonomicke poradenstvo T.Meravy,72023/VS072023/SS/KS0308
 38,2023-07-03,-30.97,EUR,,EUR NÁKUP POS FACEBK MY6W9RKUX2 / fb.me/ads / (POS 99999999),
-39,2023-06-30,-19.0,EUR,,Poplatok za balík,
-40,2023-06-26,-100.0,EUR,,EUR NÁKUP POS FACEBK D9DMHQPUX2 / fb.me/ads / (POS 99999999),
+39,2023-06-30,-19.0,EUR,"
+                            
+                    ","
+                        Poplatok za balík
+                    /
+                        
+                    ","
+                        
+                    "
+40,2023-06-26,-100.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK D9DMHQPUX2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 41,2023-06-19,-111.07,EUR,"
                             
                     ","
