@@ -4,8 +4,18 @@ index,date,amount,currency,account_name,message,vs
 2,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,116/VS116/SS/KS0308
 3,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,134/VS134/SS/KS0308
 4,2023-08-18,50.0,EUR,EVA DUBOVSKA,DE23081866028 MBANKO6210670122/DAKUJEM A DRZIM PALCE,
-5,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","Platba/Pandan, kandidatske letaky a tricka",202308037/VS202308037/SS/KS
-6,2023-08-18,10.0,EUR,Konkol Karol,"
+5,2023-08-18,-7978.8,EUR,"
+                            Pandan, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Pandan, kandidatske letaky  a tricka
+                    ","
+                        202308037/VS202308037/SS/KS
+                    "
+6,2023-08-18,10.0,EUR,"
+                            Konkol Karol
+                    ","
                         PLATBA
                     /
                         PS dar Karol Konkol
@@ -87,24 +97,8 @@ index,date,amount,currency,account_name,message,vs
 23,2023-08-17,-800.0,EUR,,EUR NÁKUP POS FACEBK R6DR2TPTJ2 / fb.me/ads / (POS 99999999),
 24,2023-08-17,-7.6,EUR,,POS nákup PARKOVANI PIESTIANY / PIESTIANY / (POS 37473836),
 25,2023-08-17,-5.32,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-26,2023-08-16,50.0,EUR,"
-                            Branislav Osif
-                    ","
-                        Platba
-                    /
-                        PS dar Branislav Osif
-                    ","
-                        264251/VS264251/SS/KS308
-                    "
-27,2023-08-16,-272.4,EUR,"
-                            JOZEF STRACENSKY - D
-                    ","
-                        Platba
-                    /
-                        dajsprint, tlac a vylep BB 09 Kendra
-                    ","
-                        2023024/VS2023024/SS/KS
-                    "
+26,2023-08-16,50.0,EUR,Branislav Osif,Platba/PS dar Branislav Osif,264251/VS264251/SS/KS308
+27,2023-08-16,-272.4,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac a vylep BB 09 Kendra",2023024/VS2023024/SS/KS
 28,2023-08-16,20.0,EUR,JANKECH ROBERT,Platba,264248/VS264248/SS/KS
 29,2023-08-16,-60.0,EUR,David Marko,"Platba/Marko, tlmocenie do SPJ",612023/VS612023/SS/KS
 30,2023-08-16,-2500.0,EUR,KEED Slovakia,"Platba/KEED, koordinacia kampane zapadne slovensko",2023001/VS2023001/SS/KS

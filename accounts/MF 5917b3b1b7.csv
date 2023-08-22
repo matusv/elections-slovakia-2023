@@ -1,60 +1,61 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-08-20,-15015.6,EUR,Tomax film s.r.o. BB,"Odoslaná platba elektronicky, bilbordy 09, TOMAX film s.r.o.","VS: 2023096
+0,2023-08-22,-30000,EUR,PI Europe s.r.o,"Odoslaná platba elektronicky, uhrada fa 12023003 el. kampan",VS: 145533
+1,2023-08-20,-15015.6,EUR,Tomax film s.r.o. BB,"Odoslaná platba elektronicky, bilbordy 09, TOMAX film s.r.o.","VS: 2023096
 KS: 8"
-1,2023-08-17,25000,EUR,Stanislava Bytcanek,"Prijatá platba, Pozicka Stanislava Bytcanek, 9.3.1976, Demokraticka Strana",
-2,2023-08-09,1000,EUR,ODS - Obcianski demokrati Slovenska,"Prijatá platba, Dar pre MF v prospech ODS - tricka",
-3,2023-08-03,10000,EUR,Eva Hrda,"Prijatá platba, S. Rajnoha DS dar",
-4,2023-08-02,-665,EUR,PRorent s.r.o,"Odoslaná platba elektronicky, najom kanc. priest. 08","VS: 2302222308
+2,2023-08-17,25000,EUR,Stanislava Bytcanek,"Prijatá platba, Pozicka Stanislava Bytcanek, 9.3.1976, Demokraticka Strana",
+3,2023-08-09,1000,EUR,ODS - Obcianski demokrati Slovenska,"Prijatá platba, Dar pre MF v prospech ODS - tricka",
+4,2023-08-03,10000,EUR,Eva Hrda,"Prijatá platba, S. Rajnoha DS dar",
+5,2023-08-02,-665,EUR,PRorent s.r.o,"Odoslaná platba elektronicky, najom kanc. priest. 08","VS: 2302222308
 KS: 038"
-5,2023-08-02,300,EUR,Rastislav Lacko,"Prijatá platba, ODS - Dar - pre Lacko Rastislav",VS: 19810224
-6,2023-08-02,300,EUR,"Peto Jaroslav, Ing.","Prijatá platba, dar pre ods na kampan Jaroslav Peto",VS: 19591218
-7,2023-08-02,3000,EUR,SZELLE ERIKA,"Prijatá platba, ing szelle erika",
-8,2023-08-01,1000,EUR,Attila Mikolai,"Prijatá platba, Attila Mikolai, pozicka, MF",
-9,2023-08-01,500,EUR,HREHOR JAROSLAV,"Prijatá platba, Dar pre ODS na volebnu kampan pre kandidata c 22 Ing JaroslavHrehor.","VS: **********
+6,2023-08-02,300,EUR,Rastislav Lacko,"Prijatá platba, ODS - Dar - pre Lacko Rastislav",VS: 19810224
+7,2023-08-02,300,EUR,"Peto Jaroslav, Ing.","Prijatá platba, dar pre ods na kampan Jaroslav Peto",VS: 19591218
+8,2023-08-02,3000,EUR,SZELLE ERIKA,"Prijatá platba, ing szelle erika",
+9,2023-08-01,1000,EUR,Attila Mikolai,"Prijatá platba, Attila Mikolai, pozicka, MF",
+10,2023-08-01,500,EUR,HREHOR JAROSLAV,"Prijatá platba, Dar pre ODS na volebnu kampan pre kandidata c 22 Ing JaroslavHrehor.","VS: **********
 KS: 3558"
-10,2023-08-01,1500,EUR,Norbert Krusinsky,"Prijatá platba, dar podla zmluvy Krusinsky Norbert",
-11,2023-08-01,1000,EUR,Richard Rajkovics,"Prijatá platba, pozicka",
-12,2023-07-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 17 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
-13,2023-07-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
+11,2023-08-01,1500,EUR,Norbert Krusinsky,"Prijatá platba, dar podla zmluvy Krusinsky Norbert",
+12,2023-08-01,1000,EUR,Richard Rajkovics,"Prijatá platba, pozicka",
+13,2023-07-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 17 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
+14,2023-07-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
 ŠS: 5032139166
 KS: 6898"
-14,2023-07-25,1000,EUR,ROBERT ZSIROS,"Prijatá platba, Zsiros Robert",
-15,2023-07-24,2000,EUR,Marian Bolcs,"Prijatá platba, za regiony, Bolcs Marian",
-16,2023-07-24,-40000,EUR,Inhouse media s.r.o.,"Odoslaná platba elektronicky, fa. 072023 Inhouse media s.r.o. digitalna kampan",
-17,2023-07-21,35000,EUR,Stanislava Bytcanek,"Prijatá platba, Pozicka Stanislava Bytcanek, 9.3.1976, Demokraticka Strana",
-18,2023-07-21,2000,EUR,RAJTAR JOZEF,"Prijatá platba, POZicka. Jozef Rajtar, 12.1.1977 MF, ODS, ZR, RK, DS",VS: 1211977
-19,2023-07-19,2000,EUR,Zsolt Gal,"Prijatá platba, Pozicka",
-20,2023-07-14,-12675,EUR,Tomax film s.r.o. BB,"Odoslaná platba elektronicky, bilbordy 08, TOMAX film s.r.o.","VS: 2023079
+15,2023-07-25,1000,EUR,ROBERT ZSIROS,"Prijatá platba, Zsiros Robert",
+16,2023-07-24,2000,EUR,Marian Bolcs,"Prijatá platba, za regiony, Bolcs Marian",
+17,2023-07-24,-40000,EUR,Inhouse media s.r.o.,"Odoslaná platba elektronicky, fa. 072023 Inhouse media s.r.o. digitalna kampan",
+18,2023-07-21,35000,EUR,Stanislava Bytcanek,"Prijatá platba, Pozicka Stanislava Bytcanek, 9.3.1976, Demokraticka Strana",
+19,2023-07-21,2000,EUR,RAJTAR JOZEF,"Prijatá platba, POZicka. Jozef Rajtar, 12.1.1977 MF, ODS, ZR, RK, DS",VS: 1211977
+20,2023-07-19,2000,EUR,Zsolt Gal,"Prijatá platba, Pozicka",
+21,2023-07-14,-12675,EUR,Tomax film s.r.o. BB,"Odoslaná platba elektronicky, bilbordy 08, TOMAX film s.r.o.","VS: 2023079
 KS: 8"
-21,2023-07-14,500,EUR,OPALKOVA DENISA,"Prijatá platba, ZR. MK.",
-22,2023-07-13,5000,EUR,Laszlo Bindics,"Prijatá platba, pozicka pre madarske forum na parlamentne volby 2023",VS: 52211479
-23,2023-07-13,20000,EUR,POLERECKA EVA,"Prijatá platba, Eva Polerecka","VS: 7
+22,2023-07-14,500,EUR,OPALKOVA DENISA,"Prijatá platba, ZR. MK.",
+23,2023-07-13,5000,EUR,Laszlo Bindics,"Prijatá platba, pozicka pre madarske forum na parlamentne volby 2023",VS: 52211479
+24,2023-07-13,20000,EUR,POLERECKA EVA,"Prijatá platba, Eva Polerecka","VS: 7
 KS: 398"
-24,2023-07-07,500,EUR,ERIKA VAROSOVA,"Prijatá platba, ERIKA VAROSOVA, ZR",
-25,2023-07-06,8000,EUR,Pavel Macko,"Prijatá platba, Pozicka_volby2023_Macko_ODS",
-26,2023-07-06,1000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
-27,2023-07-06,2000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
-28,2023-07-06,4250,EUR,ODS - Obcianski demokrati Slovenska,"Prijatá platba, Dar v zmysle darovacej zmluvy",
-29,2023-07-04,2000,EUR,"Racko Vladimir, Mgr.","Prijatá platba, Za Regiony",
-30,2023-07-04,1000,EUR,Dominika Mikelova,"Prijatá platba, pozicka Ing . Miroslav Mikel SRK",
-31,2023-07-04,1000,EUR,Gabriela Radicova,"Prijatá platba, Gabriela Radicova -pozicka",VS: 1000
-32,2023-07-04,2000,EUR,Ingrid Lukacova,"Prijatá platba, Mgr.Ingrid Lukacova - pozicka",
-33,2023-07-04,-665,EUR,PRorent s.r.o,"Odoslaná platba elektronicky, najom kanc. priest. 07","VS: 2302222306
+25,2023-07-07,500,EUR,ERIKA VAROSOVA,"Prijatá platba, ERIKA VAROSOVA, ZR",
+26,2023-07-06,8000,EUR,Pavel Macko,"Prijatá platba, Pozicka_volby2023_Macko_ODS",
+27,2023-07-06,1000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
+28,2023-07-06,2000,EUR,Mitanek Magdalena,"Prijatá platba, Pozicka Magdalena Mitanek Magyar forum",
+29,2023-07-06,4250,EUR,ODS - Obcianski demokrati Slovenska,"Prijatá platba, Dar v zmysle darovacej zmluvy",
+30,2023-07-04,2000,EUR,"Racko Vladimir, Mgr.","Prijatá platba, Za Regiony",
+31,2023-07-04,1000,EUR,Dominika Mikelova,"Prijatá platba, pozicka Ing . Miroslav Mikel SRK",
+32,2023-07-04,1000,EUR,Gabriela Radicova,"Prijatá platba, Gabriela Radicova -pozicka",VS: 1000
+33,2023-07-04,2000,EUR,Ingrid Lukacova,"Prijatá platba, Mgr.Ingrid Lukacova - pozicka",
+34,2023-07-04,-665,EUR,PRorent s.r.o,"Odoslaná platba elektronicky, najom kanc. priest. 07","VS: 2302222306
 KS: 038"
-34,2023-06-30,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
-35,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
+35,2023-06-30,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",
+36,2023-06-30,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
 ŠS: 5032139166
 KS: 6898"
-36,2023-06-27,-17000,EUR,Minv,"Odoslaná platba elektronicky, volebna kaucia",VS: 52211479
-37,2023-06-19,-15000,EUR,Inhouse media s.r.o.,"Odoslaná platba elektronicky, uhrada zaloh. fakt 52023",
-38,2023-06-19,35000,EUR,Ing. Zsolt Simon,"Prijatá platba, Pozicka Simon",
-39,2023-06-01,-665,EUR,PRorent s.r.o,"Odoslaná platba elektronicky, najom kanc. priest. 06","VS: 2302222306
+37,2023-06-27,-17000,EUR,Minv,"Odoslaná platba elektronicky, volebna kaucia",VS: 52211479
+38,2023-06-19,-15000,EUR,Inhouse media s.r.o.,"Odoslaná platba elektronicky, uhrada zaloh. fakt 52023",
+39,2023-06-19,35000,EUR,Ing. Zsolt Simon,"Prijatá platba, Pozicka Simon",
+40,2023-06-01,-665,EUR,PRorent s.r.o,"Odoslaná platba elektronicky, najom kanc. priest. 06","VS: 2302222306
 KS: 038"
-40,2023-06-01,-432,EUR,tyzden,"Odoslaná platba elektronicky, prenajom priestorov + technicke zariadenie","VS: 122300063
+41,2023-06-01,-432,EUR,tyzden,"Odoslaná platba elektronicky, prenajom priestorov + technicke zariadenie","VS: 122300063
 KS: 0308"
-41,2023-05-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.05.2023","VS: 495000150
+42,2023-05-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.05.2023","VS: 495000150
 ŠS: 5032139166
 KS: 6898"
-42,2023-05-26,-500,EUR,,"Odoslaná platba elektronicky, uhrada fakt.","VS: 230001
+43,2023-05-26,-500,EUR,,"Odoslaná platba elektronicky, uhrada fakt.","VS: 230001
 KS: 0308"
-43,2023-05-22,-665,EUR,PRORENT s.r.o,"Odoslaná platba elektronicky, kaucia na kanc. priest.",VS: 9923050002
+44,2023-05-22,-665,EUR,PRORENT s.r.o,"Odoslaná platba elektronicky, kaucia na kanc. priest.",VS: 9923050002
