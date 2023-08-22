@@ -38,13 +38,7 @@ index,date,amount,currency,account_name,message,vs
 36,2023-07-25,-13.99,EUR,,INT NÁKUP POS EUR CANVA* I03854-11076001 / HTTPSCANVA.CO / (POS RHM0EZQC),
 37,2023-07-24,-18.52,EUR,,POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF),
 38,2023-07-24,-82.4,EUR,,POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0),
-39,2023-07-20,-4.6,EUR,,"
-                        POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL)
-                    /
-                        
-                    ","
-                        
-                    "
+39,2023-07-20,-4.6,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),
 40,2023-07-14,-208.92,EUR,"
                             LEMICOM spol. s r.o.
                     ","

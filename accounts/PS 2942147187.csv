@@ -4,15 +4,85 @@ index,date,amount,currency,account_name,message,vs
 2,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,116/VS116/SS/KS0308
 3,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,134/VS134/SS/KS0308
 4,2023-08-18,50.0,EUR,EVA DUBOVSKA,DE23081866028 MBANKO6210670122/DAKUJEM A DRZIM PALCE,
-5,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","Platba/Pandan, kandidatske letaky a tricka",202308037/VS202308037/SS/KS
-6,2023-08-18,10.0,EUR,Konkol Karol,PLATBA/PS dar Karol Konkol,264267/VS264267/SS/KS0308
-7,2023-08-18,100.0,EUR,STREDL TOMAS,PLATBA/PS dar Tomas Stredl 069,69/VS069/SS/KS
-8,2023-08-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-9,2023-08-18,-800.0,EUR,,EUR NÁKUP POS FACEBK 6VLGWSX8D2 / fb.me/ads / (POS 99999999),
-10,2023-08-18,-800.0,EUR,,EUR NÁKUP POS FACEBK *8CDEVQBM52 / fb.me/ads / (POS 99999999),
-11,2023-08-18,-4.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-12,2023-08-17,50.0,EUR,Roman Krcmar,Platba/PS dar Roman Krcmar,264260/VS264260/SS/KS308
-13,2023-08-17,14.0,EUR,Kello Filip,Platba/PS dar Filip Kello,264257/VS264257/SS/KS308
+5,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","
+                        Platba
+                    /
+                        Pandan, kandidatske letaky  a tricka
+                    ","
+                        202308037/VS202308037/SS/KS
+                    "
+6,2023-08-18,10.0,EUR,"
+                            Konkol Karol
+                    ","
+                        PLATBA
+                    /
+                        PS dar Karol Konkol
+                    ","
+                        264267/VS264267/SS/KS0308
+                    "
+7,2023-08-18,100.0,EUR,"
+                            STREDL TOMAS
+                    ","
+                        PLATBA
+                    /
+                        PS dar Tomas Stredl 069
+                    ","
+                        69/VS069/SS/KS
+                    "
+8,2023-08-17,50.0,EUR,"
+                            Roman Krcmar
+                    ","
+                        Platba
+                    /
+                        PS dar Roman Krcmar
+                    ","
+                        264260/VS264260/SS/KS308
+                    "
+9,2023-08-17,14.0,EUR,"
+                            Kello Filip
+                    ","
+                        Platba
+                    /
+                        PS dar Filip Kello
+                    ","
+                        264257/VS264257/SS/KS308
+                    "
+10,2023-08-17,-288.0,EUR,"
+                            euroAWK, spol. s r. o.
+                    ","
+                        Platba
+                    /
+                        euroAWK, BB 08 jurik
+                    ","
+                        2370122/VS2370122/SS/KS
+                    "
+11,2023-08-17,-84.0,EUR,"
+                            JOZEF STRACENSKY - D
+                    ","
+                        Platba
+                    /
+                        dajsprint, tlac plagat Kendra
+                    ","
+                        2023441/VS2023441/SS/KS
+                    "
+12,2023-08-17,3000.0,EUR,"
+                            Kristina Mikulova
+                    ","
+                        Platba
+                    /
+                        Kristina Mikulova, dar 2023
+                    ","
+                        
+                    "
+13,2023-08-17,-27000.0,EUR,"
+                            GROOW DIGITAL, s. r.
+                    ","
+                        Platba
+                    /
+                        Nakup medialneho priestoru 08 23 Ringier,Aktuality,
+                    ","
+                        2023118/VS2023118/SS/KS
+                    "
 14,2023-08-17,-288.0,EUR,"euroAWK, spol. s r. o.","Platba/euroAWK, BB 08 jurik",2370122/VS2370122/SS/KS
 15,2023-08-17,-84.0,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac plagat Kendra",2023441/VS2023441/SS/KS
 16,2023-08-17,3000.0,EUR,Kristina Mikulova,"Platba/Kristina Mikulova, dar 2023",
