@@ -39,18 +39,8 @@ index,date,amount,currency,account_name,message,vs
 37,2023-07-25,-13.99,EUR,,INT NÁKUP POS EUR CANVA* I03854-11076001 / HTTPSCANVA.CO / (POS RHM0EZQC),
 38,2023-07-24,-18.52,EUR,,POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF),
 39,2023-07-24,-82.4,EUR,,POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0),
-40,2023-07-20,-4.6,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),"
-                        
-                    "
-41,2023-07-14,-208.92,EUR,"
-                            LEMICOM spol. s r.o.
-                    ","
-                        Platba
-                    /
-                        Objednavka Belabel 1223877
-                    ","
-                        1223877/VS1223877/SS/KS
-                    "
+40,2023-07-20,-4.6,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),
+41,2023-07-14,-208.92,EUR,LEMICOM spol. s r.o.,Platba/Objednavka Belabel 1223877,1223877/VS1223877/SS/KS
 42,2023-07-13,-27.88,EUR,,EUR NÁKUP POS TWILIO.COM / DUBLIN / (POS 53IIYEDY),
 43,2023-06-30,-0.0,EUR,,Poplatok za balík,
 44,2023-06-30,750.0,EUR,Tatana Stancikova,Platba/DAR,3006/VS3006/SS/KS308
