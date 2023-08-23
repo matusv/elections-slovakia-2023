@@ -1,103 +1,127 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-08-18,-150.0,EUR,,EUR NÁKUP POS FACEBK VRH5LSFUU2 / fb.me/ads / (POS 99999999),
-1,2023-08-17,-438.0,EUR,PTA,Platba/rychlorozkladaci stan s brandovanim fa: 23081601,23081501/VS23081501/SS/KS
-2,2023-08-17,-336.0,EUR,"Petit Press, a.s.",Platba/Inzercia Echo TP23315114 kandidat Rusina,233151114/VS233151114/SS/KS
-3,2023-08-17,-664.8,EUR,ZILINCAN MATEJ,Platba/prenajom tlac bilboard kandidat ZA LUDI Stanislav Svaby,502023/VS0502023/SS/KS
-4,2023-08-17,-150.0,EUR,,EUR NÁKUP POS FACEBK YDJXGSTUU2 / fb.me/ads / (POS 99999999),
-5,2023-08-15,800.0,EUR,,"VKLAD V HOTOVOSTI/Dar, Stanislav Svaby",
-6,2023-08-14,3000.0,EUR,Jaroslav Rusina,Platba/Jaroslav Rusina - 84,"
-                        VS/SS/KS8
+0,2023-08-21,250.0,EUR,Anton Kučík,PLATBA/Anton Kučík 123,
+1,2023-08-21,-320.0,EUR,,EUR NÁKUP POS FACEBK GZ7RYSXTU2 / fb.me/ads / (POS 99999999),
+2,2023-08-21,-100.0,EUR,,EUR NÁKUP POS FACEBK HFYSRS3VX2 / fb.me/ads / (POS 99999999),
+3,2023-08-21,-210.0,EUR,,EUR NÁKUP POS FACEBK F7S3KSTUU2 / fb.me/ads / (POS 99999999),
+4,2023-08-18,-150.0,EUR,,EUR NÁKUP POS FACEBK VRH5LSFUU2 / fb.me/ads / (POS 99999999),
+5,2023-08-17,-438.0,EUR,PTA,Platba/rychlorozkladaci stan s brandovanim fa: 23081601,23081501/VS23081501/SS/KS
+6,2023-08-17,-336.0,EUR,"Petit Press, a.s.",Platba/Inzercia Echo TP23315114 kandidat Rusina,233151114/VS233151114/SS/KS
+7,2023-08-17,-664.8,EUR,ZILINCAN MATEJ,Platba/prenajom tlac bilboard kandidat ZA LUDI Stanislav Svaby,502023/VS0502023/SS/KS
+8,2023-08-17,-150.0,EUR,,EUR NÁKUP POS FACEBK YDJXGSTUU2 / fb.me/ads / (POS 99999999),
+9,2023-08-15,800.0,EUR,,"VKLAD V HOTOVOSTI/Dar, Stanislav Svaby",
+10,2023-08-14,3000.0,EUR,Jaroslav Rusina,Platba/Jaroslav Rusina - 84,VS/SS/KS8
+11,2023-08-14,-100.0,EUR,,EUR NÁKUP POS FACEBK Q748XRPUX2 / fb.me/ads / (POS 99999999),
+12,2023-08-11,-80.0,EUR,Krajňáková Ľubica,Platba/Vizazisticke sluzby: fa2023027,2023027/VS2023027/SS/KS
+13,2023-08-11,-100.0,EUR,,EUR NÁKUP POS FACEBK 2A62VRBUX2 / fb.me/ads / (POS 99999999),
+14,2023-08-09,700.0,EUR,Katarina Gajdosova,Platba/Gajdosova Katarina,VS/SS/KS308
+15,2023-08-08,-645.0,EUR,Lenka Hajdukova,"Platba/vizaz, styling, makeup pre fotenie kandidatov",20230816/VS20230816/SS/KS
+16,2023-08-08,-216.72,EUR,Róbert Páleník,Platba/prenajom vozidla TT831HN 07 2023,20231600/VS20231600/SS/KS
+17,2023-08-08,-216.77,EUR,Róbert Páleník,Platba/prenajom vozidla TT986JF 07 2023,20231599/VS20231599/SS/KS
+18,2023-08-07,-1948.0,EUR,,POS nákup ISTORES AVION / BRATISLAVA / (POS G2NPS897),
+19,2023-08-03,1500.0,EUR,Jaroslav Rusina,Platba/Jaroslav Rusina - 84,VS/SS/KS8
+20,2023-08-02,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 07 2023",20230009/VS20230009/SS/KS308
+21,2023-08-02,-41.96,EUR,,EUR NÁKUP POS FACEBK NNVGLRBUX2 / fb.me/ads / (POS 99999999),
+22,2023-08-01,-100.0,EUR,,EUR NÁKUP POS FACEBK MLY55RXTX2 / fb.me/ads / (POS 99999999),
+23,2023-07-31,-6.0,EUR,,Poplatky za transakcie,
+24,2023-07-31,-19.0,EUR,,Poplatok za balík,
+25,2023-07-31,-3000.0,EUR,,Výber z bankomatu TB Bela / Trencin / (ATM TBIP174D),
+26,2023-07-28,-870.0,EUR,"UNIPOSTER, s.r.o.",Platba/Bilboardy zaloha fa c. 23VZ/007,23007/VS23007/SS/KS
+27,2023-07-28,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 06 2023",20230008/VS20230008/SS/KS308
+28,2023-07-27,-5280.0,EUR,MM PLUS s.r.o.,Platba/prenajom auta MM PLUS s.r.o.: 2023145 - ZA LUDI - 2023/07,2023145/VS2023145/SS/KS
+29,2023-07-26,-243.76,EUR,RASID GARIPOV,"PLATBA VA23072605955/stativ, adapter na stativ",VS230115057
+30,2023-07-26,-320.0,EUR,"MUZIKER, a.s.",Platba/mikrofony set dva krat,232816586/VS232816586/SS/KS308
+31,2023-07-26,-4644.0,EUR,PTA,"Platba/BBD najom, tlac, montaz uhr. faktury: 23072401",23072401/VS23072401/SS/KS
+32,2023-07-25,-31794.0,EUR,HAVOC s.r.o.,"
+                        Platba
+                    /
+                        PRODUKCIA A VYROBA TV SPOTU ZALOHA
+                    ","
+                        20230064/VS20230064/SS/KS0308
                     "
-7,2023-08-14,-100.0,EUR,"
+33,2023-07-25,91000.0,EUR,"
+                            ZA ĽUDÍ
+                    ","
+                        Platba
+                    /
+                        prevod prostriedkov z bezneho uctu strany ZA LUDI
+                    ","
+                        25072023/VS25072023/SS/KS
+                    "
+34,2023-07-24,-100.0,EUR,"
                             
                     ","
-                        EUR NÁKUP POS FACEBK Q748XRPUX2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK CB8UYR3VX2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-8,2023-08-11,-80.0,EUR,"
-                            Krajňáková Ľubica
+35,2023-07-21,-450.0,EUR,"
+                            NEMETH BORIS
                     ","
                         Platba
                     /
-                        Vizazisticke sluzby: fa2023027
+                        portret foto podla zadania
                     ","
-                        2023027/VS2023027/SS/KS
+                        62023/VS0062023/SS/KS
                     "
-9,2023-08-11,-100.0,EUR,"
+36,2023-07-18,-300.0,EUR,"
                             
                     ","
-                        EUR NÁKUP POS FACEBK 2A62VRBUX2 / fb.me/ads / (POS 99999999)
+                        Platba
+                    /
+                        vizaz a uprava vlasov na fotenie
+                    ","
+                        32023/VS032023/SS/KS
+                    "
+37,2023-07-17,-1800.0,EUR,"
+                            CREA:THINK s. r. o.
+                    ","
+                        Platba
+                    /
+                        Prave na webe 1. vast Uhrada fa 2023028
+                    ","
+                        2023028/VS2023028/SS/KS308
+                    "
+38,2023-07-17,-143.25,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK T7UBARPTU2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-10,2023-08-09,700.0,EUR,"
-                            Katarina Gajdosova
+39,2023-07-11,-100.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 9S9XMR3VX2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+40,2023-07-11,-100.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK MWDR5R7UX2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+41,2023-07-10,-1000.0,EUR,"
+                            Tomáš Meravý
                     ","
                         Platba
                     /
-                        Gajdosova Katarina
+                        ekonomicke poradenstvo T.Meravy
                     ","
-                        VS/SS/KS308
+                        72023/VS072023/SS/KS0308
                     "
-11,2023-08-08,-645.0,EUR,"
-                            Lenka Hajdukova
-                    ","
-                        Platba
-                    /
-                        vizaz, styling, makeup pre fotenie kandidatov
-                    ","
-                        20230816/VS20230816/SS/KS
-                    "
-12,2023-08-08,-216.72,EUR,"
-                            Róbert Páleník
-                    ","
-                        Platba
-                    /
-                        prenajom vozidla TT831HN 07 2023
-                    ","
-                        20231600/VS20231600/SS/KS
-                    "
-13,2023-08-08,-216.77,EUR,"
-                            Róbert Páleník
-                    ","
-                        Platba
-                    /
-                        prenajom vozidla TT986JF 07 2023
-                    ","
-                        20231599/VS20231599/SS/KS
-                    "
-14,2023-08-07,-1948.0,EUR,,POS nákup ISTORES AVION / BRATISLAVA / (POS G2NPS897),
-15,2023-08-03,1500.0,EUR,Jaroslav Rusina,Platba/Jaroslav Rusina - 84,VS/SS/KS8
-16,2023-08-02,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 07 2023",20230009/VS20230009/SS/KS308
-17,2023-08-02,-41.96,EUR,,EUR NÁKUP POS FACEBK NNVGLRBUX2 / fb.me/ads / (POS 99999999),
-18,2023-08-01,-100.0,EUR,,EUR NÁKUP POS FACEBK MLY55RXTX2 / fb.me/ads / (POS 99999999),
-19,2023-07-31,-6.0,EUR,,Poplatky za transakcie,
-20,2023-07-31,-19.0,EUR,,Poplatok za balík,
-21,2023-07-31,-3000.0,EUR,,Výber z bankomatu TB Bela / Trencin / (ATM TBIP174D),
-22,2023-07-28,-870.0,EUR,"UNIPOSTER, s.r.o.",Platba/Bilboardy zaloha fa c. 23VZ/007,23007/VS23007/SS/KS
-23,2023-07-28,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 06 2023",20230008/VS20230008/SS/KS308
-24,2023-07-27,-5280.0,EUR,MM PLUS s.r.o.,Platba/prenajom auta MM PLUS s.r.o.: 2023145 - ZA LUDI - 2023/07,2023145/VS2023145/SS/KS
-25,2023-07-26,-243.76,EUR,RASID GARIPOV,"PLATBA VA23072605955/stativ, adapter na stativ",VS230115057
-26,2023-07-26,-320.0,EUR,"MUZIKER, a.s.",Platba/mikrofony set dva krat,232816586/VS232816586/SS/KS308
-27,2023-07-26,-4644.0,EUR,PTA,"Platba/BBD najom, tlac, montaz uhr. faktury: 23072401",23072401/VS23072401/SS/KS
-28,2023-07-25,-31794.0,EUR,HAVOC s.r.o.,Platba/PRODUKCIA A VYROBA TV SPOTU ZALOHA,20230064/VS20230064/SS/KS0308
-29,2023-07-25,91000.0,EUR,ZA ĽUDÍ,Platba/prevod prostriedkov z bezneho uctu strany ZA LUDI,25072023/VS25072023/SS/KS
-30,2023-07-24,-100.0,EUR,,EUR NÁKUP POS FACEBK CB8UYR3VX2 / fb.me/ads / (POS 99999999),
-31,2023-07-21,-450.0,EUR,NEMETH BORIS,Platba/portret foto podla zadania,62023/VS0062023/SS/KS
-32,2023-07-18,-300.0,EUR,,Platba/vizaz a uprava vlasov na fotenie,32023/VS032023/SS/KS
-33,2023-07-17,-1800.0,EUR,CREA:THINK s. r. o.,Platba/Prave na webe 1. vast Uhrada fa 2023028,2023028/VS2023028/SS/KS308
-34,2023-07-17,-143.25,EUR,,EUR NÁKUP POS FACEBK T7UBARPTU2 / fb.me/ads / (POS 99999999),
-35,2023-07-11,-100.0,EUR,,EUR NÁKUP POS FACEBK 9S9XMR3VX2 / fb.me/ads / (POS 99999999),
-36,2023-07-11,-100.0,EUR,,EUR NÁKUP POS FACEBK MWDR5R7UX2 / fb.me/ads / (POS 99999999),
-37,2023-07-10,-1000.0,EUR,Tomáš Meravý,Platba/ekonomicke poradenstvo T.Meravy,72023/VS072023/SS/KS0308
-38,2023-07-03,-30.97,EUR,,EUR NÁKUP POS FACEBK MY6W9RKUX2 / fb.me/ads / (POS 99999999),
-39,2023-06-30,-19.0,EUR,,Poplatok za balík,
-40,2023-06-26,-100.0,EUR,,EUR NÁKUP POS FACEBK D9DMHQPUX2 / fb.me/ads / (POS 99999999),
-41,2023-06-19,-111.07,EUR,,EUR NÁKUP POS FACEBK 3FMBRQFUU2 / fb.me/ads / (POS 99999999),
-42,2023-06-05,9000.0,EUR,ZA ĽUDÍ,Platba/Prevod fin prostriedkov z bezneho uctu ZA LUDI,5062023/VS05062023/SS/KS
-43,2023-05-31,-0.0,EUR,,Poplatok za balík,
+42,2023-07-03,-30.97,EUR,,EUR NÁKUP POS FACEBK MY6W9RKUX2 / fb.me/ads / (POS 99999999),
+43,2023-06-30,-19.0,EUR,,Poplatok za balík,
+44,2023-06-26,-100.0,EUR,,EUR NÁKUP POS FACEBK D9DMHQPUX2 / fb.me/ads / (POS 99999999),
+45,2023-06-19,-111.07,EUR,,EUR NÁKUP POS FACEBK 3FMBRQFUU2 / fb.me/ads / (POS 99999999),
+46,2023-06-05,9000.0,EUR,ZA ĽUDÍ,Platba/Prevod fin prostriedkov z bezneho uctu ZA LUDI,5062023/VS05062023/SS/KS
+47,2023-05-31,-0.0,EUR,,Poplatok za balík,
