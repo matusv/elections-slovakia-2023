@@ -1,943 +1,1107 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-08-21,1000.0,EUR,Jan Hargas,Platba/Dar - Jan Hargas,31/VS31/SS/KS
-1,2023-08-21,250.0,EUR,Mgr.Juraj Mikulasek,PLATBA/Dar Juraj Mikulasek,123/VS123/SS/KS
-2,2023-08-21,-80.0,EUR,KOSICE MESTO,"Platba/Mesto Kosice, spravny poplatok 21.8.",3451230346/VS3451230346/SS/KS
-3,2023-08-21,-80.0,EUR,KOSICE MESTO,"Platba/Mesto Kosice, poplatok za priestor 21.8.",3451230347/VS3451230347/SS/KS
-4,2023-08-21,100.0,EUR,MATLON MICHAL,PLATBA,256508/VS256508/SS/KS
-5,2023-08-21,50.0,EUR,Jaroslava Perlakiová,PLATBA/dar pre Ondreja Prostrednika,19/VS19/SS/KS298
-6,2023-08-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-7,2023-08-21,-800.0,EUR,,EUR NÁKUP POS FACEBK HXTB8RF9D2 / fb.me/ads / (POS 99999999),
-8,2023-08-21,-8.0,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-9,2023-08-21,-13.45,EUR,,POS nákup 345 Pezinok / Pezinok / (POS TN129703),
-10,2023-08-21,-132.52,EUR,,POS nákup OMV 2371 / Bratislava / (POS OSK1135B),
-11,2023-08-21,-800.0,EUR,,EUR NÁKUP POS FACEBK B3VK6TFUJ2 / fb.me/ads / (POS 99999999),
-12,2023-08-21,-8.82,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-13,2023-08-19,150.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
-14,2023-08-19,20.0,EUR,Papuga Ján,Platba/PS dar Jan Papuga,264276/VS264276/SS/KS308
-15,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,116/VS116/SS/KS0308
-16,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,134/VS134/SS/KS0308
-17,2023-08-18,50.0,EUR,EVA DUBOVSKA,DE23081866028 MBANKO6210670122/DAKUJEM A DRZIM PALCE,
-18,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","Platba/Pandan, kandidatske letaky a tricka",202308037/VS202308037/SS/KS
-19,2023-08-18,10.0,EUR,Konkol Karol,PLATBA/PS dar Karol Konkol,264267/VS264267/SS/KS0308
-20,2023-08-18,100.0,EUR,STREDL TOMAS,PLATBA/PS dar Tomas Stredl 069,69/VS069/SS/KS
-21,2023-08-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-22,2023-08-18,-800.0,EUR,,EUR NÁKUP POS FACEBK 6VLGWSX8D2 / fb.me/ads / (POS 99999999),
-23,2023-08-18,-800.0,EUR,,EUR NÁKUP POS FACEBK *8CDEVQBM52 / fb.me/ads / (POS 99999999),
-24,2023-08-18,-4.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-25,2023-08-17,50.0,EUR,Roman Krcmar,Platba/PS dar Roman Krcmar,264260/VS264260/SS/KS308
-26,2023-08-17,14.0,EUR,Kello Filip,Platba/PS dar Filip Kello,264257/VS264257/SS/KS308
-27,2023-08-17,-288.0,EUR,"euroAWK, spol. s r. o.","Platba/euroAWK, BB 08 jurik",2370122/VS2370122/SS/KS
-28,2023-08-17,-84.0,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac plagat Kendra",2023441/VS2023441/SS/KS
-29,2023-08-17,3000.0,EUR,Kristina Mikulova,"Platba/Kristina Mikulova, dar 2023",
-30,2023-08-17,-27000.0,EUR,"GROOW DIGITAL, s. r.","Platba/Nakup medialneho priestoru 08 23 Ringier,Aktuality,",2023118/VS2023118/SS/KS
-31,2023-08-17,-60.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 19.7.",1510066312/VS1510066312/SS2303077200/KS0558
-32,2023-08-17,-120.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 23.7.",1510066312/VS1510066312/SS2303077201/KS0558
-33,2023-08-17,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
-34,2023-08-17,30.0,EUR,MISIK MICHAL,PLATBA/PS dar Michal Misik,264250/VS264250/SS/KS0308
-35,2023-08-17,-418.5,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850193),
-36,2023-08-17,-800.0,EUR,,EUR NÁKUP POS FACEBK R6DR2TPTJ2 / fb.me/ads / (POS 99999999),
-37,2023-08-17,-7.6,EUR,,POS nákup PARKOVANI PIESTIANY / PIESTIANY / (POS 37473836),
-38,2023-08-17,-5.32,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-39,2023-08-16,50.0,EUR,Branislav Osif,Platba/PS dar Branislav Osif,264251/VS264251/SS/KS308
-40,2023-08-16,-272.4,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac a vylep BB 09 Kendra",2023024/VS2023024/SS/KS
-41,2023-08-16,20.0,EUR,JANKECH ROBERT,Platba,264248/VS264248/SS/KS
-42,2023-08-16,-60.0,EUR,David Marko,"Platba/Marko, tlmocenie do SPJ",612023/VS612023/SS/KS
-43,2023-08-16,-2500.0,EUR,KEED Slovakia,"Platba/KEED, koordinacia kampane zapadne slovensko",2023001/VS2023001/SS/KS
-44,2023-08-16,-3600.0,EUR,ARTON s.r.o.,"Platba/Arton, tlac a instalacia baneru 2ks september",230452/VS230452/SS/KS
-45,2023-08-16,-656.4,EUR,"Pandan, s. r. o.","Platba/Pandan, odznaky, letaky, nalepka na auto",202307036/VS202307036/SS/KS
-46,2023-08-16,70.0,EUR,ANNA URBASIKOVA,PLATBA/DAR,93916/VS0000093916/SS/KS
-47,2023-08-16,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-48,2023-08-16,-168.5,EUR,,INT NÁKUP POS EUR edgarpower.sk / Ostrava - Vit / (POS GATE7353),
-49,2023-08-15,50.0,EUR,Stanislav Sarissky,Platba/PS dar Stanislav Sarissky,76941/VS76941/SS/KS298
-50,2023-08-15,127.2,EUR,MIROSLAVA VERMEIREN,PLATBA/078,78/VS0000000078/SS/KS0308
-51,2023-08-15,270.0,EUR,Lubica Bednarova,Platba/Dar PS Lubica Bednarova,66/VS66/SS/KS
-52,2023-08-15,5000.0,EUR,"Varga Marián, Ing.",Platba/Dar Marian Varga pre Lucia Plavakova,2/VS002/SS6701/KS0558
-53,2023-08-15,-3576.0,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, medialna agentura sluzby",2023115/VS2023115/SS/KS
-54,2023-08-15,-180.0,EUR,STONED MEDIA s.r.o.,"Platba/Stoned media, inzercia led obrazovka Prostrednik",23080003/VS23080003/SS/KS
-55,2023-08-15,-10000.0,EUR,Inako s.r.o.,"Platba/Inako, marketingove sluzby",1/VS001/SS/KS
-56,2023-08-15,100.0,EUR,NÁRODNÁ BANKA SLOVEN,DT23081550289 FT258879949271,
-57,2023-08-15,50.0,EUR,Milan Hausner,Platba/PS dar Milan Hausner,80931/VS80931/SS/KS0308
-58,2023-08-15,250.0,EUR,Jakub Jochman,Platba/PS dar Jakub Jochman,91/VS91/SS/KS0308
-59,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK *8QAQNQ3N52 / fb.me/ads / (POS 99999999),
-60,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK 4KY5HTBUJ2 / fb.me/ads / (POS 99999999),
-61,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK U9LABSB9D2 / fb.me/ads / (POS 99999999),
-62,2023-08-15,-365.0,EUR,,EUR NÁKUP POS Hotel on Booking.com / Amsterdam / (POS 99999999),
-63,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK *ACZ6LRBN52 / fb.me/ads / (POS 99999999),
-64,2023-08-14,100.0,EUR,"Krištofíková Oľga, M",Platba/PS dar Olga Kristofikova,124/VS124/SS/KS308
-65,2023-08-14,5000.0,EUR,"Maar Stanislav, RNDr",Platba/lucia plavakova,2/VS002/SS/KS
-66,2023-08-14,100.0,EUR,BUZALKA JURAJ,Platba/Dar pre Ondreja prostrednika,19/VS019/SS/KS308
-67,2023-08-14,-5000.0,EUR,"Varga Marián, Ing.",Platba/vratenie mylnej platby dar,
-68,2023-08-14,5000.0,EUR,"Varga Marián, Ing.",Platba/Dar Marian Varga pre Lucia Plavakova,2/VS002/SS6701/KS0558
-69,2023-08-14,20.0,EUR,SLOSAR TOMAS,PLATBA/PS dar Tomas Slosar,134/VS134/SS/KS0308
-70,2023-08-14,100.0,EUR,JURGOVA DANIELA,"PLATBA/Daniela Jurgova, dar pre Ondreja Prostrednika",19/VS019/SS/KS
-71,2023-08-14,50.0,EUR,NATALIA NASH,PLATBA/dar,34/VS34/SS/KS
-72,2023-08-14,50.0,EUR,Peter Sarvas,Platba/PS dar Peter Sarvas,264177/VS264177/SS/KS0308
-73,2023-08-14,50.0,EUR,Vladislav Berezny,Platba/PS dar Vladislav Berezny,264172/VS264172/SS/KS0308
-74,2023-08-14,100.0,EUR,Olga Benesova,Platba/Olga Benesova dar pre Ondreja Prostrednika,19/VS19/SS/KS
-75,2023-08-14,-122.16,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
-76,2023-08-14,-2.1,EUR,,POS nákup EEI / BRATISLAVA / (POS 37473893),
-77,2023-08-14,-800.0,EUR,,EUR NÁKUP POS FACEBK AVWLCT3UJ2 / fb.me/ads / (POS 99999999),
-78,2023-08-11,10.0,EUR,Marek Vrabec,Platba/PS dar Marek Vrabec,264127/VS264127/SS/KS0308
-79,2023-08-11,90.0,EUR,Martina Missikova,Platba PO23081153409818/dar pre Ondrej Prostrednik 019,
-80,2023-08-11,-2587.25,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, najomne kancelaria jul",23341/VS23341/SS/KS
-81,2023-08-11,-1354.8,EUR,"Bratiska, s.r.o.","Platba/Bratiska, tricko, mikina a graficke prace",2023100/VS2023100/SS/KS
-82,2023-08-11,-6436.8,EUR,"Pandan, s. r. o.","Platba/Pandan, pera, tasky, kandidatske letaky",202308001/VS202308001/SS/KS
-83,2023-08-11,250.0,EUR,Miroslav Otocka,Platba/PS dar Miroslav Otocka,264109/VS264109/SS/KS308
-84,2023-08-11,100.0,EUR,"Križan Peter, MUDr.",Platba/Peter Krizan dar pre Ondreja Prostrednika,19/VS019/SS/KS
-85,2023-08-11,127.2,EUR,Peter Brozman,"Platba/Dar, Peter Brozman",37/VS37/SS/KS
-86,2023-08-11,250.0,EUR,Vieroslav Levrinc,Platba/kandidatka 112,112/VS112/SS/KS
-87,2023-08-11,-73.0,EUR,ORANGE SLOVENSKO A.S,Platba/QR platba Orange,401972955/VS401972955/SS/KS308
-88,2023-08-11,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-89,2023-08-11,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
-90,2023-08-11,-128.85,EUR,,POS nákup OMV 2371 / Bratislava / (POS OSK1135B),
-91,2023-08-11,-800.0,EUR,,EUR NÁKUP POS FACEBK 4AXPXQF9D2 / fb.me/ads / (POS 99999999),
-92,2023-08-11,-40.52,EUR,,POS nákup IKEA SK ecom / Bratislava / (POS E3800067),
-93,2023-08-11,-1.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-94,2023-08-11,-556.36,EUR,,EUR NÁKUP POS FACEBK *98C6HRBN52 / fb.me/ads / (POS 99999999),
-95,2023-08-10,25.0,EUR,Martin Varchol,Platba/PS dar Martin Varchol,264110/VS264110/SS/KS
-96,2023-08-10,100.0,EUR,KÁRA SERGEJ,Platba/kampan Sergej Kara,51/VS051/SS/KS
-97,2023-08-10,250.0,EUR,Jan Turek,Platba/PS dar Jan Turek,51007/VS51007/SS/KS308
-98,2023-08-10,300.0,EUR,Ing.Ladislav Gala,PLATBA,105/VS105/SS/KS
-99,2023-08-10,150.0,EUR,MICHAL STYK,PLATBA/DAR MICHAL STYK,87/VS0000000087/SS/KS
-100,2023-08-10,100.0,EUR,Gabor Bordacs,Platba,240078/VS240078/SS/KS
-101,2023-08-10,-5000.0,EUR,ING. ŠTEFAN KIŠŠ,"Platba/Kiss, ekonomicke poradenstvo",723/VS723/SS/KS
-102,2023-08-10,-500.0,EUR,"HOTEL NARODNY DOM, S","Platba/Hotel narodny dom, prenajom priestorov",2300123/VS2300123/SS/KS308
-103,2023-08-10,20.0,EUR,MALIKOVA VANDA,PLATBA,156791/VS156791/SS/KS
-104,2023-08-10,50.0,EUR,ANTON KUBALA,PLATBA/PS dar Anton Kubala,264055/VS264055/SS/KS0308
-105,2023-08-10,-40.0,EUR,MESTO PIEŠŤANY,"Platba/Zvolen, spravny poplatok - akcia doprava",221004/VS221004/SS/KS
-106,2023-08-10,50.0,EUR,"Hrnčiarik Pavel, Ing",Platba/PS dar Pavel Hrnciarik,264092/VS264092/SS/KS308
-107,2023-08-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-108,2023-08-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-109,2023-08-10,-1.5,EUR,,POS nákup QEX AS PEZINOK / TRENCIN / (POS 37473127),
-110,2023-08-10,-5.32,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-111,2023-08-10,-133.31,EUR,,EUR NÁKUP POS FACEBK BQX6CTBUJ2 / fb.me/ads / (POS 99999999),
-112,2023-08-09,500.0,EUR,"Kendra Pavel, Ing.",Platba/PS dar Pavel Kendra,95/VS095/SS/KS308
-113,2023-08-09,100.0,EUR,"Polešenský Milan, Mg",Platba/PS dar Milan Polesensky,57/VS057/SS/KS308
-114,2023-08-09,-1000.0,EUR,Vajda Ivan,"Platba/Vajda, graficke prace",2023011/VS2023011/SS/KS308
-115,2023-08-09,10.0,EUR,"Bednár Libor, Mgr.,","Platba/Ondrej Prostrednik, dar pre Ondreja Prostrednika",19/VS019/SS/KS
-116,2023-08-09,50.0,EUR,Lukas Sausa,Platba/PS dar Lukas Sausa,97/VS97/SS/KS308
-117,2023-08-09,20.0,EUR,Rafael Labanc,Platba/PS dar Rafael Labanc,264074/VS264074/SS/KS308
-118,2023-08-09,-5000.0,EUR,,VÝBER V HOTOVOSTI/vklad do pokladne,
-119,2023-08-09,500.0,EUR,LAURINC MILAN,PLATBA/Milan Laurinc - c.53,53/VS053/SS/KS
-120,2023-08-09,69.0,EUR,Olšanský Martin,Platba/dar,
-121,2023-08-09,-127.2,EUR,,"POS nákup Umelka, BA, Dostojev.r / Bratislava / (POS 03044373)",
-122,2023-08-09,-800.0,EUR,,EUR NÁKUP POS FACEBK *HYZSNQ7M52 / fb.me/ads / (POS 99999999),
-123,2023-08-09,-800.0,EUR,,EUR NÁKUP POS FACEBK PURG6SB9D2 / fb.me/ads / (POS 99999999),
-124,2023-08-09,-327.0,EUR,,POS nákup GOPAY *GRAPEFESTIVAL.SK / grapefestival / (POS EE800048),
-125,2023-08-09,-800.0,EUR,,EUR NÁKUP POS FACEBK DZXUUSFUJ2 / fb.me/ads / (POS 99999999),
-126,2023-08-09,-149.15,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850122),
-127,2023-08-09,-17.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
-128,2023-08-08,60.0,EUR,David Singovsky,Platba/Dar David Singovsky,143/VS143/SS/KS
-129,2023-08-08,100.0,EUR,elevance s. r. o.,Platba/PS dar 54623863,47/VS47/SS/KS308
-130,2023-08-08,100.0,EUR,Tibor Forro,Platba/PS dar Tibor Forro,47/VS47/SS/KS308
-131,2023-08-08,-840.0,EUR,MUSIC FORUM V.O.S.,"Platba/Music forum, reziserske prace Jaurova spot",20230147/VS20230147/SS/KS
-132,2023-08-08,-210.0,EUR,ASOCIÁCIA DIVADELNÁ NITRA,"Platba/Asociacia Divadelna Nitra, prenajom priestorov Nitra 21.6.",701202308/VS0701202308/SS/KS
-133,2023-08-08,-500.0,EUR,VADOVICOVA MARIANN,"Platba/Vadovicova, kamera spot Jaurova",20230010/VS20230010/SS/KS308
-134,2023-08-08,-3500.0,EUR,Jan Kral,"PLATBA VA23080806477/Kral, marketingove a komunikacne sluzby jul",120230004
-135,2023-08-08,-4.06,EUR,JUDR. RUZENA BAYEROV,"Platba/Bayerova, legalizacia 1ks podpis",1972023/VS1972023/SS/KS
-136,2023-08-08,-2587.25,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, najomne za kancelariu 08",23399/VS23399/SS/KS
-137,2023-08-08,-39.6,EUR,Mesto Nitra,"Platba/Nitra, Dan za uzivanie verejneho priestranstva 16.8.",1400347832/VS1400347832/SS2303056823/KS558
-138,2023-08-08,-2.4,EUR,Mesto Prievidza,"Platba/Prievidza, Dan za verejne priestranstvo 2.8.",1500181112/VS1500181112/SS2303029286/KS558
-139,2023-08-08,-98640.0,EUR,"BIGMEDIA, SPOL. S R.O.",Platba/BigMedia 09 2023,122390127/VS122390127/SS/KS
-140,2023-08-08,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
-141,2023-08-08,800.0,EUR,Ida Bihariova,Platba/dar Irena Bihariova,10/VS10/SS/KS
-142,2023-08-08,50.0,EUR,Ing.Ludmila Hoffmanova,PLATBA,134/VS134/SS/KS
-143,2023-08-08,15.0,EUR,Hrivnak Radomir,PLATBA/Dobrovolny prispevok - pre Martinu,134/VS0000000134/SS0000000000/KS0000
-144,2023-08-08,100.0,EUR,PROLINGO S.R.O.,PLATBA/PS dar Ondrej Prostrednik,19/VS019/SS/KS0308
-145,2023-08-08,50.0,EUR,OTO STRAUCH,PLATBA/PS dar Oto Strauch,65988/VS65988/SS/KS0308
-146,2023-08-08,400.0,EUR,Miller Alexandra,Platba/PS dar Alexandra Miller,2/VS002/SS/KS308
-147,2023-08-08,100.0,EUR,Pavel Ruzek,Platba/Dar pre Ondreja Prostrednika,19/VS19/SS/KS
-148,2023-08-08,20.0,EUR,Viera Novakova,Platba/PS dar Viera Novakova,134/VS134/SS/KS
-149,2023-08-08,150.0,EUR,BERDISOVÁ LUCIA,Platba/PS dar Lucia Berdisova,2/VS002/SS/KS308
-150,2023-08-08,-799.59,EUR,,EUR NÁKUP POS FACEBK QCNU4SB9D2 / fb.me/ads / (POS 99999999),
-151,2023-08-08,-799.91,EUR,,EUR NÁKUP POS FACEBK *DQBQEQ3N52 / fb.me/ads / (POS 99999999),
-152,2023-08-07,150.0,EUR,Jolana Kusa,Platba/Dar Jolana Kusa na osobnu kampan (letaky),150/VS150/SS435903/KS
-153,2023-08-07,100.0,EUR,Michal Ozaniak,DE23080762554 EBNTS011228193/Dar Michal Ozaniak,65964/VS65964/SS/KS
-154,2023-08-07,48.89,EUR,,POS návrat NAY INTERNETDOM / BRATISLAVA /,
-155,2023-08-07,70.0,EUR,"Nagyová Janka, PhDr.",Platba/Janka Nagyova dar pre Ondreja Prostrednika,
-156,2023-08-07,500.0,EUR,STRAPÁK DANIEL,Platba/Daniel Strapak dar pre Ondreja Prostrednika,19/VS019/SS/KS
-157,2023-08-07,100.0,EUR,MILAN KOLIBIAR,PLATBA/PS DAR MILAN KOLIBIAR,263957/VS0000263957/SS/KS0308
-158,2023-08-07,50.0,EUR,ALEXANDER KASJANOV,"PLATBA/ALEXANDER KASJANOV, DAR PRE ONDREJA PROSTREDNIKA",19/VS0000000019/SS/KS0558
-159,2023-08-07,100.0,EUR,Richard Horňák,PLATBA/Richard Hornak Andreja Hlinku 6 Velky Saris 08221,263984/VS263984/SS/KS
-160,2023-08-07,100.0,EUR,Michal Behun,"Platba/VS: 019 Michal Behun, dar pre Ondreja Prostrednika",19/VS19/SS/KS
-161,2023-08-07,100.0,EUR,Štefan Markuš,PLATBA/Stefan Markus dar pre O. Prostrednika,19/VS19/SS/KS
-162,2023-08-07,172.0,EUR,NATALIA NASH,PLATBA/dar,34/VS034/SS/KS
-163,2023-08-07,-960.0,EUR,CONTENT FACTORY s. r,"Platba/content factory, prenajom techniky spot Jaurova",2308001/VS2308001/SS/KS
-164,2023-08-07,-400.0,EUR,Búbelová Barbora,"Platba/Bubelova, strih audiovizualneho diela Jaurova",101/VS0101/SS/KS
-165,2023-08-07,-1080.0,EUR,EDEN CARS SRO,"Platba/Eden cars, prenajom dodavky na august",302300811/VS302300811/SS/KS308
-166,2023-08-07,400.0,EUR,Robert Lifka,Platba/PS dar pre Ondreja Prostrednika odRobert Lifka,19/VS19/SS/KS308
-167,2023-08-07,200.0,EUR,Stanislav Gajdos,"Platba/Stanislav Gajdos, dar pre Ondreja Prostrednika",19/VS19/SS/KS
-168,2023-08-07,30.0,EUR,Zuzana David,"Platba/Zuzana David, dar pre Ondreja Prostrednika",19/VS19/SS/KS
-169,2023-08-07,100.0,EUR,Norbert Uhnak,Platba,68358/VS68358/SS/KS
-170,2023-08-07,200.0,EUR,Rudolf Sikora,Platba,2/VS2/SS/KS
-171,2023-08-07,10.0,EUR,Derydt Maxime,Platba,263981/VS263981/SS/KS
-172,2023-08-07,100.0,EUR,"Endrődyová Renáta, J",Platba/Dar pre Bohinska Nada,116/VS116/SS/KS
-173,2023-08-07,-800.0,EUR,,EUR NÁKUP POS FACEBK FTVFTSPUJ2 / fb.me/ads / (POS 99999999),
-174,2023-08-07,-105.01,EUR,,EUR NÁKUP POS FACEBK NA7BSR79D2 / fb.me/ads / (POS 99999999),
-175,2023-08-07,-800.0,EUR,,EUR NÁKUP POS FACEBK 4BVXPR3AD2 / fb.me/ads / (POS 99999999),
-176,2023-08-05,50.0,EUR,Váradi Krisztián,Platba/PS dar Krisztian Varadi 069,69/VS069/SS/KS308
-177,2023-08-05,200.0,EUR,Eva Kutalova,Platba/Eva Kutalova dar pre Ondreja Prostrednika,19/VS19/SS/KS968
-178,2023-08-05,30.0,EUR,"Miklánek Ján, Mgr.",Platba/PS dar Jan Miklanek,57890/VS57890/SS/KS308
-179,2023-08-05,20.0,EUR,Lubomir Bechny,Platba/PS dar Lubo Bechny,19/VS19/SS/KS0308
-180,2023-08-04,100.0,EUR,v. De Watering Krame,Platba/019 Ondrej Prostrednik,19/VS019/SS/KS
-181,2023-08-04,20.0,EUR,Marta Botikova,Platba/PS dar_ Ondrej Prostrednik_ od_Marta Botikova,19/VS19/SS/KS308
-182,2023-08-04,-388.8,EUR,"ISPA, spol. s r.o.","Platba/ISPA, 2ks BB 09 Jurik",23950178/VS23950178/SS/KS
-183,2023-08-04,-17376.0,EUR,FOCUS CENTRUM PRE SO,"Platba/Focus, fokusove skupiny a kvantitativny prieskum",20232070/VS20232070/SS/KS
-184,2023-08-04,20.0,EUR,Vnutorny ucet banky,"PLATBA/CZ9401000001159879250297,KOVACIC KAROL,",150449
-185,2023-08-04,4000.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
-186,2023-08-04,100.0,EUR,"Cifra Matej, Mgr.",Platba/Ondrej Prostrednik,
-187,2023-08-04,-3.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),
-188,2023-08-03,-2300.0,EUR,Chrťan Samuel,"Platba/chrtan, marketingove sluzby jul",202307/VS202307/SS/KS
-189,2023-08-03,-86.8,EUR,MONSTERS CAFE AND BA,"Platba/Monsters cafe, konzum podujatie 31.7.",20230044/VS20230044/SS/KS
-190,2023-08-03,-320.0,EUR,REŠTAURÁCIA MERIDIANA S.R.O.,"Platba/Meridiana, priestory Bojnice 2.8.",23249/VS23249/SS/KS
-191,2023-08-03,-400.0,EUR,House of Art s.r.o.,"Platba/house of art, priestory Nitra 16.8.",62023/VS062023/SS/KS
-192,2023-08-03,-2300.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby komunikacia jul",230018/VS230018/SS/KS
-193,2023-08-03,-1250.0,EUR,Marek Brezovsky,"Platba/Brezovsky, marketingove sluzby koordinatora jul",2023002/VS2023002/SS/KS
-194,2023-08-03,-1000.0,EUR,Marek Brezovsky,"Platba/Brezovsky, marketingove sluzby koordinatora jun",2023001/VS2023001/SS/KS
-195,2023-08-03,-150.0,EUR,Orvoš Dominik,"Platba/Orgos, vizazisticke sluzby",20230029/VS20230029/SS/KS
-196,2023-08-03,-300.0,EUR,Gavenda Daniel,"Platba/Gavenda, postprodukcia video jaurova",2023017/VS2023017/SS/KS
-197,2023-08-03,-480.0,EUR,Samuel Škubla,"Platba/Skubla, zvuk a postprodukcia video spot Jaurova",202318/VS202318/SS/KS
-198,2023-08-03,-80.0,EUR,,"Platba/HZS, reklama kezmarske noviny A6 07/2023",72023/VS072023/SS011/KS
-199,2023-08-03,-3300.0,EUR,Dančiak Martin,"Platba/Danciak, marketingove sluzby jul",2023005/VS2023005/SS/KS
-200,2023-08-03,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
-201,2023-08-03,50.0,EUR,MATLON MICHAL,PLATBA/PS dar Michal Matlon,256508/VS256508/SS/KS0308
-202,2023-08-03,150.0,EUR,MGR. PETER BARTOS,PLATBA/PS dar 50136232,2/VS002/SS/KS
-203,2023-08-03,100.0,EUR,MATULA PETER,"PLATBA/Dar, Peter Matula",135/VS135/SS/KS
-204,2023-08-03,30.0,EUR,MORAVANSKA NADEZDA,PLATBA/PS dar Nadezda Moravanska,99175/VS99175/SS/KS0308
-205,2023-08-03,20.0,EUR,ADAM SEBESTA,"DE23080351507/ADAM SEBESTA, DAR PRE ONDREJA PROSTREDNIKA",019
-206,2023-08-03,20.0,EUR,Pék János,Platba/PS dar Janos Pek Lucia Plavakova,2/VS002/SS79145/KS308
-207,2023-08-03,-800.0,EUR,,EUR NÁKUP POS FACEBK ZT47NR3AD2 / fb.me/ads / (POS 99999999),
-208,2023-08-03,-233.06,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-209,2023-08-03,-800.0,EUR,,EUR NÁKUP POS FACEBK 5URKZRTUJ2 / fb.me/ads / (POS 99999999),
-210,2023-08-03,-363.68,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
-211,2023-08-02,20.0,EUR,Antonin Cech,Platba,
-212,2023-08-02,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby jul",20230014/VS20230014/SS/KS
-213,2023-08-02,-1200.0,EUR,Petrušková Michaela,"Platba/Petruskova, reklamne a marketingove sluzby jul",20230017/VS20230017/SS/KS308
-214,2023-08-02,-2400.0,EUR,"th media, s.r.o.","Platba/th media, PR sluzby jul",20230041/VS20230041/SS/KS
-215,2023-08-02,-2250.0,EUR,Bohinský Štefan,"Platba/Bohinsky, koordinacia terennej kampane jun a jul",2023003/VS2023003/SS/KS
-216,2023-08-02,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/Vojtek, admin sluzby v komunitnom time jul",52023/VS052023/SS/KS
-217,2023-08-02,-900.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby jul druha cast",30723/VS30723/SS/KS
-218,2023-08-02,-3976.8,EUR,More Design s. r. o.,"Platba/More Design, dizajnove sluzby a web jul",202334/VS202334/SS/KS
-219,2023-08-02,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacie jul",20230016/VS20230016/SS/KS
-220,2023-08-02,-2500.0,EUR,Dávid Javorský,"Platba/Javorsky, foto a video sluzby",2023006/VS2023006/SS/KS308
-221,2023-08-02,-3500.0,EUR,Ridzoň Jerguš,"Platba/Ridzon, admin a marketingove sluzby jul",2023017/VS2023017/SS/KS
-222,2023-08-02,100.0,EUR,Ing.Ivan Cejpek,PLATBA/PS dar Ivan Cejpek pre Ingrid Kosovu,12/VS012/SS/KS0308
-223,2023-08-02,100.0,EUR,Gabriela Birosova,Platba/PS dar Gabriela Birosova,2/VS2/SS/KS308
-224,2023-08-02,100.0,EUR,PETRUS PETER,PLATBA/Dar pre Ingrid Kosovu,12/VS012/SS/KS
-225,2023-08-02,100.0,EUR,SMOLKOVA ADRIANA,PLATBA,255794/VS255794/SS/KS
-226,2023-08-02,250.0,EUR,Ganobjak Ľubomír,Platba/PS dar Lubomir Ganobjak,98370/VS98370/SS/KS308
-227,2023-08-02,-800.0,EUR,,EUR NÁKUP POS FACEBK *BYX7HTPM52 / fb.me/ads / (POS 99999999),
-228,2023-08-01,-3.96,EUR,Mesto Zvolen,"Platba/Zvolen, uzivanie verejneho priestranstva 10.8.",1010179709/VS1010179709/SS/KS
-229,2023-08-01,-120.0,EUR,MESTO TRNAVA,"Platba/Trnava, poplatok uzivanie verejneho priestranstva na rok 2023",1500009670/VS1500009670/SS2303028080/KS379
-230,2023-08-01,-1500.0,EUR,Pekár Samuel,"Platba/Pekar, organizacne a admin sluzby jul",202301/VS202301/SS/KS
-231,2023-08-01,-45.48,EUR,"TYPOSET, S.R.O.","Platba/Typoset, natlacky",20230216/VS20230216/SS/KS
-232,2023-08-01,-300.0,EUR,TrollWall AI,"Platba/TrollWall, sluzby k facebook",20230303/VS20230303/SS/KS
-233,2023-08-01,-2500.0,EUR,Matúš Mikšík,"Platba/Miksik, marketingove sluzby jul",20230006/VS20230006/SS/KS
-234,2023-08-01,-2500.0,EUR,MGR. ZUZANA MACUROVA,"Platba/Macurova, admin a organizacne sluzby jul",20230012/VS20230012/SS/KS
-235,2023-08-01,-1500.0,EUR,Karolina Blunarova,"Platba/Blunarova, marketing a administrativne sluzby jul",20723/VS20723/SS/KS
-236,2023-08-01,-1350.0,EUR,Gubka & Fish Media s,"Platba/Gubka, videa 4ks",2023045/VS2023045/SS/KS
-237,2023-08-01,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby",2023002/VS2023002/SS/KS
-238,2023-08-01,-2163.6,EUR,"Pandan, s. r. o.","Platba/Pandan, tasky 500ks, letaky 2500ks",202308053/VS202308053/SS/KS
-239,2023-08-01,-1500.0,EUR,Nina Kelemenova,"Platba/Kelemenova, marketingove sluzby jul",20230001/VS20230001/SS/KS308
-240,2023-08-01,150.0,EUR,Lukas Sausa,Platba/PS dar Lukas Sausa,97/VS97/SS/KS308
-241,2023-08-01,50.0,EUR,DOMINIK BLASKO,DE23080164099 9380103A32121991/258511PS DAR DOMINIK BLASKO,258511
-242,2023-08-01,250.0,EUR,Dr. Andreas Jusko,DE23080159578 204042307312AIP-/Dar pre Lenka Jusko 094,
-243,2023-08-01,50.0,EUR,SKRABAK PETER,PLATBA/PS dar Peter Skrabak,263810/VS263810/SS/KS0308
-244,2023-08-01,1000.0,EUR,LUSCIKOVA DARINA,PLATBA/Dar Darina Luscikova,22/VS022/SS/KS
-245,2023-08-01,100.0,EUR,"Tichý Ján, Ing.",Platba,263859/VS263859/SS/KS
-246,2023-08-01,120.0,EUR,RAPOŠ MARTIN,"Platba/Martin Rapos, dar pre Ondreja Prostrednika",19/VS019/SS/KS
-247,2023-08-01,-800.0,EUR,,EUR NÁKUP POS FACEBK MLNAWQK9D2 / fb.me/ads / (POS 99999999),
-248,2023-08-01,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-249,2023-08-01,-800.0,EUR,,EUR NÁKUP POS FACEBK H8PSZS3UJ2 / fb.me/ads / (POS 99999999),
-250,2023-07-31,-0.0,EUR,,Poplatok za balík,
-251,2023-07-31,200.0,EUR,Mgr.Tina Gazovicova,PLATBA,24/VS024/SS/KS
-252,2023-07-31,180.0,EUR,Kalkan Eva,"PLATBA/Dar, Eva Kalkan",54/VS054/SS/KS
-253,2023-07-31,20.0,EUR,MACEJOVA SASKIA,PLATBA/PS dar Daniel Kuchta,136298/VS136298/SS/KS0308
-254,2023-07-31,-3500.4,EUR,JANA GOGH S. R. O.,"Platba/Gogh, reklamne a marketingove sluzby",20230023/VS20230023/SS/KS
-255,2023-07-31,-2093.0,EUR,AQT s.r.o.,"Platba/aqt, sony objektiv",41127/VS41127/SS/KS
-256,2023-07-31,150.0,EUR,Sivák Lukáš,Platba/PS dar Lukas Sivak,2/VS002/SS/KS308
-257,2023-07-31,-800.0,EUR,,EUR NÁKUP POS FACEBK EEMLURB9D2 / fb.me/ads / (POS 99999999),
-258,2023-07-31,-800.0,EUR,,EUR NÁKUP POS FACEBK XXN3TTTTJ2 / fb.me/ads / (POS 99999999),
-259,2023-07-29,100.0,EUR,Lubica Racekova,Platba,67439/VS67439/SS/KS
-260,2023-07-28,5000.0,EUR,"Maar Stanislav, RNDr",Platba/darovacia zmluva kandidat 23 Vanco,
-261,2023-07-28,-1518.29,EUR,Turňová Diana,"Platba/Turnova, marketing a admin sluzby jul",40723/VS40723/SS/KS
-262,2023-07-28,-350.0,EUR,Hotel Mamut s. r. o.,"Platba/mamut, prenajom priestorov poprad jul",7082023/VS7082023/SS/KS308
-263,2023-07-28,199.0,EUR,Peter Pollák,PLATBA,147/VS147/SS/KS
-264,2023-07-28,50.0,EUR,ADAM ORMANDY,PLATBA/PS dar Adam Ormandy,258155/VS258155/SS/KS0308
-265,2023-07-28,250.0,EUR,,VKLAD V HOTOVOSTI/Martina Žilková,38/VS038/SS/KS
-266,2023-07-28,-92.41,EUR,,"POS nákup SLOVNAFT, STRBA / STRBA / (POS 12330418)",
-267,2023-07-27,-1000.0,EUR,Mestská časť Bratislava - Staré Mesto,"Platba/BA-Stare mesto, prenajom Pistoriho palac 25.7.",3120230906/VS3120230906/SS/KS
-268,2023-07-27,-485.0,EUR,"ZÁBAVNÁ, s.r.o.","Platba/Zabavna, prenajom priestorov a catering na diskusiu Liptovsky Mikulas",1230009/VS1230009/SS/KS
-269,2023-07-27,-1200.0,EUR,Advajs advertising s. r. o.,"Platba/Advajs, marketingove sluzby a tvorba obsahu",20230041/VS20230041/SS/KS
-270,2023-07-27,-256.0,EUR,"VARIA SOUND, S.R.O.","Platba/Varia Sound, ozvucenie diskusie Trnava 14.7.",202325/VS202325/SS/KS
-271,2023-07-27,-2800.0,EUR,VELICKA JANA,"Platba/Velicka, administrativne sluzby jul",20230005/VS20230005/SS/KS
-272,2023-07-27,-2000.0,EUR,Natalia Heribanova,"Platba/Heriban, marketingove a komunikacne sluzby jul",42023/VS42023/SS/KS
-273,2023-07-27,-80040.0,EUR,"BIGMEDIA, SPOL. S R.O.",Platba/BigMedia 08 2023,122390126/VS122390126/SS/KS
-274,2023-07-27,180.0,EUR,Kalkan Eva,"PLATBA/Dar, Eva Kalkan",54/VS054/SS/KS
-275,2023-07-27,50.0,EUR,Váradi Krisztián,Platba/PS dar Krisztian Varadi,69/VS069/SS/KS308
-276,2023-07-27,-30.98,EUR,,POS nákup NAY ELEKTRODOM LM / LIPTOVSKY MIK / (POS 05047809),
-277,2023-07-27,-61.55,EUR,,POS nákup Wolt / Bratislava / (POS 99999999),
-278,2023-07-27,-4.4,EUR,,POS nákup Tomas Ronin / Bratislava / (POS 11270036),
-279,2023-07-27,-7.5,EUR,,POS nákup Tomas Ronin / Bratislava / (POS 11270036),
-280,2023-07-27,-9.35,EUR,,POS nákup Wolt / Bratislava / (POS 99999999),
-281,2023-07-27,-9.35,EUR,,POS nákup Wolt / Bratislava / (POS 99999999),
-282,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB 09, Pamula",237088/VS237088/SS113/KS
-283,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB 08, Pamula",2370087/VS2370087/SS113/KS
-284,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB 08, Pamula",2370086/VS2370086/SS113/KS
-285,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB na september, Pamula",2370085/VS2370085/SS113/KS
-286,2023-07-26,-132.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks bilboard, august, Pamula",2370084/VS2370084/SS113/KS
-287,2023-07-26,-120.0,EUR,,"Platba/Farbickovo, malovanie na tvar piknik Zilina",20230014/VS20230014/SS/KS
-288,2023-07-26,-260.0,EUR,Dolinská Daniela,"Platba/Dolinska, fotograficke sluzby",
-289,2023-07-26,250.0,EUR,Milos Korba,Platba/Dar Elena Cinova,60/VS60/SS/KS
-290,2023-07-26,80000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
-291,2023-07-26,2000.0,EUR,JAN DUCHOVIC,PLATBA/PREVOD PROSTRIEDKOV,
-292,2023-07-26,50.0,EUR,LENKA HLINKOVA,PLATBA/PLATBA,263669/VS0000263669/SS/KS
-293,2023-07-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335/VS81335/SS/KS0308
-294,2023-07-26,250.0,EUR,JANA HANULIAKOVA,PLATBA/dar Jana Hanuliakova,16/VS016/SS/KS
-295,2023-07-26,1000.0,EUR,Jan Hargas,Platba/Dar - Jan Hargas,31/VS31/SS/KS
-296,2023-07-26,-800.0,EUR,,EUR NÁKUP POS FACEBK H2GVGR79D2 / fb.me/ads / (POS 99999999),
-297,2023-07-26,-75.0,EUR,,POS nákup Penzion San Martin / Martin / (POS 11285443),
-298,2023-07-26,-75.0,EUR,,POS nákup Penzion San Martin / Martin / (POS 11285443),
-299,2023-07-26,-800.0,EUR,,EUR NÁKUP POS FACEBK 84X8QTTTJ2 / fb.me/ads / (POS 99999999),
-300,2023-07-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-301,2023-07-26,-117.0,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850150),
-302,2023-07-25,1000.0,EUR,"Sliacky Marián, Mgr.",Platba/dobrovolny dar na podporu,16/VS016/SS/KS0308
-303,2023-07-25,150.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
-304,2023-07-25,-315.0,EUR,"WINESERVICE, S.R.O.","Platba/Wineservice, prenajom miestnosti a technika zilina",23031/VS23031/SS/KS308
-305,2023-07-25,-100.0,EUR,Radovan Tisko,"Platba/vratenie daru podla 85/2005 z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
-306,2023-07-25,-1.0,EUR,PETER CHOMA,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
-307,2023-07-25,-200.0,EUR,KALINOVA EVA,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
-308,2023-07-25,1800.0,EUR,LIPTAJ MICHAL,Platba PO23072551624056/Dar-Branislav Vanco-023,
-309,2023-07-25,-3500.0,EUR,Jan Kral,"PLATBA VA23072502050/Kral, marketingove a komunikacne sluzby jun",120230003
-310,2023-07-25,-400.0,EUR,SpozaVoza,"Platba/SpozaVoza, divadelne predstavenie zilina",20230709/VS20230709/SS/KS
-311,2023-07-25,-800.0,EUR,,EUR NÁKUP POS FACEBK *7XVG7QBM52 / fb.me/ads / (POS 99999999),
-312,2023-07-25,-114.68,EUR,,"POS nákup SLOVNAFT, PK, SENKVICK / PEZINOK / (POS 12310120)",
-313,2023-07-25,-68.2,EUR,,"POS nákup LIDL 279, PK Senkvicka / Pezinok / (POS 06541664)",
-314,2023-07-25,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-315,2023-07-24,900.0,EUR,"Kleinert Dana, Mgr.a",Platba/PS dar Dana Kleinert,28/VS028/SS/KS308
-316,2023-07-24,-63.0,EUR,Mesto Martin,Platba/mesto martin vyrubenie dane za uzivanie verejneho priestranstva 24.7,51224836/VS51224836/SS/KS
-317,2023-07-24,300.0,EUR,Veronika Srobova,"Platba/Dar, Veronika Srobova",32/VS32/SS/KS
-318,2023-07-24,-180.0,EUR,Ing. Alena Voštenáko,"Platba/emocia, prenajom priestorov zilina 19.7.",202301/VS202301/SS/KS
-319,2023-07-24,-2300.0,EUR,íčko s.r.o.,"Platba/icko, produkcne a organizacne prace jun",20230005/VS20230005/SS/KS
-320,2023-07-24,-2300.0,EUR,íčko s.r.o.,"Platba/icko, produkcne a organizacne prace",20230004/VS20230004/SS/KS
-321,2023-07-24,-2300.0,EUR,íčko s.r.o.,"Platba/icko, produkcne a organizacne prace",20230003/VS20230003/SS/KS
-322,2023-07-24,-243.6,EUR,CONFIDENCE MEDIA SR,"Platba/confidence media, prenajom a produkcia bilboard 1ks, Jusko",2321160/VS2321160/SS094/KS
-323,2023-07-24,20.0,EUR,SEMAN MAREK,PLATBA/PS dar Marek Seman,263461/VS263461/SS/KS
-324,2023-07-24,50.0,EUR,Vaňko Milan,Platba/PS dar Milan Vanko,80823/VS80823/SS/KS308
-325,2023-07-24,-250.0,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850122),
-326,2023-07-24,-800.0,EUR,,EUR NÁKUP POS FACEBK U42B5SX8D2 / fb.me/ads / (POS 99999999),
-327,2023-07-24,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-328,2023-07-24,-800.0,EUR,,EUR NÁKUP POS FACEBK ECFBTSBUJ2 / fb.me/ads / (POS 99999999),
-329,2023-07-24,-2.0,EUR,,POS nákup REINOO / BRATISLAVA / (POS 37473529),
-330,2023-07-22,100.0,EUR,Matoš Miroslav,Platba/PS dar Miroslav Mesquita Matos,80009/VS80009/SS/KS308
-331,2023-07-22,15.0,EUR,Kollár Patrik,Platba,60019/VS60019/SS/KS
-332,2023-07-21,50.0,EUR,Dr. Andreas Jusko,DE23072154734 204042307202AIP-/Dar pre Lenka Jusko,
-333,2023-07-21,20.0,EUR,Tomas Rudy,Platba,263475/VS263475/SS/KS308
-334,2023-07-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-335,2023-07-21,-7.0,EUR,,POS nákup TIGER STORES SLOVAKI / ZILINA / (POS 11215896),
-336,2023-07-20,3000.0,EUR,"Dvořák Oskar, Mgr.",Platba/dar Oskar Dvorak,13/VS13/SS/KS
-337,2023-07-20,-900.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby v admin time",30723/VS30723/SS/KS
-338,2023-07-20,-194.4,EUR,"ISPA, spol. s r.o.","Platba/ISPA, bilboard 1ks na august, pollak",23950187/VS23950187/SS147/KS
-339,2023-07-20,50.0,EUR,Kvasnickova Lucia,PLATBA,116/VS116/SS/KS
-340,2023-07-20,-800.0,EUR,,EUR NÁKUP POS FACEBK *X59RWQ7N52 / fb.me/ads / (POS 99999999),
-341,2023-07-20,-25.5,EUR,,POS nákup BOSTON COFFE & FUN / CADCA / (POS G2NPB637),
-342,2023-07-20,-800.0,EUR,,EUR NÁKUP POS FACEBK TYNLUQP9D2 / fb.me/ads / (POS 99999999),
-343,2023-07-19,-253.2,EUR,"Pandan, s. r. o.","Platba/Pandan, letaky a plagaty",202307026/VS202307026/SS/KS
-344,2023-07-19,-1503.5,EUR,"LIONS & PARTNERS, a.s.","Platba/lions&partners, energie kancelaria",23366/VS23366/SS/KS
-345,2023-07-19,500.0,EUR,Jaroslav Sleboda,Platba/Dar David Dej,29/VS29/SS29/KS
-346,2023-07-19,500.0,EUR,TURLIK VLADIMIR,PLATBA/PS dar Vladimir Turlik,182953/VS182953/SS/KS0308
-347,2023-07-19,200.0,EUR,Matus Ovsak,Platba/Dar Matus Ovsak,
-348,2023-07-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-349,2023-07-19,-59.5,EUR,,POS nákup PEPCO 120051 PEZINOK 2 / PEZINOK / (POS 34029621),
-350,2023-07-19,-177.0,EUR,,POS nákup festivalatmosfera.sk / Hontianske Ne / (POS 09077201),
-351,2023-07-18,500.0,EUR,"Sakin Ivan, Bc.",Platba/Dar David Dej,29/VS029/SS/KS
-352,2023-07-18,-229.0,EUR,Dudok s. r. o.,"Platba/dudok, ubytovanie Zilina",20230471/VS20230471/SS/KS
-353,2023-07-18,-44881.2,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia bigboard,billboard, doublebigboard",1223205366/VS1223205366/SS/KS
-354,2023-07-18,100000.0,EUR,Progresívne Slov.,Platba,
-355,2023-07-18,170.0,EUR,"Bakšová Ľudmila, Mgr",Platba/Dar pre Jozef Baksa,805/VS0805/SS/KS
-356,2023-07-18,-10.0,EUR,,SPRAC.POPLATOK VI23071802857,
-357,2023-07-18,-472.38,EUR,giba cz px,PLATBA VI23071802857,
-358,2023-07-18,40.0,EUR,Pavel Melech,Platba/dar. Mgr. Jozef Baksa,85/VS85/SS/KS
-359,2023-07-18,25.0,EUR,Filip Vodicka,Platba/PS dar Filip Vodicka,263226/VS263226/SS/KS308
-360,2023-07-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-361,2023-07-18,-750.0,EUR,,EUR NÁKUP POS FACEBK 53XU9SPUJ2 / fb.me/ads / (POS 99999999),
-362,2023-07-18,-750.0,EUR,,EUR NÁKUP POS FACEBK *8WK53TPM52 / fb.me/ads / (POS 99999999),
-363,2023-07-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-364,2023-07-18,-79.22,EUR,,POS nákup CERPACIA STANICA VOM / RUZOMBEROK / (POS 11250696),
-365,2023-07-17,2000.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
-366,2023-07-17,-384.0,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.","Platba/Gryf, zaloha za prenajom a realizaciu reklamnych ploch, P. Pollak 147",23056/VS23056/SS147/KS
-367,2023-07-17,20.0,EUR,Stefan Dikan,Platba,65693/VS65693/SS/KS
-368,2023-07-17,-9435.6,EUR,"Pandan, s. r. o.","Platba/Pandan, tricka, beachflagy, rollupy",202307002/VS202307002/SS/KS
-369,2023-07-17,-270.0,EUR,NAGY FILIP,"Platba/Nafy, potret a licencia",20230017/VS20230017/SS/KS
-370,2023-07-17,700.0,EUR,PAMULA VIKTOR,"PLATBA/Dar, Viktor Pamula",113/VS113/SS/KS
-371,2023-07-17,-9720.0,EUR,"Zoznam, s.r.o.","Platba/zoznam, clanok - tvorba a publikacia",23000275/VS23000275/SS/KS308
-372,2023-07-17,50.0,EUR,Eva Podhajecká,PLATBA/PS dar Eva Podhajecka,116/VS116/SS/KS308
-373,2023-07-17,30.0,EUR,Barcik Peter,PLATBA/PS dar Peter Barcik,52629/VS52629/SS/KS0308
-374,2023-07-17,200.0,EUR,Dr. Andreas Jusko,DE23071754254 204042307142AIP-/(CdtrRefInf)(Tp)(CdOrPrtry)(Cd)SCOR(/Cd)(/CdOrPrtry)(/Tp)(Ref)094(/Ref)(/CdtrRefInf),
-375,2023-07-17,50.0,EUR,"Bálint Florián, Ing.",Platba,263109/VS263109/SS/KS
-376,2023-07-17,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-377,2023-07-17,-800.0,EUR,,EUR NÁKUP POS FACEBK EHGCVRX9D2 / fb.me/ads / (POS 99999999),
-378,2023-07-17,-750.0,EUR,,EUR NÁKUP POS FACEBK *Z2TURQ7N52 / fb.me/ads / (POS 99999999),
-379,2023-07-17,-48.89,EUR,,POS nákup NAY INTERNETDOM / BRATISLAVA / (POS 09070363),
-380,2023-07-17,-1.8,EUR,,POS nákup BPS PARK / BRATISLAVA / (POS 25740769),
-381,2023-07-17,-24.0,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
-382,2023-07-14,200.0,EUR,Bohinská Naďa,Platba/Dar pre Nada Bohinska,116/VS116/SS/KS
-383,2023-07-14,100.0,EUR,BIELIKOVA LUBOSLAVA,PLATBA/Dar Jozef Baksa,85/VS085/SS/KS
-384,2023-07-14,500.0,EUR,Peter Pollak,Platba,147/VS147/SS/KS
-385,2023-07-14,250.0,EUR,MIHALCIN GABRIEL,PLATBA,100/VS100/SS/KS
-386,2023-07-14,300.0,EUR,"Illéš Erik, Mgr.",Platba/PS dar Erik Illes,103/VS103/SS/KS
-387,2023-07-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-388,2023-07-14,-60.38,EUR,,"POS nákup SPS-prepravne, Ivanka / IVANKA PRI DU / (POS 10067825)",
-389,2023-07-14,-750.0,EUR,,EUR NÁKUP POS FACEBK XPE6DTTTJ2 / fb.me/ads / (POS 99999999),
-390,2023-07-14,-3.6,EUR,,POS nákup BPS PARK / BRATISLAVA / (POS 25740769),
-391,2023-07-13,-162.31,EUR,ORANGE SLOVENSKO A.S,"Platba/orange 05,06 23",401972955/VS0401972955/SS1124381039/KS0308
-392,2023-07-13,300.0,EUR,Marek Stefanisko,Platba/Dar Marek Stefanisko,67/VS67/SS/KS
-393,2023-07-13,200.0,EUR,"Kendra Pavel, Ing.",Platba/PS dar Pavel Kendra,112731/VS112731/SS/KS308
-394,2023-07-13,150.0,EUR,"Holéczy Igor, Mgr.",Platba/PS dar Igor Holeczy,127/VS127/SS/KS308
-395,2023-07-13,172.0,EUR,Dej Dávid,Platba/David Dej dar,29/VS029/SS/KS
-396,2023-07-13,172.0,EUR,Karolina Blunarova,Platba,68/VS68/SS/KS
-397,2023-07-13,20.0,EUR,Havírová Zuzana Mgr.,Platba/Dar pre Ingrid Kosovu 012,89556/VS89556/SS012/KS
-398,2023-07-13,50.0,EUR,"Tomša Ľubomír, Ing.",Platba/PS dar Lubomir Tomsa,84198/VS84198/SS/KS308
-399,2023-07-13,-5000.0,EUR,,"Platba/Kiss, ekonomicke poradenstvo",623/VS623/SS/KS
-400,2023-07-13,300.0,EUR,ENCO,PLATBA/070 Romana Sladekova,262785/VS262785/SS/KS0308
-401,2023-07-13,100.0,EUR,Stanislav Papiernik,Platba/Dar pre Ingrid Kosovu,12/VS12/SS/KS
-402,2023-07-13,300.0,EUR,Peter Pollak,Platba,147/VS147/SS/KS
-403,2023-07-13,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-404,2023-07-12,50.0,EUR,Peter Snopko,Platba/dar pre Ingrid Kosovu,12/VS12/SS/KS308
-405,2023-07-12,100.0,EUR,Bučková Vanesa,Platba/Dar pre Ingrid Kosovu,12/VS012/SS/KS
-406,2023-07-12,500.0,EUR,Ingrid Kosova,Platba/PS dar pre Ingrid Kosova,12/VS12/SS109243/KS308
-407,2023-07-12,300.0,EUR,Jozef Medved,Platba/070. Romana Sladekova,262769/VS262769/SS/KS
-408,2023-07-12,500.0,EUR,BRANISLAV TICHY,PLATBA/DAR BRANISLAV TICHY,39/VS0000000039/SS/KS
-409,2023-07-12,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-410,2023-07-12,-4.5,EUR,,POS nákup BPS PARK / BRATISLAVA / (POS 25740769),
-411,2023-07-12,-800.0,EUR,,EUR NÁKUP POS FACEBK 85GE3R79D2 / fb.me/ads / (POS 99999999),
-412,2023-07-11,1000.0,EUR,LIPTAJ MICHAL,Platba PO23071150090948/Dar-Branislav Vanco-023,
-413,2023-07-11,1000.0,EUR,"Kocúr Miroslav, ThDr",Platba/PS dar Miroslav Kocur,49/VS049/SS6902227761/KS308
-414,2023-07-11,-1080.0,EUR,"EDENcars, s. r. o.","Platba/Edencars, prenajom dodavky na jul",302300702/VS302300702/SS/KS308
-415,2023-07-11,-3500.0,EUR,Jan Kral,"PLATBA VA23071103291/kral, marketingove a komunikacne sluzby",120230002
-416,2023-07-11,-1750.0,EUR,Jan Kral,"Platba OO23071100019081/Kral, marketingove a komunikacne sluzby",120230001
-417,2023-07-11,500.0,EUR,HELLEBRANDT TOMAS,PLATBA,25/VS025/SS/KS
-418,2023-07-11,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-419,2023-07-11,-343.27,EUR,,EUR NÁKUP POS FACEBK *5UT33QTM52 / fb.me/ads / (POS 99999999),
-420,2023-07-11,-6.2,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
-421,2023-07-11,-110.2,EUR,,POS nákup BENZINA CS 810 TRENCI / TRENCIN / (POS BENZ1810),
-422,2023-07-11,-45.4,EUR,,EUR NÁKUP POS FACEBK KS3YSRFUJ2 / fb.me/ads / (POS 99999999),
-423,2023-07-10,150.0,EUR,"Šubert Anton, Mgr.,",Platba/PS dar Anton Subert,2/VS002/SS/KS
-424,2023-07-10,500.0,EUR,"Pullman Ján, Ing.",Platba/PS dar Jan Pullman,73/VS073/SS/KS308
-425,2023-07-10,500.0,EUR,Michaela Hinnerova,Platba/Kandidat Michaela Hinnerova,110/VS110/SS/KS
-426,2023-07-10,-2300.0,EUR,Chrťan Samuel,"Platba/Chrtan, marketingove sluzby",202306/VS202306/SS/KS
-427,2023-07-10,-2500.0,EUR,Dávid Javorský,"Platba/Javorsky, foto a video",2023005/VS2023005/SS/KS308
-428,2023-07-10,-4150.0,EUR,Gubka & Fish Media s,"Platba/Gubka, foto a video",2023040/VS2023040/SS/KS
-429,2023-07-10,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby",20230012/VS20230012/SS/KS
-430,2023-07-10,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacia",20230014/VS20230014/SS/KS
-431,2023-07-10,-2300.0,EUR,"DUBECI, MSC. MARTIN","Platba/Dubeci, poradenske sluzby komunikacia",230016/VS230016/SS/KS
-432,2023-07-10,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby",2023001/VS2023001/SS/KS
-433,2023-07-10,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
-434,2023-07-10,300.0,EUR,Livia Augustin Simanska,Platba,118/VS118/SS/KS
-435,2023-07-10,10.0,EUR,Ivona Zahorecova,Platba/PS dar Ivona Zahorecova,197600/VS197600/SS/KS308
-436,2023-07-10,310.0,EUR,"Toličová Jana, Mgr.",Platba/Dar Jana Tolicova,98/VS98/SS/KS
-437,2023-07-10,-750.0,EUR,,EUR NÁKUP POS FACEBK WN2DKRXTJ2 / fb.me/ads / (POS 99999999),
-438,2023-07-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-439,2023-07-10,-4.7,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
-440,2023-07-10,-7.2,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
-441,2023-07-10,-59.8,EUR,,POS nákup Coffee Sheep - Matusova 2 / Trencin / (POS RSJKzPnw),
-442,2023-07-10,-8.6,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
-443,2023-07-10,-800.0,EUR,,EUR NÁKUP POS FACEBK XCY89RB9D2 / fb.me/ads / (POS 99999999),
-444,2023-07-10,-750.0,EUR,,EUR NÁKUP POS FACEBK *MTBQMP7M52 / fb.me/ads / (POS 99999999),
-445,2023-07-10,-3.0,EUR,,POS nákup PARKOVISKO / TRENCIN / (POS TV689402),
-446,2023-07-10,-59.8,EUR,,POS nákup Coffee Sheep - Matusova 2 / Trencin / (POS RSJKzPnw),
-447,2023-07-10,-3.0,EUR,,POS nákup Parkovisko / PIESTANY / (POS TV572805),
-448,2023-07-07,350.0,EUR,Jakub Jochman,Platba/Dar Jakub Jochman,91/VS91/SS/KS0308
-449,2023-07-07,380.0,EUR,KOLLAROVA ZUZANA,PLATBA/PS dar Zuzana Kollarova,101059/VS101059/SS/KS0968
-450,2023-07-07,300.0,EUR,Sona Kosiciarova,Platba/dar Sona Kosiciarova,42/VS42/SS/KS308
-451,2023-07-07,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-452,2023-07-07,-800.0,EUR,,EUR NÁKUP POS FACEBK 2KGFNRX8D2 / fb.me/ads / (POS 99999999),
-453,2023-07-06,-3300.0,EUR,Dančiak Martin,Platba/danciak marketingove sluzby jun,2023004/VS2023004/SS/KS
-454,2023-07-06,300.0,EUR,Papež Václav,Platba/Dar Vaclav Papez,93/VS093/SS/KS
-455,2023-07-06,-300.0,EUR,Mesto Trnava,Platba/poplatok za verejny priestor Trnava,5000290899/VS5000290899/SS/KS
-456,2023-07-06,-124783.6,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampan outdoor september 2023,720230043/VS720230043/SS/KS
-457,2023-07-06,150000.0,EUR,Progresívne Slov.,Platba,
-458,2023-07-06,250.0,EUR,Jan Turek,Platba/PS dar Jan Turek,51007/VS51007/SS/KS308
-459,2023-07-06,20.0,EUR,LADISLAV SVRCEK,PLATBA/PLATBA,262271/VS0000262271/SS/KS
-460,2023-07-06,-2500.0,EUR,MGR. ZUZANA MACUROVA,"Platba/Macurova, admin a organizacne prace komunitny tim",20230009/VS20230009/SS/KS
-461,2023-07-06,-2500.0,EUR,MGR. ZUZANA MACUROVA,"Platba/Macurova, admin a organizacne prace komunitny tim",20230008/VS20230008/SS/KS
-462,2023-07-06,-10080.0,EUR,More Design s. r. o.,"Platba/MoreDesign, graficke prace",202330/VS202330/SS/KS
-463,2023-07-06,-1200.0,EUR,Petrušková Michaela,"Platba/Petruskova, reklamne a marketingove sluzby jun",20230014/VS20230014/SS/KS308
-464,2023-07-06,50.0,EUR,"Suško Peter, Ing.",Platba/PS dar Peter Susko,260024/VS260024/SS/KS308
-465,2023-07-06,-50.0,EUR,,POS nákup OST BLOCK / Bratislava / (POS BP130564),
-466,2023-07-06,-4.8,EUR,,POS nákup OST BLOCK / Bratislava / (POS BP130085),
-467,2023-07-06,-750.0,EUR,,EUR NÁKUP POS FACEBK *F6F2HP3N52 / fb.me/ads / (POS 99999999),
-468,2023-07-06,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-469,2023-07-06,-6.4,EUR,,POS nákup NC38_BAKame / Bratislava / (POS SN104643),
-470,2023-07-06,-26.39,EUR,,"POS nákup KIK TEXTIL,BA,KAMENNE / BRATISLAVA / (POS 05443136)",
-471,2023-07-06,-141.02,EUR,,EUR NÁKUP POS FACEBK KKHQTQ3AD2 / fb.me/ads / (POS 99999999),
-472,2023-07-06,-800.0,EUR,,EUR NÁKUP POS FACEBK HESU5RB9D2 / fb.me/ads / (POS 99999999),
-473,2023-07-06,-39.0,EUR,,POS nákup POHODAFESTIVAL.SK / Bratislava / (POS 22106385),
-474,2023-07-04,-831.0,EUR,Portobello Art and Food Gallery,"Platba OO23070400023271/Portobello, Brussel prenajom priestorov a catering",
-475,2023-07-04,-1800.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby admin tim",20623/VS20623/SS/KS
-476,2023-07-04,-750.0,EUR,Karolina Blunarova,"Platba/Blunarova, marketing a admin sluzby",10623/VS10623/SS/KS
-477,2023-07-04,-3116.07,EUR,Prostredníková Zuzan,"Platba/Prostrednikova, administrativne sluzby produkcny tim",2023002/VS2023002/SS/KS
-478,2023-07-04,-840.0,EUR,SLOVENSKA VYTVARNA U,"Platba/Vytvarna unia, prenajom Umelka na TB",2023029/VS2023029/SS/KS
-479,2023-07-04,-300.0,EUR,Patrik Dlužanin,"Platba/Dluzanin, fotograficke sluzby Brusel",2023006/VS2023006/SS/KS
-480,2023-07-04,-1980.0,EUR,AFINITA s.r.o.,"Platba/Afinita, odznaky 11K ks",23010185/VS23010185/SS/KS308
-481,2023-07-04,-330.0,EUR,LILACOMM S.R.O.,"Platba/LilaComm, komunikacny trening",2523/VS2523/SS/KS
-482,2023-07-04,100.0,EUR,Radovan Tisko,Platba/PS dar Radovan Tisko,
-483,2023-07-04,-300.0,EUR,VELICKA JANA,"Platba/velicka, doplatok k fakture",20230004/VS20230004/SS/KS
-484,2023-07-04,1.0,EUR,PETER CHOMA,PLATBA/DAR ING. PETER CHOMA,
-485,2023-07-04,100.0,EUR,KAKAS DAVID,PLATBA/PS dar David Kakas,262141/VS262141/SS/KS0308
-486,2023-07-04,200.0,EUR,KALINOVA EVA,PLATBA,
-487,2023-07-04,1000.0,EUR,KALMAROVA VIERA,PLATBA,26/VS026/SS/KS
-488,2023-07-04,50.0,EUR,KNIEBUGL DAN,PLATBA/super rozhovor v N,92338/VS92338/SS/KS
-489,2023-07-04,-750.0,EUR,,EUR NÁKUP POS FACEBK *C98YUPTM52 / fb.me/ads / (POS 99999999),
-490,2023-07-04,-750.0,EUR,,EUR NÁKUP POS FACEBK 9T5GERXTJ2 / fb.me/ads / (POS 99999999),
-491,2023-07-04,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-492,2023-07-04,-800.0,EUR,,EUR NÁKUP POS FACEBK QLM9MQT9D2 / fb.me/ads / (POS 99999999),
-493,2023-07-04,-478.2,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
-494,2023-07-04,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-495,2023-07-04,-250.01,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
-496,2023-07-04,-28.8,EUR,,POS nákup BRATISLAVA 14120030 / BRATISLAVA / (POS 90369602),
-497,2023-07-03,50.0,EUR,Ciháková Eliška,Platba,262142/VS262142/SS/KS
-498,2023-07-03,-1543.46,EUR,Turňová Diana,"Platba/Turnova, marketingove a administrativne sluzby",30623/VS30623/SS/KS
-499,2023-07-03,-463.23,EUR,JUDR. RUZENA BAYEROV,"Platba/Bayerova, legalizacia dokumentov",1622023/VS1622023/SS/KS
-500,2023-07-03,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/Vojtek, administrativa v komunitnom time",42023/VS042023/SS/KS
-501,2023-07-03,-2400.0,EUR,"th media, s.r.o.","Platba/th media, PR sluzby",20230038/VS20230038/SS/KS
-502,2023-07-03,-300.0,EUR,TrollWall AI,"Platba/TrollWall, sluzby trollwall facebook PS a MS",20230302/VS20230302/SS/KS
-503,2023-07-03,-6933.6,EUR,"Pandan, s. r. o.","Platba/Pandan, pera 2k ks, letaky 200k ky, nalepky a karticky",202306076/VS202306076/SS/KS
-504,2023-07-03,-3500.0,EUR,Ridzoň Jerguš,"Platba/Ridzon, manazment kampane administrativne a marketingove sluzby",2023015/VS2023015/SS/KS
-505,2023-07-03,-1950.0,EUR,Matus Miksik,"Platba/Miksik, marketingove sluzby",20230005/VS20230005/SS/KS
-506,2023-07-03,-26.9,EUR,UPC BROADBAND SLOVAK,Platba/UPC / PayBySquare,9368061/VS9368061/SS/KS308
-507,2023-07-03,100000.0,EUR,Progresívne Slov.,Platba,
-508,2023-07-03,50.0,EUR,Hana Drahovska,Platba,262003/VS262003/SS/KS
-509,2023-07-03,-750.0,EUR,,EUR NÁKUP POS FACEBK *KTKPHPXM52 / fb.me/ads / (POS 99999999),
-510,2023-07-03,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-511,2023-07-03,-800.0,EUR,,EUR NÁKUP POS FACEBK 9N7XKQT9D2 / fb.me/ads / (POS 99999999),
-512,2023-07-03,-10.76,EUR,,POS nákup JUTEX / BRATISLAVA / (POS 11546747),
-513,2023-07-03,-44.76,EUR,,POS nákup JUTEX / BRATISLAVA / (POS 11546747),
-514,2023-07-03,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-515,2023-07-03,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-516,2023-07-01,500.0,EUR,"Mališ Marián, Ing.",Platba/Dar Marian Malis,59/VS59/SS/KS
-517,2023-06-30,200.0,EUR,Ištok Pavol,Platba/dar Pavol Istok 137,137/VS137/SS/KS0558
-518,2023-06-30,-6.0,EUR,,Poplatky za transakcie,
-519,2023-06-30,-0.0,EUR,,Poplatok za balík,
-520,2023-06-30,-2500.0,EUR,VELICKA JANA,"Platba/Velicka, administrativne sluzby",20230004/VS20230004/SS/KS
-521,2023-06-30,100.0,EUR,Gabriela Bolton,PLATBA/PS dar Gabriela Bolton,170742/VS170742/SS/KS
-522,2023-06-30,2000.0,EUR,Beata Jurik,Platba/Dar Beata Jurik,14/VS14/SS/KS
-523,2023-06-30,-800.0,EUR,,EUR NÁKUP POS FACEBK KEAGYPK9D2 / fb.me/ads / (POS 99999999),
-524,2023-06-30,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-525,2023-06-30,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-526,2023-06-29,-1015.2,EUR,LASA s.r.o.,"Platba/LASA, podium a stupne na TK v Umelke 27.6.",2023031/VS2023031/SS/KS
-527,2023-06-29,-45.73,EUR,D3 - požičovňa inven,"Platba/SEBA, prenajom inventaru na tlacovku",23125/VS23125/SS/KS
-528,2023-06-29,-113.24,EUR,ECO Krabicky s.r.o.,"Platba/eco krabicky, bio pohare 1000 kusov",2202301783/VS2202301783/SS/KS
-529,2023-06-29,500.0,EUR,Krajči Pavol,Platba/Dar Tamara Stohlova,4/VS004/SS/KS308
-530,2023-06-29,-750.0,EUR,,EUR NÁKUP POS FACEBK GVNZPRPUJ2 / fb.me/ads / (POS 99999999),
-531,2023-06-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-532,2023-06-28,-2000.0,EUR,Natalia Heribanova,"Platba/Heriban, marketing a komunikacia sluzby",22023/VS22023/SS/KS
-533,2023-06-28,-192.0,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.","Platba/gryf, zaloha reklamna plocha Veslrova september",23043/VS23043/SS/KS
-534,2023-06-28,-192.0,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.","Platba/gryf, zaloha reklamna plocha august veslarova",23044/VS23044/SS/KS
-535,2023-06-28,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-536,2023-06-28,-800.0,EUR,,EUR NÁKUP POS FACEBK 99RKWPK9D2 / fb.me/ads / (POS 99999999),
-537,2023-06-28,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-538,2023-06-28,-645.0,EUR,,POS nákup POHODAFESTIVAL.SK / Bratislava / (POS 22106385),
-539,2023-06-28,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-540,2023-06-27,20.0,EUR,Richard Slusny,Platba/PS dar Richard Slusny,67894/VS67894/SS/KS0308
-541,2023-06-27,86.04,EUR,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),2202301466/VS2202301466/SS/KS
-542,2023-06-27,500.0,EUR,FARKAS ONDREJ,PLATBA/Ondrej a Petra Farkasovci dar,
-543,2023-06-27,-3120.0,EUR,ARTON s.r.o.,"Platba/Arton, tlac a instalacia megaboard, bigboard",230349/VS230349/SS/KS
-544,2023-06-27,-800.0,EUR,,EUR NÁKUP POS FACEBK SKBWRQ39D2 / fb.me/ads / (POS 99999999),
-545,2023-06-27,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-546,2023-06-27,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-547,2023-06-27,-800.0,EUR,,EUR NÁKUP POS FACEBK 6N5EEQT9D2 / fb.me/ads / (POS 99999999),
-548,2023-06-26,-17000.0,EUR,Ministerstvo vnútra Slovenskej republiky,Platba/Kaucia volby NRSR 2023,51224836/VS51224836/SS/KS
-549,2023-06-26,-25.0,EUR,Mesto Trenčín,"Platba/mesto trencin, spravny poplatok za reklamnu akciu",5010012613/VS5010012613/SS/KS558
-550,2023-06-26,-1591.0,EUR,MUTTON s.r.o.,"Platba/MUTTON, rozkladaci stan 4ks",202301489/VS202301489/SS/KS308
-551,2023-06-26,-400.0,EUR,Vladimír Virág ART H,"Platba/art house, priestor na diskusiu Levice",230002/VS230002/SS/KS308
-552,2023-06-26,25.0,EUR,Rastislav Ondro,PLATBA/PS dar Rastislav Ondro,67549/VS67549/SS/KS0308
-553,2023-06-26,100.0,EUR,SPISIAK JAN,PLATBA/PS dar Jan Spisiak,58599/VS58599/SS/KS0308
-554,2023-06-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335/VS81335/SS/KS0308
-555,2023-06-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-556,2023-06-26,-750.0,EUR,,EUR NÁKUP POS FACEBK 2G2HSSTTJ2 / fb.me/ads / (POS 99999999),
-557,2023-06-26,-800.0,EUR,,EUR NÁKUP POS FACEBK TA8PARX8D2 / fb.me/ads / (POS 99999999),
-558,2023-06-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-559,2023-06-26,-672.27,EUR,,POS nákup Alza sk s r o / Bratislava / (POS 42102739),
-560,2023-06-26,-750.0,EUR,,EUR NÁKUP POS FACEBK *FFWF4QBN52 / fb.me/ads / (POS 99999999),
-561,2023-06-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-562,2023-06-26,-800.0,EUR,,EUR NÁKUP POS FACEBK DHE8SPK9D2 / fb.me/ads / (POS 99999999),
-563,2023-06-23,500.0,EUR,Michal Palenik,Platba/dar michal palenik,
-564,2023-06-23,-1986.0,EUR,"Pandan, s. r. o.","Platba/pandan, tasky s potlacou",202306055/VS202306055/SS/KS
-565,2023-06-23,30.0,EUR,MARTINOVIC PETER,PLATBA/Peter Martinovic Koniarekova 13 Trnava,
-566,2023-06-23,50.0,EUR,M. Mihalak CJ H. Gerger,Platba PO23062248268531/PS dar Matus Mihalak,
-567,2023-06-23,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-568,2023-06-23,-800.0,EUR,,EUR NÁKUP POS FACEBK 5XZB8RX8D2 / fb.me/ads / (POS 99999999),
-569,2023-06-23,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-570,2023-06-22,-2300.0,EUR,Chrťan Samuel,"Platba/chrtan, marketingove sluzby",202305/VS202305/SS/KS
-571,2023-06-22,-1005.6,EUR,Delip s. r. o.,"Platba/Delip, textilna stena 4m",2023147/VS2023147/SS/KS
-572,2023-06-22,-192.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, bilboard, zalohova Veslarova",2370049/VS2370049/SS/KS
-573,2023-06-22,-488.4,EUR,LASA s.r.o.,"Platba/Lasa, ozvucenie piknik",2023027/VS2023027/SS/KS
-574,2023-06-22,-1100.0,EUR,Matúšová Jana,"Platba/matusova, vizazistka na fotenie kandidatov",37/VS37/SS/KS
-575,2023-06-22,-7.0,EUR,,POS nákup WWW.VYSLEDKOVYSERVIS.S / TRENCIN / (POS 09074616),
-576,2023-06-22,-7.0,EUR,,POS nákup WWW.VYSLEDKOVYSERVIS.S / TRENCIN / (POS 09074616),
-577,2023-06-22,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
-578,2023-06-22,-36.08,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
-579,2023-06-22,-750.0,EUR,,EUR NÁKUP POS FACEBK *QNHV9SPM52 / fb.me/ads / (POS 99999999),
-580,2023-06-22,-966.05,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
-581,2023-06-22,-800.0,EUR,,EUR NÁKUP POS FACEBK FVPWPPK9D2 / fb.me/ads / (POS 99999999),
-582,2023-06-22,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-583,2023-06-21,1000.0,EUR,Stefan Kiss,Platba/Dar Stefan Kiss,
-584,2023-06-21,100.0,EUR,TATIANA IVANICKA,PLATBA/PS DAR TATIANA IVANICKA,75201/VS0000075201/SS/KS0308
-585,2023-06-21,-600.0,EUR,Nikola Struhárová,"Platba/Struharova, vizazisticke sluzby",2023002/VS2023002/SS/KS
-586,2023-06-21,-5040.0,EUR,MatusBence s.r.o.,"Platba/MatusBence, fotenie a tvorba vizualov",2023011/VS2023011/SS/KS
-587,2023-06-21,-500.0,EUR,Portobello Art and Food Gallery,"Platba OO23062100007844/portobello, prenajom priestorov Brusel",05523
-588,2023-06-21,-23.4,EUR,"RHGRAFIKA, s.r.o.","Platba/RHGrafika, plagat leskla krieda",202306228/VS202306228/SS/KS
-589,2023-06-21,1500.0,EUR,"Miháliková Katarína,",Platba,
-590,2023-06-21,-750.0,EUR,,EUR NÁKUP POS FACEBK P3ECRQTUJ2 / fb.me/ads / (POS 99999999),
-591,2023-06-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-592,2023-06-21,-90.2,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
-593,2023-06-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-594,2023-06-21,-1596.07,EUR,,POS nákup zahr. MAMASHELTERPRAGUE / PRAHA 7 HOLES / (POS 489666),
-595,2023-06-20,580.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
-596,2023-06-20,-1482.56,EUR,"LIONS & PARTNERS, a.s.","Platba/lions&partners, energie kancelaria",23305/VS23305/SS/KS
-597,2023-06-20,-40.0,EUR,Marko David,"Platba/Marko, tlmocenie do SPJ tlacovka",602023/VS602023/SS/KS
-598,2023-06-20,-300.0,EUR,4SPORTS media s. r. o.,"Platba/4sports, prenajom stanov na piknik",123036/VS123036/SS/KS
-599,2023-06-20,10.0,EUR,Miroslav Zovčák,Platba/PS dar Miroslav Zovcak,64723/VS64723/SS/KS308
-600,2023-06-20,-800.0,EUR,,EUR NÁKUP POS FACEBK TVPBYPP9D2 / fb.me/ads / (POS 99999999),
-601,2023-06-20,-800.0,EUR,,EUR NÁKUP POS FACEBK 7PD97QT9D2 / fb.me/ads / (POS 99999999),
-602,2023-06-20,-500.0,EUR,,EUR NÁKUP POS FACEBK JNL5LSTTJ2 / fb.me/ads / (POS 99999999),
-603,2023-06-20,-11.98,EUR,,"POS nákup KIK TEXTIL, BA VIVO / BRATISLAVA / (POS 05443831)",
-604,2023-06-20,-750.0,EUR,,EUR NÁKUP POS FACEBK *F7KXYP7N52 / fb.me/ads / (POS 99999999),
-605,2023-06-19,1000.0,EUR,"Prostredník Ondrej,",Platba/Ondrej Prostrednik dar,
-606,2023-06-19,10.0,EUR,"Kubričan Juraj, Bc.",Platba/PS dar Juraj Kubrican,260848/VS260848/SS/KS308
-607,2023-06-19,50.0,EUR,Róbert Bobáľ,PLATBA/PS dar Robert Bobal,68562/VS68562/SS/KS
-608,2023-06-19,-86.04,EUR,ECO Krabicky s.r.o.,"Platba/eko krabicky, pohare a taniere na piknik",2202301466/VS2202301466/SS/KS
-609,2023-06-19,-222.04,EUR,EKO PODNIK,"Platba/EKO podnik, prenajom priestoru 17.6. piknik",12023325/VS12023325/SS/KS
-610,2023-06-19,-312.0,EUR,X MOLD s. r. o.,"Platba/xmold, malovanie na tvar piknik 17.6.",2023030/VS2023030/SS/KS
-611,2023-06-19,-245.0,EUR,CleaningSK s. r. o.,"Platba/CleaningSK, upratovacie sluzby",20230012/VS20230012/SS/KS
-612,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-613,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-614,2023-06-19,-23.5,EUR,,POS nákup TIGER STORES SLOVAKI / BRATISLAVA / (POS 11104118),
-615,2023-06-19,-50.14,EUR,,"POS nákup LIDL 265, BA NIVY / BRATISLAVA / (POS 06541397)",
-616,2023-06-19,-7.5,EUR,,POS nákup NC87_BANivy / Bratislava / (POS SN104648),
-617,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-618,2023-06-19,-350.0,EUR,,EUR NÁKUP POS FACEBK W6M4MQTUJ2 / fb.me/ads / (POS 99999999),
-619,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-620,2023-06-19,-2.55,EUR,,POS nákup zahr. MAMA SHELTER PRAGUE / PRAHA / (POS 491788),
-621,2023-06-19,-86.36,EUR,,POS nákup zahr. MAMA SHELTER PRAGUE / PRAHA / (POS 491789),
-622,2023-06-16,19.0,EUR,Luštiak Matej,Platba/PS dar Matej Lustiak,81854/VS81854/SS/KS308
-623,2023-06-16,1000.0,EUR,KALMAROVA VIERA,PLATBA/Viera Kalmarova,
-624,2023-06-16,-800.0,EUR,,EUR NÁKUP POS FACEBK MKMCAQ79D2 / fb.me/ads / (POS 99999999),
-625,2023-06-16,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-626,2023-06-16,-100.21,EUR,,POS nákup OMV 2399 / Pezinok / (POS OSK1168B),
-627,2023-06-16,-225.0,EUR,,EUR NÁKUP POS FACEBK JAUWPRBUJ2 / fb.me/ads / (POS 99999999),
-628,2023-06-16,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-629,2023-06-15,-26.94,EUR,,POS nákup ANWELL / Bratislava / (POS TW550685),
-630,2023-06-15,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-631,2023-06-14,-3850.0,EUR,Gubka & Fish Media s,"Platba/Gubka- foto, video a zaznam event",2023030/VS2023030/SS/KS
-632,2023-06-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-633,2023-06-14,-150.0,EUR,,EUR NÁKUP POS FACEBK V8PQ6RKUJ2 / fb.me/ads / (POS 99999999),
-634,2023-06-14,-45.0,EUR,,POS nákup BRATISLAVA 14120030 / BRATISLAVA / (POS 90369602),
-635,2023-06-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-636,2023-06-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-637,2023-06-14,-100.0,EUR,,EUR NÁKUP POS FACEBK XS9YRQXTJ2 / fb.me/ads / (POS 99999999),
-638,2023-06-13,-150.0,EUR,Záboly Eliot,"Platba/Zaboly, fotenie a postprodukcia",1012023/VS1012023/SS/KS
-639,2023-06-13,100.0,EUR,Tobiášová Kuzmová Má,Platba/PS dar Maria Tobiasova Kuzmova,239739/VS239739/SS/KS308
-640,2023-06-13,-2000.0,EUR,,VÝBER V HOTOVOSTI/výber do pokladne,
-641,2023-06-13,-400.0,EUR,Búbelová Barbora,"Platba/Bubelova, zostrih videa",
-642,2023-06-13,-40.0,EUR,Marko David,"Platba/Marko, tlmocenie do SPJ",592023/VS592023/SS/KS
-643,2023-06-13,-3940.0,EUR,NAGY FILIP,"Platba/Nagy, portrety kandidatov",20230009/VS20230009/SS/KS
-644,2023-06-13,-540.0,EUR,ATRIOS S.R.O.,"Platba/atrios, prenajom konferencnej saly",23268/VS23268/SS/KS
-645,2023-06-13,-1000.0,EUR,Mgr. Zora Jaurová,"Platba/Jaurova, priprava programu",72023/VS72023/SS/KS
-646,2023-06-13,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-647,2023-06-13,-800.0,EUR,,EUR NÁKUP POS FACEBK S7TGVQX9D2 / fb.me/ads / (POS 99999999),
-648,2023-06-13,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
-649,2023-06-13,-70.0,EUR,,EUR NÁKUP POS FACEBK Q4XVXQFUJ2 / fb.me/ads / (POS 99999999),
-650,2023-06-13,-750.0,EUR,,EUR NÁKUP POS FACEBK *9SULWNXM52 / fb.me/ads / (POS 99999999),
-651,2023-06-13,-40.0,EUR,,EUR NÁKUP POS FACEBK 83ULXQFUJ2 / fb.me/ads / (POS 99999999),
-652,2023-06-13,-40.0,EUR,,EUR NÁKUP POS FACEBK CXQHGQTUJ2 / fb.me/ads / (POS 99999999),
-653,2023-06-13,-30.0,EUR,,EUR NÁKUP POS FACEBK ZSEEWQ7UJ2 / fb.me/ads / (POS 99999999),
-654,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-655,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-656,2023-06-13,-20.0,EUR,,EUR NÁKUP POS FACEBK FYKQFQTUJ2 / fb.me/ads / (POS 99999999),
-657,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-658,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-659,2023-06-13,-12.0,EUR,,EUR NÁKUP POS FACEBK T9XAWQFUJ2 / fb.me/ads / (POS 99999999),
-660,2023-06-12,-120.0,EUR,ARICON GROUP,"Platba/aricon, najom za priestor diskusia komarno",231000044/VS231000044/SS/KS
-661,2023-06-12,-150.0,EUR,TATVA S.R.O.,Platba/marketingove sluzby,230004/VS230004/SS/KS
-662,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-663,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-664,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-665,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-666,2023-06-12,-12.0,EUR,,EUR NÁKUP POS FACEBK EG4M2RPTJ2 / fb.me/ads / (POS 99999999),
-667,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-668,2023-06-12,-800.0,EUR,,EUR NÁKUP POS FACEBK Y9RVTQX8D2 / fb.me/ads / (POS 99999999),
-669,2023-06-12,-27.0,EUR,,POS nákup PEPCO 120023 BRATISLAVA / BRATISLAVA / (POS 34016301),
-670,2023-06-12,-9.0,EUR,,EUR NÁKUP POS FACEBK AR9LGR3UJ2 / fb.me/ads / (POS 99999999),
-671,2023-06-12,-6.0,EUR,,EUR NÁKUP POS FACEBK 6TU23RKUJ2 / fb.me/ads / (POS 99999999),
+0,2023-08-22,150.0,EUR,"Guráň Milan, Ing.",Platba,19/VS019/SS5806067245/KS
+1,2023-08-22,300.0,EUR,Lucia Francescato,Platba/PS dar lucia francescescato 62,263609/VS263609/SS/KS308
+2,2023-08-22,500.0,EUR,Lubos Dubek,"Platba/Dar, Lubos Dubek",117/VS117/SS/KS
+3,2023-08-22,-8.4,EUR,Mesto Bardejov,Platba/dan uzivanie priestranstva Bardejov,2926300044/VS2926300044/SS/KS
+4,2023-08-22,-68.0,EUR,House of Art s.r.o.,"Platba/house of art, prenajom vybavenia nitra 16.8.",122023/VS122023/SS/KS
+5,2023-08-21,1000.0,EUR,Jan Hargas,Platba/Dar - Jan Hargas,"
+                        31/VS31/SS/KS
+                    "
+6,2023-08-21,250.0,EUR,"
+                            Mgr.Juraj Mikulasek
+                    ","
+                        PLATBA
+                    /
+                        Dar Juraj Mikulasek
+                    ","
+                        123/VS123/SS/KS
+                    "
+7,2023-08-21,-80.0,EUR,"
+                            KOSICE MESTO
+                    ","
+                        Platba
+                    /
+                        Mesto Kosice, spravny poplatok 21.8.
+                    ","
+                        3451230346/VS3451230346/SS/KS
+                    "
+8,2023-08-21,-80.0,EUR,"
+                            KOSICE MESTO
+                    ","
+                        Platba
+                    /
+                        Mesto Kosice, poplatok za priestor 21.8.
+                    ","
+                        3451230347/VS3451230347/SS/KS
+                    "
+9,2023-08-21,100.0,EUR,"
+                            MATLON MICHAL
+                    ","
+                        PLATBA
+                    /
+                        
+                    ","
+                        256508/VS256508/SS/KS
+                    "
+10,2023-08-21,50.0,EUR,"
+                            Jaroslava Perlakiová
+                    ","
+                        PLATBA
+                    /
+                        dar pre Ondreja Prostrednika
+                    ","
+                        19/VS19/SS/KS298
+                    "
+11,2023-08-22,-1000.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2023-08-22,-26.14,EUR,"
+                            
+                    ","
+                        POS nákup Potraviny Viktoria / Potonske Luky / (POS xqyu5p1T)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2023-08-22,-800.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 7QPYZSX8D2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+14,2023-08-22,-800.0,EUR,,EUR NÁKUP POS FACEBK *A6WHUQ3N52 / fb.me/ads / (POS 99999999),
+15,2023-08-19,150.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
+16,2023-08-22,-800.0,EUR,,EUR NÁKUP POS FACEBK 2L2W7TKUJ2 / fb.me/ads / (POS 99999999),
+17,2023-08-19,20.0,EUR,"
+                            Papuga Ján
+                    ","
+                        Platba
+                    /
+                        PS dar Jan Papuga
+                    ","
+                        264276/VS264276/SS/KS308
+                    "
+18,2023-08-18,20.0,EUR,"
+                            Milos Paciga
+                    ","
+                        Platba
+                    /
+                        PS dar Milos Paciga
+                    ","
+                        116/VS116/SS/KS0308
+                    "
+19,2023-08-18,20.0,EUR,"
+                            Milos Paciga
+                    ","
+                        Platba
+                    /
+                        PS dar Milos Paciga
+                    ","
+                        134/VS134/SS/KS0308
+                    "
+20,2023-08-21,-1000.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+21,2023-08-18,50.0,EUR,"
+                            EVA DUBOVSKA
+                    ","
+                        DE23081866028 MBANKO6210670122
+                    /
+                        DAKUJEM A DRZIM PALCE
+                    ","
+                        
+                    "
+22,2023-08-21,-800.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK HXTB8RF9D2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+23,2023-08-18,-7978.8,EUR,"
+                            Pandan, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Pandan, kandidatske letaky  a tricka
+                    ","
+                        202308037/VS202308037/SS/KS
+                    "
+24,2023-08-18,10.0,EUR,"
+                            Konkol Karol
+                    ","
+                        PLATBA
+                    /
+                        PS dar Karol Konkol
+                    ","
+                        264267/VS264267/SS/KS0308
+                    "
+25,2023-08-18,100.0,EUR,"
+                            STREDL TOMAS
+                    ","
+                        PLATBA
+                    /
+                        PS dar Tomas Stredl 069
+                    ","
+                        69/VS069/SS/KS
+                    "
+26,2023-08-21,-8.0,EUR,"
+                            
+                    ","
+                        POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978)
+                    /
+                        
+                    ","
+                        
+                    "
+27,2023-08-21,-13.45,EUR,"
+                            
+                    ","
+                        POS nákup 345 Pezinok / Pezinok / (POS TN129703)
+                    /
+                        
+                    ","
+                        
+                    "
+28,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","Platba/Pandan, kandidatske letaky a tricka",202308037/VS202308037/SS/KS
+29,2023-08-18,10.0,EUR,Konkol Karol,PLATBA/PS dar Karol Konkol,264267/VS264267/SS/KS0308
+30,2023-08-18,100.0,EUR,STREDL TOMAS,PLATBA/PS dar Tomas Stredl 069,69/VS069/SS/KS
+31,2023-08-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+32,2023-08-18,-800.0,EUR,,EUR NÁKUP POS FACEBK 6VLGWSX8D2 / fb.me/ads / (POS 99999999),
+33,2023-08-18,-800.0,EUR,,EUR NÁKUP POS FACEBK *8CDEVQBM52 / fb.me/ads / (POS 99999999),
+34,2023-08-18,-4.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+35,2023-08-17,50.0,EUR,Roman Krcmar,Platba/PS dar Roman Krcmar,264260/VS264260/SS/KS308
+36,2023-08-17,14.0,EUR,Kello Filip,Platba/PS dar Filip Kello,264257/VS264257/SS/KS308
+37,2023-08-17,-288.0,EUR,"euroAWK, spol. s r. o.","Platba/euroAWK, BB 08 jurik",2370122/VS2370122/SS/KS
+38,2023-08-17,-84.0,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac plagat Kendra",2023441/VS2023441/SS/KS
+39,2023-08-17,3000.0,EUR,Kristina Mikulova,"Platba/Kristina Mikulova, dar 2023",
+40,2023-08-17,-27000.0,EUR,"GROOW DIGITAL, s. r.","Platba/Nakup medialneho priestoru 08 23 Ringier,Aktuality,",2023118/VS2023118/SS/KS
+41,2023-08-17,-60.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 19.7.",1510066312/VS1510066312/SS2303077200/KS0558
+42,2023-08-17,-120.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 23.7.",1510066312/VS1510066312/SS2303077201/KS0558
+43,2023-08-17,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+44,2023-08-17,30.0,EUR,MISIK MICHAL,PLATBA/PS dar Michal Misik,264250/VS264250/SS/KS0308
+45,2023-08-17,-418.5,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850193),
+46,2023-08-17,-800.0,EUR,,EUR NÁKUP POS FACEBK R6DR2TPTJ2 / fb.me/ads / (POS 99999999),
+47,2023-08-17,-7.6,EUR,,POS nákup PARKOVANI PIESTIANY / PIESTIANY / (POS 37473836),
+48,2023-08-17,-5.32,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+49,2023-08-16,50.0,EUR,Branislav Osif,Platba/PS dar Branislav Osif,264251/VS264251/SS/KS308
+50,2023-08-16,-272.4,EUR,JOZEF STRACENSKY - D,"Platba/dajsprint, tlac a vylep BB 09 Kendra",2023024/VS2023024/SS/KS
+51,2023-08-16,20.0,EUR,JANKECH ROBERT,Platba,264248/VS264248/SS/KS
+52,2023-08-16,-60.0,EUR,David Marko,"Platba/Marko, tlmocenie do SPJ",612023/VS612023/SS/KS
+53,2023-08-16,-2500.0,EUR,KEED Slovakia,"Platba/KEED, koordinacia kampane zapadne slovensko",2023001/VS2023001/SS/KS
+54,2023-08-16,-3600.0,EUR,ARTON s.r.o.,"Platba/Arton, tlac a instalacia baneru 2ks september",230452/VS230452/SS/KS
+55,2023-08-16,-656.4,EUR,"Pandan, s. r. o.","Platba/Pandan, odznaky, letaky, nalepka na auto",202307036/VS202307036/SS/KS
+56,2023-08-16,70.0,EUR,ANNA URBASIKOVA,PLATBA/DAR,93916/VS0000093916/SS/KS
+57,2023-08-16,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+58,2023-08-16,-168.5,EUR,,INT NÁKUP POS EUR edgarpower.sk / Ostrava - Vit / (POS GATE7353),
+59,2023-08-15,50.0,EUR,Stanislav Sarissky,Platba/PS dar Stanislav Sarissky,76941/VS76941/SS/KS298
+60,2023-08-15,127.2,EUR,MIROSLAVA VERMEIREN,PLATBA/078,78/VS0000000078/SS/KS0308
+61,2023-08-15,270.0,EUR,Lubica Bednarova,Platba/Dar PS Lubica Bednarova,66/VS66/SS/KS
+62,2023-08-15,5000.0,EUR,"Varga Marián, Ing.",Platba/Dar Marian Varga pre Lucia Plavakova,2/VS002/SS6701/KS0558
+63,2023-08-15,-3576.0,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, medialna agentura sluzby",2023115/VS2023115/SS/KS
+64,2023-08-15,-180.0,EUR,STONED MEDIA s.r.o.,"Platba/Stoned media, inzercia led obrazovka Prostrednik",23080003/VS23080003/SS/KS
+65,2023-08-15,-10000.0,EUR,Inako s.r.o.,"Platba/Inako, marketingove sluzby",1/VS001/SS/KS
+66,2023-08-15,100.0,EUR,NÁRODNÁ BANKA SLOVEN,DT23081550289 FT258879949271,
+67,2023-08-15,50.0,EUR,Milan Hausner,Platba/PS dar Milan Hausner,80931/VS80931/SS/KS0308
+68,2023-08-15,250.0,EUR,Jakub Jochman,Platba/PS dar Jakub Jochman,91/VS91/SS/KS0308
+69,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK *8QAQNQ3N52 / fb.me/ads / (POS 99999999),
+70,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK 4KY5HTBUJ2 / fb.me/ads / (POS 99999999),
+71,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK U9LABSB9D2 / fb.me/ads / (POS 99999999),
+72,2023-08-15,-365.0,EUR,,EUR NÁKUP POS Hotel on Booking.com / Amsterdam / (POS 99999999),
+73,2023-08-15,-800.0,EUR,,EUR NÁKUP POS FACEBK *ACZ6LRBN52 / fb.me/ads / (POS 99999999),
+74,2023-08-14,100.0,EUR,"Krištofíková Oľga, M",Platba/PS dar Olga Kristofikova,124/VS124/SS/KS308
+75,2023-08-14,5000.0,EUR,"Maar Stanislav, RNDr",Platba/lucia plavakova,2/VS002/SS/KS
+76,2023-08-14,100.0,EUR,BUZALKA JURAJ,Platba/Dar pre Ondreja prostrednika,19/VS019/SS/KS308
+77,2023-08-14,-5000.0,EUR,"Varga Marián, Ing.",Platba/vratenie mylnej platby dar,
+78,2023-08-14,5000.0,EUR,"Varga Marián, Ing.",Platba/Dar Marian Varga pre Lucia Plavakova,2/VS002/SS6701/KS0558
+79,2023-08-14,20.0,EUR,SLOSAR TOMAS,PLATBA/PS dar Tomas Slosar,134/VS134/SS/KS0308
+80,2023-08-14,100.0,EUR,JURGOVA DANIELA,"PLATBA/Daniela Jurgova, dar pre Ondreja Prostrednika",19/VS019/SS/KS
+81,2023-08-14,50.0,EUR,NATALIA NASH,PLATBA/dar,34/VS34/SS/KS
+82,2023-08-14,50.0,EUR,Peter Sarvas,Platba/PS dar Peter Sarvas,264177/VS264177/SS/KS0308
+83,2023-08-14,50.0,EUR,Vladislav Berezny,Platba/PS dar Vladislav Berezny,264172/VS264172/SS/KS0308
+84,2023-08-14,100.0,EUR,Olga Benesova,Platba/Olga Benesova dar pre Ondreja Prostrednika,19/VS19/SS/KS
+85,2023-08-14,-122.16,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
+86,2023-08-14,-2.1,EUR,,POS nákup EEI / BRATISLAVA / (POS 37473893),
+87,2023-08-14,-800.0,EUR,,EUR NÁKUP POS FACEBK AVWLCT3UJ2 / fb.me/ads / (POS 99999999),
+88,2023-08-11,10.0,EUR,Marek Vrabec,Platba/PS dar Marek Vrabec,264127/VS264127/SS/KS0308
+89,2023-08-11,90.0,EUR,Martina Missikova,Platba PO23081153409818/dar pre Ondrej Prostrednik 019,
+90,2023-08-11,-2587.25,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, najomne kancelaria jul",23341/VS23341/SS/KS
+91,2023-08-11,-1354.8,EUR,"Bratiska, s.r.o.","Platba/Bratiska, tricko, mikina a graficke prace",2023100/VS2023100/SS/KS
+92,2023-08-11,-6436.8,EUR,"Pandan, s. r. o.","Platba/Pandan, pera, tasky, kandidatske letaky",202308001/VS202308001/SS/KS
+93,2023-08-11,250.0,EUR,Miroslav Otocka,Platba/PS dar Miroslav Otocka,264109/VS264109/SS/KS308
+94,2023-08-11,100.0,EUR,"Križan Peter, MUDr.",Platba/Peter Krizan dar pre Ondreja Prostrednika,19/VS019/SS/KS
+95,2023-08-11,127.2,EUR,Peter Brozman,"Platba/Dar, Peter Brozman",37/VS37/SS/KS
+96,2023-08-11,250.0,EUR,Vieroslav Levrinc,Platba/kandidatka 112,112/VS112/SS/KS
+97,2023-08-11,-73.0,EUR,ORANGE SLOVENSKO A.S,Platba/QR platba Orange,401972955/VS401972955/SS/KS308
+98,2023-08-11,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+99,2023-08-11,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
+100,2023-08-11,-128.85,EUR,,POS nákup OMV 2371 / Bratislava / (POS OSK1135B),
+101,2023-08-11,-800.0,EUR,,EUR NÁKUP POS FACEBK 4AXPXQF9D2 / fb.me/ads / (POS 99999999),
+102,2023-08-11,-40.52,EUR,,POS nákup IKEA SK ecom / Bratislava / (POS E3800067),
+103,2023-08-11,-1.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+104,2023-08-11,-556.36,EUR,,EUR NÁKUP POS FACEBK *98C6HRBN52 / fb.me/ads / (POS 99999999),
+105,2023-08-10,25.0,EUR,Martin Varchol,Platba/PS dar Martin Varchol,264110/VS264110/SS/KS
+106,2023-08-10,100.0,EUR,KÁRA SERGEJ,Platba/kampan Sergej Kara,51/VS051/SS/KS
+107,2023-08-10,250.0,EUR,Jan Turek,Platba/PS dar Jan Turek,51007/VS51007/SS/KS308
+108,2023-08-10,300.0,EUR,Ing.Ladislav Gala,PLATBA,105/VS105/SS/KS
+109,2023-08-10,150.0,EUR,MICHAL STYK,PLATBA/DAR MICHAL STYK,87/VS0000000087/SS/KS
+110,2023-08-10,100.0,EUR,Gabor Bordacs,Platba,240078/VS240078/SS/KS
+111,2023-08-10,-5000.0,EUR,ING. ŠTEFAN KIŠŠ,"Platba/Kiss, ekonomicke poradenstvo",723/VS723/SS/KS
+112,2023-08-10,-500.0,EUR,"HOTEL NARODNY DOM, S","Platba/Hotel narodny dom, prenajom priestorov",2300123/VS2300123/SS/KS308
+113,2023-08-10,20.0,EUR,MALIKOVA VANDA,PLATBA,156791/VS156791/SS/KS
+114,2023-08-10,50.0,EUR,ANTON KUBALA,PLATBA/PS dar Anton Kubala,264055/VS264055/SS/KS0308
+115,2023-08-10,-40.0,EUR,MESTO PIEŠŤANY,"Platba/Zvolen, spravny poplatok - akcia doprava",221004/VS221004/SS/KS
+116,2023-08-10,50.0,EUR,"Hrnčiarik Pavel, Ing",Platba/PS dar Pavel Hrnciarik,264092/VS264092/SS/KS308
+117,2023-08-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+118,2023-08-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+119,2023-08-10,-1.5,EUR,,POS nákup QEX AS PEZINOK / TRENCIN / (POS 37473127),
+120,2023-08-10,-5.32,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+121,2023-08-10,-133.31,EUR,,EUR NÁKUP POS FACEBK BQX6CTBUJ2 / fb.me/ads / (POS 99999999),
+122,2023-08-09,500.0,EUR,"Kendra Pavel, Ing.",Platba/PS dar Pavel Kendra,95/VS095/SS/KS308
+123,2023-08-09,100.0,EUR,"Polešenský Milan, Mg",Platba/PS dar Milan Polesensky,57/VS057/SS/KS308
+124,2023-08-09,-1000.0,EUR,Vajda Ivan,"Platba/Vajda, graficke prace",2023011/VS2023011/SS/KS308
+125,2023-08-09,10.0,EUR,"Bednár Libor, Mgr.,","Platba/Ondrej Prostrednik, dar pre Ondreja Prostrednika",19/VS019/SS/KS
+126,2023-08-09,50.0,EUR,Lukas Sausa,Platba/PS dar Lukas Sausa,97/VS97/SS/KS308
+127,2023-08-09,20.0,EUR,Rafael Labanc,Platba/PS dar Rafael Labanc,264074/VS264074/SS/KS308
+128,2023-08-09,-5000.0,EUR,,VÝBER V HOTOVOSTI/vklad do pokladne,
+129,2023-08-09,500.0,EUR,LAURINC MILAN,PLATBA/Milan Laurinc - c.53,53/VS053/SS/KS
+130,2023-08-09,69.0,EUR,Olšanský Martin,Platba/dar,
+131,2023-08-09,-127.2,EUR,,"POS nákup Umelka, BA, Dostojev.r / Bratislava / (POS 03044373)",
+132,2023-08-09,-800.0,EUR,,EUR NÁKUP POS FACEBK *HYZSNQ7M52 / fb.me/ads / (POS 99999999),
+133,2023-08-09,-800.0,EUR,,EUR NÁKUP POS FACEBK PURG6SB9D2 / fb.me/ads / (POS 99999999),
+134,2023-08-09,-327.0,EUR,,POS nákup GOPAY *GRAPEFESTIVAL.SK / grapefestival / (POS EE800048),
+135,2023-08-09,-800.0,EUR,,EUR NÁKUP POS FACEBK DZXUUSFUJ2 / fb.me/ads / (POS 99999999),
+136,2023-08-09,-149.15,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850122),
+137,2023-08-09,-17.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+138,2023-08-08,60.0,EUR,David Singovsky,Platba/Dar David Singovsky,143/VS143/SS/KS
+139,2023-08-08,100.0,EUR,elevance s. r. o.,Platba/PS dar 54623863,47/VS47/SS/KS308
+140,2023-08-08,100.0,EUR,Tibor Forro,Platba/PS dar Tibor Forro,47/VS47/SS/KS308
+141,2023-08-08,-840.0,EUR,MUSIC FORUM V.O.S.,"Platba/Music forum, reziserske prace Jaurova spot",20230147/VS20230147/SS/KS
+142,2023-08-08,-210.0,EUR,ASOCIÁCIA DIVADELNÁ NITRA,"Platba/Asociacia Divadelna Nitra, prenajom priestorov Nitra 21.6.",701202308/VS0701202308/SS/KS
+143,2023-08-08,-500.0,EUR,VADOVICOVA MARIANN,"Platba/Vadovicova, kamera spot Jaurova",20230010/VS20230010/SS/KS308
+144,2023-08-08,-3500.0,EUR,Jan Kral,"PLATBA VA23080806477/Kral, marketingove a komunikacne sluzby jul",120230004
+145,2023-08-08,-4.06,EUR,JUDR. RUZENA BAYEROV,"Platba/Bayerova, legalizacia 1ks podpis",1972023/VS1972023/SS/KS
+146,2023-08-08,-2587.25,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, najomne za kancelariu 08",23399/VS23399/SS/KS
+147,2023-08-08,-39.6,EUR,Mesto Nitra,"Platba/Nitra, Dan za uzivanie verejneho priestranstva 16.8.",1400347832/VS1400347832/SS2303056823/KS558
+148,2023-08-08,-2.4,EUR,Mesto Prievidza,"Platba/Prievidza, Dan za verejne priestranstvo 2.8.",1500181112/VS1500181112/SS2303029286/KS558
+149,2023-08-08,-98640.0,EUR,"BIGMEDIA, SPOL. S R.O.",Platba/BigMedia 09 2023,122390127/VS122390127/SS/KS
+150,2023-08-08,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+151,2023-08-08,800.0,EUR,Ida Bihariova,Platba/dar Irena Bihariova,10/VS10/SS/KS
+152,2023-08-08,50.0,EUR,Ing.Ludmila Hoffmanova,PLATBA,134/VS134/SS/KS
+153,2023-08-08,15.0,EUR,Hrivnak Radomir,PLATBA/Dobrovolny prispevok - pre Martinu,134/VS0000000134/SS0000000000/KS0000
+154,2023-08-08,100.0,EUR,PROLINGO S.R.O.,PLATBA/PS dar Ondrej Prostrednik,19/VS019/SS/KS0308
+155,2023-08-08,50.0,EUR,OTO STRAUCH,PLATBA/PS dar Oto Strauch,65988/VS65988/SS/KS0308
+156,2023-08-08,400.0,EUR,Miller Alexandra,Platba/PS dar Alexandra Miller,2/VS002/SS/KS308
+157,2023-08-08,100.0,EUR,Pavel Ruzek,Platba/Dar pre Ondreja Prostrednika,19/VS19/SS/KS
+158,2023-08-08,20.0,EUR,Viera Novakova,Platba/PS dar Viera Novakova,134/VS134/SS/KS
+159,2023-08-08,150.0,EUR,BERDISOVÁ LUCIA,Platba/PS dar Lucia Berdisova,2/VS002/SS/KS308
+160,2023-08-08,-799.59,EUR,,EUR NÁKUP POS FACEBK QCNU4SB9D2 / fb.me/ads / (POS 99999999),
+161,2023-08-08,-799.91,EUR,,EUR NÁKUP POS FACEBK *DQBQEQ3N52 / fb.me/ads / (POS 99999999),
+162,2023-08-07,150.0,EUR,Jolana Kusa,Platba/Dar Jolana Kusa na osobnu kampan (letaky),150/VS150/SS435903/KS
+163,2023-08-07,100.0,EUR,Michal Ozaniak,DE23080762554 EBNTS011228193/Dar Michal Ozaniak,65964/VS65964/SS/KS
+164,2023-08-07,48.89,EUR,,POS návrat NAY INTERNETDOM / BRATISLAVA /,
+165,2023-08-07,70.0,EUR,"Nagyová Janka, PhDr.",Platba/Janka Nagyova dar pre Ondreja Prostrednika,
+166,2023-08-07,500.0,EUR,STRAPÁK DANIEL,Platba/Daniel Strapak dar pre Ondreja Prostrednika,19/VS019/SS/KS
+167,2023-08-07,100.0,EUR,MILAN KOLIBIAR,PLATBA/PS DAR MILAN KOLIBIAR,263957/VS0000263957/SS/KS0308
+168,2023-08-07,50.0,EUR,ALEXANDER KASJANOV,"PLATBA/ALEXANDER KASJANOV, DAR PRE ONDREJA PROSTREDNIKA",19/VS0000000019/SS/KS0558
+169,2023-08-07,100.0,EUR,Richard Horňák,PLATBA/Richard Hornak Andreja Hlinku 6 Velky Saris 08221,263984/VS263984/SS/KS
+170,2023-08-07,100.0,EUR,Michal Behun,"Platba/VS: 019 Michal Behun, dar pre Ondreja Prostrednika",19/VS19/SS/KS
+171,2023-08-07,100.0,EUR,Štefan Markuš,PLATBA/Stefan Markus dar pre O. Prostrednika,19/VS19/SS/KS
+172,2023-08-07,172.0,EUR,NATALIA NASH,PLATBA/dar,34/VS034/SS/KS
+173,2023-08-07,-960.0,EUR,CONTENT FACTORY s. r,"Platba/content factory, prenajom techniky spot Jaurova",2308001/VS2308001/SS/KS
+174,2023-08-07,-400.0,EUR,Búbelová Barbora,"Platba/Bubelova, strih audiovizualneho diela Jaurova",101/VS0101/SS/KS
+175,2023-08-07,-1080.0,EUR,EDEN CARS SRO,"Platba/Eden cars, prenajom dodavky na august",302300811/VS302300811/SS/KS308
+176,2023-08-07,400.0,EUR,Robert Lifka,Platba/PS dar pre Ondreja Prostrednika odRobert Lifka,19/VS19/SS/KS308
+177,2023-08-07,200.0,EUR,Stanislav Gajdos,"Platba/Stanislav Gajdos, dar pre Ondreja Prostrednika",19/VS19/SS/KS
+178,2023-08-07,30.0,EUR,Zuzana David,"Platba/Zuzana David, dar pre Ondreja Prostrednika",19/VS19/SS/KS
+179,2023-08-07,100.0,EUR,Norbert Uhnak,Platba,68358/VS68358/SS/KS
+180,2023-08-07,200.0,EUR,Rudolf Sikora,Platba,2/VS2/SS/KS
+181,2023-08-07,10.0,EUR,Derydt Maxime,Platba,263981/VS263981/SS/KS
+182,2023-08-07,100.0,EUR,"Endrődyová Renáta, J",Platba/Dar pre Bohinska Nada,116/VS116/SS/KS
+183,2023-08-07,-800.0,EUR,,EUR NÁKUP POS FACEBK FTVFTSPUJ2 / fb.me/ads / (POS 99999999),
+184,2023-08-07,-105.01,EUR,,EUR NÁKUP POS FACEBK NA7BSR79D2 / fb.me/ads / (POS 99999999),
+185,2023-08-07,-800.0,EUR,,EUR NÁKUP POS FACEBK 4BVXPR3AD2 / fb.me/ads / (POS 99999999),
+186,2023-08-05,50.0,EUR,Váradi Krisztián,Platba/PS dar Krisztian Varadi 069,69/VS069/SS/KS308
+187,2023-08-05,200.0,EUR,Eva Kutalova,Platba/Eva Kutalova dar pre Ondreja Prostrednika,19/VS19/SS/KS968
+188,2023-08-05,30.0,EUR,"Miklánek Ján, Mgr.",Platba/PS dar Jan Miklanek,57890/VS57890/SS/KS308
+189,2023-08-05,20.0,EUR,Lubomir Bechny,Platba/PS dar Lubo Bechny,19/VS19/SS/KS0308
+190,2023-08-04,100.0,EUR,v. De Watering Krame,Platba/019 Ondrej Prostrednik,19/VS019/SS/KS
+191,2023-08-04,20.0,EUR,Marta Botikova,Platba/PS dar_ Ondrej Prostrednik_ od_Marta Botikova,19/VS19/SS/KS308
+192,2023-08-04,-388.8,EUR,"ISPA, spol. s r.o.","Platba/ISPA, 2ks BB 09 Jurik",23950178/VS23950178/SS/KS
+193,2023-08-04,-17376.0,EUR,FOCUS CENTRUM PRE SO,"Platba/Focus, fokusove skupiny a kvantitativny prieskum",20232070/VS20232070/SS/KS
+194,2023-08-04,20.0,EUR,Vnutorny ucet banky,"PLATBA/CZ9401000001159879250297,KOVACIC KAROL,",150449
+195,2023-08-04,4000.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
+196,2023-08-04,100.0,EUR,"Cifra Matej, Mgr.",Platba/Ondrej Prostrednik,
+197,2023-08-04,-3.99,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),
+198,2023-08-03,-2300.0,EUR,Chrťan Samuel,"Platba/chrtan, marketingove sluzby jul",202307/VS202307/SS/KS
+199,2023-08-03,-86.8,EUR,MONSTERS CAFE AND BA,"Platba/Monsters cafe, konzum podujatie 31.7.",20230044/VS20230044/SS/KS
+200,2023-08-03,-320.0,EUR,REŠTAURÁCIA MERIDIANA S.R.O.,"Platba/Meridiana, priestory Bojnice 2.8.",23249/VS23249/SS/KS
+201,2023-08-03,-400.0,EUR,House of Art s.r.o.,"Platba/house of art, priestory Nitra 16.8.",62023/VS062023/SS/KS
+202,2023-08-03,-2300.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby komunikacia jul",230018/VS230018/SS/KS
+203,2023-08-03,-1250.0,EUR,Marek Brezovsky,"Platba/Brezovsky, marketingove sluzby koordinatora jul",2023002/VS2023002/SS/KS
+204,2023-08-03,-1000.0,EUR,Marek Brezovsky,"Platba/Brezovsky, marketingove sluzby koordinatora jun",2023001/VS2023001/SS/KS
+205,2023-08-03,-150.0,EUR,Orvoš Dominik,"Platba/Orgos, vizazisticke sluzby",20230029/VS20230029/SS/KS
+206,2023-08-03,-300.0,EUR,Gavenda Daniel,"Platba/Gavenda, postprodukcia video jaurova",2023017/VS2023017/SS/KS
+207,2023-08-03,-480.0,EUR,Samuel Škubla,"Platba/Skubla, zvuk a postprodukcia video spot Jaurova",202318/VS202318/SS/KS
+208,2023-08-03,-80.0,EUR,,"Platba/HZS, reklama kezmarske noviny A6 07/2023",72023/VS072023/SS011/KS
+209,2023-08-03,-3300.0,EUR,Dančiak Martin,"Platba/Danciak, marketingove sluzby jul",2023005/VS2023005/SS/KS
+210,2023-08-03,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+211,2023-08-03,50.0,EUR,MATLON MICHAL,PLATBA/PS dar Michal Matlon,256508/VS256508/SS/KS0308
+212,2023-08-03,150.0,EUR,MGR. PETER BARTOS,PLATBA/PS dar 50136232,2/VS002/SS/KS
+213,2023-08-03,100.0,EUR,MATULA PETER,"PLATBA/Dar, Peter Matula",135/VS135/SS/KS
+214,2023-08-03,30.0,EUR,MORAVANSKA NADEZDA,PLATBA/PS dar Nadezda Moravanska,99175/VS99175/SS/KS0308
+215,2023-08-03,20.0,EUR,ADAM SEBESTA,"DE23080351507/ADAM SEBESTA, DAR PRE ONDREJA PROSTREDNIKA",019
+216,2023-08-03,20.0,EUR,Pék János,Platba/PS dar Janos Pek Lucia Plavakova,2/VS002/SS79145/KS308
+217,2023-08-03,-800.0,EUR,,EUR NÁKUP POS FACEBK ZT47NR3AD2 / fb.me/ads / (POS 99999999),
+218,2023-08-03,-233.06,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+219,2023-08-03,-800.0,EUR,,EUR NÁKUP POS FACEBK 5URKZRTUJ2 / fb.me/ads / (POS 99999999),
+220,2023-08-03,-363.68,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
+221,2023-08-02,20.0,EUR,Antonin Cech,Platba,
+222,2023-08-02,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby jul",20230014/VS20230014/SS/KS
+223,2023-08-02,-1200.0,EUR,Petrušková Michaela,"Platba/Petruskova, reklamne a marketingove sluzby jul",20230017/VS20230017/SS/KS308
+224,2023-08-02,-2400.0,EUR,"th media, s.r.o.","Platba/th media, PR sluzby jul",20230041/VS20230041/SS/KS
+225,2023-08-02,-2250.0,EUR,Bohinský Štefan,"Platba/Bohinsky, koordinacia terennej kampane jun a jul",2023003/VS2023003/SS/KS
+226,2023-08-02,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/Vojtek, admin sluzby v komunitnom time jul",52023/VS052023/SS/KS
+227,2023-08-02,-900.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby jul druha cast",30723/VS30723/SS/KS
+228,2023-08-02,-3976.8,EUR,More Design s. r. o.,"Platba/More Design, dizajnove sluzby a web jul",202334/VS202334/SS/KS
+229,2023-08-02,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacie jul",20230016/VS20230016/SS/KS
+230,2023-08-02,-2500.0,EUR,Dávid Javorský,"Platba/Javorsky, foto a video sluzby",2023006/VS2023006/SS/KS308
+231,2023-08-02,-3500.0,EUR,Ridzoň Jerguš,"Platba/Ridzon, admin a marketingove sluzby jul",2023017/VS2023017/SS/KS
+232,2023-08-02,100.0,EUR,Ing.Ivan Cejpek,PLATBA/PS dar Ivan Cejpek pre Ingrid Kosovu,12/VS012/SS/KS0308
+233,2023-08-02,100.0,EUR,Gabriela Birosova,Platba/PS dar Gabriela Birosova,2/VS2/SS/KS308
+234,2023-08-02,100.0,EUR,PETRUS PETER,PLATBA/Dar pre Ingrid Kosovu,12/VS012/SS/KS
+235,2023-08-02,100.0,EUR,SMOLKOVA ADRIANA,PLATBA,255794/VS255794/SS/KS
+236,2023-08-02,250.0,EUR,Ganobjak Ľubomír,Platba/PS dar Lubomir Ganobjak,98370/VS98370/SS/KS308
+237,2023-08-02,-800.0,EUR,,EUR NÁKUP POS FACEBK *BYX7HTPM52 / fb.me/ads / (POS 99999999),
+238,2023-08-01,-3.96,EUR,Mesto Zvolen,"Platba/Zvolen, uzivanie verejneho priestranstva 10.8.",1010179709/VS1010179709/SS/KS
+239,2023-08-01,-120.0,EUR,MESTO TRNAVA,"Platba/Trnava, poplatok uzivanie verejneho priestranstva na rok 2023",1500009670/VS1500009670/SS2303028080/KS379
+240,2023-08-01,-1500.0,EUR,Pekár Samuel,"Platba/Pekar, organizacne a admin sluzby jul",202301/VS202301/SS/KS
+241,2023-08-01,-45.48,EUR,"TYPOSET, S.R.O.","Platba/Typoset, natlacky",20230216/VS20230216/SS/KS
+242,2023-08-01,-300.0,EUR,TrollWall AI,"Platba/TrollWall, sluzby k facebook",20230303/VS20230303/SS/KS
+243,2023-08-01,-2500.0,EUR,Matúš Mikšík,"Platba/Miksik, marketingove sluzby jul",20230006/VS20230006/SS/KS
+244,2023-08-01,-2500.0,EUR,MGR. ZUZANA MACUROVA,"Platba/Macurova, admin a organizacne sluzby jul",20230012/VS20230012/SS/KS
+245,2023-08-01,-1500.0,EUR,Karolina Blunarova,"Platba/Blunarova, marketing a administrativne sluzby jul",20723/VS20723/SS/KS
+246,2023-08-01,-1350.0,EUR,Gubka & Fish Media s,"Platba/Gubka, videa 4ks",2023045/VS2023045/SS/KS
+247,2023-08-01,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby",2023002/VS2023002/SS/KS
+248,2023-08-01,-2163.6,EUR,"Pandan, s. r. o.","Platba/Pandan, tasky 500ks, letaky 2500ks",202308053/VS202308053/SS/KS
+249,2023-08-01,-1500.0,EUR,Nina Kelemenova,"Platba/Kelemenova, marketingove sluzby jul",20230001/VS20230001/SS/KS308
+250,2023-08-01,150.0,EUR,Lukas Sausa,Platba/PS dar Lukas Sausa,97/VS97/SS/KS308
+251,2023-08-01,50.0,EUR,DOMINIK BLASKO,DE23080164099 9380103A32121991/258511PS DAR DOMINIK BLASKO,258511
+252,2023-08-01,250.0,EUR,Dr. Andreas Jusko,DE23080159578 204042307312AIP-/Dar pre Lenka Jusko 094,
+253,2023-08-01,50.0,EUR,SKRABAK PETER,PLATBA/PS dar Peter Skrabak,263810/VS263810/SS/KS0308
+254,2023-08-01,1000.0,EUR,LUSCIKOVA DARINA,PLATBA/Dar Darina Luscikova,22/VS022/SS/KS
+255,2023-08-01,100.0,EUR,"Tichý Ján, Ing.",Platba,263859/VS263859/SS/KS
+256,2023-08-01,120.0,EUR,RAPOŠ MARTIN,"Platba/Martin Rapos, dar pre Ondreja Prostrednika",19/VS019/SS/KS
+257,2023-08-01,-800.0,EUR,,EUR NÁKUP POS FACEBK MLNAWQK9D2 / fb.me/ads / (POS 99999999),
+258,2023-08-01,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+259,2023-08-01,-800.0,EUR,,EUR NÁKUP POS FACEBK H8PSZS3UJ2 / fb.me/ads / (POS 99999999),
+260,2023-07-31,-0.0,EUR,,Poplatok za balík,
+261,2023-07-31,200.0,EUR,Mgr.Tina Gazovicova,PLATBA,24/VS024/SS/KS
+262,2023-07-31,180.0,EUR,Kalkan Eva,"PLATBA/Dar, Eva Kalkan",54/VS054/SS/KS
+263,2023-07-31,20.0,EUR,MACEJOVA SASKIA,PLATBA/PS dar Daniel Kuchta,136298/VS136298/SS/KS0308
+264,2023-07-31,-3500.4,EUR,JANA GOGH S. R. O.,"Platba/Gogh, reklamne a marketingove sluzby",20230023/VS20230023/SS/KS
+265,2023-07-31,-2093.0,EUR,AQT s.r.o.,"Platba/aqt, sony objektiv",41127/VS41127/SS/KS
+266,2023-07-31,150.0,EUR,Sivák Lukáš,Platba/PS dar Lukas Sivak,2/VS002/SS/KS308
+267,2023-07-31,-800.0,EUR,,EUR NÁKUP POS FACEBK EEMLURB9D2 / fb.me/ads / (POS 99999999),
+268,2023-07-31,-800.0,EUR,,EUR NÁKUP POS FACEBK XXN3TTTTJ2 / fb.me/ads / (POS 99999999),
+269,2023-07-29,100.0,EUR,Lubica Racekova,Platba,67439/VS67439/SS/KS
+270,2023-07-28,5000.0,EUR,"Maar Stanislav, RNDr",Platba/darovacia zmluva kandidat 23 Vanco,
+271,2023-07-28,-1518.29,EUR,Turňová Diana,"Platba/Turnova, marketing a admin sluzby jul",40723/VS40723/SS/KS
+272,2023-07-28,-350.0,EUR,Hotel Mamut s. r. o.,"Platba/mamut, prenajom priestorov poprad jul",7082023/VS7082023/SS/KS308
+273,2023-07-28,199.0,EUR,Peter Pollák,PLATBA,147/VS147/SS/KS
+274,2023-07-28,50.0,EUR,ADAM ORMANDY,PLATBA/PS dar Adam Ormandy,258155/VS258155/SS/KS0308
+275,2023-07-28,250.0,EUR,,VKLAD V HOTOVOSTI/Martina Žilková,38/VS038/SS/KS
+276,2023-07-28,-92.41,EUR,,"POS nákup SLOVNAFT, STRBA / STRBA / (POS 12330418)",
+277,2023-07-27,-1000.0,EUR,Mestská časť Bratislava - Staré Mesto,"Platba/BA-Stare mesto, prenajom Pistoriho palac 25.7.",3120230906/VS3120230906/SS/KS
+278,2023-07-27,-485.0,EUR,"ZÁBAVNÁ, s.r.o.","Platba/Zabavna, prenajom priestorov a catering na diskusiu Liptovsky Mikulas",1230009/VS1230009/SS/KS
+279,2023-07-27,-1200.0,EUR,Advajs advertising s. r. o.,"Platba/Advajs, marketingove sluzby a tvorba obsahu",20230041/VS20230041/SS/KS
+280,2023-07-27,-256.0,EUR,"VARIA SOUND, S.R.O.","Platba/Varia Sound, ozvucenie diskusie Trnava 14.7.",202325/VS202325/SS/KS
+281,2023-07-27,-2800.0,EUR,VELICKA JANA,"Platba/Velicka, administrativne sluzby jul",20230005/VS20230005/SS/KS
+282,2023-07-27,-2000.0,EUR,Natalia Heribanova,"Platba/Heriban, marketingove a komunikacne sluzby jul",42023/VS42023/SS/KS
+283,2023-07-27,-80040.0,EUR,"BIGMEDIA, SPOL. S R.O.",Platba/BigMedia 08 2023,122390126/VS122390126/SS/KS
+284,2023-07-27,180.0,EUR,Kalkan Eva,"PLATBA/Dar, Eva Kalkan",54/VS054/SS/KS
+285,2023-07-27,50.0,EUR,Váradi Krisztián,Platba/PS dar Krisztian Varadi,69/VS069/SS/KS308
+286,2023-07-27,-30.98,EUR,,POS nákup NAY ELEKTRODOM LM / LIPTOVSKY MIK / (POS 05047809),
+287,2023-07-27,-61.55,EUR,,POS nákup Wolt / Bratislava / (POS 99999999),
+288,2023-07-27,-4.4,EUR,,POS nákup Tomas Ronin / Bratislava / (POS 11270036),
+289,2023-07-27,-7.5,EUR,,POS nákup Tomas Ronin / Bratislava / (POS 11270036),
+290,2023-07-27,-9.35,EUR,,POS nákup Wolt / Bratislava / (POS 99999999),
+291,2023-07-27,-9.35,EUR,,POS nákup Wolt / Bratislava / (POS 99999999),
+292,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB 09, Pamula",237088/VS237088/SS113/KS
+293,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB 08, Pamula",2370087/VS2370087/SS113/KS
+294,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB 08, Pamula",2370086/VS2370086/SS113/KS
+295,2023-07-26,-66.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks BB na september, Pamula",2370085/VS2370085/SS113/KS
+296,2023-07-26,-132.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, 1ks bilboard, august, Pamula",2370084/VS2370084/SS113/KS
+297,2023-07-26,-120.0,EUR,,"Platba/Farbickovo, malovanie na tvar piknik Zilina",20230014/VS20230014/SS/KS
+298,2023-07-26,-260.0,EUR,Dolinská Daniela,"Platba/Dolinska, fotograficke sluzby",
+299,2023-07-26,250.0,EUR,Milos Korba,Platba/Dar Elena Cinova,60/VS60/SS/KS
+300,2023-07-26,80000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+301,2023-07-26,2000.0,EUR,JAN DUCHOVIC,PLATBA/PREVOD PROSTRIEDKOV,
+302,2023-07-26,50.0,EUR,LENKA HLINKOVA,PLATBA/PLATBA,263669/VS0000263669/SS/KS
+303,2023-07-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335/VS81335/SS/KS0308
+304,2023-07-26,250.0,EUR,JANA HANULIAKOVA,PLATBA/dar Jana Hanuliakova,16/VS016/SS/KS
+305,2023-07-26,1000.0,EUR,Jan Hargas,Platba/Dar - Jan Hargas,31/VS31/SS/KS
+306,2023-07-26,-800.0,EUR,,EUR NÁKUP POS FACEBK H2GVGR79D2 / fb.me/ads / (POS 99999999),
+307,2023-07-26,-75.0,EUR,,POS nákup Penzion San Martin / Martin / (POS 11285443),
+308,2023-07-26,-75.0,EUR,,POS nákup Penzion San Martin / Martin / (POS 11285443),
+309,2023-07-26,-800.0,EUR,,EUR NÁKUP POS FACEBK 84X8QTTTJ2 / fb.me/ads / (POS 99999999),
+310,2023-07-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+311,2023-07-26,-117.0,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850150),
+312,2023-07-25,1000.0,EUR,"Sliacky Marián, Mgr.",Platba/dobrovolny dar na podporu,16/VS016/SS/KS0308
+313,2023-07-25,150.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
+314,2023-07-25,-315.0,EUR,"WINESERVICE, S.R.O.","Platba/Wineservice, prenajom miestnosti a technika zilina",23031/VS23031/SS/KS308
+315,2023-07-25,-100.0,EUR,Radovan Tisko,"Platba/vratenie daru podla 85/2005 z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
+316,2023-07-25,-1.0,EUR,PETER CHOMA,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
+317,2023-07-25,-200.0,EUR,KALINOVA EVA,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",
+318,2023-07-25,1800.0,EUR,LIPTAJ MICHAL,Platba PO23072551624056/Dar-Branislav Vanco-023,
+319,2023-07-25,-3500.0,EUR,Jan Kral,"PLATBA VA23072502050/Kral, marketingove a komunikacne sluzby jun",120230003
+320,2023-07-25,-400.0,EUR,SpozaVoza,"Platba/SpozaVoza, divadelne predstavenie zilina",20230709/VS20230709/SS/KS
+321,2023-07-25,-800.0,EUR,,EUR NÁKUP POS FACEBK *7XVG7QBM52 / fb.me/ads / (POS 99999999),
+322,2023-07-25,-114.68,EUR,,"POS nákup SLOVNAFT, PK, SENKVICK / PEZINOK / (POS 12310120)",
+323,2023-07-25,-68.2,EUR,,"POS nákup LIDL 279, PK Senkvicka / Pezinok / (POS 06541664)",
+324,2023-07-25,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+325,2023-07-24,900.0,EUR,"Kleinert Dana, Mgr.a",Platba/PS dar Dana Kleinert,28/VS028/SS/KS308
+326,2023-07-24,-63.0,EUR,Mesto Martin,Platba/mesto martin vyrubenie dane za uzivanie verejneho priestranstva 24.7,51224836/VS51224836/SS/KS
+327,2023-07-24,300.0,EUR,Veronika Srobova,"Platba/Dar, Veronika Srobova",32/VS32/SS/KS
+328,2023-07-24,-180.0,EUR,Ing. Alena Voštenáko,"Platba/emocia, prenajom priestorov zilina 19.7.",202301/VS202301/SS/KS
+329,2023-07-24,-2300.0,EUR,íčko s.r.o.,"Platba/icko, produkcne a organizacne prace jun",20230005/VS20230005/SS/KS
+330,2023-07-24,-2300.0,EUR,íčko s.r.o.,"Platba/icko, produkcne a organizacne prace",20230004/VS20230004/SS/KS
+331,2023-07-24,-2300.0,EUR,íčko s.r.o.,"Platba/icko, produkcne a organizacne prace",20230003/VS20230003/SS/KS
+332,2023-07-24,-243.6,EUR,CONFIDENCE MEDIA SR,"Platba/confidence media, prenajom a produkcia bilboard 1ks, Jusko",2321160/VS2321160/SS094/KS
+333,2023-07-24,20.0,EUR,SEMAN MAREK,PLATBA/PS dar Marek Seman,263461/VS263461/SS/KS
+334,2023-07-24,50.0,EUR,Vaňko Milan,Platba/PS dar Milan Vanko,80823/VS80823/SS/KS308
+335,2023-07-24,-250.0,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850122),
+336,2023-07-24,-800.0,EUR,,EUR NÁKUP POS FACEBK U42B5SX8D2 / fb.me/ads / (POS 99999999),
+337,2023-07-24,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+338,2023-07-24,-800.0,EUR,,EUR NÁKUP POS FACEBK ECFBTSBUJ2 / fb.me/ads / (POS 99999999),
+339,2023-07-24,-2.0,EUR,,POS nákup REINOO / BRATISLAVA / (POS 37473529),
+340,2023-07-22,100.0,EUR,Matoš Miroslav,Platba/PS dar Miroslav Mesquita Matos,80009/VS80009/SS/KS308
+341,2023-07-22,15.0,EUR,Kollár Patrik,Platba,60019/VS60019/SS/KS
+342,2023-07-21,50.0,EUR,Dr. Andreas Jusko,DE23072154734 204042307202AIP-/Dar pre Lenka Jusko,
+343,2023-07-21,20.0,EUR,Tomas Rudy,Platba,263475/VS263475/SS/KS308
+344,2023-07-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+345,2023-07-21,-7.0,EUR,,POS nákup TIGER STORES SLOVAKI / ZILINA / (POS 11215896),
+346,2023-07-20,3000.0,EUR,"Dvořák Oskar, Mgr.",Platba/dar Oskar Dvorak,13/VS13/SS/KS
+347,2023-07-20,-900.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby v admin time",30723/VS30723/SS/KS
+348,2023-07-20,-194.4,EUR,"ISPA, spol. s r.o.","Platba/ISPA, bilboard 1ks na august, pollak",23950187/VS23950187/SS147/KS
+349,2023-07-20,50.0,EUR,Kvasnickova Lucia,PLATBA,116/VS116/SS/KS
+350,2023-07-20,-800.0,EUR,,EUR NÁKUP POS FACEBK *X59RWQ7N52 / fb.me/ads / (POS 99999999),
+351,2023-07-20,-25.5,EUR,,POS nákup BOSTON COFFE & FUN / CADCA / (POS G2NPB637),
+352,2023-07-20,-800.0,EUR,,EUR NÁKUP POS FACEBK TYNLUQP9D2 / fb.me/ads / (POS 99999999),
+353,2023-07-19,-253.2,EUR,"Pandan, s. r. o.","Platba/Pandan, letaky a plagaty",202307026/VS202307026/SS/KS
+354,2023-07-19,-1503.5,EUR,"LIONS & PARTNERS, a.s.","Platba/lions&partners, energie kancelaria",23366/VS23366/SS/KS
+355,2023-07-19,500.0,EUR,Jaroslav Sleboda,Platba/Dar David Dej,29/VS29/SS29/KS
+356,2023-07-19,500.0,EUR,TURLIK VLADIMIR,PLATBA/PS dar Vladimir Turlik,182953/VS182953/SS/KS0308
+357,2023-07-19,200.0,EUR,Matus Ovsak,Platba/Dar Matus Ovsak,
+358,2023-07-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+359,2023-07-19,-59.5,EUR,,POS nákup PEPCO 120051 PEZINOK 2 / PEZINOK / (POS 34029621),
+360,2023-07-19,-177.0,EUR,,POS nákup festivalatmosfera.sk / Hontianske Ne / (POS 09077201),
+361,2023-07-18,500.0,EUR,"Sakin Ivan, Bc.",Platba/Dar David Dej,29/VS029/SS/KS
+362,2023-07-18,-229.0,EUR,Dudok s. r. o.,"Platba/dudok, ubytovanie Zilina",20230471/VS20230471/SS/KS
+363,2023-07-18,-44881.2,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia bigboard,billboard, doublebigboard",1223205366/VS1223205366/SS/KS
+364,2023-07-18,100000.0,EUR,Progresívne Slov.,Platba,
+365,2023-07-18,170.0,EUR,"Bakšová Ľudmila, Mgr",Platba/Dar pre Jozef Baksa,805/VS0805/SS/KS
+366,2023-07-18,-10.0,EUR,,SPRAC.POPLATOK VI23071802857,
+367,2023-07-18,-472.38,EUR,giba cz px,PLATBA VI23071802857,
+368,2023-07-18,40.0,EUR,Pavel Melech,Platba/dar. Mgr. Jozef Baksa,85/VS85/SS/KS
+369,2023-07-18,25.0,EUR,Filip Vodicka,Platba/PS dar Filip Vodicka,263226/VS263226/SS/KS308
+370,2023-07-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+371,2023-07-18,-750.0,EUR,,EUR NÁKUP POS FACEBK 53XU9SPUJ2 / fb.me/ads / (POS 99999999),
+372,2023-07-18,-750.0,EUR,,EUR NÁKUP POS FACEBK *8WK53TPM52 / fb.me/ads / (POS 99999999),
+373,2023-07-18,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+374,2023-07-18,-79.22,EUR,,POS nákup CERPACIA STANICA VOM / RUZOMBEROK / (POS 11250696),
+375,2023-07-17,2000.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
+376,2023-07-17,-384.0,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.","Platba/Gryf, zaloha za prenajom a realizaciu reklamnych ploch, P. Pollak 147",23056/VS23056/SS147/KS
+377,2023-07-17,20.0,EUR,Stefan Dikan,Platba,65693/VS65693/SS/KS
+378,2023-07-17,-9435.6,EUR,"Pandan, s. r. o.","Platba/Pandan, tricka, beachflagy, rollupy",202307002/VS202307002/SS/KS
+379,2023-07-17,-270.0,EUR,NAGY FILIP,"Platba/Nafy, potret a licencia",20230017/VS20230017/SS/KS
+380,2023-07-17,700.0,EUR,PAMULA VIKTOR,"PLATBA/Dar, Viktor Pamula",113/VS113/SS/KS
+381,2023-07-17,-9720.0,EUR,"Zoznam, s.r.o.","Platba/zoznam, clanok - tvorba a publikacia",23000275/VS23000275/SS/KS308
+382,2023-07-17,50.0,EUR,Eva Podhajecká,PLATBA/PS dar Eva Podhajecka,116/VS116/SS/KS308
+383,2023-07-17,30.0,EUR,Barcik Peter,PLATBA/PS dar Peter Barcik,52629/VS52629/SS/KS0308
+384,2023-07-17,200.0,EUR,Dr. Andreas Jusko,DE23071754254 204042307142AIP-/(CdtrRefInf)(Tp)(CdOrPrtry)(Cd)SCOR(/Cd)(/CdOrPrtry)(/Tp)(Ref)094(/Ref)(/CdtrRefInf),
+385,2023-07-17,50.0,EUR,"Bálint Florián, Ing.",Platba,263109/VS263109/SS/KS
+386,2023-07-17,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+387,2023-07-17,-800.0,EUR,,EUR NÁKUP POS FACEBK EHGCVRX9D2 / fb.me/ads / (POS 99999999),
+388,2023-07-17,-750.0,EUR,,EUR NÁKUP POS FACEBK *Z2TURQ7N52 / fb.me/ads / (POS 99999999),
+389,2023-07-17,-48.89,EUR,,POS nákup NAY INTERNETDOM / BRATISLAVA / (POS 09070363),
+390,2023-07-17,-1.8,EUR,,POS nákup BPS PARK / BRATISLAVA / (POS 25740769),
+391,2023-07-17,-24.0,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+392,2023-07-14,200.0,EUR,Bohinská Naďa,Platba/Dar pre Nada Bohinska,116/VS116/SS/KS
+393,2023-07-14,100.0,EUR,BIELIKOVA LUBOSLAVA,PLATBA/Dar Jozef Baksa,85/VS085/SS/KS
+394,2023-07-14,500.0,EUR,Peter Pollak,Platba,147/VS147/SS/KS
+395,2023-07-14,250.0,EUR,MIHALCIN GABRIEL,PLATBA,100/VS100/SS/KS
+396,2023-07-14,300.0,EUR,"Illéš Erik, Mgr.",Platba/PS dar Erik Illes,103/VS103/SS/KS
+397,2023-07-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+398,2023-07-14,-60.38,EUR,,"POS nákup SPS-prepravne, Ivanka / IVANKA PRI DU / (POS 10067825)",
+399,2023-07-14,-750.0,EUR,,EUR NÁKUP POS FACEBK XPE6DTTTJ2 / fb.me/ads / (POS 99999999),
+400,2023-07-14,-3.6,EUR,,POS nákup BPS PARK / BRATISLAVA / (POS 25740769),
+401,2023-07-13,-162.31,EUR,ORANGE SLOVENSKO A.S,"Platba/orange 05,06 23",401972955/VS0401972955/SS1124381039/KS0308
+402,2023-07-13,300.0,EUR,Marek Stefanisko,Platba/Dar Marek Stefanisko,67/VS67/SS/KS
+403,2023-07-13,200.0,EUR,"Kendra Pavel, Ing.",Platba/PS dar Pavel Kendra,112731/VS112731/SS/KS308
+404,2023-07-13,150.0,EUR,"Holéczy Igor, Mgr.",Platba/PS dar Igor Holeczy,127/VS127/SS/KS308
+405,2023-07-13,172.0,EUR,Dej Dávid,Platba/David Dej dar,29/VS029/SS/KS
+406,2023-07-13,172.0,EUR,Karolina Blunarova,Platba,68/VS68/SS/KS
+407,2023-07-13,20.0,EUR,Havírová Zuzana Mgr.,Platba/Dar pre Ingrid Kosovu 012,89556/VS89556/SS012/KS
+408,2023-07-13,50.0,EUR,"Tomša Ľubomír, Ing.",Platba/PS dar Lubomir Tomsa,84198/VS84198/SS/KS308
+409,2023-07-13,-5000.0,EUR,,"Platba/Kiss, ekonomicke poradenstvo",623/VS623/SS/KS
+410,2023-07-13,300.0,EUR,ENCO,PLATBA/070 Romana Sladekova,262785/VS262785/SS/KS0308
+411,2023-07-13,100.0,EUR,Stanislav Papiernik,Platba/Dar pre Ingrid Kosovu,12/VS12/SS/KS
+412,2023-07-13,300.0,EUR,Peter Pollak,Platba,147/VS147/SS/KS
+413,2023-07-13,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+414,2023-07-12,50.0,EUR,Peter Snopko,Platba/dar pre Ingrid Kosovu,12/VS12/SS/KS308
+415,2023-07-12,100.0,EUR,Bučková Vanesa,Platba/Dar pre Ingrid Kosovu,12/VS012/SS/KS
+416,2023-07-12,500.0,EUR,Ingrid Kosova,Platba/PS dar pre Ingrid Kosova,12/VS12/SS109243/KS308
+417,2023-07-12,300.0,EUR,Jozef Medved,Platba/070. Romana Sladekova,262769/VS262769/SS/KS
+418,2023-07-12,500.0,EUR,BRANISLAV TICHY,PLATBA/DAR BRANISLAV TICHY,39/VS0000000039/SS/KS
+419,2023-07-12,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+420,2023-07-12,-4.5,EUR,,POS nákup BPS PARK / BRATISLAVA / (POS 25740769),
+421,2023-07-12,-800.0,EUR,,EUR NÁKUP POS FACEBK 85GE3R79D2 / fb.me/ads / (POS 99999999),
+422,2023-07-11,1000.0,EUR,LIPTAJ MICHAL,Platba PO23071150090948/Dar-Branislav Vanco-023,
+423,2023-07-11,1000.0,EUR,"Kocúr Miroslav, ThDr",Platba/PS dar Miroslav Kocur,49/VS049/SS6902227761/KS308
+424,2023-07-11,-1080.0,EUR,"EDENcars, s. r. o.","Platba/Edencars, prenajom dodavky na jul",302300702/VS302300702/SS/KS308
+425,2023-07-11,-3500.0,EUR,Jan Kral,"PLATBA VA23071103291/kral, marketingove a komunikacne sluzby",120230002
+426,2023-07-11,-1750.0,EUR,Jan Kral,"Platba OO23071100019081/Kral, marketingove a komunikacne sluzby",120230001
+427,2023-07-11,500.0,EUR,HELLEBRANDT TOMAS,PLATBA,25/VS025/SS/KS
+428,2023-07-11,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+429,2023-07-11,-343.27,EUR,,EUR NÁKUP POS FACEBK *5UT33QTM52 / fb.me/ads / (POS 99999999),
+430,2023-07-11,-6.2,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
+431,2023-07-11,-110.2,EUR,,POS nákup BENZINA CS 810 TRENCI / TRENCIN / (POS BENZ1810),
+432,2023-07-11,-45.4,EUR,,EUR NÁKUP POS FACEBK KS3YSRFUJ2 / fb.me/ads / (POS 99999999),
+433,2023-07-10,150.0,EUR,"Šubert Anton, Mgr.,",Platba/PS dar Anton Subert,2/VS002/SS/KS
+434,2023-07-10,500.0,EUR,"Pullman Ján, Ing.",Platba/PS dar Jan Pullman,73/VS073/SS/KS308
+435,2023-07-10,500.0,EUR,Michaela Hinnerova,Platba/Kandidat Michaela Hinnerova,110/VS110/SS/KS
+436,2023-07-10,-2300.0,EUR,Chrťan Samuel,"Platba/Chrtan, marketingove sluzby",202306/VS202306/SS/KS
+437,2023-07-10,-2500.0,EUR,Dávid Javorský,"Platba/Javorsky, foto a video",2023005/VS2023005/SS/KS308
+438,2023-07-10,-4150.0,EUR,Gubka & Fish Media s,"Platba/Gubka, foto a video",2023040/VS2023040/SS/KS
+439,2023-07-10,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby",20230012/VS20230012/SS/KS
+440,2023-07-10,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacia",20230014/VS20230014/SS/KS
+441,2023-07-10,-2300.0,EUR,"DUBECI, MSC. MARTIN","Platba/Dubeci, poradenske sluzby komunikacia",230016/VS230016/SS/KS
+442,2023-07-10,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby",2023001/VS2023001/SS/KS
+443,2023-07-10,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
+444,2023-07-10,300.0,EUR,Livia Augustin Simanska,Platba,118/VS118/SS/KS
+445,2023-07-10,10.0,EUR,Ivona Zahorecova,Platba/PS dar Ivona Zahorecova,197600/VS197600/SS/KS308
+446,2023-07-10,310.0,EUR,"Toličová Jana, Mgr.",Platba/Dar Jana Tolicova,98/VS98/SS/KS
+447,2023-07-10,-750.0,EUR,,EUR NÁKUP POS FACEBK WN2DKRXTJ2 / fb.me/ads / (POS 99999999),
+448,2023-07-10,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+449,2023-07-10,-4.7,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
+450,2023-07-10,-7.2,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
+451,2023-07-10,-59.8,EUR,,POS nákup Coffee Sheep - Matusova 2 / Trencin / (POS RSJKzPnw),
+452,2023-07-10,-8.6,EUR,,POS nákup TRENCIN 2 / BRATISLAVA / (POS 37473502),
+453,2023-07-10,-800.0,EUR,,EUR NÁKUP POS FACEBK XCY89RB9D2 / fb.me/ads / (POS 99999999),
+454,2023-07-10,-750.0,EUR,,EUR NÁKUP POS FACEBK *MTBQMP7M52 / fb.me/ads / (POS 99999999),
+455,2023-07-10,-3.0,EUR,,POS nákup PARKOVISKO / TRENCIN / (POS TV689402),
+456,2023-07-10,-59.8,EUR,,POS nákup Coffee Sheep - Matusova 2 / Trencin / (POS RSJKzPnw),
+457,2023-07-10,-3.0,EUR,,POS nákup Parkovisko / PIESTANY / (POS TV572805),
+458,2023-07-07,350.0,EUR,Jakub Jochman,Platba/Dar Jakub Jochman,91/VS91/SS/KS0308
+459,2023-07-07,380.0,EUR,KOLLAROVA ZUZANA,PLATBA/PS dar Zuzana Kollarova,101059/VS101059/SS/KS0968
+460,2023-07-07,300.0,EUR,Sona Kosiciarova,Platba/dar Sona Kosiciarova,42/VS42/SS/KS308
+461,2023-07-07,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+462,2023-07-07,-800.0,EUR,,EUR NÁKUP POS FACEBK 2KGFNRX8D2 / fb.me/ads / (POS 99999999),
+463,2023-07-06,-3300.0,EUR,Dančiak Martin,Platba/danciak marketingove sluzby jun,2023004/VS2023004/SS/KS
+464,2023-07-06,300.0,EUR,Papež Václav,Platba/Dar Vaclav Papez,93/VS093/SS/KS
+465,2023-07-06,-300.0,EUR,Mesto Trnava,Platba/poplatok za verejny priestor Trnava,5000290899/VS5000290899/SS/KS
+466,2023-07-06,-124783.6,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampan outdoor september 2023,720230043/VS720230043/SS/KS
+467,2023-07-06,150000.0,EUR,Progresívne Slov.,Platba,
+468,2023-07-06,250.0,EUR,Jan Turek,Platba/PS dar Jan Turek,51007/VS51007/SS/KS308
+469,2023-07-06,20.0,EUR,LADISLAV SVRCEK,PLATBA/PLATBA,262271/VS0000262271/SS/KS
+470,2023-07-06,-2500.0,EUR,MGR. ZUZANA MACUROVA,"Platba/Macurova, admin a organizacne prace komunitny tim",20230009/VS20230009/SS/KS
+471,2023-07-06,-2500.0,EUR,MGR. ZUZANA MACUROVA,"Platba/Macurova, admin a organizacne prace komunitny tim",20230008/VS20230008/SS/KS
+472,2023-07-06,-10080.0,EUR,More Design s. r. o.,"Platba/MoreDesign, graficke prace",202330/VS202330/SS/KS
+473,2023-07-06,-1200.0,EUR,Petrušková Michaela,"Platba/Petruskova, reklamne a marketingove sluzby jun",20230014/VS20230014/SS/KS308
+474,2023-07-06,50.0,EUR,"Suško Peter, Ing.",Platba/PS dar Peter Susko,260024/VS260024/SS/KS308
+475,2023-07-06,-50.0,EUR,,POS nákup OST BLOCK / Bratislava / (POS BP130564),
+476,2023-07-06,-4.8,EUR,,POS nákup OST BLOCK / Bratislava / (POS BP130085),
+477,2023-07-06,-750.0,EUR,,EUR NÁKUP POS FACEBK *F6F2HP3N52 / fb.me/ads / (POS 99999999),
+478,2023-07-06,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+479,2023-07-06,-6.4,EUR,,POS nákup NC38_BAKame / Bratislava / (POS SN104643),
+480,2023-07-06,-26.39,EUR,,"POS nákup KIK TEXTIL,BA,KAMENNE / BRATISLAVA / (POS 05443136)",
+481,2023-07-06,-141.02,EUR,,EUR NÁKUP POS FACEBK KKHQTQ3AD2 / fb.me/ads / (POS 99999999),
+482,2023-07-06,-800.0,EUR,,EUR NÁKUP POS FACEBK HESU5RB9D2 / fb.me/ads / (POS 99999999),
+483,2023-07-06,-39.0,EUR,,POS nákup POHODAFESTIVAL.SK / Bratislava / (POS 22106385),
+484,2023-07-04,-831.0,EUR,Portobello Art and Food Gallery,"Platba OO23070400023271/Portobello, Brussel prenajom priestorov a catering",
+485,2023-07-04,-1800.0,EUR,Krjak Tomas,"Platba/Krjak, administrativne sluzby admin tim",20623/VS20623/SS/KS
+486,2023-07-04,-750.0,EUR,Karolina Blunarova,"Platba/Blunarova, marketing a admin sluzby",10623/VS10623/SS/KS
+487,2023-07-04,-3116.07,EUR,Prostredníková Zuzan,"Platba/Prostrednikova, administrativne sluzby produkcny tim",2023002/VS2023002/SS/KS
+488,2023-07-04,-840.0,EUR,SLOVENSKA VYTVARNA U,"Platba/Vytvarna unia, prenajom Umelka na TB",2023029/VS2023029/SS/KS
+489,2023-07-04,-300.0,EUR,Patrik Dlužanin,"Platba/Dluzanin, fotograficke sluzby Brusel",2023006/VS2023006/SS/KS
+490,2023-07-04,-1980.0,EUR,AFINITA s.r.o.,"Platba/Afinita, odznaky 11K ks",23010185/VS23010185/SS/KS308
+491,2023-07-04,-330.0,EUR,LILACOMM S.R.O.,"Platba/LilaComm, komunikacny trening",2523/VS2523/SS/KS
+492,2023-07-04,100.0,EUR,Radovan Tisko,Platba/PS dar Radovan Tisko,
+493,2023-07-04,-300.0,EUR,VELICKA JANA,"Platba/velicka, doplatok k fakture",20230004/VS20230004/SS/KS
+494,2023-07-04,1.0,EUR,PETER CHOMA,PLATBA/DAR ING. PETER CHOMA,
+495,2023-07-04,100.0,EUR,KAKAS DAVID,PLATBA/PS dar David Kakas,262141/VS262141/SS/KS0308
+496,2023-07-04,200.0,EUR,KALINOVA EVA,PLATBA,
+497,2023-07-04,1000.0,EUR,KALMAROVA VIERA,PLATBA,26/VS026/SS/KS
+498,2023-07-04,50.0,EUR,KNIEBUGL DAN,PLATBA/super rozhovor v N,92338/VS92338/SS/KS
+499,2023-07-04,-750.0,EUR,,EUR NÁKUP POS FACEBK *C98YUPTM52 / fb.me/ads / (POS 99999999),
+500,2023-07-04,-750.0,EUR,,EUR NÁKUP POS FACEBK 9T5GERXTJ2 / fb.me/ads / (POS 99999999),
+501,2023-07-04,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+502,2023-07-04,-800.0,EUR,,EUR NÁKUP POS FACEBK QLM9MQT9D2 / fb.me/ads / (POS 99999999),
+503,2023-07-04,-478.2,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
+504,2023-07-04,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+505,2023-07-04,-250.01,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
+506,2023-07-04,-28.8,EUR,,POS nákup BRATISLAVA 14120030 / BRATISLAVA / (POS 90369602),
+507,2023-07-03,50.0,EUR,Ciháková Eliška,Platba,262142/VS262142/SS/KS
+508,2023-07-03,-1543.46,EUR,Turňová Diana,"Platba/Turnova, marketingove a administrativne sluzby",30623/VS30623/SS/KS
+509,2023-07-03,-463.23,EUR,JUDR. RUZENA BAYEROV,"Platba/Bayerova, legalizacia dokumentov",1622023/VS1622023/SS/KS
+510,2023-07-03,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/Vojtek, administrativa v komunitnom time",42023/VS042023/SS/KS
+511,2023-07-03,-2400.0,EUR,"th media, s.r.o.","Platba/th media, PR sluzby",20230038/VS20230038/SS/KS
+512,2023-07-03,-300.0,EUR,TrollWall AI,"Platba/TrollWall, sluzby trollwall facebook PS a MS",20230302/VS20230302/SS/KS
+513,2023-07-03,-6933.6,EUR,"Pandan, s. r. o.","Platba/Pandan, pera 2k ks, letaky 200k ky, nalepky a karticky",202306076/VS202306076/SS/KS
+514,2023-07-03,-3500.0,EUR,Ridzoň Jerguš,"Platba/Ridzon, manazment kampane administrativne a marketingove sluzby",2023015/VS2023015/SS/KS
+515,2023-07-03,-1950.0,EUR,Matus Miksik,"Platba/Miksik, marketingove sluzby",20230005/VS20230005/SS/KS
+516,2023-07-03,-26.9,EUR,UPC BROADBAND SLOVAK,Platba/UPC / PayBySquare,9368061/VS9368061/SS/KS308
+517,2023-07-03,100000.0,EUR,Progresívne Slov.,Platba,
+518,2023-07-03,50.0,EUR,Hana Drahovska,Platba,262003/VS262003/SS/KS
+519,2023-07-03,-750.0,EUR,,EUR NÁKUP POS FACEBK *KTKPHPXM52 / fb.me/ads / (POS 99999999),
+520,2023-07-03,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+521,2023-07-03,-800.0,EUR,,EUR NÁKUP POS FACEBK 9N7XKQT9D2 / fb.me/ads / (POS 99999999),
+522,2023-07-03,-10.76,EUR,,POS nákup JUTEX / BRATISLAVA / (POS 11546747),
+523,2023-07-03,-44.76,EUR,,POS nákup JUTEX / BRATISLAVA / (POS 11546747),
+524,2023-07-03,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+525,2023-07-03,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+526,2023-07-01,500.0,EUR,"Mališ Marián, Ing.",Platba/Dar Marian Malis,59/VS59/SS/KS
+527,2023-06-30,200.0,EUR,Ištok Pavol,Platba/dar Pavol Istok 137,137/VS137/SS/KS0558
+528,2023-06-30,-6.0,EUR,,Poplatky za transakcie,
+529,2023-06-30,-0.0,EUR,,Poplatok za balík,
+530,2023-06-30,-2500.0,EUR,VELICKA JANA,"Platba/Velicka, administrativne sluzby",20230004/VS20230004/SS/KS
+531,2023-06-30,100.0,EUR,Gabriela Bolton,PLATBA/PS dar Gabriela Bolton,170742/VS170742/SS/KS
+532,2023-06-30,2000.0,EUR,Beata Jurik,Platba/Dar Beata Jurik,14/VS14/SS/KS
+533,2023-06-30,-800.0,EUR,,EUR NÁKUP POS FACEBK KEAGYPK9D2 / fb.me/ads / (POS 99999999),
+534,2023-06-30,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+535,2023-06-30,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+536,2023-06-29,-1015.2,EUR,LASA s.r.o.,"Platba/LASA, podium a stupne na TK v Umelke 27.6.",2023031/VS2023031/SS/KS
+537,2023-06-29,-45.73,EUR,D3 - požičovňa inven,"Platba/SEBA, prenajom inventaru na tlacovku",23125/VS23125/SS/KS
+538,2023-06-29,-113.24,EUR,ECO Krabicky s.r.o.,"Platba/eco krabicky, bio pohare 1000 kusov",2202301783/VS2202301783/SS/KS
+539,2023-06-29,500.0,EUR,Krajči Pavol,Platba/Dar Tamara Stohlova,4/VS004/SS/KS308
+540,2023-06-29,-750.0,EUR,,EUR NÁKUP POS FACEBK GVNZPRPUJ2 / fb.me/ads / (POS 99999999),
+541,2023-06-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+542,2023-06-28,-2000.0,EUR,Natalia Heribanova,"Platba/Heriban, marketing a komunikacia sluzby",22023/VS22023/SS/KS
+543,2023-06-28,-192.0,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.","Platba/gryf, zaloha reklamna plocha Veslrova september",23043/VS23043/SS/KS
+544,2023-06-28,-192.0,EUR,"GRYF REKLAMNÉ ŠTÚDIO, S. R. O.","Platba/gryf, zaloha reklamna plocha august veslarova",23044/VS23044/SS/KS
+545,2023-06-28,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+546,2023-06-28,-800.0,EUR,,EUR NÁKUP POS FACEBK 99RKWPK9D2 / fb.me/ads / (POS 99999999),
+547,2023-06-28,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+548,2023-06-28,-645.0,EUR,,POS nákup POHODAFESTIVAL.SK / Bratislava / (POS 22106385),
+549,2023-06-28,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+550,2023-06-27,20.0,EUR,Richard Slusny,Platba/PS dar Richard Slusny,67894/VS67894/SS/KS0308
+551,2023-06-27,86.04,EUR,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),2202301466/VS2202301466/SS/KS
+552,2023-06-27,500.0,EUR,FARKAS ONDREJ,PLATBA/Ondrej a Petra Farkasovci dar,
+553,2023-06-27,-3120.0,EUR,ARTON s.r.o.,"Platba/Arton, tlac a instalacia megaboard, bigboard",230349/VS230349/SS/KS
+554,2023-06-27,-800.0,EUR,,EUR NÁKUP POS FACEBK SKBWRQ39D2 / fb.me/ads / (POS 99999999),
+555,2023-06-27,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+556,2023-06-27,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+557,2023-06-27,-800.0,EUR,,EUR NÁKUP POS FACEBK 6N5EEQT9D2 / fb.me/ads / (POS 99999999),
+558,2023-06-26,-17000.0,EUR,Ministerstvo vnútra Slovenskej republiky,Platba/Kaucia volby NRSR 2023,51224836/VS51224836/SS/KS
+559,2023-06-26,-25.0,EUR,Mesto Trenčín,"Platba/mesto trencin, spravny poplatok za reklamnu akciu",5010012613/VS5010012613/SS/KS558
+560,2023-06-26,-1591.0,EUR,MUTTON s.r.o.,"Platba/MUTTON, rozkladaci stan 4ks",202301489/VS202301489/SS/KS308
+561,2023-06-26,-400.0,EUR,Vladimír Virág ART H,"Platba/art house, priestor na diskusiu Levice",230002/VS230002/SS/KS308
+562,2023-06-26,25.0,EUR,Rastislav Ondro,PLATBA/PS dar Rastislav Ondro,67549/VS67549/SS/KS0308
+563,2023-06-26,100.0,EUR,SPISIAK JAN,PLATBA/PS dar Jan Spisiak,58599/VS58599/SS/KS0308
+564,2023-06-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335/VS81335/SS/KS0308
+565,2023-06-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+566,2023-06-26,-750.0,EUR,,EUR NÁKUP POS FACEBK 2G2HSSTTJ2 / fb.me/ads / (POS 99999999),
+567,2023-06-26,-800.0,EUR,,EUR NÁKUP POS FACEBK TA8PARX8D2 / fb.me/ads / (POS 99999999),
+568,2023-06-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+569,2023-06-26,-672.27,EUR,,POS nákup Alza sk s r o / Bratislava / (POS 42102739),
+570,2023-06-26,-750.0,EUR,,EUR NÁKUP POS FACEBK *FFWF4QBN52 / fb.me/ads / (POS 99999999),
+571,2023-06-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+572,2023-06-26,-800.0,EUR,,EUR NÁKUP POS FACEBK DHE8SPK9D2 / fb.me/ads / (POS 99999999),
+573,2023-06-23,500.0,EUR,Michal Palenik,Platba/dar michal palenik,
+574,2023-06-23,-1986.0,EUR,"Pandan, s. r. o.","Platba/pandan, tasky s potlacou",202306055/VS202306055/SS/KS
+575,2023-06-23,30.0,EUR,MARTINOVIC PETER,PLATBA/Peter Martinovic Koniarekova 13 Trnava,
+576,2023-06-23,50.0,EUR,M. Mihalak CJ H. Gerger,Platba PO23062248268531/PS dar Matus Mihalak,
+577,2023-06-23,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+578,2023-06-23,-800.0,EUR,,EUR NÁKUP POS FACEBK 5XZB8RX8D2 / fb.me/ads / (POS 99999999),
+579,2023-06-23,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+580,2023-06-22,-2300.0,EUR,Chrťan Samuel,"Platba/chrtan, marketingove sluzby",202305/VS202305/SS/KS
+581,2023-06-22,-1005.6,EUR,Delip s. r. o.,"Platba/Delip, textilna stena 4m",2023147/VS2023147/SS/KS
+582,2023-06-22,-192.0,EUR,"euroAWK, spol. s r. o.","Platba/euroawk, bilboard, zalohova Veslarova",2370049/VS2370049/SS/KS
+583,2023-06-22,-488.4,EUR,LASA s.r.o.,"Platba/Lasa, ozvucenie piknik",2023027/VS2023027/SS/KS
+584,2023-06-22,-1100.0,EUR,Matúšová Jana,"Platba/matusova, vizazistka na fotenie kandidatov",37/VS37/SS/KS
+585,2023-06-22,-7.0,EUR,,POS nákup WWW.VYSLEDKOVYSERVIS.S / TRENCIN / (POS 09074616),
+586,2023-06-22,-7.0,EUR,,POS nákup WWW.VYSLEDKOVYSERVIS.S / TRENCIN / (POS 09074616),
+587,2023-06-22,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
+588,2023-06-22,-36.08,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+589,2023-06-22,-750.0,EUR,,EUR NÁKUP POS FACEBK *QNHV9SPM52 / fb.me/ads / (POS 99999999),
+590,2023-06-22,-966.05,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
+591,2023-06-22,-800.0,EUR,,EUR NÁKUP POS FACEBK FVPWPPK9D2 / fb.me/ads / (POS 99999999),
+592,2023-06-22,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+593,2023-06-21,1000.0,EUR,Stefan Kiss,Platba/Dar Stefan Kiss,
+594,2023-06-21,100.0,EUR,TATIANA IVANICKA,PLATBA/PS DAR TATIANA IVANICKA,75201/VS0000075201/SS/KS0308
+595,2023-06-21,-600.0,EUR,Nikola Struhárová,"Platba/Struharova, vizazisticke sluzby",2023002/VS2023002/SS/KS
+596,2023-06-21,-5040.0,EUR,MatusBence s.r.o.,"Platba/MatusBence, fotenie a tvorba vizualov",2023011/VS2023011/SS/KS
+597,2023-06-21,-500.0,EUR,Portobello Art and Food Gallery,"Platba OO23062100007844/portobello, prenajom priestorov Brusel",05523
+598,2023-06-21,-23.4,EUR,"RHGRAFIKA, s.r.o.","Platba/RHGrafika, plagat leskla krieda",202306228/VS202306228/SS/KS
+599,2023-06-21,1500.0,EUR,"Miháliková Katarína,",Platba,
+600,2023-06-21,-750.0,EUR,,EUR NÁKUP POS FACEBK P3ECRQTUJ2 / fb.me/ads / (POS 99999999),
+601,2023-06-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+602,2023-06-21,-90.2,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+603,2023-06-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+604,2023-06-21,-1596.07,EUR,,POS nákup zahr. MAMASHELTERPRAGUE / PRAHA 7 HOLES / (POS 489666),
+605,2023-06-20,580.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
+606,2023-06-20,-1482.56,EUR,"LIONS & PARTNERS, a.s.","Platba/lions&partners, energie kancelaria",23305/VS23305/SS/KS
+607,2023-06-20,-40.0,EUR,Marko David,"Platba/Marko, tlmocenie do SPJ tlacovka",602023/VS602023/SS/KS
+608,2023-06-20,-300.0,EUR,4SPORTS media s. r. o.,"Platba/4sports, prenajom stanov na piknik",123036/VS123036/SS/KS
+609,2023-06-20,10.0,EUR,Miroslav Zovčák,Platba/PS dar Miroslav Zovcak,64723/VS64723/SS/KS308
+610,2023-06-20,-800.0,EUR,,EUR NÁKUP POS FACEBK TVPBYPP9D2 / fb.me/ads / (POS 99999999),
+611,2023-06-20,-800.0,EUR,,EUR NÁKUP POS FACEBK 7PD97QT9D2 / fb.me/ads / (POS 99999999),
+612,2023-06-20,-500.0,EUR,,EUR NÁKUP POS FACEBK JNL5LSTTJ2 / fb.me/ads / (POS 99999999),
+613,2023-06-20,-11.98,EUR,,"POS nákup KIK TEXTIL, BA VIVO / BRATISLAVA / (POS 05443831)",
+614,2023-06-20,-750.0,EUR,,EUR NÁKUP POS FACEBK *F7KXYP7N52 / fb.me/ads / (POS 99999999),
+615,2023-06-19,1000.0,EUR,"Prostredník Ondrej,",Platba/Ondrej Prostrednik dar,
+616,2023-06-19,10.0,EUR,"Kubričan Juraj, Bc.",Platba/PS dar Juraj Kubrican,260848/VS260848/SS/KS308
+617,2023-06-19,50.0,EUR,Róbert Bobáľ,PLATBA/PS dar Robert Bobal,68562/VS68562/SS/KS
+618,2023-06-19,-86.04,EUR,ECO Krabicky s.r.o.,"Platba/eko krabicky, pohare a taniere na piknik",2202301466/VS2202301466/SS/KS
+619,2023-06-19,-222.04,EUR,EKO PODNIK,"Platba/EKO podnik, prenajom priestoru 17.6. piknik",12023325/VS12023325/SS/KS
+620,2023-06-19,-312.0,EUR,X MOLD s. r. o.,"Platba/xmold, malovanie na tvar piknik 17.6.",2023030/VS2023030/SS/KS
+621,2023-06-19,-245.0,EUR,CleaningSK s. r. o.,"Platba/CleaningSK, upratovacie sluzby",20230012/VS20230012/SS/KS
+622,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+623,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+624,2023-06-19,-23.5,EUR,,POS nákup TIGER STORES SLOVAKI / BRATISLAVA / (POS 11104118),
+625,2023-06-19,-50.14,EUR,,"POS nákup LIDL 265, BA NIVY / BRATISLAVA / (POS 06541397)",
+626,2023-06-19,-7.5,EUR,,POS nákup NC87_BANivy / Bratislava / (POS SN104648),
+627,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+628,2023-06-19,-350.0,EUR,,EUR NÁKUP POS FACEBK W6M4MQTUJ2 / fb.me/ads / (POS 99999999),
+629,2023-06-19,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+630,2023-06-19,-2.55,EUR,,POS nákup zahr. MAMA SHELTER PRAGUE / PRAHA / (POS 491788),
+631,2023-06-19,-86.36,EUR,,POS nákup zahr. MAMA SHELTER PRAGUE / PRAHA / (POS 491789),
+632,2023-06-16,19.0,EUR,Luštiak Matej,Platba/PS dar Matej Lustiak,81854/VS81854/SS/KS308
+633,2023-06-16,1000.0,EUR,KALMAROVA VIERA,PLATBA/Viera Kalmarova,
+634,2023-06-16,-800.0,EUR,,EUR NÁKUP POS FACEBK MKMCAQ79D2 / fb.me/ads / (POS 99999999),
+635,2023-06-16,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+636,2023-06-16,-100.21,EUR,,POS nákup OMV 2399 / Pezinok / (POS OSK1168B),
+637,2023-06-16,-225.0,EUR,,EUR NÁKUP POS FACEBK JAUWPRBUJ2 / fb.me/ads / (POS 99999999),
+638,2023-06-16,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+639,2023-06-15,-26.94,EUR,,POS nákup ANWELL / Bratislava / (POS TW550685),
+640,2023-06-15,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+641,2023-06-14,-3850.0,EUR,Gubka & Fish Media s,"Platba/Gubka- foto, video a zaznam event",2023030/VS2023030/SS/KS
+642,2023-06-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+643,2023-06-14,-150.0,EUR,,EUR NÁKUP POS FACEBK V8PQ6RKUJ2 / fb.me/ads / (POS 99999999),
+644,2023-06-14,-45.0,EUR,,POS nákup BRATISLAVA 14120030 / BRATISLAVA / (POS 90369602),
+645,2023-06-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+646,2023-06-14,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+647,2023-06-14,-100.0,EUR,,EUR NÁKUP POS FACEBK XS9YRQXTJ2 / fb.me/ads / (POS 99999999),
+648,2023-06-13,-150.0,EUR,Záboly Eliot,"Platba/Zaboly, fotenie a postprodukcia",1012023/VS1012023/SS/KS
+649,2023-06-13,100.0,EUR,Tobiášová Kuzmová Má,Platba/PS dar Maria Tobiasova Kuzmova,239739/VS239739/SS/KS308
+650,2023-06-13,-2000.0,EUR,,VÝBER V HOTOVOSTI/výber do pokladne,
+651,2023-06-13,-400.0,EUR,Búbelová Barbora,"Platba/Bubelova, zostrih videa",
+652,2023-06-13,-40.0,EUR,Marko David,"Platba/Marko, tlmocenie do SPJ",592023/VS592023/SS/KS
+653,2023-06-13,-3940.0,EUR,NAGY FILIP,"Platba/Nagy, portrety kandidatov",20230009/VS20230009/SS/KS
+654,2023-06-13,-540.0,EUR,ATRIOS S.R.O.,"Platba/atrios, prenajom konferencnej saly",23268/VS23268/SS/KS
+655,2023-06-13,-1000.0,EUR,Mgr. Zora Jaurová,"Platba/Jaurova, priprava programu",72023/VS72023/SS/KS
+656,2023-06-13,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+657,2023-06-13,-800.0,EUR,,EUR NÁKUP POS FACEBK S7TGVQX9D2 / fb.me/ads / (POS 99999999),
+658,2023-06-13,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
+659,2023-06-13,-70.0,EUR,,EUR NÁKUP POS FACEBK Q4XVXQFUJ2 / fb.me/ads / (POS 99999999),
+660,2023-06-13,-750.0,EUR,,EUR NÁKUP POS FACEBK *9SULWNXM52 / fb.me/ads / (POS 99999999),
+661,2023-06-13,-40.0,EUR,,EUR NÁKUP POS FACEBK 83ULXQFUJ2 / fb.me/ads / (POS 99999999),
+662,2023-06-13,-40.0,EUR,,EUR NÁKUP POS FACEBK CXQHGQTUJ2 / fb.me/ads / (POS 99999999),
+663,2023-06-13,-30.0,EUR,,EUR NÁKUP POS FACEBK ZSEEWQ7UJ2 / fb.me/ads / (POS 99999999),
+664,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+665,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+666,2023-06-13,-20.0,EUR,,EUR NÁKUP POS FACEBK FYKQFQTUJ2 / fb.me/ads / (POS 99999999),
+667,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+668,2023-06-13,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+669,2023-06-13,-12.0,EUR,,EUR NÁKUP POS FACEBK T9XAWQFUJ2 / fb.me/ads / (POS 99999999),
+670,2023-06-12,-120.0,EUR,ARICON GROUP,"Platba/aricon, najom za priestor diskusia komarno",231000044/VS231000044/SS/KS
+671,2023-06-12,-150.0,EUR,TATVA S.R.O.,Platba/marketingove sluzby,230004/VS230004/SS/KS
 672,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-673,2023-06-12,-4.0,EUR,,EUR NÁKUP POS FACEBK N8VBVQFUJ2 / fb.me/ads / (POS 99999999),
-674,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK 3ZD9VQFUJ2 / fb.me/ads / (POS 99999999),
-675,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK XQPEEQTUJ2 / fb.me/ads / (POS 99999999),
-676,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK X36PNQXTJ2 / fb.me/ads / (POS 99999999),
-677,2023-06-12,-115.84,EUR,,EUR NÁKUP POS FACEBK *A8Y6WRPM52 / fb.me/ads / (POS 99999999),
-678,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK 27S2VQFUJ2 / fb.me/ads / (POS 99999999),
-679,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-680,2023-06-12,-750.0,EUR,,EUR NÁKUP POS FACEBK *TEXRVRPM52 / fb.me/ads / (POS 99999999),
-681,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-682,2023-06-12,-10.9,EUR,,POS nákup ELEKTRO DATART / BRATISLAVA / (POS 11274169),
-683,2023-06-12,-172.16,EUR,,EUR NÁKUP POS BKG*BOOKING.COM HOTEL / (888)850-3958 / (POS 37850159),
-684,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-685,2023-06-09,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby maj,2023003/VS2023003/SS/KS
-686,2023-06-09,-40360.0,EUR,"HITCHHIKER FILMS,S.R",Platba/Kampanove video,2023075/VS2023075/SS/KS
-687,2023-06-09,100000.0,EUR,Progresívne Slov.,Platba,
-688,2023-06-09,-20.0,EUR,,POS nákup CAFE FREI KOMARNO / KOMARNO / (POS 11261561),
-689,2023-06-09,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-690,2023-06-09,-55.2,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
-691,2023-06-09,-15.08,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
-692,2023-06-09,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-693,2023-06-08,-5000.0,EUR,,"Platba/Kiss, ekonomicke poradenstvo",523/VS523/SS/KS
-694,2023-06-08,-2900.0,EUR,Prostredníková Zuzan,"Platba/prostrednikova, administrativne sluzby - produkcia",2023001/VS2023001/SS/KS
-695,2023-06-08,-1202.4,EUR,"Pandan, s. r. o.","Platba/pandan: bloky, snurky, letaky a karticky",202305049/VS202305049/SS/KS
-696,2023-06-08,50.0,EUR,"Vlasková Oľga, Ing.",Platba/PS dar Olga Vlaskova,146315/VS146315/SS/KS
-697,2023-06-08,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-698,2023-06-08,-466.76,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
-699,2023-06-08,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-700,2023-06-08,-60.74,EUR,,"POS nákup LIDL BA,DUNAJSKA / BRATISLAVA / (POS 06540679)",
-701,2023-06-07,-265.0,EUR,Kristy Wolf sro,Platba/maskerske prace videospot,2023014/VS2023014/SS/KS
-702,2023-06-07,-11.48,EUR,SUNNYSOFT S.R.O.,"Platba/sunnysoft, drziak na mobil na tocenie",4260730187/VS4260730187/SS/KS
-703,2023-06-07,-60.0,EUR,HROMEC ROBERT MGR.,Platba/komparz videospot,112023/VS112023/SS/KS
-704,2023-06-07,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
-705,2023-06-07,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-706,2023-06-07,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-707,2023-06-07,-43.8,EUR,,POS nákup Buena Cafe / Dunajska Stre / (POS TW085212),
-708,2023-06-07,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-709,2023-06-06,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov jun,23284/VS23284/SS/KS0308
-710,2023-06-06,-500.0,EUR,VADOVICOVA MARIANN,"Platba/Vadovicova, kameramanske prace videospot social",20230007/VS20230007/SS/KS308
-711,2023-06-06,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/vojtek, administrativa - komunita, maj",32023/VS032023/SS/KS
-712,2023-06-06,-500.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby - komunikacie",230014/VS230014/SS/KS
-713,2023-06-06,-440.0,EUR,LILACOMM S.R.O.,"Platba/lilacomm, komunikacny trening",2023/VS2023/SS/KS
-714,2023-06-06,-500.0,EUR,PETER BARNAS,"Platba/barnas, marketingove online sluzby maj",20230009/VS20230009/SS/KS
-715,2023-06-06,-960.0,EUR,CONTENT FACTORY s. r,"Platba/content factory, prenajom techniky na videospot",2306004/VS2306004/SS/KS
-716,2023-06-06,-60.0,EUR,KOLEKTIVFX S.R.O.,Platba/komparz videospot,2023013/VS2023013/SS/KS
-717,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-718,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-719,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-720,2023-06-06,-279.21,EUR,,EUR NÁKUP POS FACEBK RU234Q39D2 / fb.me/ads / (POS 99999999),
-721,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-722,2023-06-06,-750.0,EUR,,EUR NÁKUP POS FACEBK 5TWFPNBM52 / fb.me/ads / (POS 99999999),
-723,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-724,2023-06-06,-19.42,EUR,,"POS nákup LIDL BA,DUNAJSKA / BRATISLAVA / (POS 06540679)",
-725,2023-06-06,-30.4,EUR,,POS nákup 1047 KRAJ Ovrucska / Bratislava / (POS TN123000),
-726,2023-06-05,3000.0,EUR,"Kelíšek Peter, Mgr.a",Platba/darovacia zmluva Peter Kelisek,
-727,2023-06-05,-840.0,EUR,MUSIC FORUM V.O.S.,Platba/reziserske prace videospot social,20230108/VS20230108/SS/KS0008
-728,2023-06-05,-360.0,EUR,ROADTRIP STUDIO,"Platba/roadtrip studio, color grading reklamneho spotu social",60223/VS060223/SS/KS0308
-729,2023-06-05,-480.0,EUR,Samuel Škubla,"Platba/skubla, zvuk a postprodukcia video spot social",202313/VS202313/SS/KS
-730,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-731,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-732,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-733,2023-06-05,-800.0,EUR,,EUR NÁKUP POS FACEBK 8294UP3AD2 / fb.me/ads / (POS 99999999),
-734,2023-06-05,-668.61,EUR,,POS nákup IKEA BRATISLAVA OD / Bratislava / (POS 00489130),
-735,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-736,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-737,2023-06-05,-8.59,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2306011653 / Viimsi / (POS 99999999),
-738,2023-06-05,-157.47,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2306011646 / Viimsi / (POS 99999999),
-739,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-740,2023-06-05,-313.31,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
-741,2023-06-05,-1500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-742,2023-06-05,-239.48,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
-743,2023-06-05,-61.13,EUR,,"POS nákup LIDL BA,DUNAJSKA / BRATISLAVA / (POS 06540680)",
-744,2023-06-02,-120.0,EUR,"Petit Press, a.s.","Platba/PetitPress, zaloha za inzerciu v Pardon Nitra",2333101102/VS2333101102/SS/KS
-745,2023-06-02,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie,20230012/VS20230012/SS/KS
-746,2023-06-02,-2.0,EUR,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,
-747,2023-06-02,-1200.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby maj,20230011/VS20230011/SS/KS308
-748,2023-06-02,-8757.6,EUR,More Design s. r. o.,Platba/graficke sluzby a web,202327/VS202327/SS/KS
-749,2023-06-02,-1250.0,EUR,Dávid Javorský,"Platba/javorsky video, zvuk a fotograficke sluzby maj",2023004/VS2023004/SS/KS308
-750,2023-06-02,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-751,2023-06-01,-53180.64,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampan outdoor august 2023,720230031/VS720230031/SS/KS
-752,2023-06-01,100000.0,EUR,Progresívne Slov.,Platba,
-753,2023-06-01,-1200.0,EUR,"th media, s.r.o.",Platba/PR sluzby maj,20230034/VS20230034/SS/KS
-754,2023-06-01,-325.0,EUR,TrollWall AI,Platba/praca socialne siete,20230301/VS20230301/SS/KS
-755,2023-06-01,-3500.0,EUR,Ridzoň Jerguš,"Platba/administrativne a marketingove sluzby, vedenie kampane",2023013/VS2023013/SS/KS
-756,2023-06-01,-100.0,EUR,Krjak Tomas,Platba/doplatenie chybajucej sumy k fakture za maj,123/VS123/SS/KS
-757,2023-06-01,-1510.99,EUR,Turňová Diana,Platba/marketing a administrativne sluzby maj,20423/VS20423/SS/KS
-758,2023-06-01,-900.0,EUR,Kučerová Veronika,"Platba/vizaz na fotenie a video, 3 dni",2023050004/VS2023050004/SS/KS
-759,2023-06-01,-2500.0,EUR,VELICKA JANA,Platba/administrativne sluzby maj,20230003/VS20230003/SS/KS
-760,2023-06-01,-1000.0,EUR,Natalia Heribanova,Platba/komunikacne sluzby maj,22023/VS22023/SS/KS
-761,2023-06-01,-1950.0,EUR,Matúš Mikšík,Platba/marketingove sluzby maj,20230004/VS20230004/SS/KS
-762,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-763,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-764,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
-765,2023-06-01,-6.98,EUR,,"POS nákup 101 DROGERIE, BA, URBA / BRATISLAVA / (POS 05441785)",
-766,2023-06-01,-46.72,EUR,,POS nákup 1047 KRAJ Ovrucska / Bratislava / (POS TN123000),
-767,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-768,2023-05-31,-0.0,EUR,,Poplatok za balík,
-769,2023-05-31,-1700.0,EUR,Krjak Tomas,Platba/sluzby v oblasti marketingu a administrativy maj,123/VS123/SS/KS
-770,2023-05-31,100.0,EUR,SAMUEL ADAMISIN,PLATBA/DAR,77260/VS0000077260/SS/KS
-771,2023-05-31,2.0,EUR,"Wood Service, s.r.o.",Platba,
-772,2023-05-30,-2124.0,EUR,"EDENcars, s. r. o.",Platba/prenajom auta jun plus depozit,323006/VS323006/SS/KS0308
-773,2023-05-30,-294.0,EUR,"Pandan, s. r. o.",Platba/3ks repas mechaniky,202305071/VS202305071/SS/KS
-774,2023-05-30,-2000.0,EUR,KLUJEV NAZARIJ,Platba/strih videospot,
-775,2023-05-30,-2000.0,EUR,Kľujev Maxim,Platba/kameraman videospot,
-776,2023-05-30,-5760.0,EUR,HEDONIST S.R.O.,Platba/organizacno technicke zabezpecenie nakracania video spotu,723/VS723/SS/KS
-777,2023-05-30,-1800.0,EUR,,Platba/pocitacove spracovanie video spot,202301/VS202301/SS/KS
-778,2023-05-30,-600.0,EUR,Matej Volf,Platba/snimanie zvuku a postprodukcia video spot,20230010/VS20230010/SS/KS
-779,2023-05-30,-400.0,EUR,Diana Švihlová,Platba/produkcne prace video spot,20230006/VS20230006/SS/KS
-780,2023-05-30,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov na podujatie 29.4.,230100093/VS230100093/SS/KS
-781,2023-05-30,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-782,2023-05-30,-750.0,EUR,,EUR NÁKUP POS FACEBK *62EYAPBN52 / fb.me/ads / (POS 99999999),
-783,2023-05-30,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-784,2023-05-30,-800.0,EUR,,EUR NÁKUP POS FACEBK 2UM6RNF9D2 / fb.me/ads / (POS 99999999),
-785,2023-05-29,-2046.3,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kanc.priestor- energie 04 23,23249/VS23249/SS/KS0308
-786,2023-05-29,-191.9,EUR,"J+Z Bystrinaresort, s. r. o.",Platba/hotel bystrina progresivne slovensko 18-19.8.,
-787,2023-05-29,-19.9,EUR,"HAMA SLOVAKIA, SPOL.",Platba/stativ,72004/VS72004/SS/KS8
-788,2023-05-29,-1000.0,EUR,"NOLIS, s.r.o.",Platba/catering sluzby 24.05.2023,1123060/VS1123060/SS/KS308
-789,2023-05-29,30.0,EUR,"Zaiček Martin, Mgr.a",Platba/PS dar Martin Zaicek,165900/VS165900/SS/KS
-790,2023-05-29,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
-791,2023-05-29,-133.0,EUR,,"POS nákup Decathlon,BA Pharos / BRATISLAVA / (POS 05443869)",
-792,2023-05-29,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-793,2023-05-29,-1.79,EUR,,"POS nákup 1202 YEME, BA, NAM. SN / BRATISLAVA / (POS 06040707)",
-794,2023-05-29,-40.88,EUR,,"POS nákup 1202 YEME, BA, NAM. SN / BRATISLAVA / (POS 06040710)",
-795,2023-05-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335/VS81335/SS/KS0308
-796,2023-05-25,-50.0,EUR,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",
-797,2023-05-25,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
-798,2023-05-24,-30.0,EUR,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,
-799,2023-05-24,-1200.0,EUR,HANA BOYACIOVA P. -,Platba/praca stylistu simecka,1123/VS1123/SS/KS
-800,2023-05-24,-864.0,EUR,K.KO ENTERPRISES S.,Platba/reklamne a eventove sluzby,120230052/VS120230052/SS/KS0308
-801,2023-05-24,-2500.0,EUR,MGR. ZUZANA MACUROVA,Platba/administrativne a organizacne prace,20230007/VS20230007/SS/KS
-802,2023-05-24,-172.8,EUR,"ARES SECURITY, s.r.o",Platba/bezpecnostno - strazne sluzby 18.5.,20230085/VS20230085/SS/KS308
-803,2023-05-24,-1458.0,EUR,DANIEL FERENCIK,Platba/prenajom fotostudia a techniky,2305010/VS2305010/SS/KS
-804,2023-05-24,-300.0,EUR,Paulina Kralikova,Platba/makeup a vlasy na fotenie 18.5.,2023008/VS2023008/SS/KS308
-805,2023-05-24,-2132.23,EUR,"TRNKA GASTRONOMY, SPOL. S R. O.",Platba/catering na event 18.5.,42230076/VS42230076/SS/KS
-806,2023-05-24,-200.4,EUR,Delip s. r. o.,Platba/vymena grafiky do pultiku,2023112/VS2023112/SS/KS
-807,2023-05-24,100000.0,EUR,Progresívne Slov.,Platba,
-808,2023-05-24,-2619.0,EUR,BRICHTA & PARTNERS S.R.O.,Platba/pravne sluzby a poradenstvo k programu,20230290/VS20230290/SS/KS
-809,2023-05-23,-3404.4,EUR,LASA s.r.o.,"Platba/ozvucenie, osvetlenie a led stena na konferencii 18.05.",2023016/VS2023016/SS/KS
-810,2023-05-23,-67.68,EUR,TECHNOPOL INTERNATIO,Platba/prenajom radiostanic 12ks na 18.5.,1230498/VS1230498/SS/KS
-811,2023-05-23,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov 18.5.,230100109/VS230100109/SS/KS
-812,2023-05-23,-800.0,EUR,,EUR NÁKUP POS FACEBK 2WHPNP39D2 / fb.me/ads / (POS 99999999),
-813,2023-05-23,-750.0,EUR,,EUR NÁKUP POS FACEBK *B5HTRMKM52 / fb.me/ads / (POS 99999999),
-814,2023-05-20,50.0,EUR,Tomas Sisak,Platba/PS dar Tomas Sisak,71028/VS71028/SS/KS0308
-815,2023-05-19,-700.0,EUR,"Foodman, s. r. o.",Platba/catering na podujatie v binariu 29.4.,2301006/VS2301006/SS/KS0308
-816,2023-05-19,-400.0,EUR,APERTUM s.r.o. LEITMAN RADOVAN,Platba/prenajom atelierovych priestorov,20230004/VS20230004/SS/KS
-817,2023-05-19,-600.0,EUR,BEICA s. r. o.,Platba/styling na fotenie,2305001/VS2305001/SS/KS0308
-818,2023-05-19,-71640.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390075/VS122390075/SS/KS
-819,2023-05-19,50000.0,EUR,Progresívne Slov.,Platba,
-820,2023-05-18,-559.2,EUR,LASA s.r.o.,Platba/ozvucenie podujatia 29.4.,2023012/VS2023012/SS/KS
-821,2023-05-18,-800.0,EUR,,EUR NÁKUP POS FACEBK BGGPHP39D2 / fb.me/ads / (POS 99999999),
-822,2023-05-18,-102.88,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2305160902 / Viimsi / (POS 99999999),
-823,2023-05-17,30.0,EUR,Patrik Petráš,PLATBA,259288/VS259288/SS/KS
-824,2023-05-17,-750.0,EUR,,EUR NÁKUP POS FACEBK *QYA6DNTM52 / fb.me/ads / (POS 99999999),
-825,2023-05-16,-360.0,EUR,BAJKO S.R.O.,Platba/voiceover promo spot,2023125/VS2023125/SS/KS308
-826,2023-05-15,-6000.0,EUR,,Platba/ekonomicke a organizacne poradenstvo,423/VS423/SS/KS0308
-827,2023-05-15,-56.45,EUR,CleaningSK s. r. o.,Platba/Upratovacie sluzby,20230009/VS20230009/SS/KS
-828,2023-05-15,-60.58,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2305110942 / Viimsi / (POS 99999999),
-829,2023-05-15,-750.0,EUR,,EUR NÁKUP POS FACEBK KNEDWPX8D2 / fb.me/ads / (POS 99999999),
-830,2023-05-12,-356.53,EUR,,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 00489208),
-831,2023-05-12,-86.1,EUR,,POS nákup GOPAY *KAVA.EU / kava.eu / (POS EE800007),
-832,2023-05-12,-468.49,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
-833,2023-05-12,-72.53,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2305101027 / Viimsi / (POS 99999999),
-834,2023-05-11,-500.0,EUR,,EUR NÁKUP POS FACEBK 5Y9QAP39D2 / fb.me/ads / (POS 99999999),
-835,2023-05-10,-750.0,EUR,Turňová Diana,Platba/administrativne sluzby april,10423/VS10423/SS/KS
-836,2023-05-10,-2300.0,EUR,Chrťan Samuel,Platba/marketingove sluzby,202304/VS202304/SS/KS
-837,2023-05-10,-6820.0,EUR,Gubka & Fish Media s,Platba/video a foto produkcia,2023020/VS2023020/SS/KS
-838,2023-05-10,50000.0,EUR,Progresívne Slov.,Platba,
-839,2023-05-10,-127.61,EUR,,EUR NÁKUP POS FACEBK *SQRNVMXM52 / fb.me/ads / (POS 99999999),
-840,2023-05-10,-350.0,EUR,,EUR NÁKUP POS FACEBK 9A6L5P79D2 / fb.me/ads / (POS 99999999),
-841,2023-05-09,-20238.0,EUR,More Design s. r. o.,Platba/graficke sluzby,202322/VS202322/SS/KS
-842,2023-05-09,-225.0,EUR,,EUR NÁKUP POS FACEBK 6BY59P39D2 / fb.me/ads / (POS 99999999),
-843,2023-05-09,-750.0,EUR,,EUR NÁKUP POS FACEBK *6593TM7M52 / fb.me/ads / (POS 99999999),
-844,2023-05-09,-150.0,EUR,,EUR NÁKUP POS FACEBK RHMDSPX9D2 / fb.me/ads / (POS 99999999),
-845,2023-05-09,-100.0,EUR,,EUR NÁKUP POS FACEBK TWM5CNK9D2 / fb.me/ads / (POS 99999999),
-846,2023-05-09,-70.0,EUR,,EUR NÁKUP POS FACEBK CJJA7P39D2 / fb.me/ads / (POS 99999999),
-847,2023-05-09,-40.0,EUR,,EUR NÁKUP POS FACEBK 7V224NF9D2 / fb.me/ads / (POS 99999999),
-848,2023-05-09,-30.0,EUR,,EUR NÁKUP POS FACEBK AC7PAPB9D2 / fb.me/ads / (POS 99999999),
-849,2023-05-09,-20.0,EUR,,EUR NÁKUP POS FACEBK SCLSYN3AD2 / fb.me/ads / (POS 99999999),
-850,2023-05-09,-12.0,EUR,,EUR NÁKUP POS FACEBK G9DQ2P79D2 / fb.me/ads / (POS 99999999),
-851,2023-05-09,-12.0,EUR,,EUR NÁKUP POS FACEBK EMBT3NF9D2 / fb.me/ads / (POS 99999999),
-852,2023-05-09,-9.0,EUR,,EUR NÁKUP POS FACEBK JGV8UNT9D2 / fb.me/ads / (POS 99999999),
-853,2023-05-09,-6.0,EUR,,EUR NÁKUP POS FACEBK RKGYQPX9D2 / fb.me/ads / (POS 99999999),
-854,2023-05-09,-4.0,EUR,,EUR NÁKUP POS FACEBK DWAS3NF9D2 / fb.me/ads / (POS 99999999),
-855,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK A3W2BNK9D2 / fb.me/ads / (POS 99999999),
-856,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK B23JAPB9D2 / fb.me/ads / (POS 99999999),
-857,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK 8NNR3NF9D2 / fb.me/ads / (POS 99999999),
-858,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK 33RPQPX8D2 / fb.me/ads / (POS 99999999),
-859,2023-05-05,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/poradenske sluzby april,230012/VS230012/SS/KS
-860,2023-05-05,-750.0,EUR,,EUR NÁKUP POS FACEBK *3YDQKM3N52 / fb.me/ads / (POS 99999999),
-861,2023-05-04,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby april,2023002/VS2023002/SS/KS
-862,2023-05-04,-403.52,EUR,"Beňáková Nora, Ing.",Platba/CP Benakova Oxford april,
-863,2023-05-04,-47.4,EUR,MIKACOVA TEREZA,Platba/CP Tallinn Mikacova april,
-864,2023-05-04,-3500.0,EUR,Ridzoň Jerguš,Platba/administrativne a marketingove sluzby april,2023011/VS2023011/SS/KS
-865,2023-05-04,-700.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby april,20230007/VS20230007/SS/KS308
-866,2023-05-04,-1000.0,EUR,Mgr. Zora Jaurová,Platba/priprava volebneho programu april,62023/VS62023/SS/KS308
-867,2023-05-03,-77.29,EUR,UPC BROADBAND SLOVAK,Platba/UPC / PayBySquare,9368061/VS9368061/SS/KS308
-868,2023-05-03,-74520.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390063/VS122390063/SS/KS
-869,2023-05-03,100000.0,EUR,Progresívne Slov.,Platba,
-870,2023-05-03,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie april,20230010/VS20230010/SS/KS
-871,2023-05-03,-1000.0,EUR,Natalia Heribanova,Platba/marketingove a komunikacne sluzby april,12023/VS12023/SS/KS
-872,2023-05-03,-65.32,EUR,,EUR NÁKUP POS GOOGLE*GSUITE DASATO.S / CC GOOGLE.COM / (POS WPGTID01),
-873,2023-05-02,-500.0,EUR,PETER BARNAS,Platba/marketingove sluzby april,20230001/VS20230001/SS/KS308
-874,2023-05-02,-1200.0,EUR,"Vojtek Marián, Mgr.",Platba/administrativne sluzby april,22023/VS22023/SS/KS
-875,2023-05-02,-660.0,EUR,LILACOMM S.R.O.,Platba/komunikacny trening,1623/VS1623/SS/KS
-876,2023-05-02,-1950.0,EUR,Matus Miksik,Platba/marketingove sluzby april,20230003/VS20230003/SS/KS
-877,2023-05-02,-1200.0,EUR,"th media, s.r.o.",Platba/reklamne a marketingove sluzby marec,20230016/VS20230016/SS/KS
-878,2023-05-02,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov maj,23228/VS23228/SS/KS0308
-879,2023-05-02,-240.0,EUR,BAVARIS FACILITY SERVICES s.r.o.,Platba/upratovacie sluzby april,230102041/VS230102041/SS/KS308
-880,2023-05-02,500.0,EUR,,"POS návrat EDENCARS, S.R.O. / BRATISLAVA /",
-881,2023-05-02,-37.43,EUR,,"POS nákup SLOVNAFT, BA, ZLATE PI / BRATISLAVA / (POS 12310103)",
-882,2023-05-02,-750.0,EUR,,EUR NÁKUP POS FACEBK *DW4LFNBN52 / fb.me/ads / (POS 99999999),
-883,2023-05-02,-112.41,EUR,,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 00489213),
-884,2023-05-02,-7.9,EUR,,"POS nákup DM Nivy, BA / Bratislava / (POS TN129703)",
-885,2023-05-02,-64.3,EUR,,POS nákup NC87_BANivy / Bratislava / (POS SN104648),
-886,2023-05-02,-40.59,EUR,,POS nákup OMV 2379 / Bratislava / (POS OSK1146B),
-887,2023-05-02,-69.47,EUR,,INT NÁKUP POS EUR RESTAURACE SELEPKA I / BRNO / (POS 513199),
-888,2023-04-29,-6.0,EUR,,Poplatky za transakcie,
-889,2023-04-29,-0.0,EUR,,Poplatok za balík,
-890,2023-04-28,-290.88,EUR,Petra Dzurovcinova,"Platba/CP Brno, Kosice, Banska Bystrica",
-891,2023-04-28,-2569.0,EUR,VELICKA JANA,Platba/administrativne sluzby april,20230002/VS20230002/SS/KS
-892,2023-04-28,-107.67,EUR,,INT NÁKUP POS EUR WIZZ AIR QGK8GJ / LONDON / (POS 23037491),
-893,2023-04-28,-589.0,EUR,,"POS nákup EDENCARS, S.R.O. / BRATISLAVA / (POS G2NPD834)",
-894,2023-04-28,-10.0,EUR,,Výber z bankomatu TB Ivanska cesta / Bratislava / (ATM TBIP100G),
-895,2023-04-28,-99.99,EUR,,INT NÁKUP POS EUR DISCORD* NITROYEARLY / HTTPSDISCORD. / (POS PDGOUQZN),
-896,2023-04-26,-584.4,EUR,LAVACOM s.r.o.,Platba/pultik PS,2301240169/VS2301240169/SS/KS308
-897,2023-04-26,-60.0,EUR,Dej Dávid,Platba/CP Banska Bystrica Dej 04/23,
-898,2023-04-26,-820.0,EUR,Underdog Production,Platba/polep a oprava steny,2023015/VS2023015/SS/KS
-899,2023-04-26,-36.0,EUR,AFINITA s.r.o.,Platba/Kapa doska,23010099/VS23010099/SS/KS308
-900,2023-04-26,-1402.8,EUR,"Pandan, s. r. o.",Platba/nalepky 1000ks a polep steny,202304022/VS202304022/SS/KS
-901,2023-04-25,-144.0,EUR,RJ Gastro s.r.o.,Platba/catering vyjazd kosice,2023058/VS2023058/SS/KS
-902,2023-04-25,-80.0,EUR,HLAVNE MESTO SR BRATISLAVA,Platba/spravny poplatok za umiestnenie interaktivnej mapy,2231331188/VS2231331188/SS/KS
-903,2023-04-25,-52027.82,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampa outdoor jul 2023,720230025/VS720230025/SS/KS
-904,2023-04-25,50000.0,EUR,Progresívne Slov.,Platba,
-905,2023-04-25,-258.26,EUR,Vyuctovanie,Platba/CP Kosice Stohlova 04/23,
-906,2023-04-25,-777.05,EUR,TeleDom Hotel,Platba/vyjazd Kosice ubytovanie,20100285/VS20100285/SS/KS308
-907,2023-04-25,-750.0,EUR,,EUR NÁKUP POS FACEBK *TGKGAM3N52 / fb.me/ads / (POS 99999999),
-908,2023-04-24,-74.06,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
-909,2023-04-21,-478.56,EUR,Divadlo Štúdio tanca,Platba/prenajom saly Banska Bystrica,3323/VS03323/SS/KS
-910,2023-04-21,-60.0,EUR,,POS nákup EUROSMS.COM / BRATISLAVA / (POS PAYON001),
-911,2023-04-20,-750.0,EUR,,EUR NÁKUP POS FACEBK *XGLDDQPM52 / fb.me/ads / (POS 99999999),
-912,2023-04-20,-117.69,EUR,,POS nákup zahr. National Express Limited / Birmingham / (POS 99999999),
-913,2023-04-20,-80.4,EUR,,POS nákup zahr. National Express Limited / Birmingham / (POS 99999999),
-914,2023-04-19,-1260.0,EUR,ATRIOS S.R.O.,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201/VS23201/SS/KS0308
-915,2023-04-18,-250.0,EUR,Pavol Krajci,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701/VS2023041701/SS/KS
-916,2023-04-18,-750.0,EUR,,EUR NÁKUP POS FACEBK *5UQB4M3N52 / fb.me/ads / (POS 99999999),
-917,2023-04-17,-750.0,EUR,,EUR NÁKUP POS FACEBK *ZEJ77MXM52 / fb.me/ads / (POS 99999999),
-918,2023-04-14,-750.0,EUR,,EUR NÁKUP POS FACEBK *WE435M7M52 / fb.me/ads / (POS 99999999),
-919,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466/VS2202301466/SS/KS
-920,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259/VS1230259/SS/KS
-921,2023-04-13,-750.0,EUR,,EUR NÁKUP POS FACEBK *9DXRMLKM52 / fb.me/ads / (POS 99999999),
-922,2023-04-13,-750.0,EUR,,EUR NÁKUP POS FACEBK *W65W6QPM52 / fb.me/ads / (POS 99999999),
-923,2023-04-12,-900.0,EUR,BIGMEDIA S.R.O. NOVE,"Platba/BigMedia billboard,busboard,citylight",1223202582/VS1223202582/SS/KS
-924,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-925,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
-926,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318/VS202318/SS/KS
-927,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
-928,2023-04-12,-750.0,EUR,,EUR NÁKUP POS FACEBK *V29WYM7N52 / fb.me/ads / (POS 99999999),
-929,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
-930,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *GFY4YM7N52 / fb.me/ads / (POS 99999999),
-931,2023-04-11,-1.17,EUR,,EUR NÁKUP POS FACEBK *FWZRZL7M52 / fb.me/ads / (POS 99999999),
-932,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *WAKK4QPM52 / fb.me/ads / (POS 99999999),
-933,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *8TNDTMBN52 / fb.me/ads / (POS 99999999),
-934,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *MTCXSL3N52 / fb.me/ads / (POS 99999999),
-935,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
-936,2023-04-05,-30000.0,EUR,"BigMedia, spol. s r.o.","Platba/BigMedia billboard,busboard,citylight",1223202582/VS1223202582/SS/KS
-937,2023-04-05,-2587.25,EUR,"LionsPartners, a.s.",Platba/najom kancelaria 04 23,23174/VS23174/SS/KS
-938,2023-04-05,-750.0,EUR,,EUR NÁKUP POS FACEBK *YPH67MTM52 / fb.me/ads / (POS 99999999),
-939,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009/VS230009/SS/KS
-940,2023-03-31,-0.0,EUR,,Poplatok za balík,
-941,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+673,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+674,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+675,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+676,2023-06-12,-12.0,EUR,,EUR NÁKUP POS FACEBK EG4M2RPTJ2 / fb.me/ads / (POS 99999999),
+677,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+678,2023-06-12,-800.0,EUR,,EUR NÁKUP POS FACEBK Y9RVTQX8D2 / fb.me/ads / (POS 99999999),
+679,2023-06-12,-27.0,EUR,,POS nákup PEPCO 120023 BRATISLAVA / BRATISLAVA / (POS 34016301),
+680,2023-06-12,-9.0,EUR,,EUR NÁKUP POS FACEBK AR9LGR3UJ2 / fb.me/ads / (POS 99999999),
+681,2023-06-12,-6.0,EUR,,EUR NÁKUP POS FACEBK 6TU23RKUJ2 / fb.me/ads / (POS 99999999),
+682,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+683,2023-06-12,-4.0,EUR,,EUR NÁKUP POS FACEBK N8VBVQFUJ2 / fb.me/ads / (POS 99999999),
+684,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK 3ZD9VQFUJ2 / fb.me/ads / (POS 99999999),
+685,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK XQPEEQTUJ2 / fb.me/ads / (POS 99999999),
+686,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK X36PNQXTJ2 / fb.me/ads / (POS 99999999),
+687,2023-06-12,-115.84,EUR,,EUR NÁKUP POS FACEBK *A8Y6WRPM52 / fb.me/ads / (POS 99999999),
+688,2023-06-12,-2.0,EUR,,EUR NÁKUP POS FACEBK 27S2VQFUJ2 / fb.me/ads / (POS 99999999),
+689,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+690,2023-06-12,-750.0,EUR,,EUR NÁKUP POS FACEBK *TEXRVRPM52 / fb.me/ads / (POS 99999999),
+691,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+692,2023-06-12,-10.9,EUR,,POS nákup ELEKTRO DATART / BRATISLAVA / (POS 11274169),
+693,2023-06-12,-172.16,EUR,,EUR NÁKUP POS BKG*BOOKING.COM HOTEL / (888)850-3958 / (POS 37850159),
+694,2023-06-12,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+695,2023-06-09,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby maj,2023003/VS2023003/SS/KS
+696,2023-06-09,-40360.0,EUR,"HITCHHIKER FILMS,S.R",Platba/Kampanove video,2023075/VS2023075/SS/KS
+697,2023-06-09,100000.0,EUR,Progresívne Slov.,Platba,
+698,2023-06-09,-20.0,EUR,,POS nákup CAFE FREI KOMARNO / KOMARNO / (POS 11261561),
+699,2023-06-09,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+700,2023-06-09,-55.2,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+701,2023-06-09,-15.08,EUR,,POS nákup ZELEZNICNA SPOLOCNOST / BRATISLAVA / (POS E3SB0001),
+702,2023-06-09,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+703,2023-06-08,-5000.0,EUR,,"Platba/Kiss, ekonomicke poradenstvo",523/VS523/SS/KS
+704,2023-06-08,-2900.0,EUR,Prostredníková Zuzan,"Platba/prostrednikova, administrativne sluzby - produkcia",2023001/VS2023001/SS/KS
+705,2023-06-08,-1202.4,EUR,"Pandan, s. r. o.","Platba/pandan: bloky, snurky, letaky a karticky",202305049/VS202305049/SS/KS
+706,2023-06-08,50.0,EUR,"Vlasková Oľga, Ing.",Platba/PS dar Olga Vlaskova,146315/VS146315/SS/KS
+707,2023-06-08,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+708,2023-06-08,-466.76,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
+709,2023-06-08,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+710,2023-06-08,-60.74,EUR,,"POS nákup LIDL BA,DUNAJSKA / BRATISLAVA / (POS 06540679)",
+711,2023-06-07,-265.0,EUR,Kristy Wolf sro,Platba/maskerske prace videospot,2023014/VS2023014/SS/KS
+712,2023-06-07,-11.48,EUR,SUNNYSOFT S.R.O.,"Platba/sunnysoft, drziak na mobil na tocenie",4260730187/VS4260730187/SS/KS
+713,2023-06-07,-60.0,EUR,HROMEC ROBERT MGR.,Platba/komparz videospot,112023/VS112023/SS/KS
+714,2023-06-07,500.0,EUR,PETRIK SIMONA,PLATBA/Dar,8/VS008/SS/KS
+715,2023-06-07,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+716,2023-06-07,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+717,2023-06-07,-43.8,EUR,,POS nákup Buena Cafe / Dunajska Stre / (POS TW085212),
+718,2023-06-07,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+719,2023-06-06,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov jun,23284/VS23284/SS/KS0308
+720,2023-06-06,-500.0,EUR,VADOVICOVA MARIANN,"Platba/Vadovicova, kameramanske prace videospot social",20230007/VS20230007/SS/KS308
+721,2023-06-06,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/vojtek, administrativa - komunita, maj",32023/VS032023/SS/KS
+722,2023-06-06,-500.0,EUR,"DUBECI, MSC. MARTIN","Platba/dubeci, poradenske sluzby - komunikacie",230014/VS230014/SS/KS
+723,2023-06-06,-440.0,EUR,LILACOMM S.R.O.,"Platba/lilacomm, komunikacny trening",2023/VS2023/SS/KS
+724,2023-06-06,-500.0,EUR,PETER BARNAS,"Platba/barnas, marketingove online sluzby maj",20230009/VS20230009/SS/KS
+725,2023-06-06,-960.0,EUR,CONTENT FACTORY s. r,"Platba/content factory, prenajom techniky na videospot",2306004/VS2306004/SS/KS
+726,2023-06-06,-60.0,EUR,KOLEKTIVFX S.R.O.,Platba/komparz videospot,2023013/VS2023013/SS/KS
+727,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+728,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+729,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+730,2023-06-06,-279.21,EUR,,EUR NÁKUP POS FACEBK RU234Q39D2 / fb.me/ads / (POS 99999999),
+731,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+732,2023-06-06,-750.0,EUR,,EUR NÁKUP POS FACEBK 5TWFPNBM52 / fb.me/ads / (POS 99999999),
+733,2023-06-06,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+734,2023-06-06,-19.42,EUR,,"POS nákup LIDL BA,DUNAJSKA / BRATISLAVA / (POS 06540679)",
+735,2023-06-06,-30.4,EUR,,POS nákup 1047 KRAJ Ovrucska / Bratislava / (POS TN123000),
+736,2023-06-05,3000.0,EUR,"Kelíšek Peter, Mgr.a",Platba/darovacia zmluva Peter Kelisek,
+737,2023-06-05,-840.0,EUR,MUSIC FORUM V.O.S.,Platba/reziserske prace videospot social,20230108/VS20230108/SS/KS0008
+738,2023-06-05,-360.0,EUR,ROADTRIP STUDIO,"Platba/roadtrip studio, color grading reklamneho spotu social",60223/VS060223/SS/KS0308
+739,2023-06-05,-480.0,EUR,Samuel Škubla,"Platba/skubla, zvuk a postprodukcia video spot social",202313/VS202313/SS/KS
+740,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+741,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+742,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+743,2023-06-05,-800.0,EUR,,EUR NÁKUP POS FACEBK 8294UP3AD2 / fb.me/ads / (POS 99999999),
+744,2023-06-05,-668.61,EUR,,POS nákup IKEA BRATISLAVA OD / Bratislava / (POS 00489130),
+745,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+746,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+747,2023-06-05,-8.59,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2306011653 / Viimsi / (POS 99999999),
+748,2023-06-05,-157.47,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2306011646 / Viimsi / (POS 99999999),
+749,2023-06-05,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+750,2023-06-05,-313.31,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
+751,2023-06-05,-1500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+752,2023-06-05,-239.48,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
+753,2023-06-05,-61.13,EUR,,"POS nákup LIDL BA,DUNAJSKA / BRATISLAVA / (POS 06540680)",
+754,2023-06-02,-120.0,EUR,"Petit Press, a.s.","Platba/PetitPress, zaloha za inzerciu v Pardon Nitra",2333101102/VS2333101102/SS/KS
+755,2023-06-02,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie,20230012/VS20230012/SS/KS
+756,2023-06-02,-2.0,EUR,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,
+757,2023-06-02,-1200.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby maj,20230011/VS20230011/SS/KS308
+758,2023-06-02,-8757.6,EUR,More Design s. r. o.,Platba/graficke sluzby a web,202327/VS202327/SS/KS
+759,2023-06-02,-1250.0,EUR,Dávid Javorský,"Platba/javorsky video, zvuk a fotograficke sluzby maj",2023004/VS2023004/SS/KS308
+760,2023-06-02,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+761,2023-06-01,-53180.64,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampan outdoor august 2023,720230031/VS720230031/SS/KS
+762,2023-06-01,100000.0,EUR,Progresívne Slov.,Platba,
+763,2023-06-01,-1200.0,EUR,"th media, s.r.o.",Platba/PR sluzby maj,20230034/VS20230034/SS/KS
+764,2023-06-01,-325.0,EUR,TrollWall AI,Platba/praca socialne siete,20230301/VS20230301/SS/KS
+765,2023-06-01,-3500.0,EUR,Ridzoň Jerguš,"Platba/administrativne a marketingove sluzby, vedenie kampane",2023013/VS2023013/SS/KS
+766,2023-06-01,-100.0,EUR,Krjak Tomas,Platba/doplatenie chybajucej sumy k fakture za maj,123/VS123/SS/KS
+767,2023-06-01,-1510.99,EUR,Turňová Diana,Platba/marketing a administrativne sluzby maj,20423/VS20423/SS/KS
+768,2023-06-01,-900.0,EUR,Kučerová Veronika,"Platba/vizaz na fotenie a video, 3 dni",2023050004/VS2023050004/SS/KS
+769,2023-06-01,-2500.0,EUR,VELICKA JANA,Platba/administrativne sluzby maj,20230003/VS20230003/SS/KS
+770,2023-06-01,-1000.0,EUR,Natalia Heribanova,Platba/komunikacne sluzby maj,22023/VS22023/SS/KS
+771,2023-06-01,-1950.0,EUR,Matúš Mikšík,Platba/marketingove sluzby maj,20230004/VS20230004/SS/KS
+772,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+773,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+774,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
+775,2023-06-01,-6.98,EUR,,"POS nákup 101 DROGERIE, BA, URBA / BRATISLAVA / (POS 05441785)",
+776,2023-06-01,-46.72,EUR,,POS nákup 1047 KRAJ Ovrucska / Bratislava / (POS TN123000),
+777,2023-06-01,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+778,2023-05-31,-0.0,EUR,,Poplatok za balík,
+779,2023-05-31,-1700.0,EUR,Krjak Tomas,Platba/sluzby v oblasti marketingu a administrativy maj,123/VS123/SS/KS
+780,2023-05-31,100.0,EUR,SAMUEL ADAMISIN,PLATBA/DAR,77260/VS0000077260/SS/KS
+781,2023-05-31,2.0,EUR,"Wood Service, s.r.o.",Platba,
+782,2023-05-30,-2124.0,EUR,"EDENcars, s. r. o.",Platba/prenajom auta jun plus depozit,323006/VS323006/SS/KS0308
+783,2023-05-30,-294.0,EUR,"Pandan, s. r. o.",Platba/3ks repas mechaniky,202305071/VS202305071/SS/KS
+784,2023-05-30,-2000.0,EUR,KLUJEV NAZARIJ,Platba/strih videospot,
+785,2023-05-30,-2000.0,EUR,Kľujev Maxim,Platba/kameraman videospot,
+786,2023-05-30,-5760.0,EUR,HEDONIST S.R.O.,Platba/organizacno technicke zabezpecenie nakracania video spotu,723/VS723/SS/KS
+787,2023-05-30,-1800.0,EUR,,Platba/pocitacove spracovanie video spot,202301/VS202301/SS/KS
+788,2023-05-30,-600.0,EUR,Matej Volf,Platba/snimanie zvuku a postprodukcia video spot,20230010/VS20230010/SS/KS
+789,2023-05-30,-400.0,EUR,Diana Švihlová,Platba/produkcne prace video spot,20230006/VS20230006/SS/KS
+790,2023-05-30,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov na podujatie 29.4.,230100093/VS230100093/SS/KS
+791,2023-05-30,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+792,2023-05-30,-750.0,EUR,,EUR NÁKUP POS FACEBK *62EYAPBN52 / fb.me/ads / (POS 99999999),
+793,2023-05-30,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+794,2023-05-30,-800.0,EUR,,EUR NÁKUP POS FACEBK 2UM6RNF9D2 / fb.me/ads / (POS 99999999),
+795,2023-05-29,-2046.3,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kanc.priestor- energie 04 23,23249/VS23249/SS/KS0308
+796,2023-05-29,-191.9,EUR,"J+Z Bystrinaresort, s. r. o.",Platba/hotel bystrina progresivne slovensko 18-19.8.,
+797,2023-05-29,-19.9,EUR,"HAMA SLOVAKIA, SPOL.",Platba/stativ,72004/VS72004/SS/KS8
+798,2023-05-29,-1000.0,EUR,"NOLIS, s.r.o.",Platba/catering sluzby 24.05.2023,1123060/VS1123060/SS/KS308
+799,2023-05-29,30.0,EUR,"Zaiček Martin, Mgr.a",Platba/PS dar Martin Zaicek,165900/VS165900/SS/KS
+800,2023-05-29,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
+801,2023-05-29,-133.0,EUR,,"POS nákup Decathlon,BA Pharos / BRATISLAVA / (POS 05443869)",
+802,2023-05-29,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+803,2023-05-29,-1.79,EUR,,"POS nákup 1202 YEME, BA, NAM. SN / BRATISLAVA / (POS 06040707)",
+804,2023-05-29,-40.88,EUR,,"POS nákup 1202 YEME, BA, NAM. SN / BRATISLAVA / (POS 06040710)",
+805,2023-05-26,40.0,EUR,ORMOS MICHAL,PLATBA/PS dar Michal Ormos,81335/VS81335/SS/KS0308
+806,2023-05-25,-50.0,EUR,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",
+807,2023-05-25,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8826406619 / G.CO/HELPPAY# / (POS 99999999),
+808,2023-05-24,-30.0,EUR,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,
+809,2023-05-24,-1200.0,EUR,HANA BOYACIOVA P. -,Platba/praca stylistu simecka,1123/VS1123/SS/KS
+810,2023-05-24,-864.0,EUR,K.KO ENTERPRISES S.,Platba/reklamne a eventove sluzby,120230052/VS120230052/SS/KS0308
+811,2023-05-24,-2500.0,EUR,MGR. ZUZANA MACUROVA,Platba/administrativne a organizacne prace,20230007/VS20230007/SS/KS
+812,2023-05-24,-172.8,EUR,"ARES SECURITY, s.r.o",Platba/bezpecnostno - strazne sluzby 18.5.,20230085/VS20230085/SS/KS308
+813,2023-05-24,-1458.0,EUR,DANIEL FERENCIK,Platba/prenajom fotostudia a techniky,2305010/VS2305010/SS/KS
+814,2023-05-24,-300.0,EUR,Paulina Kralikova,Platba/makeup a vlasy na fotenie 18.5.,2023008/VS2023008/SS/KS308
+815,2023-05-24,-2132.23,EUR,"TRNKA GASTRONOMY, SPOL. S R. O.",Platba/catering na event 18.5.,42230076/VS42230076/SS/KS
+816,2023-05-24,-200.4,EUR,Delip s. r. o.,Platba/vymena grafiky do pultiku,2023112/VS2023112/SS/KS
+817,2023-05-24,100000.0,EUR,Progresívne Slov.,Platba,
+818,2023-05-24,-2619.0,EUR,BRICHTA & PARTNERS S.R.O.,Platba/pravne sluzby a poradenstvo k programu,20230290/VS20230290/SS/KS
+819,2023-05-23,-3404.4,EUR,LASA s.r.o.,"Platba/ozvucenie, osvetlenie a led stena na konferencii 18.05.",2023016/VS2023016/SS/KS
+820,2023-05-23,-67.68,EUR,TECHNOPOL INTERNATIO,Platba/prenajom radiostanic 12ks na 18.5.,1230498/VS1230498/SS/KS
+821,2023-05-23,-859.2,EUR,Binarium spol. s r. o.,Platba/prenajom priestorov 18.5.,230100109/VS230100109/SS/KS
+822,2023-05-23,-800.0,EUR,,EUR NÁKUP POS FACEBK 2WHPNP39D2 / fb.me/ads / (POS 99999999),
+823,2023-05-23,-750.0,EUR,,EUR NÁKUP POS FACEBK *B5HTRMKM52 / fb.me/ads / (POS 99999999),
+824,2023-05-20,50.0,EUR,Tomas Sisak,Platba/PS dar Tomas Sisak,71028/VS71028/SS/KS0308
+825,2023-05-19,-700.0,EUR,"Foodman, s. r. o.",Platba/catering na podujatie v binariu 29.4.,2301006/VS2301006/SS/KS0308
+826,2023-05-19,-400.0,EUR,APERTUM s.r.o. LEITMAN RADOVAN,Platba/prenajom atelierovych priestorov,20230004/VS20230004/SS/KS
+827,2023-05-19,-600.0,EUR,BEICA s. r. o.,Platba/styling na fotenie,2305001/VS2305001/SS/KS0308
+828,2023-05-19,-71640.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390075/VS122390075/SS/KS
+829,2023-05-19,50000.0,EUR,Progresívne Slov.,Platba,
+830,2023-05-18,-559.2,EUR,LASA s.r.o.,Platba/ozvucenie podujatia 29.4.,2023012/VS2023012/SS/KS
+831,2023-05-18,-800.0,EUR,,EUR NÁKUP POS FACEBK BGGPHP39D2 / fb.me/ads / (POS 99999999),
+832,2023-05-18,-102.88,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2305160902 / Viimsi / (POS 99999999),
+833,2023-05-17,30.0,EUR,Patrik Petráš,PLATBA,259288/VS259288/SS/KS
+834,2023-05-17,-750.0,EUR,,EUR NÁKUP POS FACEBK *QYA6DNTM52 / fb.me/ads / (POS 99999999),
+835,2023-05-16,-360.0,EUR,BAJKO S.R.O.,Platba/voiceover promo spot,2023125/VS2023125/SS/KS308
+836,2023-05-15,-6000.0,EUR,,Platba/ekonomicke a organizacne poradenstvo,423/VS423/SS/KS0308
+837,2023-05-15,-56.45,EUR,CleaningSK s. r. o.,Platba/Upratovacie sluzby,20230009/VS20230009/SS/KS
+838,2023-05-15,-60.58,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2305110942 / Viimsi / (POS 99999999),
+839,2023-05-15,-750.0,EUR,,EUR NÁKUP POS FACEBK KNEDWPX8D2 / fb.me/ads / (POS 99999999),
+840,2023-05-12,-356.53,EUR,,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 00489208),
+841,2023-05-12,-86.1,EUR,,POS nákup GOPAY *KAVA.EU / kava.eu / (POS EE800007),
+842,2023-05-12,-468.49,EUR,,INT NÁKUP POS EUR Alza.cz a.s. / Prague / (POS 99999999),
+843,2023-05-12,-72.53,EUR,,INT NÁKUP POS EUR BOLT.EU/D/2305101027 / Viimsi / (POS 99999999),
+844,2023-05-11,-500.0,EUR,,EUR NÁKUP POS FACEBK 5Y9QAP39D2 / fb.me/ads / (POS 99999999),
+845,2023-05-10,-750.0,EUR,Turňová Diana,Platba/administrativne sluzby april,10423/VS10423/SS/KS
+846,2023-05-10,-2300.0,EUR,Chrťan Samuel,Platba/marketingove sluzby,202304/VS202304/SS/KS
+847,2023-05-10,-6820.0,EUR,Gubka & Fish Media s,Platba/video a foto produkcia,2023020/VS2023020/SS/KS
+848,2023-05-10,50000.0,EUR,Progresívne Slov.,Platba,
+849,2023-05-10,-127.61,EUR,,EUR NÁKUP POS FACEBK *SQRNVMXM52 / fb.me/ads / (POS 99999999),
+850,2023-05-10,-350.0,EUR,,EUR NÁKUP POS FACEBK 9A6L5P79D2 / fb.me/ads / (POS 99999999),
+851,2023-05-09,-20238.0,EUR,More Design s. r. o.,Platba/graficke sluzby,202322/VS202322/SS/KS
+852,2023-05-09,-225.0,EUR,,EUR NÁKUP POS FACEBK 6BY59P39D2 / fb.me/ads / (POS 99999999),
+853,2023-05-09,-750.0,EUR,,EUR NÁKUP POS FACEBK *6593TM7M52 / fb.me/ads / (POS 99999999),
+854,2023-05-09,-150.0,EUR,,EUR NÁKUP POS FACEBK RHMDSPX9D2 / fb.me/ads / (POS 99999999),
+855,2023-05-09,-100.0,EUR,,EUR NÁKUP POS FACEBK TWM5CNK9D2 / fb.me/ads / (POS 99999999),
+856,2023-05-09,-70.0,EUR,,EUR NÁKUP POS FACEBK CJJA7P39D2 / fb.me/ads / (POS 99999999),
+857,2023-05-09,-40.0,EUR,,EUR NÁKUP POS FACEBK 7V224NF9D2 / fb.me/ads / (POS 99999999),
+858,2023-05-09,-30.0,EUR,,EUR NÁKUP POS FACEBK AC7PAPB9D2 / fb.me/ads / (POS 99999999),
+859,2023-05-09,-20.0,EUR,,EUR NÁKUP POS FACEBK SCLSYN3AD2 / fb.me/ads / (POS 99999999),
+860,2023-05-09,-12.0,EUR,,EUR NÁKUP POS FACEBK G9DQ2P79D2 / fb.me/ads / (POS 99999999),
+861,2023-05-09,-12.0,EUR,,EUR NÁKUP POS FACEBK EMBT3NF9D2 / fb.me/ads / (POS 99999999),
+862,2023-05-09,-9.0,EUR,,EUR NÁKUP POS FACEBK JGV8UNT9D2 / fb.me/ads / (POS 99999999),
+863,2023-05-09,-6.0,EUR,,EUR NÁKUP POS FACEBK RKGYQPX9D2 / fb.me/ads / (POS 99999999),
+864,2023-05-09,-4.0,EUR,,EUR NÁKUP POS FACEBK DWAS3NF9D2 / fb.me/ads / (POS 99999999),
+865,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK A3W2BNK9D2 / fb.me/ads / (POS 99999999),
+866,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK B23JAPB9D2 / fb.me/ads / (POS 99999999),
+867,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK 8NNR3NF9D2 / fb.me/ads / (POS 99999999),
+868,2023-05-09,-2.0,EUR,,EUR NÁKUP POS FACEBK 33RPQPX8D2 / fb.me/ads / (POS 99999999),
+869,2023-05-05,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/poradenske sluzby april,230012/VS230012/SS/KS
+870,2023-05-05,-750.0,EUR,,EUR NÁKUP POS FACEBK *3YDQKM3N52 / fb.me/ads / (POS 99999999),
+871,2023-05-04,-3300.0,EUR,Dančiak Martin,Platba/marketingove sluzby april,2023002/VS2023002/SS/KS
+872,2023-05-04,-403.52,EUR,"Beňáková Nora, Ing.",Platba/CP Benakova Oxford april,
+873,2023-05-04,-47.4,EUR,MIKACOVA TEREZA,Platba/CP Tallinn Mikacova april,
+874,2023-05-04,-3500.0,EUR,Ridzoň Jerguš,Platba/administrativne a marketingove sluzby april,2023011/VS2023011/SS/KS
+875,2023-05-04,-700.0,EUR,Petrušková Michaela,Platba/reklamne a marketingove sluzby april,20230007/VS20230007/SS/KS308
+876,2023-05-04,-1000.0,EUR,Mgr. Zora Jaurová,Platba/priprava volebneho programu april,62023/VS62023/SS/KS308
+877,2023-05-03,-77.29,EUR,UPC BROADBAND SLOVAK,Platba/UPC / PayBySquare,9368061/VS9368061/SS/KS308
+878,2023-05-03,-74520.0,EUR,"BIGMEDIA, SPOL. S R.O.","Platba/BigMedia billboard,bigboard,citylight",122390063/VS122390063/SS/KS
+879,2023-05-03,100000.0,EUR,Progresívne Slov.,Platba,
+880,2023-05-03,-3000.0,EUR,LUKAS GREC,Platba/manazment online komunikacie april,20230010/VS20230010/SS/KS
+881,2023-05-03,-1000.0,EUR,Natalia Heribanova,Platba/marketingove a komunikacne sluzby april,12023/VS12023/SS/KS
+882,2023-05-03,-65.32,EUR,,EUR NÁKUP POS GOOGLE*GSUITE DASATO.S / CC GOOGLE.COM / (POS WPGTID01),
+883,2023-05-02,-500.0,EUR,PETER BARNAS,Platba/marketingove sluzby april,20230001/VS20230001/SS/KS308
+884,2023-05-02,-1200.0,EUR,"Vojtek Marián, Mgr.",Platba/administrativne sluzby april,22023/VS22023/SS/KS
+885,2023-05-02,-660.0,EUR,LILACOMM S.R.O.,Platba/komunikacny trening,1623/VS1623/SS/KS
+886,2023-05-02,-1950.0,EUR,Matus Miksik,Platba/marketingove sluzby april,20230003/VS20230003/SS/KS
+887,2023-05-02,-1200.0,EUR,"th media, s.r.o.",Platba/reklamne a marketingove sluzby marec,20230016/VS20230016/SS/KS
+888,2023-05-02,-2587.25,EUR,"LIONS & PARTNERS, a.s.",Platba/prenajom kancelarskych priestorov maj,23228/VS23228/SS/KS0308
+889,2023-05-02,-240.0,EUR,BAVARIS FACILITY SERVICES s.r.o.,Platba/upratovacie sluzby april,230102041/VS230102041/SS/KS308
+890,2023-05-02,500.0,EUR,,"POS návrat EDENCARS, S.R.O. / BRATISLAVA /",
+891,2023-05-02,-37.43,EUR,,"POS nákup SLOVNAFT, BA, ZLATE PI / BRATISLAVA / (POS 12310103)",
+892,2023-05-02,-750.0,EUR,,EUR NÁKUP POS FACEBK *DW4LFNBN52 / fb.me/ads / (POS 99999999),
+893,2023-05-02,-112.41,EUR,,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 00489213),
+894,2023-05-02,-7.9,EUR,,"POS nákup DM Nivy, BA / Bratislava / (POS TN129703)",
+895,2023-05-02,-64.3,EUR,,POS nákup NC87_BANivy / Bratislava / (POS SN104648),
+896,2023-05-02,-40.59,EUR,,POS nákup OMV 2379 / Bratislava / (POS OSK1146B),
+897,2023-05-02,-69.47,EUR,,INT NÁKUP POS EUR RESTAURACE SELEPKA I / BRNO / (POS 513199),
+898,2023-04-29,-6.0,EUR,,Poplatky za transakcie,
+899,2023-04-29,-0.0,EUR,,Poplatok za balík,
+900,2023-04-28,-290.88,EUR,Petra Dzurovcinova,"Platba/CP Brno, Kosice, Banska Bystrica",
+901,2023-04-28,-2569.0,EUR,VELICKA JANA,Platba/administrativne sluzby april,20230002/VS20230002/SS/KS
+902,2023-04-28,-107.67,EUR,,INT NÁKUP POS EUR WIZZ AIR QGK8GJ / LONDON / (POS 23037491),
+903,2023-04-28,-589.0,EUR,,"POS nákup EDENCARS, S.R.O. / BRATISLAVA / (POS G2NPD834)",
+904,2023-04-28,-10.0,EUR,,Výber z bankomatu TB Ivanska cesta / Bratislava / (ATM TBIP100G),
+905,2023-04-28,-99.99,EUR,,INT NÁKUP POS EUR DISCORD* NITROYEARLY / HTTPSDISCORD. / (POS PDGOUQZN),
+906,2023-04-26,-584.4,EUR,LAVACOM s.r.o.,Platba/pultik PS,2301240169/VS2301240169/SS/KS308
+907,2023-04-26,-60.0,EUR,Dej Dávid,Platba/CP Banska Bystrica Dej 04/23,
+908,2023-04-26,-820.0,EUR,Underdog Production,Platba/polep a oprava steny,2023015/VS2023015/SS/KS
+909,2023-04-26,-36.0,EUR,AFINITA s.r.o.,Platba/Kapa doska,23010099/VS23010099/SS/KS308
+910,2023-04-26,-1402.8,EUR,"Pandan, s. r. o.",Platba/nalepky 1000ks a polep steny,202304022/VS202304022/SS/KS
+911,2023-04-25,-144.0,EUR,RJ Gastro s.r.o.,Platba/catering vyjazd kosice,2023058/VS2023058/SS/KS
+912,2023-04-25,-80.0,EUR,HLAVNE MESTO SR BRATISLAVA,Platba/spravny poplatok za umiestnenie interaktivnej mapy,2231331188/VS2231331188/SS/KS
+913,2023-04-25,-52027.82,EUR,"Unimedia spol. ,s.r.",Platba/Reklamna kampa outdoor jul 2023,720230025/VS720230025/SS/KS
+914,2023-04-25,50000.0,EUR,Progresívne Slov.,Platba,
+915,2023-04-25,-258.26,EUR,Vyuctovanie,Platba/CP Kosice Stohlova 04/23,
+916,2023-04-25,-777.05,EUR,TeleDom Hotel,Platba/vyjazd Kosice ubytovanie,20100285/VS20100285/SS/KS308
+917,2023-04-25,-750.0,EUR,,EUR NÁKUP POS FACEBK *TGKGAM3N52 / fb.me/ads / (POS 99999999),
+918,2023-04-24,-74.06,EUR,,EUR NÁKUP POS Google GSUITE_dasato.sk / Dublin / (POS 99999999),
+919,2023-04-21,-478.56,EUR,Divadlo Štúdio tanca,Platba/prenajom saly Banska Bystrica,3323/VS03323/SS/KS
+920,2023-04-21,-60.0,EUR,,POS nákup EUROSMS.COM / BRATISLAVA / (POS PAYON001),
+921,2023-04-20,-750.0,EUR,,EUR NÁKUP POS FACEBK *XGLDDQPM52 / fb.me/ads / (POS 99999999),
+922,2023-04-20,-117.69,EUR,,POS nákup zahr. National Express Limited / Birmingham / (POS 99999999),
+923,2023-04-20,-80.4,EUR,,POS nákup zahr. National Express Limited / Birmingham / (POS 99999999),
+924,2023-04-19,-1260.0,EUR,ATRIOS S.R.O.,"Platba/ATRIOS s.r.o., prenajom priestorov Kosice",23201/VS23201/SS/KS0308
+925,2023-04-18,-250.0,EUR,Pavol Krajci,Platba/organizacne zabezpecenie podujatia v kosiciach,2023041701/VS2023041701/SS/KS
+926,2023-04-18,-750.0,EUR,,EUR NÁKUP POS FACEBK *5UQB4M3N52 / fb.me/ads / (POS 99999999),
+927,2023-04-17,-750.0,EUR,,EUR NÁKUP POS FACEBK *ZEJ77MXM52 / fb.me/ads / (POS 99999999),
+928,2023-04-14,-750.0,EUR,,EUR NÁKUP POS FACEBK *WE435M7M52 / fb.me/ads / (POS 99999999),
+929,2023-04-13,-86.04,EUR,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,2202301466/VS2202301466/SS/KS
+930,2023-04-13,-825.12,EUR,"GALAXI, SPOL. S R.O.",Platba/Galaxi vizitky,1230259/VS1230259/SS/KS
+931,2023-04-13,-750.0,EUR,,EUR NÁKUP POS FACEBK *9DXRMLKM52 / fb.me/ads / (POS 99999999),
+932,2023-04-13,-750.0,EUR,,EUR NÁKUP POS FACEBK *W65W6QPM52 / fb.me/ads / (POS 99999999),
+933,2023-04-12,-900.0,EUR,BIGMEDIA S.R.O. NOVE,"Platba/BigMedia billboard,busboard,citylight",1223202582/VS1223202582/SS/KS
+934,2023-04-12,-100.0,EUR,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+935,2023-04-12,-150.0,EUR,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,
+936,2023-04-12,-10759.2,EUR,More Design s. r. o.,"Platba/More Design, s.r.o. graficke prace",202318/VS202318/SS/KS
+937,2023-04-12,150.0,EUR,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,
+938,2023-04-12,-750.0,EUR,,EUR NÁKUP POS FACEBK *V29WYM7N52 / fb.me/ads / (POS 99999999),
+939,2023-04-11,100.0,EUR,Príbiš Milena,Platba/Milena Pribis,
+940,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *GFY4YM7N52 / fb.me/ads / (POS 99999999),
+941,2023-04-11,-1.17,EUR,,EUR NÁKUP POS FACEBK *FWZRZL7M52 / fb.me/ads / (POS 99999999),
+942,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *WAKK4QPM52 / fb.me/ads / (POS 99999999),
+943,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *8TNDTMBN52 / fb.me/ads / (POS 99999999),
+944,2023-04-11,-750.0,EUR,,EUR NÁKUP POS FACEBK *MTCXSL3N52 / fb.me/ads / (POS 99999999),
+945,2023-04-06,-2000.0,EUR,,VÝBER V HOTOVOSTI/Výber do pokladne,
+946,2023-04-05,-30000.0,EUR,"BigMedia, spol. s r.o.","Platba/BigMedia billboard,busboard,citylight",1223202582/VS1223202582/SS/KS
+947,2023-04-05,-2587.25,EUR,"LionsPartners, a.s.",Platba/najom kancelaria 04 23,23174/VS23174/SS/KS
+948,2023-04-05,-750.0,EUR,,EUR NÁKUP POS FACEBK *YPH67MTM52 / fb.me/ads / (POS 99999999),
+949,2023-04-04,-500.0,EUR,"DUBECI, MSC. MARTIN",Platba/Dubeci 03 23,230009/VS230009/SS/KS
+950,2023-03-31,-0.0,EUR,,Poplatok za balík,
+951,2023-03-31,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
