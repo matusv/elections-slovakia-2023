@@ -1,291 +1,297 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Nam. Neznej revolucie",VS: 2231331460
-1,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Obchodna-Postova",VS: 2231331458
-2,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Safarikovo namestie",VS: 2231331459
-3,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Hlavne namestie",VS: 2231331457
-4,2023-08-24,-684,EUR,Mestske kulturne stredisko Humenne,"Odoslaná platba elektronicky, Mestske kulturne stredisko Humenne - prenajom saly",VS: 2023009
-5,2023-08-24,-600,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - Prenajom namestia",VS: 1252023
-6,2023-08-24,1500,EUR,Attila Agocs,"Prijatá platba, Dar",
-7,2023-08-23,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 297000234
-ŠS: 3300205438
-KS: 6898"
-8,2023-08-23,-59.02,EUR,,"Transakcia platobnou kartou, Suma: 59,02 EUR 21.08.2023 Miesto: laskykvet.sk Trencin","VS: 205000234
+0,2023-08-24,-532.8,EUR,,"Transakcia platobnou kartou, Suma: 532,8 EUR 23.08.2023 Miesto: VLAJKOVO.SK BRATISLAVA","VS: 205000236
 ŠS: 3300205438
 KS: 0608"
-9,2023-08-23,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 21.08.2023 Miesto: FACEBK *BPE6DSFHU2 fb.me/ads","VS: 205000234
-ŠS: 3300205438
-KS: 0608"
-10,2023-08-23,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 297000234
+1,2023-08-24,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.08.2023","VS: 297000236
 ŠS: 3300205438
 KS: 6898"
-11,2023-08-23,-65033.12,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, IDEAMEDIA - Online 072023",VS: 3230234
-12,2023-08-23,-20,EUR,Prioritní platba - poplatek,"Zaúčtovanie poplatku, ",
-13,2023-08-23,-39298.92,EUR,IDEAMEDIA s. r. o.,"Zrýchlená platba, IDEAMEDIA - OOH 082023",VS: 3230235
+2,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Nam. Neznej revolucie",VS: 2231331460
+3,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Obchodna-Postova",VS: 2231331458
+4,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Safarikovo namestie",VS: 2231331459
+5,2023-08-24,-80,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Hlavne namestie",VS: 2231331457
+6,2023-08-24,-684,EUR,Mestske kulturne stredisko Humenne,"Odoslaná platba elektronicky, Mestske kulturne stredisko Humenne - prenajom saly",VS: 2023009
+7,2023-08-24,-600,EUR,Hlavne mesto Slovenskej republiky Bratislava,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - Prenajom namestia",VS: 1252023
+8,2023-08-24,1500,EUR,Attila Agocs,"Prijatá platba, Dar",
+9,2023-08-23,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 297000234
+ŠS: 3300205438
+KS: 6898"
+10,2023-08-23,-59.02,EUR,,"Transakcia platobnou kartou, Suma: 59,02 EUR 21.08.2023 Miesto: laskykvet.sk Trencin","VS: 205000234
+ŠS: 3300205438
+KS: 0608"
+11,2023-08-23,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 21.08.2023 Miesto: FACEBK *BPE6DSFHU2 fb.me/ads","VS: 205000234
+ŠS: 3300205438
+KS: 0608"
+12,2023-08-23,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 297000234
+ŠS: 3300205438
+KS: 6898"
+13,2023-08-23,-65033.12,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, IDEAMEDIA - Online 072023",VS: 3230234
 14,2023-08-23,-20,EUR,Prioritní platba - poplatek,"Zaúčtovanie poplatku, ",
-15,2023-08-23,-15960,EUR,IDEAMEDIA s. r. o.,"Zrýchlená platba, IDEAMEDIA - OOH",VS: 3230236
-16,2023-08-23,100000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka Modri, M ost - Hid","VS: 0
+15,2023-08-23,-39298.92,EUR,IDEAMEDIA s. r. o.,"Zrýchlená platba, IDEAMEDIA - OOH 082023",VS: 3230235
+16,2023-08-23,-20,EUR,Prioritní platba - poplatek,"Zaúčtovanie poplatku, ",
+17,2023-08-23,-15960,EUR,IDEAMEDIA s. r. o.,"Zrýchlená platba, IDEAMEDIA - OOH",VS: 3230236
+18,2023-08-23,100000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka Modri, M ost - Hid","VS: 0
 ŠS: 0"
-17,2023-08-23,20000,EUR,Kun Arpad,"Prijatá platba, pozicka",
-18,2023-08-22,-1100,EUR,Mestska cast Bratislava-Raca,"Odoslaná platba elektronicky, Mestska cast Bratislava-Raca - Modri, Most - Hid / vinobranie2023",VS: 1509230241
-19,2023-08-21,-140,EUR,,"Transakcia platobnou kartou, Suma: 140 EUR 19.08.2023 Miesto: FACEBK E2QXLTPHG2 fb.me/ads","VS: 205000232
+19,2023-08-23,20000,EUR,Kun Arpad,"Prijatá platba, pozicka",
+20,2023-08-22,-1100,EUR,Mestska cast Bratislava-Raca,"Odoslaná platba elektronicky, Mestska cast Bratislava-Raca - Modri, Most - Hid / vinobranie2023",VS: 1509230241
+21,2023-08-21,-140,EUR,,"Transakcia platobnou kartou, Suma: 140 EUR 19.08.2023 Miesto: FACEBK E2QXLTPHG2 fb.me/ads","VS: 205000232
 ŠS: 3300205438
 KS: 0608"
-20,2023-08-21,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 19.08.2023 Miesto: FACEBK *98DKXS7HU2 fb.me/ads","VS: 205000232
+22,2023-08-21,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 19.08.2023 Miesto: FACEBK *98DKXS7HU2 fb.me/ads","VS: 205000232
 ŠS: 3300205438
 KS: 0608"
-21,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.08.2023","VS: 297000232
+23,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.08.2023","VS: 297000232
 ŠS: 3300205438
 KS: 6898"
-22,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.08.2023","VS: 297000232
+24,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.08.2023","VS: 297000232
 ŠS: 3300205438
 KS: 6898"
-23,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 CZK 17.08.2023","VS: 297000230
+25,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 CZK 17.08.2023","VS: 297000230
 ŠS: 3300205438
 KS: 6898"
-24,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.08.2023","VS: 297000230
+26,2023-08-21,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.08.2023","VS: 297000230
 ŠS: 3300205438
 KS: 6898"
-25,2023-08-21,-79.03,EUR,,"Transakcia platobnou kartou, Suma: 1880,41 CZK 17.08.2023 Miesto: CEZ a.s. Futur/E/Go CZ Praha 4 KURZ: 23,793622","VS: 205000230
+27,2023-08-21,-79.03,EUR,,"Transakcia platobnou kartou, Suma: 1880,41 CZK 17.08.2023 Miesto: CEZ a.s. Futur/E/Go CZ Praha 4 KURZ: 23,793622","VS: 205000230
 ŠS: 3300205438
 KS: 0608"
-26,2023-08-21,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 17.08.2023 Miesto: FACEBK *QCQNZRXGU2 fb.me/ads","VS: 205000230
+28,2023-08-21,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 17.08.2023 Miesto: FACEBK *QCQNZRXGU2 fb.me/ads","VS: 205000230
 ŠS: 3300205438
 KS: 0608"
-27,2023-08-18,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 CZK 17.08.2023","VS: 297000229
+29,2023-08-18,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 CZK 17.08.2023","VS: 297000229
 ŠS: 3300205438
 KS: 6898"
-28,2023-08-18,-12.77,EUR,,"Transakcia platobnou kartou, Suma: 303,77 CZK 17.08.2023 Miesto: CEZ a.s. Futur/E/Go CZ Praha 4 KURZ: 23,787783","VS: 205000229
+30,2023-08-18,-12.77,EUR,,"Transakcia platobnou kartou, Suma: 303,77 CZK 17.08.2023 Miesto: CEZ a.s. Futur/E/Go CZ Praha 4 KURZ: 23,787783","VS: 205000229
 ŠS: 3300205438
 KS: 0608"
-29,2023-08-16,-837.38,EUR,,"Transakcia platobnou kartou, Suma: 837,38 EUR 15.08.2023 Miesto: FACEBK *KBRWJSBHU2 fb.me/ads","VS: 205000227
+31,2023-08-16,-837.38,EUR,,"Transakcia platobnou kartou, Suma: 837,38 EUR 15.08.2023 Miesto: FACEBK *KBRWJSBHU2 fb.me/ads","VS: 205000227
 ŠS: 3300205438
 KS: 0608"
-30,2023-08-16,-90,EUR,,"Transakcia platobnou kartou, Suma: 90 EUR 14.08.2023 Miesto: FACEBK WFE88SBHG2 fb.me/ads","VS: 205000227
+32,2023-08-16,-90,EUR,,"Transakcia platobnou kartou, Suma: 90 EUR 14.08.2023 Miesto: FACEBK WFE88SBHG2 fb.me/ads","VS: 205000227
 ŠS: 3300205438
 KS: 0608"
-31,2023-08-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.08.2023","VS: 297000227
+33,2023-08-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.08.2023","VS: 297000227
 ŠS: 3300205438
 KS: 6898"
-32,2023-08-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.08.2023","VS: 297000227
+34,2023-08-16,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.08.2023","VS: 297000227
 ŠS: 3300205438
 KS: 6898"
-33,2023-08-15,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 13.08.2023 Miesto: FACEBK *P2GQPSTGU2 fb.me/ads","VS: 205000226
+35,2023-08-15,-900,EUR,,"Transakcia platobnou kartou, Suma: 900 EUR 13.08.2023 Miesto: FACEBK *P2GQPSTGU2 fb.me/ads","VS: 205000226
 ŠS: 3300205438
 KS: 0608"
-34,2023-08-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.08.2023","VS: 297000226
+36,2023-08-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.08.2023","VS: 297000226
 ŠS: 3300205438
 KS: 6898"
-35,2023-08-14,-60,EUR,,"Transakcia platobnou kartou, Suma: 60 EUR 11.08.2023 Miesto: FACEBK 4XFB3T7HG2 fb.me/ads","VS: 205000224
+37,2023-08-14,-60,EUR,,"Transakcia platobnou kartou, Suma: 60 EUR 11.08.2023 Miesto: FACEBK 4XFB3T7HG2 fb.me/ads","VS: 205000224
 ŠS: 3300205438
 KS: 0608"
-36,2023-08-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 11.08.2023","VS: 297000224
+38,2023-08-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 11.08.2023","VS: 297000224
 ŠS: 3300205438
 KS: 6898"
-37,2023-08-13,-1440.47,EUR,Twomark s.r.o.,"Odoslaná platba elektronicky, Twomark - ubytovanie kampan",VS: 23085
-38,2023-08-11,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.08.2023","VS: 297000222
+39,2023-08-13,-1440.47,EUR,Twomark s.r.o.,"Odoslaná platba elektronicky, Twomark - ubytovanie kampan",VS: 23085
+40,2023-08-11,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.08.2023","VS: 297000222
 ŠS: 3300205438
 KS: 6898"
-39,2023-08-11,-41.9,EUR,,"Transakcia platobnou kartou, Suma: 41,9 EUR 10.08.2023 Miesto: FACEBK E6VXPSPGG2 fb.me/ads","VS: 205000222
+41,2023-08-11,-41.9,EUR,,"Transakcia platobnou kartou, Suma: 41,9 EUR 10.08.2023 Miesto: FACEBK E6VXPSPGG2 fb.me/ads","VS: 205000222
 ŠS: 3300205438
 KS: 0608"
-40,2023-08-11,-100,EUR,Mesto Spisska Bela,"Odoslaná platba elektronicky, Mesto Spisska Bela - Prenajom podia Modri, Most - Hid - Lendak",VS: 2592023
-41,2023-08-10,-250,EUR,"POSTOJ MEDIA, s.r.o.","Odoslaná platba elektronicky, POSTOJ MEDIA - Inzercia v denniku postoj","VS: 20232875
+42,2023-08-11,-100,EUR,Mesto Spisska Bela,"Odoslaná platba elektronicky, Mesto Spisska Bela - Prenajom podia Modri, Most - Hid - Lendak",VS: 2592023
+43,2023-08-10,-250,EUR,"POSTOJ MEDIA, s.r.o.","Odoslaná platba elektronicky, POSTOJ MEDIA - Inzercia v denniku postoj","VS: 20232875
 KS: 0308"
-42,2023-08-10,-2211.34,EUR,,"Transakcia platobnou kartou, Suma: 2211,34 EUR 08.08.2023 Miesto: FACEBK *C5EKCSBHU2 fb.me/ads","VS: 205000222
+44,2023-08-10,-2211.34,EUR,,"Transakcia platobnou kartou, Suma: 2211,34 EUR 08.08.2023 Miesto: FACEBK *C5EKCSBHU2 fb.me/ads","VS: 205000222
 ŠS: 3300205438
 KS: 0608"
-43,2023-08-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.08.2023","VS: 297000222
+45,2023-08-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.08.2023","VS: 297000222
 ŠS: 3300205438
 KS: 6898"
-44,2023-08-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.08.2023","VS: 297000219
+46,2023-08-08,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.08.2023","VS: 297000219
 ŠS: 3300205438
 KS: 6898"
-45,2023-08-08,-40,EUR,,"Transakcia platobnou kartou, Suma: 40 EUR 07.08.2023 Miesto: FACEBK CRSULTXGG2 fb.me/ads","VS: 205000219
+47,2023-08-08,-40,EUR,,"Transakcia platobnou kartou, Suma: 40 EUR 07.08.2023 Miesto: FACEBK CRSULTXGG2 fb.me/ads","VS: 205000219
 ŠS: 3300205438
 KS: 0608"
-46,2023-08-08,20000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, /RI/Pozicka Modri, Most-Hid",ŠS: 4002693308
-47,2023-08-07,150.8,EUR,,"Kartové transakcie - úhrada, Suma: 150,8 EUR 28.07.2023 Miesto: ELEKTRO DATART BRATISLAVA","VS: 205000217
+48,2023-08-08,20000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, /RI/Pozicka Modri, Most-Hid",ŠS: 4002693308
+49,2023-08-07,150.8,EUR,,"Kartové transakcie - úhrada, Suma: 150,8 EUR 28.07.2023 Miesto: ELEKTRO DATART BRATISLAVA","VS: 205000217
 ŠS: 3300205438
 KS: 0608"
-48,2023-08-07,0.2,EUR,Vrátenie poplatkov,"Vrátenie poplatku, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000217
+50,2023-08-07,0.2,EUR,Vrátenie poplatkov,"Vrátenie poplatku, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000217
 ŠS: 3300205438
 KS: 6898"
-49,2023-08-04,-68.02,EUR,,"Transakcia platobnou kartou, Suma: 68,02 EUR 02.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000215
+51,2023-08-04,-68.02,EUR,,"Transakcia platobnou kartou, Suma: 68,02 EUR 02.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000215
 ŠS: 3300205438
 KS: 0608"
-50,2023-08-04,-13.93,EUR,,"Transakcia platobnou kartou, Suma: 13,93 EUR 02.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000215
+52,2023-08-04,-13.93,EUR,,"Transakcia platobnou kartou, Suma: 13,93 EUR 02.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000215
 ŠS: 3300205438
 KS: 0608"
-51,2023-08-04,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 297000215
+53,2023-08-04,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 297000215
 ŠS: 3300205438
 KS: 6898"
-52,2023-08-04,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 297000215
+54,2023-08-04,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 297000215
 ŠS: 3300205438
 KS: 6898"
-53,2023-08-03,-328.5,EUR,,"Transakcia platobnou kartou, Suma: 328,5 EUR 01.08.2023 Miesto: SELFSTORAGE,BA,TURBINO BRATISLAVA","VS: 205000214
+55,2023-08-03,-328.5,EUR,,"Transakcia platobnou kartou, Suma: 328,5 EUR 01.08.2023 Miesto: SELFSTORAGE,BA,TURBINO BRATISLAVA","VS: 205000214
 ŠS: 3300205438
 KS: 0608"
-54,2023-08-03,-328.5,EUR,,"Transakcia platobnou kartou, Suma: 328,5 EUR 01.08.2023 Miesto: SELFSTORAGE,BA,TURBINO BRATISLAVA","VS: 205000214
+56,2023-08-03,-328.5,EUR,,"Transakcia platobnou kartou, Suma: 328,5 EUR 01.08.2023 Miesto: SELFSTORAGE,BA,TURBINO BRATISLAVA","VS: 205000214
 ŠS: 3300205438
 KS: 0608"
-55,2023-08-03,-52.07,EUR,,"Transakcia platobnou kartou, Suma: 52,07 EUR 01.08.2023 Miesto: Google GSUITE_modri.sk Dublin","VS: 205000214
+57,2023-08-03,-52.07,EUR,,"Transakcia platobnou kartou, Suma: 52,07 EUR 01.08.2023 Miesto: Google GSUITE_modri.sk Dublin","VS: 205000214
 ŠS: 3300205438
 KS: 0608"
-56,2023-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
-ŠS: 3300205438
-KS: 6898"
-57,2023-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
-ŠS: 3300205438
-KS: 6898"
 58,2023-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
 ŠS: 3300205438
 KS: 6898"
-59,2023-08-03,-662.89,EUR,"NAPOLI GLASS RECYCLING, s.r.o.","Odoslaná platba elektronicky, NAPOLI GLASS RECYCLING - Ubytovanie kampan Presov",VS: 20230088
-60,2023-08-03,-11592,EUR,20230075,"Odoslaná platba elektronicky, f-production - Fotograficke prace",
-61,2023-08-03,-80,EUR,MESTO Kosice,"Odoslaná platba elektronicky, MESTO Kosice - Spravne poplatky",
-62,2023-08-03,-39298.92,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, IDEAMEDIA - Billboardy",VS: 33230002
-63,2023-08-03,50000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka pre Modr i, Most-Hid","VS: 0
-ŠS: 0"
-64,2023-08-02,-259,EUR,,"Transakcia platobnou kartou, Suma: 259 EUR 01.08.2023 Miesto: Microsoft*Store msbill.info","VS: 205000213
-ŠS: 3300205438
-KS: 0608"
-65,2023-08-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000213
+59,2023-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
 ŠS: 3300205438
 KS: 6898"
-66,2023-08-02,-400,EUR,MESTSKA CAST BRATISLAVA-STARE MESTO,"Odoslaná platba elektronicky, MESTSKA CAST BRATISLAVA-STARE MESTO - Uzivanie verejneho priestranstva",VS: 3792004623
-67,2023-08-01,0.1,EUR,,"Kartové transakcie - úhrada, Suma: ,1 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 206000212
+60,2023-08-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
+ŠS: 3300205438
+KS: 6898"
+61,2023-08-03,-662.89,EUR,"NAPOLI GLASS RECYCLING, s.r.o.","Odoslaná platba elektronicky, NAPOLI GLASS RECYCLING - Ubytovanie kampan Presov",VS: 20230088
+62,2023-08-03,-11592,EUR,20230075,"Odoslaná platba elektronicky, f-production - Fotograficke prace",
+63,2023-08-03,-80,EUR,MESTO Kosice,"Odoslaná platba elektronicky, MESTO Kosice - Spravne poplatky",
+64,2023-08-03,-39298.92,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, IDEAMEDIA - Billboardy",VS: 33230002
+65,2023-08-03,50000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka pre Modr i, Most-Hid","VS: 0
+ŠS: 0"
+66,2023-08-02,-259,EUR,,"Transakcia platobnou kartou, Suma: 259 EUR 01.08.2023 Miesto: Microsoft*Store msbill.info","VS: 205000213
+ŠS: 3300205438
+KS: 0608"
+67,2023-08-02,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000213
+ŠS: 3300205438
+KS: 6898"
+68,2023-08-02,-400,EUR,MESTSKA CAST BRATISLAVA-STARE MESTO,"Odoslaná platba elektronicky, MESTSKA CAST BRATISLAVA-STARE MESTO - Uzivanie verejneho priestranstva",VS: 3792004623
+69,2023-08-01,0.1,EUR,,"Kartové transakcie - úhrada, Suma: ,1 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 206000212
 ŠS: 3300205438
 KS: 1176"
-68,2023-08-01,-1530,EUR,DATAHOUSE a. s.,"Odoslaná platba elektronicky, DATAHOUSE a. s. - ubytovanie kampan",VS: 2023000292
-69,2023-08-01,-45.89,EUR,"Mgr. Martina Banasova, notar","Odoslaná platba elektronicky, Mgr. Martina Banasova - Notar",VS: 20230056
-70,2023-07-31,-14,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 14,00, Za transakcie: 0,00, 9 x prijaté platby: 0,00, 17 x debet - elektronicky: 0,00",
-71,2023-07-31,-6,EUR,,"Poplatok platobné karty, Miesto: DEBIT GOLD MC DEBETNA CL Suma: 6 EUR 28.07.2023","VS: 295000209
+70,2023-08-01,-1530,EUR,DATAHOUSE a. s.,"Odoslaná platba elektronicky, DATAHOUSE a. s. - ubytovanie kampan",VS: 2023000292
+71,2023-08-01,-45.89,EUR,"Mgr. Martina Banasova, notar","Odoslaná platba elektronicky, Mgr. Martina Banasova - Notar",VS: 20230056
+72,2023-07-31,-14,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 14,00, Za transakcie: 0,00, 9 x prijaté platby: 0,00, 17 x debet - elektronicky: 0,00",
+73,2023-07-31,-6,EUR,,"Poplatok platobné karty, Miesto: DEBIT GOLD MC DEBETNA CL Suma: 6 EUR 28.07.2023","VS: 295000209
 ŠS: 3300205438
 KS: 6898"
-72,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.07.2023","VS: 297000211
+74,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.07.2023","VS: 297000211
 ŠS: 3300205438
 KS: 6898"
-73,2023-07-31,-34,EUR,,"Transakcia platobnou kartou, Suma: 34 EUR 30.07.2023 Miesto: FACEBK N767ASKHG2 fb.me/ads","VS: 205000211
+75,2023-07-31,-34,EUR,,"Transakcia platobnou kartou, Suma: 34 EUR 30.07.2023 Miesto: FACEBK N767ASKHG2 fb.me/ads","VS: 205000211
 ŠS: 3300205438
 KS: 0608"
-74,2023-07-31,-150.8,EUR,,"Transakcia platobnou kartou, Suma: 150,8 EUR 28.07.2023 Miesto: ELEKTRO DATART BRATISLAVA","VS: 205000210
+76,2023-07-31,-150.8,EUR,,"Transakcia platobnou kartou, Suma: 150,8 EUR 28.07.2023 Miesto: ELEKTRO DATART BRATISLAVA","VS: 205000210
 ŠS: 3300205438
 KS: 0608"
-75,2023-07-31,-4.58,EUR,,"Transakcia platobnou kartou, Suma: 4,58 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 205000210
+77,2023-07-31,-4.58,EUR,,"Transakcia platobnou kartou, Suma: 4,58 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 205000210
 ŠS: 3300205438
 KS: 0608"
-76,2023-07-31,-0.1,EUR,,"Transakcia platobnou kartou, Suma: ,1 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 205000210
+78,2023-07-31,-0.1,EUR,,"Transakcia platobnou kartou, Suma: ,1 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 205000210
 ŠS: 3300205438
 KS: 0608"
-77,2023-07-31,-864,EUR,,"Transakcia platobnou kartou, Suma: 864 EUR 28.07.2023 Miesto: FACEBK *BX4E9S7HU2 fb.me/ads","VS: 205000210
+79,2023-07-31,-864,EUR,,"Transakcia platobnou kartou, Suma: 864 EUR 28.07.2023 Miesto: FACEBK *BX4E9S7HU2 fb.me/ads","VS: 205000210
 ŠS: 3300205438
 KS: 0608"
-78,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
-ŠS: 3300205438
-KS: 6898"
-79,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
-ŠS: 3300205438
-KS: 6898"
 80,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
 ŠS: 3300205438
 KS: 6898"
 81,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
 ŠS: 3300205438
 KS: 6898"
-82,2023-07-31,-15000,EUR,,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety (oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006
-83,2023-07-31,-686.4,EUR,Osst s.r.o.,"Odoslaná platba elektronicky, Osst s.r.o. - Pop-up prebal na prezentacne stoliky",VS: 2162023
-84,2023-07-31,-34526.8,EUR,"QEX, a.s.","Odoslaná platba elektronicky, QEX, a.s. prenajom OOH",VS: 238000025
-85,2023-07-31,50000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od EOSNEBOTRA","VS: 0
+82,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
+ŠS: 3300205438
+KS: 6898"
+83,2023-07-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
+ŠS: 3300205438
+KS: 6898"
+84,2023-07-31,-15000,EUR,,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety (oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006
+85,2023-07-31,-686.4,EUR,Osst s.r.o.,"Odoslaná platba elektronicky, Osst s.r.o. - Pop-up prebal na prezentacne stoliky",VS: 2162023
+86,2023-07-31,-34526.8,EUR,"QEX, a.s.","Odoslaná platba elektronicky, QEX, a.s. prenajom OOH",VS: 238000025
+87,2023-07-31,50000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od EOSNEBOTRA","VS: 0
 ŠS: 0"
-86,2023-07-26,-582,EUR,"RSC reklama, s.r.o. reklamna plachta na medialnu stenu","Odoslaná platba elektronicky, RSC reklama s.r",VS: 1020230501
-87,2023-07-26,-10195.2,EUR,,"Odoslaná platba elektronicky, JB MEDIA s.r.o. - Produkcne sluzby","VS: 20230064
+88,2023-07-26,-582,EUR,"RSC reklama, s.r.o. reklamna plachta na medialnu stenu","Odoslaná platba elektronicky, RSC reklama s.r",VS: 1020230501
+89,2023-07-26,-10195.2,EUR,,"Odoslaná platba elektronicky, JB MEDIA s.r.o. - Produkcne sluzby","VS: 20230064
 ŠS: 0308"
-88,2023-07-25,-748.8,EUR,"TOMINO, s.r.o.","Odoslaná platba elektronicky, TOMINO, s.r.o. - reklamny textil s potlacou",VS: 23010060
-89,2023-07-25,-1500,EUR,Green Olive s.r.o.,"Odoslaná platba elektronicky, Green Olive s.r.o. - sprava soc. sieti a monitoring medii",VS: 20230601
-90,2023-07-25,-35000,EUR,"QEX, a.s.","Odoslaná platba elektronicky, QEX, a.s. prenajom OOH",VS: 238000025
-91,2023-07-25,-18992.41,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, IDEAMEDIA s. r. o. - online kampan 06-2023",VS: 230190
-92,2023-07-24,-600,EUR,,"Transakcia platobnou kartou, Suma: 600 EUR 21.07.2023 Miesto: FACEBK *763T2S7HU2 fb.me/ads","VS: 205000203
+90,2023-07-25,-748.8,EUR,"TOMINO, s.r.o.","Odoslaná platba elektronicky, TOMINO, s.r.o. - reklamny textil s potlacou",VS: 23010060
+91,2023-07-25,-1500,EUR,Green Olive s.r.o.,"Odoslaná platba elektronicky, Green Olive s.r.o. - sprava soc. sieti a monitoring medii",VS: 20230601
+92,2023-07-25,-35000,EUR,"QEX, a.s.","Odoslaná platba elektronicky, QEX, a.s. prenajom OOH",VS: 238000025
+93,2023-07-25,-18992.41,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, IDEAMEDIA s. r. o. - online kampan 06-2023",VS: 230190
+94,2023-07-24,-600,EUR,,"Transakcia platobnou kartou, Suma: 600 EUR 21.07.2023 Miesto: FACEBK *763T2S7HU2 fb.me/ads","VS: 205000203
 ŠS: 3300205438
 KS: 0608"
-93,2023-07-24,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.07.2023","VS: 297000203
+95,2023-07-24,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.07.2023","VS: 297000203
 ŠS: 3300205438
 KS: 6898"
-94,2023-07-24,10000,EUR,COGITANS s.r.o.,"Prijatá platba, DAR - kampan",
-95,2023-07-21,-1358,EUR,i + i pront spol. s r.o.,"Odoslaná platba elektronicky, i + i print - tlac foldrov","VS: 2023070018
+96,2023-07-24,10000,EUR,COGITANS s.r.o.,"Prijatá platba, DAR - kampan",
+97,2023-07-21,-1358,EUR,i + i pront spol. s r.o.,"Odoslaná platba elektronicky, i + i print - tlac foldrov","VS: 2023070018
 KS: 0308"
-96,2023-07-20,-34.28,EUR,,"Transakcia platobnou kartou, Suma: 34,28 EUR 18.07.2023 Miesto: FACEBK *X6AZRTFHG2 fb.me/ads","VS: 205000201
+98,2023-07-20,-34.28,EUR,,"Transakcia platobnou kartou, Suma: 34,28 EUR 18.07.2023 Miesto: FACEBK *X6AZRTFHG2 fb.me/ads","VS: 205000201
 ŠS: 3300205438
 KS: 0608"
-97,2023-07-20,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.07.2023","VS: 297000201
+99,2023-07-20,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.07.2023","VS: 297000201
 ŠS: 3300205438
 KS: 6898"
-98,2023-07-20,-1140.72,EUR,"BARUX, s.r.o.","Odoslaná platba elektronicky, BARUX, s.r.o. uhrada FA za graficke sluzby",VS: 20230121
-99,2023-07-19,-2000,EUR,Mgr. Michal Bizon,"Odoslaná platba elektronicky, Mgr. Michal Bizon - kupa s.r.o. v zmysle zmluvy o prevode obchodneho podielu",
-100,2023-07-19,30000,EUR,COGITANS s.r.o.,"Prijatá platba, DAR - kampan",
-101,2023-07-18,5000,EUR,Tomas Staffa,"Prijatá platba, Tomas Staffa, dar na zaklade darovacej zmluvy",
-102,2023-07-17,-85.08,EUR,,"Transakcia platobnou kartou, Suma: 85,08 EUR 15.07.2023 Miesto: FACEBK *R9D5ARFHU2 fb.me/ads","VS: 205000196
+100,2023-07-20,-1140.72,EUR,"BARUX, s.r.o.","Odoslaná platba elektronicky, BARUX, s.r.o. uhrada FA za graficke sluzby",VS: 20230121
+101,2023-07-19,-2000,EUR,Mgr. Michal Bizon,"Odoslaná platba elektronicky, Mgr. Michal Bizon - kupa s.r.o. v zmysle zmluvy o prevode obchodneho podielu",
+102,2023-07-19,30000,EUR,COGITANS s.r.o.,"Prijatá platba, DAR - kampan",
+103,2023-07-18,5000,EUR,Tomas Staffa,"Prijatá platba, Tomas Staffa, dar na zaklade darovacej zmluvy",
+104,2023-07-17,-85.08,EUR,,"Transakcia platobnou kartou, Suma: 85,08 EUR 15.07.2023 Miesto: FACEBK *R9D5ARFHU2 fb.me/ads","VS: 205000196
 ŠS: 3300205438
 KS: 0608"
-103,2023-07-17,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.07.2023","VS: 297000196
+105,2023-07-17,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.07.2023","VS: 297000196
 ŠS: 3300205438
 KS: 6898"
-104,2023-07-17,10000,EUR,Filip Jamriska,"Prijatá platba, Dar",
-105,2023-07-14,-420,EUR,,"Transakcia platobnou kartou, Suma: 420 EUR 13.07.2023 Miesto: FACEBK *235KSRTGU2 fb.me/ads","VS: 205000194
+106,2023-07-17,10000,EUR,Filip Jamriska,"Prijatá platba, Dar",
+107,2023-07-14,-420,EUR,,"Transakcia platobnou kartou, Suma: 420 EUR 13.07.2023 Miesto: FACEBK *235KSRTGU2 fb.me/ads","VS: 205000194
 ŠS: 3300205438
 KS: 0608"
-106,2023-07-14,-34,EUR,,"Transakcia platobnou kartou, Suma: 34 EUR 12.07.2023 Miesto: FACEBK V2R6SRTHG2 fb.me/ads","VS: 205000194
+108,2023-07-14,-34,EUR,,"Transakcia platobnou kartou, Suma: 34 EUR 12.07.2023 Miesto: FACEBK V2R6SRTHG2 fb.me/ads","VS: 205000194
 ŠS: 3300205438
 KS: 0608"
-107,2023-07-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.07.2023","VS: 297000194
+109,2023-07-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.07.2023","VS: 297000194
 ŠS: 3300205438
 KS: 6898"
-108,2023-07-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.07.2023","VS: 297000194
+110,2023-07-14,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.07.2023","VS: 297000194
 ŠS: 3300205438
 KS: 6898"
-109,2023-07-14,20000,EUR,Gabriel Steiner ml.,"Prijatá platba, dar",
-110,2023-07-11,-4608.82,EUR,"ELSAM, s.r.o.","Odoslaná platba elektronicky, ELSAM, s.r.o. osvetlenie miestnosti pre tlacove konferencie, elektroinstalacne prace",VS: 0742023
-111,2023-07-11,-3720,EUR,"4.0, s.r.o.","Odoslaná platba elektronicky, 4.0, s.r.o. tvorba ofine - OOH kampane",VS: 3230036
-112,2023-07-11,10000,EUR,"OTTO BACH, s. r. o.","Prijatá platba, ",VS: 20230705
-113,2023-07-10,-270,EUR,,"Transakcia platobnou kartou, Suma: 270 EUR 08.07.2023 Miesto: FACEBK *6KYEPRPGU2 fb.me/ads","VS: 205000189
+111,2023-07-14,20000,EUR,Gabriel Steiner ml.,"Prijatá platba, dar",
+112,2023-07-11,-4608.82,EUR,"ELSAM, s.r.o.","Odoslaná platba elektronicky, ELSAM, s.r.o. osvetlenie miestnosti pre tlacove konferencie, elektroinstalacne prace",VS: 0742023
+113,2023-07-11,-3720,EUR,"4.0, s.r.o.","Odoslaná platba elektronicky, 4.0, s.r.o. tvorba ofine - OOH kampane",VS: 3230036
+114,2023-07-11,10000,EUR,"OTTO BACH, s. r. o.","Prijatá platba, ",VS: 20230705
+115,2023-07-10,-270,EUR,,"Transakcia platobnou kartou, Suma: 270 EUR 08.07.2023 Miesto: FACEBK *6KYEPRPGU2 fb.me/ads","VS: 205000189
 ŠS: 3300205438
 KS: 0608"
-114,2023-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2023","VS: 297000189
+116,2023-07-10,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2023","VS: 297000189
 ŠS: 3300205438
 KS: 6898"
-115,2023-07-10,-5064,EUR,,"Odoslaná platba elektronicky, 4.0, s.r.o. tvorba video reklamnej kampane",VS: 3230035
-116,2023-07-10,-28800,EUR,,"Odoslaná platba elektronicky, QEX, a.s. prenajom big boardov",VS: 238000023
-117,2023-07-10,-106984.58,EUR,,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety (oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800004
-118,2023-07-10,100000,EUR,Patrik Ando,"Prijatá platba, Pozicka",
-119,2023-07-07,-270,EUR,,"Transakcia platobnou kartou, Suma: 270 EUR 05.07.2023 Miesto: FACEBK *97MZMQKHU2 fb.me/ads","VS: 205000187
+117,2023-07-10,-5064,EUR,,"Odoslaná platba elektronicky, 4.0, s.r.o. tvorba video reklamnej kampane",VS: 3230035
+118,2023-07-10,-28800,EUR,,"Odoslaná platba elektronicky, QEX, a.s. prenajom big boardov",VS: 238000023
+119,2023-07-10,-106984.58,EUR,,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety (oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800004
+120,2023-07-10,100000,EUR,Patrik Ando,"Prijatá platba, Pozicka",
+121,2023-07-07,-270,EUR,,"Transakcia platobnou kartou, Suma: 270 EUR 05.07.2023 Miesto: FACEBK *97MZMQKHU2 fb.me/ads","VS: 205000187
 ŠS: 3300205438
 KS: 0608"
-120,2023-07-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.07.2023","VS: 297000187
+122,2023-07-07,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.07.2023","VS: 297000187
 ŠS: 3300205438
 KS: 6898"
-121,2023-07-06,30000,EUR,"HUGO BACH, s. r. o.","Prijatá platba, ",VS: 20230704
-122,2023-07-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.07.2023","VS: 297000183
+123,2023-07-06,30000,EUR,"HUGO BACH, s. r. o.","Prijatá platba, ",VS: 20230704
+124,2023-07-03,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.07.2023","VS: 297000183
 ŠS: 3300205438
 KS: 6898"
-123,2023-07-03,-270,EUR,,"Transakcia platobnou kartou, Suma: 270 EUR 01.07.2023 Miesto: FACEBK *ZL7ZER7HU2 fb.me/ads","VS: 205000183
+125,2023-07-03,-270,EUR,,"Transakcia platobnou kartou, Suma: 270 EUR 01.07.2023 Miesto: FACEBK *ZL7ZER7HU2 fb.me/ads","VS: 205000183
 ŠS: 3300205438
 KS: 0608"
-124,2023-06-30,-306,EUR,"MAGISTER-Presov, spol. s r..o.","Odoslaná platba elektronicky, MAGISTER-Presov, spol. s r.o. - Obcerstvenie PKO Presov","VS: 10230224
+126,2023-06-30,-306,EUR,"MAGISTER-Presov, spol. s r..o.","Odoslaná platba elektronicky, MAGISTER-Presov, spol. s r.o. - Obcerstvenie PKO Presov","VS: 10230224
 KS: 0008"
-125,2023-06-29,-17000,EUR,,"Odoslaná platba elektronicky, Modri, Most - Hid uhrada kaucie volby NRSR 2023",VS: 55393543
-126,2023-06-29,-50,EUR,,"Poplatok platobné karty, Miesto: EXPRESNE VYDANIE KARTY Suma: 50 EUR 25.06.2023","VS: 298000179
+127,2023-06-29,-17000,EUR,,"Odoslaná platba elektronicky, Modri, Most - Hid uhrada kaucie volby NRSR 2023",VS: 55393543
+128,2023-06-29,-50,EUR,,"Poplatok platobné karty, Miesto: EXPRESNE VYDANIE KARTY Suma: 50 EUR 25.06.2023","VS: 298000179
 ŠS: 3300205438
 KS: 6898"
-127,2023-06-29,-671.04,EUR,"TALLUS, spol. s r.o.","Odoslaná platba elektronicky, TALLUS, spol. s r.o. Graficke spracovanie a tlac propagacnych materialov",VS: 2592023
-128,2023-06-29,-103.91,EUR,"TALLUS, spol. s r.o.","Odoslaná platba elektronicky, TALLUS, spol. s r.o. Graficke spracovanie a tlac propagacnych materialov",VS: 2602023
-129,2023-06-29,20000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od ESONEBOTRA","VS: 0
+129,2023-06-29,-671.04,EUR,"TALLUS, spol. s r.o.","Odoslaná platba elektronicky, TALLUS, spol. s r.o. Graficke spracovanie a tlac propagacnych materialov",VS: 2592023
+130,2023-06-29,-103.91,EUR,"TALLUS, spol. s r.o.","Odoslaná platba elektronicky, TALLUS, spol. s r.o. Graficke spracovanie a tlac propagacnych materialov",VS: 2602023
+131,2023-06-29,20000,EUR,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od ESONEBOTRA","VS: 0
 ŠS: 0
 KS: 0968"
-130,2023-06-28,-760.25,EUR,Park kultury a oddychu - Presov,"Odoslaná platba elektronicky, UFA 1582023",VS: 1582023
-131,2023-06-27,-94557.84,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, UPF 33230001",VS: 33230001
-132,2023-06-26,-92702.4,EUR,"QEX, a.s.","Odoslaná platba elektronicky, ","VS: 238000021
+132,2023-06-28,-760.25,EUR,Park kultury a oddychu - Presov,"Odoslaná platba elektronicky, UFA 1582023",VS: 1582023
+133,2023-06-27,-94557.84,EUR,IDEAMEDIA s. r. o.,"Odoslaná platba elektronicky, UPF 33230001",VS: 33230001
+134,2023-06-26,-92702.4,EUR,"QEX, a.s.","Odoslaná platba elektronicky, ","VS: 238000021
 KS: 0308"
-133,2023-06-26,100000,EUR,Patrik Ando,"Prijatá platba, Pozicka",
-134,2023-06-26,50000,EUR,Patrik Ando,"Prijatá platba, Dar",
-135,2023-06-22,15000,EUR,Michal Hort,"Prijatá platba, Michal Hort, dar",
-136,2023-06-21,35000,EUR,Michal Hort,"Prijatá platba, Michal Hort dar",
-137,2023-06-12,200,EUR,Michal Hort,"Prijatá platba, Michal Hort",
+135,2023-06-26,100000,EUR,Patrik Ando,"Prijatá platba, Pozicka",
+136,2023-06-26,50000,EUR,Patrik Ando,"Prijatá platba, Dar",
+137,2023-06-22,15000,EUR,Michal Hort,"Prijatá platba, Michal Hort, dar",
+138,2023-06-21,35000,EUR,Michal Hort,"Prijatá platba, Michal Hort dar",
+139,2023-06-12,200,EUR,Michal Hort,"Prijatá platba, Michal Hort",

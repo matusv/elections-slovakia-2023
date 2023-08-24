@@ -1,10 +1,40 @@
 index,date,amount,currency,account_name,message,vs
 0,2023-08-22,150.0,EUR,"Guráň Milan, Ing.",Platba,19/VS019/SS5806067245/KS
 1,2023-08-22,300.0,EUR,Lucia Francescato,Platba/PS dar lucia francescescato 62,263609/VS263609/SS/KS308
-2,2023-08-22,500.0,EUR,Lubos Dubek,"Platba/Dar, Lubos Dubek",117/VS117/SS/KS
-3,2023-08-22,-8.4,EUR,Mesto Bardejov,Platba/dan uzivanie priestranstva Bardejov,2926300044/VS2926300044/SS/KS
-4,2023-08-22,-68.0,EUR,House of Art s.r.o.,"Platba/house of art, prenajom vybavenia nitra 16.8.",122023/VS122023/SS/KS
-5,2023-08-21,1000.0,EUR,Jan Hargas,Platba/Dar - Jan Hargas,"
+2,2023-08-22,500.0,EUR,"
+                            Lubos Dubek
+                    ","
+                        Platba
+                    /
+                        Dar, Lubos Dubek
+                    ","
+                        117/VS117/SS/KS
+                    "
+3,2023-08-22,-8.4,EUR,"
+                            Mesto Bardejov
+                    ","
+                        Platba
+                    /
+                        dan uzivanie priestranstva Bardejov
+                    ","
+                        2926300044/VS2926300044/SS/KS
+                    "
+4,2023-08-22,-68.0,EUR,"
+                            House of Art s.r.o.
+                    ","
+                        Platba
+                    /
+                        house of art, prenajom vybavenia nitra 16.8.
+                    ","
+                        122023/VS122023/SS/KS
+                    "
+5,2023-08-21,1000.0,EUR,"
+                            Jan Hargas
+                    ","
+                        Platba
+                    /
+                        Dar - Jan Hargas
+                    ","
                         31/VS31/SS/KS
                     "
 6,2023-08-21,250.0,EUR,"
@@ -79,108 +109,20 @@ index,date,amount,currency,account_name,message,vs
                     ","
                         
                     "
-14,2023-08-22,-800.0,EUR,,EUR NÁKUP POS FACEBK *A6WHUQ3N52 / fb.me/ads / (POS 99999999),
-15,2023-08-19,150.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
-16,2023-08-22,-800.0,EUR,,EUR NÁKUP POS FACEBK 2L2W7TKUJ2 / fb.me/ads / (POS 99999999),
-17,2023-08-19,20.0,EUR,"
-                            Papuga Ján
-                    ","
-                        Platba
-                    /
-                        PS dar Jan Papuga
-                    ","
-                        264276/VS264276/SS/KS308
-                    "
-18,2023-08-18,20.0,EUR,"
-                            Milos Paciga
-                    ","
-                        Platba
-                    /
-                        PS dar Milos Paciga
-                    ","
-                        116/VS116/SS/KS0308
-                    "
-19,2023-08-18,20.0,EUR,"
-                            Milos Paciga
-                    ","
-                        Platba
-                    /
-                        PS dar Milos Paciga
-                    ","
-                        134/VS134/SS/KS0308
-                    "
-20,2023-08-21,-1000.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-21,2023-08-18,50.0,EUR,"
-                            EVA DUBOVSKA
-                    ","
-                        DE23081866028 MBANKO6210670122
-                    /
-                        DAKUJEM A DRZIM PALCE
-                    ","
-                        
-                    "
-22,2023-08-21,-800.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK HXTB8RF9D2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-23,2023-08-18,-7978.8,EUR,"
-                            Pandan, s. r. o.
-                    ","
-                        Platba
-                    /
-                        Pandan, kandidatske letaky  a tricka
-                    ","
-                        202308037/VS202308037/SS/KS
-                    "
-24,2023-08-18,10.0,EUR,"
-                            Konkol Karol
-                    ","
-                        PLATBA
-                    /
-                        PS dar Karol Konkol
-                    ","
-                        264267/VS264267/SS/KS0308
-                    "
-25,2023-08-18,100.0,EUR,"
-                            STREDL TOMAS
-                    ","
-                        PLATBA
-                    /
-                        PS dar Tomas Stredl 069
-                    ","
-                        69/VS069/SS/KS
-                    "
-26,2023-08-21,-8.0,EUR,"
-                            
-                    ","
-                        POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978)
-                    /
-                        
-                    ","
-                        
-                    "
-27,2023-08-21,-13.45,EUR,"
-                            
-                    ","
-                        POS nákup 345 Pezinok / Pezinok / (POS TN129703)
-                    /
-                        
-                    ","
-                        
-                    "
+14,2023-08-21,100.0,EUR,MATLON MICHAL,PLATBA,256508/VS256508/SS/KS
+15,2023-08-21,50.0,EUR,Jaroslava Perlakiová,PLATBA/dar pre Ondreja Prostrednika,19/VS19/SS/KS298
+16,2023-08-21,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+17,2023-08-21,-800.0,EUR,,EUR NÁKUP POS FACEBK HXTB8RF9D2 / fb.me/ads / (POS 99999999),
+18,2023-08-21,-8.0,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+19,2023-08-21,-13.45,EUR,,POS nákup 345 Pezinok / Pezinok / (POS TN129703),
+20,2023-08-21,-132.52,EUR,,POS nákup OMV 2371 / Bratislava / (POS OSK1135B),
+21,2023-08-21,-800.0,EUR,,EUR NÁKUP POS FACEBK B3VK6TFUJ2 / fb.me/ads / (POS 99999999),
+22,2023-08-21,-8.82,EUR,,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),
+23,2023-08-19,150.0,EUR,VESLÁROVÁ VERONIKA,Platba/dar Veronika Veslarova,
+24,2023-08-19,20.0,EUR,Papuga Ján,Platba/PS dar Jan Papuga,264276/VS264276/SS/KS308
+25,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,116/VS116/SS/KS0308
+26,2023-08-18,20.0,EUR,Milos Paciga,Platba/PS dar Milos Paciga,134/VS134/SS/KS0308
+27,2023-08-18,50.0,EUR,EVA DUBOVSKA,DE23081866028 MBANKO6210670122/DAKUJEM A DRZIM PALCE,
 28,2023-08-18,-7978.8,EUR,"Pandan, s. r. o.","Platba/Pandan, kandidatske letaky a tricka",202308037/VS202308037/SS/KS
 29,2023-08-18,10.0,EUR,Konkol Karol,PLATBA/PS dar Karol Konkol,264267/VS264267/SS/KS0308
 30,2023-08-18,100.0,EUR,STREDL TOMAS,PLATBA/PS dar Tomas Stredl 069,69/VS069/SS/KS
