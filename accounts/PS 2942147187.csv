@@ -4,9 +4,7 @@ index,date,amount,currency,account_name,message,vs
 2,2023-08-25,50.0,EUR,BENOVICOVA EVA,PLATBA/eva benovicova - dar pre ondreja prostrednika,19/VS019/SS/KS
 3,2023-08-25,300.0,EUR,"KYBEKO, V.O.S.",PLATBA/dar pre Ondreja Prostrednika,19/VS019/SS/KS
 4,2023-08-25,50.0,EUR,Dusan Ondrusek,Platba/dar pre Ondreja Prostrednika,VS/SS19/KS
-5,2023-08-25,50.0,EUR,"
-                            Rastislav Kocan
-                    ","
+5,2023-08-25,50.0,EUR,Rastislav Kocan,"
                         Platba
                     /
                         dar pre Ondreja Prostrednika
@@ -90,9 +88,25 @@ index,date,amount,currency,account_name,message,vs
 16,2023-08-23,-210.0,EUR,"Petit Press, a.s.","Platba/Petit press, MY Nitra 28.8., Forro",2333101566/VS2333101566/SS/KS
 17,2023-08-23,-79.2,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 26.7.",20230151/VS20230151/SS/KS308
 18,2023-08-23,-92.4,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 22.7.",20230150/VS20230150/SS/KS308
-19,2023-08-23,-120.0,EUR,"LS GASTRO, s.r.o.","Platba/LS GASTRO, prenajom priestoru dlhe diely",20230004/VS20230004/SS/KS
-20,2023-08-23,-16748.4,EUR,"Unimedia spol. ,s.r.","Platba/Unimedia, zaloha za outdoor august-september (Truban, Bihariova, Petrik, Prostrednik)",720230051/VS720230051/SS/KS
-21,2023-08-23,-80.0,EUR,KOSICE MESTO,"
+19,2023-08-23,-120.0,EUR,"LS GASTRO, s.r.o.","
+                        Platba
+                    /
+                        LS GASTRO, prenajom priestoru dlhe diely
+                    ","
+                        20230004/VS20230004/SS/KS
+                    "
+20,2023-08-23,-16748.4,EUR,"
+                            Unimedia spol. ,s.r.
+                    ","
+                        Platba
+                    /
+                        Unimedia, zaloha za outdoor august-september (Truban, Bihariova, Petrik, Prostrednik)
+                    ","
+                        720230051/VS720230051/SS/KS
+                    "
+21,2023-08-23,-80.0,EUR,"
+                            KOSICE MESTO
+                    ","
                         Platba
                     /
                         spravny poplatok kosice
