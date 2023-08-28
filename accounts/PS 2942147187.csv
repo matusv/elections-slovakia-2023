@@ -3,13 +3,7 @@ index,date,amount,currency,account_name,message,vs
 1,2023-08-25,-2000.0,EUR,Natália Heribanová,"Platba/heriban, marketingove a komunikacne sluzby august",52023/VS52023/SS/KS
 2,2023-08-25,50.0,EUR,BENOVICOVA EVA,PLATBA/eva benovicova - dar pre ondreja prostrednika,19/VS019/SS/KS
 3,2023-08-25,300.0,EUR,"KYBEKO, V.O.S.",PLATBA/dar pre Ondreja Prostrednika,19/VS019/SS/KS
-4,2023-08-25,50.0,EUR,Dusan Ondrusek,"
-                        Platba
-                    /
-                        dar pre Ondreja Prostrednika
-                    ","
-                        VS/SS19/KS
-                    "
+4,2023-08-25,50.0,EUR,Dusan Ondrusek,Platba/dar pre Ondreja Prostrednika,VS/SS19/KS
 5,2023-08-25,50.0,EUR,"
                             Rastislav Kocan
                     ","
@@ -98,8 +92,16 @@ index,date,amount,currency,account_name,message,vs
 18,2023-08-23,-92.4,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 22.7.",20230150/VS20230150/SS/KS308
 19,2023-08-23,-120.0,EUR,"LS GASTRO, s.r.o.","Platba/LS GASTRO, prenajom priestoru dlhe diely",20230004/VS20230004/SS/KS
 20,2023-08-23,-16748.4,EUR,"Unimedia spol. ,s.r.","Platba/Unimedia, zaloha za outdoor august-september (Truban, Bihariova, Petrik, Prostrednik)",720230051/VS720230051/SS/KS
-21,2023-08-23,-80.0,EUR,KOSICE MESTO,Platba/spravny poplatok kosice,3451230349/VS3451230349/SS/KS
-22,2023-08-23,50.0,EUR,DEÁKOVÁ KATARÍNA,"
+21,2023-08-23,-80.0,EUR,KOSICE MESTO,"
+                        Platba
+                    /
+                        spravny poplatok kosice
+                    ","
+                        3451230349/VS3451230349/SS/KS
+                    "
+22,2023-08-23,50.0,EUR,"
+                            DEÁKOVÁ KATARÍNA
+                    ","
                         Platba
                     /
                         KATKA DEAKOVA DAR PRE ONDREJA PROSTREDNIKA
