@@ -4,169 +4,29 @@ index,date,amount,currency,account_name,message,vs
 2,2023-08-25,50.0,EUR,BENOVICOVA EVA,PLATBA/eva benovicova - dar pre ondreja prostrednika,19/VS019/SS/KS
 3,2023-08-25,300.0,EUR,"KYBEKO, V.O.S.",PLATBA/dar pre Ondreja Prostrednika,19/VS019/SS/KS
 4,2023-08-25,50.0,EUR,Dusan Ondrusek,Platba/dar pre Ondreja Prostrednika,VS/SS19/KS
-5,2023-08-25,50.0,EUR,Rastislav Kocan,"
-                        Platba
-                    /
-                        dar pre Ondreja Prostrednika
-                    ","
-                        19/VS19/SS/KS
-                    "
-6,2023-08-24,-660.0,EUR,"
-                            Fabšičová Milena
-                    ","
-                        Platba
-                    /
-                        Fabsicova, tlmocenie do SPJ
-                    ","
-                        322023/VS0322023/SS/KS
-                    "
-7,2023-08-24,-300.0,EUR,"
-                            Adam Pasztor
-                    ","
-                        Platba
-                    /
-                        A. Pasztor, vyroba video Hanuliakova
-                    ","
-                        2023026/VS2023026/SS/KS
-                    "
-8,2023-08-24,-15552.0,EUR,"
-                            GROOW DIGITAL, s. r.
-                    ","
-                        Platba
-                    /
-                        GROOW, nakup medialneho prietoru sme 09/23
-                    ","
-                        2023122/VS2023122/SS/KS
-                    "
-9,2023-08-24,300.0,EUR,"
-                            Mgr.Tina Gazovicova
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        24/VS024/SS/KS
-                    "
-10,2023-08-24,100.0,EUR,"
-                            Sabo Michal
-                    ","
-                        PLATBA
-                    /
-                        Sabo Michal
-                    ","
-                        17/VS017/SS/KS
-                    "
-11,2023-08-24,172.0,EUR,"
-                            Gorcovská Ingrida
-                    ","
-                        Platba
-                    /
-                        Dar Ingrida Gorcovska
-                    ","
-                        76/VS076/SS/KS
-                    "
-12,2023-08-25,-800.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK KDB6HS39D2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-13,2023-08-25,-101.92,EUR,"
-                            
-                    ","
-                        POS nákup OMV 2410 / Tekovske Nem / (POS OSK1173B)
-                    /
-                        
-                    ","
-                        
-                    "
-14,2023-08-23,-1347.82,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, energie kancelaria jul",23420/VS23420/SS/KS
-15,2023-08-23,-14.0,EUR,Mesto Poprad,"Platba/Poprad, poplatok za verejne priestranstvo 2-5.8.",2020407916/VS2020407916/SS2303029699/KS558
-16,2023-08-23,-210.0,EUR,"Petit Press, a.s.","Platba/Petit press, MY Nitra 28.8., Forro",2333101566/VS2333101566/SS/KS
-17,2023-08-23,-79.2,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 26.7.",20230151/VS20230151/SS/KS308
-18,2023-08-23,-92.4,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 22.7.",20230150/VS20230150/SS/KS308
-19,2023-08-23,-120.0,EUR,"LS GASTRO, s.r.o.","
-                        Platba
-                    /
-                        LS GASTRO, prenajom priestoru dlhe diely
-                    ","
-                        20230004/VS20230004/SS/KS
-                    "
-20,2023-08-23,-16748.4,EUR,"
-                            Unimedia spol. ,s.r.
-                    ","
-                        Platba
-                    /
-                        Unimedia, zaloha za outdoor august-september (Truban, Bihariova, Petrik, Prostrednik)
-                    ","
-                        720230051/VS720230051/SS/KS
-                    "
-21,2023-08-23,-80.0,EUR,"
-                            KOSICE MESTO
-                    ","
-                        Platba
-                    /
-                        spravny poplatok kosice
-                    ","
-                        3451230349/VS3451230349/SS/KS
-                    "
-22,2023-08-23,50.0,EUR,"
-                            DEÁKOVÁ KATARÍNA
-                    ","
-                        Platba
-                    /
-                        KATKA DEAKOVA DAR PRE ONDREJA PROSTREDNIKA
-                    ","
-                        19/VS019/SS/KS
-                    "
-23,2023-08-23,50.0,EUR,"
-                            DEÁKOVÁ KATARÍNA
-                    ","
-                        Platba
-                    /
-                        KATKA DEAKOVA DAR PRE MIRA KOCURA
-                    ","
-                        49/VS049/SS/KS
-                    "
-24,2023-08-25,-800.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK *R2YFWRBN52 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-25,2023-08-25,-800.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK 33YGSTBUJ2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-26,2023-08-22,150.0,EUR,"
-                            Guráň Milan, Ing.
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        19/VS019/SS5806067245/KS
-                    "
-27,2023-08-24,-654.36,EUR,"
-                            
-                    ","
-                        POS nákup IKEA BRAT OD ECO / Bratislava / (POS 00489226)
-                    /
-                        
-                    ","
-                        
-                    "
+5,2023-08-25,50.0,EUR,Rastislav Kocan,Platba/dar pre Ondreja Prostrednika,19/VS19/SS/KS
+6,2023-08-24,-660.0,EUR,Fabšičová Milena,"Platba/Fabsicova, tlmocenie do SPJ",322023/VS0322023/SS/KS
+7,2023-08-24,-300.0,EUR,Adam Pasztor,"Platba/A. Pasztor, vyroba video Hanuliakova",2023026/VS2023026/SS/KS
+8,2023-08-24,-15552.0,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, nakup medialneho prietoru sme 09/23",2023122/VS2023122/SS/KS
+9,2023-08-24,300.0,EUR,Mgr.Tina Gazovicova,PLATBA,24/VS024/SS/KS
+10,2023-08-24,100.0,EUR,Sabo Michal,PLATBA/Sabo Michal,17/VS017/SS/KS
+11,2023-08-24,172.0,EUR,Gorcovská Ingrida,Platba/Dar Ingrida Gorcovska,76/VS076/SS/KS
+12,2023-08-25,-800.0,EUR,,EUR NÁKUP POS FACEBK KDB6HS39D2 / fb.me/ads / (POS 99999999),
+13,2023-08-25,-101.92,EUR,,POS nákup OMV 2410 / Tekovske Nem / (POS OSK1173B),
+14,2023-08-24,100.0,EUR,Sabo Michal,PLATBA/Sabo Michal,17/VS017/SS/KS
+15,2023-08-24,172.0,EUR,Gorcovská Ingrida,Platba/Dar Ingrida Gorcovska,76/VS076/SS/KS
+16,2023-08-24,-654.36,EUR,,POS nákup IKEA BRAT OD ECO / Bratislava / (POS 00489226),
+17,2023-08-24,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+18,2023-08-24,-800.0,EUR,,EUR NÁKUP POS FACEBK FAZZAS79D2 / fb.me/ads / (POS 99999999),
+19,2023-08-24,-800.0,EUR,,EUR NÁKUP POS FACEBK *8FRBKRFM52 / fb.me/ads / (POS 99999999),
+20,2023-08-24,-800.0,EUR,,EUR NÁKUP POS FACEBK D5QTPT3UJ2 / fb.me/ads / (POS 99999999),
+21,2023-08-23,-1347.82,EUR,"LIONS & PARTNERS, a.s.","Platba/Lions&partners, energie kancelaria jul",23420/VS23420/SS/KS
+22,2023-08-23,-14.0,EUR,Mesto Poprad,"Platba/Poprad, poplatok za verejne priestranstvo 2-5.8.",2020407916/VS2020407916/SS2303029699/KS558
+23,2023-08-23,-210.0,EUR,"Petit Press, a.s.","Platba/Petit press, MY Nitra 28.8., Forro",2333101566/VS2333101566/SS/KS
+24,2023-08-23,-79.2,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 26.7.",20230151/VS20230151/SS/KS308
+25,2023-08-23,-92.4,EUR,"ARES SECURITY, s.r.o","Platba/Ares, strazne sluzby 22.7.",20230150/VS20230150/SS/KS308
+26,2023-08-23,-120.0,EUR,"LS GASTRO, s.r.o.","Platba/LS GASTRO, prenajom priestoru dlhe diely",20230004/VS20230004/SS/KS
+27,2023-08-23,-16748.4,EUR,"Unimedia spol. ,s.r.","Platba/Unimedia, zaloha za outdoor august-september (Truban, Bihariova, Petrik, Prostrednik)",720230051/VS720230051/SS/KS
 28,2023-08-23,-80.0,EUR,KOSICE MESTO,Platba/spravny poplatok kosice,3451230349/VS3451230349/SS/KS
 29,2023-08-23,50.0,EUR,DEÁKOVÁ KATARÍNA,Platba/KATKA DEAKOVA DAR PRE ONDREJA PROSTREDNIKA,19/VS019/SS/KS
 30,2023-08-23,50.0,EUR,DEÁKOVÁ KATARÍNA,Platba/KATKA DEAKOVA DAR PRE MIRA KOCURA,49/VS049/SS/KS

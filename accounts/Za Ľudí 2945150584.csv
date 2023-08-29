@@ -36,8 +36,16 @@ index,date,amount,currency,account_name,message,vs
 34,2023-07-31,-3000.0,EUR,,Výber z bankomatu TB Bela / Trencin / (ATM TBIP174D),
 35,2023-07-28,-870.0,EUR,"UNIPOSTER, s.r.o.",Platba/Bilboardy zaloha fa c. 23VZ/007,23007/VS23007/SS/KS
 36,2023-07-28,-3500.0,EUR,Mushla s. r. o.,"Platba/Reklamne, marketingove sluzby 06 2023",20230008/VS20230008/SS/KS308
-37,2023-07-27,-5280.0,EUR,MM PLUS s.r.o.,Platba/prenajom auta MM PLUS s.r.o.: 2023145 - ZA LUDI - 2023/07,2023145/VS2023145/SS/KS
-38,2023-07-26,-243.76,EUR,RASID GARIPOV,"
+37,2023-07-27,-5280.0,EUR,MM PLUS s.r.o.,"
+                        Platba
+                    /
+                        prenajom auta MM PLUS s.r.o.: 2023145 - ZA LUDI - 2023/07
+                    ","
+                        2023145/VS2023145/SS/KS
+                    "
+38,2023-07-26,-243.76,EUR,"
+                            RASID GARIPOV
+                    ","
                         PLATBA VA23072605955
                     /
                         stativ, adapter na stativ
