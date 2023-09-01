@@ -1,2 +1,3 @@
 index,date,amount,currency,account_name,message,vs
-0,2023-08-17,1000.0,EUR,Tomas Rybarik,PLATBA,
+0,2023-08-31,-0.0,EUR,,Poplatok za balík,
+1,2023-08-17,1000.0,EUR,Tomas Rybarik,PLATBA,
