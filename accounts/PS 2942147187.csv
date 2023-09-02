@@ -5,8 +5,24 @@ index,date,amount,currency,account_name,message,vs
 3,2023-08-31,-3500.4,EUR,JANA GOGH S. R. O.,"Platba/Gogh, reklamne a marketingove sluzby",20230026/VS20230026/SS/KS
 4,2023-08-31,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacie august",20230018/VS20230018/SS/KS
 5,2023-08-31,-120.0,EUR,Igor Lebloch,"Platba/lebloch, technicke zabezpecenie diskusia 28.8.",20230027/VS20230027/SS/KS
-6,2023-08-31,-500.0,EUR,PETER BARNAS,"Platba/Barnas, marketingove online sluzby august",20230016/VS20230016/SS/KS
-7,2023-08-31,100.0,EUR,Lőwy Peter,Platba/PS dar Peter Lowy,78345/VS78345/SS/KS308
+6,2023-08-31,-500.0,EUR,"
+                            PETER BARNAS
+                    ","
+                        Platba
+                    /
+                        Barnas, marketingove online sluzby august
+                    ","
+                        20230016/VS20230016/SS/KS
+                    "
+7,2023-08-31,100.0,EUR,"
+                            Lőwy Peter
+                    ","
+                        Platba
+                    /
+                        PS dar Peter Lowy
+                    ","
+                        78345/VS78345/SS/KS308
+                    "
 8,2023-08-31,-50.0,EUR,"
                             MESTO BANSKÁ ŠTIAVNICA
                     ","
@@ -62,19 +78,123 @@ index,date,amount,currency,account_name,message,vs
                         57884/VS57884/SS/KS308
                     "
 14,2023-08-31,-1500.0,EUR,"Pavol Krajci Consulting, s.r.o.","Platba/Krajci, organizacne zabezpecenie vyjazdu 21.28.8",2023083101/VS2023083101/SS/KS
-15,2023-08-31,-2500.0,EUR,Matúš Mikšík,"Platba/Miksik, marketingove sluzby august",20230007/VS20230007/SS/KS
-16,2023-08-31,-145.0,EUR,"DOM TECHNIKY ZSVTS KE, S.R.O.","Platba/Hotel Centrum, ubytovanie Kosice Dvorak",2023000286/VS2023000286/SS013/KS
-17,2023-08-31,-1500.0,EUR,Nina Kelemenova,"Platba/Kelemenova, marketingove a admin sluzby august",20230002/VS20230002/SS/KS308
-18,2023-08-31,-2000.0,EUR,Zuzana Suchova,"Platba/suchova, konzultacie fundraising",20230022/VS20230022/SS/KS
-19,2023-08-31,-200.0,EUR,Coffe Passion s.r.o.,"Platba/Coffee passion, prenajom priestorov lucenec",23001/VS23001/SS/KS
-20,2023-08-31,-80.0,EUR,"March 13th, s.r.o.","Platba/Marec, moderovanie diskusie v poprade",262023/VS262023/SS/KS
-21,2023-08-31,-250.0,EUR,SAMTREID,"Platba/hotel hviezdoslav, kezmarok prenajom priestorov 23.8.",102132023/VS102132023/SS/KS
-22,2023-08-31,50.0,EUR,Marek Palgut,Platba/PS dar Marek Palgut,266757/VS266757/SS/KS308
-23,2023-08-31,100.0,EUR,Urban Pavol,PLATBA/PS dar Pavol Urban,266739/VS266739/SS/KS0308
-24,2023-08-31,20.0,EUR,GALLAY MICHAL,PLATBA/Michal Gallay,
-25,2023-08-31,8000.0,EUR,Ferdinand Varga,PLATBA/Ferdinand Varga dar,
-26,2023-08-31,10.0,EUR,MASAR JURAJ,PLATBA/PS dar Juraj Masar,96489/VS96489/SS/KS0308
-27,2023-08-31,50.0,EUR,PODHORNY PATRIK,PLATBA/PS dar Patrik Podhorny,261181/VS261181/SS/KS0308
+15,2023-08-31,-2500.0,EUR,"
+                            Matúš Mikšík
+                    ","
+                        Platba
+                    /
+                        Miksik, marketingove sluzby august
+                    ","
+                        20230007/VS20230007/SS/KS
+                    "
+16,2023-08-31,-145.0,EUR,"
+                            DOM TECHNIKY ZSVTS KE, S.R.O.
+                    ","
+                        Platba
+                    /
+                        Hotel Centrum, ubytovanie Kosice Dvorak
+                    ","
+                        2023000286/VS2023000286/SS013/KS
+                    "
+17,2023-08-31,-1500.0,EUR,"
+                            Nina Kelemenova
+                    ","
+                        Platba
+                    /
+                        Kelemenova, marketingove a admin sluzby august
+                    ","
+                        20230002/VS20230002/SS/KS308
+                    "
+18,2023-08-31,-2000.0,EUR,"
+                            Zuzana Suchova
+                    ","
+                        Platba
+                    /
+                        suchova, konzultacie fundraising
+                    ","
+                        20230022/VS20230022/SS/KS
+                    "
+19,2023-08-31,-200.0,EUR,"
+                            Coffe Passion s.r.o.
+                    ","
+                        Platba
+                    /
+                        Coffee passion, prenajom priestorov lucenec
+                    ","
+                        23001/VS23001/SS/KS
+                    "
+20,2023-08-31,-80.0,EUR,"
+                            March 13th, s.r.o.
+                    ","
+                        Platba
+                    /
+                        Marec, moderovanie diskusie v poprade
+                    ","
+                        262023/VS262023/SS/KS
+                    "
+21,2023-08-31,-250.0,EUR,"
+                            SAMTREID
+                    ","
+                        Platba
+                    /
+                        hotel hviezdoslav, kezmarok prenajom priestorov 23.8.
+                    ","
+                        102132023/VS102132023/SS/KS
+                    "
+22,2023-08-31,50.0,EUR,"
+                            Marek Palgut
+                    ","
+                        Platba
+                    /
+                        PS dar Marek Palgut
+                    ","
+                        266757/VS266757/SS/KS308
+                    "
+23,2023-08-31,100.0,EUR,"
+                            Urban Pavol
+                    ","
+                        PLATBA
+                    /
+                        PS dar Pavol Urban
+                    ","
+                        266739/VS266739/SS/KS0308
+                    "
+24,2023-08-31,20.0,EUR,"
+                            GALLAY MICHAL
+                    ","
+                        PLATBA
+                    /
+                        Michal Gallay
+                    ","
+                        
+                    "
+25,2023-08-31,8000.0,EUR,"
+                            Ferdinand Varga
+                    ","
+                        PLATBA
+                    /
+                        Ferdinand Varga dar
+                    ","
+                        
+                    "
+26,2023-08-31,10.0,EUR,"
+                            MASAR JURAJ
+                    ","
+                        PLATBA
+                    /
+                        PS dar Juraj Masar
+                    ","
+                        96489/VS96489/SS/KS0308
+                    "
+27,2023-08-31,50.0,EUR,"
+                            PODHORNY PATRIK
+                    ","
+                        PLATBA
+                    /
+                        PS dar Patrik Podhorny
+                    ","
+                        261181/VS261181/SS/KS0308
+                    "
 28,2023-08-31,-61.2,EUR,,EUR NÁKUP POS BKG*HOTEL AT BOOKING.C / (888)850-3958 / (POS 37850126),
 29,2023-08-30,50.0,EUR,"Getlik Vladimír, Ing",Platba/PS dar Vladimir Getlik,266750/VS266750/SS/KS308
 30,2023-08-30,50.0,EUR,Peter Somlo,Platba/dar pre Ondreja Prostrednika,19/VS019/SS/KS
