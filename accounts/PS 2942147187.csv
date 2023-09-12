@@ -5,18 +5,67 @@ VS202458/SS/KS308"
 VS86006/SS/KS0308"
 2,2023-09-09,25.0,EUR,"Kumičáková Darina, I",Platba,"191712
 VS191712/SS/KS"
-3,2023-09-09,50.0,EUR,Hana Hochel,Platba/PS dar Sandy,"9092023
-VS9092023/SS/KS308"
-4,2023-09-09,75.0,EUR,"Gerbel Daniel, Ing.,",Platba/PS dar Barbara Gerbel,"56166
-VS56166/SS/KS308"
-5,2023-09-09,250.0,EUR,Lucia Maxonova,Platba/Dar PS MAXONOVA,"84081
-VS84081/SS/KS"
-6,2023-09-09,10.0,EUR,Lukas Mrizo,Platba,
-7,2023-09-09,50.0,EUR,"Bohunický Peter, Ing",Platba/PS dar Peter Bohunicky,"66449
-VS66449/SS/KS308"
-8,2023-09-09,100.0,EUR,Kasman Tomáš,Platba,"113659
-VS113659/SS/KS"
-9,2023-09-09,20.0,EUR,"Košibová Miroslava,",Platba/Drzte sa prosim,"
+3,2023-09-09,50.0,EUR,"
+                            Hana Hochel
+                    ","
+                        Platba
+                    /
+                        PS dar Sandy
+                    ","
+                        9092023VS9092023/SS/KS308
+                    "
+4,2023-09-09,75.0,EUR,"
+                            Gerbel Daniel, Ing.,
+                    ","
+                        Platba
+                    /
+                        PS dar Barbara Gerbel
+                    ","
+                        56166VS56166/SS/KS308
+                    "
+5,2023-09-09,250.0,EUR,"
+                            Lucia Maxonova
+                    ","
+                        Platba
+                    /
+                        Dar PS MAXONOVA
+                    ","
+                        84081VS84081/SS/KS
+                    "
+6,2023-09-09,10.0,EUR,"
+                            Lukas Mrizo
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        
+                    "
+7,2023-09-09,50.0,EUR,"
+                            Bohunický Peter, Ing
+                    ","
+                        Platba
+                    /
+                        PS dar Peter Bohunicky
+                    ","
+                        66449VS66449/SS/KS308
+                    "
+8,2023-09-09,100.0,EUR,"
+                            Kasman Tomáš
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        113659VS113659/SS/KS
+                    "
+9,2023-09-09,20.0,EUR,"
+                            Košibová Miroslava,
+                    ","
+                        Platba
+                    /
+                        Drzte sa prosim
+                    ","
                         181763VS181763/SS/KS
                     "
 10,2023-09-09,25.0,EUR,"
@@ -73,16 +122,49 @@ VS180980/SS/KS"
 VS244128/SS/KS308"
 22,2023-09-08,250.0,EUR,"Kalafutová Iveta, MU",Platba/PS,"118319
 VS118319/SS092023/KS"
-23,2023-09-08,20.0,EUR,Adriana Cimova,Platba/Drzim palce,"261268
-VS261268/SS/KS"
-24,2023-09-08,999.0,EUR,Peter Markos,Platba,"266915
-VS266915/SS/KS"
-25,2023-09-08,-4200.0,EUR,Gubka & Fish Media s,"Platba/Gubka, videoprodukcia august","2023054
-VS2023054/SS/KS"
-26,2023-09-08,-176.82,EUR,CONTENT FACTORY s. r,"Platba/Content factory, prenajom techniky Dej spot","2309013
-VS2309013/SS029/KS"
-27,2023-09-08,-56.0,EUR,"Dracia stopa, s. r. o.","Platba/Dracia stopa, malovanie na tvar piknik kosice","3612023
-VS3612023/SS/KS"
+23,2023-09-08,20.0,EUR,Adriana Cimova,"
+                        Platba
+                    /
+                        Drzim palce
+                    ","
+                        261268VS261268/SS/KS
+                    "
+24,2023-09-08,999.0,EUR,"
+                            Peter Markos
+                    ","
+                        Platba
+                    /
+                        
+                    ","
+                        266915VS266915/SS/KS
+                    "
+25,2023-09-08,-4200.0,EUR,"
+                            Gubka & Fish Media s
+                    ","
+                        Platba
+                    /
+                        Gubka, videoprodukcia august
+                    ","
+                        2023054VS2023054/SS/KS
+                    "
+26,2023-09-08,-176.82,EUR,"
+                            CONTENT FACTORY s. r
+                    ","
+                        Platba
+                    /
+                        Content factory, prenajom techniky Dej spot
+                    ","
+                        2309013VS2309013/SS029/KS
+                    "
+27,2023-09-08,-56.0,EUR,"
+                            Dracia stopa, s. r. o.
+                    ","
+                        Platba
+                    /
+                        Dracia stopa, malovanie na tvar piknik kosice
+                    ","
+                        3612023VS3612023/SS/KS
+                    "
 28,2023-09-08,-2500.0,EUR,Slovenská výtvarná únia,"Platba/SVU, prenajom priestoru Umelka","2023040
 VS2023040/SS/KS"
 29,2023-09-08,-159.48,EUR,D3 - požičovňa inven,"Platba/SeBa, prenajom inventaru 31.8.-4.9.","23164
