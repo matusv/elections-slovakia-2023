@@ -1,26 +1,27 @@
 index,Unnamed: 0,account_name,date,amount,currency,message,tx_type,vs,ss
-0,0,Lubomir Gergel,2023-09-13,200.0,EUR,DAR,Bezhotovostný vklad,,
-1,1,,2023-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-2,2,,2023-08-31,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-3,3,"Fibra print, s.r.o.",2023-08-25,-443.4,EUR,reklamné tričká,Okamžitá platba (EB),2300686.0,42285069.0
-4,4,"ISPA, spol. sr. o",2023-08-25,-194.4,EUR,billboard - Píriová,Okamžitá platba (EB),23950221.0,42285089.0
-5,5,"RENGL Slovensko, s. r. o.",2023-08-25,-139.1,EUR,plagátová kampaň voľby 2023 - Píriová,Okamžitá platba (EB),1025141.0,42285089.0
-6,6,Jaroslav Moravčík fotograf,2023-08-25,-45.0,EUR,výroba kalendárikov - Píriová,Platobný príkaz na úhradu / FIT 2.0 (EB),382003.0,42285069.0
-7,7,Jaroslav Moravčík fotograf,2023-08-25,-230.0,EUR,foto portréty a grafika Piriová Hamšík Mikloško,Platobný príkaz na úhradu / FIT 2.0 (EB),372003.0,42285089.0
-8,8,Lubomir Gergel,2023-08-22,200.0,EUR,DAR,Bezhotovostný vklad,,
-9,9,Bartur s.r.o.,2023-08-17,-370.0,EUR,úhrada grafických prác,Okamžitá platba (EB),122023.0,42285089.0
-10,10,Bežný účet 5193505509,2023-08-17,-21600.0,EUR,refakturácia úhrady billboardov,Platobný príkaz na úhradu / FIT 2.0 (EB),2200962.0,42285089.0
-11,11,Vladimír Zeman,2023-08-17,25000.0,EUR,pôžička,Bezhotovostný vklad,450629.0,42285089.0
-12,12,SRDCE - SNJ - SV,2023-08-17,200.0,EUR,Miklosko+Piriova prevod prop.material+ fotograf,Bezhotovostný vklad,42285089.0,17082023.0
-13,13,"Hamšík Ivan, Ing.",2023-08-15,100.0,EUR,PRISPEVOK,Bezhotovostný vklad,,
-14,14,MIKLOSKO MARIAN,2023-08-14,100.0,EUR,JUDr. Marian Miklosko - vyroba bilbordov -reklama,Bezhotovostný vklad,,22091960.0
-15,15,"Gavač Allan, Ing.",2023-08-13,2000.0,EUR,konzultacna cinnost,Bezhotovostný vklad - okamžitá platba,,3021963.0
-16,16,Píriová Magdaléna,2023-08-11,300.0,EUR,Prenajom reklamnej plochy billboard,Bezhotovostný vklad - okamžitá platba,,7111972.0
-17,17,"Gavač Allan, Ing.",2023-08-11,1000.0,EUR,konzultacna cinnost,Bezhotovostný vklad - okamžitá platba,,3021963.0
-18,18,Lubomir Gergel,2023-08-11,200.0,EUR,Lubomir Gergel - DAR,Bezhotovostný vklad,,
-19,19,,2023-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-20,20,,2023-07-31,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
-21,21,,2023-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
-22,22,,2023-06-30,-0.5,EUR,Poplatok za vedenie účtu,Poplatok,,
-23,23,MV SR,2023-06-30,-17000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),42285089.0,30062023.0
-24,24,SRDCE - SNJ - SV,2023-06-29,18302.04,EUR,prevod z pôvodného transparentného účtu,Bezhotovostný vklad,4228508929.0,29062023.0
+0,0,"RENGL Slovensko, s. r. o.",2023-09-13,-641.09,EUR,výlepne plochy,Okamžitá platba (EB),1025155.0,42407397.0
+1,1,Lubomir Gergel,2023-09-13,200.0,EUR,DAR,Bezhotovostný vklad,,
+2,2,,2023-08-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+3,3,,2023-08-31,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+4,4,"Fibra print, s.r.o.",2023-08-25,-443.4,EUR,reklamné tričká,Okamžitá platba (EB),2300686.0,42285069.0
+5,5,"ISPA, spol. sr. o",2023-08-25,-194.4,EUR,billboard - Píriová,Okamžitá platba (EB),23950221.0,42285089.0
+6,6,"RENGL Slovensko, s. r. o.",2023-08-25,-139.1,EUR,plagátová kampaň voľby 2023 - Píriová,Okamžitá platba (EB),1025141.0,42285089.0
+7,7,Jaroslav Moravčík fotograf,2023-08-25,-45.0,EUR,výroba kalendárikov - Píriová,Platobný príkaz na úhradu / FIT 2.0 (EB),382003.0,42285069.0
+8,8,Jaroslav Moravčík fotograf,2023-08-25,-230.0,EUR,foto portréty a grafika Piriová Hamšík Mikloško,Platobný príkaz na úhradu / FIT 2.0 (EB),372003.0,42285089.0
+9,9,Lubomir Gergel,2023-08-22,200.0,EUR,DAR,Bezhotovostný vklad,,
+10,10,Bartur s.r.o.,2023-08-17,-370.0,EUR,úhrada grafických prác,Okamžitá platba (EB),122023.0,42285089.0
+11,11,Bežný účet 5193505509,2023-08-17,-21600.0,EUR,refakturácia úhrady billboardov,Platobný príkaz na úhradu / FIT 2.0 (EB),2200962.0,42285089.0
+12,12,Vladimír Zeman,2023-08-17,25000.0,EUR,pôžička,Bezhotovostný vklad,450629.0,42285089.0
+13,13,SRDCE - SNJ - SV,2023-08-17,200.0,EUR,Miklosko+Piriova prevod prop.material+ fotograf,Bezhotovostný vklad,42285089.0,17082023.0
+14,14,"Hamšík Ivan, Ing.",2023-08-15,100.0,EUR,PRISPEVOK,Bezhotovostný vklad,,
+15,15,MIKLOSKO MARIAN,2023-08-14,100.0,EUR,JUDr. Marian Miklosko - vyroba bilbordov -reklama,Bezhotovostný vklad,,22091960.0
+16,16,"Gavač Allan, Ing.",2023-08-13,2000.0,EUR,konzultacna cinnost,Bezhotovostný vklad - okamžitá platba,,3021963.0
+17,17,Píriová Magdaléna,2023-08-11,300.0,EUR,Prenajom reklamnej plochy billboard,Bezhotovostný vklad - okamžitá platba,,7111972.0
+18,18,"Gavač Allan, Ing.",2023-08-11,1000.0,EUR,konzultacna cinnost,Bezhotovostný vklad - okamžitá platba,,3021963.0
+19,19,Lubomir Gergel,2023-08-11,200.0,EUR,Lubomir Gergel - DAR,Bezhotovostný vklad,,
+20,20,,2023-07-31,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+21,21,,2023-07-31,-5.0,EUR,Poplatok za vedenie účtu,Poplatok,,
+22,22,,2023-06-30,-5.0,EUR,Zverejňovanie účtu,Poplatok,,
+23,23,,2023-06-30,-0.5,EUR,Poplatok za vedenie účtu,Poplatok,,
+24,24,MV SR,2023-06-30,-17000.0,EUR,,Platobný príkaz na úhradu / FIT 2.0 (EB),42285089.0,30062023.0
+25,25,SRDCE - SNJ - SV,2023-06-29,18302.04,EUR,prevod z pôvodného transparentného účtu,Bezhotovostný vklad,4228508929.0,29062023.0
