@@ -2,99 +2,17 @@ index,date,amount,currency,account_name,message,vs
 0,2023-09-21,-200.0,EUR,,EUR NÁKUP POS FACEBK ZKY6NRFW92 / fb.me/ads / (POS 99999999),
 1,2023-09-20,-4.82,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),
 2,2023-09-19,-140.0,EUR,,EUR NÁKUP POS FACEBK JKT8KRFW92 / fb.me/ads / (POS 99999999),
-3,2023-09-18,-90.0,EUR,,EUR NÁKUP POS FACEBK B6W3HRFW92 / fb.me/ads / (POS 99999999),"
-                        
-                    "
-4,2023-09-18,-11.59,EUR,"
-                            
-                    ","
-                        POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF)
-                    /
-                        
-                    ","
-                        
-                    "
-5,2023-09-18,-39.88,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK *SMU7FRFW92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-6,2023-09-18,-4.03,EUR,"
-                            
-                    ","
-                        POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF)
-                    /
-                        
-                    ","
-                        
-                    "
-7,2023-09-14,-200.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK 6NFZ6R3W92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-8,2023-09-11,-19.22,EUR,"
-                            
-                    ","
-                        POS nákup zahr. PADDLE.NET*TILEBIT / London / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-9,2023-09-05,-5.55,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK C92F5S3J72 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-10,2023-09-05,-4.33,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK 2RM37T7GC2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-11,2023-09-05,-46.76,EUR,"
-                            
-                    ","
-                        POS nákup zahr. WWW.SYLLABY.IO / WWW.SYLLABY.I / (POS 9WCQQ4KN)
-                    /
-                        
-                    ","
-                        
-                    "
-12,2023-09-05,-46.76,EUR,"
-                            
-                    ","
-                        POS nákup zahr. D-ID STUDIO / HTTPSWWW.DID. / (POS FVNE3Y2C)
-                    /
-                        
-                    ","
-                        
-                    "
-13,2023-09-05,-69.6,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS MONGODBCLOUD SPRAVO... / DUBLIN / (POS VUTUIRY3)
-                    /
-                        
-                    ","
-                        
-                    "
+3,2023-09-18,-90.0,EUR,,EUR NÁKUP POS FACEBK B6W3HRFW92 / fb.me/ads / (POS 99999999),
+4,2023-09-18,-11.59,EUR,,POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF),
+5,2023-09-18,-39.88,EUR,,EUR NÁKUP POS FACEBK *SMU7FRFW92 / fb.me/ads / (POS 99999999),
+6,2023-09-18,-4.03,EUR,,POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF),
+7,2023-09-14,-200.0,EUR,,EUR NÁKUP POS FACEBK 6NFZ6R3W92 / fb.me/ads / (POS 99999999),
+8,2023-09-11,-19.22,EUR,,POS nákup zahr. PADDLE.NET*TILEBIT / London / (POS 99999999),
+9,2023-09-05,-5.55,EUR,,EUR NÁKUP POS FACEBK C92F5S3J72 / fb.me/ads / (POS 99999999),
+10,2023-09-05,-4.33,EUR,,EUR NÁKUP POS FACEBK 2RM37T7GC2 / fb.me/ads / (POS 99999999),
+11,2023-09-05,-46.76,EUR,,POS nákup zahr. WWW.SYLLABY.IO / WWW.SYLLABY.I / (POS 9WCQQ4KN),
+12,2023-09-05,-46.76,EUR,,POS nákup zahr. D-ID STUDIO / HTTPSWWW.DID. / (POS FVNE3Y2C),
+13,2023-09-05,-69.6,EUR,,EUR NÁKUP POS MONGODBCLOUD SPRAVO... / DUBLIN / (POS VUTUIRY3),
 14,2023-09-05,-11.99,EUR,,INT NÁKUP POS EUR Canva* 03895-37171982 / Sydney / (POS 99999999),
 15,2023-09-05,-3.11,EUR,,POS nákup zahr. RENDER.COM / HTTPSRENDER.C / (POS DS2NL9OD),
 16,2023-09-04,-19.01,EUR,,POS nákup zahr. HYPERWRITE / HYPERWRITEAI. / (POS YMOWHOKH),
