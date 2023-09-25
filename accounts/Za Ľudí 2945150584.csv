@@ -2,9 +2,25 @@ index,date,amount,currency,account_name,message,vs
 0,2023-09-22,-100.0,EUR,,EUR NÁKUP POS FACEBK 6RDLRTKUX2 / fb.me/ads / (POS 99999999),
 1,2023-09-22,-500.0,EUR,,EUR NÁKUP POS FACEBK ZH4UJTTTU2 / fb.me/ads / (POS 99999999),
 2,2023-09-22,-218.4,EUR,,POS nákup POSTA TRENCIN 1 / TRENCIN / (POS SP520055),
-3,2023-09-21,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),
-4,2023-09-21,-500.0,EUR,,EUR NÁKUP POS FACEBK FYWZZSBUU2 / fb.me/ads / (POS 99999999),
-5,2023-09-21,-1000.0,EUR,,"
+3,2023-09-21,-500.0,EUR,,"
+                        EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+4,2023-09-21,-500.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK FYWZZSBUU2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+5,2023-09-21,-1000.0,EUR,"
+                            
+                    ","
                         Výber z bankomatu TB Ruzinovska / Bratislava / (ATM TATN043B)
                     /
                         
