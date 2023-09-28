@@ -1,274 +1,274 @@
 index,index,date,amount,account_name,message,vs,name
-0,1337,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
-1,1336,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
-2,1291,2023-05-16,-7082.4,DIW sro,Noviny sme rodina - doplatok DIW s.r.o.: ZF2023050003 - SME RODINA - 2023/05,2023050003.0,Sme Rodina
-3,1236,2023-06-02,7082.4,DIW s.r.o.,vratenie mylnej platby,2023050003.0,Sme Rodina
-4,1204,2023-06-21,-1.0,"Sukupčák Martin, Ing.",vrátenie,,Sme Rodina
-5,1212,2023-06-16,1.0,"Sukupčák Martin, Ing.",Boris kup si kondomy hlupakov uz mame dost,,Sme Rodina
-6,1129,2023-07-06,-2340.0,IMAGEWELL,Tlac plachty 15ks plus vyves,410231539.0,Sme Rodina
-7,835,2023-08-07,2340.0,IMAGEWELL,vratenie duplicitnej platby,410231539.0,Sme Rodina
-8,1112,2023-07-12,-1121.49,"OMV Slovensko, s.r.o.","SME RODINA / OMV Slovensko, s.r.o.",7033376548.0,Sme Rodina
-9,1083,2023-07-17,1121.49,"OMV SLOVENSKO, S.R.O.",0340007141200308,,Sme Rodina
-10,992,2023-07-24,-125.0,Mesto Sobrance,"Daň/poplatok 2023 UVP DAN č. 73,",1215300073.0,Sme Rodina
-11,813,2023-08-08,125.0,Mesto Sobrance,vrátenie poplatku UVP´23- Sme rodina,1215300073.0,Sme Rodina
-12,296,2023-09-15,-10000.0,KASPER IGOR,Vratenie daru Igor Kasper,,Sme Rodina
-13,320,2023-09-14,10000.0,KASPER IGOR,dar Igor Kasper,,Sme Rodina
-14,201,2023-09-20,-998.0,Výboštek Jaroslav,Vratenie daru od Mgr. Monika Výbošteková pre Hnutie Sme Rodina Okres Prešov - Mgr. Adriana Anderkova,,Sme Rodina
-15,725,2023-08-17,998.0,Výboštek Jaroslav,Dar od Mgr. Monika Výbošteková preHnutie Sme Rodina Okres Prešov - Mgr. Adriana Anderkova,,Sme Rodina
-16,1539,2023-07-31,-60.0,Mesto Stropkov,,51313901.0,Demokrati
-17,1452,2023-08-04,60.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,Demokrati
-18,476,2023-09-18,-1200.0,Andrej Stančík,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-19,520,2023-09-17,1200.0,Andrej Stančík,F001170920235048964,,Demokrati
-20,406,2023-09-19,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-21,439,2023-09-19,700.0,Štepánek Peter,F001190920237653724,,Demokrati
-22,407,2023-09-19,-600.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-23,590,2023-09-14,600.0,Štepánek Peter,F001140920232846284,,Demokrati
-24,355,2023-09-20,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-25,405,2023-09-19,700.0,Štepánek Peter,F001190920238116994,,Demokrati
-26,356,2023-09-20,-900.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-27,365,2023-09-20,900.0,Štepánek Peter,F001200920239010944,,Demokrati
-28,282,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-29,1454,2023-08-04,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
-30,284,2023-09-21,-1000.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-31,485,2023-09-18,1000.0,Cocherová Andrea,prispevok na kampan,,Demokrati
-32,283,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-33,995,2023-08-31,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
-34,242,2023-08-29,-0.01,Blahovec Stefan,Blahovec Stefan-vratenie daru zo dna 15.08.2023,15082023.0,Smer
-35,277,2023-08-15,0.01,Blahovec Štefan,F001150820239933680,,Smer
-36,612,2023-06-29,-186.0,BigMedia spol s.r.o.,"bilboard 9/2023, Čech",122390104.0,SaS
-37,505,2023-07-27,186.0,"BIGMEDIA, SPOL. S R.O.",322310032 26.07.2023,322310032.0,SaS
-38,501,2023-07-28,-115.0,mesto Stropkov,Jozef Venglovic,42139333.0,SaS
-39,462,2023-08-04,115.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,SaS
-40,480,2023-08-02,-1872.0,Guldan-Studio s.r.o.,"tlač BB 22 ks, Halgašová",23012.0,SaS
-41,466,2023-08-04,1872.0,GULDAN-STUDIO S.R.O.,Duplicitna platba FZ23012,23012.0,SaS
-42,178,2023-09-21,-50.0,JANULIK LUKAS,Vratenie platby,821119.0,OĽaNO
-43,630,2023-08-16,50.0,JANULIK LUKAS,26374886,821119.0,OĽaNO
-44,2039,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
-45,2044,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
-46,2040,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
-47,2042,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
-48,2034,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,"2202301466
+0,1403,2023-04-05,-1989.94,miroslav kamenik,Stroj na popcorn 8ks,2023001879.0,Sme Rodina
+1,1402,2023-04-14,1989.94,Miroslav Kamenik,"Kamenik, vratenie platby",2023001879.0,Sme Rodina
+2,1357,2023-05-16,-7082.4,DIW sro,Noviny sme rodina - doplatok DIW s.r.o.: ZF2023050003 - SME RODINA - 2023/05,2023050003.0,Sme Rodina
+3,1302,2023-06-02,7082.4,DIW s.r.o.,vratenie mylnej platby,2023050003.0,Sme Rodina
+4,1270,2023-06-21,-1.0,"Sukupčák Martin, Ing.",vrátenie,,Sme Rodina
+5,1278,2023-06-16,1.0,"Sukupčák Martin, Ing.",Boris kup si kondomy hlupakov uz mame dost,,Sme Rodina
+6,1195,2023-07-06,-2340.0,IMAGEWELL,Tlac plachty 15ks plus vyves,410231539.0,Sme Rodina
+7,901,2023-08-07,2340.0,IMAGEWELL,vratenie duplicitnej platby,410231539.0,Sme Rodina
+8,1178,2023-07-12,-1121.49,"OMV Slovensko, s.r.o.","SME RODINA / OMV Slovensko, s.r.o.",7033376548.0,Sme Rodina
+9,1149,2023-07-17,1121.49,"OMV SLOVENSKO, S.R.O.",0340007141200308,,Sme Rodina
+10,1058,2023-07-24,-125.0,Mesto Sobrance,"Daň/poplatok 2023 UVP DAN č. 73,",1215300073.0,Sme Rodina
+11,879,2023-08-08,125.0,Mesto Sobrance,vrátenie poplatku UVP´23- Sme rodina,1215300073.0,Sme Rodina
+12,362,2023-09-15,-10000.0,KASPER IGOR,Vratenie daru Igor Kasper,,Sme Rodina
+13,386,2023-09-14,10000.0,KASPER IGOR,dar Igor Kasper,,Sme Rodina
+14,267,2023-09-20,-998.0,Výboštek Jaroslav,Vratenie daru od Mgr. Monika Výbošteková pre Hnutie Sme Rodina Okres Prešov - Mgr. Adriana Anderkova,,Sme Rodina
+15,791,2023-08-17,998.0,Výboštek Jaroslav,Dar od Mgr. Monika Výbošteková preHnutie Sme Rodina Okres Prešov - Mgr. Adriana Anderkova,,Sme Rodina
+16,1595,2023-07-31,-60.0,Mesto Stropkov,,51313901.0,Demokrati
+17,1508,2023-08-04,60.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,Demokrati
+18,532,2023-09-18,-1200.0,Andrej Stančík,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+19,576,2023-09-17,1200.0,Andrej Stančík,F001170920235048964,,Demokrati
+20,462,2023-09-19,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+21,495,2023-09-19,700.0,Štepánek Peter,F001190920237653724,,Demokrati
+22,463,2023-09-19,-600.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+23,646,2023-09-14,600.0,Štepánek Peter,F001140920232846284,,Demokrati
+24,411,2023-09-20,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+25,461,2023-09-19,700.0,Štepánek Peter,F001190920238116994,,Demokrati
+26,412,2023-09-20,-900.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+27,421,2023-09-20,900.0,Štepánek Peter,F001200920239010944,,Demokrati
+28,338,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+29,1510,2023-08-04,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
+30,340,2023-09-21,-1000.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+31,541,2023-09-18,1000.0,Cocherová Andrea,prispevok na kampan,,Demokrati
+32,339,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+33,1051,2023-08-31,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
+34,289,2023-08-29,-0.01,Blahovec Stefan,Blahovec Stefan-vratenie daru zo dna 15.08.2023,15082023.0,Smer
+35,324,2023-08-15,0.01,Blahovec Štefan,F001150820239933680,,Smer
+36,642,2023-06-29,-186.0,BigMedia spol s.r.o.,"bilboard 9/2023, Čech",122390104.0,SaS
+37,535,2023-07-27,186.0,"BIGMEDIA, SPOL. S R.O.",322310032 26.07.2023,322310032.0,SaS
+38,531,2023-07-28,-115.0,mesto Stropkov,Jozef Venglovic,42139333.0,SaS
+39,492,2023-08-04,115.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,SaS
+40,510,2023-08-02,-1872.0,Guldan-Studio s.r.o.,"tlač BB 22 ks, Halgašová",23012.0,SaS
+41,496,2023-08-04,1872.0,GULDAN-STUDIO S.R.O.,Duplicitna platba FZ23012,23012.0,SaS
+42,251,2023-09-21,-50.0,JANULIK LUKAS,Vratenie platby,821119.0,OĽaNO
+43,703,2023-08-16,50.0,JANULIK LUKAS,26374886,821119.0,OĽaNO
+44,2118,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
+45,2123,2023-04-11,100.0,Príbiš Milena,Platba/Milena Pribis,,PS
+46,2119,2023-04-12,-150.0,SLAVOMIR SIMCAK,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
+47,2121,2023-04-12,150.0,SLAVOMIR SIMCAK,PLATBA/PRE LEPSIE SLOVENSKO...DRZIM PALCE...ING.S.SIMCAK,,PS
+48,2113,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,"2202301466
 VS2202301466/SS/KS",PS
-49,1656,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),"2202301466
+49,1735,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),"2202301466
 VS2202301466/SS/KS",PS
-50,1913,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
-51,1938,2023-05-17,30.0,Patrik Petráš,PLATBA,"259288
+50,1992,2023-05-24,-30.0,Patrik Petráš,Platba/vratenie daru podla Z.z. 85/2005 cl. 23,,PS
+51,2017,2023-05-17,30.0,Patrik Petráš,PLATBA,"259288
 VS259288/SS/KS",PS
-52,1911,2023-05-25,-50.0,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",,PS
-53,1929,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,"71028
+52,1990,2023-05-25,-50.0,Tomas Sisak,"Platba/vratenie daru podla Z.z. 85/2005, v pripade pretrvavajuceho zaujmu mozete darovat cez progresivne.sk dakujeme!",,PS
+53,2008,2023-05-20,50.0,Tomas Sisak,Platba/PS dar Tomas Sisak,"71028
 VS71028/SS/KS0308",PS
-54,1861,2023-06-02,-2.0,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,,PS
-55,1886,2023-05-31,2.0,"Wood Service, s.r.o.",Platba,,PS
-56,1421,2023-07-25,-1.0,PETER CHOMA,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS
-57,1599,2023-07-04,1.0,PETER CHOMA,PLATBA/DAR ING. PETER CHOMA,,PS
-58,1420,2023-07-25,-100.0,Radovan Tisko,"Platba/vratenie daru podla 85/2005 z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS
-59,1597,2023-07-04,100.0,Radovan Tisko,Platba/PS dar Radovan Tisko,,PS
-60,1422,2023-07-25,-200.0,KALINOVA EVA,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS
-61,1601,2023-07-04,200.0,KALINOVA EVA,PLATBA,,PS
-62,1370,2023-07-31,-2093.0,AQT s.r.o.,"Platba/aqt, sony objektiv","41127
+54,1940,2023-06-02,-2.0,"Wood Service, s.r.o.",Platba/vratenie daru podla 85/2005 Z.z. clanok 3 v pripade pretrvavajuceho zaujmu prosim darujte cez progresivne.sk/podporte-buducnost/,,PS
+55,1965,2023-05-31,2.0,"Wood Service, s.r.o.",Platba,,PS
+56,1499,2023-07-25,-100.0,Radovan Tisko,"Platba/vratenie daru podla 85/2005 z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS
+57,1676,2023-07-04,100.0,Radovan Tisko,Platba/PS dar Radovan Tisko,,PS
+58,1500,2023-07-25,-1.0,PETER CHOMA,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS
+59,1678,2023-07-04,1.0,PETER CHOMA,PLATBA/DAR ING. PETER CHOMA,,PS
+60,1501,2023-07-25,-200.0,KALINOVA EVA,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost",,PS
+61,1680,2023-07-04,200.0,KALINOVA EVA,PLATBA,,PS
+62,1449,2023-07-31,-2093.0,AQT s.r.o.,"Platba/aqt, sony objektiv","41127
 VS41127/SS/KS",PS
-63,946,2023-09-04,2093.0,AQT s.r.o.,Platba,"41127
+63,1025,2023-09-04,2093.0,AQT s.r.o.,Platba,"41127
 VS41127/SS/KS",PS
-64,1182,2023-08-14,-5000.0,"Varga Marián, Ing.",Platba/vratenie mylnej platby dar,,PS
-65,1183,2023-08-14,5000.0,"Varga Marián, Ing.",Platba/Dar Marian Varga pre Lucia Plavakova,"2
+64,1261,2023-08-14,-5000.0,"Varga Marián, Ing.",Platba/vratenie mylnej platby dar,,PS
+65,1262,2023-08-14,5000.0,"Varga Marián, Ing.",Platba/Dar Marian Varga pre Lucia Plavakova,"2
 VS002/SS6701/KS0558",PS
-66,898,2023-09-05,-69.0,Olšanský Martin,"Platba/vratenie daru podla 85/2005 Z.z., prosim navstivte progresivne.sk/podporte-buducnost/ dakujeme",,PS
-67,1235,2023-08-09,69.0,Olšanský Martin,Platba/dar,,PS
-68,875,2023-09-06,-10.0,Adam Bilek,Platba OO23090600023112/vratenie daru podla 85/2005 Z.z.,,PS
-69,1020,2023-08-30,10.0,Adam Bilek,Platba PO23083055414458/266746,,PS
-70,874,2023-09-06,-20.0,GALLAY MICHAL,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost/ dakujeme!",,PS
-71,1013,2023-08-31,20.0,GALLAY MICHAL,PLATBA/Michal Gallay,,PS
-72,876,2023-09-06,-50.0,Katarina Laudova,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost/ dakujeme!",,PS
-73,1057,2023-08-28,50.0,Katarina Laudova,Platba/dar,,PS
-74,435,2023-09-12,-0.01,"Michálek Matúš, Bc.",Platba/Vratenie daru podla 85/2005 Z.z. pre darovanie prosim navstivte progresivne.sk/podporte-buducnost/. Dakujeme za podporu,,PS
-75,583,2023-09-11,0.01,"Michálek Matúš, Bc.",Platba/Ste obycajny prezleceny komunisti. Obmedzujete slobodu slova,,PS
-76,322,2023-09-14,-100.0,Jakub Niec,PLATBA VA23091407849/Vratenie daru podla 85/2005 Z.z.,266956,PS
-77,408,2023-09-13,100.0,Jakub Niec,DE23091269818 REQ-258636089/do toho. porazte Fica,266956,PS
-78,319,2023-09-14,-50.0,TransferWise,Platba OO23091400038403/Vratenie daru podla 85/2005 Z.z.,,PS
-79,729,2023-09-08,50.0,TransferWise,Platba PO23090856275687/238911,671595557,PS
-80,317,2023-09-14,-50.0,Hana Hochel,Platba/vratenie daru podla 85/2005 Z.z. pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme,,PS
-81,605,2023-09-09,50.0,Hana Hochel,Platba/PS dar Sandy,"9092023
+66,977,2023-09-05,-69.0,Olšanský Martin,"Platba/vratenie daru podla 85/2005 Z.z., prosim navstivte progresivne.sk/podporte-buducnost/ dakujeme",,PS
+67,1314,2023-08-09,69.0,Olšanský Martin,Platba/dar,,PS
+68,954,2023-09-06,-10.0,Adam Bilek,Platba OO23090600023112/vratenie daru podla 85/2005 Z.z.,,PS
+69,1099,2023-08-30,10.0,Adam Bilek,Platba PO23083055414458/266746,,PS
+70,953,2023-09-06,-20.0,GALLAY MICHAL,"Platba/Vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost/ dakujeme!",,PS
+71,1092,2023-08-31,20.0,GALLAY MICHAL,PLATBA/Michal Gallay,,PS
+72,955,2023-09-06,-50.0,Katarina Laudova,"Platba/vratenie daru podla 85/2005 Z.z., pre darovanie navstivte progresivne.sk/podporte-buducnost/ dakujeme!",,PS
+73,1136,2023-08-28,50.0,Katarina Laudova,Platba/dar,,PS
+74,514,2023-09-12,-0.01,"Michálek Matúš, Bc.",Platba/Vratenie daru podla 85/2005 Z.z. pre darovanie prosim navstivte progresivne.sk/podporte-buducnost/. Dakujeme za podporu,,PS
+75,662,2023-09-11,0.01,"Michálek Matúš, Bc.",Platba/Ste obycajny prezleceny komunisti. Obmedzujete slobodu slova,,PS
+76,401,2023-09-14,-100.0,Jakub Niec,PLATBA VA23091407849/Vratenie daru podla 85/2005 Z.z.,266956,PS
+77,487,2023-09-13,100.0,Jakub Niec,DE23091269818 REQ-258636089/do toho. porazte Fica,266956,PS
+78,395,2023-09-14,-10.0,Hrušč Gálová Mária,Platba/vratenie daru podla 85/2005 Z.z. pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme,,PS
+79,636,2023-09-11,10.0,Hrušč Gálová Mária,Platba,,PS
+80,394,2023-09-14,-50.0,Galiovský Peter,Platba/vratenie daru 85/2005 Z.z. pre podporu navstivte progresivne.sk/podorte-buducnost/ dakujeme,,PS
+81,1047,2023-09-04,50.0,Galiovský Peter,Platba,,PS
+82,393,2023-09-14,-10.0,Juraj Vaš,Platba/vratenie daru posla 85/2005 Z.z. pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme,,PS
+83,1036,2023-09-04,10.0,Juraj Vaš,PLATBA/Juraj Vas,,PS
+84,392,2023-09-14,-50.0,Jana Polakovicova,"Platba/Vratenie daru podla 85/205 Z.z., pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme",,PS
+85,817,2023-09-08,50.0,Jana Polakovicova,Platba/PS dar,,PS
+86,396,2023-09-14,-50.0,Hana Hochel,Platba/vratenie daru podla 85/2005 Z.z. pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme,,PS
+87,684,2023-09-09,50.0,Hana Hochel,Platba/PS dar Sandy,"9092023
 VS9092023/SS/KS308",PS
-82,313,2023-09-14,-50.0,Jana Polakovicova,"Platba/Vratenie daru podla 85/205 Z.z., pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme",,PS
-83,738,2023-09-08,50.0,Jana Polakovicova,Platba/PS dar,,PS
-84,314,2023-09-14,-10.0,Juraj Vaš,Platba/vratenie daru posla 85/2005 Z.z. pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme,,PS
-85,957,2023-09-04,10.0,Juraj Vaš,PLATBA/Juraj Vas,,PS
-86,315,2023-09-14,-50.0,Galiovský Peter,Platba/vratenie daru 85/2005 Z.z. pre podporu navstivte progresivne.sk/podorte-buducnost/ dakujeme,,PS
-87,968,2023-09-04,50.0,Galiovský Peter,Platba,,PS
-88,316,2023-09-14,-10.0,Hrušč Gálová Mária,Platba/vratenie daru podla 85/2005 Z.z. pre podporu navstivte progresivne.sk/podporte-buducnost/ dakujeme,,PS
-89,557,2023-09-11,10.0,Hrušč Gálová Mária,Platba,,PS
-90,346,2023-09-14,-350.0,Dr. Andreas Jusko,Platba OO23091400011808/vratenie daru,094,PS
-91,353,2023-09-14,350.0,Dr. Andreas Jusko,DE23091458846 204042309132AIP-/(CdtrRefInf)(Tp)(CdOrPrtry)(Cd)SCOR(/Cd)(/CdOrPrtry)(/Tp)(Ref)094(/Ref)(/CdtrRefInf),,PS
-92,250,2023-09-18,-75.0,MARTIN STRBA,PLATBA VA23091809121/Vratenie daru podla 85/2005 Z.z.,,PS
-93,447,2023-09-12,75.0,MARTIN STRBA,DE23091251722/DAR,,PS
-94,770,2023-05-17,-0.01,PAULINA SUTA,,,Hlas
-95,772,2023-05-09,0.01,PAULINA SUTA,... MAFIA ZLODEJSKA-,,Hlas
-96,769,2023-05-17,-0.01,LUBOMIR MORAVCIK,,,Hlas
-97,776,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
-98,768,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
-99,773,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-100,617,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-101,620,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
-102,588,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
-103,589,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
-104,565,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
-105,567,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
-106,549,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-107,550,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-108,536,2023-07-14,-432.0,"BigMedia, spol. s.r.o.",reklamné plochy,1223205529.0,SNS
-109,441,2023-08-01,432.0,"BIGMEDIA, SPOL. S R.O.",VRATENIE MYLNEJ PLATBY,,SNS
-110,402,2023-08-10,-63.0,KOSECKA NINA,vrátenie mylnej platby,,SNS
-111,403,2023-08-10,63.0,KOSECKA NINA,GO PEDRO GO,,SNS
-112,381,2023-08-11,-1.0,KOSECKA NINA,vratenie mylnej platby,,SNS
-113,395,2023-08-11,1.0,KOSECKA NINA,AHA A DAKUJEM ZA PEKNU NOC,,SNS
-114,362,2023-08-16,-0.01,Kozic Tomáš,vratenie mylnej platby,,SNS
-115,374,2023-08-16,0.01,Kozic Tomáš,Na logopeda pre Ada,,SNS
-116,345,2023-08-22,-1740.0,"NUBIUM, s.r.o.",reklamny priestor,13120286.0,SNS
-117,43,2023-09-26,1740.0,"NUBIUM, s. r. o.",vratenie preplatku,23085837.0,SNS
-118,313,2023-08-27,-1.0,Kabát Juraj,vrátenie mylnej platby,,SNS
-119,315,2023-08-27,1.0,Kabát Juraj,OO23082700007179,,SNS
-120,305,2023-08-28,-86.7,MAJSTRIK PETER,vratenie mylnej platby,20230760.0,SNS
-121,312,2023-08-28,86.7,MAJSTRIK PETER,Peter Majstrík,20230760.0,SNS
-122,228,2023-09-11,-156.0,"NUBIUM, s.r.o.",reklamny priestor,13120317.0,SNS
-123,151,2023-09-20,156.0,"NUBIUM, s. r. o.",vratenie platby,23096324.0,SNS
-124,230,2023-09-11,-838.2,"REGIONPRESS, s.r.o.",inzercia,586230142.0,SNS
-125,168,2023-09-19,838.2,"REGIONPRESS, s.r.o.",mylna platba,586230156.0,SNS
-126,225,2023-07-24,-145.2,"Tkáč Marián, Ing., CSc.",vrátenie daru,,LSNS
-127,236,2023-07-20,145.2,"Tkáč Marián, Ing., CSc.",OO23072000015915,,LSNS
-128,19,2023-09-25,-570.0,JSAS s.r.o.,vrátenie daru,,LSNS
-129,56,2023-09-19,570.0,JSAS s.r.o.,F001190920238040372,1892023.0,LSNS
-130,628,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
-131,629,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
-132,619,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042,Republika
-133,607,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042,Republika
-134,616,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023,Republika
-135,608,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023,Republika
-136,592,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",,Republika
-137,597,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
-138,591,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
-139,602,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
-140,584,2023-07-14,-2760.0,ARTON s.r.o.,bilbordy 08/2023,230390,Republika
-141,491,2023-07-28,2760.0,ARTON s.r.o.,duplicitna uhrada (uhradene 17.7.),230390,Republika
-142,561,2023-07-24,-326.0,"Hilka Majkova Lucia, PhDr.",Vratenie daru,,Republika
-143,563,2023-07-24,326.0,"Hilka Majková Lucia, PhDr.",republika fin dar lucia hilka majkova volby,,Republika
-144,558,2023-07-24,-1000.0,"Mrazek Pavol, Ing. arch.",vratenie daru,,Republika
-145,559,2023-07-24,1000.0,"Mrázek Pavol, Ing. arch.",Financny dar kampan Lucia Hilka Majkova,9,Republika
-146,535,2023-07-26,-6000.0,Viera Moravčíková,"Vratenie platby, Igor Moravcik",,Republika
-147,547,2023-07-25,6000.0,Viera Moravčíková,Igor Moravcik,,Republika
-148,543,2023-07-26,-1000.0,"Hilka Majkova Lucia, PhDr.",vratenie daru,,Republika
-149,542,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova lipova 50 ivanka pri dunaji 900 28 -DAR,,Republika
-150,544,2023-07-26,-30000.0,UHRIKOVA ZUZANA,vratenie platby,,Republika
-151,562,2023-07-24,30000.0,UHRIKOVA ZUZANA,"ZUZANA UHRIKOVA, HORNOCERMANSKA 81",,Republika
-152,465,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,,Republika
-153,473,2023-07-31,40000.0,Milan Mazurek,PÔŽIČKA - REPUBLIKA,,Republika
-154,479,2023-07-31,-500.0,Tomáš Senko,Vratenie daru,,Republika
-155,464,2023-07-31,500.0,Tomáš Senko,"Tomas Senko, Obchodna 8555/3A, 010 08 Zilina. Dar",,Republika
-156,443,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,,Republika
-157,454,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723,Republika
-158,384,2023-08-10,-233.0,Stefan Sitar,Vratenie daru (absencia cisla domu),,Republika
-159,387,2023-08-10,233.0,Štefan Sitár,"Štefan Sitár, Šurany - dar",,Republika
-160,367,2023-08-11,-27949.2,Ján Sabol,Vratenie daru (chybajuce udaje o darcovi),9,Republika
-161,380,2023-08-10,27949.2,Ján Sabol,JAN SABOL 24061972,9,Republika
-162,335,2023-08-16,-13560.0,ARTON s.r.o.,/DO2023-08-16/SP billboardy,230455,Republika
-163,256,2023-08-30,13560.0,ARTON s.r.o.,duplicitna uhrada. Uhradene 17.8.´23,230455,Republika
-164,324,2023-08-21,-1100.0,Miroslav Políček,"Miroslav Policek, vratenie daru",,Republika
-165,330,2023-08-18,1100.0,Miroslav Políček,"Miroslav Policek, Mlynska 419, 95131 Mocenok dar",,Republika
-166,278,2023-08-25,-449.16,PRISTAK MICHAL,Vratenie daru,,Republika
-167,281,2023-08-25,449.16,PRISTAK MICHAL,Michal Pristak faktura 2023445,,Republika
-168,249,2023-08-30,-100.0,PUPAK MILAN,Vratenie daru (adresa TB nie je uplna),,Republika
-169,257,2023-08-30,100.0,PUPAK MILAN,"Milan Pupak, Zlate Moravce, dar",,Republika
-170,237,2023-08-30,-90.0,Rafael Rafaj,Vratenie daru,,Republika
-171,247,2023-08-30,90.0,Rafael Rafaj,dar R.Rafaj kampan vizitky BBprint,,Republika
-172,167,2023-09-04,-312.0,Ivan Janovec,Vratenie daru,2023,Republika
-173,233,2023-08-31,312.0,Ivan Janovec,"Financny dar Ivan Janovec, kandidat c.92",2023,Republika
-174,184,2023-09-04,-250.0,"Machovicova Erika, Mgr.",Vratenie daru za Stefana Krnaca,,Republika
-175,205,2023-09-04,250.0,"Machovičová Erika, Mgr.","machovicova erika internatna 2, b.b. dar za krnac stefan",,Republika
-176,185,2023-09-04,-300.0,TATRA BANKA A.S. - CENTRALA,Vratenie daru,,Republika
-177,191,2023-09-04,300.0,TATRA BANKA A.S. - CENTRÁLA,"DAR Martin Dragun , Michalovce",,Republika
-178,189,2023-09-04,-567.0,Marek Fusaty,Vratenie daru Jaromir Smatrala,,Republika
-179,197,2023-09-04,567.0,Marek Fusaty,"Jaromir Smatrala, Bajkalska 29D, 82101 Bratislava, DAR",,Republika
-180,177,2023-09-04,-196.8,Eva Demjanova,Vrarenie daru - Peter Demjan,233047,Republika
-181,203,2023-09-04,196.8,Eva Demjanova,Dar - Peter Demjan - fa c. FV233047,233047,Republika
-182,178,2023-09-04,-727.2,Eva Demjanova,Vrarenie daru - Peter Demjan,2023187,Republika
-183,204,2023-09-04,727.2,Eva Demjanova,Dar - Peter Demjan - fa c. 2023187,2023187,Republika
-184,176,2023-09-04,-300.0,MARTIN CHUDY,Martin Chudy Vratenie daru,70,Republika
-185,190,2023-09-04,300.0,MARTIN CHUDY,Martin Chudy,70,Republika
-186,170,2023-09-04,-210.6,Janka Kuspalova,"Vratenie platby, Kuspalova Janka",20230232,Republika
-187,173,2023-09-04,210.6,Janka Kuspalova,"Kuspalova Janka, Busince",20230232,Republika
-188,199,2023-09-04,-30.0,PUPAK MILAN,Vratenie daru,,Republika
-189,228,2023-08-31,30.0,PUPAK MILAN,"Milan Pupak, Zlate Moravce, dar",,Republika
-190,200,2023-09-04,-144.0,Lubomir Pidanic,Vratenie daru,,Republika
-191,226,2023-08-31,144.0,Lubomir Pidanic,Financny dar. Lubomir Pidanic,,Republika
-192,198,2023-09-04,-240.0,Janecek Jan,Vratenie daru,,Republika
-193,231,2023-08-31,240.0,Janecek Jan,"Dar - Jan Cogan, Kukucinova 2042/3, 069 01 Snina (dar cislo 77)",,Republika
-194,207,2023-09-04,-411.6,FaxCopy a.s.,2458681,2458681,Republika
-195,116,2023-09-11,411.6,FaxCopy a.s.,obj. 2458681 - duplicitna uhrada Hnutie REPUBLIKA,2458681,Republika
-196,156,2023-09-05,-240.0,Janecek Jan,Vratenie daru,,Republika
-197,161,2023-09-05,240.0,Janecek Jan,Dar,,Republika
-198,127,2023-09-07,-250.0,"Machovicova Erika, Mgr.",Vratenie daru,,Republika
-199,123,2023-09-07,250.0,"Machovičová Erika, Mgr.","Machovicova Erika,Internatna 2,B.Bystrica- dar",,Republika
-200,1644,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
-201,1661,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
-202,1546,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
-203,1586,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
-204,1521,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
-205,1605,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
-206,1418,2023-07-18,-700.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
-207,1537,2023-07-12,700.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
-208,1419,2023-07-18,-500.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
-209,1538,2023-07-12,500.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
-210,1420,2023-07-18,-100.0,Spolocnost Jezisova,Vrátenie daru/ mylná platba,2023002213.0,KDH
-211,1472,2023-07-16,100.0,Spolocnost Jezisova,Dar,2023002213.0,KDH
-212,1307,2023-07-26,-100.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylná platba,25072023.0,KDH
-213,1522,2023-07-13,100.0,"Kaňuščák Milín, Ing.",kampan Facebook,2023.0,KDH
-214,1306,2023-07-26,-2634.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylný platba,214.0,KDH
-215,1321,2023-07-25,2634.0,"Kaňuščák Milín, Ing.",milin Kanuscak Eshop,214.0,KDH
-216,1309,2023-07-26,-200.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
-217,1447,2023-07-17,200.0,Peter Stuller,Dar Stuller,,KDH
-218,1308,2023-07-26,-150.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
-219,1320,2023-07-25,150.0,Peter Stuller,Objednavka 213 (25. jula 2023),,KDH
-220,1060,2023-08-09,-100.0,Oberle Tomáš,Vrátenie daru/mylná platba,2023002301.0,KDH
-221,1070,2023-08-08,100.0,Oberle Tomáš,Dar,2023002301.0,KDH
-222,958,2023-08-15,-100.0,"Benko Pavel, Ing.",Vrátenie daru/mylná platba,521005393.0,KDH
-223,1451,2023-07-17,100.0,"Benko Pavel, Ing.",Dar na volby 2023 P.avol Benko,521005393.0,KDH
-224,761,2023-08-25,-3000.0,Mičo Jozef,Vrátenie daru/mylná platba,,KDH
-225,887,2023-08-18,3000.0,Mičo Jozef,F001180820233830514,,KDH
-226,677,2023-08-31,-10000.0,MIHALOV HENRICH,Vrátenie daru/mylná platba,1082023.0,KDH
-227,1151,2023-08-03,10000.0,MIHALOV HENRICH,Dar na kampan KDH,1082023.0,KDH
-228,491,2023-09-11,-485.0,"Frič Anton, Mgr.",Vrátenie daru/mylná platba,2023002335.0,KDH
-229,913,2023-08-17,485.0,"Frič Anton, Mgr.",Dar Anton Fric kandidat c 77,2023002335.0,KDH
-230,490,2023-09-11,-106.0,"Frič Anton, Mgr.",Vrátenie daru/mylná platba,2023002344.0,KDH
-231,869,2023-08-19,106.0,"Frič Anton, Mgr.",Dar Anton Fric c. 77,2023002344.0,KDH
-232,464,2023-09-12,-1686.0,HUDAK MAREK,Vrátenie daru/mylná platba,,KDH
-233,468,2023-09-12,1686.0,HUDAK MAREK,prispevok na kampan - M.Hudak,,KDH
-234,435,2023-09-13,-290.0,PIVARNIKOVA LUCIA,Vrátenie daru/mylná platba,12092023.0,KDH
-235,438,2023-09-13,290.0,PIVARNIKOVA LUCIA,Dar na kampan KDH,12092023.0,KDH
-236,164,2023-09-22,-1000.0,Vrtík Tomáš,Vrátenie daru/mylná platba,2023002744.0,KDH
-237,488,2023-09-11,1000.0,Vrtík Tomáš,Dar pre Roberta Dohala,2023002744.0,KDH
-238,70,2023-09-25,-1000.0,"Monika Kolejakova, Kamil Kolejak",Kamil Kolejak/ Vrátenie daru/ mylná platba,,KDH
-239,1617,2023-07-03,1000.0,"Monika Kolejakova, Kamil Kolejak",Dar Monika Kolejakova,,KDH
-240,294,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
-241,296,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
-242,293,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
-243,298,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
-244,187,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
-245,144,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
-246,127,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
-247,105,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
-248,240,2023-08-02,-400.0,MESTSKA CAST BRATISLAVA-STARE MESTO,"Odoslaná platba elektronicky, MESTSKA CAST BRATISLAVA-STARE MESTO - Uzivanie verejneho priestranstva",VS: 3792004623,"Modri, Most-Hid"
-249,76,2023-09-18,400.0,Mestska cast Bratislava - Stare Mesto,"Prijatá platba, vratenie kaucie","VS: 3792004623
+88,398,2023-09-14,-50.0,TransferWise,Platba OO23091400038403/Vratenie daru podla 85/2005 Z.z.,,PS
+89,808,2023-09-08,50.0,TransferWise,Platba PO23090856275687/238911,671595557,PS
+90,425,2023-09-14,-350.0,Dr. Andreas Jusko,Platba OO23091400011808/vratenie daru,094,PS
+91,432,2023-09-14,350.0,Dr. Andreas Jusko,DE23091458846 204042309132AIP-/(CdtrRefInf)(Tp)(CdOrPrtry)(Cd)SCOR(/Cd)(/CdOrPrtry)(/Tp)(Ref)094(/Ref)(/CdtrRefInf),,PS
+92,329,2023-09-18,-75.0,MARTIN STRBA,PLATBA VA23091809121/Vratenie daru podla 85/2005 Z.z.,,PS
+93,526,2023-09-12,75.0,MARTIN STRBA,DE23091251722/DAR,,PS
+94,786,2023-05-17,-0.01,PAULINA SUTA,,,Hlas
+95,788,2023-05-09,0.01,PAULINA SUTA,... MAFIA ZLODEJSKA-,,Hlas
+96,785,2023-05-17,-0.01,LUBOMIR MORAVCIK,,,Hlas
+97,792,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
+98,784,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
+99,789,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
+100,690,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+101,693,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+102,661,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
+103,662,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
+104,638,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
+105,640,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
+106,622,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+107,623,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+108,609,2023-07-14,-432.0,"BigMedia, spol. s.r.o.",reklamné plochy,1223205529.0,SNS
+109,514,2023-08-01,432.0,"BIGMEDIA, SPOL. S R.O.",VRATENIE MYLNEJ PLATBY,,SNS
+110,475,2023-08-10,-63.0,KOSECKA NINA,vrátenie mylnej platby,,SNS
+111,476,2023-08-10,63.0,KOSECKA NINA,GO PEDRO GO,,SNS
+112,454,2023-08-11,-1.0,KOSECKA NINA,vratenie mylnej platby,,SNS
+113,468,2023-08-11,1.0,KOSECKA NINA,AHA A DAKUJEM ZA PEKNU NOC,,SNS
+114,435,2023-08-16,-0.01,Kozic Tomáš,vratenie mylnej platby,,SNS
+115,447,2023-08-16,0.01,Kozic Tomáš,Na logopeda pre Ada,,SNS
+116,418,2023-08-22,-1740.0,"NUBIUM, s.r.o.",reklamny priestor,13120286.0,SNS
+117,116,2023-09-26,1740.0,"NUBIUM, s. r. o.",vratenie preplatku,23085837.0,SNS
+118,386,2023-08-27,-1.0,Kabát Juraj,vrátenie mylnej platby,,SNS
+119,388,2023-08-27,1.0,Kabát Juraj,OO23082700007179,,SNS
+120,378,2023-08-28,-86.7,MAJSTRIK PETER,vratenie mylnej platby,20230760.0,SNS
+121,385,2023-08-28,86.7,MAJSTRIK PETER,Peter Majstrík,20230760.0,SNS
+122,301,2023-09-11,-156.0,"NUBIUM, s.r.o.",reklamny priestor,13120317.0,SNS
+123,224,2023-09-20,156.0,"NUBIUM, s. r. o.",vratenie platby,23096324.0,SNS
+124,303,2023-09-11,-838.2,"REGIONPRESS, s.r.o.",inzercia,586230142.0,SNS
+125,241,2023-09-19,838.2,"REGIONPRESS, s.r.o.",mylna platba,586230156.0,SNS
+126,232,2023-07-24,-145.2,"Tkáč Marián, Ing., CSc.",vrátenie daru,,LSNS
+127,243,2023-07-20,145.2,"Tkáč Marián, Ing., CSc.",OO23072000015915,,LSNS
+128,26,2023-09-25,-570.0,JSAS s.r.o.,vrátenie daru,,LSNS
+129,63,2023-09-19,570.0,JSAS s.r.o.,F001190920238040372,1892023.0,LSNS
+130,633,2023-06-09,-5000.0,"AREC 16, s.r.o.",Chyba informacia o ucele (dar),,Republika
+131,634,2023-06-09,5000.0,"AREC 16, s. r. o.","AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika
+132,624,2023-06-15,-57.0,Mesto Turčianske Teplice,najom kinosaly,5019300042,Republika
+133,612,2023-06-26,57.0,Mesto Turčianske Teplice,vratka 2x uhr.faktury,5019300042,Republika
+134,621,2023-06-19,-400.0,"Mestske sluzby Topolcany, sro",zabezpeky 2x prenajom KD,20062023,Republika
+135,613,2023-06-22,400.0,"MESTSKÉ SLUŽBY TOPOĽČANY, S.R.O.",vratena zabezpeka 2x prenajom KD,20062023,Republika
+136,597,2023-07-12,-5000.0,Oleksandra Markova,"Vratenie daru, Jan Marko",,Republika
+137,602,2023-07-06,5000.0,Oleksandra Markova,Darca Jan Marko,,Republika
+138,596,2023-07-13,-13000.0,"Janco Andrej, MUDr.",vratenie daru,,Republika
+139,607,2023-07-03,13000.0,"Janco Andrej, MUDr.",DAR JANCO,,Republika
+140,589,2023-07-14,-2760.0,ARTON s.r.o.,bilbordy 08/2023,230390,Republika
+141,496,2023-07-28,2760.0,ARTON s.r.o.,duplicitna uhrada (uhradene 17.7.),230390,Republika
+142,566,2023-07-24,-326.0,"Hilka Majkova Lucia, PhDr.",Vratenie daru,,Republika
+143,568,2023-07-24,326.0,"Hilka Majková Lucia, PhDr.",republika fin dar lucia hilka majkova volby,,Republika
+144,563,2023-07-24,-1000.0,"Mrazek Pavol, Ing. arch.",vratenie daru,,Republika
+145,564,2023-07-24,1000.0,"Mrázek Pavol, Ing. arch.",Financny dar kampan Lucia Hilka Majkova,9,Republika
+146,540,2023-07-26,-6000.0,Viera Moravčíková,"Vratenie platby, Igor Moravcik",,Republika
+147,552,2023-07-25,6000.0,Viera Moravčíková,Igor Moravcik,,Republika
+148,548,2023-07-26,-1000.0,"Hilka Majkova Lucia, PhDr.",vratenie daru,,Republika
+149,547,2023-07-26,1000.0,"Hilka Majková Lucia, PhDr.",lucia hilka majkova lipova 50 ivanka pri dunaji 900 28 -DAR,,Republika
+150,549,2023-07-26,-30000.0,UHRIKOVA ZUZANA,vratenie platby,,Republika
+151,567,2023-07-24,30000.0,UHRIKOVA ZUZANA,"ZUZANA UHRIKOVA, HORNOCERMANSKA 81",,Republika
+152,470,2023-07-31,-40000.0,Milan Mazurek,Vratenie pozicky,,Republika
+153,478,2023-07-31,40000.0,Milan Mazurek,PÔŽIČKA - REPUBLIKA,,Republika
+154,484,2023-07-31,-500.0,Tomáš Senko,Vratenie daru,,Republika
+155,469,2023-07-31,500.0,Tomáš Senko,"Tomas Senko, Obchodna 8555/3A, 010 08 Zilina. Dar",,Republika
+156,448,2023-08-01,-500.0,Keller Jozef,Vratenie platbu,,Republika
+157,459,2023-08-01,500.0,KELLER JOZEF,MVDr. Jozef Keller Levoca prisp.,310723,Republika
+158,389,2023-08-10,-233.0,Stefan Sitar,Vratenie daru (absencia cisla domu),,Republika
+159,392,2023-08-10,233.0,Štefan Sitár,"Štefan Sitár, Šurany - dar",,Republika
+160,372,2023-08-11,-27949.2,Ján Sabol,Vratenie daru (chybajuce udaje o darcovi),9,Republika
+161,385,2023-08-10,27949.2,Ján Sabol,JAN SABOL 24061972,9,Republika
+162,340,2023-08-16,-13560.0,ARTON s.r.o.,/DO2023-08-16/SP billboardy,230455,Republika
+163,261,2023-08-30,13560.0,ARTON s.r.o.,duplicitna uhrada. Uhradene 17.8.´23,230455,Republika
+164,329,2023-08-21,-1100.0,Miroslav Políček,"Miroslav Policek, vratenie daru",,Republika
+165,335,2023-08-18,1100.0,Miroslav Políček,"Miroslav Policek, Mlynska 419, 95131 Mocenok dar",,Republika
+166,283,2023-08-25,-449.16,PRISTAK MICHAL,Vratenie daru,,Republika
+167,286,2023-08-25,449.16,PRISTAK MICHAL,Michal Pristak faktura 2023445,,Republika
+168,254,2023-08-30,-100.0,PUPAK MILAN,Vratenie daru (adresa TB nie je uplna),,Republika
+169,262,2023-08-30,100.0,PUPAK MILAN,"Milan Pupak, Zlate Moravce, dar",,Republika
+170,242,2023-08-30,-90.0,Rafael Rafaj,Vratenie daru,,Republika
+171,252,2023-08-30,90.0,Rafael Rafaj,dar R.Rafaj kampan vizitky BBprint,,Republika
+172,189,2023-09-04,-250.0,"Machovicova Erika, Mgr.",Vratenie daru za Stefana Krnaca,,Republika
+173,210,2023-09-04,250.0,"Machovičová Erika, Mgr.","machovicova erika internatna 2, b.b. dar za krnac stefan",,Republika
+174,190,2023-09-04,-300.0,TATRA BANKA A.S. - CENTRALA,Vratenie daru,,Republika
+175,196,2023-09-04,300.0,TATRA BANKA A.S. - CENTRÁLA,"DAR Martin Dragun , Michalovce",,Republika
+176,194,2023-09-04,-567.0,Marek Fusaty,Vratenie daru Jaromir Smatrala,,Republika
+177,202,2023-09-04,567.0,Marek Fusaty,"Jaromir Smatrala, Bajkalska 29D, 82101 Bratislava, DAR",,Republika
+178,182,2023-09-04,-196.8,Eva Demjanova,Vrarenie daru - Peter Demjan,233047,Republika
+179,208,2023-09-04,196.8,Eva Demjanova,Dar - Peter Demjan - fa c. FV233047,233047,Republika
+180,183,2023-09-04,-727.2,Eva Demjanova,Vrarenie daru - Peter Demjan,2023187,Republika
+181,209,2023-09-04,727.2,Eva Demjanova,Dar - Peter Demjan - fa c. 2023187,2023187,Republika
+182,181,2023-09-04,-300.0,MARTIN CHUDY,Martin Chudy Vratenie daru,70,Republika
+183,195,2023-09-04,300.0,MARTIN CHUDY,Martin Chudy,70,Republika
+184,175,2023-09-04,-210.6,Janka Kuspalova,"Vratenie platby, Kuspalova Janka",20230232,Republika
+185,178,2023-09-04,210.6,Janka Kuspalova,"Kuspalova Janka, Busince",20230232,Republika
+186,172,2023-09-04,-312.0,Ivan Janovec,Vratenie daru,2023,Republika
+187,238,2023-08-31,312.0,Ivan Janovec,"Financny dar Ivan Janovec, kandidat c.92",2023,Republika
+188,204,2023-09-04,-30.0,PUPAK MILAN,Vratenie daru,,Republika
+189,233,2023-08-31,30.0,PUPAK MILAN,"Milan Pupak, Zlate Moravce, dar",,Republika
+190,205,2023-09-04,-144.0,Lubomir Pidanic,Vratenie daru,,Republika
+191,231,2023-08-31,144.0,Lubomir Pidanic,Financny dar. Lubomir Pidanic,,Republika
+192,203,2023-09-04,-240.0,Janecek Jan,Vratenie daru,,Republika
+193,236,2023-08-31,240.0,Janecek Jan,"Dar - Jan Cogan, Kukucinova 2042/3, 069 01 Snina (dar cislo 77)",,Republika
+194,212,2023-09-04,-411.6,FaxCopy a.s.,2458681,2458681,Republika
+195,121,2023-09-11,411.6,FaxCopy a.s.,obj. 2458681 - duplicitna uhrada Hnutie REPUBLIKA,2458681,Republika
+196,161,2023-09-05,-240.0,Janecek Jan,Vratenie daru,,Republika
+197,166,2023-09-05,240.0,Janecek Jan,Dar,,Republika
+198,132,2023-09-07,-250.0,"Machovicova Erika, Mgr.",Vratenie daru,,Republika
+199,128,2023-09-07,250.0,"Machovičová Erika, Mgr.","Machovicova Erika,Internatna 2,B.Bystrica- dar",,Republika
+200,1702,2023-06-28,-5000.0,Branislav Skripek,Vrátenie daru,,KDH
+201,1719,2023-06-24,5000.0,Branislav Skripek,dar na kampan,,KDH
+202,1604,2023-07-11,-999.0,BOSNAKOVA ZUZANA,Vrátenie daru/mylná platba,,KDH
+203,1644,2023-07-07,999.0,BOSNAKOVA ZUZANA,"Dar na kampan pre Zuzanu Bosnakovu,c.41",,KDH
+204,1579,2023-07-13,-3000.0,Miroslav Mikolasik,Vrátenie daru / mylná platba,4072023.0,KDH
+205,1663,2023-07-04,3000.0,Miroslav Mikolasik,Dar na kampan KDH Marcel Mikolasik c. 26,4072023.0,KDH
+206,1476,2023-07-18,-700.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
+207,1595,2023-07-12,700.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
+208,1477,2023-07-18,-500.0,"Baníková Andrea, MUDr.",Vrátenie daru/ mylná platba,665514.0,KDH
+209,1596,2023-07-12,500.0,"Baníková Andrea, MUDr.",kampan Banikova,665514.0,KDH
+210,1478,2023-07-18,-100.0,Spolocnost Jezisova,Vrátenie daru/ mylná platba,2023002213.0,KDH
+211,1530,2023-07-16,100.0,Spolocnost Jezisova,Dar,2023002213.0,KDH
+212,1365,2023-07-26,-100.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylná platba,25072023.0,KDH
+213,1580,2023-07-13,100.0,"Kaňuščák Milín, Ing.",kampan Facebook,2023.0,KDH
+214,1364,2023-07-26,-2634.0,"Kaňuščák Milín, Ing.",Vrátenie daru/mylný platba,214.0,KDH
+215,1379,2023-07-25,2634.0,"Kaňuščák Milín, Ing.",milin Kanuscak Eshop,214.0,KDH
+216,1367,2023-07-26,-200.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
+217,1505,2023-07-17,200.0,Peter Stuller,Dar Stuller,,KDH
+218,1366,2023-07-26,-150.0,Peter Stuller,Vrátenie daru/mylná platba,,KDH
+219,1378,2023-07-25,150.0,Peter Stuller,Objednavka 213 (25. jula 2023),,KDH
+220,1118,2023-08-09,-100.0,Oberle Tomáš,Vrátenie daru/mylná platba,2023002301.0,KDH
+221,1128,2023-08-08,100.0,Oberle Tomáš,Dar,2023002301.0,KDH
+222,1016,2023-08-15,-100.0,"Benko Pavel, Ing.",Vrátenie daru/mylná platba,521005393.0,KDH
+223,1509,2023-07-17,100.0,"Benko Pavel, Ing.",Dar na volby 2023 P.avol Benko,521005393.0,KDH
+224,819,2023-08-25,-3000.0,Mičo Jozef,Vrátenie daru/mylná platba,,KDH
+225,945,2023-08-18,3000.0,Mičo Jozef,F001180820233830514,,KDH
+226,735,2023-08-31,-10000.0,MIHALOV HENRICH,Vrátenie daru/mylná platba,1082023.0,KDH
+227,1209,2023-08-03,10000.0,MIHALOV HENRICH,Dar na kampan KDH,1082023.0,KDH
+228,548,2023-09-11,-106.0,"Frič Anton, Mgr.",Vrátenie daru/mylná platba,2023002344.0,KDH
+229,927,2023-08-19,106.0,"Frič Anton, Mgr.",Dar Anton Fric c. 77,2023002344.0,KDH
+230,549,2023-09-11,-485.0,"Frič Anton, Mgr.",Vrátenie daru/mylná platba,2023002335.0,KDH
+231,971,2023-08-17,485.0,"Frič Anton, Mgr.",Dar Anton Fric kandidat c 77,2023002335.0,KDH
+232,522,2023-09-12,-1686.0,HUDAK MAREK,Vrátenie daru/mylná platba,,KDH
+233,526,2023-09-12,1686.0,HUDAK MAREK,prispevok na kampan - M.Hudak,,KDH
+234,493,2023-09-13,-290.0,PIVARNIKOVA LUCIA,Vrátenie daru/mylná platba,12092023.0,KDH
+235,496,2023-09-13,290.0,PIVARNIKOVA LUCIA,Dar na kampan KDH,12092023.0,KDH
+236,222,2023-09-22,-1000.0,Vrtík Tomáš,Vrátenie daru/mylná platba,2023002744.0,KDH
+237,546,2023-09-11,1000.0,Vrtík Tomáš,Dar pre Roberta Dohala,2023002744.0,KDH
+238,128,2023-09-25,-1000.0,"Monika Kolejakova, Kamil Kolejak",Kamil Kolejak/ Vrátenie daru/ mylná platba,,KDH
+239,1675,2023-07-03,1000.0,"Monika Kolejakova, Kamil Kolejak",Dar Monika Kolejakova,,KDH
+240,310,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
+241,312,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
+242,309,2023-08-04,-1.0,Gasparova Zdenka,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 03082023,Aliancia
+243,314,2023-08-03,1.0,GASPAROVA ZDENKA,"Prijatá platba, ",,Aliancia
+244,189,2023-03-29,-280.0,Ján Hamar,"Vrátenie NEPOVOLENÉHO VKLADU z 27.2. 2023, Ján Hamar, OV KSS Levice VF r. 23",,Komunistická strana Slovenska
+245,146,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
+246,129,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
+247,107,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
+248,260,2023-08-02,-400.0,MESTSKA CAST BRATISLAVA-STARE MESTO,"Odoslaná platba elektronicky, MESTSKA CAST BRATISLAVA-STARE MESTO - Uzivanie verejneho priestranstva",VS: 3792004623,"Modri, Most-Hid"
+249,96,2023-09-18,400.0,Mestska cast Bratislava - Stare Mesto,"Prijatá platba, vratenie kaucie","VS: 3792004623
 KS: 0308","Modri, Most-Hid"
-250,75,2023-09-18,-20000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - vratenie daru zo dna 29.6.2023",,"Modri, Most-Hid"
-251,303,2023-06-29,20000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od ESONEBOTRA","VS: 0
+250,95,2023-09-18,-20000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - vratenie daru zo dna 29.6.2023",,"Modri, Most-Hid"
+251,323,2023-06-29,20000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od ESONEBOTRA","VS: 0
 ŠS: 0
 KS: 0968","Modri, Most-Hid"
-252,58,2023-09-20,-45000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - ciastocne vratenie daru zo dna 31.7.2023",,"Modri, Most-Hid"
-253,46,2023-09-22,45000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka Modri, M ost-Hid","VS: 0
+252,78,2023-09-20,-45000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - ciastocne vratenie daru zo dna 31.7.2023",,"Modri, Most-Hid"
+253,66,2023-09-22,45000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka Modri, M ost-Hid","VS: 0
 ŠS: 0","Modri, Most-Hid"
-254,44,2023-09-22,-50000.0,Patrik Ando,"Odoslaná platba elektronicky, Patrik Ando - vratenie daru",,"Modri, Most-Hid"
-255,36,2023-09-25,50000.0,Patrik Ando,"Prijatá platba, Dar",,"Modri, Most-Hid"
-256,20,2023-08-30,-100.0,"Janigová Oľga, Mgr.",vratenie dar Dasa Kovacova,42330955.0,Vlastenecký blok
-257,57,2023-07-13,100.0,"Janigová Oľga, Mgr.",DAR DASA KOVACOVA,,Vlastenecký blok
+254,64,2023-09-22,-50000.0,Patrik Ando,"Odoslaná platba elektronicky, Patrik Ando - vratenie daru",,"Modri, Most-Hid"
+255,56,2023-09-25,50000.0,Patrik Ando,"Prijatá platba, Dar",,"Modri, Most-Hid"
+256,21,2023-08-30,-100.0,"Janigová Oľga, Mgr.",vratenie dar Dasa Kovacova,42330955.0,Vlastenecký blok
+257,58,2023-07-13,100.0,"Janigová Oľga, Mgr.",DAR DASA KOVACOVA,,Vlastenecký blok
 258,19,2023-08-30,-1001.0,Róbert Winkler,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska
 259,32,2023-08-23,1001.0,ROBERT WINKLER,DAR,,Spoločne občania Slovenska
 260,20,2023-08-30,-2999.0,Róbert Winkler,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska
