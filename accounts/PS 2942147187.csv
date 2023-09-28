@@ -45,10 +45,22 @@ VS2023061/SS/KS"
 VS2023004/SS/KS"
 25,2023-09-26,-2500.0,EUR,Kuhn Teodor,"Platba/Kuhn, rezia a strih spot seniori","132023
 VS132023/SS/KS"
-26,2023-09-26,-5000.0,EUR,ING. ŠTEFAN KIŠŠ,"Platba/Kiss, ekonomicke a organizacne poradenstvo 09","923
-VS923/SS/KS"
-27,2023-09-26,-5000.0,EUR,PALUSAKOVA ZUZANA,"Platba/Palusakova, sprava socialnych sieti","20230010
-VS20230010/SS/KS"
+26,2023-09-26,-5000.0,EUR,ING. ŠTEFAN KIŠŠ,"
+                        Platba
+                    /
+                        Kiss, ekonomicke a organizacne poradenstvo 09
+                    ","
+                        923VS923/SS/KS
+                    "
+27,2023-09-26,-5000.0,EUR,"
+                            PALUSAKOVA ZUZANA
+                    ","
+                        Platba
+                    /
+                        Palusakova, sprava socialnych sieti
+                    ","
+                        20230010VS20230010/SS/KS
+                    "
 28,2023-09-26,-1600.0,EUR,"Vojtek Marián, Mgr.","Platba/Vojtek, prace v komunitnom kampanovom time 09","72023
 VS072023/SS/KS"
 29,2023-09-26,-3000.0,EUR,LUKAS GREC,"Platba/Grec, manazment online komunikacie 09","20230020
@@ -59,81 +71,22 @@ VS20230018/SS/KS"
 VS2023118/SS/KS"
 32,2023-09-26,25.0,EUR,Michal Marcis,PLATBA,"64146
 VS64146/SS/KS"
-33,2023-09-26,-220.0,EUR,Catering Slovakia,"Platba/Catering slovakia, tehnicke zabezpecenie priestorov 20.7.","
-                        2300023VS2300023/SS/KS
-                    "
-34,2023-09-26,100.0,EUR,"
-                            MARIA POTTERF
-                    ","
-                        PLATBA
-                    /
-                        PS DAR MARIA POTTERF
-                    ","
-                        62526VS0000062526/SS/KS0308
-                    "
-35,2023-09-26,100000.0,EUR,"
-                            Progresívne Slov.
-                    ","
-                        Platba
-                    /
-                        prevod medzi uctami
-                    ","
-                        
-                    "
-36,2023-09-26,50.0,EUR,"
-                            Jezny Samuel
-                    ","
-                        PLATBA
-                    /
-                        dar   Samuel Jezny
-                    ","
-                        
-                    "
-37,2023-09-26,100.0,EUR,"
-                            VAGADAY RASTISLAV
-                    ","
-                        PLATBA
-                    /
-                        PS dar Rastislav Vagaday
-                    ","
-                        267156VS267156/SS/KS0308
-                    "
-38,2023-09-26,25.0,EUR,"
-                            BOROVY JAN
-                    ","
-                        PLATBA
-                    /
-                        PS dar. Verim v buducnost na Slovensku.
-                    ","
-                        267154VS267154/SS/KS0308
-                    "
-39,2023-09-26,10.0,EUR,"
-                            VICHA BRONISLAV
-                    ","
-                        PLATBA
-                    /
-                        PS dar Bronislav Vicha
-                    ","
-                        267119VS267119/SS/KS0308
-                    "
-40,2023-09-26,11.0,EUR,"
-                            KALABOVA MAGDALENA
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        59270VS59270/SS/KS
-                    "
-41,2023-09-26,150.0,EUR,"
-                            KALINOVA EVA
-                    ","
-                        PLATBA
-                    /
-                        PS dar Eva Kalinova
-                    ","
-                        55269VS55269/SS/KS0308
-                    "
+33,2023-09-26,-220.0,EUR,Catering Slovakia,"Platba/Catering slovakia, tehnicke zabezpecenie priestorov 20.7.","2300023
+VS2300023/SS/KS"
+34,2023-09-26,100.0,EUR,MARIA POTTERF,PLATBA/PS DAR MARIA POTTERF,"62526
+VS0000062526/SS/KS0308"
+35,2023-09-26,100000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+36,2023-09-26,50.0,EUR,Jezny Samuel,PLATBA/dar Samuel Jezny,
+37,2023-09-26,100.0,EUR,VAGADAY RASTISLAV,PLATBA/PS dar Rastislav Vagaday,"267156
+VS267156/SS/KS0308"
+38,2023-09-26,25.0,EUR,BOROVY JAN,PLATBA/PS dar. Verim v buducnost na Slovensku.,"267154
+VS267154/SS/KS0308"
+39,2023-09-26,10.0,EUR,VICHA BRONISLAV,PLATBA/PS dar Bronislav Vicha,"267119
+VS267119/SS/KS0308"
+40,2023-09-26,11.0,EUR,KALABOVA MAGDALENA,PLATBA,"59270
+VS59270/SS/KS"
+41,2023-09-26,150.0,EUR,KALINOVA EVA,PLATBA/PS dar Eva Kalinova,"55269
+VS55269/SS/KS0308"
 42,2023-09-26,150.0,EUR,GAZIK MICHAL,PLATBA/PS dar Michal Gazik,"192365
 VS192365/SS/KS0308"
 43,2023-09-26,4000.0,EUR,PEKAR MARTIN,PLATBA/Dar Martin Pekar,"27
@@ -183,122 +136,41 @@ VS202309/SS/KS"
 VS50923/SS/KS"
 67,2023-09-25,-36.0,EUR,"NUBIUM, s. r. o.","Platba/Nubium, tlac 1ks Kosova","23096526
 VS23096526/SS/KS308"
-68,2023-09-25,-0.03,EUR,JUDR. RUZENA BAYEROV,"Platba/Bayerova, legalizacia dokumentov doplatok","1622023
-VS1622023/SS/KS"
-69,2023-09-25,-90.0,EUR,"STARFLORA, S. R. O.","Platba/Starflora, karafiat biely 50ks","2023444
-VS2023444/SS/KS"
-70,2023-09-25,-264.0,EUR,ING. JAROSLAV MAJER - AKO LUSK,"Platba/Ako lusk, upratovanie po koncerte","230903
-VS230903/SS/KS"
-71,2023-09-25,-250.0,EUR,"Pavol Krajci Consulting, s.r.o.","Platba/Krajci, organizacno technicke zabezpecenie koncertu pre buducnost","2023092401
-VS2023092401/SS/KS"
-72,2023-09-25,-900.0,EUR,"
-                            JAN SUROVKA JANS
+68,2023-09-25,-0.03,EUR,"
+                            JUDR. RUZENA BAYEROV
                     ","
                         Platba
                     /
-                        JANS, technicke zabezpecenie diskusie v Nitre
+                        Bayerova, legalizacia dokumentov doplatok
                     ","
-                        23009VS23009/SS/KS
+                        1622023VS1622023/SS/KS
                     "
-73,2023-09-25,-650.0,EUR,"
-                            ZAZI V TRNAVE - MEST
+69,2023-09-25,-90.0,EUR,"
+                            STARFLORA, S. R. O.
                     ","
                         Platba
                     /
-                        Kino Hviezda, prenajom 10.9.
+                        Starflora, karafiat biely 50ks
                     ","
-                        20230224VS20230224/SS/KS
+                        2023444VS2023444/SS/KS
                     "
-74,2023-09-25,-1500.0,EUR,"
-                            Nina Kelemenova
-                    ","
-                        Platba
-                    /
-                        Kelemenova, marketingove a admin sluzby 09
-                    ","
-                        20230003VS20230003/SS/KS308
-                    "
-75,2023-09-25,-1600.0,EUR,"
-                            KEED Slovakia
-                    ","
-                        Platba
-                    /
-                        KEED, koordinacia kampane zapad 09
-                    ","
-                        2023003VS2023003/SS/KS
-                    "
-76,2023-09-25,-1519.29,EUR,"
-                            Turňová Diana
-                    ","
-                        Platba
-                    /
-                        Turnova, marketingove a admin sluzby 09
-                    ","
-                        60923VS60923/SS/KS
-                    "
-77,2023-09-25,150.0,EUR,"
-                            Ciháková Eliška
-                    ","
-                        Platba
-                    /
-                        
-                    ","
-                        55058VS55058/SS/KS
-                    "
-78,2023-09-25,-2400.0,EUR,"
-                            th media, s.r.o.
-                    ","
-                        Platba
-                    /
-                        th media, reklamne a marketingove sluzby 09
-                    ","
-                        20230047VS20230047/SS/KS
-                    "
-79,2023-09-25,-2992.0,EUR,"
-                            Dávid Javorský
-                    ","
-                        Platba
-                    /
-                        Javorsky, video a foto sluzby 09
-                    ","
-                        2023008VS2023008/SS/KS308
-                    "
-80,2023-09-25,-2500.0,EUR,"
-                            Miroslav Kolárik - o
-                    ","
-                        Platba
-                    /
-                        Kolarik, monitoring socialnych sieti 09
-                    ","
-                        20230002VS20230002/SS/KS
-                    "
-81,2023-09-25,-2000.0,EUR,"
-                            Natália Heribanová
-                    ","
-                        Platba
-                    /
-                        Heribanova, marketingove a komunikacne sluzby 09
-                    ","
-                        62023VS62023/SS/KS
-                    "
-82,2023-09-25,-2800.0,EUR,"
-                            VELICKA JANA
-                    ","
-                        Platba
-                    /
-                        Velicka, admin sluzby 09
-                    ","
-                        20230006VS20230006/SS/KS
-                    "
-83,2023-09-25,-3500.4,EUR,"
-                            JANA GOGH S. R. O.
-                    ","
-                        Platba
-                    /
-                        Gogh, reklamne a marketingove sluzby 09
-                    ","
-                        20230028VS20230028/SS/KS
-                    "
+70,2023-09-26,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+71,2023-09-26,-800.0,EUR,,EUR NÁKUP POS FACEBK 4BPTXTXTJ2 / fb.me/ads / (POS 99999999),
+72,2023-09-26,-40.6,EUR,,POS nákup RIVA BRATISLAVA / BRATISLAVA / (POS OBS13304),
+73,2023-09-26,-1000.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
+74,2023-09-26,-2000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
+75,2023-09-26,-800.0,EUR,,EUR NÁKUP POS FACEBK *H8BN4S7M52 / fb.me/ads / (POS 99999999),
+76,2023-09-26,-800.0,EUR,,EUR NÁKUP POS FACEBK BVBVBT79D2 / fb.me/ads / (POS 99999999),
+77,2023-09-26,-2.66,EUR,,EUR NÁKUP POS FACEBK 8GTEMTTUJ2 / fb.me/ads / (POS 99999999),
+78,2023-09-26,-961.48,EUR,,EUR NÁKUP POS FACEBK *3Q3JBT79D2 / fb.me/ads / (POS 99999999),
+79,2023-09-25,500.0,EUR,Mikulášková Dáša,Platba/Dar na kampan Juraj Mikulasek,"123
+VS123/SS/KS"
+80,2023-09-25,150.0,EUR,Daniel Milo,Platba/Dar pre Irena Bihariova,"10
+VS10/SS/KS"
+81,2023-09-25,-10.0,EUR,,SPRAC.POPLATOK VI23092510394,
+82,2023-09-25,-420.66,EUR,,PLATBA VI23092510394,
+83,2023-09-25,300.0,EUR,"Jaurová Zora, Mgr.",Platba/Dar Zora Jaurova,"6
+VS006/SS/KS"
 84,2023-09-25,-4100.0,EUR,Ridzoň Jerguš,"Platba/Ridzon, admin a marketingove sluzby 09","2023022
 VS2023022/SS/KS"
 85,2023-09-25,-4812.0,EUR,More Design s. r. o.,"Platba/More Design, graficke prace a web 09","202342

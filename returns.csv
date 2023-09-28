@@ -35,12 +35,12 @@ index,index,date,amount,account_name,message,vs,name
 33,1051,2023-08-31,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
 34,289,2023-08-29,-0.01,Blahovec Stefan,Blahovec Stefan-vratenie daru zo dna 15.08.2023,15082023.0,Smer
 35,324,2023-08-15,0.01,Blahovec Štefan,F001150820239933680,,Smer
-36,642,2023-06-29,-186.0,BigMedia spol s.r.o.,"bilboard 9/2023, Čech",122390104.0,SaS
-37,535,2023-07-27,186.0,"BIGMEDIA, SPOL. S R.O.",322310032 26.07.2023,322310032.0,SaS
-38,531,2023-07-28,-115.0,mesto Stropkov,Jozef Venglovic,42139333.0,SaS
-39,492,2023-08-04,115.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,SaS
-40,510,2023-08-02,-1872.0,Guldan-Studio s.r.o.,"tlač BB 22 ks, Halgašová",23012.0,SaS
-41,496,2023-08-04,1872.0,GULDAN-STUDIO S.R.O.,Duplicitna platba FZ23012,23012.0,SaS
+36,650,2023-06-29,-186.0,BigMedia spol s.r.o.,"bilboard 9/2023, Čech",122390104.0,SaS
+37,543,2023-07-27,186.0,"BIGMEDIA, SPOL. S R.O.",322310032 26.07.2023,322310032.0,SaS
+38,539,2023-07-28,-115.0,mesto Stropkov,Jozef Venglovic,42139333.0,SaS
+39,500,2023-08-04,115.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,SaS
+40,518,2023-08-02,-1872.0,Guldan-Studio s.r.o.,"tlač BB 22 ks, Halgašová",23012.0,SaS
+41,504,2023-08-04,1872.0,GULDAN-STUDIO S.R.O.,Duplicitna platba FZ23012,23012.0,SaS
 42,251,2023-09-21,-50.0,JANULIK LUKAS,Vratenie platby,821119.0,OĽaNO
 43,703,2023-08-16,50.0,JANULIK LUKAS,26374886,821119.0,OĽaNO
 44,2118,2023-04-12,-100.0,Príbiš Milena,Platba/vratenie daru podla Z.z c.85/2005 paragraf 24 ods.2,,PS
@@ -107,32 +107,32 @@ VS9092023/SS/KS308",PS
 97,792,2023-04-17,0.01,LUBOMIR MORAVCIK,Aby ste si naskrabkali a mohli dalej kradnut,,Hlas
 98,784,2023-05-17,-0.05,Kubík Tomáš,,,Hlas
 99,789,2023-05-08,0.05,Kubík Tomáš,naskrabkaj si ty zmrd,,Hlas
-100,690,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
-101,693,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
-102,661,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
-103,662,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
-104,638,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
-105,640,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
-106,622,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-107,623,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
-108,609,2023-07-14,-432.0,"BigMedia, spol. s.r.o.",reklamné plochy,1223205529.0,SNS
-109,514,2023-08-01,432.0,"BIGMEDIA, SPOL. S R.O.",VRATENIE MYLNEJ PLATBY,,SNS
-110,475,2023-08-10,-63.0,KOSECKA NINA,vrátenie mylnej platby,,SNS
-111,476,2023-08-10,63.0,KOSECKA NINA,GO PEDRO GO,,SNS
-112,454,2023-08-11,-1.0,KOSECKA NINA,vratenie mylnej platby,,SNS
-113,468,2023-08-11,1.0,KOSECKA NINA,AHA A DAKUJEM ZA PEKNU NOC,,SNS
-114,435,2023-08-16,-0.01,Kozic Tomáš,vratenie mylnej platby,,SNS
-115,447,2023-08-16,0.01,Kozic Tomáš,Na logopeda pre Ada,,SNS
-116,418,2023-08-22,-1740.0,"NUBIUM, s.r.o.",reklamny priestor,13120286.0,SNS
-117,116,2023-09-26,1740.0,"NUBIUM, s. r. o.",vratenie preplatku,23085837.0,SNS
-118,386,2023-08-27,-1.0,Kabát Juraj,vrátenie mylnej platby,,SNS
-119,388,2023-08-27,1.0,Kabát Juraj,OO23082700007179,,SNS
-120,378,2023-08-28,-86.7,MAJSTRIK PETER,vratenie mylnej platby,20230760.0,SNS
-121,385,2023-08-28,86.7,MAJSTRIK PETER,Peter Majstrík,20230760.0,SNS
-122,301,2023-09-11,-156.0,"NUBIUM, s.r.o.",reklamny priestor,13120317.0,SNS
-123,224,2023-09-20,156.0,"NUBIUM, s. r. o.",vratenie platby,23096324.0,SNS
-124,303,2023-09-11,-838.2,"REGIONPRESS, s.r.o.",inzercia,586230142.0,SNS
-125,241,2023-09-19,838.2,"REGIONPRESS, s.r.o.",mylna platba,586230156.0,SNS
+100,691,2023-05-12,-2.56,Jankulár Roman,vratenie mylnej platby,,SNS
+101,694,2023-05-07,2.56,Jankulár Roman,OO23050700006728,,SNS
+102,662,2023-06-16,-10.0,Klenko Milan,vrátenie mylnej platby,,SNS
+103,663,2023-06-15,10.0,Klenko Milan,F001150620233053516,,SNS
+104,639,2023-06-26,-950.0,Vlasta Mudríková,ostatne naklady,23018.0,SNS
+105,641,2023-06-23,950.0,Vlasta Mudríková,vrátenie mylnej platby,,SNS
+106,623,2023-07-03,-2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+107,624,2023-07-03,2676.0,"EUNICA MEDIA, s.r.o.",reklamny priestor,623.0,SNS
+108,610,2023-07-14,-432.0,"BigMedia, spol. s.r.o.",reklamné plochy,1223205529.0,SNS
+109,515,2023-08-01,432.0,"BIGMEDIA, SPOL. S R.O.",VRATENIE MYLNEJ PLATBY,,SNS
+110,476,2023-08-10,-63.0,KOSECKA NINA,vrátenie mylnej platby,,SNS
+111,477,2023-08-10,63.0,KOSECKA NINA,GO PEDRO GO,,SNS
+112,455,2023-08-11,-1.0,KOSECKA NINA,vratenie mylnej platby,,SNS
+113,469,2023-08-11,1.0,KOSECKA NINA,AHA A DAKUJEM ZA PEKNU NOC,,SNS
+114,436,2023-08-16,-0.01,Kozic Tomáš,vratenie mylnej platby,,SNS
+115,448,2023-08-16,0.01,Kozic Tomáš,Na logopeda pre Ada,,SNS
+116,419,2023-08-22,-1740.0,"NUBIUM, s.r.o.",reklamny priestor,13120286.0,SNS
+117,117,2023-09-26,1740.0,"NUBIUM, s. r. o.",vratenie preplatku,23085837.0,SNS
+118,387,2023-08-27,-1.0,Kabát Juraj,vrátenie mylnej platby,,SNS
+119,389,2023-08-27,1.0,Kabát Juraj,OO23082700007179,,SNS
+120,379,2023-08-28,-86.7,MAJSTRIK PETER,vratenie mylnej platby,20230760.0,SNS
+121,386,2023-08-28,86.7,MAJSTRIK PETER,Peter Majstrík,20230760.0,SNS
+122,302,2023-09-11,-156.0,"NUBIUM, s.r.o.",reklamny priestor,13120317.0,SNS
+123,225,2023-09-20,156.0,"NUBIUM, s. r. o.",vratenie platby,23096324.0,SNS
+124,304,2023-09-11,-838.2,"REGIONPRESS, s.r.o.",inzercia,586230142.0,SNS
+125,242,2023-09-19,838.2,"REGIONPRESS, s.r.o.",mylna platba,586230156.0,SNS
 126,232,2023-07-24,-145.2,"Tkáč Marián, Ing., CSc.",vrátenie daru,,LSNS
 127,243,2023-07-20,145.2,"Tkáč Marián, Ing., CSc.",OO23072000015915,,LSNS
 128,26,2023-09-25,-570.0,JSAS s.r.o.,vrátenie daru,,LSNS
@@ -255,18 +255,18 @@ VS9092023/SS/KS308",PS
 245,146,2023-05-23,280.0,Ján Hamar,Na VF OV KSS Levice,,Komunistická strana Slovenska
 246,129,2023-06-27,-240.0,Dana Grusová,"Vrátenie nepovolenej platby, Dana Grusová, príspevok MO KSS Košice zo dňa 5.6. 2023",,Komunistická strana Slovenska
 247,107,2023-07-19,240.0,Dana Grusova,Volebny fond MO Kosice,,Komunistická strana Slovenska
-248,260,2023-08-02,-400.0,MESTSKA CAST BRATISLAVA-STARE MESTO,"Odoslaná platba elektronicky, MESTSKA CAST BRATISLAVA-STARE MESTO - Uzivanie verejneho priestranstva",VS: 3792004623,"Modri, Most-Hid"
-249,96,2023-09-18,400.0,Mestska cast Bratislava - Stare Mesto,"Prijatá platba, vratenie kaucie","VS: 3792004623
+248,264,2023-08-02,-400.0,MESTSKA CAST BRATISLAVA-STARE MESTO,"Odoslaná platba elektronicky, MESTSKA CAST BRATISLAVA-STARE MESTO - Uzivanie verejneho priestranstva",VS: 3792004623,"Modri, Most-Hid"
+249,100,2023-09-18,400.0,Mestska cast Bratislava - Stare Mesto,"Prijatá platba, vratenie kaucie","VS: 3792004623
 KS: 0308","Modri, Most-Hid"
-250,95,2023-09-18,-20000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - vratenie daru zo dna 29.6.2023",,"Modri, Most-Hid"
-251,323,2023-06-29,20000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od ESONEBOTRA","VS: 0
+250,99,2023-09-18,-20000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - vratenie daru zo dna 29.6.2023",,"Modri, Most-Hid"
+251,327,2023-06-29,20000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Dar pre Modri, M ost-Hid od ESONEBOTRA","VS: 0
 ŠS: 0
 KS: 0968","Modri, Most-Hid"
-252,78,2023-09-20,-45000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - ciastocne vratenie daru zo dna 31.7.2023",,"Modri, Most-Hid"
-253,66,2023-09-22,45000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka Modri, M ost-Hid","VS: 0
+252,82,2023-09-20,-45000.0,"EOSNEBOTRA, a.s.","Odoslaná platba elektronicky, EOSNEBOTRA - ciastocne vratenie daru zo dna 31.7.2023",,"Modri, Most-Hid"
+253,70,2023-09-22,45000.0,"EOSNEBOTRA,A.S.","Prijatá platba, Pozicka Modri, M ost-Hid","VS: 0
 ŠS: 0","Modri, Most-Hid"
-254,64,2023-09-22,-50000.0,Patrik Ando,"Odoslaná platba elektronicky, Patrik Ando - vratenie daru",,"Modri, Most-Hid"
-255,56,2023-09-25,50000.0,Patrik Ando,"Prijatá platba, Dar",,"Modri, Most-Hid"
+254,68,2023-09-22,-50000.0,Patrik Ando,"Odoslaná platba elektronicky, Patrik Ando - vratenie daru",,"Modri, Most-Hid"
+255,60,2023-09-25,50000.0,Patrik Ando,"Prijatá platba, Dar",,"Modri, Most-Hid"
 256,21,2023-08-30,-100.0,"Janigová Oľga, Mgr.",vratenie dar Dasa Kovacova,42330955.0,Vlastenecký blok
 257,58,2023-07-13,100.0,"Janigová Oľga, Mgr.",DAR DASA KOVACOVA,,Vlastenecký blok
 258,19,2023-08-30,-1001.0,Róbert Winkler,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska
