@@ -4,15 +4,83 @@ index,date,amount,currency,account_name,message,vs
 2,2023-09-26,-200.0,EUR,,EUR NÁKUP POS FACEBK AT7QBRFV92 / fb.me/ads / (POS 99999999),
 3,2023-09-25,-200.0,EUR,,EUR NÁKUP POS FACEBK FWQAKRKW92 / fb.me/ads / (POS 99999999),
 4,2023-09-25,-23.23,EUR,,POS nákup zahr. CHATGPT SUBSCRIPTION / HTTPSOPENAI.C / (POS 7N3QWJUF),
-5,2023-09-25,-86.15,EUR,,POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0),
-6,2023-09-21,-200.0,EUR,,EUR NÁKUP POS FACEBK ZKY6NRFW92 / fb.me/ads / (POS 99999999),
-7,2023-09-20,-4.82,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),
-8,2023-09-19,-140.0,EUR,,EUR NÁKUP POS FACEBK JKT8KRFW92 / fb.me/ads / (POS 99999999),
-9,2023-09-18,-90.0,EUR,,EUR NÁKUP POS FACEBK B6W3HRFW92 / fb.me/ads / (POS 99999999),
-10,2023-09-18,-11.59,EUR,,POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF),
-11,2023-09-18,-39.88,EUR,,EUR NÁKUP POS FACEBK *SMU7FRFW92 / fb.me/ads / (POS 99999999),
-12,2023-09-18,-4.03,EUR,,POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF),
-13,2023-09-14,-200.0,EUR,,EUR NÁKUP POS FACEBK 6NFZ6R3W92 / fb.me/ads / (POS 99999999),
+5,2023-09-25,-86.15,EUR,,"POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0)/
+                        
+                    ","
+                        
+                    "
+6,2023-09-21,-200.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK ZKY6NRFW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+7,2023-09-20,-4.82,EUR,"
+                            
+                    ","
+                        POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL)
+                    /
+                        
+                    ","
+                        
+                    "
+8,2023-09-19,-140.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK JKT8KRFW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+9,2023-09-18,-90.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK B6W3HRFW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+10,2023-09-18,-11.59,EUR,"
+                            
+                    ","
+                        POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF)
+                    /
+                        
+                    ","
+                        
+                    "
+11,2023-09-18,-39.88,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK *SMU7FRFW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+12,2023-09-18,-4.03,EUR,"
+                            
+                    ","
+                        POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF)
+                    /
+                        
+                    ","
+                        
+                    "
+13,2023-09-14,-200.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 6NFZ6R3W92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 14,2023-09-11,-19.22,EUR,,POS nákup zahr. PADDLE.NET*TILEBIT / London / (POS 99999999),
 15,2023-09-05,-5.55,EUR,,EUR NÁKUP POS FACEBK C92F5S3J72 / fb.me/ads / (POS 99999999),
 16,2023-09-05,-4.33,EUR,,EUR NÁKUP POS FACEBK 2RM37T7GC2 / fb.me/ads / (POS 99999999),
@@ -35,63 +103,13 @@ VS20232638/SS/KS"
 32,2023-08-30,-40.0,EUR,,EUR NÁKUP POS FACEBK 542KGQ7W92 / fb.me/ads / (POS 99999999),
 33,2023-08-30,-14.31,EUR,,POS nákup zahr. DANTE AI INC. / LONDON / (POS 5GMN9JHB),
 34,2023-08-30,-33.0,EUR,,EUR NÁKUP POS FACEBK 2ZBDNQ3W92 / fb.me/ads / (POS 99999999),
-35,2023-08-28,-27.0,EUR,,EUR NÁKUP POS FACEBK 9VXQMQXV92 / fb.me/ads / (POS 99999999),"
-                        
-                    "
-36,2023-08-28,-22.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK 32MLEQ7W92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-37,2023-08-28,-20.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK HGE8KQKV92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-38,2023-08-28,-15.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK HQTMARBW92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-39,2023-08-24,-13.99,EUR,"
-                            
-                    ","
-                        INT NÁKUP POS EUR CANVA* I03885-24988642 / HTTPSCANVA.CO / (POS RHM0EZQC)
-                    /
-                        
-                    ","
-                        
-                    "
-40,2023-08-23,-19.01,EUR,"
-                            
-                    ","
-                        POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF)
-                    /
-                        
-                    ","
-                        
-                    "
-41,2023-08-22,-84.3,EUR,"
-                            
-                    ","
-                        POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0)
-                    /
-                        
-                    ","
-                        
-                    "
+35,2023-08-28,-27.0,EUR,,EUR NÁKUP POS FACEBK 9VXQMQXV92 / fb.me/ads / (POS 99999999),
+36,2023-08-28,-22.0,EUR,,EUR NÁKUP POS FACEBK 32MLEQ7W92 / fb.me/ads / (POS 99999999),
+37,2023-08-28,-20.0,EUR,,EUR NÁKUP POS FACEBK HGE8KQKV92 / fb.me/ads / (POS 99999999),
+38,2023-08-28,-15.0,EUR,,EUR NÁKUP POS FACEBK HQTMARBW92 / fb.me/ads / (POS 99999999),
+39,2023-08-24,-13.99,EUR,,INT NÁKUP POS EUR CANVA* I03885-24988642 / HTTPSCANVA.CO / (POS RHM0EZQC),
+40,2023-08-23,-19.01,EUR,,POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF),
+41,2023-08-22,-84.3,EUR,,POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0),
 42,2023-08-21,-4.74,EUR,,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),
 43,2023-08-17,-68.0,EUR,,EUR NÁKUP POS FACEBK 82KUSR3HC2 / fb.me/ads / (POS 99999999),
 44,2023-08-15,-12.0,EUR,,EUR NÁKUP POS FACEBK 89DNGQFW92 / fb.me/ads / (POS 99999999),
