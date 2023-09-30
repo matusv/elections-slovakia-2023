@@ -6,7 +6,9 @@ VS267199/SS/KS"
 3,2023-09-28,10.0,EUR,ANDREJ SHADURA,PLATBA/PS DAR ANDREJ SHADURA,"52032
 VS0000052032/SS/KS0308"
 4,2023-09-28,-40.8,EUR,MACSEK PETER,Platba/macsek peter vratenie,
-5,2023-09-28,40.8,EUR,MACSEK PETER,"
+5,2023-09-28,40.8,EUR,"
+                            MACSEK PETER
+                    ","
                         PLATBA
                     /
                         
@@ -135,104 +137,145 @@ VS2023138/SS/KS"
 VS2023136/SS/KS"
 47,2023-09-27,-600.0,EUR,Advajs advertising s. r. o.,"Platba/Advajs, marketingove sluzby tvorba obsahu 09","20230057
 VS20230057/SS/KS"
-48,2023-09-27,-1750.0,EUR,"
-                            HELLEBRANDT TOMAS
-                    ","
-                        Platba
-                    /
-                        Hellebrandt, poradenske sluzby 09
-                    ","
-                        2023004VS2023004/SS/KS
-                    "
-49,2023-09-27,-960.0,EUR,"
-                            ARES SECURITY, s.r.o
-                    ","
-                        Platba
-                    /
-                        Ares, SBS sluzby volebna noc 30.9.
-                    ","
-                        20230007VS20230007/SS/KS
-                    "
-50,2023-09-27,-2046.0,EUR,"
-                            ARES SECURITY, s.r.o
-                    ","
-                        Platba
-                    /
-                        Ares, SBS sluzby 24-30.9.
-                    ","
-                        20230008VS20230008/SS/KS
-                    "
-51,2023-09-27,243.18,EUR,"
-                            Progresívne Slov.
-                    ","
-                        Platba
-                    /
-                        vratenie mylnej platby tlaciaren kezmarok 20231236
-                    ","
-                        
-                    "
-52,2023-09-27,180.0,EUR,"
-                            Progresívne Slov.
-                    ","
-                        Platba
-                    /
-                        vratenie mylnej platby tlaciaren kezmarok 20231235
-                    ","
-                        
-                    "
-53,2023-09-27,25.0,EUR,"
-                            PETER JANCOK
-                    ","
-                        PLATBA
-                    /
-                        PLATBA
-                    ","
-                        196494VS0000196494/SS/KS
-                    "
-54,2023-09-27,150.0,EUR,"
-                            MATUS BANDUR
-                    ","
-                        PLATBA
-                    /
-                        PS DAR MATUS BANDUR
-                    ","
-                        63506VS0000063506/SS/KS0308
-                    "
-55,2023-09-27,20.0,EUR,"
-                            Base Jiri
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        
-                    "
-56,2023-09-27,-10260.0,EUR,FOCUS CENTRUM PRE SO,"Platba/Focus, kvantitativny prieskum verejnej mienky","20232096
-VS20232096/SS/KS"
-57,2023-09-27,10.0,EUR,Marian Miklusak,Platba/PS dar Marian Miklusak,"267196
-VS267196/SS/KS308"
-58,2023-09-27,500.0,EUR,SCHNORRER MILAN,Platba/PS dar Milan Schnorrer,"267203
-VS267203/SS/KS308"
-59,2023-09-27,-13.68,EUR,"EUROKO, SPOL. S.R.O.","Platba/euroko, naramky volebna noc","2020230388
-VS2020230388/SS/KS"
-60,2023-09-27,-414.0,EUR,EDENcars,"Platba/Edencars, nadlimit kilometrov dodavka","302300966
-VS302300966/SS/KS308"
-61,2023-09-27,-120.0,EUR,Barbora Jurcova,"Platba/Jurcova, foto 16.9.",
-62,2023-09-27,-80.0,EUR,,"Platba/HZS, reklama Kezmarske noviny A6, Kiss","142023
-VS142023/SS011/KS0308"
-63,2023-09-27,-1200.0,EUR,Kľujev Maxim,"Platba/Klujev, kameraman spot seniori",
-64,2023-09-27,-1296.0,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023137
-VS2023137/SS/KS"
-65,2023-09-27,-9042.0,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, nakup medialneho priestoru aktuality.sk a siet ringier 09/23","2023140
-VS2023140/SS/KS"
-66,2023-09-27,-9001.44,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023138
-VS2023138/SS/KS"
-67,2023-09-27,-3000.0,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, nakup medialneho priestoru SITA 09/23","2023136
-VS2023136/SS/KS"
-68,2023-09-27,-600.0,EUR,Advajs advertising s. r. o.,"Platba/Advajs, marketingove sluzby tvorba obsahu 09","20230057
-VS20230057/SS/KS"
-69,2023-09-27,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby 09","2023004
+48,2023-09-27,-1750.0,EUR,HELLEBRANDT TOMAS,"Platba/Hellebrandt, poradenske sluzby 09","2023004
 VS2023004/SS/KS"
+49,2023-09-27,-960.0,EUR,"ARES SECURITY, s.r.o","Platba/Ares, SBS sluzby volebna noc 30.9.","20230007
+VS20230007/SS/KS"
+50,2023-09-27,-2046.0,EUR,"ARES SECURITY, s.r.o","Platba/Ares, SBS sluzby 24-30.9.","20230008
+VS20230008/SS/KS"
+51,2023-09-27,243.18,EUR,Progresívne Slov.,Platba/vratenie mylnej platby tlaciaren kezmarok 20231236,
+52,2023-09-27,180.0,EUR,Progresívne Slov.,Platba/vratenie mylnej platby tlaciaren kezmarok 20231235,
+53,2023-09-27,25.0,EUR,PETER JANCOK,PLATBA/PLATBA,"196494
+VS0000196494/SS/KS"
+54,2023-09-27,150.0,EUR,MATUS BANDUR,PLATBA/PS DAR MATUS BANDUR,"63506
+VS0000063506/SS/KS0308"
+55,2023-09-27,20.0,EUR,Base Jiri,PLATBA,
+56,2023-09-27,110.0,EUR,"
+                            Sabo Michal
+                    ","
+                        PLATBA
+                    /
+                        
+                    ","
+                        17VS017/SS/KS
+                    "
+57,2023-09-27,150.0,EUR,"
+                            Krjak Tomas
+                    ","
+                        PLATBA
+                    /
+                        045
+                    ","
+                        120846VS120846/SS/KS
+                    "
+58,2023-09-27,20.0,EUR,"
+                            GRELL ADRIANA
+                    ","
+                        PLATBA
+                    /
+                        PS dar Adriana Grell
+                    ","
+                        267170VS267170/SS/KS0308
+                    "
+59,2023-09-27,100.0,EUR,"
+                            Medvecký Ivan, Ing.
+                    ","
+                        Platba
+                    /
+                        PS dar Ivan
+                    ","
+                        267189VS267189/SS/KS308
+                    "
+60,2023-09-27,350.0,EUR,"
+                            KONECNY STEFAN
+                    ","
+                        PLATBA
+                    /
+                        PS dar Stefan Konecny
+                    ","
+                        267074VS267074/SS/KS0308
+                    "
+61,2023-09-27,75.0,EUR,"
+                            Ivona Brandes
+                    ","
+                        DE23092757801 2023092600000000
+                    /
+                        88424 PS dar Ivona Brandes
+                    ","
+                        
+                    "
+62,2023-09-27,250.0,EUR,"
+                            MARTINA ZILKOVA
+                    ","
+                        PLATBA
+                    /
+                        Martina Zilkova
+                    ","
+                        38VS038/SS/KS
+                    "
+63,2023-09-27,56.4,EUR,"
+                            Kendra Pavel, Ing.
+                    ","
+                        Platba
+                    /
+                        PS dar Pavel Kendra
+                    ","
+                        95VS095/SS/KS308
+                    "
+64,2023-09-28,-819.11,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK NMQ4RTB9D2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+65,2023-09-28,-854.06,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 3AVTGUPUJ2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+66,2023-09-28,-800.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK *CG9BDUPTJ2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+67,2023-09-26,10.0,EUR,"
+                            Anna Zelenkova
+                    ","
+                        Platba
+                    /
+                        podporujem PS
+                    ","
+                        93806VS93806/SS/KS
+                    "
+68,2023-09-28,-800.0,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 9RFX8TT9D2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+69,2023-09-26,500.0,EUR,"
+                            Stefan Kiss
+                    ","
+                        Platba
+                    /
+                        Dar Stefan Kiss
+                    ","
+                        
+                    "
 70,2023-09-27,-960.0,EUR,"ARES SECURITY, s.r.o","Platba/Ares, SBS sluzby volebna noc 30.9.","20230007
 VS20230007/SS/KS"
 71,2023-09-27,-2046.0,EUR,"ARES SECURITY, s.r.o","Platba/Ares, SBS sluzby 24-30.9.","20230008
