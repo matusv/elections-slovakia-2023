@@ -6492,15 +6492,7 @@ index,date,account_name,amount,message,vs,name,label
 6488,2023-01-31,,-5.0,Zverejňovanie účtu,,OĽaNO,PS
 6489,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
 6490,2023-09-29,PETRIK SIMONA,-160.0,"Platba/Petrik, vratenie daru",VS/SS008/KS,PS,PS
-6491,2023-09-29,"
-                            
-                    ",-7.49,"
-                        EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
+6491,2023-09-29,,-7.49,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),,PS,PS
 6492,2023-09-29,,-1.27,EUR NÁKUP POS FACEBK SMDHEUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6493,2023-09-29,,-2.56,EUR NÁKUP POS FACEBK 3K38STB9D2 / fb.me/ads / (POS 99999999),,PS,PS
 6494,2023-09-29,,-0.93,EUR NÁKUP POS FACEBK LFN7QSFM52 / fb.me/ads / (POS 99999999),,PS,PS
@@ -6527,20 +6519,91 @@ index,date,account_name,amount,message,vs,name,label
 6515,2023-09-29,,-0.83,EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6516,2023-09-29,,-300.0,EUR NÁKUP POS FACEBK L42GVU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6517,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6518,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6519,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6520,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6521,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6518,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
+6519,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
+6520,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
+6521,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
 6522,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6523,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6523,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
 6524,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6525,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6526,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6527,2023-09-29,"GROOW DIGITAL, s. r.",-5299.2,"Platba/GROOW DIGITAL, agency fee 08-09","2023142
-VS2023142/SS/KS",PS,PS
+6525,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
+6526,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
+6527,2023-09-29,"
+                            GROOW DIGITAL, s. r.
+                    ",-5299.2,"
+                        Platba
+                    /
+                        GROOW DIGITAL, agency fee 08-09
+                    ","
+                        2023142VS2023142/SS/KS
+                    ",PS,PS
 6528,2023-09-29,"GROOW DIGITAL, s. r.",-50173.51,"Platba/GROOW, medialny nakup adform","2023141
 VS2023141/SS/KS",PS,PS
-6529,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6529,2023-09-29,"
+                            
+                    ",-5.0,"
+                        Zrušenie karty ZRUŠENIE KARTY
+                    /
+                        
+                    ","
+                        
+                    ",PS,PS
 6530,2023-09-29,Obec Nová Dedinka,-45.0,"Platba/Obec Nova Dedinka, inzercia v novinach Hargas","2310080
 VS2310080/SS031/KS",PS,PS
 6531,2023-09-29,,-2.36,EUR NÁKUP POS FACEBK J8D92TP9D2 / fb.me/ads / (POS 99999999),,PS,PS
@@ -6650,7 +6713,9 @@ VS2023138/SS/KS",PS,PS
 6611,2023-09-27,Ivona Brandes,75.0,DE23092757801 2023092600000000/88424 PS dar Ivona Brandes,,PS,PS
 6612,2023-09-27,"GROOW DIGITAL, s. r.",-1296.0,"Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023137
 VS2023137/SS/KS",PS,PS
-6613,2023-09-27,"Kolenčíková Zuzana,",-10.0,"
+6613,2023-09-27,"
+                            Kolenčíková Zuzana,
+                    ",-10.0,"
                         Platba
                     /
                         Kolencikova, vratenie daru podla 85/2005 Z.z.
@@ -6674,7 +6739,13 @@ VS30230027/SS/KS",PS,PS
                     ","
                         
                     ",PS,PS
-6621,2023-09-27,BAKUS ANDREJ,-20.0,"Platba/Bakus, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6621,2023-09-27,BAKUS ANDREJ,-20.0,"
+                        Platba
+                    /
+                        Bakus, vratenie daru podla 85/2005 Z.z.
+                    ","
+                        
+                    ",PS,PS
 6622,2023-09-27,"Kolenčíková Zuzana,",-10.0,"Platba/Kolencikova, vratenie daru podla 85/2005 Z.z.",,PS,PS
 6623,2023-09-27,JOZEF BACA,-50.0,"Platba/Baca, vratenie daru podla 85/2005 Z.z.",,PS,PS
 6624,2023-09-27,Base Jiri,-20.0,"Platba/Jiri Base, vratenie daru podla 85/2005 Z.z.",,PS,PS
@@ -15342,13 +15413,69 @@ KS: 0608",Aliancia,PS
 13589,2023-07-04,"DUEL - PRESS, s.r.o.",-20502.0,"Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456,Aliancia,PS
 13590,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 13591,2023-09-29,,-500.0,EUR NÁKUP POS FACEBK XDZ4VTTUU2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13592,2023-09-29,,-3.0,EUR NÁKUP POS FACEBK 9XJ3AUF7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13593,2023-09-29,,-5.98,EUR NÁKUP POS FACEBK ZSA3AUF7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13594,2023-09-29,,-2.11,EUR NÁKUP POS FACEBK RJYX6UK6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13595,2023-09-29,,-4.83,EUR NÁKUP POS FACEBK DAQCTUB7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13596,2023-09-29,,-2.11,EUR NÁKUP POS FACEBK T8LWSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13597,2023-09-29,,-3.61,EUR NÁKUP POS FACEBK 97GX6UK6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13598,2023-09-29,,-2.11,EUR NÁKUP POS FACEBK UU9L3UT6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13592,2023-09-29,"
+                            
+                    ",-3.0,"
+                        EUR NÁKUP POS FACEBK 9XJ3AUF7P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
+13593,2023-09-29,"
+                            
+                    ",-5.98,"
+                        EUR NÁKUP POS FACEBK ZSA3AUF7P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
+13594,2023-09-29,"
+                            
+                    ",-2.11,"
+                        EUR NÁKUP POS FACEBK RJYX6UK6P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
+13595,2023-09-29,"
+                            
+                    ",-4.83,"
+                        EUR NÁKUP POS FACEBK DAQCTUB7P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
+13596,2023-09-29,"
+                            
+                    ",-2.11,"
+                        EUR NÁKUP POS FACEBK T8LWSTX6P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
+13597,2023-09-29,"
+                            
+                    ",-3.61,"
+                        EUR NÁKUP POS FACEBK 97GX6UK6P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
+13598,2023-09-29,"
+                            
+                    ",-2.11,"
+                        EUR NÁKUP POS FACEBK UU9L3UT6P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
 13599,2023-09-29,,-2.11,EUR NÁKUP POS FACEBK HL2WSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13600,2023-09-29,,-500.0,EUR NÁKUP POS FACEBK 8Q5CJTPTU2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13601,2023-09-29,,-100.0,EUR NÁKUP POS FACEBK VYK64U3VX2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
@@ -15357,7 +15484,13 @@ KS: 0608",Aliancia,PS
 13604,2023-09-29,,-500.0,EUR NÁKUP POS FACEBK 4G9SATBUU2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13605,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 13606,2023-09-29,,-100.0,EUR NÁKUP POS FACEBK TW434U3VX2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13607,2023-09-29,,-4.0,EUR NÁKUP POS FACEBK P6EXSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13607,2023-09-29,,-4.0,"
+                        EUR NÁKUP POS FACEBK P6EXSTX6P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
 13608,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 13609,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 13610,2023-09-29,,-500.0,EUR NÁKUP POS FACEBK 56DNATBUU2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
@@ -15372,94 +15505,32 @@ KS: 0608",Aliancia,PS
 13619,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 13620,2023-09-29,,-100.0,EUR NÁKUP POS FACEBK E35MMTFUX2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13621,2023-09-29,,-140.0,EUR NÁKUP POS FACEBK 77E57UK6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13622,2023-09-29,,-10.64,EUR NÁKUP POS FACEBK D63M3UT6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13622,2023-09-29,"
+                            
+                    ",-10.64,"
+                        EUR NÁKUP POS FACEBK D63M3UT6P2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",Za Ľudí,PS
 13623,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 13624,2023-09-29,,-16.08,EUR NÁKUP POS FACEBK YC2N2VK7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13625,2023-09-29,,-22.0,EUR NÁKUP POS FACEBK FSTZSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13626,2023-09-29,,-90.0,EUR NÁKUP POS FACEBK KWSHTUB7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13627,2023-09-29,,-90.0,EUR NÁKUP POS FACEBK JSXLWTP6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13628,2023-09-29,,-14.75,"
-                        EUR NÁKUP POS FACEBK C59YXW77P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
-13629,2023-09-29,"
-                            
-                    ",-60.0,"
-                        EUR NÁKUP POS FACEBK 994YXW77P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
-13630,2023-09-29,"
-                            
-                    ",-29.5,"
-                        EUR NÁKUP POS FACEBK UVY84U37P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
-13631,2023-09-29,"
-                            
-                    ",-40.0,"
-                        EUR NÁKUP POS FACEBK PVAR2VK7P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
+13628,2023-09-29,,-14.75,EUR NÁKUP POS FACEBK C59YXW77P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13629,2023-09-29,,-60.0,EUR NÁKUP POS FACEBK 994YXW77P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13630,2023-09-29,,-29.5,EUR NÁKUP POS FACEBK UVY84U37P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13631,2023-09-29,,-40.0,EUR NÁKUP POS FACEBK PVAR2VK7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13632,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
-13633,2023-09-29,"
-                            
-                    ",-500.0,"
-                        EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
-13634,2023-09-29,"
-                            
-                    ",-27.4,"
-                        EUR NÁKUP POS FACEBK JVHQ3UT6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
-13635,2023-09-29,"
-                            
-                    ",-33.0,"
-                        EUR NÁKUP POS FACEBK HQC2TTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
-13636,2023-09-29,"
-                            
-                    ",-2.28,"
-                        EUR NÁKUP POS FACEBK BT92TTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
+13633,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
+13634,2023-09-29,,-27.4,EUR NÁKUP POS FACEBK JVHQ3UT6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13635,2023-09-29,,-33.0,EUR NÁKUP POS FACEBK HQC2TTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
+13636,2023-09-29,,-2.28,EUR NÁKUP POS FACEBK BT92TTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13637,2023-09-29,,-27.0,EUR NÁKUP POS FACEBK GNWTAUF6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13638,2023-09-29,,-44.26,EUR NÁKUP POS FACEBK QPZZSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-13639,2023-09-29,"
-                            
-                    ",-100.0,"
-                        EUR NÁKUP POS FACEBK QJ4GETPUX2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
+13639,2023-09-29,,-100.0,EUR NÁKUP POS FACEBK QJ4GETPUX2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13640,2023-09-29,,-29.29,EUR NÁKUP POS FACEBK F786AUF7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13641,2023-09-29,,-1.92,EUR NÁKUP POS FACEBK 3C9WXW77P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 13642,2023-09-29,,-5.0,EUR NÁKUP POS FACEBK 5JSY6UK6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
@@ -16037,60 +16108,12 @@ RCZAGOVA - audit 2022",2023001.0,Pirátska strana,PS
 14122,2023-08-30,SPRAVODLIVOSŤ,5000.0,Platba/na volebnu kampan,,SPRAVODLIVOSŤ,PS
 14123,2023-08-30,"ANWELL, s.r.o.",-37.4,"Platba/ANWELL, s.r.o.: 20232638 - SPRAVODLIVOST - 2023/08","20232638
 VS20232638/SS/KS",SPRAVODLIVOSŤ,PS
-14124,2023-08-28,"
-                            
-                    ",-27.0,"
-                        EUR NÁKUP POS FACEBK 9VXQMQXV92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14125,2023-08-28,"
-                            
-                    ",-22.0,"
-                        EUR NÁKUP POS FACEBK 32MLEQ7W92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14126,2023-08-28,"
-                            
-                    ",-20.0,"
-                        EUR NÁKUP POS FACEBK HGE8KQKV92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14127,2023-08-28,"
-                            
-                    ",-15.0,"
-                        EUR NÁKUP POS FACEBK HQTMARBW92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14128,2023-08-24,"
-                            
-                    ",-13.99,"
-                        INT NÁKUP POS EUR CANVA* I03885-24988642 / HTTPSCANVA.CO / (POS RHM0EZQC)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14129,2023-08-23,"
-                            
-                    ",-19.01,"
-                        POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
+14124,2023-08-28,,-27.0,EUR NÁKUP POS FACEBK 9VXQMQXV92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14125,2023-08-28,,-22.0,EUR NÁKUP POS FACEBK 32MLEQ7W92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14126,2023-08-28,,-20.0,EUR NÁKUP POS FACEBK HGE8KQKV92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14127,2023-08-28,,-15.0,EUR NÁKUP POS FACEBK HQTMARBW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14128,2023-08-24,,-13.99,INT NÁKUP POS EUR CANVA* I03885-24988642 / HTTPSCANVA.CO / (POS RHM0EZQC),,SPRAVODLIVOSŤ,PS
+14129,2023-08-23,,-19.01,POS nákup zahr. CHATGPT SUBSCRIPTION / OPENAI.COM / (POS 7N3QWJUF),,SPRAVODLIVOSŤ,PS
 14130,2023-08-22,,-84.3,POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0),,SPRAVODLIVOSŤ,PS
 14131,2023-08-21,,-4.74,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),,SPRAVODLIVOSŤ,PS
 14132,2023-08-17,,-68.0,EUR NÁKUP POS FACEBK 82KUSR3HC2 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
