@@ -6768,385 +6768,248 @@ index,date,account_name,amount,message,vs,name,label
 6764,2023-01-31,,-3.23,Poplatok za vedenie účtu,,OĽaNO,PS
 6765,2023-09-30,,-12.0,Poplatky za transakcie,,PS,PS
 6766,2023-09-30,,-0.0,Poplatok za balík,,PS,PS
-6767,2023-09-29,"
+6767,2023-09-29,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6768,2023-09-29,,-0.83,EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6769,2023-09-29,,-1.27,EUR NÁKUP POS FACEBK SMDHEUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6770,2023-09-29,,-2.56,EUR NÁKUP POS FACEBK 3K38STB9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6771,2023-09-29,,-0.93,EUR NÁKUP POS FACEBK LFN7QSFM52 / fb.me/ads / (POS 99999999),,PS,PS
+6772,2023-09-29,,-10.52,EUR NÁKUP POS FACEBK JVWFRSK9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6773,2023-09-29,,-467.62,EUR NÁKUP POS FACEBK *T6B7QSFM52 / fb.me/ads / (POS 99999999),,PS,PS
+6774,2023-09-29,,-27.64,EUR NÁKUP POS FACEBK *6HFDQVTTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6775,2023-09-29,,-656.94,EUR NÁKUP POS FACEBK P63YAUX8D2 / fb.me/ads / (POS 99999999),,PS,PS
+6776,2023-09-29,,-600.0,EUR NÁKUP POS FACEBK FH27ATT9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6777,2023-09-29,,-500.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
+6778,2023-09-29,,-998.9,EUR NÁKUP POS FACEBK 9FHZWUBUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6779,2023-09-29,,-873.82,MOBILE APP NÁKUP E-COMM FACEBK FPPCRSK9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6780,2023-09-29,"
                             
-                    ",-1000.0,"
-                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
+                    ",-0.56,"
+                        EUR NÁKUP POS FACEBK *UBSX2T7N52 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     ",PS,PS
-6768,2023-09-29,,-7.49,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),,PS,PS
-6769,2023-09-29,,-0.83,EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6770,2023-09-29,,-800.0,EUR NÁKUP POS FACEBK *F83SZSBN52 / fb.me/ads / (POS 99999999),,PS,PS
-6771,2023-09-29,,-800.0,EUR NÁKUP POS FACEBK JJDHFUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6772,2023-09-29,"
-                            
-                    ",-3000.0,"
-                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6773,2023-09-29,,-1.27,EUR NÁKUP POS FACEBK SMDHEUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6774,2023-09-29,,-2.56,EUR NÁKUP POS FACEBK 3K38STB9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6775,2023-09-29,,-0.93,EUR NÁKUP POS FACEBK LFN7QSFM52 / fb.me/ads / (POS 99999999),,PS,PS
-6776,2023-09-29,,-10.52,EUR NÁKUP POS FACEBK JVWFRSK9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6777,2023-09-29,"
-                            
-                    ",-873.82,"
-                        MOBILE APP NÁKUP E-COMM FACEBK FPPCRSK9D2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6778,2023-09-29,"
-                            
-                    ",-869.82,"
-                        EUR NÁKUP POS FACEBK *VZZ8HSTM52 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6779,2023-09-29,,-467.62,EUR NÁKUP POS FACEBK *T6B7QSFM52 / fb.me/ads / (POS 99999999),,PS,PS
-6780,2023-09-29,,-27.64,EUR NÁKUP POS FACEBK *6HFDQVTTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6781,2023-09-29,,-656.94,EUR NÁKUP POS FACEBK P63YAUX8D2 / fb.me/ads / (POS 99999999),,PS,PS
-6782,2023-09-29,,-600.0,EUR NÁKUP POS FACEBK FH27ATT9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6783,2023-09-29,"
-                            
-                    ",-500.0,"
-                        EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6784,2023-09-29,"
-                            
-                    ",-1000.0,"
-                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6785,2023-09-29,"
-                            
-                    ",-998.9,"
-                        EUR NÁKUP POS FACEBK 9FHZWUBUJ2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6786,2023-09-29,,-0.56,EUR NÁKUP POS FACEBK *UBSX2T7N52 / fb.me/ads / (POS 99999999),,PS,PS
-6787,2023-09-29,,-2.36,EUR NÁKUP POS FACEBK J8D92TP9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6788,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6789,2023-09-29,"
-                            
-                    ",-5.0,"
-                        Zrušenie karty ZRUŠENIE KARTY
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6790,2023-09-29,PETRIK SIMONA,-160.0,"Platba/Petrik, vratenie daru",VS/SS008/KS,PS,PS
-6791,2023-09-29,Mgr.Tina Gazovicova,-300.0,"Platba/
-                        Gazovicova, vratenie daru
-                    ","
-                        VS/SS024/KS
-                    ",PS,PS
-6792,2023-09-29,"
-                            MIHALCIN GABRIEL
-                    ",-75.0,"
-                        Platba
-                    /
-                        Mihalcin, vratenie daru
-                    ","
-                        VS/SS100/KS
-                    ",PS,PS
-6793,2023-09-29,"
-                            Obec Nová Dedinka
-                    ",-45.0,"
-                        Platba
-                    /
-                        Obec Nova Dedinka, inzercia v novinach Hargas
-                    ","
-                        2310080VS2310080/SS031/KS
-                    ",PS,PS
-6794,2023-09-29,"
-                            GROOW DIGITAL, s. r.
-                    ",-50173.51,"
-                        Platba
-                    /
-                        GROOW, medialny nakup adform
-                    ","
-                        2023141VS2023141/SS/KS
-                    ",PS,PS
-6795,2023-09-29,"
-                            GROOW DIGITAL, s. r.
-                    ",-5299.2,"
-                        Platba
-                    /
-                        GROOW DIGITAL, agency fee 08-09
-                    ","
-                        2023142VS2023142/SS/KS
-                    ",PS,PS
-6796,2023-09-29,"
-                            
-                    ",-5.0,"
-                        Zrušenie karty ZRUŠENIE KARTY
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6797,2023-09-29,"
-                            
-                    ",-5.0,"
-                        Zrušenie karty ZRUŠENIE KARTY
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6798,2023-09-29,"
-                            
-                    ",-5.0,"
-                        Zrušenie karty ZRUŠENIE KARTY
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6799,2023-09-29,"
-                            
-                    ",-5.0,"
-                        Zrušenie karty ZRUŠENIE KARTY
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6800,2023-09-29,"
-                            
-                    ",-5.0,"
-                        Zrušenie karty ZRUŠENIE KARTY
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6801,2023-09-29,"
-                            
-                    ",-1000.0,"
-                        EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",PS,PS
-6802,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6781,2023-09-29,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6782,2023-09-29,,-869.82,EUR NÁKUP POS FACEBK *VZZ8HSTM52 / fb.me/ads / (POS 99999999),,PS,PS
+6783,2023-09-29,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6784,2023-09-29,,-3000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6785,2023-09-29,,-800.0,EUR NÁKUP POS FACEBK QFM6MT39D2 / fb.me/ads / (POS 99999999),,PS,PS
+6786,2023-09-29,,-800.0,EUR NÁKUP POS FACEBK B8GVWUBUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6787,2023-09-29,,-324.26,EUR NÁKUP POS FACEBK YWUYFUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6788,2023-09-29,,-300.0,EUR NÁKUP POS FACEBK *8EGGVU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6789,2023-09-29,,-835.87,EUR NÁKUP POS FACEBK *KSVU9TT9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6790,2023-09-29,,-1100.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6791,2023-09-29,,-7.49,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),,PS,PS
+6792,2023-09-29,,-300.0,EUR NÁKUP POS FACEBK L42GVU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6793,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6794,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6795,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6796,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6797,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6798,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6799,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6800,2023-09-29,"GROOW DIGITAL, s. r.",-5299.2,"Platba/GROOW DIGITAL, agency fee 08-09","2023142
+VS2023142/SS/KS",PS,PS
+6801,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6802,2023-09-29,"GROOW DIGITAL, s. r.",-50173.51,"Platba/GROOW, medialny nakup adform","2023141
+VS2023141/SS/KS",PS,PS
 6803,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
 6804,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6805,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
-6806,2023-09-28,,-854.06,EUR NÁKUP POS FACEBK 3AVTGUPUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6807,2023-09-28,Peter Kovac,-20.0,"Platba/Kovac, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6808,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK CCC53UXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6809,2023-09-28,Peter Kovac,20.0,Platba,,PS,PS
-6810,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 9RFX8TT9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6811,2023-09-28,"Tarnovský Juraj, Ing",-100.0,"Platba/Tarnovsky, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6812,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK *CG9BDUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6813,2023-09-28,"Tarnovský Juraj, Ing",100.0,Platba/Juraj Tarnovsky - dar,,PS,PS
-6814,2023-09-28,,-819.11,EUR NÁKUP POS FACEBK NMQ4RTB9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6815,2023-09-28,,-2.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),,PS,PS
-6816,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK QQJLGUPUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6817,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 5TDP2UXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6818,2023-09-28,,-871.07,EUR NÁKUP POS FACEBK *9ECHPSK9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6819,2023-09-28,,-195.43,EUR NÁKUP POS FACEBK VS8LCUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6820,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK Z7ZVTU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6821,2023-09-28,,-13.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),,PS,PS
-6822,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK ST249UX8D2 / fb.me/ads / (POS 99999999),,PS,PS
-6823,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK R98ZTU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6824,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK FVKS2UXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6825,2023-09-28,,-4.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),,PS,PS
+6805,2023-09-29,Obec Nová Dedinka,-45.0,"Platba/Obec Nova Dedinka, inzercia v novinach Hargas","2310080
+VS2310080/SS031/KS",PS,PS
+6806,2023-09-29,MIHALCIN GABRIEL,-75.0,"Platba/Mihalcin, vratenie daru",VS/SS100/KS,PS,PS
+6807,2023-09-29,Mgr.Tina Gazovicova,-300.0,"Platba/Gazovicova, vratenie daru",VS/SS024/KS,PS,PS
+6808,2023-09-29,PETRIK SIMONA,-160.0,"Platba/Petrik, vratenie daru",VS/SS008/KS,PS,PS
+6809,2023-09-29,,-2.36,EUR NÁKUP POS FACEBK J8D92TP9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6810,2023-09-29,,-5.0,Zrušenie karty ZRUŠENIE KARTY,,PS,PS
+6811,2023-09-28,,-4.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),,PS,PS
+6812,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK QQJLGUPUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6813,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK CCC53UXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6814,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 9RFX8TT9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6815,2023-09-28,íčko s.r.o.,-2477.0,"Platba/icko, administrativne prace september","20230010
+VS20230010/SS/KS",PS,PS
+6816,2023-09-28,,-854.06,EUR NÁKUP POS FACEBK 3AVTGUPUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6817,2023-09-28,,-819.11,EUR NÁKUP POS FACEBK NMQ4RTB9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6818,2023-09-28,"Tarnovský Juraj, Ing",100.0,Platba/Juraj Tarnovsky - dar,,PS,PS
+6819,2023-09-28,TrollWall AI,-1800.0,"Platba/TrollWall, marketingove sluzby 09","20230305
+VS20230305/SS/KS",PS,PS
+6820,2023-09-28,Peter Kovac,20.0,Platba,,PS,PS
+6821,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK *QTP4DT3AD2 / fb.me/ads / (POS 99999999),,PS,PS
+6822,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 429VEUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6823,2023-09-28,,-2.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),,PS,PS
+6824,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK *PGNJ6SBM52 / fb.me/ads / (POS 99999999),,PS,PS
+6825,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 8VJAUU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6826,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 7X8MYSP9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6827,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 8VJAUU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6828,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK *PGNJ6SBM52 / fb.me/ads / (POS 99999999),,PS,PS
-6829,2023-09-28,NAGY FILIP,-350.0,"Platba/Nagy, pouzitie fotiek licencna zmluva","20230021
-VS20230021/SS/KS",PS,PS
-6830,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 429VEUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6831,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK *QTP4DT3AD2 / fb.me/ads / (POS 99999999),,PS,PS
-6832,2023-09-28,Progresívne Slov.,66000.0,Platba/prevod medzi uctami,,PS,PS
-6833,2023-09-28,MACSEK PETER,40.8,PLATBA,"101
-VS101/SS/KS",PS,PS
-6834,2023-09-28,GERULATA TECHNOLOGIES J.S.A.,-5274.0,"Platba/gerulata, monitoring socialnych sieti","220100034
-VS220100034/SS/KS",PS,PS
-6835,2023-09-28,Progresívne Slov.,66000.0,Platba/prevod medzi uctami,,PS,PS
-6836,2023-09-28,Inako s.r.o.,-20000.0,"Platba/Inako, marketingove sluzby","3
-VS003/SS/KS",PS,PS
-6837,2023-09-28,Stadsfiets s.r.o.,-10.0,Platba/stadsfiets sro vratenie daru,,PS,PS
+6827,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK FVKS2UXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6828,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK 5TDP2UXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6829,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK R98ZTU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6830,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK ST249UX8D2 / fb.me/ads / (POS 99999999),,PS,PS
+6831,2023-09-28,,-13.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),,PS,PS
+6832,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK Z7ZVTU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6833,2023-09-28,,-195.43,EUR NÁKUP POS FACEBK VS8LCUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6834,2023-09-28,,-871.07,EUR NÁKUP POS FACEBK *9ECHPSK9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6835,2023-09-28,"Tarnovský Juraj, Ing",-100.0,"Platba/Tarnovsky, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6836,2023-09-28,,-800.0,EUR NÁKUP POS FACEBK *CG9BDUPTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6837,2023-09-28,Peter Kovac,-20.0,"Platba/Kovac, vratenie daru podla 85/2005 Z.z.",,PS,PS
 6838,2023-09-28,ANDREJ SHADURA,-10.0,Platba/andrej shadura vratenie daru,,PS,PS
-6839,2023-09-28,Stadsfiets s.r.o.,10.0,PLATBA,"267199
-VS267199/SS/KS",PS,PS
-6840,2023-09-28,ANDREJ SHADURA,10.0,PLATBA/PS DAR ANDREJ SHADURA,"52032
-VS0000052032/SS/KS0308",PS,PS
-6841,2023-09-28,MACSEK PETER,-40.8,Platba/macsek peter vratenie,,PS,PS
-6842,2023-09-28,íčko s.r.o.,-2477.0,"Platba/icko, administrativne prace september","20230010
-VS20230010/SS/KS",PS,PS
-6843,2023-09-28,TrollWall AI,-1800.0,"Platba/TrollWall, marketingove sluzby 09","20230305
-VS20230305/SS/KS",PS,PS
-6844,2023-09-28,Inako s.r.o.,-20000.0,"Platba/Inako, marketingove sluzby","3
+6839,2023-09-28,Inako s.r.o.,-20000.0,"Platba/Inako, marketingove sluzby","3
 VS003/SS/KS",PS,PS
-6845,2023-09-28,GERULATA TECHNOLOGIES J.S.A.,-5274.0,"Platba/gerulata, monitoring socialnych sieti","220100034
+6840,2023-09-28,GERULATA TECHNOLOGIES J.S.A.,-5274.0,"Platba/gerulata, monitoring socialnych sieti","220100034
 VS220100034/SS/KS",PS,PS
-6846,2023-09-28,NAGY FILIP,-350.0,"Platba/Nagy, pouzitie fotiek licencna zmluva","20230021
+6841,2023-09-28,NAGY FILIP,-350.0,"Platba/Nagy, pouzitie fotiek licencna zmluva","20230021
 VS20230021/SS/KS",PS,PS
-6847,2023-09-28,MACSEK PETER,40.8,PLATBA,"101
+6842,2023-09-28,Progresívne Slov.,66000.0,Platba/prevod medzi uctami,,PS,PS
+6843,2023-09-28,MACSEK PETER,40.8,PLATBA,"101
 VS101/SS/KS",PS,PS
-6848,2023-09-28,Peter Kovac,-20.0,"Platba/Kovac, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6849,2023-09-28,Stadsfiets s.r.o.,10.0,PLATBA,"267199
+6844,2023-09-28,MACSEK PETER,-40.8,Platba/macsek peter vratenie,,PS,PS
+6845,2023-09-28,Peter Kovac,-20.0,"Platba/Kovac, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6846,2023-09-28,Stadsfiets s.r.o.,10.0,PLATBA,"267199
 VS267199/SS/KS",PS,PS
-6850,2023-09-28,TrollWall AI,-1800.0,"Platba/TrollWall, marketingove sluzby 09","20230305
-VS20230305/SS/KS",PS,PS
-6851,2023-09-28,Peter Kovac,20.0,Platba,,PS,PS
-6852,2023-09-28,íčko s.r.o.,-2477.0,"Platba/icko, administrativne prace september","20230010
-VS20230010/SS/KS",PS,PS
-6853,2023-09-28,ANDREJ SHADURA,10.0,PLATBA/PS DAR ANDREJ SHADURA,"52032
+6847,2023-09-28,Peter Kovac,20.0,Platba,,PS,PS
+6848,2023-09-28,ANDREJ SHADURA,10.0,PLATBA/PS DAR ANDREJ SHADURA,"52032
 VS0000052032/SS/KS0308",PS,PS
-6854,2023-09-28,MACSEK PETER,-40.8,Platba/macsek peter vratenie,,PS,PS
-6855,2023-09-28,ANDREJ SHADURA,-10.0,Platba/andrej shadura vratenie daru,,PS,PS
-6856,2023-09-28,Stadsfiets s.r.o.,-10.0,Platba/stadsfiets sro vratenie daru,,PS,PS
-6857,2023-09-28,"
-                            Tarnovský Juraj, Ing
-                    ",100.0,"
-                        Platba
-                    /
-                        Juraj Tarnovsky - dar
-                    ","
-                        
-                    ",PS,PS
-6858,2023-09-28,"
-                            Tarnovský Juraj, Ing
-                    ",-100.0,"
-                        Platba
-                    /
-                        Tarnovsky, vratenie daru podla 85/2005 Z.z.
-                    ","
-                        
-                    ",PS,PS
-6859,2023-09-27,,-430.0,EUR NÁKUP POS FACEBK YQP3NVTTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6860,2023-09-27,GRELL ADRIANA,20.0,PLATBA/PS dar Adriana Grell,"267170
-VS267170/SS/KS0308",PS,PS
-6861,2023-09-27,,-403.53,EUR NÁKUP POS FACEBK LKGAQTTUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6862,2023-09-27,"Kendra Pavel, Ing.",56.4,Platba/PS dar Pavel Kendra,"95
+6849,2023-09-28,Stadsfiets s.r.o.,-10.0,Platba/stadsfiets sro vratenie daru,,PS,PS
+6850,2023-09-28,"Tarnovský Juraj, Ing",100.0,Platba/Juraj Tarnovsky - dar,,PS,PS
+6851,2023-09-28,"Tarnovský Juraj, Ing",-100.0,"Platba/Tarnovsky, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6852,2023-09-27,Base Jiri,20.0,PLATBA,,PS,PS
+6853,2023-09-27,"Kendra Pavel, Ing.",56.4,Platba/PS dar Pavel Kendra,"95
 VS095/SS/KS308",PS,PS
-6863,2023-09-27,MARTINA ZILKOVA,250.0,PLATBA/Martina Zilkova,"38
+6854,2023-09-27,MARTINA ZILKOVA,250.0,PLATBA/Martina Zilkova,"38
 VS038/SS/KS",PS,PS
-6864,2023-09-27,Ivona Brandes,75.0,DE23092757801 2023092600000000/88424 PS dar Ivona Brandes,,PS,PS
-6865,2023-09-27,"Medvecký Ivan, Ing.",100.0,Platba/PS dar Ivan,"267189
+6855,2023-09-27,Ivona Brandes,75.0,DE23092757801 2023092600000000/88424 PS dar Ivona Brandes,,PS,PS
+6856,2023-09-27,"Medvecký Ivan, Ing.",100.0,Platba/PS dar Ivan,"267189
 VS267189/SS/KS308",PS,PS
-6866,2023-09-27,PETER JANCOK,25.0,PLATBA/PLATBA,"196494
-VS0000196494/SS/KS",PS,PS
-6867,2023-09-27,Krjak Tomas,150.0,PLATBA/045,"120846
+6857,2023-09-27,GRELL ADRIANA,20.0,PLATBA/PS dar Adriana Grell,"267170
+VS267170/SS/KS0308",PS,PS
+6858,2023-09-27,Krjak Tomas,150.0,PLATBA/045,"120846
 VS120846/SS/KS",PS,PS
-6868,2023-09-27,Sabo Michal,110.0,PLATBA,"17
+6859,2023-09-27,Sabo Michal,110.0,PLATBA,"17
 VS017/SS/KS",PS,PS
-6869,2023-09-27,Base Jiri,20.0,PLATBA,,PS,PS
-6870,2023-09-27,MATUS BANDUR,150.0,PLATBA/PS DAR MATUS BANDUR,"63506
-VS0000063506/SS/KS0308",PS,PS
-6871,2023-09-27,Progresívne Slov.,180.0,Platba/vratenie mylnej platby tlaciaren kezmarok 20231235,,PS,PS
-6872,2023-09-27,Progresívne Slov.,243.18,Platba/vratenie mylnej platby tlaciaren kezmarok 20231236,,PS,PS
-6873,2023-09-27,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6874,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK *LCHKMRKM52 / fb.me/ads / (POS 99999999),,PS,PS
-6875,2023-09-27,,-1000.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
-6876,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK 97SH7U7UJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6877,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK KGJQESF9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6878,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK MA88EUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6879,2023-09-27,,-1.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),,PS,PS
-6880,2023-09-27,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6881,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK *AUELDUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6882,2023-09-27,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6883,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK DQNQBT3AD2 / fb.me/ads / (POS 99999999),,PS,PS
-6884,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK Q8VFDUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6885,2023-09-27,,-186.12,"POS nákup 1202 YEME, BA, NAM. SN / BRATISLAVA / (POS 06040707)",,PS,PS
-6886,2023-09-27,,-100.3,"POS nákup MEDIMED, S.R.O. / BRATISLAVA / (POS G2NPD453)",,PS,PS
-6887,2023-09-27,,-1500.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
-6888,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK R9PZ6U7UJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6889,2023-09-27,,-17.72,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),,PS,PS
-6890,2023-09-27,"ARES SECURITY, s.r.o",-960.0,"Platba/Ares, SBS sluzby volebna noc 30.9.","20230007
-VS20230007/SS/KS",PS,PS
-6891,2023-09-27,"ARES SECURITY, s.r.o",-2046.0,"Platba/Ares, SBS sluzby 24-30.9.","20230008
-VS20230008/SS/KS",PS,PS
-6892,2023-09-27,KONECNY STEFAN,350.0,PLATBA/PS dar Stefan Konecny,"267074
-VS267074/SS/KS0308",PS,PS
-6893,2023-09-27,HELLEBRANDT TOMAS,-1750.0,"Platba/Hellebrandt, poradenske sluzby 09","2023004
-VS2023004/SS/KS",PS,PS
-6894,2023-09-27,JOZEF BACA,-50.0,"Platba/Baca, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6895,2023-09-27,Struharova Sona,-30.0,"Platba/Struharova, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6896,2023-09-27,RADOSLAV DORCIK,-150.0,"Platba/Dorcik, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6897,2023-09-27,VARGOVA ZUZANA,-20.0,"Platba OO23092700025373/Z. Vargova, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6898,2023-09-27,Bauernebl Ottó Marc,-10.0,"Platba/Bauernebl, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6899,2023-09-27,MARTIN STRBA,-75.0,"PLATBA VI23092706667/M. Strba, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6900,2023-09-27,"Kolenčíková Zuzana,",-10.0,"Platba/Kolencikova, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6901,2023-09-27,Base Jiri,-20.0,"Platba/Jiri Base, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6902,2023-09-27,EDISON PARK s. r. o.,-17556.0,"Platba/edison park, prenajom priestoru, inventaru a zabezpecenie sluzieb 30.9.","20230020
-VS20230020/SS/KS",PS,PS
-6903,2023-09-27,Kukumberg Boris,1000.0,Platba/Dar Boris Kukumberg,,PS,PS
-6904,2023-09-27,PU TUZ. Rekl. EUR,-500.0,"vr.platby z 22.9.2023,80839/23",8083973101,PS,PS
-6905,2023-09-27,Dolinská Daniela,-500.0,"Platba/Dolinska, video spot Kosova","12
-VS012/SS/KS",PS,PS
-6906,2023-09-27,LIFEPARK S.R.O.,-6479.52,"Platba/Lifepark, technicke zabezpecenie volebna noc","30230027
-VS30230027/SS/KS",PS,PS
-6907,2023-09-27,Progresívne Slov.,75.0,Platba/martin strba vratenie duplicitneho vratenia daru,,PS,PS
-6908,2023-09-27,Advajs advertising s. r. o.,-600.0,"Platba/Advajs, marketingove sluzby tvorba obsahu 09","20230057
+6860,2023-09-27,Advajs advertising s. r. o.,-600.0,"Platba/Advajs, marketingove sluzby tvorba obsahu 09","20230057
 VS20230057/SS/KS",PS,PS
-6909,2023-09-27,Barbora Straka,-150.0,"PLATBA VI23092706503/B. Straka, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6910,2023-09-27,BAKUS ANDREJ,-20.0,"Platba/Bakus, vratenie daru podla 85/2005 Z.z.",,PS,PS
-6911,2023-09-27,"GROOW DIGITAL, s. r.",-4692.0,"Platba/GROOW, nakup medialneho priestoru Novy cas 09","2023135
-VS2023135/SS/KS",PS,PS
-6912,2023-09-27,EDENcars,-414.0,"Platba/Edencars, nadlimit kilometrov dodavka","302300966
-VS302300966/SS/KS308",PS,PS
-6913,2023-09-27,Jan Kral,-3780.0,PLATBA VI23092706237/Marketingove a komunikacne sluzby 09,120230006,PS,PS
-6914,2023-09-27,"GROOW DIGITAL, s. r.",-3000.0,"Platba/GROOW, nakup medialneho priestoru SITA 09/23","2023136
-VS2023136/SS/KS",PS,PS
-6915,2023-09-27,"GROOW DIGITAL, s. r.",-9001.44,"Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023138
+6861,2023-09-27,MATUS BANDUR,150.0,PLATBA/PS DAR MATUS BANDUR,"63506
+VS0000063506/SS/KS0308",PS,PS
+6862,2023-09-27,HELLEBRANDT TOMAS,-1750.0,"Platba/Hellebrandt, poradenske sluzby 09","2023004
+VS2023004/SS/KS",PS,PS
+6863,2023-09-27,"ARES SECURITY, s.r.o",-960.0,"Platba/Ares, SBS sluzby volebna noc 30.9.","20230007
+VS20230007/SS/KS",PS,PS
+6864,2023-09-27,"ARES SECURITY, s.r.o",-2046.0,"Platba/Ares, SBS sluzby 24-30.9.","20230008
+VS20230008/SS/KS",PS,PS
+6865,2023-09-27,Progresívne Slov.,243.18,Platba/vratenie mylnej platby tlaciaren kezmarok 20231236,,PS,PS
+6866,2023-09-27,Progresívne Slov.,180.0,Platba/vratenie mylnej platby tlaciaren kezmarok 20231235,,PS,PS
+6867,2023-09-27,,-430.0,EUR NÁKUP POS FACEBK YQP3NVTTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6868,2023-09-27,PETER JANCOK,25.0,PLATBA/PLATBA,"196494
+VS0000196494/SS/KS",PS,PS
+6869,2023-09-27,,-403.53,EUR NÁKUP POS FACEBK LKGAQTTUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6870,2023-09-27,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6871,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK *LCHKMRKM52 / fb.me/ads / (POS 99999999),,PS,PS
+6872,2023-09-27,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6873,2023-09-27,,-186.12,"POS nákup 1202 YEME, BA, NAM. SN / BRATISLAVA / (POS 06040707)",,PS,PS
+6874,2023-09-27,,-100.3,"POS nákup MEDIMED, S.R.O. / BRATISLAVA / (POS G2NPD453)",,PS,PS
+6875,2023-09-27,,-1000.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
+6876,2023-09-27,,-1500.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
+6877,2023-09-27,"GROOW DIGITAL, s. r.",-9001.44,"Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023138
 VS2023138/SS/KS",PS,PS
-6916,2023-09-27,"GROOW DIGITAL, s. r.",-9042.0,"Platba/GROOW, nakup medialneho priestoru aktuality.sk a siet ringier 09/23","2023140
+6878,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK R9PZ6U7UJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6879,2023-09-27,,-17.72,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),,PS,PS
+6880,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK DQNQBT3AD2 / fb.me/ads / (POS 99999999),,PS,PS
+6881,2023-09-27,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6882,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK *AUELDUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6883,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK Q8VFDUKUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6884,2023-09-27,,-1.99,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477979),,PS,PS
+6885,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK MA88EUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6886,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK KGJQESF9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6887,2023-09-27,,-800.0,EUR NÁKUP POS FACEBK 97SH7U7UJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6888,2023-09-27,"GROOW DIGITAL, s. r.",-3000.0,"Platba/GROOW, nakup medialneho priestoru SITA 09/23","2023136
+VS2023136/SS/KS",PS,PS
+6889,2023-09-27,KONECNY STEFAN,350.0,PLATBA/PS dar Stefan Konecny,"267074
+VS267074/SS/KS0308",PS,PS
+6890,2023-09-27,"GROOW DIGITAL, s. r.",-9042.0,"Platba/GROOW, nakup medialneho priestoru aktuality.sk a siet ringier 09/23","2023140
 VS2023140/SS/KS",PS,PS
-6917,2023-09-27,"GROOW DIGITAL, s. r.",-1296.0,"Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023137
-VS2023137/SS/KS",PS,PS
-6918,2023-09-27,,-80.0,"Platba/HZS, reklama Kezmarske noviny A6, Kiss","142023
-VS142023/SS011/KS0308",PS,PS
-6919,2023-09-27,Barbora Jurcova,-120.0,"Platba/Jurcova, foto 16.9.",,PS,PS
-6920,2023-09-27,Kľujev Maxim,-1200.0,"Platba/Klujev, kameraman spot seniori",,PS,PS
-6921,2023-09-27,"EUROKO, SPOL. S.R.O.",-13.68,"Platba/euroko, naramky volebna noc","2020230388
-VS2020230388/SS/KS",PS,PS
-6922,2023-09-27,"
-                            Progresívne Slov.
-                    ",75.0,"
+6891,2023-09-27,LIFEPARK S.R.O.,-6479.52,"Platba/Lifepark, technicke zabezpecenie volebna noc","30230027
+VS30230027/SS/KS",PS,PS
+6892,2023-09-27,"Kolenčíková Zuzana,",-10.0,"Platba/Kolencikova, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6893,2023-09-27,BAKUS ANDREJ,-20.0,"Platba/Bakus, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6894,2023-09-27,JOZEF BACA,-50.0,"Platba/Baca, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6895,2023-09-27,Base Jiri,-20.0,"Platba/Jiri Base, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6896,2023-09-27,Kukumberg Boris,1000.0,Platba/Dar Boris Kukumberg,,PS,PS
+6897,2023-09-27,PU TUZ. Rekl. EUR,-500.0,"vr.platby z 22.9.2023,80839/23",8083973101,PS,PS
+6898,2023-09-27,Dolinská Daniela,-500.0,"Platba/Dolinska, video spot Kosova","12
+VS012/SS/KS",PS,PS
+6899,2023-09-27,Progresívne Slov.,75.0,Platba/martin strba vratenie duplicitneho vratenia daru,,PS,PS
+6900,2023-09-27,Bauernebl Ottó Marc,-10.0,"Platba/Bauernebl, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6901,2023-09-27,"
+                            BAKUS ANDREJ
+                    ",-20.0,"
                         Platba
                     /
-                        martin strba vratenie duplicitneho vratenia daru
+                        Bakus, vratenie daru podla 85/2005 Z.z.
                     ","
                         
                     ",PS,PS
-6923,2023-09-27,SCHNORRER MILAN,500.0,Platba/PS dar Milan Schnorrer,"267203
-VS267203/SS/KS308",PS,PS
-6924,2023-09-27,Marian Miklusak,10.0,Platba/PS dar Marian Miklusak,"267196
-VS267196/SS/KS308",PS,PS
-6925,2023-09-27,FOCUS CENTRUM PRE SO,-10260.0,"Platba/Focus, kvantitativny prieskum verejnej mienky","20232096
+6902,2023-09-27,"
+                            JOZEF BACA
+                    ",-50.0,"
+                        Platba
+                    /
+                        Baca, vratenie daru podla 85/2005 Z.z.
+                    ","
+                        
+                    ",PS,PS
+6903,2023-09-27,"
+                            Base Jiri
+                    ",-20.0,"
+                        Platba
+                    /
+                        Jiri Base, vratenie daru podla 85/2005 Z.z.
+                    ","
+                        
+                    ",PS,PS
+6904,2023-09-27,Kukumberg Boris,1000.0,"
+                        Platba
+                    /
+                        Dar Boris Kukumberg
+                    ","
+                        
+                    ",PS,PS
+6905,2023-09-27,PU TUZ. Rekl. EUR,-500.0,"vr.platby z 22.9.2023,80839/23",8083973101,PS,PS
+6906,2023-09-27,Dolinská Daniela,-500.0,"Platba/Dolinska, video spot Kosova","12
+VS012/SS/KS",PS,PS
+6907,2023-09-27,LIFEPARK S.R.O.,-6479.52,"Platba/Lifepark, technicke zabezpecenie volebna noc","30230027
+VS30230027/SS/KS",PS,PS
+6908,2023-09-27,MARTIN STRBA,-75.0,"PLATBA VI23092706667/M. Strba, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6909,2023-09-27,"GROOW DIGITAL, s. r.",-1296.0,"Platba/GROOW, nakup medialneho priestoru sme.sk 09/23","2023137
+VS2023137/SS/KS",PS,PS
+6910,2023-09-27,VARGOVA ZUZANA,-20.0,"Platba OO23092700025373/Z. Vargova, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6911,2023-09-27,FOCUS CENTRUM PRE SO,-10260.0,"Platba/Focus, kvantitativny prieskum verejnej mienky","20232096
 VS20232096/SS/KS",PS,PS
-6926,2023-09-27,"GROOW DIGITAL, s. r.",-4794.0,"Platba/GROOW, nakup medialneho priestoru UJSZO a parameter.sk 09/23, kampan Spisiak","2023139
+6912,2023-09-27,RADOSLAV DORCIK,-150.0,"Platba/Dorcik, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6913,2023-09-27,Kľujev Maxim,-1200.0,"Platba/Klujev, kameraman spot seniori",,PS,PS
+6914,2023-09-27,,-80.0,"Platba/HZS, reklama Kezmarske noviny A6, Kiss","142023
+VS142023/SS011/KS0308",PS,PS
+6915,2023-09-27,Barbora Jurcova,-120.0,"Platba/Jurcova, foto 16.9.",,PS,PS
+6916,2023-09-27,EDENcars,-414.0,"Platba/Edencars, nadlimit kilometrov dodavka","302300966
+VS302300966/SS/KS308",PS,PS
+6917,2023-09-27,SCHNORRER MILAN,500.0,Platba/PS dar Milan Schnorrer,"267203
+VS267203/SS/KS308",PS,PS
+6918,2023-09-27,Marian Miklusak,10.0,Platba/PS dar Marian Miklusak,"267196
+VS267196/SS/KS308",PS,PS
+6919,2023-09-27,"EUROKO, SPOL. S.R.O.",-13.68,"Platba/euroko, naramky volebna noc","2020230388
+VS2020230388/SS/KS",PS,PS
+6920,2023-09-27,"GROOW DIGITAL, s. r.",-4794.0,"Platba/GROOW, nakup medialneho priestoru UJSZO a parameter.sk 09/23, kampan Spisiak","2023139
 VS2023139/SS/KS",PS,PS
-6927,2023-09-26,,-2000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6928,2023-09-26,MÁTÉ ISTVÁN,50.0,Platba/PS dar Istvan Mate,"267159
+6921,2023-09-27,Jan Kral,-3780.0,PLATBA VI23092706237/Marketingove a komunikacne sluzby 09,120230006,PS,PS
+6922,2023-09-27,"GROOW DIGITAL, s. r.",-4692.0,"Platba/GROOW, nakup medialneho priestoru Novy cas 09","2023135
+VS2023135/SS/KS",PS,PS
+6923,2023-09-27,EDISON PARK s. r. o.,-17556.0,"Platba/edison park, prenajom priestoru, inventaru a zabezpecenie sluzieb 30.9.","20230020
+VS20230020/SS/KS",PS,PS
+6924,2023-09-27,Progresívne Slov.,75.0,Platba/martin strba vratenie duplicitneho vratenia daru,,PS,PS
+6925,2023-09-27,Barbora Straka,-150.0,"PLATBA VI23092706503/B. Straka, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6926,2023-09-27,Struharova Sona,-30.0,"Platba/Struharova, vratenie daru podla 85/2005 Z.z.",,PS,PS
+6927,2023-09-26,MÁTÉ ISTVÁN,50.0,Platba/PS dar Istvan Mate,"267159
 VS267159/SS/KS308",PS,PS
+6928,2023-09-26,,-2000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
 6929,2023-09-26,,-483.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
 6930,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK M2N6PTTUJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6931,2023-09-26,,-799.96,EUR NÁKUP POS FACEBK *TNLLXS7N52 / fb.me/ads / (POS 99999999),,PS,PS
@@ -7170,32 +7033,32 @@ VS267147/SS/KS0308",PS,PS
 6942,2023-09-26,PEKAR MARTIN,4000.0,PLATBA/Dar Martin Pekar,"27
 VS027/SS/KS",PS,PS
 6943,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK FUZ2SU3UJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6944,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK GQKULVTTJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6945,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK BVBVBT79D2 / fb.me/ads / (POS 99999999),,PS,PS
-6946,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK *ET7Y2UX9D2 / fb.me/ads / (POS 99999999),,PS,PS
-6947,2023-09-26,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6948,2023-09-26,,-961.48,EUR NÁKUP POS FACEBK *3Q3JBT79D2 / fb.me/ads / (POS 99999999),,PS,PS
-6949,2023-09-26,,-2.66,EUR NÁKUP POS FACEBK 8GTEMTTUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6944,2023-09-26,KALINOVA EVA,150.0,PLATBA/PS dar Eva Kalinova,"55269
+VS55269/SS/KS0308",PS,PS
+6945,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK GQKULVTTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6946,2023-09-26,,-799.87,EUR NÁKUP POS FACEBK TRJF6UX8D2 / fb.me/ads / (POS 99999999),,PS,PS
+6947,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK *ET7Y2UX9D2 / fb.me/ads / (POS 99999999),,PS,PS
+6948,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK 4BPTXTXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6949,2023-09-26,,-961.48,EUR NÁKUP POS FACEBK *3Q3JBT79D2 / fb.me/ads / (POS 99999999),,PS,PS
 6950,2023-09-26,VICHA BRONISLAV,10.0,PLATBA/PS dar Bronislav Vicha,"267119
 VS267119/SS/KS0308",PS,PS
-6951,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK *H8BN4S7M52 / fb.me/ads / (POS 99999999),,PS,PS
-6952,2023-09-26,,-2000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6953,2023-09-26,,-1000.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
-6954,2023-09-26,,-40.6,POS nákup RIVA BRATISLAVA / BRATISLAVA / (POS OBS13304),,PS,PS
-6955,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK 4BPTXTXTJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6951,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK BVBVBT79D2 / fb.me/ads / (POS 99999999),,PS,PS
+6952,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK *H8BN4S7M52 / fb.me/ads / (POS 99999999),,PS,PS
+6953,2023-09-26,,-2000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6954,2023-09-26,,-1000.0,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),,PS,PS
+6955,2023-09-26,,-40.6,POS nákup RIVA BRATISLAVA / BRATISLAVA / (POS OBS13304),,PS,PS
 6956,2023-09-26,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
 6957,2023-09-26,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
-6958,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK W39BCUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
-6959,2023-09-26,,-799.87,EUR NÁKUP POS FACEBK TRJF6UX8D2 / fb.me/ads / (POS 99999999),,PS,PS
+6958,2023-09-26,,-1000.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
+6959,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK W39BCUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6960,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK R5RKCUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6961,2023-09-26,,-1500.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
 6962,2023-09-26,,-1100.0,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),,PS,PS
 6963,2023-09-26,,-800.0,EUR NÁKUP POS FACEBK AZKTCUFUJ2 / fb.me/ads / (POS 99999999),,PS,PS
 6964,2023-09-26,,-6.5,POS nákup PARKOVANI BRATISLAVA / BRATISLAVA / (POS 37477978),,PS,PS
-6965,2023-09-26,KALABOVA MAGDALENA,11.0,PLATBA,"59270
+6965,2023-09-26,,-2.66,EUR NÁKUP POS FACEBK 8GTEMTTUJ2 / fb.me/ads / (POS 99999999),,PS,PS
+6966,2023-09-26,KALABOVA MAGDALENA,11.0,PLATBA,"59270
 VS59270/SS/KS",PS,PS
-6966,2023-09-26,KALINOVA EVA,150.0,PLATBA/PS dar Eva Kalinova,"55269
-VS55269/SS/KS0308",PS,PS
 6967,2023-09-26,BOROVY JAN,25.0,PLATBA/PS dar. Verim v buducnost na Slovensku.,"267154
 VS267154/SS/KS0308",PS,PS
 6968,2023-09-26,MESTO TRNAVA,-160.0,Platba/Trnava rozhodnutie c 1500009690/2023 za uzivanie verejneho priestranstva,"1500009690
@@ -15957,15 +15820,7 @@ VS202342/SS/KS",Za Ľudí,PS
 14041,2023-09-29,,-4.0,EUR NÁKUP POS FACEBK P6EXSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14042,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 14043,2023-09-29,,-100.0,EUR NÁKUP POS FACEBK TVH94U3VX2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-14044,2023-09-29,"
-                            
-                    ",-44.26,"
-                        EUR NÁKUP POS FACEBK QPZZSTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
+14044,2023-09-29,,-44.26,EUR NÁKUP POS FACEBK QPZZSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14045,2023-09-29,,-140.0,EUR NÁKUP POS FACEBK 77E57UK6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14046,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
 14047,2023-09-29,,-90.0,EUR NÁKUP POS FACEBK KWSHTUB7P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
@@ -15979,25 +15834,9 @@ VS202342/SS/KS",Za Ľudí,PS
 14055,2023-09-29,,-33.0,EUR NÁKUP POS FACEBK HQC2TTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14056,2023-09-29,,-2.28,EUR NÁKUP POS FACEBK BT92TTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14057,2023-09-29,,-500.0,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),,Za Ľudí,PS
-14058,2023-09-29,"
-                            
-                    ",-27.0,"
-                        EUR NÁKUP POS FACEBK GNWTAUF6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
+14058,2023-09-29,,-27.0,EUR NÁKUP POS FACEBK GNWTAUF6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14059,2023-09-29,,-100.0,EUR NÁKUP POS FACEBK QJ4GETPUX2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
-14060,2023-09-29,"
-                            
-                    ",-22.0,"
-                        EUR NÁKUP POS FACEBK FSTZSTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",Za Ľudí,PS
+14060,2023-09-29,,-22.0,EUR NÁKUP POS FACEBK FSTZSTX6P2 / fb.me/ads / (POS 99999999),,Za Ľudí,PS
 14061,2023-09-29,"
                             
                     ",-12.0,"
@@ -16623,14 +16462,78 @@ RCZAGOVA - audit 2022",2023001.0,Pirátska strana,PS
 14511,2023-09-30,,-1.2,Poplatky za transakcie,,SPRAVODLIVOSŤ,PS
 14512,2023-09-28,,-7.89,POS nákup zahr. RENDER.COM / HTTPSRENDER.C / (POS DS2NL9OD),,SPRAVODLIVOSŤ,PS
 14513,2023-09-27,,-200.0,EUR NÁKUP POS FACEBK K89LDRFV92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
-14514,2023-09-27,,-13.99,INT NÁKUP POS EUR CANVA* I03916-24563933 / HTTPSCANVA.CO / (POS RHM0EZQC),,SPRAVODLIVOSŤ,PS
-14515,2023-09-26,,-200.0,EUR NÁKUP POS FACEBK AT7QBRFV92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
-14516,2023-09-25,,-200.0,EUR NÁKUP POS FACEBK FWQAKRKW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
-14517,2023-09-25,,-23.23,POS nákup zahr. CHATGPT SUBSCRIPTION / HTTPSOPENAI.C / (POS 7N3QWJUF),,SPRAVODLIVOSŤ,PS
-14518,2023-09-25,,-86.15,POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0),,SPRAVODLIVOSŤ,PS
-14519,2023-09-21,,-200.0,EUR NÁKUP POS FACEBK ZKY6NRFW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
-14520,2023-09-20,,-4.82,POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL),,SPRAVODLIVOSŤ,PS
-14521,2023-09-19,,-140.0,EUR NÁKUP POS FACEBK JKT8KRFW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14514,2023-09-27,"
+                            
+                    ",-13.99,"
+                        INT NÁKUP POS EUR CANVA* I03916-24563933 / HTTPSCANVA.CO / (POS RHM0EZQC)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14515,2023-09-26,"
+                            
+                    ",-200.0,"
+                        EUR NÁKUP POS FACEBK AT7QBRFV92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14516,2023-09-25,"
+                            
+                    ",-200.0,"
+                        EUR NÁKUP POS FACEBK FWQAKRKW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14517,2023-09-25,"
+                            
+                    ",-23.23,"
+                        POS nákup zahr. CHATGPT SUBSCRIPTION / HTTPSOPENAI.C / (POS 7N3QWJUF)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14518,2023-09-25,"
+                            
+                    ",-86.15,"
+                        POS nákup zahr. HEYGEN / HTTPSWWW.HEYG / (POS VCQVBGS0)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14519,2023-09-21,"
+                            
+                    ",-200.0,"
+                        EUR NÁKUP POS FACEBK ZKY6NRFW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14520,2023-09-20,"
+                            
+                    ",-4.82,"
+                        POS nákup zahr. LEAP AI / WWW.TRYLEAP.A / (POS YXPY6TWL)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
+14521,2023-09-19,"
+                            
+                    ",-140.0,"
+                        EUR NÁKUP POS FACEBK JKT8KRFW92 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    ",SPRAVODLIVOSŤ,PS
 14522,2023-09-18,,-90.0,EUR NÁKUP POS FACEBK B6W3HRFW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
 14523,2023-09-18,,-11.59,POS nákup zahr. OPENAI / OPENAI.COM / (POS 7N3QWJUF),,SPRAVODLIVOSŤ,PS
 14524,2023-09-18,,-39.88,EUR NÁKUP POS FACEBK *SMU7FRFW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
@@ -16649,69 +16552,17 @@ RCZAGOVA - audit 2022",2023001.0,Pirátska strana,PS
 14537,2023-09-04,,-20.0,INT NÁKUP POS EUR FIGMA MONTHLY RENEWAL / HTTPSWWW.FIGM / (POS 2AZKKVLN),,SPRAVODLIVOSŤ,PS
 14538,2023-08-31,,-5.8,Poplatky za transakcie,,SPRAVODLIVOSŤ,PS
 14539,2023-08-31,,-7.0,Poplatok za balík,,SPRAVODLIVOSŤ,PS
-14540,2023-08-30,"
-                            
-                    ",-33.0,"
-                        EUR NÁKUP POS FACEBK 2ZBDNQ3W92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14541,2023-08-30,"
-                            
-                    ",-14.31,"
-                        POS nákup zahr. DANTE AI INC. / LONDON / (POS 5GMN9JHB)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14542,2023-08-30,"
-                            
-                    ",-40.0,"
-                        EUR NÁKUP POS FACEBK 542KGQ7W92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14543,2023-08-30,"
-                            
-                    ",-33.2,"
-                        EUR NÁKUP POS FS *socialbeelabssr / fsprg.nl / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14544,2023-08-30,,-60.0,"EUR NÁKUP POS FACEBK T35VDRBW92 / fb.me/ads / (POS 99999999)/
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
+14540,2023-08-30,,-33.0,EUR NÁKUP POS FACEBK 2ZBDNQ3W92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14541,2023-08-30,,-14.31,POS nákup zahr. DANTE AI INC. / LONDON / (POS 5GMN9JHB),,SPRAVODLIVOSŤ,PS
+14542,2023-08-30,,-40.0,EUR NÁKUP POS FACEBK 542KGQ7W92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14543,2023-08-30,,-33.2,EUR NÁKUP POS FS *socialbeelabssr / fsprg.nl / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14544,2023-08-30,,-60.0,EUR NÁKUP POS FACEBK T35VDRBW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
 14545,2023-08-30,,-34.34,POS nákup zahr. MIDJOURNEY INC. / HTTPSWWW.MIDJ / (POS MGQQ43JR),,SPRAVODLIVOSŤ,PS
 14546,2023-08-30,SPRAVODLIVOSŤ,5000.0,Platba/na volebnu kampan,,SPRAVODLIVOSŤ,PS
 14547,2023-08-30,"ANWELL, s.r.o.",-37.4,"Platba/ANWELL, s.r.o.: 20232638 - SPRAVODLIVOST - 2023/08","20232638
 VS20232638/SS/KS",SPRAVODLIVOSŤ,PS
-14548,2023-08-28,"
-                            
-                    ",-27.0,"
-                        EUR NÁKUP POS FACEBK 9VXQMQXV92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
-14549,2023-08-28,"
-                            
-                    ",-22.0,"
-                        EUR NÁKUP POS FACEBK 32MLEQ7W92 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    ",SPRAVODLIVOSŤ,PS
+14548,2023-08-28,,-27.0,EUR NÁKUP POS FACEBK 9VXQMQXV92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
+14549,2023-08-28,,-22.0,EUR NÁKUP POS FACEBK 32MLEQ7W92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
 14550,2023-08-28,,-20.0,EUR NÁKUP POS FACEBK HGE8KQKV92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
 14551,2023-08-28,,-15.0,EUR NÁKUP POS FACEBK HQTMARBW92 / fb.me/ads / (POS 99999999),,SPRAVODLIVOSŤ,PS
 14552,2023-08-24,,-13.99,INT NÁKUP POS EUR CANVA* I03885-24988642 / HTTPSCANVA.CO / (POS RHM0EZQC),,SPRAVODLIVOSŤ,PS
@@ -18598,245 +18449,246 @@ ych ploch",23004.0,Slovenské Hnutie Obrody,PS
 15921,2023-06-30,,-0.5,Poplatok za vedenie účtu,,SRDCE,PS
 15922,2023-06-30,MV SR,-17000.0,,42285089.0,SRDCE,PS
 15923,2023-06-29,SRDCE - SNJ - SV,18302.04,prevod z pôvodného transparentného účtu,4228508929.0,SRDCE,PS
-15924,2023-10-06,Obec Hronska Dubrava,-25.0,uh.fa,102023.0,Vlastenecký blok,PS
-15925,2023-10-05,Kulturne a spolocenske stredisko Prievidza,-42.5,uh.fa,2023199.0,Vlastenecký blok,PS
-15926,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-264.0,uh.fa,20230698.0,Vlastenecký blok,PS
-15927,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-1866.0,uh.fa,20230695.0,Vlastenecký blok,PS
-15928,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-440.4,uh.fa,20230696.0,Vlastenecký blok,PS
-15929,2023-10-02,STANOVIC IVAN,220.2,dar,610.0,Vlastenecký blok,PS
-15930,2023-09-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-15931,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-15932,2023-09-30,Soukup Marián,220.2,DAR - Marian Soukup,,Vlastenecký blok,PS
-15933,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",60.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
-15934,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",415.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
-15935,2023-09-28,HANZLIK ROMAN,415.0,DAR Mgr. Roman Hanzlik,6904078115.0,Vlastenecký blok,PS
-15936,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
-15937,2023-09-26,,-37.5,"B1628343864-44544 17** **** 3480;POSTA RUZINDOL ,RUZINDOL ,SK ;25.09.2023 14:54:35 ;CashBack:0 EUR",,Vlastenecký blok,PS
-15938,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
-15939,2023-09-26,,-75.0,"B1628341645-44544 17** **** 3480;POSTA SENKVICE ,SENKVICE ,SK ;25.09.2023 13:54:50 ;CashBack:0 EUR",,Vlastenecký blok,PS
-15940,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
-15941,2023-09-26,,-75.0,"B1628340102-44544 17** **** 3480;POSTA ZELENEC ,ZELENEC ,SK ;25.09.2023 13:04:29 ;CashBack:0 EUR",,Vlastenecký blok,PS
-15942,2023-09-23,Soukup Marián,115.0,DAR - Marian Soukup,,Vlastenecký blok,PS
-15943,2023-09-20,Lubomir Mores,270.0,dar pre Mgr Mores,,Vlastenecký blok,PS
-15944,2023-09-20,Region Press s.r.o.,-270.0,uh.fa,274230065.0,Vlastenecký blok,PS
-15945,2023-09-18,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
-15946,2023-09-14,Region Press s.r.o.,-1332.0,uh.fa,134230284.0,Vlastenecký blok,PS
-15947,2023-09-14,"CHOLEVOVA JANA,Choleva Ľubomír",332.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
-15948,2023-09-13,"CHOLEVOVA JANA,Choleva Ľubomír",1000.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
-15949,2023-09-04,GULDANOVA JANA,415.0,Dar - Jana Guldanova,,Vlastenecký blok,PS
-15950,2023-09-04,Eva Uvackova,30.0,26529777,,Vlastenecký blok,PS
-15951,2023-09-02,Emilia Uhlarikova,20.0,dar pre nadej,,Vlastenecký blok,PS
-15952,2023-08-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-15953,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-15954,2023-08-30,Mesto Banovce nad Bebravou,-14.0,uh.fa,2023113.0,Vlastenecký blok,PS
-15955,2023-08-30,Blue Mark production s.r.o.,-112.8,uh.fa,2023037.0,Vlastenecký blok,PS
-15956,2023-08-30,"Janigová Oľga, Mgr.",-100.0,vratenie dar Dasa Kovacova,42330955.0,Vlastenecký blok,PS
-15957,2023-08-30,DOBOSOVA EVA,100.0,Dar na voľby Daniela Zemanová,,Vlastenecký blok,PS
-15958,2023-08-30,"Janigová Oľga, Mgr.",150.0,DAR,,Vlastenecký blok,PS
-15959,2023-08-23,DLD s.r.o.,-226.8,uh.fa,20230268.0,Vlastenecký blok,PS
-15960,2023-08-23,Daniel Ferencik,-522.0,uh.fa,2307006.0,Vlastenecký blok,PS
-15961,2023-08-23,Soukupová Karin,522.0,dar,,Vlastenecký blok,PS
-15962,2023-08-18,"CHOLEVOVA JANA,Choleva Ľubomír",230.0,"Dar - Lubomir Choleva""",18082023.0,Vlastenecký blok,PS
-15963,2023-08-18,Zdenka Stolarova,-20.0,vratenie platby,42330955.0,Vlastenecký blok,PS
-15964,2023-08-17,Bunčová Anna,20.0,Anna Bunčova. Daniela Ustupska c4 podpora,,Vlastenecký blok,PS
-15965,2023-08-16,Ing.Ivan Barancok-Laser Impress,-105.6,uh.fa,20230171.0,Vlastenecký blok,PS
-15966,2023-08-14,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
-15967,2023-08-14,HUPKA BORIS,10.0,Volby,,Vlastenecký blok,PS
-15968,2023-08-11,Sunegová Evka,112.8,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
-15969,2023-08-11,Sunegová Evka,105.6,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
-15970,2023-08-11,,20.0,"Zdenka Stolárová , dar pre voľby 23 - Mária Pekaríková",,Vlastenecký blok,PS
-15971,2023-08-11,Gregor Miroslav,10.0,Dar pre nadej,,Vlastenecký blok,PS
-15972,2023-08-11,TOMAS FUPSO,20.0,dar Zemanova,,Vlastenecký blok,PS
-15973,2023-08-10,Medlová Dana,20.0,Dar na volby Dasa Kovacova,,Vlastenecký blok,PS
-15974,2023-08-10,Ursínyová Eva,5.0,dar na voľby,,Vlastenecký blok,PS
-15975,2023-08-10,VLCKOVA ELENA,15.0,Dar na volby Daniela Zemanova ElenaVlckova,,Vlastenecký blok,PS
-15976,2023-08-10,KRNACOVA EVA,5.0,Dar na volby Daniela Zemanova,,Vlastenecký blok,PS
-15977,2023-08-09,Imrich Gaplovský,20.0,26307267,8082023.0,Vlastenecký blok,PS
-15978,2023-08-09,DOCZYOVA JANKA,5.0,dar na volby Daniela Zemanova,,Vlastenecký blok,PS
-15979,2023-08-09,Strhárska Anna,50.0,Dar na volby,,Vlastenecký blok,PS
-15980,2023-08-08,Ábelová Anna,10.0,Podpora,,Vlastenecký blok,PS
-15981,2023-08-08,Alena Remsikova,10.0,2322050000054920,,Vlastenecký blok,PS
-15982,2023-08-08,Jankovič Miroslav,10.0,OO23080800058971,,Vlastenecký blok,PS
-15983,2023-08-08,Olga Surinova,10.0,Olga Abaffyova Surinova,,Vlastenecký blok,PS
-15984,2023-08-08,Zdenka Chovanova,10.0,2322050000027208,,Vlastenecký blok,PS
-15985,2023-08-01,Matejková Lucia,200.0,dar na voľby pre Mária Pekarikova,,Vlastenecký blok,PS
-15986,2023-07-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-15987,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-15988,2023-07-27,Dana Kavorova,300.0,"Ing. Dana Kavorova, dar",,Vlastenecký blok,PS
-15989,2023-07-26,STANOVIC IVAN,415.0,dar,6110.0,Vlastenecký blok,PS
-15990,2023-07-25,Primorac Salome,100.0,Dar na volby pre Maria Pekarikova,,Vlastenecký blok,PS
-15991,2023-07-24,"BENCOVA ZUZANA,ING",300.0,"DAR-Bencova,Stranak",,Vlastenecký blok,PS
-15992,2023-07-14,Eva Uvackova,300.0,DAR-EVA UVACKOVA,1372023.0,Vlastenecký blok,PS
-15993,2023-07-13,"Janigová Oľga, Mgr.",100.0,DAR DASA KOVACOVA,,Vlastenecký blok,PS
-15994,2023-07-11,Soukup Marián,300.0,DAR - Marian Soukup,,Vlastenecký blok,PS
-15995,2023-07-11,"Janigová Oľga, Mgr.",300.0,Dar Mgr. Olga Janigova,,Vlastenecký blok,PS
-15996,2023-07-06,Slobodová Zlata,20.0,DAR,,Vlastenecký blok,PS
-15997,2023-07-06,EMILIA MINARIKOVA,300.0,DAR MINARIKOVA EMILIA,,Vlastenecký blok,PS
-15998,2023-07-06,EMILIA MINARIKOVA,300.0,DAR UHLARIK MIROSLAV,,Vlastenecký blok,PS
-15999,2023-07-06,"Maršal Dušan,Maršalová Ľubica",20.0,Dar,,Vlastenecký blok,PS
-16000,2023-07-06,Sunegová Evka,300.0,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
-16001,2023-07-04,Marta Rusnakova,300.0,DAR MARTA RUSNAKOVA,,Vlastenecký blok,PS
-16002,2023-07-02,,-10.0,Poplatok Potvrdenie o vykonaní prevodu,,Vlastenecký blok,PS
-16003,2023-07-01,MV SR,-17000.0,volebna kaucia,42330955.0,Vlastenecký blok,PS
-16004,2023-06-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-16005,2023-06-30,,-1.17,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-16006,2023-06-29,SOUKUPOVA KARIN,8500.0,POZICKA - KARIN SOUKUPOVA,,Vlastenecký blok,PS
-16007,2023-06-29,STANOVIC IVAN,8500.0,Pozicka,611006.0,Vlastenecký blok,PS
-16008,2023-06-27,SMUTNY P AQUAFIND,300.0,od Pala Smutneho,6308186148.0,Vlastenecký blok,PS
-16009,2023-10-10,LEHOTA MILAN ING.,-1.0,,,Spoločne občania Slovenska,PS
-16010,2023-10-02,LEHOTA MILAN ING.,1.0,F001021020236973267,,Spoločne občania Slovenska,PS
-16011,2023-09-30,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
-16012,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
-16013,2023-09-14,Bežný účet pre neziskový sekto,-100.0,,,Spoločne občania Slovenska,PS
-16014,2023-09-12,"Norpal Print, s.r.o.",-399.0,Platba faktury 20230151 - REKLAMA,20230151.0,Spoločne občania Slovenska,PS
-16015,2023-09-11,Winkler Róbert,150.0,Dar,,Spoločne občania Slovenska,PS
-16016,2023-09-11,Winkler Róbert,250.0,Dar,,Spoločne občania Slovenska,PS
-16017,2023-09-11,Martin Fenďa,-5000.0,oprava - vrátenie hotovostneho vkladu z 24.8.2023,,Spoločne občania Slovenska,PS
-16018,2023-09-08,SPOLOČNE OBČANIA SLOVENSKA,5000.0,Dar,,Spoločne občania Slovenska,PS
-16019,2023-09-06,Winkler Róbert,150.0,Dar,,Spoločne občania Slovenska,PS
-16020,2023-09-05,WEBcomp,-270.0,grafické a internetové služby,2023027.0,Spoločne občania Slovenska,PS
-16021,2023-08-31,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
-16022,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
-16023,2023-08-30,Tibor Hanuliak,-30.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16024,2023-08-30,Róbert Winkler,700.0,ROBERT WINKLER DAR,,Spoločne občania Slovenska,PS
-16025,2023-08-30,Róbert Winkler,600.0,ROBERT WINKLER DAR,,Spoločne občania Slovenska,PS
-16026,2023-08-30,Loderér Vladislav,999.0,Dar,,Spoločne občania Slovenska,PS
-16027,2023-08-30,Róbert Winkler,-1300.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16028,2023-08-30,Róbert Winkler,-2999.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16029,2023-08-30,Róbert Winkler,-1001.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16030,2023-08-30,Loderér Vladislav,-1000.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16031,2023-08-30,Peter Smolka,-994.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16032,2023-08-30,Róbert Winkler,900.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
-16033,2023-08-30,Róbert Winkler,800.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
-16034,2023-08-30,Róbert Winkler,950.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
-16035,2023-08-30,Róbert Winkler,1350.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
-16036,2023-08-30,Peter Smolka,-1000.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16037,2023-08-30,Peter Smolka,-2000.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
-16038,2023-08-28,Peter Smolka,4000.0,dar Smolka Peter,,Spoločne občania Slovenska,PS
-16039,2023-08-24,NOTPROVIDED,-297.0,,30230009.0,Spoločne občania Slovenska,PS
-16040,2023-08-24,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),30230009.0,Spoločne občania Slovenska,PS
-16041,2023-08-24,NOTPROVIDED,-1000.0,,,Spoločne občania Slovenska,PS
-16042,2023-08-24,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),,Spoločne občania Slovenska,PS
+15924,2023-10-16,Bežný účet pre neziskový sekto,-1330.4,prevod z uctu,6110.0,Vlastenecký blok,PS
+15925,2023-10-06,Obec Hronska Dubrava,-25.0,uh.fa,102023.0,Vlastenecký blok,PS
+15926,2023-10-05,Kulturne a spolocenske stredisko Prievidza,-42.5,uh.fa,2023199.0,Vlastenecký blok,PS
+15927,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-264.0,uh.fa,20230698.0,Vlastenecký blok,PS
+15928,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-1866.0,uh.fa,20230695.0,Vlastenecký blok,PS
+15929,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-440.4,uh.fa,20230696.0,Vlastenecký blok,PS
+15930,2023-10-02,STANOVIC IVAN,220.2,dar,610.0,Vlastenecký blok,PS
+15931,2023-09-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+15932,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+15933,2023-09-30,Soukup Marián,220.2,DAR - Marian Soukup,,Vlastenecký blok,PS
+15934,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",60.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
+15935,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",415.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
+15936,2023-09-28,HANZLIK ROMAN,415.0,DAR Mgr. Roman Hanzlik,6904078115.0,Vlastenecký blok,PS
+15937,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
+15938,2023-09-26,,-37.5,"B1628343864-44544 17** **** 3480;POSTA RUZINDOL ,RUZINDOL ,SK ;25.09.2023 14:54:35 ;CashBack:0 EUR",,Vlastenecký blok,PS
+15939,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
+15940,2023-09-26,,-75.0,"B1628341645-44544 17** **** 3480;POSTA SENKVICE ,SENKVICE ,SK ;25.09.2023 13:54:50 ;CashBack:0 EUR",,Vlastenecký blok,PS
+15941,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
+15942,2023-09-26,,-75.0,"B1628340102-44544 17** **** 3480;POSTA ZELENEC ,ZELENEC ,SK ;25.09.2023 13:04:29 ;CashBack:0 EUR",,Vlastenecký blok,PS
+15943,2023-09-23,Soukup Marián,115.0,DAR - Marian Soukup,,Vlastenecký blok,PS
+15944,2023-09-20,Lubomir Mores,270.0,dar pre Mgr Mores,,Vlastenecký blok,PS
+15945,2023-09-20,Region Press s.r.o.,-270.0,uh.fa,274230065.0,Vlastenecký blok,PS
+15946,2023-09-18,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
+15947,2023-09-14,Region Press s.r.o.,-1332.0,uh.fa,134230284.0,Vlastenecký blok,PS
+15948,2023-09-14,"CHOLEVOVA JANA,Choleva Ľubomír",332.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
+15949,2023-09-13,"CHOLEVOVA JANA,Choleva Ľubomír",1000.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
+15950,2023-09-04,GULDANOVA JANA,415.0,Dar - Jana Guldanova,,Vlastenecký blok,PS
+15951,2023-09-04,Eva Uvackova,30.0,26529777,,Vlastenecký blok,PS
+15952,2023-09-02,Emilia Uhlarikova,20.0,dar pre nadej,,Vlastenecký blok,PS
+15953,2023-08-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+15954,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+15955,2023-08-30,Mesto Banovce nad Bebravou,-14.0,uh.fa,2023113.0,Vlastenecký blok,PS
+15956,2023-08-30,Blue Mark production s.r.o.,-112.8,uh.fa,2023037.0,Vlastenecký blok,PS
+15957,2023-08-30,"Janigová Oľga, Mgr.",-100.0,vratenie dar Dasa Kovacova,42330955.0,Vlastenecký blok,PS
+15958,2023-08-30,DOBOSOVA EVA,100.0,Dar na voľby Daniela Zemanová,,Vlastenecký blok,PS
+15959,2023-08-30,"Janigová Oľga, Mgr.",150.0,DAR,,Vlastenecký blok,PS
+15960,2023-08-23,DLD s.r.o.,-226.8,uh.fa,20230268.0,Vlastenecký blok,PS
+15961,2023-08-23,Daniel Ferencik,-522.0,uh.fa,2307006.0,Vlastenecký blok,PS
+15962,2023-08-23,Soukupová Karin,522.0,dar,,Vlastenecký blok,PS
+15963,2023-08-18,"CHOLEVOVA JANA,Choleva Ľubomír",230.0,"Dar - Lubomir Choleva""",18082023.0,Vlastenecký blok,PS
+15964,2023-08-18,Zdenka Stolarova,-20.0,vratenie platby,42330955.0,Vlastenecký blok,PS
+15965,2023-08-17,Bunčová Anna,20.0,Anna Bunčova. Daniela Ustupska c4 podpora,,Vlastenecký blok,PS
+15966,2023-08-16,Ing.Ivan Barancok-Laser Impress,-105.6,uh.fa,20230171.0,Vlastenecký blok,PS
+15967,2023-08-14,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
+15968,2023-08-14,HUPKA BORIS,10.0,Volby,,Vlastenecký blok,PS
+15969,2023-08-11,Sunegová Evka,112.8,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+15970,2023-08-11,Sunegová Evka,105.6,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+15971,2023-08-11,,20.0,"Zdenka Stolárová , dar pre voľby 23 - Mária Pekaríková",,Vlastenecký blok,PS
+15972,2023-08-11,Gregor Miroslav,10.0,Dar pre nadej,,Vlastenecký blok,PS
+15973,2023-08-11,TOMAS FUPSO,20.0,dar Zemanova,,Vlastenecký blok,PS
+15974,2023-08-10,Medlová Dana,20.0,Dar na volby Dasa Kovacova,,Vlastenecký blok,PS
+15975,2023-08-10,Ursínyová Eva,5.0,dar na voľby,,Vlastenecký blok,PS
+15976,2023-08-10,VLCKOVA ELENA,15.0,Dar na volby Daniela Zemanova ElenaVlckova,,Vlastenecký blok,PS
+15977,2023-08-10,KRNACOVA EVA,5.0,Dar na volby Daniela Zemanova,,Vlastenecký blok,PS
+15978,2023-08-09,Imrich Gaplovský,20.0,26307267,8082023.0,Vlastenecký blok,PS
+15979,2023-08-09,DOCZYOVA JANKA,5.0,dar na volby Daniela Zemanova,,Vlastenecký blok,PS
+15980,2023-08-09,Strhárska Anna,50.0,Dar na volby,,Vlastenecký blok,PS
+15981,2023-08-08,Ábelová Anna,10.0,Podpora,,Vlastenecký blok,PS
+15982,2023-08-08,Alena Remsikova,10.0,2322050000054920,,Vlastenecký blok,PS
+15983,2023-08-08,Jankovič Miroslav,10.0,OO23080800058971,,Vlastenecký blok,PS
+15984,2023-08-08,Olga Surinova,10.0,Olga Abaffyova Surinova,,Vlastenecký blok,PS
+15985,2023-08-08,Zdenka Chovanova,10.0,2322050000027208,,Vlastenecký blok,PS
+15986,2023-08-01,Matejková Lucia,200.0,dar na voľby pre Mária Pekarikova,,Vlastenecký blok,PS
+15987,2023-07-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+15988,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+15989,2023-07-27,Dana Kavorova,300.0,"Ing. Dana Kavorova, dar",,Vlastenecký blok,PS
+15990,2023-07-26,STANOVIC IVAN,415.0,dar,6110.0,Vlastenecký blok,PS
+15991,2023-07-25,Primorac Salome,100.0,Dar na volby pre Maria Pekarikova,,Vlastenecký blok,PS
+15992,2023-07-24,"BENCOVA ZUZANA,ING",300.0,"DAR-Bencova,Stranak",,Vlastenecký blok,PS
+15993,2023-07-14,Eva Uvackova,300.0,DAR-EVA UVACKOVA,1372023.0,Vlastenecký blok,PS
+15994,2023-07-13,"Janigová Oľga, Mgr.",100.0,DAR DASA KOVACOVA,,Vlastenecký blok,PS
+15995,2023-07-11,Soukup Marián,300.0,DAR - Marian Soukup,,Vlastenecký blok,PS
+15996,2023-07-11,"Janigová Oľga, Mgr.",300.0,Dar Mgr. Olga Janigova,,Vlastenecký blok,PS
+15997,2023-07-06,Slobodová Zlata,20.0,DAR,,Vlastenecký blok,PS
+15998,2023-07-06,EMILIA MINARIKOVA,300.0,DAR MINARIKOVA EMILIA,,Vlastenecký blok,PS
+15999,2023-07-06,EMILIA MINARIKOVA,300.0,DAR UHLARIK MIROSLAV,,Vlastenecký blok,PS
+16000,2023-07-06,"Maršal Dušan,Maršalová Ľubica",20.0,Dar,,Vlastenecký blok,PS
+16001,2023-07-06,Sunegová Evka,300.0,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+16002,2023-07-04,Marta Rusnakova,300.0,DAR MARTA RUSNAKOVA,,Vlastenecký blok,PS
+16003,2023-07-02,,-10.0,Poplatok Potvrdenie o vykonaní prevodu,,Vlastenecký blok,PS
+16004,2023-07-01,MV SR,-17000.0,volebna kaucia,42330955.0,Vlastenecký blok,PS
+16005,2023-06-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+16006,2023-06-30,,-1.17,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16007,2023-06-29,SOUKUPOVA KARIN,8500.0,POZICKA - KARIN SOUKUPOVA,,Vlastenecký blok,PS
+16008,2023-06-29,STANOVIC IVAN,8500.0,Pozicka,611006.0,Vlastenecký blok,PS
+16009,2023-06-27,SMUTNY P AQUAFIND,300.0,od Pala Smutneho,6308186148.0,Vlastenecký blok,PS
+16010,2023-10-10,LEHOTA MILAN ING.,-1.0,,,Spoločne občania Slovenska,PS
+16011,2023-10-02,LEHOTA MILAN ING.,1.0,F001021020236973267,,Spoločne občania Slovenska,PS
+16012,2023-09-30,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
+16013,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
+16014,2023-09-14,Bežný účet pre neziskový sekto,-100.0,,,Spoločne občania Slovenska,PS
+16015,2023-09-12,"Norpal Print, s.r.o.",-399.0,Platba faktury 20230151 - REKLAMA,20230151.0,Spoločne občania Slovenska,PS
+16016,2023-09-11,Winkler Róbert,150.0,Dar,,Spoločne občania Slovenska,PS
+16017,2023-09-11,Winkler Róbert,250.0,Dar,,Spoločne občania Slovenska,PS
+16018,2023-09-11,Martin Fenďa,-5000.0,oprava - vrátenie hotovostneho vkladu z 24.8.2023,,Spoločne občania Slovenska,PS
+16019,2023-09-08,SPOLOČNE OBČANIA SLOVENSKA,5000.0,Dar,,Spoločne občania Slovenska,PS
+16020,2023-09-06,Winkler Róbert,150.0,Dar,,Spoločne občania Slovenska,PS
+16021,2023-09-05,WEBcomp,-270.0,grafické a internetové služby,2023027.0,Spoločne občania Slovenska,PS
+16022,2023-08-31,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
+16023,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
+16024,2023-08-30,Tibor Hanuliak,-30.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16025,2023-08-30,Róbert Winkler,700.0,ROBERT WINKLER DAR,,Spoločne občania Slovenska,PS
+16026,2023-08-30,Róbert Winkler,600.0,ROBERT WINKLER DAR,,Spoločne občania Slovenska,PS
+16027,2023-08-30,Loderér Vladislav,999.0,Dar,,Spoločne občania Slovenska,PS
+16028,2023-08-30,Róbert Winkler,-1300.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16029,2023-08-30,Róbert Winkler,-2999.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16030,2023-08-30,Róbert Winkler,-1001.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16031,2023-08-30,Loderér Vladislav,-1000.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16032,2023-08-30,Peter Smolka,-994.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16033,2023-08-30,Róbert Winkler,900.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
+16034,2023-08-30,Róbert Winkler,800.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
+16035,2023-08-30,Róbert Winkler,950.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
+16036,2023-08-30,Róbert Winkler,1350.0,Robert Winkler dar,,Spoločne občania Slovenska,PS
+16037,2023-08-30,Peter Smolka,-1000.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16038,2023-08-30,Peter Smolka,-2000.0,oprava - vrátenie hotovostneho vkladu,,Spoločne občania Slovenska,PS
+16039,2023-08-28,Peter Smolka,4000.0,dar Smolka Peter,,Spoločne občania Slovenska,PS
+16040,2023-08-24,NOTPROVIDED,-297.0,,30230009.0,Spoločne občania Slovenska,PS
+16041,2023-08-24,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),30230009.0,Spoločne občania Slovenska,PS
+16042,2023-08-24,NOTPROVIDED,-1000.0,,,Spoločne občania Slovenska,PS
 16043,2023-08-24,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),,Spoločne občania Slovenska,PS
-16044,2023-08-24,NOTPROVIDED,-5000.0,Priamy vklad oprava,,Spoločne občania Slovenska,PS
-16045,2023-08-23,ROBERT WINKLER,1001.0,DAR,,Spoločne občania Slovenska,PS
-16046,2023-08-23,ROBERT WINKLER,2999.0,DAR,,Spoločne občania Slovenska,PS
-16047,2023-08-22,Winkler Róbert,1300.0,Dar,,Spoločne občania Slovenska,PS
-16048,2023-08-21,Novák Ľubomír,5.0,Clenske 2023 Zdenek Novak,,Spoločne občania Slovenska,PS
-16049,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),2023355.0,Spoločne občania Slovenska,PS
-16050,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230002.0,Spoločne občania Slovenska,PS
-16051,2023-08-17,NOTPROVIDED,-150.06,,2023355.0,Spoločne občania Slovenska,PS
-16052,2023-08-17,NOTPROVIDED,-150.0,,20230002.0,Spoločne občania Slovenska,PS
-16053,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),230144.0,Spoločne občania Slovenska,PS
-16054,2023-08-17,NOTPROVIDED,-78.0,,230144.0,Spoločne občania Slovenska,PS
-16055,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230139.0,Spoločne občania Slovenska,PS
-16056,2023-08-17,NOTPROVIDED,-420.48,,20230139.0,Spoločne občania Slovenska,PS
-16057,2023-08-10,,1000.0,"Vladislav Loderér , Loderér Vladislav",,Spoločne občania Slovenska,PS
-16058,2023-08-09,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),12852012.0,Spoločne občania Slovenska,PS
-16059,2023-08-09,JUDr. Miroslav Šupa,-485.8,1285/2012,12852012.0,Spoločne občania Slovenska,PS
-16060,2023-08-03,Peter Kondrát,100.0,Kondrát,,Spoločne občania Slovenska,PS
-16061,2023-08-03,,994.0,"Peter Smolka , Smolka Peter",,Spoločne občania Slovenska,PS
-16062,2023-08-03,Winkler Róbert,200.0,pre ADRIANA BARNOSAKA kandidata na poslanca do NRSR cislo 53 na kampan,,Spoločne občania Slovenska,PS
-16063,2023-07-31,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
-16064,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
-16065,2023-07-28,"Šottník Bohuš,Šottníková Lenka",50.0,platba na kampaň,,Spoločne občania Slovenska,PS
-16066,2023-07-28,"Šottník Bohuš,Šottníková Lenka",10.0,platba za tričko,,Spoločne občania Slovenska,PS
-16067,2023-07-25,NOTPROVIDED,-289.8,,20230131.0,Spoločne občania Slovenska,PS
-16068,2023-07-25,NOTPROVIDED,-270.0,,2023022.0,Spoločne občania Slovenska,PS
-16069,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),2023022.0,Spoločne občania Slovenska,PS
-16070,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230130.0,Spoločne občania Slovenska,PS
-16071,2023-07-25,NOTPROVIDED,-480.0,,20230130.0,Spoločne občania Slovenska,PS
-16072,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230131.0,Spoločne občania Slovenska,PS
-16073,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),2023456.0,Spoločne občania Slovenska,PS
-16074,2023-07-25,NOTPROVIDED,-582.0,,12023216.0,Spoločne občania Slovenska,PS
-16075,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),12023216.0,Spoločne občania Slovenska,PS
-16076,2023-07-25,NOTPROVIDED,-240.0,,2023456.0,Spoločne občania Slovenska,PS
-16077,2023-07-21,,2000.0,"Peter Smolka , Smolka Peter",,Spoločne občania Slovenska,PS
-16078,2023-07-18,Truchlík Štefan,50.0,štefan truchlík,,Spoločne občania Slovenska,PS
-16079,2023-07-15,Papučíková Miroslava,50.0,Papucikova Miroslava,,Spoločne občania Slovenska,PS
-16080,2023-07-15,Winkler Róbert,100.0,Robert Winkler,,Spoločne občania Slovenska,PS
-16081,2023-07-01,Winkler Róbert,6.67,OO23070100011231,,Spoločne občania Slovenska,PS
-16082,2023-07-01,,5000.0,"Róbert Winkler , 11.11.1977",,Spoločne občania Slovenska,PS
-16083,2023-07-01,,5000.0,"Martin Fenďa , Ing. Martin Fenďa",,Spoločne občania Slovenska,PS
-16084,2023-07-01,,1000.0,"Peter Smolka ,",,Spoločne občania Slovenska,PS
-16085,2023-07-01,,1020.0,,,Spoločne občania Slovenska,PS
-16086,2023-07-01,NOTPROVIDED,-17000.0,spoločne občania Slovenska,,Spoločne občania Slovenska,PS
-16087,2023-07-01,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),,Spoločne občania Slovenska,PS
-16088,2023-06-30,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
-16089,2023-06-30,,-2.67,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
-16090,2023-06-30,Daniel Húšťa,1000.0,F001300620234097430,,Spoločne občania Slovenska,PS
-16091,2023-06-30,,1000.0,"Radovan Bujňák , Bujňák Radovan",,Spoločne občania Slovenska,PS
-16092,2023-06-30,Krška Vladimír,3000.0,F001300620234065459,,Spoločne občania Slovenska,PS
-16093,2023-06-27,GGV s.r.o.,1.0,F001270620232040685,,Spoločne občania Slovenska,PS
-16094,2023-09-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16095,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16096,2023-08-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16097,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16098,2023-07-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16099,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16100,2023-05-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16101,2023-05-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16102,2023-04-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16103,2023-04-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16104,2023-03-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16105,2023-03-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16106,2023-03-15,Regionalna Organizacia Slo. Syndikat Novinarov,-30.0,,,Princíp,PS
-16107,2023-02-28,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16108,2023-02-28,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16109,2023-02-20,,-4.0,Poplatok za zmenu nakladania,,Princíp,PS
-16110,2023-02-20,,-8.0,Poplatok za výber hotovosti,,Princíp,PS
-16111,2023-02-20,,-800.0,,,Princíp,PS
-16112,2023-01-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16113,2023-01-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16114,2022-12-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16115,2022-12-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16116,2022-12-28,MORALNY PRINCIP SR,22.89,24359942,,Princíp,PS
-16117,2022-11-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16118,2022-11-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16119,2022-11-07,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16120,2022-11-07,,-294.41,"B1402619753-44544 17** **** 4475;FACEBK 435HTJX8J2 ,fb.me/ads ,IE ;06.11.2022 00:36:20 ;CashBack:0 EUR",,Princíp,PS
-16121,2022-10-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16122,2022-10-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16123,2022-10-26,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16124,2022-10-26,,-750.0,"B1394796980-44544 17** **** 4475;FACEBK 664ZPHF9J2 ,fb.me/ads ,IE ;24.10.2022 19:32:32 ;CashBack:0 EUR",,Princíp,PS
-16125,2022-10-24,,-500.0,"B1393714749-44544 17** **** 4475;FACEBK Q8X4ZJT9J2 ,fb.me/ads ,IE ;22.10.2022 12:26:41 ;CashBack:0 EUR",,Princíp,PS
-16126,2022-10-24,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16127,2022-10-13,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16128,2022-10-13,,-350.0,"B1385945260-44544 17** **** 4475;FACEBK Q9U4QJT9J2 ,fb.me/ads ,IE ;11.10.2022 16:18:22 ;CashBack:0 EUR",,Princíp,PS
-16129,2022-10-11,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16130,2022-10-11,,-225.0,"B1384868135-44544 17** **** 4475;FACEBK DMEL9J79J2 ,fb.me/ads ,IE ;09.10.2022 18:16:57 ;CashBack:0 EUR",,Princíp,PS
-16131,2022-10-07,Rigó Marek,2000.0,Dar,,Princíp,PS
-16132,2022-10-07,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16133,2022-10-07,,-7.37,"B1382776693-44544 17** **** 4475;FACEBK CWF55J39J2 ,fb.me/ads ,IE ;06.10.2022 00:03:52 ;CashBack:0 EUR",,Princíp,PS
-16134,2022-09-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16135,2022-09-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16136,2022-09-20,Irena Petrasova,-600.0,0220920182754.768679,220003.0,Princíp,PS
-16137,2022-08-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16138,2022-08-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16139,2022-07-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16140,2022-07-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16141,2022-06-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16142,2022-06-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16143,2022-05-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16144,2022-05-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16145,2022-05-12,,-0.2,Poplatok za platbu kartou,,Princíp,PS
-16146,2022-05-12,,-9.0,"B1284413533-44544 17** **** 4475;FACEBK C4AA4FB9J2 ,fb.me/ads ,IE ;10.05.2022 06:48:51 ;CashBack:0 EUR",,Princíp,PS
-16147,2022-04-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16148,2022-04-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16149,2022-03-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16150,2022-03-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16151,2022-02-28,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16152,2022-02-28,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
-16153,2022-01-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
-16154,2022-01-31,,-1.13,Poplatok za vedenie účtu,,Princíp,PS
-16155,2022-01-27,"MV SR, OÚ správa pokút",-500.0,,1127847.0,Princíp,PS
-16156,2022-01-27,"MV SR, OÚ správa pokút",-5660.0,,1099240.0,Princíp,PS
-16157,2022-01-27,KODRAZI DZEMAL,8000.0,Pozicka,,Princíp,PS
-16158,2023-09-30,,-7.0,Poplatok za balík,,SDKÚ,PS
-16159,2023-09-18,RYBARIK BRANISLAV,500.0,PLATBA/Dar,,SDKÚ,PS
-16160,2023-09-14,TRY ART spol. s r.o.,-6000.0,Platba/reklamny spot a medialny budget,"2023174
+16044,2023-08-24,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),,Spoločne občania Slovenska,PS
+16045,2023-08-24,NOTPROVIDED,-5000.0,Priamy vklad oprava,,Spoločne občania Slovenska,PS
+16046,2023-08-23,ROBERT WINKLER,1001.0,DAR,,Spoločne občania Slovenska,PS
+16047,2023-08-23,ROBERT WINKLER,2999.0,DAR,,Spoločne občania Slovenska,PS
+16048,2023-08-22,Winkler Róbert,1300.0,Dar,,Spoločne občania Slovenska,PS
+16049,2023-08-21,Novák Ľubomír,5.0,Clenske 2023 Zdenek Novak,,Spoločne občania Slovenska,PS
+16050,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),2023355.0,Spoločne občania Slovenska,PS
+16051,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230002.0,Spoločne občania Slovenska,PS
+16052,2023-08-17,NOTPROVIDED,-150.06,,2023355.0,Spoločne občania Slovenska,PS
+16053,2023-08-17,NOTPROVIDED,-150.0,,20230002.0,Spoločne občania Slovenska,PS
+16054,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),230144.0,Spoločne občania Slovenska,PS
+16055,2023-08-17,NOTPROVIDED,-78.0,,230144.0,Spoločne občania Slovenska,PS
+16056,2023-08-17,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230139.0,Spoločne občania Slovenska,PS
+16057,2023-08-17,NOTPROVIDED,-420.48,,20230139.0,Spoločne občania Slovenska,PS
+16058,2023-08-10,,1000.0,"Vladislav Loderér , Loderér Vladislav",,Spoločne občania Slovenska,PS
+16059,2023-08-09,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),12852012.0,Spoločne občania Slovenska,PS
+16060,2023-08-09,JUDr. Miroslav Šupa,-485.8,1285/2012,12852012.0,Spoločne občania Slovenska,PS
+16061,2023-08-03,Peter Kondrát,100.0,Kondrát,,Spoločne občania Slovenska,PS
+16062,2023-08-03,,994.0,"Peter Smolka , Smolka Peter",,Spoločne občania Slovenska,PS
+16063,2023-08-03,Winkler Róbert,200.0,pre ADRIANA BARNOSAKA kandidata na poslanca do NRSR cislo 53 na kampan,,Spoločne občania Slovenska,PS
+16064,2023-07-31,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
+16065,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
+16066,2023-07-28,"Šottník Bohuš,Šottníková Lenka",50.0,platba na kampaň,,Spoločne občania Slovenska,PS
+16067,2023-07-28,"Šottník Bohuš,Šottníková Lenka",10.0,platba za tričko,,Spoločne občania Slovenska,PS
+16068,2023-07-25,NOTPROVIDED,-289.8,,20230131.0,Spoločne občania Slovenska,PS
+16069,2023-07-25,NOTPROVIDED,-270.0,,2023022.0,Spoločne občania Slovenska,PS
+16070,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),2023022.0,Spoločne občania Slovenska,PS
+16071,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230130.0,Spoločne občania Slovenska,PS
+16072,2023-07-25,NOTPROVIDED,-480.0,,20230130.0,Spoločne občania Slovenska,PS
+16073,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),20230131.0,Spoločne občania Slovenska,PS
+16074,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),2023456.0,Spoločne občania Slovenska,PS
+16075,2023-07-25,NOTPROVIDED,-582.0,,12023216.0,Spoločne občania Slovenska,PS
+16076,2023-07-25,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),12023216.0,Spoločne občania Slovenska,PS
+16077,2023-07-25,NOTPROVIDED,-240.0,,2023456.0,Spoločne občania Slovenska,PS
+16078,2023-07-21,,2000.0,"Peter Smolka , Smolka Peter",,Spoločne občania Slovenska,PS
+16079,2023-07-18,Truchlík Štefan,50.0,štefan truchlík,,Spoločne občania Slovenska,PS
+16080,2023-07-15,Papučíková Miroslava,50.0,Papucikova Miroslava,,Spoločne občania Slovenska,PS
+16081,2023-07-15,Winkler Róbert,100.0,Robert Winkler,,Spoločne občania Slovenska,PS
+16082,2023-07-01,Winkler Róbert,6.67,OO23070100011231,,Spoločne občania Slovenska,PS
+16083,2023-07-01,,5000.0,"Róbert Winkler , 11.11.1977",,Spoločne občania Slovenska,PS
+16084,2023-07-01,,5000.0,"Martin Fenďa , Ing. Martin Fenďa",,Spoločne občania Slovenska,PS
+16085,2023-07-01,,1000.0,"Peter Smolka ,",,Spoločne občania Slovenska,PS
+16086,2023-07-01,,1020.0,,,Spoločne občania Slovenska,PS
+16087,2023-07-01,NOTPROVIDED,-17000.0,spoločne občania Slovenska,,Spoločne občania Slovenska,PS
+16088,2023-07-01,,-8.0,Popl.Pl.Prík.na úh./Prev.EUR EHP/FIT(OM),,Spoločne občania Slovenska,PS
+16089,2023-06-30,,-5.0,Zverejňovanie účtu,,Spoločne občania Slovenska,PS
+16090,2023-06-30,,-2.67,Poplatok za vedenie účtu,,Spoločne občania Slovenska,PS
+16091,2023-06-30,Daniel Húšťa,1000.0,F001300620234097430,,Spoločne občania Slovenska,PS
+16092,2023-06-30,,1000.0,"Radovan Bujňák , Bujňák Radovan",,Spoločne občania Slovenska,PS
+16093,2023-06-30,Krška Vladimír,3000.0,F001300620234065459,,Spoločne občania Slovenska,PS
+16094,2023-06-27,GGV s.r.o.,1.0,F001270620232040685,,Spoločne občania Slovenska,PS
+16095,2023-09-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16096,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16097,2023-08-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16098,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16099,2023-07-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16100,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16101,2023-05-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16102,2023-05-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16103,2023-04-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16104,2023-04-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16105,2023-03-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16106,2023-03-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16107,2023-03-15,Regionalna Organizacia Slo. Syndikat Novinarov,-30.0,,,Princíp,PS
+16108,2023-02-28,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16109,2023-02-28,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16110,2023-02-20,,-4.0,Poplatok za zmenu nakladania,,Princíp,PS
+16111,2023-02-20,,-8.0,Poplatok za výber hotovosti,,Princíp,PS
+16112,2023-02-20,,-800.0,,,Princíp,PS
+16113,2023-01-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16114,2023-01-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16115,2022-12-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16116,2022-12-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16117,2022-12-28,MORALNY PRINCIP SR,22.89,24359942,,Princíp,PS
+16118,2022-11-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16119,2022-11-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16120,2022-11-07,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16121,2022-11-07,,-294.41,"B1402619753-44544 17** **** 4475;FACEBK 435HTJX8J2 ,fb.me/ads ,IE ;06.11.2022 00:36:20 ;CashBack:0 EUR",,Princíp,PS
+16122,2022-10-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16123,2022-10-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16124,2022-10-26,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16125,2022-10-26,,-750.0,"B1394796980-44544 17** **** 4475;FACEBK 664ZPHF9J2 ,fb.me/ads ,IE ;24.10.2022 19:32:32 ;CashBack:0 EUR",,Princíp,PS
+16126,2022-10-24,,-500.0,"B1393714749-44544 17** **** 4475;FACEBK Q8X4ZJT9J2 ,fb.me/ads ,IE ;22.10.2022 12:26:41 ;CashBack:0 EUR",,Princíp,PS
+16127,2022-10-24,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16128,2022-10-13,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16129,2022-10-13,,-350.0,"B1385945260-44544 17** **** 4475;FACEBK Q9U4QJT9J2 ,fb.me/ads ,IE ;11.10.2022 16:18:22 ;CashBack:0 EUR",,Princíp,PS
+16130,2022-10-11,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16131,2022-10-11,,-225.0,"B1384868135-44544 17** **** 4475;FACEBK DMEL9J79J2 ,fb.me/ads ,IE ;09.10.2022 18:16:57 ;CashBack:0 EUR",,Princíp,PS
+16132,2022-10-07,Rigó Marek,2000.0,Dar,,Princíp,PS
+16133,2022-10-07,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16134,2022-10-07,,-7.37,"B1382776693-44544 17** **** 4475;FACEBK CWF55J39J2 ,fb.me/ads ,IE ;06.10.2022 00:03:52 ;CashBack:0 EUR",,Princíp,PS
+16135,2022-09-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16136,2022-09-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16137,2022-09-20,Irena Petrasova,-600.0,0220920182754.768679,220003.0,Princíp,PS
+16138,2022-08-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16139,2022-08-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16140,2022-07-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16141,2022-07-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16142,2022-06-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16143,2022-06-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16144,2022-05-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16145,2022-05-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16146,2022-05-12,,-0.2,Poplatok za platbu kartou,,Princíp,PS
+16147,2022-05-12,,-9.0,"B1284413533-44544 17** **** 4475;FACEBK C4AA4FB9J2 ,fb.me/ads ,IE ;10.05.2022 06:48:51 ;CashBack:0 EUR",,Princíp,PS
+16148,2022-04-30,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16149,2022-04-30,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16150,2022-03-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16151,2022-03-31,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16152,2022-02-28,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16153,2022-02-28,,-5.0,Poplatok za vedenie účtu,,Princíp,PS
+16154,2022-01-31,,-5.0,Zverejňovanie účtu,,Princíp,PS
+16155,2022-01-31,,-1.13,Poplatok za vedenie účtu,,Princíp,PS
+16156,2022-01-27,"MV SR, OÚ správa pokút",-500.0,,1127847.0,Princíp,PS
+16157,2022-01-27,"MV SR, OÚ správa pokút",-5660.0,,1099240.0,Princíp,PS
+16158,2022-01-27,KODRAZI DZEMAL,8000.0,Pozicka,,Princíp,PS
+16159,2023-09-30,,-7.0,Poplatok za balík,,SDKÚ,PS
+16160,2023-09-18,RYBARIK BRANISLAV,500.0,PLATBA/Dar,,SDKÚ,PS
+16161,2023-09-14,TRY ART spol. s r.o.,-6000.0,Platba/reklamny spot a medialny budget,"2023174
 VS2023174/SS/KS",SDKÚ,PS
-16161,2023-09-07,Google Ireland Limited,0.7,DE23090752691 2483001761768941/GG103BA8B5,,SDKÚ,PS
-16162,2023-09-06,RYBARIK BRANISLAV,5000.0,PLATBA/Dar,,SDKÚ,PS
-16163,2023-08-31,,-0.0,Poplatok za balík,,SDKÚ,PS
-16164,2023-08-17,Tomas Rybarik,1000.0,PLATBA,,SDKÚ,PS
+16162,2023-09-07,Google Ireland Limited,0.7,DE23090752691 2483001761768941/GG103BA8B5,,SDKÚ,PS
+16163,2023-09-06,RYBARIK BRANISLAV,5000.0,PLATBA/Dar,,SDKÚ,PS
+16164,2023-08-31,,-0.0,Poplatok za balík,,SDKÚ,PS
+16165,2023-08-17,Tomas Rybarik,1000.0,PLATBA,,SDKÚ,PS
