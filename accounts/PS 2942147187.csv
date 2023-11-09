@@ -7,87 +7,20 @@ VS1510066312/SS230377489/KS0558"
 3,2023-10-16,-50.0,EUR,Mesto Poprad,"Platba/Dan/poplatok za verejne priestranstvo na rok 2023, Poprad","2020407944
 VS2020407944/SS2303030071/KS558"
 4,2023-10-16,-2541.0,EUR,Czech Video Center,PLATBA VA23101610059/Medialna produkcia,3323000310
-5,2023-10-16,-8.0,EUR,"
-                            MESTO LEVICE
-                    ","
-                        Platba
-                    /
-                        Dan/poplatok za vstupne na kulturne podujatia na rok 2023, Levice
-                    ","
-                        3080000245VS3080000245/SS2303020701/KS558
-                    "
-6,2023-10-16,-60.0,EUR,"
-                            David Marko
-                    ","
-                        Platba
-                    /
-                        David Marko, tlmocenie do SPJ 18.9.
-                    ","
-                        622023VS622023/SS/KS
-                    "
-7,2023-10-16,-1500.0,EUR,"
-                            Vajda Ivan
-                    ","
-                        Platba
-                    /
-                        Vajda, marketingove sluzby graficka uprava
-                    ","
-                        2023015VS2023015/SS/KS308
-                    "
-8,2023-10-16,-120.0,EUR,"
-                            Pavol Roman
-                    ","
-                        Platba
-                    /
-                        Pavol Roman, tlmocnicke sluzby 27.6., 4.7.
-                    ","
-                        212023VS212023/SS/KS
-                    "
-9,2023-10-16,-20.0,EUR,"
-                            MESTO TRNAVA
-                    ","
-                        Platba
-                    /
-                        Dan/poplatok uzivanie verejneho priestranstva na rok 2023, trnava
-                    ","
-                        1500009747VS1500009747/SS2303028577/KS379
-                    "
-10,2023-10-16,-100.0,EUR,"
-                            KLESTINCOVA DIANA
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
-11,2023-10-16,-110.0,EUR,"
-                            Mgr.Juraj Mikulasek
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
-12,2023-10-16,-275.0,EUR,"
-                            PAMULA VIKTOR
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
-13,2023-10-16,-250.0,EUR,"
-                            KALKAN EVA
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
+5,2023-10-16,-8.0,EUR,MESTO LEVICE,"Platba/Dan/poplatok za vstupne na kulturne podujatia na rok 2023, Levice","3080000245
+VS3080000245/SS2303020701/KS558"
+6,2023-10-16,-60.0,EUR,David Marko,"Platba/David Marko, tlmocenie do SPJ 18.9.","622023
+VS622023/SS/KS"
+7,2023-10-16,-1500.0,EUR,Vajda Ivan,"Platba/Vajda, marketingove sluzby graficka uprava","2023015
+VS2023015/SS/KS308"
+8,2023-10-16,-120.0,EUR,Pavol Roman,"Platba/Pavol Roman, tlmocnicke sluzby 27.6., 4.7.","212023
+VS212023/SS/KS"
+9,2023-10-16,-20.0,EUR,MESTO TRNAVA,"Platba/Dan/poplatok uzivanie verejneho priestranstva na rok 2023, trnava","1500009747
+VS1500009747/SS2303028577/KS379"
+10,2023-10-16,-100.0,EUR,KLESTINCOVA DIANA,Platba/vratenie daru,
+11,2023-10-16,-110.0,EUR,Mgr.Juraj Mikulasek,Platba/vratenie daru,
+12,2023-10-16,-275.0,EUR,PAMULA VIKTOR,Platba/vratenie daru,
+13,2023-10-16,-250.0,EUR,KALKAN EVA,Platba/vratenie daru,
 14,2023-10-16,-370.0,EUR,"Kocúr Miroslav, ThDr",Platba/vratenie daru,
 15,2023-10-16,-125.0,EUR,Sona Kosiciarova,Platba/vratenie daru,
 16,2023-10-16,-410.0,EUR,Zilkova Martina,Platba/vratenie daru,
@@ -100,10 +33,24 @@ VS2020407944/SS2303030071/KS558"
 23,2023-09-29,-160.0,EUR,PETRIK SIMONA,"Platba/Petrik, vratenie daru",VS/SS008/KS
 24,2023-09-29,-300.0,EUR,Mgr.Tina Gazovicova,"Platba/Gazovicova, vratenie daru",VS/SS024/KS
 25,2023-09-29,-75.0,EUR,MIHALCIN GABRIEL,"Platba/Mihalcin, vratenie daru",VS/SS100/KS
-26,2023-09-29,-45.0,EUR,Obec Nová Dedinka,"Platba/Obec Nova Dedinka, inzercia v novinach Hargas","2310080
-VS2310080/SS031/KS"
-27,2023-09-29,-50173.51,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW, medialny nakup adform","2023141
-VS2023141/SS/KS"
+26,2023-09-29,-45.0,EUR,"
+                            Obec Nová Dedinka
+                    ","
+                        Platba
+                    /
+                        Obec Nova Dedinka, inzercia v novinach Hargas
+                    ","
+                        2310080VS2310080/SS031/KS
+                    "
+27,2023-09-29,-50173.51,EUR,"
+                            GROOW DIGITAL, s. r.
+                    ","
+                        Platba
+                    /
+                        GROOW, medialny nakup adform
+                    ","
+                        2023141VS2023141/SS/KS
+                    "
 28,2023-09-29,-5299.2,EUR,"GROOW DIGITAL, s. r.","Platba/GROOW DIGITAL, agency fee 08-09","2023142
 VS2023142/SS/KS"
 29,2023-09-29,-5.0,EUR,,Zrušenie karty ZRUŠENIE KARTY,
@@ -121,137 +68,96 @@ VS2023142/SS/KS"
 41,2023-09-28,-10.0,EUR,ANDREJ SHADURA,Platba/andrej shadura vratenie daru,
 42,2023-09-28,10.0,EUR,Stadsfiets s.r.o.,PLATBA,"267199
 VS267199/SS/KS"
-43,2023-09-28,10.0,EUR,"
-                            ANDREJ SHADURA
-                    ","
-                        PLATBA
-                    /
-                        PS DAR ANDREJ SHADURA
-                    ","
-                        52032VS0000052032/SS/KS0308
-                    "
-44,2023-09-28,-40.8,EUR,"
-                            MACSEK PETER
-                    ","
-                        Platba
-                    /
-                        macsek peter vratenie
-                    ","
-                        
-                    "
-45,2023-09-28,40.8,EUR,"
-                            MACSEK PETER
-                    ","
-                        PLATBA
-                    /
-                        
-                    ","
-                        101VS101/SS/KS
-                    "
-46,2023-09-29,-2.36,EUR,"
+43,2023-09-28,10.0,EUR,ANDREJ SHADURA,PLATBA/PS DAR ANDREJ SHADURA,"52032
+VS0000052032/SS/KS0308"
+44,2023-09-28,-40.8,EUR,MACSEK PETER,Platba/macsek peter vratenie,
+45,2023-09-28,40.8,EUR,MACSEK PETER,PLATBA,"101
+VS101/SS/KS"
+46,2023-09-29,-2.36,EUR,,EUR NÁKUP POS FACEBK J8D92TP9D2 / fb.me/ads / (POS 99999999),
+47,2023-09-28,-2477.0,EUR,íčko s.r.o.,"Platba/icko, administrativne prace september","20230010
+VS20230010/SS/KS"
+48,2023-09-29,-0.56,EUR,,EUR NÁKUP POS FACEBK *UBSX2T7N52 / fb.me/ads / (POS 99999999),
+49,2023-09-28,-1800.0,EUR,TrollWall AI,"Platba/TrollWall, marketingove sluzby 09","20230305
+VS20230305/SS/KS"
+50,2023-09-29,-7.49,EUR,,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),
+51,2023-09-28,-20000.0,EUR,Inako s.r.o.,"Platba/Inako, marketingove sluzby","3
+VS003/SS/KS"
+52,2023-09-29,-0.83,EUR,,EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999),
+53,2023-09-28,-5274.0,EUR,GERULATA TECHNOLOGIES J.S.A.,"Platba/gerulata, monitoring socialnych sieti","220100034
+VS220100034/SS/KS"
+54,2023-09-28,-350.0,EUR,NAGY FILIP,"Platba/Nagy, pouzitie fotiek licencna zmluva","20230021
+VS20230021/SS/KS"
+55,2023-09-28,66000.0,EUR,Progresívne Slov.,Platba/prevod medzi uctami,
+56,2023-09-29,-1.27,EUR,,EUR NÁKUP POS FACEBK SMDHEUPTJ2 / fb.me/ads / (POS 99999999),
+57,2023-09-29,-2.56,EUR,,EUR NÁKUP POS FACEBK 3K38STB9D2 / fb.me/ads / (POS 99999999),
+58,2023-09-29,-0.93,EUR,,EUR NÁKUP POS FACEBK LFN7QSFM52 / fb.me/ads / (POS 99999999),
+59,2023-09-28,-20.0,EUR,Peter Kovac,"Platba/Kovac, vratenie daru podla 85/2005 Z.z.",
+60,2023-09-29,-10.52,EUR,,EUR NÁKUP POS FACEBK JVWFRSK9D2 / fb.me/ads / (POS 99999999),
+61,2023-09-28,20.0,EUR,Peter Kovac,Platba,
+62,2023-09-29,-467.62,EUR,,EUR NÁKUP POS FACEBK *T6B7QSFM52 / fb.me/ads / (POS 99999999),
+63,2023-09-29,-27.64,EUR,"
                             
                     ","
-                        EUR NÁKUP POS FACEBK J8D92TP9D2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK *6HFDQVTTJ2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-47,2023-09-28,-2477.0,EUR,"
-                            íčko s.r.o.
-                    ","
-                        Platba
-                    /
-                        icko, administrativne prace september
-                    ","
-                        20230010VS20230010/SS/KS
-                    "
-48,2023-09-29,-0.56,EUR,"
+64,2023-09-29,-656.94,EUR,"
                             
                     ","
-                        EUR NÁKUP POS FACEBK *UBSX2T7N52 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK P63YAUX8D2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-49,2023-09-28,-1800.0,EUR,"
-                            TrollWall AI
-                    ","
-                        Platba
-                    /
-                        TrollWall, marketingove sluzby 09
-                    ","
-                        20230305VS20230305/SS/KS
-                    "
-50,2023-09-29,-7.49,EUR,"
+65,2023-09-29,-600.0,EUR,"
                             
                     ","
-                        EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS FACEBK FH27ATT9D2 / fb.me/ads / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-51,2023-09-28,-20000.0,EUR,"
-                            Inako s.r.o.
+66,2023-09-28,-100.0,EUR,"
+                            Tarnovský Juraj, Ing
                     ","
                         Platba
                     /
-                        Inako, marketingove sluzby
+                        Tarnovsky, vratenie daru podla 85/2005 Z.z.
                     ","
-                        3VS003/SS/KS
+                        
                     "
-52,2023-09-29,-0.83,EUR,"
+67,2023-09-29,-500.0,EUR,"
                             
                     ","
-                        EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999)
+                        EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999)
                     /
                         
                     ","
                         
                     "
-53,2023-09-28,-5274.0,EUR,"
-                            GERULATA TECHNOLOGIES J.S.A.
+68,2023-09-28,100.0,EUR,"
+                            Tarnovský Juraj, Ing
                     ","
                         Platba
                     /
-                        gerulata, monitoring socialnych sieti
-                    ","
-                        220100034VS220100034/SS/KS
-                    "
-54,2023-09-28,-350.0,EUR,"
-                            NAGY FILIP
-                    ","
-                        Platba
-                    /
-                        Nagy, pouzitie fotiek licencna zmluva
-                    ","
-                        20230021VS20230021/SS/KS
-                    "
-55,2023-09-28,66000.0,EUR,"
-                            Progresívne Slov.
-                    ","
-                        Platba
-                    /
-                        prevod medzi uctami
+                        Juraj Tarnovsky - dar
                     ","
                         
                     "
-56,2023-09-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-57,2023-09-29,-869.82,EUR,,EUR NÁKUP POS FACEBK *VZZ8HSTM52 / fb.me/ads / (POS 99999999),
-58,2023-09-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-59,2023-09-29,-3000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-60,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK QFM6MT39D2 / fb.me/ads / (POS 99999999),
-61,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK B8GVWUBUJ2 / fb.me/ads / (POS 99999999),
-62,2023-09-29,-324.26,EUR,,EUR NÁKUP POS FACEBK YWUYFUKUJ2 / fb.me/ads / (POS 99999999),
-63,2023-09-29,-300.0,EUR,,EUR NÁKUP POS FACEBK *8EGGVU3UJ2 / fb.me/ads / (POS 99999999),
-64,2023-09-29,-300.0,EUR,,EUR NÁKUP POS FACEBK L42GVU3UJ2 / fb.me/ads / (POS 99999999),
-65,2023-09-29,-835.87,EUR,,EUR NÁKUP POS FACEBK *KSVU9TT9D2 / fb.me/ads / (POS 99999999),
-66,2023-09-29,-1100.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-67,2023-09-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-68,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK *B4D8GT79D2 / fb.me/ads / (POS 99999999),
-69,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK RP4BVU3UJ2 / fb.me/ads / (POS 99999999),
+69,2023-09-29,-998.9,EUR,"
+                            
+                    ","
+                        EUR NÁKUP POS FACEBK 9FHZWUBUJ2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
 70,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK *B84WGSTM52 / fb.me/ads / (POS 99999999),
 71,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK 6P5QZSP9D2 / fb.me/ads / (POS 99999999),
 72,2023-09-29,-800.0,EUR,,EUR NÁKUP POS FACEBK LFZXDUPTJ2 / fb.me/ads / (POS 99999999),
