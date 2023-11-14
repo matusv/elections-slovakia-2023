@@ -2,42 +2,13 @@ index,date,amount,currency,account_name,message,vs
 0,2023-10-31,-0.0,EUR,,Poplatok za balík,
 1,2023-10-23,-650.0,EUR,"Unimedia spol. ,s.r.","Platba/Unimedia, OOH kampan Praha 09/23 doplatok","420230922
 VS420230922/SS/KS"
-2,2023-10-16,-72.0,EUR,"
-                            MESTO ZILINA
-                    ","
-                        Platba
-                    /
-                        Zilina, dan za uzivanie verejneho priestranstva 14.9.
-                    ","
-                        1510066312VS1510066312/SS230377489/KS0558
-                    "
-3,2023-10-16,-50.0,EUR,"
-                            Mesto Poprad
-                    ","
-                        Platba
-                    /
-                        Dan/poplatok za verejne priestranstvo na rok 2023, Poprad
-                    ","
-                        2020407944VS2020407944/SS2303030071/KS558
-                    "
-4,2023-10-16,-2541.0,EUR,"
-                            Czech Video Center
-                    ","
-                        PLATBA VA23101610059
-                    /
-                        Medialna produkcia
-                    ","
-                        3323000310
-                    "
-5,2023-10-16,-8.0,EUR,"
-                            MESTO LEVICE
-                    ","
-                        Platba
-                    /
-                        Dan/poplatok za vstupne na kulturne podujatia na rok 2023, Levice
-                    ","
-                        3080000245VS3080000245/SS2303020701/KS558
-                    "
+2,2023-10-16,-72.0,EUR,MESTO ZILINA,"Platba/Zilina, dan za uzivanie verejneho priestranstva 14.9.","1510066312
+VS1510066312/SS230377489/KS0558"
+3,2023-10-16,-50.0,EUR,Mesto Poprad,"Platba/Dan/poplatok za verejne priestranstvo na rok 2023, Poprad","2020407944
+VS2020407944/SS2303030071/KS558"
+4,2023-10-16,-2541.0,EUR,Czech Video Center,PLATBA VA23101610059/Medialna produkcia,3323000310
+5,2023-10-16,-8.0,EUR,MESTO LEVICE,"Platba/Dan/poplatok za vstupne na kulturne podujatia na rok 2023, Levice","3080000245
+VS3080000245/SS2303020701/KS558"
 6,2023-10-16,-60.0,EUR,"
                             David Marko
                     ","
@@ -140,29 +111,59 @@ VS2023142/SS/KS"
 38,2023-09-29,-5.0,EUR,,Zrušenie karty ZRUŠENIE KARTY,
 39,2023-09-29,-5.0,EUR,,Zrušenie karty ZRUŠENIE KARTY,
 40,2023-09-28,-10.0,EUR,Stadsfiets s.r.o.,Platba/stadsfiets sro vratenie daru,
-41,2023-09-28,-10.0,EUR,"
-                            ANDREJ SHADURA
+41,2023-09-28,-10.0,EUR,ANDREJ SHADURA,Platba/andrej shadura vratenie daru,
+42,2023-09-28,10.0,EUR,Stadsfiets s.r.o.,PLATBA,"267199
+VS267199/SS/KS"
+43,2023-09-28,10.0,EUR,ANDREJ SHADURA,PLATBA/PS DAR ANDREJ SHADURA,"52032
+VS0000052032/SS/KS0308"
+44,2023-09-28,-40.8,EUR,MACSEK PETER,Platba/macsek peter vratenie,
+45,2023-09-28,40.8,EUR,MACSEK PETER,PLATBA,"101
+VS101/SS/KS"
+46,2023-09-29,-2.36,EUR,,EUR NÁKUP POS FACEBK J8D92TP9D2 / fb.me/ads / (POS 99999999),
+47,2023-09-28,-2477.0,EUR,íčko s.r.o.,"Platba/icko, administrativne prace september","20230010
+VS20230010/SS/KS"
+48,2023-09-29,-0.56,EUR,,EUR NÁKUP POS FACEBK *UBSX2T7N52 / fb.me/ads / (POS 99999999),
+49,2023-09-28,-1800.0,EUR,TrollWall AI,"Platba/TrollWall, marketingove sluzby 09","20230305
+VS20230305/SS/KS"
+50,2023-09-29,-7.49,EUR,,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),
+51,2023-09-28,-20000.0,EUR,Inako s.r.o.,"Platba/Inako, marketingove sluzby","3
+VS003/SS/KS"
+52,2023-09-29,-0.83,EUR,"
+                            
                     ","
-                        Platba
+                        EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999)
                     /
-                        andrej shadura vratenie daru
+                        
                     ","
                         
                     "
-42,2023-09-29,-7.49,EUR,,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),
-43,2023-09-29,-0.83,EUR,,EUR NÁKUP POS FACEBK *UYPTGUFUJ2 / fb.me/ads / (POS 99999999),
-44,2023-09-29,-1.27,EUR,,EUR NÁKUP POS FACEBK SMDHEUPTJ2 / fb.me/ads / (POS 99999999),
-45,2023-09-29,-2.56,EUR,,EUR NÁKUP POS FACEBK 3K38STB9D2 / fb.me/ads / (POS 99999999),
-46,2023-09-29,-0.93,EUR,,EUR NÁKUP POS FACEBK LFN7QSFM52 / fb.me/ads / (POS 99999999),
-47,2023-09-29,-10.52,EUR,,EUR NÁKUP POS FACEBK JVWFRSK9D2 / fb.me/ads / (POS 99999999),
-48,2023-09-29,-467.62,EUR,,EUR NÁKUP POS FACEBK *T6B7QSFM52 / fb.me/ads / (POS 99999999),
-49,2023-09-29,-27.64,EUR,,EUR NÁKUP POS FACEBK *6HFDQVTTJ2 / fb.me/ads / (POS 99999999),
-50,2023-09-29,-656.94,EUR,,EUR NÁKUP POS FACEBK P63YAUX8D2 / fb.me/ads / (POS 99999999),
-51,2023-09-29,-600.0,EUR,,EUR NÁKUP POS FACEBK FH27ATT9D2 / fb.me/ads / (POS 99999999),
-52,2023-09-29,-500.0,EUR,,EUR NÁKUP POS GOOGLE *ADS8627705599 / cc@google.com / (POS 99999999),
-53,2023-09-29,-998.9,EUR,,EUR NÁKUP POS FACEBK 9FHZWUBUJ2 / fb.me/ads / (POS 99999999),
-54,2023-09-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
-55,2023-09-29,-873.82,EUR,,MOBILE APP NÁKUP E-COMM FACEBK FPPCRSK9D2 / fb.me/ads / (POS 99999999),
+53,2023-09-28,-5274.0,EUR,"
+                            GERULATA TECHNOLOGIES J.S.A.
+                    ","
+                        Platba
+                    /
+                        gerulata, monitoring socialnych sieti
+                    ","
+                        220100034VS220100034/SS/KS
+                    "
+54,2023-09-28,-350.0,EUR,"
+                            NAGY FILIP
+                    ","
+                        Platba
+                    /
+                        Nagy, pouzitie fotiek licencna zmluva
+                    ","
+                        20230021VS20230021/SS/KS
+                    "
+55,2023-09-28,66000.0,EUR,"
+                            Progresívne Slov.
+                    ","
+                        Platba
+                    /
+                        prevod medzi uctami
+                    ","
+                        
+                    "
 56,2023-09-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
 57,2023-09-29,-869.82,EUR,,EUR NÁKUP POS FACEBK *VZZ8HSTM52 / fb.me/ads / (POS 99999999),
 58,2023-09-29,-1000.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS862770 / Dublin / (POS 99999999),
