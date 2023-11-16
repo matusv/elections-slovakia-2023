@@ -17,46 +17,46 @@ index,index,date,amount,account_name,message,vs,name
 15,954,2023-08-17,998.0,Výboštek Jaroslav,Dar od Mgr. Monika Výbošteková preHnutie Sme Rodina Okres Prešov - Mgr. Adriana Anderkova,,Sme Rodina
 16,5,2023-10-24,-1000.0,SME RODINA_Boris Kollár_hlavný účet,Prevod na hlavny účet,,Sme Rodina
 17,1448,2023-06-13,1000.0,SME RODINA_Boris Kollár_hlavný účet,Prevod na transp. ucet,,Sme Rodina
-18,1847,2023-07-31,-60.0,Mesto Stropkov,,51313901.0,Demokrati
-19,1760,2023-08-04,60.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,Demokrati
-20,784,2023-09-18,-1200.0,Andrej Stančík,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-21,828,2023-09-17,1200.0,Andrej Stančík,F001170920235048964,,Demokrati
-22,714,2023-09-19,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-23,747,2023-09-19,700.0,Štepánek Peter,F001190920237653724,,Demokrati
-24,715,2023-09-19,-600.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-25,898,2023-09-14,600.0,Štepánek Peter,F001140920232846284,,Demokrati
-26,663,2023-09-20,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-27,713,2023-09-19,700.0,Štepánek Peter,F001190920238116994,,Demokrati
-28,664,2023-09-20,-900.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-29,673,2023-09-20,900.0,Štepánek Peter,F001200920239010944,,Demokrati
-30,591,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-31,1762,2023-08-04,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
-32,592,2023-09-21,-1000.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-33,793,2023-09-18,1000.0,Cocherová Andrea,prispevok na kampan,,Demokrati
-34,590,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
-35,1303,2023-08-31,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
-36,104,2023-10-18,-5.0,Cibulka Ján,"vratenie daru, neopravnena platba",,Demokrati
-37,114,2023-10-17,5.0,Cibulka Ján,"Jan Cibulka, Praznovce dar",,Demokrati
-38,103,2023-10-18,-20.0,Dzirbíková Zuzana,"vratenie platby, neopravnena platba",,Demokrati
-39,113,2023-10-17,20.0,Dzirbíková Zuzana,prispevok na kampan,0.0,Demokrati
-40,39,2023-10-23,-20.0,Marcel Petrik,neoprávnená platba na transparentý účet - vrátenie,,Demokrati
-41,42,2023-10-19,20.0,Marcel Petrik,2329250000029450,,Demokrati
-42,40,2023-10-23,-20.0,Čechovský Vladimír,neoprávnená platba na transparentý účet - vrátenie,,Demokrati
-43,43,2023-10-18,20.0,Čechovský Vladimír,prispevok na kampan,0.0,Demokrati
-44,38,2023-10-23,-900.0,Tomas Berky,neoprávnená platba na transparentý účet - vrátenie,,Demokrati
-45,41,2023-10-22,900.0,Tomas Berky,prispevok na kampan,,Demokrati
-46,9,2023-11-02,-50.0,Kellerová Denisa,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
-47,25,2023-10-29,50.0,Kellerová Denisa,F001291020239710697,,Demokrati
-48,12,2023-11-02,-10.0,Kadlub Terézia,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
-49,850,2023-09-16,10.0,Kadlub Terézia,prispevok na kampan,,Demokrati
-50,11,2023-11-02,-20.0,Kolesárová Lenka,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
-51,120,2023-10-16,20.0,Kolesárová Lenka,Lenka Kolesárová,,Demokrati
-52,14,2023-11-02,-50.0,Achbergerová Jana,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
-53,26,2023-10-29,50.0,Achbergerová Jana,"Jana Achbergerova, Brectanova 28, dar",,Demokrati
-54,15,2023-11-02,-200.0,EVA PALKOVICOVA,neoprávnená platba na transparentný účet - vrátenie,102023.0,Demokrati
-55,35,2023-10-24,200.0,EVA PALKOVICOVA,"Anna Stevkova, Nova Dedina 451, dar",102023.0,Demokrati
-56,10,2023-11-02,-50.0,Lesikova Helena,neoprávnená platba na transparentný účet - vrátenie,0.0,Demokrati
-57,119,2023-10-17,50.0,Lesikova Helena,prispevok na kampan,0.0,Demokrati
+18,1852,2023-07-31,-60.0,Mesto Stropkov,,51313901.0,Demokrati
+19,1765,2023-08-04,60.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,Demokrati
+20,789,2023-09-18,-1200.0,Andrej Stančík,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+21,833,2023-09-17,1200.0,Andrej Stančík,F001170920235048964,,Demokrati
+22,719,2023-09-19,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+23,752,2023-09-19,700.0,Štepánek Peter,F001190920237653724,,Demokrati
+24,720,2023-09-19,-600.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+25,903,2023-09-14,600.0,Štepánek Peter,F001140920232846284,,Demokrati
+26,668,2023-09-20,-700.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+27,718,2023-09-19,700.0,Štepánek Peter,F001190920238116994,,Demokrati
+28,669,2023-09-20,-900.0,Štepánek Peter,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+29,678,2023-09-20,900.0,Štepánek Peter,F001200920239010944,,Demokrati
+30,596,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+31,1767,2023-08-04,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
+32,597,2023-09-21,-1000.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+33,798,2023-09-18,1000.0,Cocherová Andrea,prispevok na kampan,,Demokrati
+34,595,2023-09-21,-500.0,Cocherová Andrea,"vrátenie platby, platba poukázaná bez splnenia podmienok podľa ust.§23 ods.2 zákona č.85/2005 Z.z.",,Demokrati
+35,1308,2023-08-31,500.0,Cocherová Andrea,prispevok na kampan,,Demokrati
+36,109,2023-10-18,-5.0,Cibulka Ján,"vratenie daru, neopravnena platba",,Demokrati
+37,119,2023-10-17,5.0,Cibulka Ján,"Jan Cibulka, Praznovce dar",,Demokrati
+38,108,2023-10-18,-20.0,Dzirbíková Zuzana,"vratenie platby, neopravnena platba",,Demokrati
+39,118,2023-10-17,20.0,Dzirbíková Zuzana,prispevok na kampan,0.0,Demokrati
+40,43,2023-10-23,-900.0,Tomas Berky,neoprávnená platba na transparentý účet - vrátenie,,Demokrati
+41,46,2023-10-22,900.0,Tomas Berky,prispevok na kampan,,Demokrati
+42,45,2023-10-23,-20.0,Čechovský Vladimír,neoprávnená platba na transparentý účet - vrátenie,,Demokrati
+43,48,2023-10-18,20.0,Čechovský Vladimír,prispevok na kampan,0.0,Demokrati
+44,44,2023-10-23,-20.0,Marcel Petrik,neoprávnená platba na transparentý účet - vrátenie,,Demokrati
+45,47,2023-10-19,20.0,Marcel Petrik,2329250000029450,,Demokrati
+46,14,2023-11-02,-50.0,Kellerová Denisa,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
+47,30,2023-10-29,50.0,Kellerová Denisa,F001291020239710697,,Demokrati
+48,16,2023-11-02,-20.0,Kolesárová Lenka,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
+49,125,2023-10-16,20.0,Kolesárová Lenka,Lenka Kolesárová,,Demokrati
+50,17,2023-11-02,-10.0,Kadlub Terézia,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
+51,855,2023-09-16,10.0,Kadlub Terézia,prispevok na kampan,,Demokrati
+52,19,2023-11-02,-50.0,Achbergerová Jana,neoprávnená platba na transparentný účet - vrátenie,,Demokrati
+53,31,2023-10-29,50.0,Achbergerová Jana,"Jana Achbergerova, Brectanova 28, dar",,Demokrati
+54,20,2023-11-02,-200.0,EVA PALKOVICOVA,neoprávnená platba na transparentný účet - vrátenie,102023.0,Demokrati
+55,40,2023-10-24,200.0,EVA PALKOVICOVA,"Anna Stevkova, Nova Dedina 451, dar",102023.0,Demokrati
+56,15,2023-11-02,-50.0,Lesikova Helena,neoprávnená platba na transparentný účet - vrátenie,0.0,Demokrati
+57,124,2023-10-17,50.0,Lesikova Helena,prispevok na kampan,0.0,Demokrati
 58,488,2023-08-29,-0.01,Blahovec Stefan,Blahovec Stefan-vratenie daru zo dna 15.08.2023,15082023.0,Smer
 59,523,2023-08-15,0.01,Blahovec Štefan,F001150820239933680,,Smer
 60,764,2023-06-29,-186.0,BigMedia spol s.r.o.,"bilboard 9/2023, Čech",122390104.0,SaS
@@ -65,8 +65,8 @@ index,index,date,amount,account_name,message,vs,name
 63,614,2023-08-04,115.0,Mesto Stropkov,vrátenie poplatku za zakúpenie miesta na Stropkovskom jarmoku,,SaS
 64,632,2023-08-02,-1872.0,Guldan-Studio s.r.o.,"tlač BB 22 ks, Halgašová",23012.0,SaS
 65,618,2023-08-04,1872.0,GULDAN-STUDIO S.R.O.,Duplicitna platba FZ23012,23012.0,SaS
-66,354,2023-09-21,-50.0,JANULIK LUKAS,Vratenie platby,821119.0,OĽaNO
-67,806,2023-08-16,50.0,JANULIK LUKAS,26374886,821119.0,OĽaNO
+66,356,2023-09-21,-50.0,JANULIK LUKAS,Vratenie platby,821119.0,OĽaNO
+67,808,2023-08-16,50.0,JANULIK LUKAS,26374886,821119.0,OĽaNO
 68,2296,2023-04-13,-86.04,ECO Krabicky s.r.o.,Platba/Eco krabicky eko jednorazove pohare,"2202301466
 VS2202301466/SS/KS",PS
 69,1918,2023-06-27,86.04,ECO Krabicky s.r.o.,PLATBA/navrat platby (zaplatene 2x ),"2202301466

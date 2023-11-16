@@ -9,78 +9,18 @@ VS2020407944/SS2303030071/KS558"
 4,2023-10-16,-2541.0,EUR,Czech Video Center,PLATBA VA23101610059/Medialna produkcia,3323000310
 5,2023-10-16,-8.0,EUR,MESTO LEVICE,"Platba/Dan/poplatok za vstupne na kulturne podujatia na rok 2023, Levice","3080000245
 VS3080000245/SS2303020701/KS558"
-6,2023-10-16,-60.0,EUR,"
-                            David Marko
-                    ","
-                        Platba
-                    /
-                        David Marko, tlmocenie do SPJ 18.9.
-                    ","
-                        622023VS622023/SS/KS
-                    "
-7,2023-10-16,-1500.0,EUR,"
-                            Vajda Ivan
-                    ","
-                        Platba
-                    /
-                        Vajda, marketingove sluzby graficka uprava
-                    ","
-                        2023015VS2023015/SS/KS308
-                    "
-8,2023-10-16,-120.0,EUR,"
-                            Pavol Roman
-                    ","
-                        Platba
-                    /
-                        Pavol Roman, tlmocnicke sluzby 27.6., 4.7.
-                    ","
-                        212023VS212023/SS/KS
-                    "
-9,2023-10-16,-20.0,EUR,"
-                            MESTO TRNAVA
-                    ","
-                        Platba
-                    /
-                        Dan/poplatok uzivanie verejneho priestranstva na rok 2023, trnava
-                    ","
-                        1500009747VS1500009747/SS2303028577/KS379
-                    "
-10,2023-10-16,-100.0,EUR,"
-                            KLESTINCOVA DIANA
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
-11,2023-10-16,-110.0,EUR,"
-                            Mgr.Juraj Mikulasek
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
-12,2023-10-16,-275.0,EUR,"
-                            PAMULA VIKTOR
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
-13,2023-10-16,-250.0,EUR,"
-                            KALKAN EVA
-                    ","
-                        Platba
-                    /
-                        vratenie daru
-                    ","
-                        
-                    "
+6,2023-10-16,-60.0,EUR,David Marko,"Platba/David Marko, tlmocenie do SPJ 18.9.","622023
+VS622023/SS/KS"
+7,2023-10-16,-1500.0,EUR,Vajda Ivan,"Platba/Vajda, marketingove sluzby graficka uprava","2023015
+VS2023015/SS/KS308"
+8,2023-10-16,-120.0,EUR,Pavol Roman,"Platba/Pavol Roman, tlmocnicke sluzby 27.6., 4.7.","212023
+VS212023/SS/KS"
+9,2023-10-16,-20.0,EUR,MESTO TRNAVA,"Platba/Dan/poplatok uzivanie verejneho priestranstva na rok 2023, trnava","1500009747
+VS1500009747/SS2303028577/KS379"
+10,2023-10-16,-100.0,EUR,KLESTINCOVA DIANA,Platba/vratenie daru,
+11,2023-10-16,-110.0,EUR,Mgr.Juraj Mikulasek,Platba/vratenie daru,
+12,2023-10-16,-275.0,EUR,PAMULA VIKTOR,Platba/vratenie daru,
+13,2023-10-16,-250.0,EUR,KALKAN EVA,Platba/vratenie daru,
 14,2023-10-16,-370.0,EUR,"Kocúr Miroslav, ThDr",Platba/vratenie daru,
 15,2023-10-16,-125.0,EUR,Sona Kosiciarova,Platba/vratenie daru,
 16,2023-10-16,-410.0,EUR,Zilkova Martina,Platba/vratenie daru,
@@ -125,9 +65,20 @@ VS20230010/SS/KS"
 48,2023-09-29,-0.56,EUR,,EUR NÁKUP POS FACEBK *UBSX2T7N52 / fb.me/ads / (POS 99999999),
 49,2023-09-28,-1800.0,EUR,TrollWall AI,"Platba/TrollWall, marketingove sluzby 09","20230305
 VS20230305/SS/KS"
-50,2023-09-29,-7.49,EUR,,EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999),
-51,2023-09-28,-20000.0,EUR,Inako s.r.o.,"Platba/Inako, marketingove sluzby","3
-VS003/SS/KS"
+50,2023-09-29,-7.49,EUR,,"EUR NÁKUP POS FACEBK S7HNGT79D2 / fb.me/ads / (POS 99999999)/
+                        
+                    ","
+                        
+                    "
+51,2023-09-28,-20000.0,EUR,"
+                            Inako s.r.o.
+                    ","
+                        Platba
+                    /
+                        Inako, marketingove sluzby
+                    ","
+                        3VS003/SS/KS
+                    "
 52,2023-09-29,-0.83,EUR,"
                             
                     ","

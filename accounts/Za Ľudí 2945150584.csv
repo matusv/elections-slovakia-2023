@@ -6,21 +6,87 @@ index,date,amount,currency,account_name,message,vs
 VS1100092023/SS/KS"
 4,2023-10-06,-10074.05,EUR,,Platba/dph z faktur socialne siete za 09 2023,"1100092023
 VS1100092023/SS/KS"
-5,2023-10-06,-40.36,EUR,GoogleAdwordsEU ADS619320,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),
-6,2023-10-06,-37.09,EUR,GOOGLE*ADS6193205588,EUR NÁKUP POS GOOGLE*ADS6193205588 / CC GOOGLE.COM / (POS WPGTID01),
-7,2023-10-05,-42.31,EUR,FACEBK *9NMJHTBUU2,EUR NÁKUP POS FACEBK *9NMJHTBUU2 / fb.me/ads / (POS 99999999),
-8,2023-10-04,-850.0,EUR,MIRAMED s.r.o.,"Platba/sluzby - ubytovanie, obcerstvenie 22 a 23 sept. vyjazd kampane v RS","2023306
-VS2023306/SS/KS"
-9,2023-10-04,-606.48,EUR,Róbert Páleník,Platba/FA za prenajom vozidla TT282GR,"20232108
-VS20232108/SS/KS"
-10,2023-10-04,-307.96,EUR,Róbert Páleník,Platba/FA za prenajom vozidla TT956JF 09 2023,"20232106
-VS20232106/SS/KS"
-11,2023-10-04,-960.0,EUR,Róbert Páleník,Platba/fa uhrada za prenajom vozidla TT831HN 09 2023,"20232107
-VS20232107/SS/KS"
-12,2023-10-04,-270.0,EUR,Lenka Spalkova,Platba/makeup uces z 21.9.,"20230920
-VS20230920/SS/KS"
-13,2023-10-03,-2400.0,EUR,Cruel Creatives,Platba/konzultacie digi marketing za 09 2023,"2315145
-VS2315145/SS/KS"
+5,2023-10-06,-40.36,EUR,"
+                            GoogleAdwordsEU ADS619320
+                    ","
+                        EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+6,2023-10-06,-37.09,EUR,"
+                            GOOGLE*ADS6193205588
+                    ","
+                        EUR NÁKUP POS GOOGLE*ADS6193205588 / CC GOOGLE.COM / (POS WPGTID01)
+                    /
+                        
+                    ","
+                        
+                    "
+7,2023-10-05,-42.31,EUR,"
+                            FACEBK *9NMJHTBUU2
+                    ","
+                        EUR NÁKUP POS FACEBK *9NMJHTBUU2 / fb.me/ads / (POS 99999999)
+                    /
+                        
+                    ","
+                        
+                    "
+8,2023-10-04,-850.0,EUR,"
+                            MIRAMED s.r.o.
+                    ","
+                        Platba
+                    /
+                        sluzby - ubytovanie, obcerstvenie 22 a 23 sept. vyjazd kampane v RS
+                    ","
+                        2023306VS2023306/SS/KS
+                    "
+9,2023-10-04,-606.48,EUR,"
+                            Róbert Páleník
+                    ","
+                        Platba
+                    /
+                        FA za prenajom vozidla TT282GR
+                    ","
+                        20232108VS20232108/SS/KS
+                    "
+10,2023-10-04,-307.96,EUR,"
+                            Róbert Páleník
+                    ","
+                        Platba
+                    /
+                        FA za prenajom vozidla TT956JF 09 2023
+                    ","
+                        20232106VS20232106/SS/KS
+                    "
+11,2023-10-04,-960.0,EUR,"
+                            Róbert Páleník
+                    ","
+                        Platba
+                    /
+                        fa uhrada za prenajom vozidla TT831HN 09 2023
+                    ","
+                        20232107VS20232107/SS/KS
+                    "
+12,2023-10-04,-270.0,EUR,"
+                            Lenka Spalkova
+                    ","
+                        Platba
+                    /
+                        makeup uces z 21.9.
+                    ","
+                        20230920VS20230920/SS/KS
+                    "
+13,2023-10-03,-2400.0,EUR,"
+                            Cruel Creatives
+                    ","
+                        Platba
+                    /
+                        konzultacie digi marketing za 09 2023
+                    ","
+                        2315145VS2315145/SS/KS
+                    "
 14,2023-10-03,-887.5,EUR,NL PR MEDIA s.r.o.,Platba/graficke prace za 09 2023,"202342
 VS202342/SS/KS"
 15,2023-10-03,-7.0,EUR,FACEBK M8EMQTXUX2,EUR NÁKUP POS FACEBK M8EMQTXUX2 / fb.me/ads / (POS 99999999),
@@ -37,123 +103,19 @@ VS202342/SS/KS"
 26,2023-09-29,-29.5,EUR,,EUR NÁKUP POS FACEBK UVY84U37P2 / fb.me/ads / (POS 99999999),
 27,2023-09-29,-40.0,EUR,,EUR NÁKUP POS FACEBK PVAR2VK7P2 / fb.me/ads / (POS 99999999),
 28,2023-09-29,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),
-29,2023-09-29,-27.4,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK JVHQ3UT6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-30,2023-09-29,-100.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK QJ4GETPUX2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-31,2023-09-29,-33.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK HQC2TTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-32,2023-09-29,-2.28,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK BT92TTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-33,2023-09-29,-27.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK GNWTAUF6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-34,2023-09-29,-44.26,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK QPZZSTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-35,2023-09-29,-22.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK FSTZSTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-36,2023-09-29,-29.29,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK F786AUF7P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-37,2023-09-29,-500.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-38,2023-09-29,-18.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK 8LZ5AUF7P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-39,2023-09-29,-18.64,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK N6Y5AUF7P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-40,2023-09-29,-15.0,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK 5HBZSTX6P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
-41,2023-09-29,-29.62,EUR,"
-                            
-                    ","
-                        EUR NÁKUP POS FACEBK FUHWXW77P2 / fb.me/ads / (POS 99999999)
-                    /
-                        
-                    ","
-                        
-                    "
+29,2023-09-29,-27.4,EUR,,EUR NÁKUP POS FACEBK JVHQ3UT6P2 / fb.me/ads / (POS 99999999),
+30,2023-09-29,-100.0,EUR,,EUR NÁKUP POS FACEBK QJ4GETPUX2 / fb.me/ads / (POS 99999999),
+31,2023-09-29,-33.0,EUR,,EUR NÁKUP POS FACEBK HQC2TTX6P2 / fb.me/ads / (POS 99999999),
+32,2023-09-29,-2.28,EUR,,EUR NÁKUP POS FACEBK BT92TTX6P2 / fb.me/ads / (POS 99999999),
+33,2023-09-29,-27.0,EUR,,EUR NÁKUP POS FACEBK GNWTAUF6P2 / fb.me/ads / (POS 99999999),
+34,2023-09-29,-44.26,EUR,,EUR NÁKUP POS FACEBK QPZZSTX6P2 / fb.me/ads / (POS 99999999),
+35,2023-09-29,-22.0,EUR,,EUR NÁKUP POS FACEBK FSTZSTX6P2 / fb.me/ads / (POS 99999999),
+36,2023-09-29,-29.29,EUR,,EUR NÁKUP POS FACEBK F786AUF7P2 / fb.me/ads / (POS 99999999),
+37,2023-09-29,-500.0,EUR,,EUR NÁKUP POS GoogleAdwordsEU ADS619320 / Dublin / (POS 99999999),
+38,2023-09-29,-18.0,EUR,,EUR NÁKUP POS FACEBK 8LZ5AUF7P2 / fb.me/ads / (POS 99999999),
+39,2023-09-29,-18.64,EUR,,EUR NÁKUP POS FACEBK N6Y5AUF7P2 / fb.me/ads / (POS 99999999),
+40,2023-09-29,-15.0,EUR,,EUR NÁKUP POS FACEBK 5HBZSTX6P2 / fb.me/ads / (POS 99999999),
+41,2023-09-29,-29.62,EUR,,EUR NÁKUP POS FACEBK FUHWXW77P2 / fb.me/ads / (POS 99999999),
 42,2023-09-29,-12.0,EUR,,EUR NÁKUP POS FACEBK Y3RJWTP6P2 / fb.me/ads / (POS 99999999),
 43,2023-09-29,-1.92,EUR,,EUR NÁKUP POS FACEBK 3C9WXW77P2 / fb.me/ads / (POS 99999999),
 44,2023-09-29,-10.0,EUR,,EUR NÁKUP POS FACEBK YEZ64U37P2 / fb.me/ads / (POS 99999999),
