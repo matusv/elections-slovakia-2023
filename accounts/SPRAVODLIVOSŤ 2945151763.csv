@@ -4,7 +4,9 @@ index,date,amount,currency,account_name,message,vs
 2,2023-10-02,-19.36,EUR,FACEBK 7N3TRRKW92,EUR NÁKUP POS FACEBK 7N3TRRKW92 / fb.me/ads / (POS 99999999),
 3,2023-09-30,-7.0,EUR,,Poplatok za balík,
 4,2023-09-30,-1.2,EUR,,Poplatky za transakcie,
-5,2023-09-28,-7.89,EUR,,"
+5,2023-09-28,-7.89,EUR,"
+                            
+                    ","
                         POS nákup zahr. RENDER.COM / HTTPSRENDER.C / (POS DS2NL9OD)
                     /
                         
