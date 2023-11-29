@@ -1,0 +1,64 @@
+index,date,account_name,amount,message,vs,name,label
+15754,2023-11-10,Avizo - Vyzva,-3.0,"Poplatok, ",,KARMA,PS
+15756,2023-10-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.10.2023 do 31.10.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",,KARMA,PS
+15755,2023-10-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.10.2023","VS: 495000303
+ŠS: 5032809677
+KS: 6898",KARMA,PS
+15757,2023-10-10,,-1300.0,"Odoslaná platba elektronicky, ",,KARMA,PS
+15758,2023-10-10,Hudec Jan,1300.0,"Prijatá platba, ",,KARMA,PS
+15759,2023-10-09,,-700.0,"Odoslaná platba elektronicky, ",,KARMA,PS
+15760,2023-10-09,Maros Varga,50.0,"Prijatá platba, Podpora QR web",,KARMA,PS
+15761,2023-10-02,,-2500.0,"Odoslaná platba elektronicky, Letaky",,KARMA,PS
+15762,2023-09-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.09.2023 do 30.09.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 12 x prijaté platby: 0,00, 12 x debet - elektronicky: 0,00",,KARMA,PS
+15763,2023-09-29,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.09.2023","VS: 495000271
+ŠS: 5032809677
+KS: 6898",KARMA,PS
+15764,2023-09-29,,-1500.0,"Odoslaná platba elektronicky, ",VS: 2333101859,KARMA,PS
+15765,2023-09-29,ORVISKA KATARINA,250.0,"Prijatá platba, Mgr. Katarina Orviska",,KARMA,PS
+15766,2023-09-29,Hamrozy Patrik,2500.0,"Prijatá platba, ",,KARMA,PS
+15767,2023-09-28,"Chudy Roman, Mgr.",400.0,"Prijatá platba, ",,KARMA,PS
+15768,2023-09-26,Marian Liptak,1000.0,"Prijatá platba, ",ŠS: 4008510309,KARMA,PS
+15769,2023-09-25,,-480.0,"Odoslaná platba elektronicky, ",VS: 23025,KARMA,PS
+15770,2023-09-25,"FINTECH, S. R. O.",1000.0,"Prijatá platba, Reklama",,KARMA,PS
+15771,2023-09-21,,-357.4,"Odoslaná platba elektronicky, ",VS: 230100334,KARMA,PS
+15772,2023-09-21,,-356.4,"Odoslaná platba elektronicky, ",VS: 2333101797,KARMA,PS
+15773,2023-09-21,,-507.6,"Odoslaná platba elektronicky, ",VS: 202309022,KARMA,PS
+15774,2023-09-21,,-503.76,"Odoslaná platba elektronicky, Bilbord TN",VS: 202309001,KARMA,PS
+15775,2023-09-21,"Chudy Roman, Mgr.",1700.0,"Prijatá platba, ",,KARMA,PS
+15776,2023-09-18,,-2500.0,"Odoslaná platba elektronicky, Zaloha plachty",,KARMA,PS
+15777,2023-09-18,"FINTECH, S. R. O.",1400.0,"Prijatá platba, Reklama",,KARMA,PS
+15778,2023-09-15,HUDEC JAN,500.0,"Prijatá platba, ",,KARMA,PS
+15781,2023-09-13,KARMA,1500.0,"Prijatá platba, ",,KARMA,PS
+15779,2023-09-13,"FINTECH, S. R. O.",3000.0,"Prijatá platba, ",,KARMA,PS
+15780,2023-09-13,,-5000.0,"Odoslaná platba elektronicky, Zaloha placty",,KARMA,PS
+15783,2023-09-06,,-80.0,"Odoslaná platba elektronicky, Spravny poplatok za vydanie rozhodnutia. MK/A/2023/21293 zo dna 06.09.2023.",VS: 3451230360,KARMA,PS
+15784,2023-09-06,Silvia Kissova,500.0,"Prijatá platba, Silvia Kissova",,KARMA,PS
+15785,2023-09-06,Viliam Kapusta,300.0,"Prijatá platba, Mgr. Viliam Kapusta",,KARMA,PS
+15786,2023-09-06,Marek Grussmann,999.99,"Prijatá platba, ",,KARMA,PS
+15787,2023-09-06,,-304.8,"Odoslaná platba elektronicky, TLAC LETAK",VS: 2023450,KARMA,PS
+15782,2023-09-06,,-1225.2,"Odoslaná platba elektronicky, WEB KARMA24",VS: 202308008,KARMA,PS
+15788,2023-09-05,,-40.0,"Odoslaná platba elektronicky, SP akcia doprava",VS: 221004,KARMA,PS
+15789,2023-09-04,,-5.0,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.08.2023","VS: 497000243
+ŠS: 5032809677
+KS: 6898",KARMA,PS
+15790,2023-09-04,,-10.0,"Výber hotovosti kartou, Suma: 10 EUR 30.08.2023 Miesto: TRENCIN, MIEROVE NAM. 37 TRENCIN","VS: 401000243
+ŠS: 5032809677
+KS: 0608",KARMA,PS
+15792,2023-08-31,Modify Studio,-7000.0,"Odoslaná platba elektronicky, ",VS: 2023077,KARMA,PS
+15793,2023-08-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.08.2023 do 31.08.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 3 x prijaté platby: 0,00, 2 x debet - elektronicky: 0,00",,KARMA,PS
+15791,2023-08-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.08.2023","VS: 495000242
+ŠS: 5032809677
+KS: 6898",KARMA,PS
+15794,2023-08-30,,-0.2,"Poplatok za platbu, ",,KARMA,PS
+15795,2023-08-30,ADRIANA SZABOOVA,2990.0,"Prijatá platba, Karma politicka strana transparentn y ucet",ŠS: 4009563308,KARMA,PS
+15796,2023-08-22,Jan Barton,5000.0,"Prijatá platba, ",VS: 911,KARMA,PS
+15797,2023-08-21,Modify Studio,-5000.0,"Odoslaná platba elektronicky, ",VS: 2023077,KARMA,PS
+15798,2023-08-21,KARMA,2121.0,"Prijatá platba, ",,KARMA,PS
+15799,2023-08-11,"Chudy Roman, Mgr.",1000.0,"Prijatá platba, ",,KARMA,PS
+15800,2023-08-09,Marian Liptak,1000.0,"Prijatá platba, ",ŠS: 4003262308,KARMA,PS
+15801,2023-08-04,Marian Liptak,800.0,"Prijatá platba, ",ŠS: 4001899308,KARMA,PS
+15802,2023-07-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00",,KARMA,PS
+15803,2023-07-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
+ŠS: 5032809677
+KS: 6898",KARMA,PS
+15804,2023-06-27,KLASICO S.R.O.,111.0,"Prijatá platba, ",,KARMA,PS

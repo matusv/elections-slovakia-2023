@@ -1,0 +1,984 @@
+index,date,account_name,amount,message,vs,name,label
+15303,2023-11-08,,-29.9,"Transakcia platobnou kartou, Suma: 29,9 EUR 06.11.2023 Miesto: GREENWAY BRATISLAVA","VS: 205000311
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15305,2023-11-08,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.11.2023","VS: 297000311
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15306,2023-11-08,,-68.18,"Transakcia platobnou kartou, Suma: 68,18 EUR 07.11.2023 Miesto: Mailchimp Atlanta","VS: 205000311
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15304,2023-11-08,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.11.2023","VS: 297000311
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15307,2023-11-03,Kulturno - vychovne zdruzenie Lacno Drom,-800.0,"Odoslaná platba elektronicky, Kulturno - vychovne zdruzenie Lacno Drom - vystupenie",VS: 6023,"Modri, Most-Hid",PS
+15308,2023-11-03,GROWINN s.r.o.,-175.2,"Odoslaná platba elektronicky, GROWINN s.r.o. - Uctovnoctvo",VS: 2023150,"Modri, Most-Hid",PS
+15309,2023-11-03,,-72.0,"Odoslaná platba elektronicky, Irena Vavrekova - i - plast - tlac pozvanok",VS: 230083,"Modri, Most-Hid",PS
+15310,2023-11-03,Jozef Zdila - NEST sound,-280.0,"Odoslaná platba elektronicky, Jozef Zdila - NEST sound - Ozvucenie",VS: 20230035,"Modri, Most-Hid",PS
+15311,2023-11-03,"Zapadoslovenska energetika, a.s.",-113.21,"Odoslaná platba elektronicky, Zapadoslovenska energetika, a.s. - Nabijanie elektromobilu",VS: 2142325119,"Modri, Most-Hid",PS
+15312,2023-11-03,Tomas Jakubasek TOPA SPORT,-372.0,"Odoslaná platba elektronicky, Tomas Jakubasek TOPA SPORT - Obcerstvenie",VS: 202350,"Modri, Most-Hid",PS
+15313,2023-11-03,,-186.3,"Transakcia platobnou kartou, Suma: 186,3 EUR 01.11.2023 Miesto: Google GSUITE_modri.sk Dublin","VS: 205000306
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15314,2023-11-03,,-10.0,"Transakcia platobnou kartou, Suma: 10 EUR 01.11.2023 Miesto: Microsoft*Microsoft 36 msbill.info","VS: 205000306
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15315,2023-11-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.11.2023","VS: 297000306
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15316,2023-11-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.11.2023","VS: 297000306
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15319,2023-10-31,Jana Sokova,999.0,"Prijatá platba, Od: Jana Sokova",,"Modri, Most-Hid",PS
+15317,2023-10-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.10.2023 do 31.10.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 8 x prijaté platby: 0,00, 16 x debet - elektronicky: 0,00",,"Modri, Most-Hid",PS
+15318,2023-10-31,,-6.0,"Poplatok platobné karty, Miesto: DEBIT GOLD MC DEBETNA CL Suma: 6 EUR 30.10.2023","VS: 295000303
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15320,2023-10-30,"Vaclav Cyril, MUDr.",999.0,"Prijatá platba, Dar-uhrada faktur vPO kraji",,"Modri, Most-Hid",PS
+15321,2023-10-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.10.2023","VS: 297000299
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15322,2023-10-27,,-3.0,"Transakcia platobnou kartou, Suma: 3 EUR 25.10.2023 Miesto: AB Rosum BRATISLAVA","VS: 205000299
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15323,2023-10-27,Literatura s.r.o.,-315.6,"Odoslaná platba elektronicky, Literatura s.r.o. - vyroba a tlac letaku",,"Modri, Most-Hid",PS
+15324,2023-10-27,OZ V OBRAZE,-120.0,"Odoslaná platba elektronicky, OZ V OBRAZE - Uhrada faktury: 20230065",VS: 20230065,"Modri, Most-Hid",PS
+15325,2023-10-25,Miloslav Olejar,315.6,"Prijatá platba, Dar k uhrade Fa od Literatura s.r.o.",,"Modri, Most-Hid",PS
+15326,2023-10-23,Fsk Kicora,-300.0,"Odoslaná platba elektronicky, Fsk Kicora - vystupenie Lenfak",VS: 2023002,"Modri, Most-Hid",PS
+15327,2023-10-23,Jozef Zdila - NEST sound,-850.0,"Odoslaná platba elektronicky, Jozef Zdila - NEST sound - Ozvucovacie sluzby dna 20.8.2023 v Obci Lendak",VS: 20230031,"Modri, Most-Hid",PS
+15328,2023-10-23,Stamis Gastro s.r.o.,-292.6,"Odoslaná platba elektronicky, Stamis Gastro s.r.o. - obcerstvenie",VS: 2023001,"Modri, Most-Hid",PS
+15329,2023-10-23,"Gladius Group, s.r.o.",-2000.0,"Odoslaná platba elektronicky, Gladius Group, s.r.o. - Koncert Trencin",VS: 2023046,"Modri, Most-Hid",PS
+15330,2023-10-23,GROWINN s.r.o.,-259.8,"Odoslaná platba elektronicky, GROWINN s.r.o. - uctovnictvo",VS: 2023151,"Modri, Most-Hid",PS
+15331,2023-10-23,Matej Ruzinsky,-339.0,"Odoslaná platba elektronicky, Matej Ruzinsky - ozvucenie diskusie v Banskej Bystrici",VS: 2023091012,"Modri, Most-Hid",PS
+15334,2023-10-19,Kysela Peter,3000.0,"Prijatá platba, pozicka",,"Modri, Most-Hid",PS
+15333,2023-10-19,COGITANS s.r.o.,999.0,"Prijatá platba, KSAA",,"Modri, Most-Hid",PS
+15335,2023-10-18,"39bps, s. r. o.",-2000.0,"Odoslaná platba elektronicky, 39bps, s. r. o. - Prace korektora a jazykoveho editora",VS: 23030,"Modri, Most-Hid",PS
+15336,2023-10-17,Lubos Schwarzbacher,999.0,"Prijatá platba, ",,"Modri, Most-Hid",PS
+15337,2023-10-17,DZURINDA MIKULAS,999.0,"Prijatá platba, Od: Mikulas Dzurinda",,"Modri, Most-Hid",PS
+15338,2023-10-16,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.10.2023","VS: 297000288
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15339,2023-10-16,,-160.36,"Transakcia platobnou kartou, Suma: 160,36 EUR 14.10.2023 Miesto: FACEBK *YGC2UUPGU2 fb.me/ads","VS: 205000288
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15340,2023-10-09,,-69.04,"Transakcia platobnou kartou, Suma: 69,04 EUR 07.10.2023 Miesto: Mailchimp Atlanta","VS: 205000280
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15341,2023-10-09,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.10.2023","VS: 297000280
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15343,2023-10-05,,-56.26,"Transakcia platobnou kartou, Suma: 56,26 EUR 03.10.2023 Miesto: GREENWAY BRATISLAVA","VS: 205000278
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15342,2023-10-05,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.10.2023","VS: 297000278
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15344,2023-10-05,"DAIRA, s.r.o.",-583.0,"Odoslaná platba elektronicky, DAIRA, s.r.o. - Obcerstvenie pocas diskusie",VS: 2023012,"Modri, Most-Hid",PS
+15345,2023-10-05,V LAB s. r. o.,-475.0,"Odoslaná platba elektronicky, V LAB s. r. o. - Marketingove sluzby",VS: 20230021,"Modri, Most-Hid",PS
+15346,2023-10-05,Maladinovo s.r.o.,-225.5,"Odoslaná platba elektronicky, Maladinovo s.r.o. - ubytovanie",VS: 72304103,"Modri, Most-Hid",PS
+15348,2023-10-04,"Selfstorage, s.r.o.",-328.5,"Odoslaná platba elektronicky, Selfstorage, s.r.o. - prennajom skladu",VS: 62301411,"Modri, Most-Hid",PS
+15347,2023-10-04,"AT Group, s.r.o.",-5000.0,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety(oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006,"Modri, Most-Hid",PS
+15353,2023-10-03,,-285.5,"Transakcia platobnou kartou, Suma: 285,5 EUR 30.09.2023 Miesto: HOTEL DALIA KOSICE","VS: 205000275
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15356,2023-10-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.10.2023","VS: 297000275
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15355,2023-10-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.09.2023","VS: 297000275
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15354,2023-10-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.10.2023","VS: 297000275
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15349,2023-10-03,,-186.3,"Transakcia platobnou kartou, Suma: 186,3 EUR 01.10.2023 Miesto: GOOGLE*GSUITE MODRI.SK CC GOOGLE.COM","VS: 205000275
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15352,2023-10-03,"Selfstorage, s.r.o.",-328.5,"Odoslaná platba elektronicky, Selfstorage, s.r.o. - prennajom skladu",VS: 62301577,"Modri, Most-Hid",PS
+15351,2023-10-03,,-277.7,"Transakcia platobnou kartou, Suma: 277,7 EUR 01.10.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000275
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15350,2023-10-03,"TALLUS, spol. s r.o",-481.32,"Odoslaná platba elektronicky, TALLUS, spol. s r.o. - Tlac",VS: 3852023,"Modri, Most-Hid",PS
+15369,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.09.2023","VS: 297000273
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15367,2023-10-02,,-20.3,"Transakcia platobnou kartou, Suma: 20,3 EUR 28.09.2023 Miesto: BUFET BRATISLAVA","VS: 205000272
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15368,2023-10-02,,-4.0,"Transakcia platobnou kartou, Suma: 4 EUR 29.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000273
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15365,2023-10-02,,-1.0,"Transakcia platobnou kartou, Suma: 1 EUR 28.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000272
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15370,2023-10-02,,-10.0,"Transakcia platobnou kartou, Suma: 10 EUR 01.10.2023 Miesto: Microsoft*Microsoft 36 msbill.info","VS: 205000274
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15371,2023-10-02,,-1.0,"Transakcia platobnou kartou, Suma: 1 EUR 28.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000272
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15372,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.10.2023","VS: 297000274
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15366,2023-10-02,,-127.0,"Transakcia platobnou kartou, Suma: 127 EUR 28.09.2023 Miesto: OMV 2379 Bratislava","VS: 205000272
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15357,2023-10-02,,-4.0,"Transakcia platobnou kartou, Suma: 4 EUR 28.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000272
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15364,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2023","VS: 297000272
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15362,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2023","VS: 297000272
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15361,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2023","VS: 297000272
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15360,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2023","VS: 297000272
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15359,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2023","VS: 297000272
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15358,2023-10-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.09.2023","VS: 297000272
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15363,2023-10-02,,-1.5,"Transakcia platobnou kartou, Suma: 1,5 EUR 28.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000272
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15373,2023-09-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.09.2023 do 30.09.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 28 x prijaté platby: 0,00, 45 x debet - elektronicky: 0,00",,"Modri, Most-Hid",PS
+15393,2023-09-29,,-6.0,"Poplatok platobné karty, Miesto: DEBIT GOLD MC DEBETNA CL Suma: 6 EUR 28.09.2023","VS: 295000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15389,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15390,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15391,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15392,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15396,2023-09-29,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 27.09.2023 Miesto: FACEBK *MSE37TKHU2 fb.me/ads","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15394,2023-09-29,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 27.09.2023 Miesto: FACEBK *WSEEVT3HU2 fb.me/ads","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15395,2023-09-29,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 27.09.2023 Miesto: FACEBK *T7AH6TKHU2 fb.me/ads","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15386,2023-09-29,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 27.09.2023 Miesto: FACEBK *NYRHBTXGU2 fb.me/ads","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15397,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15398,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15387,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15388,2023-09-29,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000271
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15385,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15378,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15384,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15375,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15376,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15377,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15374,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15379,2023-09-29,"TALLUS, spol. s r.o",-481.32,"Odoslaná platba elektronicky, TALLUS, spol. s r.o. - Tlac",VS: 3852023,"Modri, Most-Hid",PS
+15380,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15381,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15382,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15383,2023-09-29,"TALLUS, spol. s r.o.",-141.31,"Odoslaná platba elektronicky, TALLUS, spol. s r.o. - Tlac",VS: 3532023,"Modri, Most-Hid",PS
+15411,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15422,2023-09-28,,-1285.19,"Transakcia platobnou kartou, Suma: 1285,19 EUR 26.09.2023 Miesto: FACEBK *G8X7JTFHU2 fb.me/ads","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15421,2023-09-28,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 26.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15420,2023-09-28,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 26.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15419,2023-09-28,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 26.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15418,2023-09-28,,-5.0,"Poplatok platobné karty, Miesto: ZMENA DENNEHO LIMITU Suma: 5 EUR 27.09.2023","VS: 298000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15417,2023-09-28,,-778.22,"Transakcia platobnou kartou, Suma: 778,22 EUR 27.09.2023 Miesto: GOOGLE *ADS5803274393 G.CO/HELPPAY#","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15416,2023-09-28,,-833.11,"Transakcia platobnou kartou, Suma: 833,11 EUR 27.09.2023 Miesto: FACEBK *DDERHU7HG2 fb.me/ads","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15414,2023-09-28,,-1958.86,"Transakcia platobnou kartou, Suma: 1958,86 EUR 27.09.2023 Miesto: FACEBK JLDT6TKHU2 fb.me/ads","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15413,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15412,2023-09-28,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 26.09.2023 Miesto: FACEBK RM95HU7HG2 fb.me/ads","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15415,2023-09-28,,-2985.67,"Transakcia platobnou kartou, Suma: 2985,67 EUR 27.09.2023 Miesto: FACEBK *NE2G7U7HU2 fb.me/ads","VS: 205000270
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15410,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15404,2023-09-28,"4.0, s.r.o.",-2940.0,"Odoslaná platba elektronicky, 4.0, s.r.o. - web",VS: 3230045,"Modri, Most-Hid",PS
+15400,2023-09-28,"EOSNEBOTRA,A.S.",80000.0,"Prijatá platba, pozicka Modry Most-Hid","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15401,2023-09-28,IDEAMEDIA s. r. o.,-70000.0,"Odoslaná platba elektronicky, IDEAMEDIA s. r. o. - online marketing",VS: 33230004,"Modri, Most-Hid",PS
+15402,2023-09-28,"4.0, s.r.o.",-960.0,"Odoslaná platba elektronicky, 4.0, s.r.o. - graficke prace",VS: 3230059,"Modri, Most-Hid",PS
+15403,2023-09-28,"4.0, s.r.o.",-6000.0,"Odoslaná platba elektronicky, 4.0, s.r.o. - produkcia videa",VS: 3230046,"Modri, Most-Hid",PS
+15409,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15405,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15399,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15407,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15408,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15406,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000270
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15433,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15442,2023-09-27,,-4.0,"Transakcia platobnou kartou, Suma: 4 EUR 25.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15441,2023-09-27,,-1.0,"Transakcia platobnou kartou, Suma: 1 EUR 25.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15439,2023-09-27,,-24.13,"Transakcia platobnou kartou, Suma: 24,13 EUR 25.09.2023 Miesto: FACEBK *GK6LUTBHU2 fb.me/ads","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15438,2023-09-27,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 26.09.2023 Miesto: GOOGLE *ADS5803274393 G.CO/HELPPAY#","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15437,2023-09-27,,-305.22,"Transakcia platobnou kartou, Suma: 305,22 EUR 26.09.2023 Miesto: FACEBK NEGX3UTGU2 fb.me/ads","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15436,2023-09-27,,-1.0,"Transakcia platobnou kartou, Suma: 1 EUR 25.09.2023 Miesto: NYX*CREAREsro Bratislava","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15435,2023-09-27,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 26.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15434,2023-09-27,,-557.86,"Transakcia platobnou kartou, Suma: 557,86 EUR 25.09.2023 Miesto: GOOGLE *ADS5803274393 G.CO/HELPPAY#","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15440,2023-09-27,,-145.56,"Transakcia platobnou kartou, Suma: 145,56 EUR 25.09.2023 Miesto: OMV 2379 Bratislava","VS: 205000269
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15432,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15426,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15423,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15424,2023-09-27,Peter Petrikan,125.0,"Prijatá platba, ",,"Modri, Most-Hid",PS
+15431,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15425,2023-09-27,"REGIONPRESS, s.r.o.",-270.0,"Odoslaná platba elektronicky, REGIONPRESS, s.r.o. - Uhrada faktury 99 623 0643",VS: 996230643,"Modri, Most-Hid",PS
+15427,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15428,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15429,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15430,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 297000269
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15458,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000268
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15457,2023-09-26,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 25.09.2023 Miesto: FACEBK 32SK4TKHU2 fb.me/ads","VS: 205000268
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15456,2023-09-26,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 25.09.2023 Miesto: FACEBK X3JK4TKHU2 fb.me/ads","VS: 205000268
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15455,2023-09-26,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 25.09.2023 Miesto: FACEBK WJN6GTKGU2 fb.me/ads","VS: 205000268
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15454,2023-09-26,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 25.09.2023 Miesto: FACEBK DS85HTFHU2 fb.me/ads","VS: 205000268
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15453,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK DC7W2UTGU2 fb.me/ads","VS: 205000268
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15452,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000268
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15451,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000268
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15450,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000268
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15445,2023-09-26,"Amrich Rastislav, Ing.",300.0,"Prijatá platba, Ing. Rastislav Amrich, dar strane Modri, Most-Hid",,"Modri, Most-Hid",PS
+15449,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 297000268
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15444,2023-09-26,Stefan Ambros,200.0,"Prijatá platba, Dar politickej strane",,"Modri, Most-Hid",PS
+15443,2023-09-26,"EOSNEBOTRA,A.S.",-40000.0,"Odoslaná platba elektronicky, EOSNEBOTRA,A.S. - vratenie pozicky",,"Modri, Most-Hid",PS
+15446,2023-09-26,Tomas Staffa,5000.0,"Prijatá platba, Dar na zaklade datovacej zmluvy",,"Modri, Most-Hid",PS
+15447,2023-09-26,"ANDO PATRIK, ING.",15000.0,"Prijatá platba, POZICKA MODRI, MOST-HID",ŠS: 4008573309,"Modri, Most-Hid",PS
+15448,2023-09-26,Slovanet,-608.56,"Odoslaná platba elektronicky, QR platba Slovanet - fa 6230470391","VS: 1001239951
+KS: 0308","Modri, Most-Hid",PS
+15470,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 297000266
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15479,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 297000266
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15477,2023-09-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 23.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000267
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15476,2023-09-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 23.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000266
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15475,2023-09-25,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 22.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000266
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15474,2023-09-25,,-350.0,"Transakcia platobnou kartou, Suma: 350 EUR 22.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000266
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15473,2023-09-25,,-200.0,"Transakcia platobnou kartou, Suma: 200 EUR 22.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000266
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15472,2023-09-25,,-50.0,"Transakcia platobnou kartou, Suma: 50 EUR 22.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000266
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15471,2023-09-25,,-10.0,"Transakcia platobnou kartou, Suma: 10 EUR 22.09.2023 Miesto: GOOGLE *ADS5803274393 650-253-0000","VS: 205000266
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15478,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 297000267
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15468,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 297000266
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15469,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 297000266
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15462,2023-09-25,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 22.09.2023 Miesto: FACEBK T6H9SVFHG2 fb.me/ads","VS: 205000265
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15459,2023-09-25,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 21.09.2023 Miesto: FACEBK 4QNDETBHG2 fb.me/ads","VS: 205000265
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15460,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 297000266
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15461,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 297000266
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15467,2023-09-25,KOLLAR MARTIN,200.0,"Prijatá platba, Ing. MARTIN KOLLAR, dar strane Modri Most - Hid",,"Modri, Most-Hid",PS
+15463,2023-09-25,Patrik Ando,50000.0,"Prijatá platba, Dar",,"Modri, Most-Hid",PS
+15465,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 297000265
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15466,2023-09-25,HORT MICHAL ING.,2500.0,"Prijatá platba, ",ŠS: 4008077309,"Modri, Most-Hid",PS
+15464,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 297000265
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15486,2023-09-22,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 20.09.2023 Miesto: FACEBK *CMXKATKGU2 fb.me/ads","VS: 205000264
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15489,2023-09-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 297000264
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15487,2023-09-22,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 20.09.2023 Miesto: FACEBK *2QRUVTTGU2 fb.me/ads","VS: 205000264
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15488,2023-09-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 297000264
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15483,2023-09-22,PAVOL ADAMCAK,9744.0,"Prijatá platba, POZICKA STRANE MODRI MOST HID",,"Modri, Most-Hid",PS
+15481,2023-09-22,Michal Hort,1500.0,"Prijatá platba, Pozicka Michal Hort",,"Modri, Most-Hid",PS
+15480,2023-09-22,"AT Group, s.r.o.",-5000.0,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety(oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006,"Modri, Most-Hid",PS
+15485,2023-09-22,"BARUX, s.r.o.",-2394.0,"Odoslaná platba elektronicky, BARUX - graficke prace",VS: 20230161,"Modri, Most-Hid",PS
+15490,2023-09-21,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 19.09.2023 Miesto: FACEBK XQKPPVFHG2 fb.me/ads","VS: 205000264
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15491,2023-09-21,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 19.09.2023 Miesto: FACEBK *2AYX9TKGU2 fb.me/ads","VS: 205000264
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15492,2023-09-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2023","VS: 297000264
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15493,2023-09-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2023","VS: 297000264
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15494,2023-09-21,Mestske kulturne stredisko Sturovo,-169.2,"Odoslaná platba elektronicky, Mestske kulturne stredisko Sturovo - reklamna inzercia","VS: 2023036
+KS: 0308","Modri, Most-Hid",PS
+15495,2023-09-21,"AT Group, s.r.o.",-5000.0,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety(oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006,"Modri, Most-Hid",PS
+15496,2023-09-21,Filio s.r.o.,-201.6,"Odoslaná platba elektronicky, Filio s.r.o. - cistenie vozidiel",VS: 342023,"Modri, Most-Hid",PS
+15497,2023-09-21,Halgas Tomas,10000.0,"Prijatá platba, Pozicka Modri Most Hid Tomas Halgas",,"Modri, Most-Hid",PS
+15500,2023-09-20,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 18.09.2023 Miesto: FACEBK *U7ESKT3HU2 fb.me/ads","VS: 205000262
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15501,2023-09-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2023","VS: 297000262
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15498,2023-09-20,"EOSNEBOTRA,A.S.",25000.0,"Prijatá platba, Pozicka Modri, M ost - Hid","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15503,2023-09-19,Ondrej Hort,999.0,"Prijatá platba, ondrej hort dar",,"Modri, Most-Hid",PS
+15504,2023-09-19,Gabriel Steiner ml.,20000.0,"Prijatá platba, Dar",,"Modri, Most-Hid",PS
+15502,2023-09-19,Ondrej Hort,999.0,"Prijatá platba, ivana hortova dar strane modri",,"Modri, Most-Hid",PS
+15514,2023-09-18,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 14.09.2023 Miesto: FACEBK 2WM6STPGG2 fb.me/ads","VS: 205000258
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15520,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.09.2023","VS: 297000258
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15519,2023-09-18,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 17.09.2023 Miesto: FACEBK *TABVCTFGU2 fb.me/ads","VS: 205000260
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15518,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.09.2023","VS: 297000260
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15516,2023-09-18,,-15.95,"Transakcia platobnou kartou, Suma: 15,95 EUR 15.09.2023 Miesto: GREENWAY BRATISLAVA","VS: 205000259
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15515,2023-09-18,,-580.42,"Transakcia platobnou kartou, Suma: 580,42 EUR 15.09.2023 Miesto: FACEBK *DTNVPTTGU2 fb.me/ads","VS: 205000258
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15517,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.09.2023","VS: 297000259
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15513,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.09.2023","VS: 297000258
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15511,2023-09-18,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 13.09.2023 Miesto: FACEBK 7MXS5TBHG2 fb.me/ads","VS: 205000257
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15510,2023-09-18,"EOSNEBOTRA, a.s.",-5000.0,"Odoslaná platba elektronicky, EOSNEBOTRA - ciastocne vratenie daru zo dna 31.7.2023",,"Modri, Most-Hid",PS
+15507,2023-09-18,Michal Hort,200.0,"Prijatá platba, Dar Michal Hort",,"Modri, Most-Hid",PS
+15506,2023-09-18,medialny trening,-1650.0,"Odoslaná platba elektronicky, Prediction - medialny trening","VS: 202308
+KS: 0308","Modri, Most-Hid",PS
+15505,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.09.2023","VS: 297000257
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15512,2023-09-18,Dionyz Kaszonyi,312.0,"Prijatá platba, Kaszonyi Dionyz Darovacia zmluva",,"Modri, Most-Hid",PS
+15535,2023-09-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2023","VS: 297000256
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15531,2023-09-14,ZSE,-309.3,"Odoslaná platba elektronicky, ZSE Drive - Modri, Most - Hid","VS: 2142323129
+KS: 0308","Modri, Most-Hid",PS
+15533,2023-09-14,,-720.0,"Transakcia platobnou kartou, Suma: 720 EUR 13.09.2023 Miesto: FACEBK B7RQQTPGG2 fb.me/ads","VS: 205000256
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15534,2023-09-14,,-65.52,"Transakcia platobnou kartou, Suma: 65,52 EUR 12.09.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000256
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15539,2023-09-14,Slovanet,-238.8,"Odoslaná platba elektronicky, Slovanet - fa 6230545537 - internet","VS: 1001239951
+KS: 0308","Modri, Most-Hid",PS
+15536,2023-09-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.09.2023","VS: 297000256
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15537,2023-09-14,Ing. Anna Manojlovicova,-360.0,"Odoslaná platba elektronicky, Ing. Anna Manojlovicova - obcerstvenie Trebisov","VS: 2023081
+KS: 0908","Modri, Most-Hid",PS
+15538,2023-09-14,,-5000.0,"Odoslaná platba elektronicky, vratenie daru",,"Modri, Most-Hid",PS
+15540,2023-09-14,,-20000.0,"Odoslaná platba elektronicky, vratenie daru",,"Modri, Most-Hid",PS
+15532,2023-09-14,"Caillou, s.r.o.",-350.0,"Odoslaná platba elektronicky, Caillou, s.r.o. - Animacna cinnost",VS: 2023007,"Modri, Most-Hid",PS
+15529,2023-09-14,MESTO Kosice,-80.0,"Odoslaná platba elektronicky, MESTO Kosice - Spravny poplatok za vydanie rozhodnutia, MK/A/2023/21427",VS: 3451230370,"Modri, Most-Hid",PS
+15530,2023-09-14,Mesto Trebisov,-60.0,"Odoslaná platba elektronicky, Mesto Trebisov - miestna dan","VS: 1500027102
+KS: 0558","Modri, Most-Hid",PS
+15524,2023-09-14,Amrich Jan,950.0,"Prijatá platba, Jan Amrich",,"Modri, Most-Hid",PS
+15521,2023-09-14,Green Olive s.r.o.,-1500.0,"Odoslaná platba elektronicky, Green Olive s.r.o. - sprava socialnych sieti",VS: 20230702,"Modri, Most-Hid",PS
+15522,2023-09-14,Amrichova Dagmar,962.0,"Prijatá platba, Dagmar Amrichova",,"Modri, Most-Hid",PS
+15523,2023-09-14,"Zrzky, s.r.o.",-1296.6,"Odoslaná platba elektronicky, Zrzky, s.r.o. - Prenajom priestorov",VS: 230007,"Modri, Most-Hid",PS
+15528,2023-09-14,"NUBIUM, s.r.o.",-1560.0,"Odoslaná platba elektronicky, NUBIUM, s.r.o. - KE/258/09/2023 - OOH",VS: 13120321,"Modri, Most-Hid",PS
+15525,2023-09-14,"BigMedia, s.r.o.",-252.0,"Odoslaná platba elektronicky, BigMedia, spol. s r.o.: 1223206456 - Modri, Most - Hid - 2023-09-01","VS: 1223206456
+KS: 0308","Modri, Most-Hid",PS
+15527,2023-09-14,Michal Hort,50000.0,"Prijatá platba, Dar Michal Hort",,"Modri, Most-Hid",PS
+15526,2023-09-14,TORA Group s. r. o.,-1344.0,"Odoslaná platba elektronicky, TORA Group s. r. o. - Mediaalna stena",VS: 20230705,"Modri, Most-Hid",PS
+15541,2023-09-13,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2023","VS: 297000255
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15542,2023-09-13,Viktor Hlavatovic - WIKES - fotrnie diskusie,-150.0,"Odoslaná platba elektronicky, Uhrada faktury: 20230027",VS: 20230027,"Modri, Most-Hid",PS
+15543,2023-09-13,Martin Hubinsky,10000.0,"Prijatá platba, Martin Hubinsky",,"Modri, Most-Hid",PS
+15544,2023-09-13,,-457.47,"Transakcia platobnou kartou, Suma: 457,47 EUR 12.09.2023 Miesto: FACEBK C8QJFVFHG2 fb.me/ads","VS: 205000255
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15548,2023-09-12,Mesto Stupava,-4.8,"Odoslaná platba elektronicky, Mesto Stupava - miestna dan","VS: 6360030796
+KS: 0558","Modri, Most-Hid",PS
+15551,2023-09-12,,-200.0,"Odoslaná platba elektronicky, vratenie daru",,"Modri, Most-Hid",PS
+15550,2023-09-12,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 10.09.2023 Miesto: FACEBK *2D7QLTPGU2 fb.me/ads","VS: 205000254
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15549,2023-09-12,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.09.2023","VS: 297000254
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15547,2023-09-12,Filip Jamriska,10000.0,"Prijatá platba, ",,"Modri, Most-Hid",PS
+15545,2023-09-12,"REGIONPRESS, s.r.o.",-698.4,"Odoslaná platba elektronicky, REGIONPRESS - inzercia Kosicko",VS: 666230822,"Modri, Most-Hid",PS
+15546,2023-09-12,,-50000.0,"Odoslaná platba elektronicky, vratenie daru",,"Modri, Most-Hid",PS
+15552,2023-09-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2023","VS: 297000251
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15553,2023-09-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2023","VS: 297000251
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15554,2023-09-11,,-480.0,"Transakcia platobnou kartou, Suma: 480 EUR 07.09.2023 Miesto: FACEBK R4KPUT3HG2 fb.me/ads","VS: 205000251
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15555,2023-09-11,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 07.09.2023 Miesto: FACEBK *S75A9TBHU2 fb.me/ads","VS: 205000251
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15556,2023-09-11,"DUEL - PRESS, s.r.o.",-1320.0,"Odoslaná platba elektronicky, DUEL - PRESS - mimoriadne prilohy UJ SZO","VS: 7012300591
+KS: 0308","Modri, Most-Hid",PS
+15557,2023-09-11,COGITANS s.r.o.,30000.0,"Prijatá platba, Pozicka",,"Modri, Most-Hid",PS
+15558,2023-09-11,COGITANS s.r.o.,10000.0,"Prijatá platba, Pozicka",,"Modri, Most-Hid",PS
+15559,2023-09-11,Mestska cast Bratislava Stare Mesto,-5.0,"Odoslaná platba elektronicky, Mestska cast Bratislava Stare Mesto - dan za vjazd MV Frantiskanska BT459IJ","VS: 6350272411
+KS: 8148","Modri, Most-Hid",PS
+15562,2023-09-08,,-67.62,"Transakcia platobnou kartou, Suma: 67,62 EUR 07.09.2023 Miesto: Mailchimp Atlanta","VS: 205000250
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15560,2023-09-08,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2023","VS: 297000250
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15561,2023-09-08,Simona Morgosova,5000.0,"Prijatá platba, ",,"Modri, Most-Hid",PS
+15564,2023-09-06,,-10000.0,"Odoslaná platba elektronicky, vratenie daru",,"Modri, Most-Hid",PS
+15565,2023-09-06,,-10000.0,"Odoslaná platba elektronicky, COGITANS - vratenie daru",,"Modri, Most-Hid",PS
+15566,2023-09-06,,-30000.0,"Odoslaná platba elektronicky, COGITANS - vratenie daru",,"Modri, Most-Hid",PS
+15567,2023-09-06,"EOSNEBOTRA,A.S.",1000.0,"Prijatá platba, Pozicka Modri, M ost-Hid","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15568,2023-09-06,"EOSNEBOTRA,A.S.",50000.0,"Prijatá platba, Pozicka Modri, M ost-Hid","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15569,2023-09-06,Sketch s. r. o.,-581.54,"Odoslaná platba elektronicky, Sketch s. r. o. - reklamne predmety",VS: 16522023,"Modri, Most-Hid",PS
+15563,2023-09-06,Hlavne mesto SR Bratislava,-80.0,"Odoslaná platba elektronicky, Hlavne mesto SR Bratislava - spravny poplatok Safarikove namestie",VS: 2231331468,"Modri, Most-Hid",PS
+15570,2023-09-05,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 03.09.2023","VS: 297000247
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15571,2023-09-05,,-105.0,"Transakcia platobnou kartou, Suma: 105 EUR 03.09.2023 Miesto: GOPAY *AIRSHOW.SK https://airsh","VS: 205000247
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15578,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.09.2023","VS: 297000246
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15582,2023-09-04,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 02.09.2023 Miesto: FACEBK *D448DSKHU2 fb.me/ads","VS: 205000246
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15581,2023-09-04,,-320.0,"Transakcia platobnou kartou, Suma: 320 EUR 01.09.2023 Miesto: FACEBK SAVYCTPGG2 fb.me/ads","VS: 205000245
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15580,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.09.2023","VS: 297000245
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15579,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.09.2023","VS: 297000245
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15575,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2023","VS: 297000243
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15577,2023-09-04,,-912.64,"Transakcia platobnou kartou, Suma: 912,64 EUR 31.08.2023 Miesto: FACEBK *DC33NSKGU2 fb.me/ads","VS: 205000243
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15576,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2023","VS: 297000243
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15574,2023-09-04,"Petit Press, a.s. divizia tyzdennikov, o.z",-1608.0,"Odoslaná platba elektronicky, Petit Press, a.s. divizia tyzdennikov, o.z - inzercia v regionalnych novinach",VS: 2333101597,"Modri, Most-Hid",PS
+15573,2023-09-04,,-10.0,"Transakcia platobnou kartou, Suma: 10 EUR 31.08.2023 Miesto: Microsoft*Store msbill.info","VS: 205000243
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15572,2023-09-04,,-186.3,"Transakcia platobnou kartou, Suma: 186,3 EUR 01.09.2023 Miesto: GOOGLE*GSUITE MODRI.SK CC GOOGLE.COM","VS: 205000245
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15588,2023-08-31,Rudolf Smriga,150.0,"Prijatá platba, MVDr. Rudolf Smriga, dar strane Modri, Most - Hid",,"Modri, Most-Hid",PS
+15592,2023-08-31,Mestska cast Bratislava Stare Mesto,-15.0,"Odoslaná platba elektronicky, Mestska cast Bratislava Stare Mesto - dan za vjazd MV Frantiskanska NR357FO, NR594JH, NR554LH.",VS: 6350172411,"Modri, Most-Hid",PS
+15591,2023-08-31,Service Fees,-14.0,"Za vedenie účtu, výpisy a transakcie, od 01.08.2023 do 31.08.2023, Za vedenie účtu/balíka služieb a výpisy: 14,00, Za transakcie: 0,00, 7 x prijaté platby: 0,00, 28 x debet - elektronicky: 0,00",,"Modri, Most-Hid",PS
+15590,2023-08-31,,-6.0,"Poplatok platobné karty, Miesto: DEBIT GOLD MC DEBETNA CL Suma: 6 EUR 30.08.2023","VS: 295000242
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15589,2023-08-31,Mestska cast Bratislava Stare Mesto,-240.0,"Odoslaná platba elektronicky, Mestska cast Bratislava Stare Mesto - cislo podania A65690",VS: 18096,"Modri, Most-Hid",PS
+15584,2023-08-31,Mestska cast Bratislava Stare Mesto,-15.0,"Odoslaná platba elektronicky, Mestska cast Bratislava Stare Mesto - dan za vjazd MV Frantiskanska NR147FZ, NR988JH, NR976IJ","VS: 6350072411
+KS: 8148","Modri, Most-Hid",PS
+15587,2023-08-31,Maladinovo s.r.o.,-2977.0,"Odoslaná platba elektronicky, Maladinovo - Ubytovanie kampan",VS: 72303923,"Modri, Most-Hid",PS
+15585,2023-08-31,Maladinovo s.r.o.,-49.3,"Odoslaná platba elektronicky, Maladinovo - Ubytovanie kampan",VS: 72304085,"Modri, Most-Hid",PS
+15583,2023-08-31,"J.E.M. SWEETS, s.r.o.",-600.0,"Odoslaná platba elektronicky, J.E.M. SWEETS - obcerstvenie kampan",VS: 20230022,"Modri, Most-Hid",PS
+15586,2023-08-31,"Zapadoslovenska energetika, a.s. Bratislava",-8.62,"Odoslaná platba elektronicky, Zapadoslovenska energetika, a.s. Bratislava - nabijanie auta",VS: 2142318751,"Modri, Most-Hid",PS
+15593,2023-08-30,Prioritní platba - poplatek,-20.0,"Zaúčtovanie poplatku, ",,"Modri, Most-Hid",PS
+15594,2023-08-30,IDEAMEDIA s. r. o.,-63000.0,"Zrýchlená platba, IDEAMEDIA - Platena politicka reklama",VS: 33230006,"Modri, Most-Hid",PS
+15596,2023-08-30,"CULTUS Ruzinov, a.s.",-750.0,"Odoslaná platba elektronicky, CULTUS Ruzinov - prenajom pozemku pre umiestnenie propagcneho stanu",VS: 702023,"Modri, Most-Hid",PS
+15597,2023-08-30,Michal Hort,50000.0,"Prijatá platba, ",,"Modri, Most-Hid",PS
+15603,2023-08-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.08.2023","VS: 297000237
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15608,2023-08-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.08.2023","VS: 297000239
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15607,2023-08-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.08.2023","VS: 297000239
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15606,2023-08-28,,-60.0,"Transakcia platobnou kartou, Suma: 60 EUR 26.08.2023 Miesto: GURMAN RESTAURANT BARDEJOV","VS: 205000239
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15605,2023-08-28,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 26.08.2023 Miesto: FACEBK *F9434TTGU2 fb.me/ads","VS: 205000239
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15604,2023-08-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.08.2023","VS: 297000237
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15602,2023-08-28,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 24.08.2023 Miesto: FACEBK *GV4E2TTGU2 fb.me/ads","VS: 205000237
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15601,2023-08-28,Prioritní platba - poplatek,-20.0,"Zaúčtovanie poplatku, ",,"Modri, Most-Hid",PS
+15600,2023-08-28,"AT Group, s.r.o.",-10600.0,"Zrýchlená platba, AT Group, s.r.o. reklamne predmety(oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006,"Modri, Most-Hid",PS
+15599,2023-08-28,"Solymos Laszlo, Ing.",30000.0,"Prijatá platba, ",,"Modri, Most-Hid",PS
+15598,2023-08-28,,-210.0,"Transakcia platobnou kartou, Suma: 210 EUR 24.08.2023 Miesto: FACEBK 7XCJ5TPGG2 fb.me/ads","VS: 205000237
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15609,2023-08-25,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 23.08.2023 Miesto: FACEBK *ABA6LSFGU2 fb.me/ads","VS: 205000236
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15610,2023-08-25,,-81.81,"Transakcia platobnou kartou, Suma: 81,81 EUR 23.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000236
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15611,2023-08-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.08.2023","VS: 297000236
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15612,2023-08-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.08.2023","VS: 297000236
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15613,2023-08-25,"BARUX, s.r.o.",-1218.0,"Odoslaná platba elektronicky, BARUX - Grafucke prace 072023",VS: 20230143,"Modri, Most-Hid",PS
+15619,2023-08-24,Hlavne mesto Slovenskej republiky Bratislava,-80.0,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Safarikovo namestie",VS: 2231331459,"Modri, Most-Hid",PS
+15622,2023-08-24,Hlavne mesto Slovenskej republiky Bratislava,-80.0,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Obchodna-Postova",VS: 2231331458,"Modri, Most-Hid",PS
+15621,2023-08-24,,-532.8,"Transakcia platobnou kartou, Suma: 532,8 EUR 23.08.2023 Miesto: VLAJKOVO.SK BRATISLAVA","VS: 205000236
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15620,2023-08-24,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.08.2023","VS: 297000236
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15614,2023-08-24,Hlavne mesto Slovenskej republiky Bratislava,-80.0,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Hlavne namestie",VS: 2231331457,"Modri, Most-Hid",PS
+15618,2023-08-24,Hlavne mesto Slovenskej republiky Bratislava,-80.0,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - spravny poplatok Nam. Neznej revolucie",VS: 2231331460,"Modri, Most-Hid",PS
+15617,2023-08-24,Mestske kulturne stredisko Humenne,-684.0,"Odoslaná platba elektronicky, Mestske kulturne stredisko Humenne - prenajom saly",VS: 2023009,"Modri, Most-Hid",PS
+15616,2023-08-24,Hlavne mesto Slovenskej republiky Bratislava,-600.0,"Odoslaná platba elektronicky, Hlavne mesto Slovenskej republiky Bratislava - Prenajom namestia",VS: 1252023,"Modri, Most-Hid",PS
+15615,2023-08-24,Attila Agocs,1500.0,"Prijatá platba, Dar",,"Modri, Most-Hid",PS
+15633,2023-08-23,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 297000234
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15632,2023-08-23,,-59.02,"Transakcia platobnou kartou, Suma: 59,02 EUR 21.08.2023 Miesto: laskykvet.sk Trencin","VS: 205000234
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15631,2023-08-23,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 21.08.2023 Miesto: FACEBK *BPE6DSFHU2 fb.me/ads","VS: 205000234
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15630,2023-08-23,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 297000234
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15629,2023-08-23,IDEAMEDIA s. r. o.,-65033.12,"Odoslaná platba elektronicky, IDEAMEDIA - Online 072023",VS: 3230234,"Modri, Most-Hid",PS
+15628,2023-08-23,IDEAMEDIA s. r. o.,-15960.0,"Zrýchlená platba, IDEAMEDIA - OOH",VS: 3230236,"Modri, Most-Hid",PS
+15627,2023-08-23,IDEAMEDIA s. r. o.,-39298.92,"Zrýchlená platba, IDEAMEDIA - OOH 082023",VS: 3230235,"Modri, Most-Hid",PS
+15626,2023-08-23,Prioritní platba - poplatek,-20.0,"Zaúčtovanie poplatku, ",,"Modri, Most-Hid",PS
+15625,2023-08-23,"EOSNEBOTRA,A.S.",100000.0,"Prijatá platba, Pozicka Modri, M ost - Hid","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15624,2023-08-23,Kun Arpad,20000.0,"Prijatá platba, pozicka",,"Modri, Most-Hid",PS
+15623,2023-08-23,Prioritní platba - poplatek,-20.0,"Zaúčtovanie poplatku, ",,"Modri, Most-Hid",PS
+15634,2023-08-22,Mestska cast Bratislava-Raca,-1100.0,"Odoslaná platba elektronicky, Mestska cast Bratislava-Raca - Modri, Most - Hid / vinobranie2023",VS: 1509230241,"Modri, Most-Hid",PS
+15639,2023-08-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 CZK 17.08.2023","VS: 297000230
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15641,2023-08-21,,-79.03,"Transakcia platobnou kartou, Suma: 1880,41 CZK 17.08.2023 Miesto: CEZ a.s. Futur/E/Go CZ Praha 4 KURZ: 23,793622","VS: 205000230
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15640,2023-08-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.08.2023","VS: 297000230
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15642,2023-08-21,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 17.08.2023 Miesto: FACEBK *QCQNZRXGU2 fb.me/ads","VS: 205000230
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15638,2023-08-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.08.2023","VS: 297000232
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15637,2023-08-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.08.2023","VS: 297000232
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15636,2023-08-21,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 19.08.2023 Miesto: FACEBK *98DKXS7HU2 fb.me/ads","VS: 205000232
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15635,2023-08-21,,-140.0,"Transakcia platobnou kartou, Suma: 140 EUR 19.08.2023 Miesto: FACEBK E2QXLTPHG2 fb.me/ads","VS: 205000232
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15643,2023-08-18,,-12.77,"Transakcia platobnou kartou, Suma: 303,77 CZK 17.08.2023 Miesto: CEZ a.s. Futur/E/Go CZ Praha 4 KURZ: 23,787783","VS: 205000229
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15644,2023-08-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 CZK 17.08.2023","VS: 297000229
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15645,2023-08-16,,-837.38,"Transakcia platobnou kartou, Suma: 837,38 EUR 15.08.2023 Miesto: FACEBK *KBRWJSBHU2 fb.me/ads","VS: 205000227
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15646,2023-08-16,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.08.2023","VS: 297000227
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15647,2023-08-16,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.08.2023","VS: 297000227
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15648,2023-08-16,,-90.0,"Transakcia platobnou kartou, Suma: 90 EUR 14.08.2023 Miesto: FACEBK WFE88SBHG2 fb.me/ads","VS: 205000227
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15649,2023-08-15,,-900.0,"Transakcia platobnou kartou, Suma: 900 EUR 13.08.2023 Miesto: FACEBK *P2GQPSTGU2 fb.me/ads","VS: 205000226
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15650,2023-08-15,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.08.2023","VS: 297000226
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15651,2023-08-14,,-60.0,"Transakcia platobnou kartou, Suma: 60 EUR 11.08.2023 Miesto: FACEBK 4XFB3T7HG2 fb.me/ads","VS: 205000224
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15652,2023-08-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 11.08.2023","VS: 297000224
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15653,2023-08-13,Twomark s.r.o.,-1440.47,"Odoslaná platba elektronicky, Twomark - ubytovanie kampan",VS: 23085,"Modri, Most-Hid",PS
+15654,2023-08-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.08.2023","VS: 297000222
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15655,2023-08-11,,-41.9,"Transakcia platobnou kartou, Suma: 41,9 EUR 10.08.2023 Miesto: FACEBK E6VXPSPGG2 fb.me/ads","VS: 205000222
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15656,2023-08-11,Mesto Spisska Bela,-100.0,"Odoslaná platba elektronicky, Mesto Spisska Bela - Prenajom podia Modri, Most - Hid - Lendak",VS: 2592023,"Modri, Most-Hid",PS
+15657,2023-08-10,,-2211.34,"Transakcia platobnou kartou, Suma: 2211,34 EUR 08.08.2023 Miesto: FACEBK *C5EKCSBHU2 fb.me/ads","VS: 205000222
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15658,2023-08-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.08.2023","VS: 297000222
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15659,2023-08-10,"POSTOJ MEDIA, s.r.o.",-250.0,"Odoslaná platba elektronicky, POSTOJ MEDIA - Inzercia v denniku postoj","VS: 20232875
+KS: 0308","Modri, Most-Hid",PS
+15660,2023-08-08,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.08.2023","VS: 297000219
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15661,2023-08-08,,-40.0,"Transakcia platobnou kartou, Suma: 40 EUR 07.08.2023 Miesto: FACEBK CRSULTXGG2 fb.me/ads","VS: 205000219
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15662,2023-08-08,"EOSNEBOTRA,A.S.",20000.0,"Prijatá platba, /RI/Pozicka Modri, Most-Hid",ŠS: 4002693308,"Modri, Most-Hid",PS
+15663,2023-08-07,,150.8,"Kartové transakcie - úhrada, Suma: 150,8 EUR 28.07.2023 Miesto: ELEKTRO DATART BRATISLAVA","VS: 205000217
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15664,2023-08-07,Vrátenie poplatkov,0.2,"Vrátenie poplatku, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000217
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15667,2023-08-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 297000215
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15668,2023-08-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 297000215
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15665,2023-08-04,,-68.02,"Transakcia platobnou kartou, Suma: 68,02 EUR 02.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000215
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15666,2023-08-04,,-13.93,"Transakcia platobnou kartou, Suma: 13,93 EUR 02.08.2023 Miesto: KAUFLAND 2220, BA, TRN BRATISLAVA","VS: 205000215
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15670,2023-08-03,"EOSNEBOTRA,A.S.",50000.0,"Prijatá platba, Pozicka pre Modr i, Most-Hid","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15671,2023-08-03,IDEAMEDIA s. r. o.,-39298.92,"Odoslaná platba elektronicky, IDEAMEDIA - Billboardy",VS: 33230002,"Modri, Most-Hid",PS
+15672,2023-08-03,MESTO Kosice,-80.0,"Odoslaná platba elektronicky, MESTO Kosice - Spravne poplatky",,"Modri, Most-Hid",PS
+15673,2023-08-03,20230075,-11592.0,"Odoslaná platba elektronicky, f-production - Fotograficke prace",,"Modri, Most-Hid",PS
+15674,2023-08-03,,-328.5,"Transakcia platobnou kartou, Suma: 328,5 EUR 01.08.2023 Miesto: SELFSTORAGE,BA,TURBINO BRATISLAVA","VS: 205000214
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15675,2023-08-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15676,2023-08-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15677,2023-08-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000214
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15678,2023-08-03,,-52.07,"Transakcia platobnou kartou, Suma: 52,07 EUR 01.08.2023 Miesto: Google GSUITE_modri.sk Dublin","VS: 205000214
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15679,2023-08-03,,-328.5,"Transakcia platobnou kartou, Suma: 328,5 EUR 01.08.2023 Miesto: SELFSTORAGE,BA,TURBINO BRATISLAVA","VS: 205000214
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15669,2023-08-03,"NAPOLI GLASS RECYCLING, s.r.o.",-662.89,"Odoslaná platba elektronicky, NAPOLI GLASS RECYCLING - Ubytovanie kampan Presov",VS: 20230088,"Modri, Most-Hid",PS
+15681,2023-08-02,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.08.2023","VS: 297000213
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15680,2023-08-02,,-259.0,"Transakcia platobnou kartou, Suma: 259 EUR 01.08.2023 Miesto: Microsoft*Store msbill.info","VS: 205000213
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15683,2023-08-01,"Mgr. Martina Banasova, notar",-45.89,"Odoslaná platba elektronicky, Mgr. Martina Banasova - Notar",VS: 20230056,"Modri, Most-Hid",PS
+15684,2023-08-01,DATAHOUSE a. s.,-1530.0,"Odoslaná platba elektronicky, DATAHOUSE a. s. - ubytovanie kampan",VS: 2023000292,"Modri, Most-Hid",PS
+15685,2023-08-01,,0.1,"Kartové transakcie - úhrada, Suma: ,1 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 206000212
+ŠS: 3300205438
+KS: 1176","Modri, Most-Hid",PS
+15701,2023-07-31,,-150.8,"Transakcia platobnou kartou, Suma: 150,8 EUR 28.07.2023 Miesto: ELEKTRO DATART BRATISLAVA","VS: 205000210
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15700,2023-07-31,,-4.58,"Transakcia platobnou kartou, Suma: 4,58 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 205000210
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15699,2023-07-31,,-34.0,"Transakcia platobnou kartou, Suma: 34 EUR 30.07.2023 Miesto: FACEBK N767ASKHG2 fb.me/ads","VS: 205000211
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15698,2023-07-31,,-0.1,"Transakcia platobnou kartou, Suma: ,1 EUR 28.07.2023 Miesto: Polyfazer Praha 4","VS: 205000210
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15697,2023-07-31,,-6.0,"Poplatok platobné karty, Miesto: DEBIT GOLD MC DEBETNA CL Suma: 6 EUR 28.07.2023","VS: 295000209
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15694,2023-07-31,,-864.0,"Transakcia platobnou kartou, Suma: 864 EUR 28.07.2023 Miesto: FACEBK *BX4E9S7HU2 fb.me/ads","VS: 205000210
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15695,2023-07-31,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.07.2023","VS: 297000211
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15696,2023-07-31,Service Fees,-14.0,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 14,00, Za transakcie: 0,00, 9 x prijaté platby: 0,00, 17 x debet - elektronicky: 0,00",,"Modri, Most-Hid",PS
+15693,2023-07-31,Osst s.r.o.,-686.4,"Odoslaná platba elektronicky, Osst s.r.o. - Pop-up prebal na prezentacne stoliky",VS: 2162023,"Modri, Most-Hid",PS
+15691,2023-07-31,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15690,2023-07-31,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15689,2023-07-31,,-15000.0,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety (oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800006,"Modri, Most-Hid",PS
+15688,2023-07-31,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15687,2023-07-31,"QEX, a.s.",-34526.8,"Odoslaná platba elektronicky, QEX, a.s. prenajom OOH",VS: 238000025,"Modri, Most-Hid",PS
+15686,2023-07-31,"EOSNEBOTRA,A.S.",50000.0,"Prijatá platba, Dar pre Modri, M ost-Hid od EOSNEBOTRA","VS: 0
+ŠS: 0","Modri, Most-Hid",PS
+15692,2023-07-31,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 28.07.2023","VS: 297000210
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15702,2023-07-26,"RSC reklama, s.r.o. reklamna plachta na medialnu stenu",-582.0,"Odoslaná platba elektronicky, RSC reklama s.r",VS: 1020230501,"Modri, Most-Hid",PS
+15703,2023-07-26,,-10195.2,"Odoslaná platba elektronicky, JB MEDIA s.r.o. - Produkcne sluzby","VS: 20230064
+ŠS: 0308","Modri, Most-Hid",PS
+15704,2023-07-25,"TOMINO, s.r.o.",-748.8,"Odoslaná platba elektronicky, TOMINO, s.r.o. - reklamny textil s potlacou",VS: 23010060,"Modri, Most-Hid",PS
+15705,2023-07-25,Green Olive s.r.o.,-1500.0,"Odoslaná platba elektronicky, Green Olive s.r.o. - sprava soc. sieti a monitoring medii",VS: 20230601,"Modri, Most-Hid",PS
+15706,2023-07-25,"QEX, a.s.",-35000.0,"Odoslaná platba elektronicky, QEX, a.s. prenajom OOH",VS: 238000025,"Modri, Most-Hid",PS
+15707,2023-07-25,IDEAMEDIA s. r. o.,-18992.41,"Odoslaná platba elektronicky, IDEAMEDIA s. r. o. - online kampan 06-2023",VS: 230190,"Modri, Most-Hid",PS
+15710,2023-07-24,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.07.2023","VS: 297000203
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15708,2023-07-24,COGITANS s.r.o.,10000.0,"Prijatá platba, DAR - kampan",,"Modri, Most-Hid",PS
+15709,2023-07-24,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.07.2023 Miesto: FACEBK *763T2S7HU2 fb.me/ads","VS: 205000203
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15711,2023-07-21,i + i pront spol. s r.o.,-1358.0,"Odoslaná platba elektronicky, i + i print - tlac foldrov","VS: 2023070018
+KS: 0308","Modri, Most-Hid",PS
+15712,2023-07-20,,-34.28,"Transakcia platobnou kartou, Suma: 34,28 EUR 18.07.2023 Miesto: FACEBK *X6AZRTFHG2 fb.me/ads","VS: 205000201
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15713,2023-07-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.07.2023","VS: 297000201
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15714,2023-07-20,"BARUX, s.r.o.",-1140.72,"Odoslaná platba elektronicky, BARUX, s.r.o. uhrada FA za graficke sluzby",VS: 20230121,"Modri, Most-Hid",PS
+15715,2023-07-19,Mgr. Michal Bizon,-2000.0,"Odoslaná platba elektronicky, Mgr. Michal Bizon - kupa s.r.o. v zmysle zmluvy o prevode obchodneho podielu",,"Modri, Most-Hid",PS
+15716,2023-07-19,COGITANS s.r.o.,30000.0,"Prijatá platba, DAR - kampan",,"Modri, Most-Hid",PS
+15717,2023-07-18,Tomas Staffa,5000.0,"Prijatá platba, Tomas Staffa, dar na zaklade darovacej zmluvy",,"Modri, Most-Hid",PS
+15718,2023-07-17,,-85.08,"Transakcia platobnou kartou, Suma: 85,08 EUR 15.07.2023 Miesto: FACEBK *R9D5ARFHU2 fb.me/ads","VS: 205000196
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15719,2023-07-17,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.07.2023","VS: 297000196
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15720,2023-07-17,Filip Jamriska,10000.0,"Prijatá platba, Dar",,"Modri, Most-Hid",PS
+15725,2023-07-14,,-420.0,"Transakcia platobnou kartou, Suma: 420 EUR 13.07.2023 Miesto: FACEBK *235KSRTGU2 fb.me/ads","VS: 205000194
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15724,2023-07-14,,-34.0,"Transakcia platobnou kartou, Suma: 34 EUR 12.07.2023 Miesto: FACEBK V2R6SRTHG2 fb.me/ads","VS: 205000194
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15723,2023-07-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.07.2023","VS: 297000194
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15722,2023-07-14,Gabriel Steiner ml.,20000.0,"Prijatá platba, dar",,"Modri, Most-Hid",PS
+15721,2023-07-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.07.2023","VS: 297000194
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15726,2023-07-11,"ELSAM, s.r.o.",-4608.82,"Odoslaná platba elektronicky, ELSAM, s.r.o. osvetlenie miestnosti pre tlacove konferencie, elektroinstalacne prace",VS: 0742023,"Modri, Most-Hid",PS
+15727,2023-07-11,"4.0, s.r.o.",-3720.0,"Odoslaná platba elektronicky, 4.0, s.r.o. tvorba ofine - OOH kampane",VS: 3230036,"Modri, Most-Hid",PS
+15728,2023-07-11,"OTTO BACH, s. r. o.",10000.0,"Prijatá platba, ",VS: 20230705,"Modri, Most-Hid",PS
+15729,2023-07-10,,-270.0,"Transakcia platobnou kartou, Suma: 270 EUR 08.07.2023 Miesto: FACEBK *6KYEPRPGU2 fb.me/ads","VS: 205000189
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15730,2023-07-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.07.2023","VS: 297000189
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15731,2023-07-10,,-5064.0,"Odoslaná platba elektronicky, 4.0, s.r.o. tvorba video reklamnej kampane",VS: 3230035,"Modri, Most-Hid",PS
+15732,2023-07-10,,-28800.0,"Odoslaná platba elektronicky, QEX, a.s. prenajom big boardov",VS: 238000023,"Modri, Most-Hid",PS
+15733,2023-07-10,,-106984.58,"Odoslaná platba elektronicky, AT Group, s.r.o. reklamne predmety (oblecenie, stany, rollupy, medialne steny a pod.)",VS: 230800004,"Modri, Most-Hid",PS
+15734,2023-07-10,Patrik Ando,100000.0,"Prijatá platba, Pozicka",,"Modri, Most-Hid",PS
+15735,2023-07-07,,-270.0,"Transakcia platobnou kartou, Suma: 270 EUR 05.07.2023 Miesto: FACEBK *97MZMQKHU2 fb.me/ads","VS: 205000187
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15736,2023-07-07,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 05.07.2023","VS: 297000187
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15737,2023-07-06,"HUGO BACH, s. r. o.",30000.0,"Prijatá platba, ",VS: 20230704,"Modri, Most-Hid",PS
+15739,2023-07-03,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 01.07.2023","VS: 297000183
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15738,2023-07-03,,-270.0,"Transakcia platobnou kartou, Suma: 270 EUR 01.07.2023 Miesto: FACEBK *ZL7ZER7HU2 fb.me/ads","VS: 205000183
+ŠS: 3300205438
+KS: 0608","Modri, Most-Hid",PS
+15740,2023-06-30,"MAGISTER-Presov, spol. s r..o.",-306.0,"Odoslaná platba elektronicky, MAGISTER-Presov, spol. s r.o. - Obcerstvenie PKO Presov","VS: 10230224
+KS: 0008","Modri, Most-Hid",PS
+15741,2023-06-29,,-17000.0,"Odoslaná platba elektronicky, Modri, Most - Hid uhrada kaucie volby NRSR 2023",VS: 55393543,"Modri, Most-Hid",PS
+15742,2023-06-29,,-50.0,"Poplatok platobné karty, Miesto: EXPRESNE VYDANIE KARTY Suma: 50 EUR 25.06.2023","VS: 298000179
+ŠS: 3300205438
+KS: 6898","Modri, Most-Hid",PS
+15743,2023-06-29,"TALLUS, spol. s r.o.",-671.04,"Odoslaná platba elektronicky, TALLUS, spol. s r.o. Graficke spracovanie a tlac propagacnych materialov",VS: 2592023,"Modri, Most-Hid",PS
+15744,2023-06-29,"TALLUS, spol. s r.o.",-103.91,"Odoslaná platba elektronicky, TALLUS, spol. s r.o. Graficke spracovanie a tlac propagacnych materialov",VS: 2602023,"Modri, Most-Hid",PS
+15746,2023-06-28,Park kultury a oddychu - Presov,-760.25,"Odoslaná platba elektronicky, UFA 1582023",VS: 1582023,"Modri, Most-Hid",PS
+15747,2023-06-27,IDEAMEDIA s. r. o.,-94557.84,"Odoslaná platba elektronicky, UPF 33230001",VS: 33230001,"Modri, Most-Hid",PS
+15748,2023-06-26,"QEX, a.s.",-92702.4,"Odoslaná platba elektronicky, ","VS: 238000021
+KS: 0308","Modri, Most-Hid",PS
+15749,2023-06-26,Patrik Ando,100000.0,"Prijatá platba, Pozicka",,"Modri, Most-Hid",PS
+15751,2023-06-22,Michal Hort,15000.0,"Prijatá platba, Michal Hort, dar",,"Modri, Most-Hid",PS
+15752,2023-06-21,Michal Hort,35000.0,"Prijatá platba, Michal Hort dar",,"Modri, Most-Hid",PS
+15753,2023-06-12,Michal Hort,200.0,"Prijatá platba, Michal Hort",,"Modri, Most-Hid",PS

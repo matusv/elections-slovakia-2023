@@ -1,0 +1,739 @@
+index,date,account_name,amount,message,vs,name,label
+10135,2023-10-31,,-5.0,Zverejňovanie účtu,,SNS,PS
+10137,2023-10-31,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10136,2023-10-31,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10138,2023-10-19,Mesto Turzovka,-83.0,ostatné náklady,83.0,SNS,PS
+10139,2023-10-13,Finančné riaditeľstvo Slovenskej republiky,-208.17,DPH za september 2023,1100092023.0,SNS,PS
+10140,2023-10-13,"FAB Co, s.r.o.",-179.4,ostatne naklady,2300265.0,SNS,PS
+10141,2023-10-12,"RGB Liptov, s.r.o.",-38.92,reklamne plochy,20230974.0,SNS,PS
+10142,2023-10-12,"FAB Co, s.r.o.",-744.95,ostatne naklady,2300230.0,SNS,PS
+10143,2023-10-12,OBEC Belá - Dulice,-25.5,ostatné náklady,16.0,SNS,PS
+10144,2023-10-12,"SLOVNAFT, a.s.",-950.52,cestovné výdavky,3081953585.0,SNS,PS
+10148,2023-10-10,"IGLI design, s.r.o.",-740.4,reklamne plochy,20230146.0,SNS,PS
+10151,2023-10-10,Ing. Jaroslav Žalúdek - LIGNUM,-60.0,ostatné náklady,23038.0,SNS,PS
+10149,2023-10-10,Obec Kysucký Lieskovec,-11.0,reklamne plochy,22023.0,SNS,PS
+10150,2023-10-10,Obec Liptovské Sliače,-58.2,ostatné náklady,522023.0,SNS,PS
+10147,2023-10-10,"Nábytok Prešov, a.s.",-600.0,reklamne plochy,1223421.0,SNS,PS
+10146,2023-10-10,EKOELEKTRIK s.r.o.,-45.9,ostatné náklady,350115.0,SNS,PS
+10145,2023-10-10,Zábavnýn svet Enriko,-800.0,ostatné náklady,202311.0,SNS,PS
+10152,2023-10-09,"RENT2B, s.r.o",-768.0,reklamne plochy,23200287.0,SNS,PS
+10153,2023-10-09,"VERBINA, o.z.",-1000.0,inzercia,230900003.0,SNS,PS
+10154,2023-10-06,Dávid Hricišák,-61.0,reklamne plochy,2023001.0,SNS,PS
+10155,2023-10-06,Obec Lubochňa,-87.5,ostatné náklady,2023.0,SNS,PS
+10156,2023-10-05,Ing. Zdenko Čopák - RETURN,-892.8,ostatné náklady,20230059.0,SNS,PS
+10157,2023-10-05,Verejnoprospešné služby Liptovský Mikuláš,-87.1,reklamne plochy,2023021645.0,SNS,PS
+10158,2023-10-05,"Smart Personal Services, s.r.o.",-120.0,ostatné náklady,202309002.0,SNS,PS
+10166,2023-10-04,"Halo media, s.r.o.",-396.0,inzercia,20230058.0,SNS,PS
+10171,2023-10-04,Obec Spišské Bystré,-41.0,ostatné náklady,2023011.0,SNS,PS
+10170,2023-10-04,Mesto Prešov,-3.52,ostatne naklady,,SNS,PS
+10169,2023-10-04,Bc. Mgr. Ján Svrček,-2.0,reklamne plochy,623.0,SNS,PS
+10168,2023-10-04,Obec Kamenica nad Cirochou,-40.0,ostatné náklady,202334.0,SNS,PS
+10167,2023-10-04,Obec Ľubotice,-20.0,rozhlasove sluzby,2023144.0,SNS,PS
+10159,2023-10-04,Mestské kultúrno-športové stredisko,-30.0,ostatné náklady,1316300118.0,SNS,PS
+10165,2023-10-04,"Petit Press, a.s. divízia týždenníkov, o.z.",-271.2,inzercia,2335110113.0,SNS,PS
+10163,2023-10-04,"Petit Press, a.s. divízia týždenníkov, o.z.",-300.0,inzercia,2335110113.0,SNS,PS
+10162,2023-10-04,Obec Horný Vadičov,-90.0,ostatné náklady,2023008.0,SNS,PS
+10161,2023-10-04,"REGIONPRESS, s.r.o.",-838.2,inzercia,586230173.0,SNS,PS
+10160,2023-10-04,"OLLE, s.r.o.",-2388.0,inzercia,202380532.0,SNS,PS
+10164,2023-10-04,"LESY Slovenskej republiky, štátny podnik",-100.0,ostatné náklady,521045103.0,SNS,PS
+10172,2023-09-30,,-5.0,Zverejňovanie účtu,,SNS,PS
+10173,2023-09-30,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10174,2023-09-30,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10176,2023-09-29,"Excel Media Group, s.r.o.",-2400.0,inzercia,230184.0,SNS,PS
+10175,2023-09-29,"Tlačiareň Kubík, s.r.o.",-594.0,ostatné náklady,230101293.0,SNS,PS
+10184,2023-09-28,"Amavera, s.r.o.",-54.0,inzercia,20230025.0,SNS,PS
+10191,2023-09-28,Ministerstvo vnútra Slovenskej republiky,-45.0,ostatne naklady,3060114881.0,SNS,PS
+10189,2023-09-28,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10188,2023-09-28,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10187,2023-09-28,,-320.0,"B1629695604-44544 17** **** 9943;FACEBK S8QDQU3PP2 ,fb.me/ads ,IE ;27.09.2023 08:14:49 ;CashBack:0 EUR",,SNS,PS
+10186,2023-09-28,Ministerstvo vnútra Slovenskej republiky,-15.0,ostatné náklady,3060114882.0,SNS,PS
+10185,2023-09-28,Obec Brusno,-24.0,ostatné náklady,110.0,SNS,PS
+10190,2023-09-28,,-23.84,"B1629833514-44544 17** **** 9943;FACEBK XJL4HUPNP2 ,fb.me/ads ,IE ;27.09.2023 21:12:50 ;CashBack:0 EUR",,SNS,PS
+10183,2023-09-28,"TigerPrint, s.r.o.",-104.4,ostatné náklady,20230638.0,SNS,PS
+10181,2023-09-28,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10180,2023-09-28,,-210.0,"B1628929531-44544 17** **** 9943;FACEBK 4BH7HUFPP2 ,fb.me/ads ,IE ;26.09.2023 11:04:08 ;CashBack:0 EUR",,SNS,PS
+10179,2023-09-28,"Amavera, s.r.o.",-120.0,inzercia,20230031.0,SNS,PS
+10178,2023-09-28,ReFABRIKAs.r.o,-846.0,ostatné náklady,23090010.0,SNS,PS
+10177,2023-09-28,"TORYSA plus, s.r.o.",-50.0,ostatné náklady,230097.0,SNS,PS
+10182,2023-09-28,"Vecos.eu, s.r.o.",-129.6,inzercia,20231364.0,SNS,PS
+10267,2023-09-27,Obec ŠIROKÉ,-8.0,rozhlasove sluzby,2023151.0,SNS,PS
+10263,2023-09-27,"Tlačiareň MERKUR, s.r.o.",-1848.0,ostatné náklady,23450.0,SNS,PS
+10264,2023-09-27,Obec/Mesto Hranovnica,-10.0,rozhlasove sluzby,572023.0,SNS,PS
+10265,2023-09-27,Obec Nedožery-Brezany,-15.0,rozhlasove sluzby,272023.0,SNS,PS
+10266,2023-09-27,Obec Lazany,-10.0,rozhlasove sluzby,522023.0,SNS,PS
+10271,2023-09-27,Obec Suchá Hora,-6.0,rozhlasove sluzby,2023007.0,SNS,PS
+10268,2023-09-27,Obec Pravenec,-6.6,rozhlasove sluzby,20230005.0,SNS,PS
+10269,2023-09-27,Obec Kravany,-6.0,rozhlasove sluzby,182023.0,SNS,PS
+10270,2023-09-27,Obec Zemianske Kostoľany,-7.5,rozhlasove sluzby,20230089.0,SNS,PS
+10261,2023-09-27,Obec Podhradník,-12.0,rozhlasove sluzby,20230004.0,SNS,PS
+10272,2023-09-27,"SPOLOČNÍK, s.r.o.",-200.0,inzercia,1712023.0,SNS,PS
+10262,2023-09-27,Obec Vyšná Šebastová,-12.0,rozhlasove sluzby,22023.0,SNS,PS
+10258,2023-09-27,Obec Hruštín,-21.0,rozhlasove sluzby,2023000029.0,SNS,PS
+10260,2023-09-27,Obec Batizovce,-14.0,rozhlasove sluzby,12.0,SNS,PS
+10259,2023-09-27,Obec Hendrichovce,-16.0,rozhlasove sluzby,2023011.0,SNS,PS
+10274,2023-09-27,"StillRide, s.r.o.",-78.83,ostatné náklady,20230024.0,SNS,PS
+10257,2023-09-27,Obec Sklené,-21.0,ostatné náklady,32023.0,SNS,PS
+10256,2023-09-27,Obec Ľubotice,-20.0,rozhlasove sluzby,2023141.0,SNS,PS
+10255,2023-09-27,Obec Fintice,-20.0,rozhlasove sluzby,23030.0,SNS,PS
+10254,2023-09-27,"TOP production SK, s.r.o.",-25.0,reklamne plochy,2023051.0,SNS,PS
+10253,2023-09-27,Obec Liptovská Štiavnica,-54.0,ostatné náklady,562023.0,SNS,PS
+10252,2023-09-27,Obec Málinec,-30.0,ostatné náklady,3742023.0,SNS,PS
+10251,2023-09-27,SLOVENSKA NARODNA STRANA,8900.0,PREVOD NA VOLBY NR SR 2023 Z BU SNS,,SNS,PS
+10250,2023-09-27,Tatiana Bokšajová - U SUSEDA,-380.0,ostatné náklady,230003.0,SNS,PS
+10249,2023-09-27,Peter Beťko - CRO MAGS,-300.0,reklamne plochy,2023071.0,SNS,PS
+10273,2023-09-27,"LE-KO stav, s.r.o.",-6.0,reklamne plochy,20230028.0,SNS,PS
+10278,2023-09-27,"LAWART, s.r.o.",-53.6,ostatné náklady,2023019.0,SNS,PS
+10275,2023-09-27,Mestské kultúrne stredisko v Sabinove,-12.0,rozhlasove sluzby,1117300155.0,SNS,PS
+10290,2023-09-27,"PRINTON, s.r.o.",-1050.0,ostatné náklady,230714.0,SNS,PS
+10247,2023-09-27,"Tlačiareň MERKUR, s.r.o.",-96.0,ostatné náklady,23391.0,SNS,PS
+10300,2023-09-27,Jozef Jendrašík,-400.0,reklamne plochy,23001.0,SNS,PS
+10299,2023-09-27,"Amavera, s.r.o.",-480.0,inzercia,20230036.0,SNS,PS
+10298,2023-09-27,Marek Dzurica - BelMar,-960.0,ostatné náklady,230091.0,SNS,PS
+10297,2023-09-27,Obec Švošov,-75.0,ostatné náklady,20235.0,SNS,PS
+10296,2023-09-27,"Tlačiareň Kubík, s.r.o.",-12.0,ostatné náklady,230101040.0,SNS,PS
+10295,2023-09-27,"Tlačiareň Kubík, s.r.o.",-594.0,ostatné náklady,230101230.0,SNS,PS
+10294,2023-09-27,"RM - CAR SERVIS, s.r.o.",-300.0,ostatné náklady,20233073.0,SNS,PS
+10293,2023-09-27,Miroslav Bartoš - agentúra VŠEHOMÍR,-200.0,rozhlasove sluzby,723.0,SNS,PS
+10292,2023-09-27,"REGIONPRESS, s.r.o.",-978.0,inzercia,586230191.0,SNS,PS
+10291,2023-09-27,Marek Dzurica - BelMar,-360.0,ostatné náklady,230093.0,SNS,PS
+10289,2023-09-27,"BEST MEDIA, spol. s.r.o.",-150.0,ostatné náklady,20230166.0,SNS,PS
+10276,2023-09-27,Kameniczki LLC,-835.6,,,SNS,PS
+10288,2023-09-27,"CORETA, a.s.",-450.0,ostatné náklady,230680.0,SNS,PS
+10287,2023-09-27,"ALTOM Reklama, s.ro.",-36.0,ostatné náklady,23221178.0,SNS,PS
+10286,2023-09-27,"TATRY TRADING, s.r.o.",-250.0,ostatné náklady,23111.0,SNS,PS
+10285,2023-09-27,"BEST MEDIA, spol. s.r.o.",-472.82,reklamné plochy,20230158.0,SNS,PS
+10284,2023-09-27,"BEST MEDIA, spol. s.r.o.",-450.0,ostatné náklady,20230165.0,SNS,PS
+10283,2023-09-27,"BEST MEDIA, spol. s.r.o.",-523.86,ostatné náklady,20230152.0,SNS,PS
+10282,2023-09-27,"HRUSINO, s.r.o.",-220.8,reklamne plochy,1732023.0,SNS,PS
+10281,2023-09-27,"HRUSINO, s.r.o.",-198.0,reklamne plochy,1752023.0,SNS,PS
+10280,2023-09-27,Ing. Štefan Kysel,-50.0,reklamné plochy,23021.0,SNS,PS
+10279,2023-09-27,"68, s.r.o.",-250.0,ostatné náklady,23092501.0,SNS,PS
+10277,2023-09-27,"ROVEN Rožňava, s.r.o.",-427.44,ostatné náklady,2023333.0,SNS,PS
+10248,2023-09-27,RenMark spol. s.r.o.,-393.0,ostatné náklady,2023168116.0,SNS,PS
+10235,2023-09-27,Mestské kultúrne stredisko Rimavská Sobota,-150.0,ostatné náklady,2023169.0,SNS,PS
+10246,2023-09-27,Pavol Sivák - PONO PRESS,-200.0,inzercia,230100233.0,SNS,PS
+10218,2023-09-27,OBEC VELIČNÁ,-121.0,ostatné náklady,2023031.0,SNS,PS
+10216,2023-09-27,"BEST MEDIA, spol. s.r.o.",-300.02,ostatné náklady,20230161.0,SNS,PS
+10215,2023-09-27,"TigerPrint, s.r.o.",-316.8,ostatné náklady,20230877.0,SNS,PS
+10214,2023-09-27,"ROVEN Rožňava, s.r.o.",-1478.4,ostatné náklady,2023330.0,SNS,PS
+10213,2023-09-27,"MiK a Finans, s.r.o.",-3006.0,ostatné náklady,2023001.0,SNS,PS
+10212,2023-09-27,"Amavera, s.r.o.",-2700.0,inzercia,20230028.0,SNS,PS
+10211,2023-09-27,"Amavera, s.r.o.",-3900.0,inzercia,20230020.0,SNS,PS
+10210,2023-09-27,"Amavera, s.r.o.",-180.0,inzercia,20230034.0,SNS,PS
+10209,2023-09-27,"Amavera, s.r.o.",-3540.0,inzercia,20230033.0,SNS,PS
+10208,2023-09-27,Ing. Štefan Kysel,-2201.0,ostatné náklady,23020.0,SNS,PS
+10207,2023-09-27,Mesto Tisovec,-450.0,ostatné náklady,230039.0,SNS,PS
+10206,2023-09-27,"ISPA, spol. s.r.o.",-60.0,reklamny priestor,20234058.0,SNS,PS
+10205,2023-09-27,Obec Zakamenné,-50.0,ostatné náklady,1314300039.0,SNS,PS
+10204,2023-09-27,"Záhorák, s.r.o.",-672.0,inzercia,23250.0,SNS,PS
+10203,2023-09-27,Obec Zborov nad Bystricou,-74.0,ostatné náklady,312023.0,SNS,PS
+10245,2023-09-27,"TigerPrint, s.r.o.",-360.0,ostatné náklady,20230802.0,SNS,PS
+10201,2023-09-27,Obec Nová Bystrica,-45.0,ostatné náklady,118023.0,SNS,PS
+10200,2023-09-27,LIMAT Maroš Lištiak,-50.0,ostatné náklady,2301182.0,SNS,PS
+10199,2023-09-27,Obec Kysucký Lieskovec,-52.0,ostatné náklady,2023026.0,SNS,PS
+10198,2023-09-27,Obec Ochodnica,-70.0,ostatné náklady,202023.0,SNS,PS
+10197,2023-09-27,Obec Lieskovec,-60.0,ostatné náklady,2023005.0,SNS,PS
+10196,2023-09-27,Obec/Mesto Michalová,-56.0,ostatné náklady,1082023.0,SNS,PS
+10195,2023-09-27,"Kultúrny dom Andreja Hlinku, a.s.",-860.0,ostatné náklady,2300027.0,SNS,PS
+10194,2023-09-27,Mesto Rožňava,-154.8,ostatné náklady,1500028662.0,SNS,PS
+10193,2023-09-27,Obec Liesek,-90.0,ostatné náklady,10.0,SNS,PS
+10192,2023-09-27,Mgr. Mária Greňová - maja kreativ,-51.12,reklamne plochy,2023168.0,SNS,PS
+10217,2023-09-27,Mestský dom kultúry,-260.0,ostatné náklady,1115300034.0,SNS,PS
+10202,2023-09-27,Obec Ochodnica,-70.0,ostatné náklady,202023.0,SNS,PS
+10219,2023-09-27,"ESOLINE FASHION, s.r.o.",-420.0,reklamne plochy,20230901.0,SNS,PS
+10232,2023-09-27,Mesto Lučenec,-15.7,rozhlasove sluzby,20230195.0,SNS,PS
+10244,2023-09-27,"TigerPrint, s.r.o.",-150.0,ostatné náklady,20230751.0,SNS,PS
+10220,2023-09-27,Mesto Lučenec,-350.0,ostatné náklady,20230193.0,SNS,PS
+10243,2023-09-27,Obec Veľké Kostoľany,-255.0,ostatné náklady,2552023.0,SNS,PS
+10242,2023-09-27,"Kultúrny dom Andreja Hlinku, a.s.",-100.0,ostatné náklady,23000310.0,SNS,PS
+10241,2023-09-27,"Grafon, s.r.o.",-992.46,reklamne plochy,6231714.0,SNS,PS
+10240,2023-09-27,"VÝŠKOP, s.r.o.",-540.0,reklamne plochy,2023050.0,SNS,PS
+10238,2023-09-27,Mesto Vráble,-200.0,ostatné náklady,20230072.0,SNS,PS
+10237,2023-09-27,Obec Olešná,-109.0,ostatne naklady,1020230029.0,SNS,PS
+10236,2023-09-27,Obec Čierne,-121.0,ostatné náklady,12043.0,SNS,PS
+10234,2023-09-27,"Podnik technických služieb mesta, s.r.o.",-240.0,ostatné náklady,2370319.0,SNS,PS
+10233,2023-09-27,"ARTHAS, s.r.o.",-1615.0,ostatné náklady,2023024.0,SNS,PS
+10239,2023-09-27,Obec Terchová,-300.0,ostatné náklady,9112300123.0,SNS,PS
+10231,2023-09-27,Mesto Svit,-300.0,ostatné náklady,9112300109.0,SNS,PS
+10226,2023-09-27,"VYPI, s.r.o.",-177.1,ostatné náklady,230522.0,SNS,PS
+10222,2023-09-27,Juraj Štefúň - GEORG,-1920.0,ostatné náklady,202309013.0,SNS,PS
+10230,2023-09-27,Obec Horná Štubňa,-146.0,ostatné náklady,212023.0,SNS,PS
+10223,2023-09-27,SLOV NARODNA STRANA,55000.0,prevod na volby NR SR 2023 z BU SNS,422023.0,SNS,PS
+10225,2023-09-27,"IMAGE Marketing, s.r.o.",-924.0,ostatné náklady,20230185.0,SNS,PS
+10224,2023-09-27,"impresio, s.r.o.",-1798.0,ostatné náklady,23004.0,SNS,PS
+10227,2023-09-27,"BOAN pneu, s.r.o.",-252.0,reklamne plochy,10230347.0,SNS,PS
+10228,2023-09-27,Obec Rudina,-210.0,ostatné náklady,2023000032.0,SNS,PS
+10229,2023-09-27,Marek Kevežda - KEMA TRANS,-828.0,reklamne plochy,20230665.0,SNS,PS
+10221,2023-09-27,"TigerPrint, s.r.o.",-26.4,ostatné náklady,20230803.0,SNS,PS
+10351,2023-09-26,"GRAFPRINT, s.r.o.",-38.4,ostatné náklady,423269.0,SNS,PS
+10344,2023-09-26,Róbert Kucmen Method Design Studio,-84.0,ostatné náklady,2023048.0,SNS,PS
+10350,2023-09-26,,-140.0,"B1628203355-44544 17** **** 9943;FACEBK UTHBNU3PP2 ,fb.me/ads ,IE ;25.09.2023 12:42:05 ;CashBack:0 EUR",,SNS,PS
+10348,2023-09-26,"TigerPrint, s.r.o.",-2036.4,reklamne plochy,20230811.0,SNS,PS
+10347,2023-09-26,"HAVOC, s.r.o,",-360.0,ostatné náklady,20230081.0,SNS,PS
+10346,2023-09-26,"HAVOC, s.r.o,",-2916.0,ostatné náklady,20230067.0,SNS,PS
+10345,2023-09-26,"Vecos.eu, s.r.o.",-175.0,ostatné náklady,20231368.0,SNS,PS
+10340,2023-09-26,"Amavera, s.r.o.",-576.0,inzercia,20230029.0,SNS,PS
+10343,2023-09-26,"TigerPrint, s.r.o.",-768.6,ostatné náklady,202300709.0,SNS,PS
+10342,2023-09-26,"TigerPrint, s.r.o.",-360.0,ostatné náklady,20230804.0,SNS,PS
+10341,2023-09-26,Mestské stredisko kultúry a športu,-225.0,inzercia,1516300060.0,SNS,PS
+10339,2023-09-26,"Service agency, s.r.o.",-150.0,ostatné náklady,2320669.0,SNS,PS
+10338,2023-09-26,"Amavera, s.r.o.",-348.0,inzercia,20230030.0,SNS,PS
+10353,2023-09-26,LIM PO s. r. o.,-350.0,reklamne plochy,20230753.0,SNS,PS
+10337,2023-09-26,"TigerPrint, s.r.o.",-26.4,ostatné náklady,20230807.0,SNS,PS
+10352,2023-09-26,"BADAM CREATIVE, s.r.o.",-8160.0,ostatné náklady,20231223.0,SNS,PS
+10365,2023-09-26,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10354,2023-09-26,"Vecos.eu, s.r.o.",-390.0,ostatné náklady,20231362.0,SNS,PS
+10363,2023-09-26,"Tlačiareň a vydavateľstvo SLZA, spol. s.r.o. Popra",-56.4,h) ostatne naklady,,SNS,PS
+10335,2023-09-26,"Halo media, s.r.o.",-528.0,inzercia,20230051.0,SNS,PS
+10369,2023-09-26,Obec Chrenovec - Brusno,-6.0,rozhlasove sluzby,1662023.0,SNS,PS
+10368,2023-09-26,MsKS Sliač,-100.0,,1211300022.0,SNS,PS
+10367,2023-09-26,"HOTEL SLOVAN SERVIS, s.r.o.",-180.0,ostatné náklady,20230136.0,SNS,PS
+10366,2023-09-26,"JVplusAV, s.r.o.",-191.2,reklamna plocha,220230137.0,SNS,PS
+10364,2023-09-26,Róbert Kucmen - Method Design Studi,714.0,Vratena duplicitna platba,,SNS,PS
+10362,2023-09-26,"RGB Liptov, s.r.o.",-72.0,reklamne plochy,20230854.0,SNS,PS
+10355,2023-09-26,"G-SYSTEMS SLOVAKIA, s.r.o.",-26.5,ostatné náklady,23163.0,SNS,PS
+10361,2023-09-26,"ELUMI STUDIO, s.r.o.",-167.0,ostatné náklady,2023173.0,SNS,PS
+10360,2023-09-26,"ELUMI STUDIO, s.r.o.",-113.2,ostatné náklady,2023179.0,SNS,PS
+10359,2023-09-26,"PROGRUP SK, s.r.o.",-46.32,ostatné náklady,231526.0,SNS,PS
+10358,2023-09-26,"Tlačiareň Pavlovský, s.r.o.",-21.0,ostatné náklady,2023125.0,SNS,PS
+10357,2023-09-26,Dávid Hanzely - Tlačiareň,-172.8,reklamne plochy,2023386.0,SNS,PS
+10356,2023-09-26,"G-SYSTEMS SLOVAKIA, s.r.o.",-1.35,ostatné náklady,23164.0,SNS,PS
+10336,2023-09-26,"VIRA print, s.r.o.",-48.0,ostatné náklady,202300149.0,SNS,PS
+10319,2023-09-26,"PROGRUP SK, s.r.o.",-1770.0,reklamne plochy,2023050.0,SNS,PS
+10334,2023-09-26,"TRENTO, s.r.o.",-5148.0,reklamne plochy,23297.0,SNS,PS
+10308,2023-09-26,"Amavera, s.r.o.",-540.0,inzercia,20230032.0,SNS,PS
+10314,2023-09-26,"BROART plus, s.r.o.",-652.0,ostatné náklady,20230032.0,SNS,PS
+10313,2023-09-26,"BARAK SK, s.r.o.",-748.0,ostatné náklady,20230001.0,SNS,PS
+10312,2023-09-26,"SKAND Skalica, spol. s.r.o.",-3144.0,reklamne plochy,992300218.0,SNS,PS
+10311,2023-09-26,"Tlačiareň Kubík, s.r.o.",-168.0,ostatné náklady,2301001341.0,SNS,PS
+10310,2023-09-26,"BigMedia, spol. s.r.o.",-30.0,reklamné plochy,1223206770.0,SNS,PS
+10309,2023-09-26,"DMRS, s.r.o.",-756.0,ostatné náklady,20230910.0,SNS,PS
+10307,2023-09-26,"Petit Press, a.s. divízia týždenníkov, o.z.",-5040.0,inzercia,2333101782.0,SNS,PS
+10316,2023-09-26,"TigerPrint, s.r.o.",-1855.0,reklamne plochy,20230806.0,SNS,PS
+10306,2023-09-26,"Petit Press, a.s. divízia týždenníkov, o.z.",-2502.0,inzercia,2333101754.0,SNS,PS
+10305,2023-09-26,"PROPAG Slovakia, s.r.o.",-5190.0,reklamne plochy,1020230191.0,SNS,PS
+10304,2023-09-26,"BROART, s.r.o.",-3654.24,ostatné náklady,20230171.0,SNS,PS
+10303,2023-09-26,"REGIONPRESS, s.r.o.",-3877.2,inzercia,774230161.0,SNS,PS
+10302,2023-09-26,"SVK Trend, s.r.o.",-1261.0,ostatné náklady,20230901.0,SNS,PS
+10301,2023-09-26,"REGIONPRESS, s.r.o.",-1785.6,inzercia,776230441.0,SNS,PS
+10315,2023-09-26,"BROART, s.r.o.",-3453.6,ostatné náklady,20230172.0,SNS,PS
+10333,2023-09-26,"MajkoDesignStudio, s.r.o.",-150.0,inzercia,23200903.0,SNS,PS
+10317,2023-09-26,"REGIONPRESS, s.r.o.",-978.0,inzercia,584230002.0,SNS,PS
+10326,2023-09-26,"ROVEN Rožňava, s.r.o.",-648.0,ostatné náklady,2023321.0,SNS,PS
+10332,2023-09-26,"CLIENT SERVICE, s.r.o.",-321.6,reklamne plochy,10230578.0,SNS,PS
+10331,2023-09-26,"Tlačiareň Kubík, s.r.o.",-168.0,ostatné náklady,230101341.0,SNS,PS
+10330,2023-09-26,"TigerPrint, s.r.o.",-982.8,ostatné náklady,20230752.0,SNS,PS
+10329,2023-09-26,"Starski, s.r.o.",-573.6,ostatné náklady,23030367.0,SNS,PS
+10328,2023-09-26,"Amavera, s.r.o.",-264.0,inzercia,20230021.0,SNS,PS
+10327,2023-09-26,"PROGRUP SK, s.r.o.",-125.71,ostatné náklady,231473.0,SNS,PS
+10318,2023-09-26,"ARDOX SK, s.r.o.",-202.92,ostatné náklady,2023510.0,SNS,PS
+10325,2023-09-26,"MultiMedia, s.r.o.",-132.0,reklamne plochy,230900006.0,SNS,PS
+10323,2023-09-26,"NUBIUM, s.r.o.",-21.6,reklamny priestor,23096504.0,SNS,PS
+10322,2023-09-26,"TigerPrint, s.r.o.",-1803.6,ostatné náklady,20230866.0,SNS,PS
+10321,2023-09-26,"NUBIUM, s.r.o.",-24.0,reklamny priestor,23096527.0,SNS,PS
+10320,2023-09-26,"VIRA print, s.r.o.",-103.2,ostatné náklady,202300140.0,SNS,PS
+10324,2023-09-26,"BEST MEDIA, spol. s.r.o.",-141.6,ostatné náklady,20230153.0,SNS,PS
+10370,2023-09-25,SLOVENSKA NARODNA STRANA,55000.0,PREVOD NA VOLBY NR SR 2023 Z BU SNS,,SNS,PS
+10373,2023-09-23,UNIVEL spol. s.r.o.,-960.0,reklamne plochy,20230779.0,SNS,PS
+10371,2023-09-23,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10372,2023-09-23,,-150.0,"B1626211575-44544 17** **** 9943;FACEBK Z5NPBUPNP2 ,fb.me/ads ,IE ;22.09.2023 21:32:45 ;CashBack:0 EUR",,SNS,PS
+10399,2023-09-22,,-33.0,"B1625131245-44544 17** **** 9943;FACEBK BNFLBUFPP2 ,fb.me/ads ,IE ;21.09.2023 04:58:00 ;CashBack:0 EUR",,SNS,PS
+10387,2023-09-22,"PROGRUP SK, s.r.o.",-4099.02,ostatné náklady,231525.0,SNS,PS
+10397,2023-09-22,"PROGRUP SK, s.r.o.",-252.0,ostatné náklady,231543.0,SNS,PS
+10396,2023-09-22,"PROPAG Slovakia, s.r.o.",-165.6,reklamne plochy,1020230194.0,SNS,PS
+10395,2023-09-22,Rangl Erik - Reklama,-246.0,reklamne plochy,202334.0,SNS,PS
+10394,2023-09-22,Finančné riaditeľstvo Slovenskej republiky,-25.09,DPH za august 2023,1100082023.0,SNS,PS
+10393,2023-09-22,"HAVOC, s.r.o,",-666.04,ostatné náklady,20230069.0,SNS,PS
+10392,2023-09-22,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10391,2023-09-22,,-40.0,"B1625991366-44544 17** **** 9943;FACEBK RKEXAUPNP2 ,fb.me/ads ,IE ;22.09.2023 05:20:56 ;CashBack:0 EUR",,SNS,PS
+10390,2023-09-22,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10389,2023-09-22,"MAAN Reklama, s.r.o.",-457.8,ostatné náklady,20230233.0,SNS,PS
+10388,2023-09-22,,-31.0,"B1624438704-44544 17** **** 9943;FACEBK 332CXTTNP2 ,fb.me/ads ,IE ;20.09.2023 10:00:15 ;CashBack:0 EUR",,SNS,PS
+10398,2023-09-22,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10386,2023-09-22,"REGIONPRESS, s.r.o.",-2262.0,inzercia,964230101.0,SNS,PS
+10385,2023-09-22,"Petit Press, a.s. divízia týždenníkov, o.z.",-1348.8,inzercia,2333101692.0,SNS,PS
+10378,2023-09-22,Mesto Nová Baňa - informačné centrum,-570.0,inzercia,1317300188.0,SNS,PS
+10384,2023-09-22,"GMX, s.r.o.",-342.0,reklamne plochy,2023016.0,SNS,PS
+10374,2023-09-22,"ISPA, spol. s.r.o.",-714.0,reklamny priestor,23950241.0,SNS,PS
+10375,2023-09-22,"Vecos.eu, s.r.o.",-510.0,ostatné náklady,20231345.0,SNS,PS
+10376,2023-09-22,"Vecos.eu, s.r.o.",-270.0,ostatné náklady,20231346.0,SNS,PS
+10377,2023-09-22,"TigerPrint, s.r.o.",-40.45,ostatné náklady,20230856.0,SNS,PS
+10379,2023-09-22,"TRISTANPRESS, spol. s.r.o.",-347.4,ostatné náklady,2023349.0,SNS,PS
+10380,2023-09-22,"TigerPrint, s.r.o.",-86.76,ostatné náklady,20230867.0,SNS,PS
+10381,2023-09-22,"ASTINA, s.r.o.",-24.0,reklamne plochy,292023.0,SNS,PS
+10382,2023-09-22,"eXpress Drive ? Sevices, s.r.o.",-120.0,ostatné náklady,12023.0,SNS,PS
+10383,2023-09-22,"Wellen, s.r.o.",-480.0,reklamne plochy,23017.0,SNS,PS
+10402,2023-09-21,"SLOVNAFT, a.s.",-810.99,cestovné výdavky,3081946130.0,SNS,PS
+10403,2023-09-21,Park kultúry a oddychu,-1418.5,ostatné náklady,2062023.0,SNS,PS
+10401,2023-09-21,"paullartt, s.r.o.",-96.0,ostatné náklady,20230095.0,SNS,PS
+10400,2023-09-21,"paullartt, s.r.o.",-108.0,ostatné náklady,20230096.0,SNS,PS
+10405,2023-09-20,SLOV NARODNA STRANA,30000.0,prevod na volby NR SR 2023 z BU SNS,402023.0,SNS,PS
+10406,2023-09-20,"Zoznam, s.r.o.",-5940.0,inzercia,23000337.0,SNS,PS
+10408,2023-09-20,,-31.0,"B1623620455-44544 17** **** 9943;FACEBK CVDQ7UPNP2 ,fb.me/ads ,IE ;19.09.2023 06:41:54 ;CashBack:0 EUR",,SNS,PS
+10409,2023-09-20,,-31.0,"B1623622422-44544 17** **** 9943;FACEBK K8968UPNP2 ,fb.me/ads ,IE ;19.09.2023 15:58:48 ;CashBack:0 EUR",,SNS,PS
+10410,2023-09-20,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10411,2023-09-20,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10407,2023-09-20,Mesto Zlaté Moravce,-150.0,ostatné náklady,7421300191.0,SNS,PS
+10420,2023-09-19,"Petit Press, a.s. divízia týždenníkov, o.z.",-216.0,inzercia,2333101757.0,SNS,PS
+10427,2023-09-19,,-0.25,Poplatok za platbu kartou,,SNS,PS
+10426,2023-09-19,,-31.0,"B1623493416-44544 17** **** 9943;FACEBK EVP9EVKPP2 ,fb.me/ads ,IE ;18.09.2023 20:20:18 ;CashBack:0 EUR",,SNS,PS
+10425,2023-09-19,"KKFOL, s.r.o.",-720.0,reklamne plochy,10230090.0,SNS,PS
+10424,2023-09-19,"Podtatranský kuriér, s.r.o.",-3000.0,inzercia,230004.0,SNS,PS
+10423,2023-09-19,"Abkais, s.r.o.",-116.6,ostatné náklady,230428.0,SNS,PS
+10422,2023-09-19,"Tlačiareň Kežmarok GG, s.r.o.",-196.92,ostatné náklady,20231264.0,SNS,PS
+10421,2023-09-19,"TigerPrint, s.r.o.",-72.0,ostatné náklady,20230851.0,SNS,PS
+10419,2023-09-19,"Red Post, s.r.o",-1387.2,ostatné náklady,2023043.0,SNS,PS
+10414,2023-09-19,Róbert Kucmen Method Design Studio,-714.0,ostatné náklady,2023040.0,SNS,PS
+10412,2023-09-19,Lenka Zlatev,-500.0,inzercia,2023004.0,SNS,PS
+10413,2023-09-19,"FPD Media, a.s.",-5490.0,inzercia,51300727.0,SNS,PS
+10418,2023-09-19,Expresta s.r.o.,-1060.21,ostatné náklady,41255138.0,SNS,PS
+10415,2023-09-19,"Záhorák, s.r.o.",-1344.0,inzercia,23237.0,SNS,PS
+10417,2023-09-19,"Red Post, s.r.o",-1576.9,ostatné náklady,2023047.0,SNS,PS
+10416,2023-09-19,"TigerPrint, s.r.o.",-120.0,ostatné náklady,20230847.0,SNS,PS
+10429,2023-09-18,SLOV NARODNA STRANA,5000.0,prevod na volby NR SR 2023 z BU SNS,392023.0,SNS,PS
+10430,2023-09-14,Viera Mrázová - VR Comp Media,-119.0,ostatné náklady,2300041.0,SNS,PS
+10431,2023-09-14,Róbert Kucmen Method Design Studio,-714.0,ostatné náklady,2023040.0,SNS,PS
+10432,2023-09-14,SLOV NARODNA STRANA,5000.0,prevod na volby NR SR 2023 z BU SNS,382023.0,SNS,PS
+10433,2023-09-14,"Grafon, s.r.o.",-97.37,ostatné náklady,6231731.0,SNS,PS
+10454,2023-09-13,"NUBIUM, s.r.o.",-108.0,reklamny priestor,23096325.0,SNS,PS
+10449,2023-09-13,"TigerPrint, s.r.o.",-585.0,ostatné náklady,20230812.0,SNS,PS
+10450,2023-09-13,"TigerPrint, s.r.o.",-192.0,ostatné náklady,20230712.0,SNS,PS
+10451,2023-09-13,"Lulemipa, s.r.o.",-240.0,reklamné plochy,172023.0,SNS,PS
+10452,2023-09-13,"NUBIUM, s.r.o.",-156.0,reklamny priestor,23096324.0,SNS,PS
+10453,2023-09-13,"BEST MEDIA, spol. s.r.o.",-853.87,ostatné náklady,20230142.0,SNS,PS
+10458,2023-09-13,Rastislav Vajduľák UP agentúra,-798.48,ostatné náklady,,SNS,PS
+10455,2023-09-13,"REGIONPRESS, s.r.o.",-838.2,inzercia,586230117.0,SNS,PS
+10456,2023-09-13,"IPATEX, s.r.o.",-415.2,ostatné náklady,2023328.0,SNS,PS
+10457,2023-09-13,"PROPAG Slovakia, s.r.o.",-656.4,reklamne plochy,1020230185.0,SNS,PS
+10459,2023-09-13,"Lulemipa, s.r.o.",-150.0,ostatné náklady,152023.0,SNS,PS
+10447,2023-09-13,"Lulemipa, s.r.o.",-180.0,ostatné náklady,162023.0,SNS,PS
+10448,2023-09-13,"PA3KDESIGN MEDIA, s.r.o.",-216.0,ostatné náklady,20230187.0,SNS,PS
+10446,2023-09-13,"Podtatranský kuriér, s.r.o.",-2000.0,inzercia,230003.0,SNS,PS
+10435,2023-09-13,SLOV NARODNA STRANA,50000.0,prevod na volby NR SR 2023 z BU SNS,372023.0,SNS,PS
+10439,2023-09-13,"polep.sk, s.r.o.",-292.8,ostatné náklady,20230457.0,SNS,PS
+10434,2023-09-13,"ARTON, s.r.o.",-1800.0,reklamny priestor,202309270.0,SNS,PS
+10445,2023-09-13,"ARTON, s.r.o.",-216.0,reklamny priestor,202309271.0,SNS,PS
+10436,2023-09-13,Rangl Erik - Reklama,-21498.0,ostatné náklady,2023302.0,SNS,PS
+10437,2023-09-13,"Petit Press, a.s. divízia týždenníkov, o.z.",-5040.0,inzercia,2333101748.0,SNS,PS
+10438,2023-09-13,"Slovenský RYBÁR, s.r.o.",-430.8,inzercia,233050.0,SNS,PS
+10440,2023-09-13,"PREŠOVSKÁ TLAČIAREŇ, s.r.o.",-52.8,ostatné náklady,23328.0,SNS,PS
+10441,2023-09-13,"TigerPrint, s.r.o.",-86.7,ostatné náklady,20230760.0,SNS,PS
+10442,2023-09-13,"TigerPrint, s.r.o.",-960.0,ostatné náklady,20230823.0,SNS,PS
+10443,2023-09-13,"Amavera, s.r.o.",-336.0,inzercia,20230024.0,SNS,PS
+10444,2023-09-13,"Podtatranský kuriér, s.r.o.",-450.0,inzercia,230007.0,SNS,PS
+10477,2023-09-12,Obec Cinobaňa,-115.0,ostatné náklady,2023144.0,SNS,PS
+10473,2023-09-12,"COLTSUN-CONSULT, s.r.o.",-126.0,reklamny priestor,2309005.0,SNS,PS
+10474,2023-09-12,Miroslav Maňuch agentúra MIMA,-69.96,reklamne plochy,2023064.0,SNS,PS
+10475,2023-09-12,"GRYF reklamné štúdio,s.r.o.",-36.0,reklamny priestor,20233051.0,SNS,PS
+10476,2023-09-12,"Grafon, s.r.o.",-615.91,reklamne plochy,6231495.0,SNS,PS
+10471,2023-09-12,Obec Muráň,-300.0,ostatné náklady,20230199.0,SNS,PS
+10478,2023-09-12,"Amavera, s.r.o.",-264.0,inzercia,20230022.0,SNS,PS
+10479,2023-09-12,Obec Brezovica,-10.0,rozhlasove sluzby,442023.0,SNS,PS
+10480,2023-09-12,Obec - obecný úrad Dunajov,-170.0,ostatné náklady,823.0,SNS,PS
+10481,2023-09-12,"Amavera, s.r.o.",-1560.0,inzercia,20230023.0,SNS,PS
+10472,2023-09-12,"JVplusAV, s.r.o.",-137.5,reklamna plocha,220230157.0,SNS,PS
+10463,2023-09-12,"REGIONPRESS, s.r.o.",-300.0,inzercia,654230031.0,SNS,PS
+10470,2023-09-12,"Tiger group, s.r.o.",-585.0,reklamny priestor,2023029.0,SNS,PS
+10468,2023-09-12,"Imagewell, s.r.o.",-603.6,reklamne plochy,410232457.0,SNS,PS
+10467,2023-09-12,"KO&KA spol, s.r.o.",-300.0,ostatné náklady,29230545.0,SNS,PS
+10466,2023-09-12,Alexander Bíreš,-400.0,reklamne plochy,20230004.0,SNS,PS
+10465,2023-09-12,MESTO BYTČA,-166.19,ostatné náklady,3719300124.0,SNS,PS
+10464,2023-09-12,"STAZU, s.r.o.",-2058.0,ostatné náklady,20230128.0,SNS,PS
+10462,2023-09-12,"TigerPrint, s.r.o.",-2520.0,ostatné náklady,20230819.0,SNS,PS
+10461,2023-09-12,SLOV NARODNA STRANA,14000.0,prevod na volby NR SR 2023 z BU SNS,362023.0,SNS,PS
+10460,2023-09-12,"Podtatranský kuriér, s.r.o.",-1800.0,inzercia,230002.0,SNS,PS
+10469,2023-09-12,"ARTHAS, s.r.o.",-1895.64,reklamne plochy,2023023.0,SNS,PS
+10489,2023-09-11,"TigerPrint, s.r.o.",-1646.4,ostatné náklady,20230810.0,SNS,PS
+10495,2023-09-11,"Amavera, s.r.o.",-174.0,inzercia,20230018.0,SNS,PS
+10494,2023-09-11,Juraj Tomadlík - JUTO,-360.0,reklamne plochy,512023.0,SNS,PS
+10493,2023-09-11,Trebišovské hotelové družstvo,-186.5,ostatné náklady,1020230086.0,SNS,PS
+10492,2023-09-11,"SSM Slovakia, s.r.o.",-54.0,reklamne plochy,230619.0,SNS,PS
+10491,2023-09-11,"MultiMedia, s.r.o.",-132.0,reklamne plochy,,SNS,PS
+10487,2023-09-11,"REGIONPRESS, s.r.o.",-838.2,inzercia,586230127.0,SNS,PS
+10485,2023-09-11,"REGIONPRESS, s.r.o.",-3352.8,inzercia,334230001.0,SNS,PS
+10484,2023-09-11,SLOV NARODNA STRANA,3000.0,prevod na volby NR SR 2023 z BU SNS,352023.0,SNS,PS
+10483,2023-09-11,SLOV NARODNA STRANA,7000.0,prevod na volby NR SR 2023 z BU SNS,342023.0,SNS,PS
+10482,2023-09-11,"NUBIUM, s.r.o.",-1740.0,reklamny priestor,23085837.0,SNS,PS
+10486,2023-09-11,"REGIONPRESS, s.r.o.",-838.2,inzercia,586230156.0,SNS,PS
+10496,2023-09-09,"ISPA, spol. s.r.o.",-594.0,reklamny priestor,23950234.0,SNS,PS
+10497,2023-09-09,"NIVEL PLUS, s.r.o.",-313.2,inzercia,162320125.0,SNS,PS
+10500,2023-09-08,"BREMOX solution, s.r.o.",-120.0,reklamne plochy,802023.0,SNS,PS
+10501,2023-09-08,"MATTIM, s.r.o.",-240.0,ostatné náklady,230100027.0,SNS,PS
+10499,2023-09-08,"ghstudio, s.r.o.",-226.92,ostatné náklady,2023930.0,SNS,PS
+10498,2023-09-08,"Final Vision, s.r.o.",-100.0,inzercia,120230110.0,SNS,PS
+10515,2023-09-07,"MARKOFARM, s.r.o.",-250.0,ostatné náklady,1020230007.0,SNS,PS
+10514,2023-09-07,Viera Mrázová - VR Comp Media,-62.0,ostatné náklady,2300038.0,SNS,PS
+10513,2023-09-07,"Grafon, s.r.o.",-59.34,ostatné náklady,6231617.0,SNS,PS
+10512,2023-09-07,"Petit Press, a.s. divízia týždenníkov, o.z.",-889.2,inzercia,2333101644.0,SNS,PS
+10511,2023-09-07,"TigerPrint, s.r.o.",-609.79,ostatné náklady,20230794.0,SNS,PS
+10510,2023-09-07,Ján Vrábel,-190.0,ostatné náklady,2230624.0,SNS,PS
+10509,2023-09-07,Juraj Tomadlík - JUTO,-576.0,reklamne plochy,452023.0,SNS,PS
+10508,2023-09-07,"TigerPrint, s.r.o.",-838.8,inzercia,20230801.0,SNS,PS
+10506,2023-09-07,"DOM-LEX, s.r.o.",-160.0,ostatné náklady,10282023.0,SNS,PS
+10505,2023-09-07,"SLOVNAFT, a.s.",-1264.21,cestovné výdavky,3081936683.0,SNS,PS
+10504,2023-09-07,"DOM-LEX, s.r.o.",-800.0,ostatné náklady,10272023.0,SNS,PS
+10503,2023-09-07,"Petit Press, a.s. divízia týždenníkov, o.z.",-324.0,inzercia,2333101673.0,SNS,PS
+10502,2023-09-07,Juraj Tomadlík - JUTO,-432.0,reklamne plochy,482023.0,SNS,PS
+10507,2023-09-07,Mesto Prešov,-16.5,ostatne naklady,22100236.0,SNS,PS
+10516,2023-09-06,SLOV NARODNA STRANA,5000.0,prevod na volby NR SR 2023 z BU SNS,332023.0,SNS,PS
+10522,2023-09-05,"Vecos.eu, s.r.o.",-330.0,inzercia,20231304.0,SNS,PS
+10526,2023-09-05,"HAVOC, s.r.o,",-240.0,ostatné náklady,20230068.0,SNS,PS
+10525,2023-09-05,"Petit Press, a.s. divízia týždenníkov, o.z.",-300.0,inzercia,2335108962.0,SNS,PS
+10523,2023-09-05,"PREASY, s.r.o.",-2393.2,ostatné náklady,232179.0,SNS,PS
+10524,2023-09-05,"Vecos.eu, s.r.o.",-216.0,inzercia,20231303.0,SNS,PS
+10521,2023-09-05,"NIVEL PLUS, s.r.o.",-963.0,inzercia,162330316.0,SNS,PS
+10519,2023-09-05,Ján Vrábel,-203.04,ostatné náklady,2230590.0,SNS,PS
+10518,2023-09-05,Bc. Andrea Fecková - VYDAVATEĽSTVO SPEKTRUM,-230.0,inzercia,2023113.0,SNS,PS
+10517,2023-09-05,"REGIONPRESS, s.r.o.",-540.0,inzercia,334230276.0,SNS,PS
+10520,2023-09-05,"VERBINA, o.z.",-1000.0,inzercia,230800003.0,SNS,PS
+10527,2023-09-04,"Amavera, s.r.o.",-360.0,inzercia,20230013.0,SNS,PS
+10528,2023-09-04,"AMI Groupe, s.r.o.",-900.0,ostatné náklady,252023.0,SNS,PS
+10529,2023-09-02,"Baloušek, s.r.o.",-125.47,reklamny priestor,,SNS,PS
+10545,2023-08-31,"VIRA print, s.r.o.",-98.4,ostatné náklady,202300133.0,SNS,PS
+10542,2023-08-31,Ing. Štefan Kysel,-4170.0,ostatné náklady,23017.0,SNS,PS
+10543,2023-08-31,,-5.0,Zverejňovanie účtu,,SNS,PS
+10544,2023-08-31,Ing. Štefan Kysel,-1562.0,ostatné náklady,23015.0,SNS,PS
+10549,2023-08-31,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10546,2023-08-31,"GRYF reklamné štúdio,s.r.o.",-79.2,reklamny priestor,20232981.0,SNS,PS
+10547,2023-08-31,"ASEMID TN, s.r.o.",-339.84,ostatné náklady,1020230138.0,SNS,PS
+10548,2023-08-31,"ASEMID TN, s.r.o.",-230.4,ostatné náklady,1020230137.0,SNS,PS
+10540,2023-08-31,Ing. Štefan Kysel,-3500.0,inzercia,23019.0,SNS,PS
+10541,2023-08-31,Ing. Štefan Kysel,-589.0,ostatné náklady,23018.0,SNS,PS
+10535,2023-08-31,"ELUMI STUDIO, s.r.o.",-179.89,ostatné náklady,2023162.0,SNS,PS
+10539,2023-08-31,"TigerPrint, s.r.o.",-408.0,ostatné náklady,20230742.0,SNS,PS
+10533,2023-08-31,"ISPA, spol. s.r.o.",-391.2,reklamny priestor,23950227.0,SNS,PS
+10538,2023-08-31,"JAMIS.INVEST., s.r.o.",-2.0,reklamne plochy,2023028.0,SNS,PS
+10531,2023-08-31,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10532,2023-08-31,"FAB Co, s.r.o.",-258.0,ostatne naklady,2300216.0,SNS,PS
+10530,2023-08-31,"JVplusAV, s.r.o.",-137.5,reklamna plocha,220230153.0,SNS,PS
+10534,2023-08-31,"BOAN pneu, s.r.o.",-10.8,reklamne plochy,10230308.0,SNS,PS
+10536,2023-08-31,"REGIONPRESS, s.r.o.",-3763.2,inzercia,334230010.0,SNS,PS
+10537,2023-08-31,"Tlačiareň a vydavateľstvo SLZA, spol. s.r.o. Popra",-44.4,h) ostatne naklady,,SNS,PS
+10550,2023-08-30,"Logos Press, s.r.o.",-110.4,ostatne,20230298.0,SNS,PS
+10563,2023-08-28,"BADAM CREATIVE, s.r.o.",-3000.0,ostatné náklady,20231200.0,SNS,PS
+10572,2023-08-28,"WESTWOOD Slovakia, s.r.o.",-240.0,reklamny priestor,230431.0,SNS,PS
+10571,2023-08-28,"SSM Slovakia, s.r.o.",-135.0,reklamne plochy,230549.0,SNS,PS
+10570,2023-08-28,"Amavera, s.r.o.",-4500.0,inzercia,20230019.0,SNS,PS
+10569,2023-08-28,"FOREKO, s.r.o.",-72.36,ostatné náklady,2023147.0,SNS,PS
+10568,2023-08-28,"Amavera, s.r.o.",-240.0,inzercia,20230014.0,SNS,PS
+10567,2023-08-28,"Amavera, s.r.o.",-168.0,inzercia,20230017.0,SNS,PS
+10566,2023-08-28,"REGIONPRESS, s.r.o.",-372.96,inzercia,464230107.0,SNS,PS
+10565,2023-08-28,"KKFOL, s.r.o.",-840.0,reklamne plochy,10230081.0,SNS,PS
+10564,2023-08-28,"TigerPrint, s.r.o.",-180.0,reklamne plochy,20230770.0,SNS,PS
+10553,2023-08-28,"TigerPrint, s.r.o.",-180.0,reklamne plochy,20230768.0,SNS,PS
+10562,2023-08-28,"Vecos.eu, s.r.o.",-570.0,ostatné náklady,20231282.0,SNS,PS
+10555,2023-08-28,Milan Sabo,-390.0,ostatne naklady,192023.0,SNS,PS
+10552,2023-08-28,"EUNICA Megaboards, s.r.o.",-4809.6,reklamny priestor,202308.0,SNS,PS
+10551,2023-08-28,"Amavera, s.r.o.",-300.0,inzercia,20230016.0,SNS,PS
+10554,2023-08-28,"SSM Slovakia, s.r.o.",-594.0,reklamne plochy,230548.0,SNS,PS
+10560,2023-08-28,"Amavera, s.r.o.",-300.0,ostatné náklady,20230015.0,SNS,PS
+10556,2023-08-28,"TigerPrint, s.r.o.",-104.0,ostatné náklady,20230638.0,SNS,PS
+10557,2023-08-28,"TigerPrint, s.r.o.",-0.4,ostatné náklady,20230638.0,SNS,PS
+10559,2023-08-28,"TigerPrint, s.r.o.",-168.0,reklamne plochy,20230756.0,SNS,PS
+10575,2023-08-27,"LIZ, s.r.o.",-2460.0,reklamne plochy,262023.0,SNS,PS
+10585,2023-08-25,"ARTON, s.r.o.",-1404.0,reklamny priestor,230483.0,SNS,PS
+10592,2023-08-25,"REGIONPRESS, s.r.o.",-2494.8,inzerca,334230262.0,SNS,PS
+10591,2023-08-25,"RM - CAR SERVIS, s.r.o.",-1600.0,ostatné náklady,2023060.0,SNS,PS
+10590,2023-08-25,Juraj Tomadlík - JUTO,-6.0,reklamne plochy,492023.0,SNS,PS
+10589,2023-08-25,"JPK print, s.r.o.",-99.5,ostatné náklady,2023320.0,SNS,PS
+10588,2023-08-25,"TigerPrint, s.r.o.",-228.0,ostatné náklady,20230741.0,SNS,PS
+10587,2023-08-25,"TigerPrint, s.r.o.",-54.0,ostatné náklady,20230748.0,SNS,PS
+10586,2023-08-25,Juraj Tomadlík - JUTO,-576.0,reklamne plochy,462023.0,SNS,PS
+10583,2023-08-25,EKOELEKTRIK s.r.o.,-11.52,ostatné náklady,350112.0,SNS,PS
+10584,2023-08-25,"SSM Slovakia, s.r.o.",-480.0,reklamne plochy,230473.0,SNS,PS
+10582,2023-08-25,"GRYF reklamné štúdio,s.r.o.",-600.0,reklamny priestor,23087.0,SNS,PS
+10581,2023-08-25,"Petit Press, a.s. divízia týždenníkov, o.z.",-300.0,inzercia,2333101554.0,SNS,PS
+10580,2023-08-25,"OLLE, s.r.o.",-1520.0,inzercia,202380475.0,SNS,PS
+10579,2023-08-25,"SLOVNAFT, a.s.",-645.01,cestovné výdavky,3081928951.0,SNS,PS
+10578,2023-08-25,"euroAWK, spol. s r.o",-4860.0,reklamny priestor,2370102.0,SNS,PS
+10577,2023-08-25,"BigMedia, spol. s.r.o.",-10560.0,reklamné plochy,122390168.0,SNS,PS
+10576,2023-08-25,"Petit Press, a.s. divízia týždenníkov, o.z.",-5040.0,inzercia,2333101573.0,SNS,PS
+10593,2023-08-24,SLOV NARODNA STRANA,40000.0,prevod na volby NR SR 2023 z BU SNS,322023.0,SNS,PS
+10594,2023-08-24,SLOV NARODNA STRANA,35000.0,prevod na volby NR SR 2023 z BU SNS,312023.0,SNS,PS
+10595,2023-08-23,"SLOVNAFT, a.s.",-860.84,cestovné výdavky,3081919213.0,SNS,PS
+10596,2023-08-23,"Petit Press, a.s. divízia týždenníkov, o.z.",-11232.0,inzercia,2333101520.0,SNS,PS
+10597,2023-08-23,"PREASY, s.r.o.",-2500.0,ostatné náklady,238123.0,SNS,PS
+10598,2023-08-23,"BigMedia, spol. s.r.o.",-12538.8,reklamné plochy,122390161.0,SNS,PS
+10603,2023-08-22,Obec Stará Bystrica,-6.0,ostatné náklady,282023.0,SNS,PS
+10604,2023-08-22,"TigerPrint, s.r.o.",-1800.0,ostatné náklady,20230736.0,SNS,PS
+10605,2023-08-22,"TigerPrint, s.r.o.",-192.0,ostatné náklady,20230743.0,SNS,PS
+10602,2023-08-22,"MultiMedia, s.r.o.",-102.0,reklamne plochy,,SNS,PS
+10601,2023-08-22,"NUBIUM, s.r.o.",-174.0,reklamny priestor,13120285.0,SNS,PS
+10600,2023-08-22,"NUBIUM, s.r.o.",-522.0,reklamny priestor,13120240.0,SNS,PS
+10606,2023-08-21,SLOV NARODNA STRANA,25000.0,prevod na volby NR SR 2023 z BU SNS,302023.0,SNS,PS
+10607,2023-08-20,"Štart24, s.r.o.",-351.6,reklamne plochy,230078.0,SNS,PS
+10608,2023-08-20,Obec Stankovany,-70.0,ostatné náklady,72023.0,SNS,PS
+10609,2023-08-20,Obec Smrečany,-115.0,ostatné náklady,623.0,SNS,PS
+10610,2023-08-20,Mestské kultúrno-športové stredisko,-25.0,ostatne naklady,1318300103.0,SNS,PS
+10611,2023-08-20,"TigerPrint, s.r.o.",-358.8,ostatné náklady,20230730.0,SNS,PS
+10612,2023-08-20,"ARRIVA Slovakia, a.s.",-12120.6,reklamne plochy,3010028945.0,SNS,PS
+10613,2023-08-20,"Imagewell, s.r.o.",-8020.8,reklamne plochy,460230053.0,SNS,PS
+10615,2023-08-18,"BIGMEDIA, SPOL. S R.O.",3264.0,1223300724 17.08.2023,1223300724.0,SNS,PS
+10614,2023-08-18,SLOV NARODNA STRANA,26000.0,prevod na volby NR SR 2023 z BU SNS,302023.0,SNS,PS
+10616,2023-08-17,"EUNICA Megaboards, s.r.o.",-5457.6,reklamny priestor,202303.0,SNS,PS
+10617,2023-08-17,"BigMedia, spol. s.r.o.",-576.0,reklamné plochy,122390141.0,SNS,PS
+10618,2023-08-17,"NUBIUM, s.r.o.",-5184.0,reklamny priestor,13120255.0,SNS,PS
+10619,2023-08-17,"euroAWK, spol. s r.o",-24.0,reklamny priestor,234562.0,SNS,PS
+10620,2023-08-17,"SSM Slovakia, s.r.o.",-94.8,reklamne plochy,230474.0,SNS,PS
+10621,2023-08-17,"Trenčiansky BLESK, s.r.o.",-324.0,inzercia,23042.0,SNS,PS
+10630,2023-08-16,"GRYF reklamné štúdio,s.r.o.",-192.0,reklamny priestor,23085.0,SNS,PS
+10634,2023-08-16,"GALMEDIA, s.r.o.",-930.0,reklamne plochy,230800001.0,SNS,PS
+10633,2023-08-16,Ing. Peter Sahul,-576.0,reklamne plochy,202308001.0,SNS,PS
+10632,2023-08-16,Lukáš Urbanič Ohradzany,-300.0,reklamne plochy,22023.0,SNS,PS
+10631,2023-08-16,"TigerPrint, s.r.o.",-624.0,ostatné náklady,20230729.0,SNS,PS
+10625,2023-08-16,"TigerPrint, s.r.o.",-187.9,ostatné náklady,20230721.0,SNS,PS
+10629,2023-08-16,Mesto Tvrdošín,-40.0,ostatné náklady,623028.0,SNS,PS
+10628,2023-08-16,"EUNICA MEDIA, s.r.o.",-834.0,reklamny priestor,523.0,SNS,PS
+10627,2023-08-16,Mesto Námestovo,-640.0,ostatné náklady,1316300095.0,SNS,PS
+10626,2023-08-16,"Trenčiansky BLESK, s.r.o.",-120.0,inzercia,23041.0,SNS,PS
+10623,2023-08-16,"PLACARD, s.r.o.",-240.0,reklamne plochy,202023.0,SNS,PS
+10635,2023-08-14,"Halo media, s.r.o.",-588.0,inzercia,20230040.0,SNS,PS
+10636,2023-08-14,"SVK Trend, s.r.o.",-998.0,ostatné náklady,20230801.0,SNS,PS
+10637,2023-08-14,"TigerPrint, s.r.o.",-384.0,ostatné náklady,20230719.0,SNS,PS
+10648,2023-08-11,"GF Concept, s.r.o.",-141.6,reklamne plochy,120230064.0,SNS,PS
+10657,2023-08-11,Bc. Lucia Vajdová,-56.0,ostatné náklady,21120012.0,SNS,PS
+10656,2023-08-11,Obec Lisková,-110.0,ostatné náklady,422023.0,SNS,PS
+10655,2023-08-11,Obec Lúčky,-18.5,ostatne naklady,2023094.0,SNS,PS
+10652,2023-08-11,"Tlačiareň a vydavateľstvo SLZA, spol. s.r.o. Popra",-127.8,h) ostatne naklady,,SNS,PS
+10651,2023-08-11,"VIRA print, s.r.o.",-1117.2,reklamne plochy,202300120.0,SNS,PS
+10650,2023-08-11,"GF Concept, s.r.o.",-1524.0,reklamne plochy,120230063.0,SNS,PS
+10649,2023-08-11,"terč.sk,s.r.o.",-252.0,reklamne predmety,20230305.0,SNS,PS
+10654,2023-08-11,Mesto Kysucké Nové Mesto,-15.0,vysielanie propagacie,9914300059.0,SNS,PS
+10647,2023-08-11,"GRYF reklamné štúdio,s.r.o.",-96.0,reklamny priestor,20232686.0,SNS,PS
+10646,2023-08-11,SLOV NARODNA STRANA,25000.0,prevod na volby NR SR 2023 z BU SNS,292023.0,SNS,PS
+10645,2023-08-11,Obec Hybe,-100.0,ostatné náklady,1052023.0,SNS,PS
+10643,2023-08-11,"euroAWK, spol. s r.o",-2340.0,reklamny priestor,2370099.0,SNS,PS
+10642,2023-08-11,"BIGMEDIA, SPOL. S R.O.",93.6,1223205716 10.08.2023,1223205716.0,SNS,PS
+10641,2023-08-11,"NUBIUM, s.r.o.",-840.0,reklamny priestor,23075145.0,SNS,PS
+10640,2023-08-11,"NUBIUM, s.r.o.",-480.0,reklamny priestor,13120279.0,SNS,PS
+10639,2023-08-11,"NUBIUM, s.r.o.",-3168.0,reklamny priestor,23085347.0,SNS,PS
+10638,2023-08-11,"TigerPrint, s.r.o.",-358.8,ostatné náklady,20230710.0,SNS,PS
+10668,2023-08-10,"JEZET reklamná agentúra, s.r.o.",-15300.0,reklamny priestor,2.0,SNS,PS
+10667,2023-08-10,"JEZET reklamná agentúra, s.r.o.",-5400.0,reklamny priestor,4.0,SNS,PS
+10666,2023-08-10,"T-štúdio, s.r.o.",-145.2,reklamne plochy,20230592.0,SNS,PS
+10665,2023-08-10,"Mediachain, s.r.o.",-1872.0,reklamne plochy,20230368.0,SNS,PS
+10664,2023-08-10,"JEZET reklamná agentúra, s.r.o.",-1350.0,reklamny priestor,3.0,SNS,PS
+10662,2023-08-10,Mesto Krásno nad Kysucou,-50.0,ostatné náklady,131430097.0,SNS,PS
+10661,2023-08-10,"SLOVNAFT, a.s.",-860.84,cestovné výdavky,3081919213.0,SNS,PS
+10660,2023-08-10,"Petit Press, a.s. divízia týždenníkov, o.z.",-11232.0,inzercia,2333101480.0,SNS,PS
+10659,2023-08-10,"Petit Press, a.s. divízia týždenníkov, o.z.",-36.0,inzercia,2333101463.0,SNS,PS
+10669,2023-08-09,"TigerPrint, s.r.o.",-307.8,ostatné náklady,20230695.0,SNS,PS
+10670,2023-08-09,"BigMedia, spol. s.r.o.",-1051.2,reklamné plochy,122390150.0,SNS,PS
+10671,2023-08-09,"LEKOCENTRUM, s.r.o.",-3060.0,reklamny priestor,2023032.0,SNS,PS
+10672,2023-08-09,"TigerPrint, s.r.o.",-114.08,ostatné náklady,20230680.0,SNS,PS
+10673,2023-08-09,"BigMedia, spol. s.r.o.",-138.0,reklamné plochy,122390144.0,SNS,PS
+10674,2023-08-09,"BigMedia, spol. s.r.o.",-414.0,reklamné plochy,122390145.0,SNS,PS
+10675,2023-08-08,"euroAWK, spol. s r.o",-2880.0,reklamny priestor,2370078.0,SNS,PS
+10678,2023-08-04,"FAB Co, s.r.o.",-447.6,reklama,2300201.0,SNS,PS
+10677,2023-08-04,Ing. Štefan Kysel,-1000.0,inzercia,23014.0,SNS,PS
+10676,2023-08-04,"VEGO MARKETING, s.r.o.",-384.0,reklamne plochy,20230017.0,SNS,PS
+10680,2023-08-03,"TigerPrint, s.r.o.",-192.0,ostatné náklady,20230700.0,SNS,PS
+10681,2023-08-03,Obec/Mesto Šuňava,-61.0,ostatné náklady,32023.0,SNS,PS
+10682,2023-08-03,"TigerPrint, s.r.o.",-57.24,ostatné náklady,20230693.0,SNS,PS
+10683,2023-08-03,"ARTON, s.r.o.",-180.0,reklamny priestor,230371.0,SNS,PS
+10684,2023-08-03,Obec Bobrovec,-58.0,ostatné náklady,2023000001.0,SNS,PS
+10679,2023-08-03,"ARTON, s.r.o.",-1512.0,reklamny priestor,230370.0,SNS,PS
+10685,2023-08-02,SLOV NARODNA STRANA,40000.0,prevod na volby NR SR 2023 z BU SNS,282023.0,SNS,PS
+10695,2023-08-01,"GRYF reklamné štúdio,s.r.o.",-2280.0,reklamny priestor,20232657.0,SNS,PS
+10701,2023-08-01,"Vecos.eu, s.r.o.",-102.0,inzercia,20231221.0,SNS,PS
+10700,2023-08-01,"euroAWK, spol. s r.o",-6768.0,reklamny priestor,2370091.0,SNS,PS
+10699,2023-08-01,"VERBINA, o.z.",-1000.0,inzercia,230700003.0,SNS,PS
+10698,2023-08-01,Obec Mošovce,-125.0,ostatné náklady,202318.0,SNS,PS
+10697,2023-08-01,"HAPPY Agency, s.r.o.",-600.0,reklamne plochy,4323.0,SNS,PS
+10696,2023-08-01,Rangl Erik - Reklama,-7878.0,reklamne plochy,2023268.0,SNS,PS
+10691,2023-08-01,Obec Žiar,-105.0,ostatné náklady,323013.0,SNS,PS
+10694,2023-08-01,"HAVOC, s.r.o,",-6420.02,služby ostatné náklady,20230063.0,SNS,PS
+10693,2023-08-01,"BigMedia, spol. s.r.o.",-16293.6,reklamné plochy,122390153.0,SNS,PS
+10692,2023-08-01,OBEC Jamník,-20.0,ostatné náklady,162023.0,SNS,PS
+10690,2023-08-01,"TigerPrint, s.r.o.",-192.0,ostatné náklady,20230685.0,SNS,PS
+10689,2023-08-01,"WESTWOOD Slovakia, s.r.o.",-2640.0,reklamny priestor,230403.0,SNS,PS
+10688,2023-08-01,"ISPA, spol. s.r.o.",-2968.8,reklamny priestor,23950177.0,SNS,PS
+10686,2023-08-01,"xl media, s.r.o.",-13104.0,reklamne plochy,230801.0,SNS,PS
+10707,2023-07-31,SLOV NARODNA STRANA,20000.0,prevod na volby NR SR 2023 z BU SNS,272023.0,SNS,PS
+10706,2023-07-31,"Tiger group, s.r.o.",-5785.0,reklamny priestor,992302.0,SNS,PS
+10705,2023-07-31,"CASMAR REALITY, s.r.o.",-1680.0,reklamny priestor,2023022.0,SNS,PS
+10704,2023-07-31,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10702,2023-07-31,,-5.0,Zverejňovanie účtu,,SNS,PS
+10703,2023-07-31,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10708,2023-07-28,"GRYF reklamné štúdio,s.r.o.",-4608.0,reklamny priestor,23072.0,SNS,PS
+10709,2023-07-28,SLOV NARODNA STRANA,50000.0,prevod na volby NR SR 2023 z BU SNS,272023.0,SNS,PS
+10710,2023-07-28,"MP KANAL service, s.r.o.",-1200.0,reklamne plochy,20230003.0,SNS,PS
+10711,2023-07-28,Obec Liptovská Sielnica,-32.0,ostatné náklady,152023.0,SNS,PS
+10718,2023-07-27,"TigerPrint, s.r.o.",-374.0,reklamne predmety,20230637.0,SNS,PS
+10721,2023-07-27,"Tlačiareň Kubík, s.r.o.",-992.4,ostatné náklady,230101031.0,SNS,PS
+10720,2023-07-27,"OLLE, s.r.o.",-380.0,inzercia,202380466.0,SNS,PS
+10719,2023-07-27,"EXXON REAL, s.r.o.",-864.0,reklamne plochy,23042.0,SNS,PS
+10717,2023-07-27,"ISPA, spol. s.r.o.",-19440.0,reklamny priestor,23950199.0,SNS,PS
+10716,2023-07-27,"ARTON, s.r.o.",-720.0,reklamny priestor,230433.0,SNS,PS
+10715,2023-07-27,"ARTON, s.r.o.",-23400.0,reklamny priestor,230435.0,SNS,PS
+10714,2023-07-27,"Tlačiareň Kubík, s.r.o.",-566.4,ostatné náklady,230101030.0,SNS,PS
+10713,2023-07-27,"ARTON, s.r.o.",-86.4,reklamny priestor,230434.0,SNS,PS
+10712,2023-07-27,"Harvanec, s.r.o.",-19.2,reklamne plochy,2023000009.0,SNS,PS
+10730,2023-07-26,"GRYF reklamné štúdio,s.r.o.",-13497.6,reklamny priestor,23063.0,SNS,PS
+10736,2023-07-26,"NUBIUM, s.r.o.",-1584.0,reklamny priestor,13120265.0,SNS,PS
+10735,2023-07-26,"Imagewell, s.r.o.",-6770.4,reklamna plocha,460230043.0,SNS,PS
+10734,2023-07-26,"GRYF reklamné štúdio,s.r.o.",-3576.0,reklamny priestor,23075.0,SNS,PS
+10733,2023-07-26,"EUNICA Megaboards, s.r.o.",-9619.2,reklamny priestor,202304.0,SNS,PS
+10732,2023-07-26,"EUNICA MEDIA, s.r.o.",-3384.0,reklamny priestor,1223.0,SNS,PS
+10731,2023-07-26,"NUBIUM, s.r.o.",-4920.0,reklamny priestor,13120256.0,SNS,PS
+10726,2023-07-26,SLOV NARODNA STRANA,30000.0,prevod na volby NR SR 2023 z BU SNS,242023.0,SNS,PS
+10729,2023-07-26,"TigerPrint, s.r.o.",-6956.38,reklamne predmety,20230666.0,SNS,PS
+10727,2023-07-26,"BigMedia, spol. s.r.o.",-9720.0,reklamné plochy,122390128.0,SNS,PS
+10725,2023-07-26,SLOV NARODNA STRANA,50000.0,prevod na volby NR SR 2023 z BU SNS,232023.0,SNS,PS
+10724,2023-07-26,SLOV NARODNA STRANA,40000.0,prevod na volby NR SR 2023 z BU SNS,262023.0,SNS,PS
+10723,2023-07-26,SLOV NARODNA STRANA,10000.0,prevod na volby NR SR 2023 z BU SNS,252023.0,SNS,PS
+10722,2023-07-26,"GRYF reklamné štúdio,s.r.o.",-3456.0,reklamny priestor,23073.0,SNS,PS
+10728,2023-07-26,"BigMedia, spol. s.r.o.",-7200.0,reklamné plochy,122390129.0,SNS,PS
+10756,2023-07-25,"BigMedia, spol. s.r.o.",-138.0,reklamné plochy,122390146.0,SNS,PS
+10751,2023-07-25,"BigMedia, spol. s.r.o.",-3240.0,reklamné plochy,122390130.0,SNS,PS
+10753,2023-07-25,Obec Liptovský Peter,-13.3,ostatné náklady,1623.0,SNS,PS
+10754,2023-07-25,Obec Liptovský Trnovec,-200.0,ostatne naklady,2023058.0,SNS,PS
+10755,2023-07-25,"ARTON, s.r.o.",-1458.0,reklamny priestor,230420.0,SNS,PS
+10759,2023-07-25,"ARTON, s.r.o.",-1080.0,reklamny priestor,230378.0,SNS,PS
+10757,2023-07-25,"TRIBO, s.r.o.",-480.0,reklamny priestor,230302.0,SNS,PS
+10758,2023-07-25,"ARTON, s.r.o.",-72.0,reklamny priestor,230379.0,SNS,PS
+10760,2023-07-25,"BigMedia, spol. s.r.o.",-6696.0,reklamné plochy,122390131.0,SNS,PS
+10749,2023-07-25,"ARTON, s.r.o.",-28.8,reklamny priestor,230381.0,SNS,PS
+10750,2023-07-25,"GRYF reklamné štúdio,s.r.o.",-768.0,reklamny priestor,23069.0,SNS,PS
+10752,2023-07-25,Obec Vavrišovo,-110.0,ostatné náklady,2023034.0,SNS,PS
+10748,2023-07-25,"TigerPrint, s.r.o.",-10536.0,reklamne predmety,20230665.0,SNS,PS
+10742,2023-07-25,"R J A R, s.r.o.",-4200.0,ostatné náklady,20230702.0,SNS,PS
+10747,2023-07-25,Ing. Štefan Kysel,-300.0,ostatné náklady,23013.0,SNS,PS
+10738,2023-07-25,"ARTON, s.r.o.",-1512.0,reklamny priestor,230423.0,SNS,PS
+10740,2023-07-25,"ARTON, s.r.o.",-3108.0,reklamny priestor,230425.0,SNS,PS
+10741,2023-07-25,"ARTON, s.r.o.",-666.0,reklamny priestor,230426.0,SNS,PS
+10739,2023-07-25,"ARTON, s.r.o.",-324.0,reklamny priestor,230424.0,SNS,PS
+10743,2023-07-25,"ARTON, s.r.o.",-702.0,reklamny priestor,230422.0,SNS,PS
+10744,2023-07-25,"ARTON, s.r.o.",-6804.0,reklamny priestor,230419.0,SNS,PS
+10745,2023-07-25,"BigMedia, spol. s.r.o.",-1932.0,reklamné plochy,122390142.0,SNS,PS
+10737,2023-07-25,"ARTON, s.r.o.",-3276.0,reklamny priestor,230421.0,SNS,PS
+10746,2023-07-25,"BigMedia, spol. s.r.o.",-1242.0,reklamné plochy,122390143.0,SNS,PS
+10761,2023-07-24,SLOV NARODNA STRANA,40000.0,prevod na volby NR SR 2023 z BU SNS,222023.0,SNS,PS
+10770,2023-07-21,"MultiMedia, s.r.o.",-132.0,reklamny priestor,230700013.0,SNS,PS
+10777,2023-07-21,"ZNAČKY, s.r.o.",-1320.0,reklamny priestor,235013.0,SNS,PS
+10776,2023-07-21,"ARTON, s.r.o.",-480.0,reklamny priestor,230386.0,SNS,PS
+10775,2023-07-21,"ARTON, s.r.o.",-36.0,reklamny priestor,230387.0,SNS,PS
+10773,2023-07-21,"ARTON, s.r.o.",-72.0,reklamny priestor,230383.0,SNS,PS
+10772,2023-07-21,"ARTON, s.r.o.",-1080.0,reklamny priestor,230382.0,SNS,PS
+10771,2023-07-21,"HOLENDA, s.r.o.",-1080.0,reklamny priestor,2023124.0,SNS,PS
+10774,2023-07-21,Obec Východná,-56.0,ostatné náklady,42023.0,SNS,PS
+10769,2023-07-21,SLOV NARODNA STRANA,30000.0,prevod na volby NR SR 2023 z BU SNS,212023.0,SNS,PS
+10768,2023-07-21,"ARTON, s.r.o.",-480.0,reklamny priestor,230380.0,SNS,PS
+10767,2023-07-21,"EUNICA Megaboards, s.r.o.",-7617.6,reklamny priestor,202302.0,SNS,PS
+10766,2023-07-21,"Vecos.eu, s.r.o.",-675.0,ostatné náklady,20231174.0,SNS,PS
+10765,2023-07-21,"GRYF reklamné štúdio,s.r.o.",-768.0,reklamny priestor,23046.0,SNS,PS
+10764,2023-07-21,"SLOVNAFT, a.s.",-735.21,cestovné výdavky,3081911722.0,SNS,PS
+10763,2023-07-21,"Petit Press, a.s. divízia týždenníkov, o.z.",-5040.0,inzercia,2333101403.0,SNS,PS
+10762,2023-07-21,"MultiMedia, s.r.o.",-132.0,reklamny priestor,230700006.0,SNS,PS
+10778,2023-07-20,"TigerPrint, s.r.o.",-5262.51,reklamne predmety,20230635.0,SNS,PS
+10779,2023-07-20,SLOV NARODNA STRANA,30000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
+10780,2023-07-20,"ARTON, s.r.o.",-23400.0,reklamny priestor,230388.0,SNS,PS
+10781,2023-07-20,"ISPA, spol. s.r.o.",-2700.0,reklamny priestor,23950194.0,SNS,PS
+10782,2023-07-20,"ARTON, s.r.o.",-2340.0,reklamny priestor,230389.0,SNS,PS
+10785,2023-07-19,"SANN, s.r.o.",-438.06,reklamne plochy,3352023.0,SNS,PS
+10784,2023-07-19,"EUNICA MEDIA, s.r.o.",-10009.2,reklamny priestor,723.0,SNS,PS
+10783,2023-07-19,"REGIONPRESS, s.r.o.",-14927.64,inzerca,334230005.0,SNS,PS
+10786,2023-07-17,SLOV NARODNA STRANA,30000.0,prevod na volby NR SR 2023 z BU SNS,1902023.0,SNS,PS
+10787,2023-07-14,"euroAWK, spol. s r.o",-168.0,reklamny priestor tlac,234063.0,SNS,PS
+10788,2023-07-14,SLOV NARODNA STRANA,20000.0,prevod na volby NR SR 2023 z BU SNS,1902023.0,SNS,PS
+10790,2023-07-14,"JVplusAV, s.r.o.",-2208.0,reklamna plocha,2202204.0,SNS,PS
+10791,2023-07-14,Juraj Jánošík - Grafické štúdio,-100.0,ostatné náklady,642023.0,SNS,PS
+10792,2023-07-14,"EUNICA MEDIA, s.r.o.",-13075.2,reklamny priestor,423.0,SNS,PS
+10793,2023-07-14,"Vecos.eu, s.r.o.",-270.0,ostatné náklady,20231144.0,SNS,PS
+10794,2023-07-14,"Skiland, s.r.o.",-1620.0,ostatné náklady,2023062.0,SNS,PS
+10795,2023-07-14,"euroAWK, spol. s r.o",-324.0,reklamny priestor,2370065.0,SNS,PS
+10796,2023-07-14,"BigMedia, spol. s.r.o.",-1512.0,reklamné plochy,1223205530.0,SNS,PS
+10797,2023-07-14,"euroAWK, spol. s r.o",-1716.0,reklamny priestor tlac,2370064.0,SNS,PS
+10801,2023-07-13,"TigerPrint, s.r.o.",-7399.85,reklamne predmety,20230621.0,SNS,PS
+10802,2023-07-13,SLOV NARODNA STRANA,25000.0,prevod na volby NR SR 2023 z BU SNS,1802023.0,SNS,PS
+10798,2023-07-13,"Katarína Poturnay, s.r.o.",-170.0,ostatne naklady,2023016.0,SNS,PS
+10800,2023-07-13,"ISPA, spol. s.r.o.",-19440.0,reklamny priestor,23950165.0,SNS,PS
+10799,2023-07-13,Milan Sabo,-270.0,ostatne naklady,152023.0,SNS,PS
+10803,2023-07-11,"GRYF reklamné štúdio,s.r.o.",-198.0,reklamny priestor,20232260.0,SNS,PS
+10805,2023-07-07,"GRYF reklamné štúdio,s.r.o.",-19800.0,reklamny priestor,23047.0,SNS,PS
+10804,2023-07-07,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,1702023.0,SNS,PS
+10806,2023-07-06,Lenka Zlatev,-750.0,inzercia,2023003.0,SNS,PS
+10807,2023-07-06,"GRYF reklamné štúdio,s.r.o.",-24888.0,reklamny priestor,23048.0,SNS,PS
+10808,2023-07-06,"VERBINA, o.z.",-1000.0,inzercia,230600004.0,SNS,PS
+10810,2023-07-03,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,1602023.0,SNS,PS
+10812,2023-07-03,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,1502023.0,SNS,PS
+10817,2023-06-30,"BigMedia, spol. s.r.o.",-342.0,reklamné plochy 08-09 2023,122390098.0,SNS,PS
+10820,2023-06-30,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10819,2023-06-30,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10818,2023-06-30,"Eurofins Food Testing Slovakia, s.r.o.",-102.72,ostatne naklady,23004080.0,SNS,PS
+10815,2023-06-30,"EUNICA MEDIA, s.r.o.",-8370.0,reklamny priestor,323.0,SNS,PS
+10816,2023-06-30,"TigerPrint, s.r.o.",-3120.0,reklamne predmety,20230589.0,SNS,PS
+10814,2023-06-30,,-5.0,Zverejňovanie účtu,,SNS,PS
+10813,2023-06-30,"TigerPrint, s.r.o.",-5880.0,reklamne predmety,20230599.0,SNS,PS
+10821,2023-06-29,"euroAWK, spol. s r.o",-24.0,reklamny priestor tlac,233456.0,SNS,PS
+10822,2023-06-29,"SHARKAM B&B CATERING, s.r.o.",-3000.0,ostatne naklady,20230055.0,SNS,PS
+10823,2023-06-29,NOTPROVIDED,-2676.0,reklamny priestor,623.0,SNS,PS
+10824,2023-06-27,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,1402023.0,SNS,PS
+10826,2023-06-26,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,1302023.0,SNS,PS
+10828,2023-06-23,"TigerPrint, s.r.o.",-1764.0,reklamne predmety,20230583.0,SNS,PS
+10829,2023-06-22,"ARTON, s.r.o.",-2880.0,reklamny priestor,230331.0,SNS,PS
+10830,2023-06-22,SLOV NARODNA STRANA,20000.0,prevod na volby NR SR 2023 z BU SNS,1202023.0,SNS,PS
+10831,2023-06-22,"ARTON, s.r.o.",-345.6,reklamny priestor,230332.0,SNS,PS
+10832,2023-06-22,"ARTON, s.r.o.",-1800.0,reklamny priestor,230333.0,SNS,PS
+10833,2023-06-22,"ARTON, s.r.o.",-270.0,reklamny priestor,230334.0,SNS,PS
+10834,2023-06-22,"HAVOC, s.r.o,",-2700.0,služby ostatné náklady,20230057.0,SNS,PS
+10835,2023-06-22,"NUBIUM, s.r.o.",-11520.0,reklamny priestor,13120211.0,SNS,PS
+10836,2023-06-21,"HAVOC, s.r.o,",-2460.0,služby ostatné náklady,20230053.0,SNS,PS
+10837,2023-06-21,NOTPROVIDED,-950.0,ostatne naklady,23018.0,SNS,PS
+10842,2023-06-20,SLOV NARODNA STRANA,30000.0,prevod na volby NR SR 2023 z BU SNS,1102023.0,SNS,PS
+10841,2023-06-20,"TENIS CENTRUM, s.r.o.",-11401.3,ostatne naklady,2306049.0,SNS,PS
+10840,2023-06-20,"TigerPrint, s.r.o.",-13329.6,reklamne predmety,20230551.0,SNS,PS
+10839,2023-06-20,"TigerPrint, s.r.o.",-1764.0,reklamne predmety,20230544.0,SNS,PS
+10838,2023-06-20,,-15.0,Popl.Urg.prevod/Urg.prevod EUR EHP (EB),20230544.0,SNS,PS
+10843,2023-06-19,Miroslav Kürthy,-1200.0,ostatne naklady,2023005.0,SNS,PS
+10844,2023-06-19,SLOV NARODNA STRANA,3000.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
+10845,2023-06-19,"TigerPrint, s.r.o.",-192.0,reklamne predmety,20230562.0,SNS,PS
+10846,2023-06-19,"euroAWK, spol. s r.o",-468.0,reklamny priestor,2301266.0,SNS,PS
+10847,2023-06-19,"ISPA, spol. s.r.o.",-30.0,reklamny priestor,20232668.0,SNS,PS
+10850,2023-06-07,"I.D.C Holding, a.s.",-2219.4,reklamne predmety,2231400007.0,SNS,PS
+10851,2023-06-07,SLOV NARODNA STRANA,2000.0,prevod na volby NR SR 2023 z BU SNS,9002023.0,SNS,PS
+10854,2023-06-06,"TigerPrint, s.r.o.",-7666.5,reklamne predmety,20230511.0,SNS,PS
+10852,2023-06-06,SLOV NARODNA STRANA,7000.0,prevod na volby NR SR 2023 z BU SNS,8002023.0,SNS,PS
+10853,2023-06-06,"AEROFLEX - SK, s.r.o.",-829.44,reklamne predmety,2023126.0,SNS,PS
+10856,2023-06-05,"ARTON, s.r.o.",-21720.0,reklamny priestor,230252.0,SNS,PS
+10855,2023-06-05,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,7002023.0,SNS,PS
+10857,2023-06-02,"TigerPrint, s.r.o.",-382.8,reklamne predmety,20230412.0,SNS,PS
+10858,2023-05-31,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10859,2023-05-31,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10860,2023-05-31,,-5.0,Zverejňovanie účtu,,SNS,PS
+10863,2023-05-26,"TigerPrint, s.r.o.",-3456.0,reklamne predmety,20230468.0,SNS,PS
+10864,2023-05-26,"ROPA, s.r.o.",-480.0,reklamny priestor,20230049.0,SNS,PS
+10862,2023-05-26,SLOV NARODNA STRANA,15000.0,prevod na volby NR SR 2023 z BU SNS,6002023.0,SNS,PS
+10861,2023-05-26,"ARTON, s.r.o.",-2172.0,reklamny priestor,230253.0,SNS,PS
+10865,2023-05-24,"euroAWK, spol. s r.o",-648.0,kampan billboardy,2370034.0,SNS,PS
+10866,2023-05-23,"HAVOC, s.r.o,",-2688.0,služby ostatné náklady,20230048.0,SNS,PS
+10867,2023-05-23,"ARTON, s.r.o.",-20280.0,reklamny priestor 06/2023 kampaň,230254.0,SNS,PS
+10868,2023-05-19,"TigerPrint, s.r.o.",-132.18,reklamne predmety,20230452.0,SNS,PS
+10869,2023-05-19,"ARTON, s.r.o.",-2028.0,reklamny priestor,230255.0,SNS,PS
+10870,2023-05-19,"ISPA, spol. s.r.o.",-3276.0,reklamny priestor,23950125.0,SNS,PS
+10871,2023-05-19,SLOV NARODNA STRANA,5000.0,prevod na volby NR SR 2023 z BU SNS,5002023.0,SNS,PS
+10872,2023-05-19,SLOV NARODNA STRANA,20000.0,prevod na volby NR SR 2023 z BU SNS,4002023.0,SNS,PS
+10876,2023-05-18,"HAVOC, s.r.o,",-1920.0,služby ostatné náklady,20230047.0,SNS,PS
+10875,2023-05-18,"TigerPrint, s.r.o.",-1312.99,reklamne predmety,20230432.0,SNS,PS
+10874,2023-05-18,SLOV NARODNA STRANA,20000.0,prevod na volby NR SR 2023 z BU SNS,3002023.0,SNS,PS
+10873,2023-05-18,"BigMedia, spol. s.r.o.",-12968.4,reklamné plochy 06 2023,122390074.0,SNS,PS
+10878,2023-05-10,"ISPA, spol. s.r.o.",-27360.0,billboardy,23950119.0,SNS,PS
+10879,2023-05-09,SLOV NARODNA STRANA,25000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
+10881,2023-05-04,"2U spol, s.r.o.",-1983.0,reklamne predmety,21230641.0,SNS,PS
+10882,2023-05-04,"TigerPrint, s.r.o.",-7214.19,reklamne predmety,20230391.0,SNS,PS
+10883,2023-05-03,SLOV NARODNA STRANA,10000.0,prevod na volby NR SR 2023 z BU SNS,3002023.0,SNS,PS
+10884,2023-05-02,Milena Leskovjanska STATOR,-745.2,ostatne naklady,23001275.0,SNS,PS
+10891,2023-04-30,,-5.0,Zverejňovanie účtu,,SNS,PS
+10890,2023-04-30,,-5.0,Poplatok za vedenie účtu,,SNS,PS
+10889,2023-04-30,,-0.2,Poplatok za platbu kartou,,SNS,PS
+10888,2023-04-30,,-3.5,"Vedenie Platobnej karty embosovanej,2315,5,Karta č. 4544 17** **** 9943Poplatok za Platobnú kartu",,SNS,PS
+10887,2023-04-30,,-0.2,Poplatok za platbu kartou,,SNS,PS
+10886,2023-04-30,,-46.39,"B1517298248-44544 17** **** 9943;KINEKUS, ZA, KAMENNA ,ZILINA ,SK ;28.04.2023 11:53:03 ;CashBack:0 EUR",,SNS,PS
+10885,2023-04-30,,-26.32,"B1517594249-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;28.04.2023 12:04:42 ;CashBack:0 EUR",,SNS,PS
+10892,2023-04-21,,-0.2,Poplatok za platbu kartou,,SNS,PS
+10893,2023-04-21,,-59.44,"B1511236929-44544 17** **** 9943;SLOVPAP SK S R O ,ZILINA ,SK ;20.04.2023 12:43:41 ;CashBack:0 EUR",,SNS,PS
+10894,2023-04-18,"GRYF reklamné štúdio,s.r.o.",-576.0,billboardy d,23029.0,SNS,PS
+10895,2023-04-18,"BigMedia, spol. s.r.o.",-525.6,billboardy d,122390047.0,SNS,PS
+10896,2023-04-18,SLOV NARODNA STRANA,4000.0,prevod na volby NR SR 2023 z BU SNS,2002023.0,SNS,PS
+10897,2023-04-06,SLOV NARODNA STRANA,100.0,prevod na volby NR SR 2023 z BU SNS,1002023.0,SNS,PS
+10898,2023-03-31,,-0.16,Poplatok za vedenie účtu,,SNS,PS

@@ -1,0 +1,725 @@
+index,date,account_name,amount,message,vs,name,label
+4236,2023-10-31,,-5.0,Zverejňovanie účtu,,Smer,PS
+4237,2023-10-31,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4244,2023-10-19,"PETIT PRESS, A.S.DIV",-180.0,FD-2275-inzercia,2335110114.0,Smer,PS
+4249,2023-10-19,PETIT PRESS,-1579.2,FD-2302-inzercia,,Smer,PS
+4248,2023-10-19,"REGIONPRESS, S.R.O.",-2700.0,FD-2241-inzercia,336230038.0,Smer,PS
+4247,2023-10-19,"REGIONPRESS, S.R.O.",-2700.0,FD-2242-inzercia,336230042.0,Smer,PS
+4245,2023-10-19,"PETIT PRESS, A.S.DIV",-180.0,FD-2276-inzercia,2335110117.0,Smer,PS
+4246,2023-10-19,"PETIT PRESS, A.S.DIV",-180.0,FD-2277-inzercia,2335110126.0,Smer,PS
+4243,2023-10-19,NAVI s.r.o.,-249.0,FD-2180-obcerstvenie,342023.0,Smer,PS
+4242,2023-10-19,COPKOVA IVETA,-50.0,FD-2181-veniec,230019.0,Smer,PS
+4241,2023-10-19,TS Plus s.r.o.,-350.0,FD-2223-obcerstvenie,20230020.0,Smer,PS
+4240,2023-10-19,LAHODKY-DANIELA,-130.0,FD-2224-mineralna voda,231103.0,Smer,PS
+4239,2023-10-19,SMER - sociálna demokracia,20253.0,Vklad prostriedkov z BU za ucelom uhrady nakladov na volby do NR SR,19102023.0,Smer,PS
+4238,2023-10-19,"PETIT PRESS, A.S.DIV",-120.0,FD-2274-inzercia,2335108969.0,Smer,PS
+4250,2023-10-13,"Bytova podnik mesta Kosice,s.r.o.",-191.86,FD-2265-elektr.energia,512301219.0,Smer,PS
+4251,2023-10-13,AKRA reklama s.r.o.,-360.0,FD-2267-podpiskarty,110230215.0,Smer,PS
+4252,2023-10-13,Pavol Repta,-800.0,FD-2266-prenajom,2023003.0,Smer,PS
+4258,2023-10-12,TLACIAREN KEZMAROK G,-399.6,FD-2243-letaky,20231347.0,Smer,PS
+4261,2023-10-12,COLTSUN-CONSULT,-400.0,"FD-2245-banner,plagat",2309011.0,Smer,PS
+4260,2023-10-12,ADIN,-310.0,FD-2244-plagaty,4223.0,Smer,PS
+4259,2023-10-12,Jaroslav Oprala GARMONDNITRA-vydav.,-192.0,FD-2239-plagaty,230406.0,Smer,PS
+4256,2023-10-12,"REALEXPO,S.R.O.",-996.0,FD-merkantil,2230863.0,Smer,PS
+4257,2023-10-12,MESTO LEVICE,-280.0,FD-2237-dan za uzivanie verej.priestranstva,3080000244.0,Smer,PS
+4255,2023-10-12,"ARC Design,s.r.o.",-120.0,FD-2236-plagaty,23088.0,Smer,PS
+4254,2023-10-12,DZS Optimus s.r.o.,-144.0,FD-2235-zdravot.asistencia,2322.0,Smer,PS
+4253,2023-10-12,Polepy-Potlace s.r.o.,-200.0,FD-2240-propagacne materialy,2023102.0,Smer,PS
+4268,2023-10-11,"BEEL,s.r.o.",-516.0,FD-2216-podpiskarty,23388.0,Smer,PS
+4272,2023-10-11,PETIT PRESS,-324.0,FD-2212-inzercia,2335109654.0,Smer,PS
+4271,2023-10-11,"LIPOPRINT,S.R.O.",-108.0,FD-2213-plagat,2023241.0,Smer,PS
+4270,2023-10-11,Dom kultury mesta Handlova,-80.0,FD-2214-prenajom,5023067.0,Smer,PS
+4269,2023-10-11,TS Plus s.r.o.,-600.0,FD-2215-podpiskarty,20230021.0,Smer,PS
+4267,2023-10-11,Duvel - Tlac a reklama s.r.o.,-99.0,FD-2217-podpiskarty,2023178.0,Smer,PS
+4266,2023-10-11,Anton Toma TOMA s.r.o.,-511.68,FD-2219-reklam.predmety,230450.0,Smer,PS
+4265,2023-10-11,Building s.r.o.,-201.6,FD-2220-prenajom reklamnych panelov,230902.0,Smer,PS
+4264,2023-10-11,Duvel - Tlac a reklama s.r.o.,-52.8,FD-2221-plagaty,2023185.0,Smer,PS
+4263,2023-10-11,R&J Sound and Light s.r.o.,-400.0,FD-2222-ozvucenie mitingu,202334.0,Smer,PS
+4262,2023-10-11,Anton Toma TOMA s.r.o.,-483.84,FD-2218-reklamne predmety,230487.0,Smer,PS
+4279,2023-10-10,AGAL,-500.0,"FD-2178-graficke prace, sluzby na FB",3.0,Smer,PS
+4282,2023-10-10,"EMINENT, spol. s r.o.",-696.0,"FD-2176-prenajom, zvuk,technika",20230270.0,Smer,PS
+4281,2023-10-10,SHR zvaz zdravotne postihnutych,-300.0,FD-2182-kulturny program,722023.0,Smer,PS
+4280,2023-10-10,"3M media, s.r.o.",-300.0,FD-2179-video,23040.0,Smer,PS
+4278,2023-10-10,Stefan Ozorak ETIEN reklamka,-1812.0,"FD-2177-banery,bilboard,plagaty, rekl.predmety",230156.0,Smer,PS
+4276,2023-10-10,Janicek Marek - Marcraft,-150.0,FD-2473-fotosluzby,20230044.0,Smer,PS
+4275,2023-10-10,ASGuard security s.r.o.,-960.0,FD-2172-bezpecnostna sluzba,5023069.0,Smer,PS
+4274,2023-10-10,Jaroslav Timan,-1060.0,FD-2151-vystupenie,23001.0,Smer,PS
+4273,2023-10-10,Richard Horny,-150.0,FD-2174-banner,20230086.0,Smer,PS
+4277,2023-10-10,Juraj Datko,-410.0,FD-2175-mat.tech.zabezpecenie akcie,2023046.0,Smer,PS
+4283,2023-10-09,Financna sprava Bratislava,-13521.06,DPH-9/2023,1100092023.0,Smer,PS
+4299,2023-10-06,"Excel Media Group,s.r.o.",-300.0,FD-2148-inzercia,230189.0,Smer,PS
+4294,2023-10-06,ADIN,-156.0,FD-2142-roll-up,4423.0,Smer,PS
+4304,2023-10-06,Adma s.r.o.,-170.0,FD-2170-prenajom vycap.zar.,223001.0,Smer,PS
+4303,2023-10-06,MESTO STARA LUBOVNA,-20.0,FD-2153-dan za uzivanie verej.priestranstva,1500000115.0,Smer,PS
+4302,2023-10-06,"STUDIO 9,s.r.o.",-2000.0,FD-2144-Drapak,20230018.0,Smer,PS
+4301,2023-10-06,MediAdam s.r.o.,-470.0,"FD-2150-tlac na bilboard,banner",20230902.0,Smer,PS
+4300,2023-10-06,MESTSKE KULTURNE STR,-21.6,FD-2149-vylep plagatov,2023117.0,Smer,PS
+4298,2023-10-06,MediAdam s.r.o.,-330.0,FD-2147-tlac plagatov,20230903.0,Smer,PS
+4297,2023-10-06,Obec Kamenica nad Cirochou,-10.0,FD-2146-oznam v rozhlase,202335.0,Smer,PS
+4296,2023-10-06,Obec Kamienka,-8.0,FD-2145-oznam v rozhlase,3.0,Smer,PS
+4295,2023-10-06,Bc.Andrea Feckova Vydavatelstvo SPE,-230.0,FD-2152-inzercia,2023121.0,Smer,PS
+4286,2023-10-06,Obec Nova Dedinka,-195.0,FD-2133-dan za uzivanie verej.priestranstva,2310082.0,Smer,PS
+4292,2023-10-06,PENZION CIERNA PANI-PADYCH FRANTISE,-500.0,FD-2140-prenajom a obcerstvenie,2023274.0,Smer,PS
+4291,2023-10-06,Starski s.r.o.,-2730.0,"FD-2139-plagaty,letaky",23030386.0,Smer,PS
+4290,2023-10-06,ASCS company s.r.o.,-672.0,FD-2137-roznos letakov,102023.0,Smer,PS
+4289,2023-10-06,REKLAMA RANGL ERIK,-156.6,FD-2136-plagaty,2023321.0,Smer,PS
+4288,2023-10-06,Fobos trading s.r.o.,-1874.4,"FD-2135-plagaty,merkantil",3110310156.0,Smer,PS
+4287,2023-10-06,Mestska cast Bratislava-Stare mesto,-80.0,FD-2134-dan za uzivanie verej.priestranstva,6340074697.0,Smer,PS
+4293,2023-10-06,"D.A.H.,s.r.o. Presov",-198.0,"FD-2141-banner,plagaty,podpiskarty",6230856.0,Smer,PS
+4285,2023-10-06,GELATO s.r.o.,-150.0,FD-2143-zmrzlina,2023002.0,Smer,PS
+4284,2023-10-06,Marek Belko,-770.0,FD-2138-prenajom reklamnej plochy,202317.0,Smer,PS
+4324,2023-10-05,3D Products s.r.o.,-537.0,"FD-2107-tlac banneru,bilboardu,vylep",2023185.0,Smer,PS
+4326,2023-10-05,MESTO SVIDN K,-98.9,"FD-2106-prenajom,oznam v rozhlase",1310300907.0,Smer,PS
+4325,2023-10-05,MESTSK KULT RNE STREDISKO MICHALOV,-100.0,FD-2109-prenajom,230519.0,Smer,PS
+4328,2023-10-05,TLACIAREN SVIDNICKA,-439.2,"FD-2104-bilboard,plagaty,podpiskarty",20230904.0,Smer,PS
+4323,2023-10-05,LUBOVN.MEDIAL.SPOL.,-263.0,FD-2108-inzercia,2309021.0,Smer,PS
+4322,2023-10-05,MESTO POPRAD,-50.0,FD-2103-dan za uzivanie verejneho priestranstva,2020407941.0,Smer,PS
+4327,2023-10-05,PONO PRESS SIVAK,-100.0,FD-2105-inzercia,230100232.0,Smer,PS
+4320,2023-10-05,JaWo s.r.o.,-642.0,FD-2081-zabezpecenie akcie,2023008.0,Smer,PS
+4329,2023-10-05,Mesto Banska Bystrica,-180.0,FD-2096-prenajom,7420230249.0,Smer,PS
+4330,2023-10-05,"PONET PRESS, Kantulak",-196.8,FD-2102-inzercia,23187.0,Smer,PS
+4331,2023-10-05,STABO BARDEJOV,-407.76,"FD-2100-letaky,plagaty",2023304.0,Smer,PS
+4332,2023-10-05,MESTO ZIAR NAD HRONOM,-158.0,FD-2099-inzercia,58.0,Smer,PS
+4334,2023-10-05,AKRA reklama s.r.o.,-150.0,FD-2097-podpiskarty,110230198.0,Smer,PS
+4335,2023-10-05,Mesto Bardejov,-50.0,FD-2101-vylep plagatov,9015300068.0,Smer,PS
+4321,2023-10-05,AKRA reklama s.r.o.,-4899.6,"FD-2095-podpiskarty,propagacny polep vozidla,graficke prace",110230200.0,Smer,PS
+4333,2023-10-05,"APRINT, s.r.o.",-546.0,FD-2098-merkantil,20230401.0,Smer,PS
+4319,2023-10-05,LIJO s.r.o.,-379.43,FD-2093-obcerstvenie,1020230019.0,Smer,PS
+4311,2023-10-05,"MEROL Consulting, spol. s r.o.",-2532.0,FD-technicke zabepecenie prevolebnych stretnuti,2023040.0,Smer,PS
+4306,2023-10-05,Obec Soporna,-110.0,FD-2088-prenajom saly,122023.0,Smer,PS
+4307,2023-10-05,pure nature s.r.o.,-1542.0,"FD-2089-prenajom,catering,videozaznamy",23010005.0,Smer,PS
+4305,2023-10-05,JOMIZ s.r.o.,-280.8,FD-2090-obcerstvenie,2023065.0,Smer,PS
+4308,2023-10-05,"MM Gastro Trade, s.r.o.",-505.0,FD-2086-technicke zabezpecenie akcie,10230019.0,Smer,PS
+4309,2023-10-05,PONTOS s.r.o.,-420.0,FD-2091-obcerstvenie,2312070.0,Smer,PS
+4310,2023-10-05,DOM ODBOROV SPOL.,-54.0,FD-2092-prenajom,2023201.0,Smer,PS
+4318,2023-10-05,Lenka Leukanicova,-500.0,FD-2066-vystupenie folklor.skupiny,10230001.0,Smer,PS
+4312,2023-10-05,PaedDr. Peter Halaj,-50.0,FD-2094-graficke prace,13.0,Smer,PS
+4314,2023-10-05,FABRICO S.R.O.,-476.16,FD-2084-plagaty,20230057.0,Smer,PS
+4315,2023-10-05,Fineri s.r.o.,-408.0,FD-2083-prenajom stanu,2300076.0,Smer,PS
+4316,2023-10-05,Fineri s.r.o.,-132.0,FD-2082-prenajom elektroniky,2300075.0,Smer,PS
+4317,2023-10-05,JaWo s.r.o.,-716.0,FD-2080-zabezpecenie akcie,2023007.0,Smer,PS
+4313,2023-10-05,necsa s.r.o.,-880.0,FD-2085-technicke zabepecenie akcie,230007.0,Smer,PS
+4360,2023-10-03,D.B.comp.s.r.o.,-156.0,FD-2069-LED obrazovka,230037.0,Smer,PS
+4353,2023-10-03,PLODOOVOC-CONTEXO s.r.o.,-220.61,FD-2070-repre,20230140.0,Smer,PS
+4355,2023-10-03,Kosticakova Monika,-1200.0,FD-2075-gulas,522023.0,Smer,PS
+4356,2023-10-03,Obcianske zdruzenie Sobrancan,-300.0,FD-2074-vystupenie suboru,2023007.0,Smer,PS
+4357,2023-10-03,PLODOOVOC-CONTEXO s.r.o.,-100.0,FD-2073-zapozicanie stolov,20230144.0,Smer,PS
+4358,2023-10-03,"Socialny podnik Tibava,s.r.o.",-50.0,FD-2072-stavebne upravy pri stanku,2023018.0,Smer,PS
+4359,2023-10-03,Jan Kosticak,-100.0,FD-2071-prenajom,230048.0,Smer,PS
+4363,2023-10-03,PETIT PRESS,-76.5,FD-2065-inzercia,2335109614.0,Smer,PS
+4361,2023-10-03,Marek Moskal Restauracia ROZKVET,-620.0,FD-2068-obcerstvenie,182023.0,Smer,PS
+4362,2023-10-03,Robert Rusnak,-700.0,FD-2067-gulas,81230081.0,Smer,PS
+4364,2023-10-03,Erika Michalcinova - REKLAMA,-1800.0,FD-2064-tech.-org.zabezpecenie mitingov,20230903.0,Smer,PS
+4365,2023-10-03,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4366,2023-10-03,"REGIONPRESS, S.R.O.",-3531.6,FD-2063-inzercia,836230708.0,Smer,PS
+4351,2023-10-03,BUKOVCAN MIROSLAV,-489.6,FD-2058-bagety,230063.0,Smer,PS
+4352,2023-10-03,"REGIONPRESS, S.R.O.",-3531.6,FD-2062-inzercia,836230691.0,Smer,PS
+4354,2023-10-03,,-102.74,"B1633410259-44544 17** **** 8717;FACEBK *975YUS3G72 ,fb.me/ads ,IE ;02.10.2023 11:28:04 ;CashBack:0 EUR",,Smer,PS
+4350,2023-10-03,"BROART plus,s.r.o.",-250.0,FD-2060-podpiskarty,20230033.0,Smer,PS
+4343,2023-10-03,Mesto Turzovka,-17.0,FD-2048-oznam v miestnom rozhlase,1315300151.0,Smer,PS
+4337,2023-10-03,Mesto Zarnovica,-476.0,FD-2059-prenajom,9018300081.0,Smer,PS
+4338,2023-10-03,"POKROK VK,s.r.o.",-500.0,FD-2057-inzercia,372023.0,Smer,PS
+4339,2023-10-03,PLUTOS IMROVICOVA GABRIELA,-172.0,"FD-2056-vyroba banneru,plagatov",2310069.0,Smer,PS
+4340,2023-10-03,"ART Brezno, s.r.o.",-315.0,"FD-2055-letaky, vylep plagatov",20230086.0,Smer,PS
+4341,2023-10-03,AMIKUS spol.s r.o.,-661.72,FD-2054-obcerstvenie,2023081.0,Smer,PS
+4342,2023-10-03,"Gemerska medialna spolocnost,s.r.o.",-150.0,FD-2053-PR clanok,20230137.0,Smer,PS
+4344,2023-10-03,"Pivovar Veteran,s.r.o.",-300.0,FD-2050-obcerstvenie,1020230001.0,Smer,PS
+4345,2023-10-03,Ivana Hruskova,-132.0,FD-2049-propagacne materialy,23200178.0,Smer,PS
+4346,2023-10-03,Expresta s.r.o.,-75.62,FD-2047-letaky,41252743.0,Smer,PS
+4347,2023-10-03,Expresta s.r.o.,-104.87,FD-2046-letaky,41252743.0,Smer,PS
+4348,2023-10-03,"webwx advertising,s.r.o.",-100.0,FD-2045-letaky,230446.0,Smer,PS
+4336,2023-10-03,"OMNIKO, s.r.o.",-1498.4,FD-2051-gulas,12023090.0,Smer,PS
+4349,2023-10-03,MESTO REVUCA,-30.0,FD-2061-oznam v rozhlase,920230166.0,Smer,PS
+4367,2023-10-02,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4368,2023-10-02,,-306.66,"B1632981319-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;01.10.2023 19:49:26 ;CashBack:0 EUR",,Smer,PS
+4370,2023-09-30,,-5.0,Zverejňovanie účtu,,Smer,PS
+4369,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4402,2023-09-29,Anna Pirohanicova,-470.0,FD-2025-obcerstvenie,230003.0,Smer,PS
+4401,2023-09-29,Mesto Krompachy,-1.8,FD-2022-dan za uzivanie verej.priestranstva,3628300008.0,Smer,PS
+4400,2023-09-29,SLUZBY MESTA MICHALO,-55.0,FD-2023-obcerstvenie,303230009.0,Smer,PS
+4399,2023-09-29,Vorreiter Roman PRINTMEDIA,-480.0,FD-2024-letaky,20230154.0,Smer,PS
+4398,2023-09-29,"Wecko Sanita a technika, s.r.o.",-180.0,FD-2021-mobilne wc,7230692.0,Smer,PS
+4387,2023-09-29,Vorreiter Roman PRINTMEDIA,-108.0,FD-2029-billboard,20230160.0,Smer,PS
+4397,2023-09-29,Glasfol MEDIA s.r.o.,-216.0,FD-2026-podpiskarty,20230083.0,Smer,PS
+4396,2023-09-29,polep.sk s.r.o.,-343.68,"FD-2001-plagaty,banner",20230453.0,Smer,PS
+4395,2023-09-29,Diamond Vision s.r.o.,-450.0,"FD-2028-plagaty,letaky",2023019.0,Smer,PS
+4394,2023-09-29,OBEC CHONKOVCE,-250.0,FD-2030-prenajom,22023.0,Smer,PS
+4393,2023-09-29,Mestska cast Bratislava-Karlova Ves,-250.0,FD-1998-prenajom pozemku,3492023.0,Smer,PS
+4392,2023-09-29,Peter Hloska,-2201.5,FD-1999-obcerstvenie,202023.0,Smer,PS
+4391,2023-09-29,Avest s.r.o.,-360.0,FD-2000-tlac banneru,20230541.0,Smer,PS
+4390,2023-09-29,Mala Praha s.r.o.,-650.0,FD-2020-obcerstvenie,2023018.0,Smer,PS
+4389,2023-09-29,AGREX s.r.o.,-171.0,FD-2027-catering,210202.0,Smer,PS
+4388,2023-09-29,SEDEM - reklamna agentura,-793.2,"FD-2019-roll up,plagaty,podpiskarty",112300395.0,Smer,PS
+4376,2023-09-29,SEDEM - reklamna agentura,-198.0,FD-2018-podpiskarty,112300394.0,Smer,PS
+4386,2023-09-29,OZ V OBRAZE,-140.0,FD-2032-inzercia,20230071.0,Smer,PS
+4378,2023-09-29,"GAMA Group,s.r.o.",-360.0,FD-1961-zabezpecenie ochrany,2301018.0,Smer,PS
+4385,2023-09-29,MF catering s.r.o.,-140.0,FD-2031-obcerstvenie,23211.0,Smer,PS
+4372,2023-09-29,PRIMA PRINT S.R.O.,-434.4,FD-1956-podpiskarty,202309017.0,Smer,PS
+4373,2023-09-29,PRIMA PRINT S.R.O.,-82.8,FD-1957-plagaty,202309040.0,Smer,PS
+4374,2023-09-29,VENOM CC,-288.0,FD-1958-merkantil,22046.0,Smer,PS
+4375,2023-09-29,"TOP production SK,s.r.o.",-214.28,FD-1959-LED reklama,2023049.0,Smer,PS
+4377,2023-09-29,"music DRIVE production,s.r.o.",-260.0,FD-1960-prenajom detskej atrakcie,50230017.0,Smer,PS
+4371,2023-09-29,"PETIT PRESS, A.S.DIV",-598.34,Zalohova fa c.62-inzercia,2333101835.0,Smer,PS
+4379,2023-09-29,"STEMI,s.r.o.",-1000.0,FD 1962-prenajom detskych atrakcii,112023.0,Smer,PS
+4384,2023-09-29,"Starohorsky banicky spevokol,n.o.",-150.0,FD-1967-kulturny program,20230802.0,Smer,PS
+4381,2023-09-29,AGAL,-355.0,FD 1964-obcerstvenie,2.0,Smer,PS
+4382,2023-09-29,KOPRINT,-8146.8,FD 1965-noviny,1023621.0,Smer,PS
+4383,2023-09-29,AKRA reklama s.r.o.,-564.0,"FD 1966-podpiskarty, plagaty",110230168.0,Smer,PS
+4380,2023-09-29,OZ Facepainteri,-160.0,FD 1963-malovanie na tvar,20230043.0,Smer,PS
+4443,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4442,2023-09-28,,-500.0,"B1629823144-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 16:44:02 ;CashBack:0 EUR",,Smer,PS
+4441,2023-09-28,,-500.0,"B1629823461-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 18:14:01 ;CashBack:0 EUR",,Smer,PS
+4440,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4439,2023-09-28,,-634.68,"B1630093342-44544 17** **** 8717;FACEBK *N9KWPS3G72 ,fb.me/ads ,IE ;27.09.2023 22:36:19 ;CashBack:0 EUR",,Smer,PS
+4436,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4438,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4437,2023-09-28,,-11.22,"B1630093345-44544 17** **** 8717;FACEBK *EYPKMT3H72 ,fb.me/ads ,IE ;27.09.2023 22:45:40 ;CashBack:0 EUR",,Smer,PS
+4435,2023-09-28,,-15.2,"B1630093346-44544 17** **** 8717;FACEBK *49GPJRXG72 ,fb.me/ads ,IE ;27.09.2023 23:01:57 ;CashBack:0 EUR",,Smer,PS
+4434,2023-09-28,,-800.0,"B1629785264-44544 17** **** 8717;FACEBK *JPWXLT3H72 ,fb.me/ads ,IE ;27.09.2023 10:21:31 ;CashBack:0 EUR",,Smer,PS
+4433,2023-09-28,,-800.0,"B1629818621-44544 17** **** 8717;FACEBK *TGBF9S7G72 ,fb.me/ads ,IE ;27.09.2023 15:39:03 ;CashBack:0 EUR",,Smer,PS
+4445,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4444,2023-09-28,,-500.0,"B1629821126-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 14:14:13 ;CashBack:0 EUR",,Smer,PS
+4453,2023-09-28,,-800.0,"B1629790910-44544 17** **** 8717;FACEBK *HSRVQSXF72 ,fb.me/ads ,IE ;27.09.2023 18:30:27 ;CashBack:0 EUR",,Smer,PS
+4446,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4447,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4448,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4449,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4450,2023-09-28,,-500.0,"B1629797492-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 15:13:51 ;CashBack:0 EUR",,Smer,PS
+4451,2023-09-28,,-800.0,"B1629785998-44544 17** **** 8717;FACEBK *JPX3MT3H72 ,fb.me/ads ,IE ;27.09.2023 12:56:51 ;CashBack:0 EUR",,Smer,PS
+4452,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4454,2023-09-28,,-800.0,"B1629784361-44544 17** **** 8717;FACEBK *EAN7PS3G72 ,fb.me/ads ,IE ;27.09.2023 07:45:12 ;CashBack:0 EUR",,Smer,PS
+4455,2023-09-28,,-800.0,"B1629790938-44544 17** **** 8717;FACEBK *GM9HMT3H72 ,fb.me/ads ,IE ;27.09.2023 21:05:09 ;CashBack:0 EUR",,Smer,PS
+4456,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4457,2023-09-28,,-800.0,"B1629796316-44544 17** **** 8717;FACEBK *V6HK3TBG72 ,fb.me/ads ,IE ;27.09.2023 05:07:55 ;CashBack:0 EUR",,Smer,PS
+4458,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4431,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4432,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4419,2023-09-28,,-800.0,"B1628927124-44544 17** **** 8717;FACEBK *S33J2TBG72 ,fb.me/ads ,IE ;26.09.2023 07:09:30 ;CashBack:0 EUR",,Smer,PS
+4430,2023-09-28,,-500.0,"B1629781898-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 12:13:34 ;CashBack:0 EUR",,Smer,PS
+4416,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4429,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4404,2023-09-28,,-800.0,"B1629039258-44544 17** **** 8717;FACEBK *CPMG8S7G72 ,fb.me/ads ,IE ;26.09.2023 18:41:50 ;CashBack:0 EUR",,Smer,PS
+4405,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4406,2023-09-28,,-800.0,"B1629039264-44544 17** **** 8717;FACEBK *QF5W7TFG72 ,fb.me/ads ,IE ;26.09.2023 20:34:55 ;CashBack:0 EUR",,Smer,PS
+4407,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4408,2023-09-28,,-500.0,"B1629640104-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 04:19:15 ;CashBack:0 EUR",,Smer,PS
+4409,2023-09-28,,-800.0,"B1629335635-44544 17** **** 8717;FACEBK *BMBSUSKG72 ,fb.me/ads ,IE ;26.09.2023 22:21:43 ;CashBack:0 EUR",,Smer,PS
+4410,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4412,2023-09-28,,-500.0,"B1629694055-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;27.09.2023 20:54:57 ;CashBack:0 EUR",,Smer,PS
+4413,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4414,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4415,2023-09-28,,-800.0,"B1628928636-44544 17** **** 8717;FACEBK *XNME7TFG72 ,fb.me/ads ,IE ;26.09.2023 11:13:44 ;CashBack:0 EUR",,Smer,PS
+4411,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4417,2023-09-28,,-800.0,"B1628928602-44544 17** **** 8717;FACEBK *N4ZA7TFG72 ,fb.me/ads ,IE ;26.09.2023 08:35:46 ;CashBack:0 EUR",,Smer,PS
+4423,2023-09-28,,-800.0,"B1628929193-44544 17** **** 8717;FACEBK *JQWFNS3G72 ,fb.me/ads ,IE ;26.09.2023 16:09:11 ;CashBack:0 EUR",,Smer,PS
+4428,2023-09-28,,-800.0,"B1628916658-44544 17** **** 8717;FACEBK *V4SQDTTG72 ,fb.me/ads ,IE ;26.09.2023 05:59:23 ;CashBack:0 EUR",,Smer,PS
+4418,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4426,2023-09-28,,-500.0,"B1628918907-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;26.09.2023 06:19:55 ;CashBack:0 EUR",,Smer,PS
+4425,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4424,2023-09-28,,-800.0,"B1628929162-44544 17** **** 8717;FACEBK *5U5Z8UPG72 ,fb.me/ads ,IE ;26.09.2023 13:45:42 ;CashBack:0 EUR",,Smer,PS
+4427,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4422,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4421,2023-09-28,,-500.0,"B1628930289-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;26.09.2023 16:44:40 ;CashBack:0 EUR",,Smer,PS
+4420,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4403,2023-09-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4470,2023-09-27,FIPROSS s.r.o.,-702.0,FD-1945-volebne tlacoviny,2023080.0,Smer,PS
+4481,2023-09-27,ROCK FABRIC s.r.o.,-400.0,FD-1905-prenajom+obcerstvenie,2.0,Smer,PS
+4480,2023-09-27,OLLE s.r.o.,-70.0,FD-1904-inzercia,202380540.0,Smer,PS
+4479,2023-09-27,Street shops s.r.o.,-1500.0,FD-1903-vystupenie Kasubovcov,1082023.0,Smer,PS
+4477,2023-09-27,PETIT PRESS,-540.0,Zalohova fa c.61-inzercia,2333101770.0,Smer,PS
+4476,2023-09-27,KOSICKE FOLKLORNE STUDIO,-2200.0,FD-1894-vystupenie FS,230012.0,Smer,PS
+4475,2023-09-27,ALTOM Reklama s.r.o.,-60.0,FD-1900-polep stolika,23221191.0,Smer,PS
+4474,2023-09-27,Storytelling s.r.o.,-381.4,FD-1893-letaky,202321.0,Smer,PS
+4473,2023-09-27,RESTAURACIA HERKULES,-727.9,FD-1906-obcerstvenie,2309052.0,Smer,PS
+4472,2023-09-27,"PEGAS Peter Gazi a syn, spol.s r.o.",-594.0,FD-1901-obcerstvenie,20230914.0,Smer,PS
+4471,2023-09-27,PRESS-ING.FECIK Michal,-50.0,FD-1907-inzercia,2309008.0,Smer,PS
+4478,2023-09-27,Obec Kralova pri Senci,-15.0,FD-1902-oznam v rozhlase,362023.0,Smer,PS
+4469,2023-09-27,JARDO SCHNEIDER JAROMIR,-400.0,FD-1909-propagacny material,10230075.0,Smer,PS
+4463,2023-09-27,REDI s.r.o.,-306.24,FD-1944-propagacny material,2023057.0,Smer,PS
+4468,2023-09-27,Novocentrum Nove Zamky a.s.,-600.0,FD-1939-odvysielanie reportaze v NZTV,20230074.0,Smer,PS
+4460,2023-09-27,Maninsky poniklec,-1700.0,FD 1948-prenajom party stanov a setov,2023001.0,Smer,PS
+4462,2023-09-27,WERTZ plus s.r.o.,-90.0,FD-1946-podpiskarty,352023.0,Smer,PS
+4459,2023-09-27,Lubomir Kmit - DONO,-368.0,FD-1908-repre,233755.0,Smer,PS
+4461,2023-09-27,STUDIO TEXO,-516.6,"FD-1947-bannery, letaky",230101170.0,Smer,PS
+4464,2023-09-27,Milan Grell - GRAFIT,-471.98,FD-1943-spotrebny tovar,230911.0,Smer,PS
+4465,2023-09-27,AD HOC Malacky,-200.0,FD-1942-prenajom spevnenej plochy,2023328.0,Smer,PS
+4466,2023-09-27,"Technicke sluzby Stareho Mesta,a.s.",-144.0,FD-1941-elektricka energia,20230429.0,Smer,PS
+4467,2023-09-27,Grand Worx s.r.o.,-370.0,FD-1940-cukrova vata,202338.0,Smer,PS
+4490,2023-09-26,,-5.0,"Zmena limitu na karte,2067,5,Karta č. 4544 17** **** 8717Poplatok za zmenu limitu karty",,Smer,PS
+4497,2023-09-26,,-1075.98,"B1628524597-44544 17** **** 8717;FACEBK *KVGX6TFG72 ,fb.me/ads ,IE ;26.09.2023 00:39:32 ;CashBack:0 EUR",,Smer,PS
+4496,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4495,2023-09-26,,-500.0,"B1628216279-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;25.09.2023 18:14:07 ;CashBack:0 EUR",,Smer,PS
+4494,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4493,2023-09-26,,-800.0,"B1628214610-44544 17** **** 8717;FACEBK *A9ZB6TFG72 ,fb.me/ads ,IE ;25.09.2023 11:47:41 ;CashBack:0 EUR",,Smer,PS
+4492,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4491,2023-09-26,,-800.0,"B1628214503-44544 17** **** 8717;FACEBK *5NLUFRXG72 ,fb.me/ads ,IE ;25.09.2023 10:30:04 ;CashBack:0 EUR",,Smer,PS
+4498,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4489,2023-09-26,,-800.0,"B1628214499-44544 17** **** 8717;FACEBK *WYQSFRXG72 ,fb.me/ads ,IE ;25.09.2023 09:01:08 ;CashBack:0 EUR",,Smer,PS
+4488,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4487,2023-09-26,,-800.0,"B1628214270-44544 17** **** 8717;FACEBK *XKSLJT3H72 ,fb.me/ads ,IE ;25.09.2023 07:37:56 ;CashBack:0 EUR",,Smer,PS
+4486,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4485,2023-09-26,,-500.0,"B1628198640-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;25.09.2023 07:45:00 ;CashBack:0 EUR",,Smer,PS
+4484,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4483,2023-09-26,,-800.0,"B1628189804-44544 17** **** 8717;FACEBK *6K3XSSKG72 ,fb.me/ads ,IE ;25.09.2023 06:18:19 ;CashBack:0 EUR",,Smer,PS
+4482,2023-09-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4516,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4515,2023-09-25,,-500.0,"B1627726385-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;24.09.2023 09:36:53 ;CashBack:0 EUR",,Smer,PS
+4514,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4513,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4512,2023-09-25,,-500.0,"B1627741560-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;24.09.2023 18:46:41 ;CashBack:0 EUR",,Smer,PS
+4511,2023-09-25,,-983.14,"B1627896783-44544 17** **** 8717;FACEBK *8YWB7UPG72 ,fb.me/ads ,IE ;25.09.2023 00:05:50 ;CashBack:0 EUR",,Smer,PS
+4510,2023-09-25,,-800.0,"B1627707388-44544 17** **** 8717;FACEBK *QZYSYSBG72 ,fb.me/ads ,IE ;24.09.2023 15:59:06 ;CashBack:0 EUR",,Smer,PS
+4509,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4508,2023-09-25,,-800.0,"B1627705688-44544 17** **** 8717;FACEBK *ADRVBTTG72 ,fb.me/ads ,IE ;24.09.2023 13:24:42 ;CashBack:0 EUR",,Smer,PS
+4507,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4502,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4506,2023-09-25,,-800.0,"B1627705676-44544 17** **** 8717;FACEBK *ZZYKYSBG72 ,fb.me/ads ,IE ;24.09.2023 11:03:55 ;CashBack:0 EUR",,Smer,PS
+4500,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4501,2023-09-25,,-800.0,"B1627705447-44544 17** **** 8717;FACEBK *FFAFYSBG72 ,fb.me/ads ,IE ;24.09.2023 07:30:23 ;CashBack:0 EUR",,Smer,PS
+4499,2023-09-25,,-800.0,"B1627675678-44544 17** **** 8717;FACEBK *C92G6UPG72 ,fb.me/ads ,IE ;24.09.2023 05:24:59 ;CashBack:0 EUR",,Smer,PS
+4503,2023-09-25,,-800.0,"B1627705492-44544 17** **** 8717;FACEBK *Z4EM6UPG72 ,fb.me/ads ,IE ;24.09.2023 09:04:35 ;CashBack:0 EUR",,Smer,PS
+4504,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4505,2023-09-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4525,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4532,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4531,2023-09-24,,-800.0,"B1627149845-44544 17** **** 8717;FACEBK *PK986UPG72 ,fb.me/ads ,IE ;23.09.2023 23:02:40 ;CashBack:0 EUR",,Smer,PS
+4530,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4529,2023-09-24,,-800.0,"B1627036978-44544 17** **** 8717;FACEBK *Y7VNLSXF72 ,fb.me/ads ,IE ;23.09.2023 21:22:44 ;CashBack:0 EUR",,Smer,PS
+4528,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4527,2023-09-24,,-800.0,"B1627036970-44544 17** **** 8717;FACEBK *RU5XXSBG72 ,fb.me/ads ,IE ;23.09.2023 19:02:58 ;CashBack:0 EUR",,Smer,PS
+4526,2023-09-24,,-800.0,"B1627031277-44544 17** **** 8717;FACEBK *D73X5UPG72 ,fb.me/ads ,IE ;23.09.2023 16:52:12 ;CashBack:0 EUR",,Smer,PS
+4517,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4524,2023-09-24,,-800.0,"B1627031005-44544 17** **** 8717;FACEBK *MTJ5RSKG72 ,fb.me/ads ,IE ;23.09.2023 13:00:59 ;CashBack:0 EUR",,Smer,PS
+4522,2023-09-24,,-800.0,"B1627030989-44544 17** **** 8717;FACEBK *ZUTLDRXG72 ,fb.me/ads ,IE ;23.09.2023 07:04:41 ;CashBack:0 EUR",,Smer,PS
+4521,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4520,2023-09-24,,-500.0,"B1626962967-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;23.09.2023 08:25:13 ;CashBack:0 EUR",,Smer,PS
+4519,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4518,2023-09-24,,-500.0,"B1626962964-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;23.09.2023 17:08:00 ;CashBack:0 EUR",,Smer,PS
+4523,2023-09-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4539,2023-09-23,,-500.0,"B1626110422-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;22.09.2023 08:29:36 ;CashBack:0 EUR",,Smer,PS
+4542,2023-09-23,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4541,2023-09-23,,-800.0,"B1626216042-44544 17** **** 8717;FACEBK *S45A4S7G72 ,fb.me/ads ,IE ;22.09.2023 20:44:17 ;CashBack:0 EUR",,Smer,PS
+4540,2023-09-23,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4538,2023-09-23,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4537,2023-09-23,,-500.0,"B1626106986-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;22.09.2023 18:38:29 ;CashBack:0 EUR",,Smer,PS
+4536,2023-09-23,,-800.0,"B1626099430-44544 17** **** 8717;FACEBK *ESCSFT3H72 ,fb.me/ads ,IE ;22.09.2023 14:56:29 ;CashBack:0 EUR",,Smer,PS
+4535,2023-09-23,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4534,2023-09-23,,-800.0,"B1626097041-44544 17** **** 8717;FACEBK *LAH23TFG72 ,fb.me/ads ,IE ;22.09.2023 08:18:21 ;CashBack:0 EUR",,Smer,PS
+4533,2023-09-23,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4551,2023-09-22,,-800.0,"B1624830647-44544 17** **** 8717;FACEBK *N6AWUSBG72 ,fb.me/ads ,IE ;20.09.2023 23:18:41 ;CashBack:0 EUR",,Smer,PS
+4558,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4557,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4556,2023-09-22,,-800.0,"B1625352564-44544 17** **** 8717;FACEBK *LJQK2TFG72 ,fb.me/ads ,IE ;21.09.2023 21:20:37 ;CashBack:0 EUR",,Smer,PS
+4555,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4554,2023-09-22,,-500.0,"B1625237049-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;21.09.2023 18:05:31 ;CashBack:0 EUR",,Smer,PS
+4553,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4552,2023-09-22,,-800.0,"B1625232818-44544 17** **** 8717;FACEBK *ABV6JSXF72 ,fb.me/ads ,IE ;21.09.2023 15:15:25 ;CashBack:0 EUR",,Smer,PS
+4550,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4548,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4547,2023-09-22,,-800.0,"B1624448581-44544 17** **** 8717;FACEBK *K9NLUSBG72 ,fb.me/ads ,IE ;20.09.2023 16:35:42 ;CashBack:0 EUR",,Smer,PS
+4546,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4545,2023-09-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4544,2023-09-22,,-800.0,"B1624241421-44544 17** **** 8717;FACEBK *CNSBARXG72 ,fb.me/ads ,IE ;20.09.2023 05:47:14 ;CashBack:0 EUR",,Smer,PS
+4549,2023-09-22,,-800.0,"B1624448195-44544 17** **** 8717;FACEBK *ZNNUFS3G72 ,fb.me/ads ,IE ;20.09.2023 11:50:45 ;CashBack:0 EUR",,Smer,PS
+4543,2023-09-22,,-500.0,"B1624526792-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;20.09.2023 16:47:33 ;CashBack:0 EUR",,Smer,PS
+4575,2023-09-21,OBEC PRAKOVCE,-920.35,FD-1846-obcerstvenie,1318300035.0,Smer,PS
+4582,2023-09-21,Mesto Nitra,-16.5,FD-1863-dan za uzivanie verej.priestranstva,1400339392.0,Smer,PS
+4577,2023-09-21,KREDATUSOVA IVANA,-190.81,FD-1847-vence,462023.0,Smer,PS
+4578,2023-09-21,MESTO TRNAVA,-90.0,FD-1858-dan za uzivanie verejneho priestranstva,1500009700.0,Smer,PS
+4579,2023-09-21,"EKO HOLDING Slovakia, s.r.o.",-1269.0,FD-1859-program na podujati,2023005.0,Smer,PS
+4580,2023-09-21,PRIMA-PRINT,-537.6,FD-1860-graficke spracovanie,202308077.0,Smer,PS
+4581,2023-09-21,AKRA reklama s.r.o.,-1872.0,"FD1861-podpiskarta,kalendariky",110230184.0,Smer,PS
+4585,2023-09-21,"PEPANI,s.r.o.",-143.4,FD-1866-kolace,2300052.0,Smer,PS
+4583,2023-09-21,Mesto Nitra,-52.8,FD-1857-dan za uzivanie verejneho priestranstva,1400339392.0,Smer,PS
+4584,2023-09-21,"DOPA SK, s.r.o.",-348.0,FD-1865-preprava,2023022.0,Smer,PS
+4586,2023-09-21,"REGIONPRESS, S.R.O.",-1166.4,FD-1867-inzercia,836230674.0,Smer,PS
+4587,2023-09-21,"REGIONPRESS, S.R.O.",-1166.4,FD-1868-inzercia,836230657.0,Smer,PS
+4588,2023-09-21,Mgr.Peter Madzik,-380.0,FD-1869-bilboard,2023013.0,Smer,PS
+4589,2023-09-21,BRUTUS s.r.o.Trebisov,-641.6,FD-1870-obcerstvenie,1020230137.0,Smer,PS
+4576,2023-09-21,Lenka Turokova - LMGraphics,-455.0,"FD-1864-karticky,letaky",2023082.0,Smer,PS
+4564,2023-09-21,Slovensky cerveny kriz Roznava,-60.0,FD-1840-hliadka prvej pomoci,422023.0,Smer,PS
+4574,2023-09-21,pure nature s.r.o.,-1345.01,"FD1862-graficke prace,prenajom,catering",23010004.0,Smer,PS
+4566,2023-09-21,PaE gastro s.r.o.,-80.0,FD-1835-prenajom,230070.0,Smer,PS
+4573,2023-09-21,Folklorna skupina Radzim Vysna Slan,-200.0,FD-1844-vystupenie folklornej skupiny,23001.0,Smer,PS
+4560,2023-09-21,Radioslav Hrenko GALAXY,-700.0,FD-1838-obcerstvenie,230052.0,Smer,PS
+4561,2023-09-21,Anna Manojlovicova Ing.,-780.0,FD-1843-prenajom a obcerstvenie,2023087.0,Smer,PS
+4562,2023-09-21,Obec Trebisov,-40.0,FD-1842-dan za uzivanie verej.priestranstva,1500024692.0,Smer,PS
+4563,2023-09-21,Obec Trebisov,-40.0,FD-1841-zhotovenie putaca,5002300117.0,Smer,PS
+4565,2023-09-21,NIKA PRESS s.r.o.,-240.0,FD-1839-prenajom city lightov,30230211.0,Smer,PS
+4559,2023-09-21,"MG-future, s.r.o.",-960.0,FD-1845-prenajom podia,20231062.0,Smer,PS
+4567,2023-09-21,Obec Cervenik,-295.0,FD-1837-prenajom stanu,27.0,Smer,PS
+4568,2023-09-21,Obec Chtelnica,-100.0,FD-1836-prenajom,202343.0,Smer,PS
+4569,2023-09-21,Obec Smolenice,-110.0,FD-1834-prenajom,1462023.0,Smer,PS
+4570,2023-09-21,Obec Vrakun,-980.0,FD-1833-technicke zabezpecenie polit.akcie,941.0,Smer,PS
+4571,2023-09-21,RAPOS s.r.o.,-10.33,FD-1832-plagat,2023931.0,Smer,PS
+4572,2023-09-21,Actly s.r.o.,-13380.0,FD-1738-prieskum verejnej mienky,2023035.0,Smer,PS
+4595,2023-09-20,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4594,2023-09-20,,-800.0,"B1623649428-44544 17** **** 8717;FACEBK *LHKE9RXG72 ,fb.me/ads ,IE ;19.09.2023 09:43:04 ;CashBack:0 EUR",,Smer,PS
+4593,2023-09-20,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4592,2023-09-20,,-800.0,"B1623639346-44544 17** **** 8717;FACEBK *WLQ9YSFG72 ,fb.me/ads ,IE ;19.09.2023 17:37:56 ;CashBack:0 EUR",,Smer,PS
+4591,2023-09-20,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4590,2023-09-20,,-500.0,"B1623630433-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;19.09.2023 08:55:26 ;CashBack:0 EUR",,Smer,PS
+4609,2023-09-19,CULTUS RU INOV,-1000.0,FD-1810-najomne,762023.0,Smer,PS
+4608,2023-09-19,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4603,2023-09-19,,-800.0,"B1622820457-44544 17** **** 8717;FACEBK *8TR85TTG72 ,fb.me/ads ,IE ;18.09.2023 08:20:09 ;CashBack:0 EUR",,Smer,PS
+4607,2023-09-19,,-800.0,"B1623186006-44544 17** **** 8717;FACEBK *GH56ES3G72 ,fb.me/ads ,IE ;18.09.2023 22:08:34 ;CashBack:0 EUR",,Smer,PS
+4606,2023-09-19,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4605,2023-09-19,"REGIONPRESS, S.R.O.",-282.0,Zaloh.fa c.57-inzercia,814210162.0,Smer,PS
+4604,2023-09-19,"EKO HOLDING Slovakia, s.r.o.",-1264.0,"FD-1811-program,ozvucenie,prenajom...",2023003.0,Smer,PS
+4598,2023-09-19,KREMPEK s.r.o.,-397.92,FD-1816-obcerstvenie pri akcii SNP,2023100839.0,Smer,PS
+4602,2023-09-19,LOGAN MEDIA s.r.o.,-2262.23,"FD-1813-prenajom,kynologickych sluzieb,obcerstvenie",1020230008.0,Smer,PS
+4600,2023-09-19,"Urbar-zeliar-pasienky,poz.spol.",-228.8,FD-1815-drevo,230032.0,Smer,PS
+4599,2023-09-19,Rudolf Ruza,-1373.12,FD-1812-obcerstvenie pri akcii,22300557.0,Smer,PS
+4597,2023-09-19,PEMA STROJ s.r.o.,-200.0,FD-1817-vatra,2023155.0,Smer,PS
+4596,2023-09-19,Branislav Navoj - FOTOStudio,-80.0,FD-1818-fotosnimok,202327.0,Smer,PS
+4601,2023-09-19,Veverka Vladimir Ing.,-150.0,FD-1814-fotogarfovanie,20230044.0,Smer,PS
+4617,2023-09-18,AGENTURA SMER,-80000.0,Zalohova fa c.56 na volby do NRSR 2023,230800005.0,Smer,PS
+4622,2023-09-18,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4621,2023-09-18,,-500.0,"B1622301069-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;17.09.2023 21:11:01 ;CashBack:0 EUR",,Smer,PS
+4620,2023-09-18,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4619,2023-09-18,,-800.0,"B1622256287-44544 17** **** 8717;FACEBK *8TVGAT3H72 ,fb.me/ads ,IE ;17.09.2023 15:51:55 ;CashBack:0 EUR",,Smer,PS
+4618,2023-09-18,AGENTURA SMER,-160000.0,Zaloh.fa c.56 na volby do NRSR 2023,230800005.0,Smer,PS
+4614,2023-09-18,MESTSKE KULTURNE STR,-150.0,FD-1794-prenajom kinosaly,1116300143.0,Smer,PS
+4616,2023-09-18,AGENTURA SMER,-160000.0,Zalohova fa c. 56 na volby do NRSR 2023,230800005.0,Smer,PS
+4615,2023-09-18,Mesto Vranov nad Toplou,-6.0,FD-1793-dan za uzivanie verejneho rpiestranstva,2120300099.0,Smer,PS
+4613,2023-09-18,SMER - sociálna demokracia,80000.0,Prevod z bezneho uctu SMER-SSD,18092023.0,Smer,PS
+4612,2023-09-18,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SSD,18092023.0,Smer,PS
+4611,2023-09-18,SMER - sociálna demokracia,160000.0,Prevod z bezneho uctu SMER-SSD,18092023.0,Smer,PS
+4610,2023-09-18,Klesik Jozef - POHOSTINSTVO,-1480.0,FD-1792-obcerstvenie pri prezentacii strany,4123.0,Smer,PS
+4626,2023-09-17,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4627,2023-09-17,,-800.0,"B1621530026-44544 17** **** 8717;FACEBK *H4Z6DSXF72 ,fb.me/ads ,IE ;16.09.2023 21:36:31 ;CashBack:0 EUR",,Smer,PS
+4628,2023-09-17,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4625,2023-09-17,,-800.0,"B1621454855-44544 17** **** 8717;FACEBK *GENHHSKG72 ,fb.me/ads ,IE ;16.09.2023 09:09:51 ;CashBack:0 EUR",,Smer,PS
+4624,2023-09-17,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4623,2023-09-17,,-500.0,"B1621473498-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;16.09.2023 18:10:19 ;CashBack:0 EUR",,Smer,PS
+4629,2023-09-16,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4630,2023-09-16,,-800.0,"B1621010260-44544 17** **** 8717;FACEBK *2KRMAS3G72 ,fb.me/ads ,IE ;15.09.2023 14:46:56 ;CashBack:0 EUR",,Smer,PS
+4631,2023-09-16,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4632,2023-09-16,,-500.0,"B1620874070-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;15.09.2023 10:35:38 ;CashBack:0 EUR",,Smer,PS
+4633,2023-09-16,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4634,2023-09-16,,-800.0,"B1619967022-44544 17** **** 8717;FACEBK *TNTM4RXG72 ,fb.me/ads ,IE ;14.09.2023 20:44:17 ;CashBack:0 EUR",,Smer,PS
+4635,2023-09-16,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4636,2023-09-16,,-800.0,"B1619848462-44544 17** **** 8717;FACEBK *U4UNTTPG72 ,fb.me/ads ,IE ;14.09.2023 04:17:13 ;CashBack:0 EUR",,Smer,PS
+4640,2023-09-15,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4639,2023-09-15,,-500.0,"B1619190439-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;14.09.2023 00:45:45 ;CashBack:0 EUR",,Smer,PS
+4638,2023-09-15,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4637,2023-09-15,,-831.7,"B1618939597-44544 17** **** 8717;FACEBK *GWNX2RXG72 ,fb.me/ads ,IE ;13.09.2023 06:49:48 ;CashBack:0 EUR",,Smer,PS
+4641,2023-09-14,Starski s.r.o.,-9798.0,"FD-1787-foto,inzercia,plagaty,letaky",23030362.0,Smer,PS
+4642,2023-09-14,Obec Bernolakovo,-20.0,FD-1785-dan za uzivanie verejneho priestranstva,7000582023.0,Smer,PS
+4643,2023-09-14,Obec Bernolakovo,-8.4,FD-1784-dan za uzivanie verejneho priestranstva,7000572023.0,Smer,PS
+4644,2023-09-14,M.D.N s.r.o.,-9364.74,"FD-1790-polep auta, plagaty,tricka, letaky,podpis karty",23020058.0,Smer,PS
+4645,2023-09-14,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4646,2023-09-14,,-500.0,"B1618238664-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;12.09.2023 20:23:37 ;CashBack:0 EUR",,Smer,PS
+4652,2023-09-13,Marek Turansky,-1300.0,FD-1753-technicke zabezpecenie sport.zariad.,10230004.0,Smer,PS
+4656,2023-09-13,"areaprint Slovak Republic, s.r.o.",-292.8,FD-1750-plagat,20232944.0,Smer,PS
+4655,2023-09-13,Sprava cestovneho ruchu Senec s.r.o,-480.0,FD-1751-prenajom,2023419.0,Smer,PS
+4654,2023-09-13,PRINTHALL S.R.O.,-534.0,FD-1752-letaky,202308460.0,Smer,PS
+4653,2023-09-13,"WAYF, spol.s r.o.",-420.0,FD-1754-hudobna produkcia,2308006.0,Smer,PS
+4650,2023-09-13,Karnet Robert,-900.0,FD-1757-prenajom atrakcie,230019.0,Smer,PS
+4651,2023-09-13,BublinyVodne s.r.o.,-550.0,FD-1756-skakaci hrad,292023.0,Smer,PS
+4649,2023-09-13,"Domaca masovyroba,s.r.o.",-591.96,FD-1758-obcerstvenie,230810.0,Smer,PS
+4648,2023-09-13,MESTSK KULT RNE STREDISKO MICHALOV,-100.0,FD-1759-prenajom a ozvucenie,230464.0,Smer,PS
+4647,2023-09-13,PRORENTAL Stage s.r.o.,-1450.0,"FD-1755-ozvucenie,osvetlenie",2023013.0,Smer,PS
+4657,2023-09-12,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4658,2023-09-12,,-800.0,"B1617420244-44544 17** **** 8717;FACEBK *XS6TPSFG72 ,fb.me/ads ,IE ;11.09.2023 18:45:11 ;CashBack:0 EUR",,Smer,PS
+4659,2023-09-12,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4660,2023-09-12,,-500.0,"B1617325408-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;11.09.2023 14:06:13 ;CashBack:0 EUR",,Smer,PS
+4661,2023-09-11,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4662,2023-09-11,,-800.0,"B1616875005-44544 17** **** 8717;FACEBK *H8XAVSTG72 ,fb.me/ads ,IE ;10.09.2023 19:32:09 ;CashBack:0 EUR",,Smer,PS
+4666,2023-09-10,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4665,2023-09-10,,-500.0,"B1616180612-44544 17** **** 8717;GOOGLE *ADS6073399833 ,cc@google.com ,IE ;09.09.2023 09:56:53 ;CashBack:0 EUR",,Smer,PS
+4664,2023-09-10,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4663,2023-09-10,,-273.93,"B1616149681-44544 17** **** 8717;FACEBK *ZAS4PTPG72 ,fb.me/ads ,IE ;09.09.2023 15:57:25 ;CashBack:0 EUR",,Smer,PS
+4667,2023-09-09,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4668,2023-09-09,,-800.0,"B1615364527-44544 17** **** 8717;FACEBK *Z64S4SXF72 ,fb.me/ads ,IE ;08.09.2023 20:55:21 ;CashBack:0 EUR",,Smer,PS
+4669,2023-09-09,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4670,2023-09-09,,-800.0,"B1614373092-44544 17** **** 8717;FACEBK *ZK5YUQXG72 ,fb.me/ads ,IE ;07.09.2023 08:20:32 ;CashBack:0 EUR",,Smer,PS
+4678,2023-09-08,"TAMPEX PRESOV, SPOL.",-372.0,FD-1713-podpiskarty,2301170.0,Smer,PS
+4683,2023-09-08,SAD LUCENEC,-338.28,FD-1712-preprava,230213021.0,Smer,PS
+4682,2023-09-08,"M KREO, s.r.o.",-390.0,FD-1708-polep auta,20230246.0,Smer,PS
+4681,2023-09-08,HOSPITALITY group s.r.o.,-283.2,FD-1709-prenajom pivnych setov,230409114.0,Smer,PS
+4680,2023-09-08,MESTSKA CAST VRAKUNA,-120.0,FD-1707-dan za uzivanie verejneho priestranstva,6130115419.0,Smer,PS
+4679,2023-09-08,Obec Hlinik nad Hronom,-45.0,FD-1711-oznam v rozhlase,4052023.0,Smer,PS
+4674,2023-09-08,Financna sprava Bratislava,-4143.84,DPH-8/2023,,Smer,PS
+4677,2023-09-08,RAPOS s.r.o.,-27.55,FD-1710-plagat,2023900.0,Smer,PS
+4675,2023-09-08,MESTSKA CAST VRAKUNA,-250.0,FD-1706-dan za uzivanie verejneho priestranstva,6130015419.0,Smer,PS
+4671,2023-09-08,Siettex s.r.o.,-399.6,FD-1714-merkantil,20230344.0,Smer,PS
+4673,2023-09-08,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4672,2023-09-08,,-800.0,"B1613471894-44544 17** **** 8717;FACEBK *6HK32SXF72 ,fb.me/ads ,IE ;06.09.2023 08:44:41 ;CashBack:0 EUR",,Smer,PS
+4676,2023-09-08,"Red Post,s.r.o.",-6912.77,Zalohova fa c.55-distribucia letakov,2023030.0,Smer,PS
+4684,2023-09-06,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4685,2023-09-06,,-800.0,"B1612878358-44544 17** **** 8717;FACEBK *5UEMJTPG72 ,fb.me/ads ,IE ;05.09.2023 08:49:53 ;CashBack:0 EUR",,Smer,PS
+4686,2023-09-06,Harcar Stefan - STEEVEPRESS,-36.0,FD-1691-zhotovenie letakov,20230814.0,Smer,PS
+4690,2023-09-05,"DOMINA MICHALANY, spol. s r.o.",-758.0,FD-1655-obcerstvenie na mitingu,312023.0,Smer,PS
+4691,2023-09-05,Mesto Roznava,-189.2,FD-1654-verejne priestranstvo,1500028152.0,Smer,PS
+4687,2023-09-05,OZ H2 SECURITY,-180.0,FD-1656-usporiadat.sluzba,160823006.0,Smer,PS
+4689,2023-09-05,"Virtuality,s.r.o.",-150.0,FD-1653-reklamna plocha,4223080001.0,Smer,PS
+4688,2023-09-05,Glasfol MEDIA s.r.o.,-84.0,FD-1657-plagaty,20230066.0,Smer,PS
+4692,2023-09-04,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4693,2023-09-04,,-800.0,"B1611512238-44544 17** **** 8717;FACEBK *NFMKFSFG72 ,fb.me/ads ,IE ;03.09.2023 10:57:36 ;CashBack:0 EUR",,Smer,PS
+4696,2023-09-02,,-800.0,"B1610520585-44544 17** **** 8717;FACEBK *EUYGVRXF72 ,fb.me/ads ,IE ;01.09.2023 17:42:20 ;CashBack:0 EUR",,Smer,PS
+4697,2023-09-02,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4694,2023-09-02,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4695,2023-09-02,,-750.0,"B1609550873-44544 17** **** 8717;FACEBK *HTTZJSTG72 ,fb.me/ads ,IE ;31.08.2023 11:25:12 ;CashBack:0 EUR",,Smer,PS
+4700,2023-09-01,,-61.43,"B1608738846-44544 17** **** 8717;FACEBK *MHLUBSFG72 ,fb.me/ads ,IE ;30.08.2023 17:45:07 ;CashBack:0 EUR",,Smer,PS
+4701,2023-09-01,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4698,2023-09-01,,-768.57,"B1608730529-44544 17** **** 8717;FACEBK *PMZS6SBG72 ,fb.me/ads ,IE ;30.08.2023 13:57:53 ;CashBack:0 EUR",,Smer,PS
+4699,2023-09-01,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4703,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4704,2023-08-31,Fiantok Milan BRUFIA,-1200.0,FD-1602-umelecky vykon,9.0,Smer,PS
+4705,2023-08-31,SEDEM - reklamna agentura,-4186.8,"FD-1646-plagaty, reklamne predmety",112300345.0,Smer,PS
+4702,2023-08-31,,-5.0,Zverejňovanie účtu,,Smer,PS
+4706,2023-08-30,,-785.09,"B1608281243-44544 17** **** 8717;FACEBK *GY48SRXF72 ,fb.me/ads ,IE ;29.08.2023 14:15:06 ;CashBack:0 EUR",,Smer,PS
+4707,2023-08-30,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4716,2023-08-29,PRIMA-PRINT,-165.6,FD-1603-pozvanky,202307028.0,Smer,PS
+4724,2023-08-29,Harcar Stefan - STEEVEPRESS,-12.0,FD-1607-zhotovenie letakov,20230808.0,Smer,PS
+4723,2023-08-29,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4721,2023-08-29,FIPEK s.r.o.,-181.44,FD-1628-volebny stanok na zempl.jarmoku,2023003998.0,Smer,PS
+4719,2023-08-29,M.D.N s.r.o.,-493.2,FD-1626-tricka a poloksele s logom,23020045.0,Smer,PS
+4718,2023-08-29,"TAMPEX PRE OV, SPOL.",-126.0,FD-1608-podpiskarty,2301096.0,Smer,PS
+4717,2023-08-29,Mesto Bardejov,-18.9,FD-1606-dan za uzivanie verejneho priestranstva,2929300041.0,Smer,PS
+4722,2023-08-29,,-750.0,"B1607428658-44544 17** **** 8717;FACEBK *2AA2NS3H72 ,fb.me/ads ,IE ;28.08.2023 09:07:23 ;CashBack:0 EUR",,Smer,PS
+4715,2023-08-29,"TAMPEX PRE OV, SPOL.",-496.37,FD-1604-polokosele s logom,2301119.0,Smer,PS
+4711,2023-08-29,"EKO HOLDING Slovakia, s.r.o.",-1118.0,"FD-1597-zabezpec.akcie-ozvucenie,letaky,stan,malov.na tvar",2023002.0,Smer,PS
+4714,2023-08-29,Erika Michalcinova - REKLAMA,-350.04,FD-1605-marketing.sluzby,20230803.0,Smer,PS
+4709,2023-08-29,"Marketing & Printing solutions,s.r.",-10200.0,Zal.fa c.53-merkantil,30230002.0,Smer,PS
+4710,2023-08-29,Premier media s.r.o.,-4000.0,FD-1596-vyroba reklam.novin,12023.0,Smer,PS
+4720,2023-08-29,Nadacia Slovenskeho futbaloveho zva,-1500.0,FD-1627-technicke zabezpecenie sport.podujatia,2023003.0,Smer,PS
+4712,2023-08-29,Pohostinstvo Mihalikova Adriana,-490.06,FD-1598-prenajom priestoru,202300121.0,Smer,PS
+4713,2023-08-29,Fobos trading s.r.o.,-10516.8,FD-1599-podpis karty a merkantil,3110310135.0,Smer,PS
+4725,2023-08-28,"PETIT PRESS, A.S.DIV",-960.0,FD-1601 - Inzercia MY Nitrianske noviny,,Smer,PS
+4726,2023-08-28,mayer media,-7000.0,FD - 1600 - medialny priestor,,Smer,PS
+4727,2023-08-28,,-750.0,"B1606925051-44544 17** **** 8717;FACEBK *2TH2FSTG72 ,fb.me/ads ,IE ;27.08.2023 08:30:04 ;CashBack:0 EUR",,Smer,PS
+4728,2023-08-28,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4731,2023-08-27,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4732,2023-08-27,,-750.0,"B1605292409-44544 17** **** 8717;FACEBK *NRMW6SFG72 ,fb.me/ads ,IE ;25.08.2023 13:26:35 ;CashBack:0 EUR",,Smer,PS
+4730,2023-08-27,,-750.0,"B1606259262-44544 17** **** 8717;FACEBK *LUD8LS3H72 ,fb.me/ads ,IE ;26.08.2023 10:04:52 ;CashBack:0 EUR",,Smer,PS
+4729,2023-08-27,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4733,2023-08-26,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4734,2023-08-26,,-750.0,"B1604534699-44544 17** **** 8717;FACEBK *CS4NLR3G72 ,fb.me/ads ,IE ;24.08.2023 11:05:17 ;CashBack:0 EUR",,Smer,PS
+4735,2023-08-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4736,2023-08-25,,-750.0,"B1603743297-44544 17** **** 8717;FACEBK *28USRRKG72 ,fb.me/ads ,IE ;23.08.2023 12:05:03 ;CashBack:0 EUR",,Smer,PS
+4737,2023-08-24,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4738,2023-08-24,,-750.0,"B1602858776-44544 17** **** 8717;FACEBK *HXNTJR3G72 ,fb.me/ads ,IE ;22.08.2023 14:20:02 ;CashBack:0 EUR",,Smer,PS
+4739,2023-08-22,,-750.0,"B1602059271-44544 17** **** 8717;FACEBK *P8X84TPG72 ,fb.me/ads ,IE ;21.08.2023 14:50:15 ;CashBack:0 EUR",,Smer,PS
+4740,2023-08-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4742,2023-08-21,,-750.0,"B1601545985-44544 17** **** 8717;FACEBK *KG49PRKG72 ,fb.me/ads ,IE ;20.08.2023 17:13:09 ;CashBack:0 EUR",,Smer,PS
+4741,2023-08-21,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4743,2023-08-20,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4746,2023-08-20,,-750.0,"B1599916360-44544 17** **** 8717;FACEBK *BW7UTRBG72 ,fb.me/ads ,IE ;18.08.2023 20:48:25 ;CashBack:0 EUR",,Smer,PS
+4744,2023-08-20,,-750.0,"B1600812578-44544 17** **** 8717;FACEBK *SW75GR3G72 ,fb.me/ads ,IE ;19.08.2023 14:46:17 ;CashBack:0 EUR",,Smer,PS
+4745,2023-08-20,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4748,2023-08-19,,-750.0,"B1598992415-44544 17** **** 8717;FACEBK *TE6LYSPG72 ,fb.me/ads ,IE ;17.08.2023 14:59:55 ;CashBack:0 EUR",,Smer,PS
+4747,2023-08-19,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4749,2023-08-18,,-750.0,"B1598088121-44544 17** **** 8717;FACEBK *J7MF8QXG72 ,fb.me/ads ,IE ;16.08.2023 19:37:29 ;CashBack:0 EUR",,Smer,PS
+4750,2023-08-18,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4751,2023-08-17,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4752,2023-08-17,,-750.0,"B1597244940-44544 17** **** 8717;FACEBK *SSJMJRKG72 ,fb.me/ads ,IE ;15.08.2023 16:10:31 ;CashBack:0 EUR",,Smer,PS
+4756,2023-08-15,JM Communication,-12096.0,FD-1580-prieskum verejnej mienky,2023027.0,Smer,PS
+4758,2023-08-15,SMER - sociálna demokracia,150000.0,Dotacia z bezneho uctu SMER-SSD,,Smer,PS
+4757,2023-08-15,SMER - sociálna demokracia,150000.0,Prevod z bezneho uctu SMER-SSD,14082023.0,Smer,PS
+4755,2023-08-15,Mgr.art.Juraj Mravik,-800.0,FD-1590-priprava tv spotov,20230012.0,Smer,PS
+4753,2023-08-15,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4754,2023-08-15,,-750.0,"B1596369050-44544 17** **** 8717;FACEBK *CBU26QXG72 ,fb.me/ads ,IE ;14.08.2023 07:34:03 ;CashBack:0 EUR",,Smer,PS
+4760,2023-08-14,AGENTURA SMER,-150000.0,Zalohova fa c.51-organiz.-technicke zabezpecenie volieb do NRSR,230800004.0,Smer,PS
+4761,2023-08-14,AGENTURA SMER,-150000.0,Zalohova fa c.51-organiz.-technicke zabezpecenie volieb do NRSR,230800004.0,Smer,PS
+4762,2023-08-14,,-750.0,"B1595798625-44544 17** **** 8717;FACEBK *V5FSNRBG72 ,fb.me/ads ,IE ;13.08.2023 13:52:31 ;CashBack:0 EUR",,Smer,PS
+4763,2023-08-14,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4766,2023-08-13,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4767,2023-08-13,,-750.0,"B1594239653-44544 17** **** 8717;FACEBK *B8M66S3H72 ,fb.me/ads ,IE ;11.08.2023 09:19:50 ;CashBack:0 EUR",,Smer,PS
+4765,2023-08-13,,-750.0,"B1595076222-44544 17** **** 8717;FACEBK *UX5USRFG72 ,fb.me/ads ,IE ;12.08.2023 11:38:43 ;CashBack:0 EUR",,Smer,PS
+4764,2023-08-13,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4769,2023-08-12,,-750.0,"B1593287055-44544 17** **** 8717;FACEBK *3NXPKRBG72 ,fb.me/ads ,IE ;10.08.2023 05:42:27 ;CashBack:0 EUR",,Smer,PS
+4768,2023-08-12,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4770,2023-08-11,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4771,2023-08-11,,-354.08,"B1592517183-44544 17** **** 8717;FACEBK *J46RJRBG72 ,fb.me/ads ,IE ;09.08.2023 06:17:03 ;CashBack:0 EUR",,Smer,PS
+4772,2023-08-10,Actly s.r.o.,-13380.0,FD-1562-prieskum verejnej mienky,2023031.0,Smer,PS
+4773,2023-08-10,Harcar Stefan - STEEVEPRESS,-198.0,FD-1566-letaky,20230806.0,Smer,PS
+4774,2023-08-09,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4775,2023-08-09,,-750.0,"B1591833306-44544 17** **** 8717;FACEBK *RVFH3S3H72 ,fb.me/ads ,IE ;08.08.2023 14:42:14 ;CashBack:0 EUR",,Smer,PS
+4778,2023-08-08,Financna sprava Bratislava,-1241.08,DPH-7/2023,1100072023.0,Smer,PS
+4776,2023-08-08,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4777,2023-08-08,,-750.0,"B1591077364-44544 17** **** 8717;FACEBK *DPP85RXF72 ,fb.me/ads ,IE ;07.08.2023 12:49:26 ;CashBack:0 EUR",,Smer,PS
+4779,2023-08-06,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4780,2023-08-06,,-750.0,"B1590043453-44544 17** **** 8717;FACEBK *LHCN9RKG72 ,fb.me/ads ,IE ;05.08.2023 20:40:06 ;CashBack:0 EUR",,Smer,PS
+4781,2023-08-05,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4782,2023-08-05,,-750.0,"B1589114500-44544 17** **** 8717;FACEBK *MPCLXR3H72 ,fb.me/ads ,IE ;04.08.2023 07:26:56 ;CashBack:0 EUR",,Smer,PS
+4788,2023-08-03,mayer media,-7000.0,FD-1459-medialny priestor-extra plus plus,23012.0,Smer,PS
+4786,2023-08-03,Zdenko Malcho - LUKY MZ,-269.0,FD-1458-helium,2320208553.0,Smer,PS
+4787,2023-08-03,,-750.0,"B1587162882-44544 17** **** 8717;FACEBK *SHM36RKG72 ,fb.me/ads ,IE ;01.08.2023 22:44:06 ;CashBack:0 EUR",,Smer,PS
+4784,2023-08-03,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4785,2023-08-03,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4783,2023-08-03,,-310.79,"B1586822372-44544 17** **** 8717;GoogleAdwordsEU ADS607339 ,Dublin ,IE ;01.08.2023 17:28:32 ;CashBack:0 EUR",,Smer,PS
+4789,2023-08-01,Klub vojenskej historie Trnavska po,-2500.0,FD-1451-kulturne vystupenie,2023004.0,Smer,PS
+4790,2023-08-01,Abkals s.r.o.,-858.0,FD-1447-oznacenie stanov logom,230329.0,Smer,PS
+4791,2023-08-01,MESTSKE KULTURNE STR,-200.0,FD-1456-kaucia na prenajom divadelnej saly,2023154.0,Smer,PS
+4792,2023-08-01,Obec Sumiac,-800.0,FD-1455-kulturne podujatie-Vatra zvrchovanosti,332023.0,Smer,PS
+4793,2023-07-31,,-5.0,Zverejňovanie účtu,,Smer,PS
+4794,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4795,2023-07-30,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4796,2023-07-30,,-750.0,"B1585067302-44544 17** **** 8717;FACEBK *QP5KUQ3G72 ,fb.me/ads ,IE ;29.07.2023 19:03:27 ;CashBack:0 EUR",,Smer,PS
+4798,2023-07-25,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4797,2023-07-25,,-750.0,"B1581083196-44544 17** **** 8717;FACEBK *U6DM9RFG72 ,fb.me/ads ,IE ;24.07.2023 18:04:11 ;CashBack:0 EUR",,Smer,PS
+4799,2023-07-24,AGENTURA SMER,-160000.0,Zaloh.fa c.50-organiz.-technicke zabezpecenie volieb do NR SR 2023,230800003.0,Smer,PS
+4800,2023-07-24,AGENTURA SMER,-80000.0,Zaloh.fa c.50-organiz.-technicke zabezpecenie volieb do NR SR 2023,230800003.0,Smer,PS
+4801,2023-07-24,AGENTURA SMER,-160000.0,Zaloh.fa c.50-organiz.-technicke zabezpecenie volieb do NR SR 2023,230800003.0,Smer,PS
+4802,2023-07-22,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4803,2023-07-22,,-750.0,"B1577982472-44544 17** **** 8717;FACEBK *5EYJYQBG72 ,fb.me/ads ,IE ;20.07.2023 14:48:10 ;CashBack:0 EUR",,Smer,PS
+4811,2023-07-19,MESTSKE KULTURNE CENTRUM SNV,-75.0,FD-1413-prenajom,,Smer,PS
+4810,2023-07-19,MESTO SPISSKA NOVA V,-110.0,FD-1411-inzercia,9112300194.0,Smer,PS
+4809,2023-07-19,Lesy mesta Spisska Nova Ves s.r.o.,-61.08,FD-1412-Vatra zvrchov.-drevo,,Smer,PS
+4808,2023-07-19,Diamond Vision s.r.o.,-555.5,"FD-1414-Vatra zvrch.-plagaty,baner, vystupenie folkl.suboru",2023015.0,Smer,PS
+4807,2023-07-19,"BELS gastro,s.r.o.",-357.0,FD-1415-Vatra zvrchov.-obcerstvenie,20230701.0,Smer,PS
+4805,2023-07-19,Jan Mrosko - JM studio,-200.0,FD-1417-Vatra zvrchov.-ozvucenie,2023005.0,Smer,PS
+4804,2023-07-19,"S-ART,o.z.",-800.0,FD-1418-Vatra zvrchov.-hudob.vystupenie,2023008.0,Smer,PS
+4806,2023-07-19,Obec Harichovce,-250.0,FD-1416-vystupenie folklor.skupiny,1315300009.0,Smer,PS
+4812,2023-07-18,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4813,2023-07-18,,-750.0,"B1575505214-44544 17** **** 8717;FACEBK *ZAVGVQBG72 ,fb.me/ads ,IE ;17.07.2023 07:08:08 ;CashBack:0 EUR",,Smer,PS
+4817,2023-07-17,"ZaMED, s.r.o.",-102.0,FD-1393-zdravotny dozor,52023086.0,Smer,PS
+4820,2023-07-17,Actly s.r.o.,-11880.0,FD-1367-prieskum,2023026.0,Smer,PS
+4818,2023-07-17,Belica s.r.o.,-2040.0,"FD-1369-stan,vlajky lehatko,stolik,..",23030066.0,Smer,PS
+4819,2023-07-17,Actly s.r.o.,-2376.0,FD-1368-prieskum,2023027.0,Smer,PS
+4816,2023-07-17,MIESTNY RAD MES. .K,-990.0,FD-1371-prenajom sport.arealu,1312300060.0,Smer,PS
+4815,2023-07-17,RAPOS s.r.o.,-154.08,FD-1395-plagaty,2023698.0,Smer,PS
+4814,2023-07-17,LAVACOM s.r.o.,-102.0,FD-1370-letaky,2301260212.0,Smer,PS
+4821,2023-07-14,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4822,2023-07-14,,-750.0,"B1571596883-44544 17** **** 8717;FACEBK *QKQLXP7G72 ,fb.me/ads ,IE ;12.07.2023 19:54:11 ;CashBack:0 EUR",,Smer,PS
+4823,2023-07-12,Z & K Tech s.r.o.,-787.2,FD-1351-MDD-obcerstvenie,230011.0,Smer,PS
+4824,2023-07-12,HaMi s.r.o.,-390.0,FD-1350-MDD-obcerstvenie,20011259.0,Smer,PS
+4825,2023-07-11,Financna sprava Bratislava,-1358.8,DPH-6/2023,1100062023.0,Smer,PS
+4826,2023-07-10,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4827,2023-07-10,,-144.62,"B1569394910-44544 17** **** 8717;FACEBK *RY45NQBG72 ,fb.me/ads ,IE ;09.07.2023 06:21:14 ;CashBack:0 EUR",,Smer,PS
+4828,2023-07-09,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4829,2023-07-09,,-750.0,"B1567888290-44544 17** **** 8717;FACEBK *N2A6FQKG72 ,fb.me/ads ,IE ;07.07.2023 17:59:07 ;CashBack:0 EUR",,Smer,PS
+4830,2023-07-07,UDERMAN s.r.o.,-428.0,Zal.fa c.48-noznicove stany,172305677.0,Smer,PS
+4831,2023-07-04,"L.FABRICA, s.r.o.",-2278.8,"Zaloh.fa c.47-stany,vaky,sedatkavlajky",23080139.0,Smer,PS
+4833,2023-07-03,,-500.0,"B1564463374-44544 17** **** 8717;GoogleAdwordsEU ADS607339 ,Dublin ,IE ;02.07.2023 08:40:39 ;CashBack:0 EUR",,Smer,PS
+4834,2023-07-03,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4835,2023-07-03,Stefan Ozorak ETIEN reklamka,-78.0,FD-1269-plagaty,230102.0,Smer,PS
+4836,2023-07-03,"music DRIVE production,s.r.o.",-500.0,"FD-1268-skakaci hrad, tetovanie pri detskej akcii",50230005.0,Smer,PS
+4837,2023-07-03,AGAL,-184.47,FD-1274-kofola pri volebnej akcii,1.0,Smer,PS
+4838,2023-07-03,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4832,2023-07-03,,-750.0,"B1564501624-44544 17** **** 8717;FACEBK *ZJRPFQBG72 ,fb.me/ads ,IE ;02.07.2023 16:46:38 ;CashBack:0 EUR",,Smer,PS
+4842,2023-07-02,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4844,2023-07-02,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4843,2023-07-02,,-183.48,"B1563913438-44544 17** **** 8717;GoogleAdwordsEU ADS607339 ,Dublin ,IE ;01.07.2023 18:02:19 ;CashBack:0 EUR",,Smer,PS
+4841,2023-07-02,,-0.25,Poplatok za platbu kartou,,Smer,PS
+4840,2023-07-02,,-106.12,"B1562959667-44544 17** **** 8717;FACEBK T6J84RK8S2 ,fb.me/ads ,IE ;30.06.2023 12:27:56 ;CashBack:0 EUR",,Smer,PS
+4839,2023-07-02,,-500.0,"B1563072985-44544 17** **** 8717;GoogleAdwordsEU ADS607339 ,Dublin ,IE ;30.06.2023 19:41:40 ;CashBack:0 EUR",,Smer,PS
+4845,2023-06-30,,-5.0,Zverejňovanie účtu,,Smer,PS
+4846,2023-06-30,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4847,2023-06-30,"L.FABRICA, s.r.o.",-903.6,Zaloh.fa c.46-stan na volebne akcie,23080146.0,Smer,PS
+4848,2023-06-29,,-750.0,"B1561451444-44544 17** **** 8717;FACEBK *MNLWXPXF72 ,fb.me/ads ,IE ;28.06.2023 10:22:05 ;CashBack:0 EUR",,Smer,PS
+4849,2023-06-29,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4850,2023-06-28,"L.FABRICA, s.r.o.",-2278.8,"Zalohova fa c.44-stan, vaky lehatka,vlajky,stolik",23080139.0,Smer,PS
+4851,2023-06-28,"L.FABRICA, s.r.o.",-2064.0,"Zalohova fa c.43-stan,vlajka,stolik",23080147.0,Smer,PS
+4857,2023-06-27,AGENT RA SMER,-160000.0,Zalohova fa c.42-zaloha na organiz.tech. zebezpecenie volebnej kampane,230800002.0,Smer,PS
+4860,2023-06-27,,-500.0,"B1559926465-44544 17** **** 8717;GoogleAdwordsEU ADS607339 ,Dublin ,IE ;26.06.2023 22:52:15 ;CashBack:0 EUR",,Smer,PS
+4859,2023-06-27,AGENT RA SMER,-160000.0,Zalohova fa c.42-zaloha na organiz.-tech.zabezpecenie volebnej kampane,230800002.0,Smer,PS
+4858,2023-06-27,AGENT RA SMER,-160000.0,Zalohova fa c.42-zaloha na organiz.-tech.zabezpecenie volebnej kampane,230800002.0,Smer,PS
+4852,2023-06-27,AGENT RA SMER,-40000.0,Zalohova fa c.42-zaloha na organiz.-tech. zabezpecenie volebnej kampane,230800002.0,Smer,PS
+4856,2023-06-27,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4855,2023-06-27,AGENT RA SMER,-160000.0,Zalohova fa c.42-zaloha na otganiz.-tech.zabezpecenie volebnej kampane,230800002.0,Smer,PS
+4854,2023-06-27,AGENT RA SMER,-160000.0,Zalohova fa c.42-zaloha na organiz.-tech.zabezpecenie volebnej kampane,230800002.0,Smer,PS
+4853,2023-06-27,AGENT RA SMER,-160000.0,Zalohova fa c.42-zaloha na organiz.-tech.zebezpecenie volebnej kampane,230800002.0,Smer,PS
+4861,2023-06-23,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4862,2023-06-23,,-750.0,"B1556872864-44544 17** **** 8717;FACEBK *GJP2MNXG72 ,fb.me/ads ,IE ;22.06.2023 12:16:13 ;CashBack:0 EUR",,Smer,PS
+4863,2023-06-22,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4864,2023-06-22,,-750.0,"B1556057143-44544 17** **** 8717;FACEBK *L4NWFQTG72 ,fb.me/ads ,IE ;21.06.2023 10:00:27 ;CashBack:0 EUR",,Smer,PS
+4865,2023-06-22,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4866,2023-06-22,,-500.0,"B1555998044-44544 17** **** 8717;GoogleAdwordsEU ADS607339 ,Dublin ,IE ;21.06.2023 00:44:01 ;CashBack:0 EUR",,Smer,PS
+4867,2023-06-21,"ZaMED, s.r.o.",-510.0,zalohova fa c.38-zdravotny dozor na akcii Cyril a Metod,62023068.0,Smer,PS
+4868,2023-06-20,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4869,2023-06-20,,-750.0,"B1554518785-44544 17** **** 8717;FACEBK *UT658QFG72 ,fb.me/ads ,IE ;19.06.2023 16:12:41 ;CashBack:0 EUR",,Smer,PS
+4870,2023-06-20,,-8.0,Poplatok za výber hotovosti,,Smer,PS
+4871,2023-06-20,,-5000.0,dotácia do pokladne voľby NR SR 2023,,Smer,PS
+4875,2023-06-18,,-750.0,"B1553285959-44544 17** **** 8717;FACEBK *UYEB6QFG72 ,fb.me/ads ,IE ;17.06.2023 17:49:55 ;CashBack:0 EUR",,Smer,PS
+4874,2023-06-18,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4873,2023-06-18,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4872,2023-06-18,,-750.0,"B1553173131-44544 17** **** 8717;FACEBK *XB9W5QFG72 ,fb.me/ads ,IE ;17.06.2023 08:23:52 ;CashBack:0 EUR",,Smer,PS
+4876,2023-06-15,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4877,2023-06-15,,-150.0,"B1550480223-44544 17** **** 8717;FACEBK *EEZREQ3H72 ,fb.me/ads ,IE ;14.06.2023 08:25:49 ;CashBack:0 EUR",,Smer,PS
+4878,2023-06-15,MESTO NOVE ZAMKY,-400.0,FD-1197-inzercia,2116300443.0,Smer,PS
+4879,2023-06-13,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4880,2023-06-13,,-100.0,"B1548960362-44544 17** **** 8717;FACEBK *MFG3ZPFG72 ,fb.me/ads ,IE ;12.06.2023 18:51:58 ;CashBack:0 EUR",,Smer,PS
+4883,2023-06-12,,-70.0,"B1548457804-44544 17** **** 8717;FACEBK *Q4E6DP3G72 ,fb.me/ads ,IE ;11.06.2023 16:25:32 ;CashBack:0 EUR",,Smer,PS
+4884,2023-06-12,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4882,2023-06-12,,-40.0,"B1548455135-44544 17** **** 8717;FACEBK *XPN5SPBG72 ,fb.me/ads ,IE ;11.06.2023 08:19:43 ;CashBack:0 EUR",,Smer,PS
+4881,2023-06-12,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4909,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4910,2023-06-11,,-11.17,"B1547889161-44544 17** **** 8717;FACEBK *BWY25QTG72 ,fb.me/ads ,IE ;10.06.2023 23:04:36 ;CashBack:0 EUR",,Smer,PS
+4911,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4912,2023-06-11,,-2.37,"B1547769355-44544 17** **** 8717;FACEBK *JW7UWQPG72 ,fb.me/ads ,IE ;10.06.2023 10:25:16 ;CashBack:0 EUR",,Smer,PS
+4913,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4914,2023-06-11,,-4.0,"B1547769350-44544 17** **** 8717;FACEBK *WP6TBP3G72 ,fb.me/ads ,IE ;10.06.2023 09:07:16 ;CashBack:0 EUR",,Smer,PS
+4915,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4916,2023-06-11,,-2.17,"B1547769347-44544 17** **** 8717;FACEBK *29VMXN7G72 ,fb.me/ads ,IE ;10.06.2023 09:35:56 ;CashBack:0 EUR",,Smer,PS
+4917,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4923,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4919,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4920,2023-06-11,,-2.0,"B1547769342-44544 17** **** 8717;FACEBK *62AK8NXG72 ,fb.me/ads ,IE ;10.06.2023 08:38:47 ;CashBack:0 EUR",,Smer,PS
+4921,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4922,2023-06-11,,-2.0,"B1547769339-44544 17** **** 8717;FACEBK *9P24RPBG72 ,fb.me/ads ,IE ;10.06.2023 08:10:04 ;CashBack:0 EUR",,Smer,PS
+4907,2023-06-11,,-30.0,"B1547782440-44544 17** **** 8717;FACEBK *8QH8BQ3H72 ,fb.me/ads ,IE ;10.06.2023 17:14:50 ;CashBack:0 EUR",,Smer,PS
+4924,2023-06-11,,-2.0,"B1547769331-44544 17** **** 8717;FACEBK *NMJQWQPG72 ,fb.me/ads ,IE ;10.06.2023 07:39:40 ;CashBack:0 EUR",,Smer,PS
+4925,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4926,2023-06-11,,-2.0,"B1547769108-44544 17** **** 8717;FACEBK *7VQKAQ3H72 ,fb.me/ads ,IE ;10.06.2023 07:17:34 ;CashBack:0 EUR",,Smer,PS
+4927,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4928,2023-06-11,,-2.0,"B1547766941-44544 17** **** 8717;FACEBK *X3BNBP3G72 ,fb.me/ads ,IE ;10.06.2023 06:35:51 ;CashBack:0 EUR",,Smer,PS
+4908,2023-06-11,,-2.0,"B1547769345-44544 17** **** 8717;FACEBK *9NCFDPXF72 ,fb.me/ads ,IE ;10.06.2023 09:07:00 ;CashBack:0 EUR",,Smer,PS
+4918,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4906,2023-06-11,,-20.0,"B1547782423-44544 17** **** 8717;FACEBK *4YLHRPBG72 ,fb.me/ads ,IE ;10.06.2023 14:39:26 ;CashBack:0 EUR",,Smer,PS
+4894,2023-06-11,,-3.8,"B1547770247-44544 17** **** 8717;FACEBK *L5GJ4QTG72 ,fb.me/ads ,IE ;10.06.2023 11:50:46 ;CashBack:0 EUR",,Smer,PS
+4885,2023-06-11,,-8.26,"B1547770280-44544 17** **** 8717;FACEBK *3S6XAQ3H72 ,fb.me/ads ,IE ;10.06.2023 15:22:06 ;CashBack:0 EUR",,Smer,PS
+4886,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4887,2023-06-11,,-0.03,"B1547766928-44544 17** **** 8717;FACEBK *QNYWQPBG72 ,fb.me/ads ,IE ;10.06.2023 04:35:50 ;CashBack:0 EUR",,Smer,PS
+4888,2023-06-11,,-10.08,"B1547782430-44544 17** **** 8717;FACEBK *NWE2YN7G72 ,fb.me/ads ,IE ;10.06.2023 18:03:29 ;CashBack:0 EUR",,Smer,PS
+4889,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4890,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4891,2023-06-11,,-12.0,"B1547770265-44544 17** **** 8717;FACEBK *S5ZVAQ3H72 ,fb.me/ads ,IE ;10.06.2023 12:57:01 ;CashBack:0 EUR",,Smer,PS
+4892,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4905,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4893,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4895,2023-06-11,,-3.2,"B1547770254-44544 17** **** 8717;FACEBK *BKGBRPBG72 ,fb.me/ads ,IE ;10.06.2023 13:16:57 ;CashBack:0 EUR",,Smer,PS
+4896,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4897,2023-06-11,,-9.0,"B1547770250-44544 17** **** 8717;FACEBK *3LZARPBG72 ,fb.me/ads ,IE ;10.06.2023 11:29:32 ;CashBack:0 EUR",,Smer,PS
+4898,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4899,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4900,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4901,2023-06-11,,-6.0,"B1547770243-44544 17** **** 8717;FACEBK *X4MJDPXF72 ,fb.me/ads ,IE ;10.06.2023 10:08:26 ;CashBack:0 EUR",,Smer,PS
+4902,2023-06-11,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4903,2023-06-11,,-2.0,"B1547766935-44544 17** **** 8717;FACEBK *NX6NWQPG72 ,fb.me/ads ,IE ;10.06.2023 05:52:28 ;CashBack:0 EUR",,Smer,PS
+4904,2023-06-11,,-2.0,"B1547766923-44544 17** **** 8717;FACEBK *HS59DPXF72 ,fb.me/ads ,IE ;10.06.2023 02:04:07 ;CashBack:0 EUR",,Smer,PS
+4938,2023-06-10,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4937,2023-06-10,,-2.0,"B1547102935-44544 17** **** 8717;FACEBK *ZGLA8NXG72 ,fb.me/ads ,IE ;10.06.2023 00:56:14 ;CashBack:0 EUR",,Smer,PS
+4936,2023-06-10,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4935,2023-06-10,,-0.02,"B1547102931-44544 17** **** 8717;FACEBK *58L5DPXF72 ,fb.me/ads ,IE ;10.06.2023 01:53:22 ;CashBack:0 EUR",,Smer,PS
+4934,2023-06-10,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4933,2023-06-10,,-2.0,"B1547102074-44544 17** **** 8717;FACEBK *UP478NXG72 ,fb.me/ads ,IE ;09.06.2023 18:51:53 ;CashBack:0 EUR",,Smer,PS
+4932,2023-06-10,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4931,2023-06-10,,-2.0,"B1547102648-44544 17** **** 8717;FACEBK *9D4AAQ3H72 ,fb.me/ads ,IE ;09.06.2023 23:11:08 ;CashBack:0 EUR",,Smer,PS
+4930,2023-06-10,,-0.2,Poplatok za platbu kartou,,Smer,PS
+4929,2023-06-10,,-0.3,"B1547102075-44544 17** **** 8717;FACEBK *XQ478NXG72 ,fb.me/ads ,IE ;09.06.2023 23:10:52 ;CashBack:0 EUR",,Smer,PS
+4939,2023-05-31,,-5.0,Zverejňovanie účtu,,Smer,PS
+4940,2023-05-31,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4941,2023-04-30,,-5.0,Zverejňovanie účtu,,Smer,PS
+4942,2023-04-30,,-5.0,Poplatok za vedenie účtu,,Smer,PS
+4943,2023-04-24,AGENT RA SMER,-94416.85,FD-768-reklamne predmety,42023134.0,Smer,PS
+4944,2023-04-03,NIVEL PLUS s.r.o.,-1320.0,Zaloh.fa c.25-inzercia,1623910004.0,Smer,PS
+4945,2023-04-03,"ISPA, SPOL. S R.O.",-110.4,FD-530-billboardy,20231275.0,Smer,PS
+4946,2023-03-31,,-5.0,Zverejňovanie účtu,,Smer,PS
+4947,2023-03-31,,-3.06,Poplatok za vedenie účtu,,Smer,PS
+4948,2023-03-20,AGENTURA SMER,-100000.0,Zal.fa 19-reklamne predmety,230800001.0,Smer,PS
+4949,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4950,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4951,2023-03-13,SMER - sociálna demokracia,129990.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4952,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4953,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4954,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,,Smer,PS
+4955,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4956,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4957,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4958,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4959,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4960,2023-03-13,SMER - sociálna demokracia,170000.0,Dotacia na volby NR SR 2023 z bu SMER SD,13032023.0,Smer,PS
+4961,2023-03-13,SMER - sociálna demokracia,10.0,Dotacia na volby NR SR 2023 z bu SMER SD,,Smer,PS
