@@ -1,88 +1,90 @@
 index,date,account_name,amount,message,vs,name,label
-16388,2023-10-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-16389,2023-10-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-16390,2023-10-27,Kulturne a spolocenske stredisko Prievidza,-60.0,uh.fa,2023196.0,Vlastenecký blok,PS
-16391,2023-10-16,Bežný účet pre neziskový sekto,-1330.4,prevod z uctu,6110.0,Vlastenecký blok,PS
-16392,2023-10-06,Obec Hronska Dubrava,-25.0,uh.fa,102023.0,Vlastenecký blok,PS
-16393,2023-10-05,Kulturne a spolocenske stredisko Prievidza,-42.5,uh.fa,2023199.0,Vlastenecký blok,PS
-16396,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-440.4,uh.fa,20230696.0,Vlastenecký blok,PS
+16388,2023-11-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+16389,2023-11-30,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16390,2023-10-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+16391,2023-10-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16392,2023-10-27,Kulturne a spolocenske stredisko Prievidza,-60.0,uh.fa,2023196.0,Vlastenecký blok,PS
+16393,2023-10-16,Bežný účet pre neziskový sekto,-1330.4,prevod z uctu,6110.0,Vlastenecký blok,PS
+16394,2023-10-06,Obec Hronska Dubrava,-25.0,uh.fa,102023.0,Vlastenecký blok,PS
+16395,2023-10-05,Kulturne a spolocenske stredisko Prievidza,-42.5,uh.fa,2023199.0,Vlastenecký blok,PS
+16399,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-440.4,uh.fa,20230696.0,Vlastenecký blok,PS
+16398,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-264.0,uh.fa,20230698.0,Vlastenecký blok,PS
 16397,2023-10-02,STANOVIC IVAN,220.2,dar,610.0,Vlastenecký blok,PS
-16395,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-1866.0,uh.fa,20230695.0,Vlastenecký blok,PS
-16394,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-264.0,uh.fa,20230698.0,Vlastenecký blok,PS
-16398,2023-09-30,Soukup Marián,220.2,DAR - Marian Soukup,,Vlastenecký blok,PS
-16399,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16396,2023-10-02,Mgr.art.Rastislav Celeda-Progres reklama,-1866.0,uh.fa,20230695.0,Vlastenecký blok,PS
 16400,2023-09-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-16401,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",60.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
-16402,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",415.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
-16403,2023-09-28,HANZLIK ROMAN,415.0,DAR Mgr. Roman Hanzlik,6904078115.0,Vlastenecký blok,PS
-16407,2023-09-26,,-75.0,"B1628341645-44544 17** **** 3480;POSTA SENKVICE ,SENKVICE ,SK ;25.09.2023 13:54:50 ;CashBack:0 EUR",,Vlastenecký blok,PS
+16401,2023-09-30,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16402,2023-09-30,Soukup Marián,220.2,DAR - Marian Soukup,,Vlastenecký blok,PS
+16403,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",60.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
+16404,2023-09-29,"CHOLEVOVA JANA,Choleva Ľubomír",415.0,Dar-Lubomir Choleva,29092023.0,Vlastenecký blok,PS
+16405,2023-09-28,HANZLIK ROMAN,415.0,DAR Mgr. Roman Hanzlik,6904078115.0,Vlastenecký blok,PS
+16411,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
+16410,2023-09-26,,-37.5,"B1628343864-44544 17** **** 3480;POSTA RUZINDOL ,RUZINDOL ,SK ;25.09.2023 14:54:35 ;CashBack:0 EUR",,Vlastenecký blok,PS
+16409,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
 16408,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
-16409,2023-09-26,,-75.0,"B1628340102-44544 17** **** 3480;POSTA ZELENEC ,ZELENEC ,SK ;25.09.2023 13:04:29 ;CashBack:0 EUR",,Vlastenecký blok,PS
-16406,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
-16405,2023-09-26,,-37.5,"B1628343864-44544 17** **** 3480;POSTA RUZINDOL ,RUZINDOL ,SK ;25.09.2023 14:54:35 ;CashBack:0 EUR",,Vlastenecký blok,PS
-16404,2023-09-26,,-0.25,Poplatok za platbu kartou,,Vlastenecký blok,PS
-16410,2023-09-23,Soukup Marián,115.0,DAR - Marian Soukup,,Vlastenecký blok,PS
-16411,2023-09-20,Lubomir Mores,270.0,dar pre Mgr Mores,,Vlastenecký blok,PS
-16412,2023-09-20,Region Press s.r.o.,-270.0,uh.fa,274230065.0,Vlastenecký blok,PS
-16413,2023-09-18,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
-16414,2023-09-14,Region Press s.r.o.,-1332.0,uh.fa,134230284.0,Vlastenecký blok,PS
-16415,2023-09-14,"CHOLEVOVA JANA,Choleva Ľubomír",332.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
-16416,2023-09-13,"CHOLEVOVA JANA,Choleva Ľubomír",1000.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
-16417,2023-09-04,GULDANOVA JANA,415.0,Dar - Jana Guldanova,,Vlastenecký blok,PS
-16418,2023-09-04,Eva Uvackova,30.0,26529777,,Vlastenecký blok,PS
-16419,2023-09-02,Emilia Uhlarikova,20.0,dar pre nadej,,Vlastenecký blok,PS
-16420,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-16421,2023-08-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-16422,2023-08-30,"Janigová Oľga, Mgr.",150.0,DAR,,Vlastenecký blok,PS
-16423,2023-08-30,DOBOSOVA EVA,100.0,Dar na voľby Daniela Zemanová,,Vlastenecký blok,PS
-16425,2023-08-30,Blue Mark production s.r.o.,-112.8,uh.fa,2023037.0,Vlastenecký blok,PS
-16426,2023-08-30,Mesto Banovce nad Bebravou,-14.0,uh.fa,2023113.0,Vlastenecký blok,PS
-16427,2023-08-23,DLD s.r.o.,-226.8,uh.fa,20230268.0,Vlastenecký blok,PS
-16428,2023-08-23,Daniel Ferencik,-522.0,uh.fa,2307006.0,Vlastenecký blok,PS
-16429,2023-08-23,Soukupová Karin,522.0,dar,,Vlastenecký blok,PS
-16430,2023-08-18,"CHOLEVOVA JANA,Choleva Ľubomír",230.0,"Dar - Lubomir Choleva""",18082023.0,Vlastenecký blok,PS
-16431,2023-08-18,Zdenka Stolarova,-20.0,vratenie platby,42330955.0,Vlastenecký blok,PS
-16432,2023-08-17,Bunčová Anna,20.0,Anna Bunčova. Daniela Ustupska c4 podpora,,Vlastenecký blok,PS
-16433,2023-08-16,Ing.Ivan Barancok-Laser Impress,-105.6,uh.fa,20230171.0,Vlastenecký blok,PS
-16435,2023-08-14,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
-16434,2023-08-14,HUPKA BORIS,10.0,Volby,,Vlastenecký blok,PS
-16436,2023-08-11,Sunegová Evka,112.8,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
-16438,2023-08-11,,20.0,"Zdenka Stolárová , dar pre voľby 23 - Mária Pekaríková",,Vlastenecký blok,PS
-16439,2023-08-11,Gregor Miroslav,10.0,Dar pre nadej,,Vlastenecký blok,PS
-16440,2023-08-11,TOMAS FUPSO,20.0,dar Zemanova,,Vlastenecký blok,PS
-16437,2023-08-11,Sunegová Evka,105.6,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+16407,2023-09-26,,-75.0,"B1628340102-44544 17** **** 3480;POSTA ZELENEC ,ZELENEC ,SK ;25.09.2023 13:04:29 ;CashBack:0 EUR",,Vlastenecký blok,PS
+16406,2023-09-26,,-75.0,"B1628341645-44544 17** **** 3480;POSTA SENKVICE ,SENKVICE ,SK ;25.09.2023 13:54:50 ;CashBack:0 EUR",,Vlastenecký blok,PS
+16412,2023-09-23,Soukup Marián,115.0,DAR - Marian Soukup,,Vlastenecký blok,PS
+16413,2023-09-20,Lubomir Mores,270.0,dar pre Mgr Mores,,Vlastenecký blok,PS
+16414,2023-09-20,Region Press s.r.o.,-270.0,uh.fa,274230065.0,Vlastenecký blok,PS
+16415,2023-09-18,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
+16416,2023-09-14,Region Press s.r.o.,-1332.0,uh.fa,134230284.0,Vlastenecký blok,PS
+16417,2023-09-14,"CHOLEVOVA JANA,Choleva Ľubomír",332.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
+16418,2023-09-13,"CHOLEVOVA JANA,Choleva Ľubomír",1000.0,Dar-Lubomir Choleva,13092023.0,Vlastenecký blok,PS
+16420,2023-09-04,GULDANOVA JANA,415.0,Dar - Jana Guldanova,,Vlastenecký blok,PS
+16419,2023-09-04,Eva Uvackova,30.0,26529777,,Vlastenecký blok,PS
+16421,2023-09-02,Emilia Uhlarikova,20.0,dar pre nadej,,Vlastenecký blok,PS
+16422,2023-08-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+16423,2023-08-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16424,2023-08-30,"Janigová Oľga, Mgr.",150.0,DAR,,Vlastenecký blok,PS
+16425,2023-08-30,DOBOSOVA EVA,100.0,Dar na voľby Daniela Zemanová,,Vlastenecký blok,PS
+16427,2023-08-30,Blue Mark production s.r.o.,-112.8,uh.fa,2023037.0,Vlastenecký blok,PS
+16428,2023-08-30,Mesto Banovce nad Bebravou,-14.0,uh.fa,2023113.0,Vlastenecký blok,PS
+16429,2023-08-23,DLD s.r.o.,-226.8,uh.fa,20230268.0,Vlastenecký blok,PS
+16430,2023-08-23,Daniel Ferencik,-522.0,uh.fa,2307006.0,Vlastenecký blok,PS
+16431,2023-08-23,Soukupová Karin,522.0,dar,,Vlastenecký blok,PS
+16433,2023-08-18,"CHOLEVOVA JANA,Choleva Ľubomír",230.0,"Dar - Lubomir Choleva""",18082023.0,Vlastenecký blok,PS
+16432,2023-08-18,Zdenka Stolarova,-20.0,vratenie platby,42330955.0,Vlastenecký blok,PS
+16434,2023-08-17,Bunčová Anna,20.0,Anna Bunčova. Daniela Ustupska c4 podpora,,Vlastenecký blok,PS
+16435,2023-08-16,Ing.Ivan Barancok-Laser Impress,-105.6,uh.fa,20230171.0,Vlastenecký blok,PS
+16436,2023-08-14,VERONIKA STRBOVA,20.0,PLATBA,,Vlastenecký blok,PS
+16437,2023-08-14,HUPKA BORIS,10.0,Volby,,Vlastenecký blok,PS
+16438,2023-08-11,Sunegová Evka,112.8,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+16439,2023-08-11,Sunegová Evka,105.6,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+16440,2023-08-11,,20.0,"Zdenka Stolárová , dar pre voľby 23 - Mária Pekaríková",,Vlastenecký blok,PS
+16441,2023-08-11,Gregor Miroslav,10.0,Dar pre nadej,,Vlastenecký blok,PS
+16442,2023-08-11,TOMAS FUPSO,20.0,dar Zemanova,,Vlastenecký blok,PS
+16445,2023-08-10,Medlová Dana,20.0,Dar na volby Dasa Kovacova,,Vlastenecký blok,PS
+16446,2023-08-10,VLCKOVA ELENA,15.0,Dar na volby Daniela Zemanova ElenaVlckova,,Vlastenecký blok,PS
+16444,2023-08-10,KRNACOVA EVA,5.0,Dar na volby Daniela Zemanova,,Vlastenecký blok,PS
 16443,2023-08-10,Ursínyová Eva,5.0,dar na voľby,,Vlastenecký blok,PS
-16444,2023-08-10,Medlová Dana,20.0,Dar na volby Dasa Kovacova,,Vlastenecký blok,PS
-16442,2023-08-10,VLCKOVA ELENA,15.0,Dar na volby Daniela Zemanova ElenaVlckova,,Vlastenecký blok,PS
-16441,2023-08-10,KRNACOVA EVA,5.0,Dar na volby Daniela Zemanova,,Vlastenecký blok,PS
-16446,2023-08-09,DOCZYOVA JANKA,5.0,dar na volby Daniela Zemanova,,Vlastenecký blok,PS
-16447,2023-08-09,Imrich Gaplovský,20.0,26307267,8082023.0,Vlastenecký blok,PS
-16445,2023-08-09,Strhárska Anna,50.0,Dar na volby,,Vlastenecký blok,PS
-16448,2023-08-08,Ábelová Anna,10.0,Podpora,,Vlastenecký blok,PS
-16449,2023-08-08,Alena Remsikova,10.0,2322050000054920,,Vlastenecký blok,PS
-16450,2023-08-08,Jankovič Miroslav,10.0,OO23080800058971,,Vlastenecký blok,PS
-16451,2023-08-08,Olga Surinova,10.0,Olga Abaffyova Surinova,,Vlastenecký blok,PS
-16452,2023-08-08,Zdenka Chovanova,10.0,2322050000027208,,Vlastenecký blok,PS
-16453,2023-08-01,Matejková Lucia,200.0,dar na voľby pre Mária Pekarikova,,Vlastenecký blok,PS
-16455,2023-07-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-16454,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-16456,2023-07-27,Dana Kavorova,300.0,"Ing. Dana Kavorova, dar",,Vlastenecký blok,PS
-16457,2023-07-26,STANOVIC IVAN,415.0,dar,6110.0,Vlastenecký blok,PS
-16458,2023-07-25,Primorac Salome,100.0,Dar na volby pre Maria Pekarikova,,Vlastenecký blok,PS
-16459,2023-07-24,"BENCOVA ZUZANA,ING",300.0,"DAR-Bencova,Stranak",,Vlastenecký blok,PS
-16460,2023-07-14,Eva Uvackova,300.0,DAR-EVA UVACKOVA,1372023.0,Vlastenecký blok,PS
-16462,2023-07-11,Soukup Marián,300.0,DAR - Marian Soukup,,Vlastenecký blok,PS
-16463,2023-07-11,"Janigová Oľga, Mgr.",300.0,Dar Mgr. Olga Janigova,,Vlastenecký blok,PS
-16466,2023-07-06,Slobodová Zlata,20.0,DAR,,Vlastenecký blok,PS
-16468,2023-07-06,Sunegová Evka,300.0,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
-16467,2023-07-06,"Maršal Dušan,Maršalová Ľubica",20.0,Dar,,Vlastenecký blok,PS
-16465,2023-07-06,EMILIA MINARIKOVA,300.0,DAR UHLARIK MIROSLAV,,Vlastenecký blok,PS
-16464,2023-07-06,EMILIA MINARIKOVA,300.0,DAR MINARIKOVA EMILIA,,Vlastenecký blok,PS
-16469,2023-07-04,Marta Rusnakova,300.0,DAR MARTA RUSNAKOVA,,Vlastenecký blok,PS
-16470,2023-07-02,,-10.0,Poplatok Potvrdenie o vykonaní prevodu,,Vlastenecký blok,PS
-16471,2023-07-01,MV SR,-17000.0,volebna kaucia,42330955.0,Vlastenecký blok,PS
-16472,2023-06-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
-16473,2023-06-30,,-1.17,Poplatok za vedenie účtu,,Vlastenecký blok,PS
-16474,2023-06-29,SOUKUPOVA KARIN,8500.0,POZICKA - KARIN SOUKUPOVA,,Vlastenecký blok,PS
-16475,2023-06-29,STANOVIC IVAN,8500.0,Pozicka,611006.0,Vlastenecký blok,PS
-16476,2023-06-27,SMUTNY P AQUAFIND,300.0,od Pala Smutneho,6308186148.0,Vlastenecký blok,PS
+16447,2023-08-09,Strhárska Anna,50.0,Dar na volby,,Vlastenecký blok,PS
+16448,2023-08-09,DOCZYOVA JANKA,5.0,dar na volby Daniela Zemanova,,Vlastenecký blok,PS
+16449,2023-08-09,Imrich Gaplovský,20.0,26307267,8082023.0,Vlastenecký blok,PS
+16450,2023-08-08,Ábelová Anna,10.0,Podpora,,Vlastenecký blok,PS
+16451,2023-08-08,Alena Remsikova,10.0,2322050000054920,,Vlastenecký blok,PS
+16452,2023-08-08,Jankovič Miroslav,10.0,OO23080800058971,,Vlastenecký blok,PS
+16453,2023-08-08,Olga Surinova,10.0,Olga Abaffyova Surinova,,Vlastenecký blok,PS
+16454,2023-08-08,Zdenka Chovanova,10.0,2322050000027208,,Vlastenecký blok,PS
+16455,2023-08-01,Matejková Lucia,200.0,dar na voľby pre Mária Pekarikova,,Vlastenecký blok,PS
+16456,2023-07-31,,-5.0,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16457,2023-07-31,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+16458,2023-07-27,Dana Kavorova,300.0,"Ing. Dana Kavorova, dar",,Vlastenecký blok,PS
+16459,2023-07-26,STANOVIC IVAN,415.0,dar,6110.0,Vlastenecký blok,PS
+16460,2023-07-25,Primorac Salome,100.0,Dar na volby pre Maria Pekarikova,,Vlastenecký blok,PS
+16461,2023-07-24,"BENCOVA ZUZANA,ING",300.0,"DAR-Bencova,Stranak",,Vlastenecký blok,PS
+16462,2023-07-14,Eva Uvackova,300.0,DAR-EVA UVACKOVA,1372023.0,Vlastenecký blok,PS
+16464,2023-07-11,Soukup Marián,300.0,DAR - Marian Soukup,,Vlastenecký blok,PS
+16465,2023-07-11,"Janigová Oľga, Mgr.",300.0,Dar Mgr. Olga Janigova,,Vlastenecký blok,PS
+16470,2023-07-06,Sunegová Evka,300.0,DAR PaedDr. Eva Sunegová,,Vlastenecký blok,PS
+16469,2023-07-06,"Maršal Dušan,Maršalová Ľubica",20.0,Dar,,Vlastenecký blok,PS
+16468,2023-07-06,Slobodová Zlata,20.0,DAR,,Vlastenecký blok,PS
+16467,2023-07-06,EMILIA MINARIKOVA,300.0,DAR UHLARIK MIROSLAV,,Vlastenecký blok,PS
+16466,2023-07-06,EMILIA MINARIKOVA,300.0,DAR MINARIKOVA EMILIA,,Vlastenecký blok,PS
+16471,2023-07-04,Marta Rusnakova,300.0,DAR MARTA RUSNAKOVA,,Vlastenecký blok,PS
+16472,2023-07-02,,-10.0,Poplatok Potvrdenie o vykonaní prevodu,,Vlastenecký blok,PS
+16473,2023-07-01,MV SR,-17000.0,volebna kaucia,42330955.0,Vlastenecký blok,PS
+16474,2023-06-30,,-5.0,Zverejňovanie účtu,,Vlastenecký blok,PS
+16475,2023-06-30,,-1.17,Poplatok za vedenie účtu,,Vlastenecký blok,PS
+16476,2023-06-29,SOUKUPOVA KARIN,8500.0,POZICKA - KARIN SOUKUPOVA,,Vlastenecký blok,PS
+16477,2023-06-29,STANOVIC IVAN,8500.0,Pozicka,611006.0,Vlastenecký blok,PS
+16478,2023-06-27,SMUTNY P AQUAFIND,300.0,od Pala Smutneho,6308186148.0,Vlastenecký blok,PS

@@ -1,599 +1,605 @@
 index,date,account_name,amount,message,vs,name,label
-11328,2023-10-31,,-3.96,Poplatky za platby spolu,9,Republika,PS
-11330,2023-10-31,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
-11329,2023-10-31,,-7.0,Vedenie účtu,9,Republika,PS
-11331,2023-10-24,"ETOP ADVERTISING, sro",-1008.0,bilbordy,12023319,Republika,PS
-11332,2023-10-19,KNOWMEDIA sro,-46965.96,medialny priestor billboardy 08/2023,62300944,Republika,PS
-11333,2023-10-17,"Slovenská pošta, a.s.",-77135.81,zmluvny podaj letakov september 2023,9001636037,Republika,PS
-11334,2023-10-17,,-10.0,P-Blokácia na žiadosť klienta,,Republika,PS
-11335,2023-10-17,REPUBLIKA,90000.0,prevod prostriedkov za ucelom uhrady doslych faktur,,Republika,PS
-11341,2023-10-11,Hospodarske zdruzenie Spisa - HZS,-48.0,reklama v novinach,112023,Republika,PS
-11346,2023-10-11,"SITA Slovenska tlacova agentura, as",-3600.0,zverejnenie PR spravy,312301268,Republika,PS
-11345,2023-10-11,"RCS reklama, sro",-1819.2,tlac letakov A5,1020230632,Republika,PS
-11344,2023-10-11,"FPD Media, as",-636.0,zverejnenie reklamnych formatov,832300588,Republika,PS
-11343,2023-10-11,"Miroslav Jiranek - BEPA, reklamna agentura",-336.0,"samolepky, grafika",2023509,Republika,PS
-11342,2023-10-11,Mestske kulturne centrum Spisska Nova Ves,-230.0,prenajom priestorov,1115300128,Republika,PS
-11340,2023-10-11,Mestske kulturne stredisko Banovce nad Bebravou,-36.0,vylepna sluzba,21330169,Republika,PS
-11339,2023-10-11,Mesto Tisovec,-150.0,"prenajom priestorov, reklama",230041,Republika,PS
-11338,2023-10-11,Mesto Podolinec,-65.0,prenajom priestorov,202300044,Republika,PS
-11337,2023-10-11,Centrum volneho casu Stara Lubovna,-180.0,prenajom priestorov,202318,Republika,PS
-11336,2023-10-11,Obec Poproc,-200.0,prenajom priestorov,1111300106,Republika,PS
-11347,2023-10-06,Mesto Žilina,-120.0,Dan za uzivanie verejneho priestranstva,1510066592,Republika,PS
-11348,2023-10-03,"LL real invest, s.r.o.",-270.0,prenajom priestorov,20230406,Republika,PS
-11349,2023-10-02,Platba kartou,-960.0,FACEBK FBH47TFD fb.me/ads,****8125,Republika,PS
-11353,2023-09-29,,-83.82,Poplatky za platby spolu,9,Republika,PS
-11355,2023-09-29,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
-11354,2023-09-29,,-7.0,Vedenie účtu,9,Republika,PS
-11350,2023-09-29,Platba kartou,-960.0,FACEBK DXVRAUXD fb.me/ads,****8125,Republika,PS
-11352,2023-09-29,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11351,2023-09-29,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11356,2023-09-28,Platba kartou,-960.0,FACEBK 6KB4YSTD fb.me/ads,****8125,Republika,PS
-11357,2023-09-28,Platba kartou,-960.0,FACEBK BVJT9UXD fb.me/ads,****8125,Republika,PS
-11358,2023-09-28,Platba kartou,-960.0,FACEBK JYQY2TPD fb.me/ads,****8125,Republika,PS
-11359,2023-09-28,Platba kartou,-960.0,FACEBK S6UXATKD fb.me/ads,****8125,Republika,PS
-11360,2023-09-28,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11370,2023-09-27,KNOWMEDIA sro,-48736.0,medialny priestor billboardy 07/2023,62300814,Republika,PS
-11378,2023-09-27,Platba kartou,-960.0,FACEBK 4VUGFTKE fb.me/ads,****8125,Republika,PS
-11377,2023-09-27,Platba kartou,-960.0,FACEBK ACRT8UXD fb.me/ads,****8125,Republika,PS
-11376,2023-09-27,Platba kartou,-960.0,FACEBK LKULETKE fb.me/ads,****8125,Republika,PS
-11375,2023-09-27,Platba kartou,-960.0,FACEBK HZ5U3TFD fb.me/ads,****8125,Republika,PS
-11374,2023-09-27,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11373,2023-09-27,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11372,2023-09-27,,-10.0,P-Blokácia na žiadosť klienta,,Republika,PS
-11371,2023-09-27,Statny rozpocet,-300.0,"par. 24, ods. 3 zakona c. 85/2005 - nie je mozne vratit dar darcovi, prijem do SR",,Republika,PS
-11367,2023-09-27,Obec Pozba,-7.0,politicky oznam v rozhlase,202316,Republika,PS
-11369,2023-09-27,Brunovský Daniel,6000.0,"Daniel Brunovsky, Pri Sajbach 34, Bratislava -DAR",,Republika,PS
-11361,2023-09-27,CLASSIC MSL spol. s.r.o.,-114.0,prenajom kinosaly,20230020,Republika,PS
-11366,2023-09-27,CASA MIA nábytok a doplnky,-6000.0,rozhlasova reklama,2023006,Republika,PS
-11365,2023-09-27,Chez Mimi s.r.o.,-5760.0,medialny a PR priestor,20230017,Republika,PS
-11364,2023-09-27,ARTON s.r.o.,-1176.0,plagaty,230471,Republika,PS
-11363,2023-09-27,Obec Dvory nad Žitavou,-6.0,hlasenie v miestnom rozhlase,5011300118,Republika,PS
-11362,2023-09-27,FRONTINUS s.r.o.,-8640.0,politicka reklama v radiu,4023,Republika,PS
-11368,2023-09-27,REPUBLIKA,50000.0,prevod prostriedkov na transparentny ucet,,Republika,PS
-11383,2023-09-26,Platba kartou,-960.0,FACEBK 6JRTDTKE fb.me/ads,****8125,Republika,PS
-11384,2023-09-26,Platba kartou,-960.0,FACEBK Y8E9QS3E fb.me/ads,****8125,Republika,PS
-11382,2023-09-26,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11381,2023-09-26,KNOWMEDIA s.r.o.,-45780.94,billboardy,62300680,Republika,PS
-11380,2023-09-26,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet,,Republika,PS
-11379,2023-09-26,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11393,2023-09-25,"VUB,A.S.",-960.0,DDFACEBK~M4MTYSFDfb.me/ads~~~~~~P1,****8125,Republika,PS
-11400,2023-09-25,Platba kartou,-960.0,FACEBK V9K25TFE fb.me/ads,****8125,Republika,PS
-11399,2023-09-25,Platba kartou,-960.0,FACEBK N3BDXSFD fb.me/ads,****8125,Republika,PS
-11398,2023-09-25,Platba kartou,-960.0,FACEBK DC3DPS3E fb.me/ads,****8125,Republika,PS
-11397,2023-09-25,Platba kartou,-960.0,FACEBK EDKBUSTD fb.me/ads,****8125,Republika,PS
-11396,2023-09-25,Platba kartou,-960.0,FACEBK HKRYZS7E fb.me/ads,****8125,Republika,PS
-11395,2023-09-25,"VUB,A.S.",-960.0,DDFACEBK~F5VYYS7Efb.me/ads~~~~~~P1,****8125,Republika,PS
-11394,2023-09-25,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11387,2023-09-25,OSTROZLIK VILIAM,100.0,"Viliam Ostrozlik, Fialova 4A, Bratislava - DAR",9,Republika,PS
-11392,2023-09-25,"VUB,A.S.",-500.0,DDGOOGLE~*ADS1481cc@google.~~~~~P1,****8125,Republika,PS
-11391,2023-09-25,"ISPA, spol. s.r.o.",-52.8,Preinstalacia,20234050,Republika,PS
-11390,2023-09-25,Mesto Spisska Nova Ves,-16.8,dan za uzivanie verejneho priestranstva,1322300076,Republika,PS
-11389,2023-09-25,KECSKES JAN,5000.0,"Mgr. Jan Kecskes, Novozamocka 156,Nitra - pozicka",,Republika,PS
-11388,2023-09-25,ELVÍRA Švorcová,50.0,Emil Svorc Zeleznicna 1 Bahon DAR,,Republika,PS
-11386,2023-09-25,Michaela Riaposova,3000.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
-11385,2023-09-25,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11405,2023-09-22,"Lassak, s.r.o.",-126.0,plagaty,20230151,Republika,PS
-11408,2023-09-22,Platba kartou,-960.0,FACEBK LVZC3UXD fb.me/ads,****8125,Republika,PS
-11407,2023-09-22,famous design s.r.o.,-60.0,plagaty,2023205,Republika,PS
-11406,2023-09-22,Michaela Riaposova,126.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
-11404,2023-09-22,TREBULA FILIP,100.0,Filip Trebula Rybarska 39 Sliac - Dar,,Republika,PS
-11403,2023-09-22,Eva Demjanova,60.0,"Peter Demjan, Puskinova 12, Humenne - dar",,Republika,PS
-11402,2023-09-22,Obec Bešeňov,-10.0,rozhlasova inzercia,20230081,Republika,PS
-11401,2023-09-22,Rafael Rafaj,50.0,"Rafael Rafaj, Alstrova 190, 831 06 Bratislava, dar",,Republika,PS
-11409,2023-09-21,"Petit Press, a.s. divizia tyzdennikov, o.z.",-292.32,inzercia,2333101833,Republika,PS
-11410,2023-09-21,City Holet Bratislava s.r.o.,-549.0,prenajom priestorov,190985,Republika,PS
-11411,2023-09-21,Milos Hlavaty,292.32,Milos Hlavaty Partizanska 1859/33 Turany - dar,,Republika,PS
-11412,2023-09-21,Dataprint sk s.r.o.,-560.4,"billboardy, plagaty, grafika, banner",20230082,Republika,PS
-11413,2023-09-21,Mesto Zlate Moravce,-60.0,dan za osobite uzivanie verejneho priestranstva,7423300186,Republika,PS
-11414,2023-09-21,Platba kartou,-960.0,FACEBK FX64WS7E fb.me/ads,****8125,Republika,PS
-11415,2023-09-21,Platba kartou,-350.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11420,2023-09-20,Peter Dunajsky,10.0,"Peter Dunajsky, Teplicka 221/60 Liptovska Teplicka 05940. Ide o dar.",,Republika,PS
-11422,2023-09-20,JOZEF LOVAS,100.0,"Jozef Lovas, Donovaly 28, Donovaly. DAR",,Republika,PS
-11421,2023-09-20,Zuzana Múčková,701.6,"Mgr. Zuzana Muckova, Okruzna 1353/50, Detva, DAR",,Republika,PS
-11423,2023-09-20,Vladimír Bajo,100.0,"Katarína Bajová,nar1981,Cintorínska 508/12,Modrý K ameň-Dar, FB",19092023,Republika,PS
-11419,2023-09-20,Obec Trávnica,-5.5,rozhlasova relacia,2023000032,Republika,PS
-11417,2023-09-20,Platba kartou,-145.38,FACEBK EZD7HS3E fb.me/ads,****8125,Republika,PS
-11416,2023-09-20,Platba kartou,-200.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
-11418,2023-09-20,Obec Úľany nad Žitavou,-10.0,Rozhlasove sluzby,2023000035,Republika,PS
-11429,2023-09-19,Ivan Janovec,100.0,Ivan Janovec Turecka 279 97602 Stare Hory - dar,2023,Republika,PS
-11433,2023-09-19,"VUB,A.S.",-960.0,DDFACEBK~37GZMSTDfb.me/ads~~~~~~P1,****8125,Republika,PS
-11432,2023-09-19,"VUB,A.S.",-50.0,DDGOOGLE~*ADS1481cc@google.~~~~~P1,****8125,Republika,PS
-11431,2023-09-19,Budinský Vincent,100.0,Vincent Budinsky Petra Jilemnickeho 665/97 Cierny Balog 97652 Dar,,Republika,PS
-11430,2023-09-19,Adriana Antalová,100.0,"Adriana Antalova, Nova 26, 96681 Zarnovica- DAR",,Republika,PS
-11428,2023-09-19,Dusan Kisfalusi,100.0,"Dusan Kisfalusi, M.R.Stefanika 2600/3, Zvolen - DAR",,Republika,PS
-11427,2023-09-19,Janka Kuspalova,50.0,"Mgr.Kuspalova Janka, Frana Krala 236/6, 99122 Busince - dar",20230919,Republika,PS
-11426,2023-09-19,"BigMedia, spol. s.r.o.",-3000.0,reklamne sluzby,1223207012,Republika,PS
-11425,2023-09-19,MKC Ziar nad Hronom,-62.6,sluzby v DS MskC Ziar nad Hronom,26,Republika,PS
-11424,2023-09-19,Roman Hubert,100.0,"Roman Hubert, Lukovistia 226, (Dar)",740514,Republika,PS
-11441,2023-09-18,"VUB,A.S.",-960.0,DDFACEBK~DBV65TKEfb.me/ads~~~~~~P1,****8125,Republika,PS
-11448,2023-09-18,"VUB,A.S.",-960.0,DDFACEBK~DUX2LTBEfb.me/ads~~~~~~P1,****8125,Republika,PS
-11447,2023-09-18,"VUB,A.S.",-10.0,DDGOOGLE~*ADS1481cc@google.~~~~~P1,****8125,Republika,PS
-11446,2023-09-18,Berčík Alan,200.0,"Alan Bercik, Kuzmanyho 15, Banska Bystrica 97401 - dar",,Republika,PS
-11445,2023-09-18,"Fibra print, sro",-83215.2,volebne noviny 1.500.000 ks,2300727,Republika,PS
-11444,2023-09-18,Melicherčíková Zuzana,100.0,"Zuzana Melichercikova, Zrinskeho 4,81103Bratislava.Dar",,Republika,PS
-11442,2023-09-18,Michaela Riaposova,12.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
-11443,2023-09-18,GRYF reklamné štúdio s.r.o.,-36.0,plagaty,20233050,Republika,PS
-11440,2023-09-18,Jaromír Šmátrala,3000.0,"Jaromir Smatrala, Bajkalska 29D, 821 01 Bratislava. Dar",,Republika,PS
-11439,2023-09-18,DOM KULTÚRY V ČADCI,-45.0,prenajom priestorov,230110,Republika,PS
-11438,2023-09-18,"Mikurčík Erik, Mgr.",550.0,"Erik Mikurcik, Zamocka 20 Bratislava, DAR",,Republika,PS
-11437,2023-09-18,Michaela Riaposova,200.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
-11436,2023-09-18,Michaela Riaposova,100.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
-11435,2023-09-18,Zväz slovenských vedeckotechnických spoločností,-394.32,prenajom zasadacky,23474,Republika,PS
-11434,2023-09-18,Park kultúry a oddychu Prešov,-373.25,prenajom kinosaly,2002023,Republika,PS
-11449,2023-09-14,Lucia Čorosová,500.0,"Lucia Corosova, Bajzova 6, Kosice _ dar",,Republika,PS
-11453,2023-09-13,Mesto Bardejov,-5.6,dan za uzivanie verejneho priestranstva,2924300046,Republika,PS
-11455,2023-09-13,SIMOVA JANA,5000.0,"Mgr.Jana Simova, Nizna Revuca 71, Liptovske Revuce Pozicka",,Republika,PS
-11454,2023-09-13,"Lassak, s.r.o.",-306.0,"billboardy, plagaty",20230147,Republika,PS
-11452,2023-09-13,Obec Kráľova Lehota,-41.98,reklamna plocha,492023,Republika,PS
-11451,2023-09-13,Obec Lukovištia,-38.8,reklamne plochy,152023,Republika,PS
-11450,2023-09-13,Platba kartou,-1112.27,FACEBK 48TMRSFE fb.me/ads,****8125,Republika,PS
-11456,2023-09-12,"Súlovský Peter, Ing.",12000.0,"Peter Sulovsky, Samorinska 12, Samorin, dar",,Republika,PS
-11457,2023-09-12,DaL Pro s.r.o.,-144.0,reklamna plocha,2023020,Republika,PS
-11458,2023-09-12,Rafael Rafaj,5.0,"dar, Rafael Rafaj, Alstrova 190, 831 06 Bratislava",,Republika,PS
-11459,2023-09-12,Maslak Denis,306.0,"Denis Maslak,Cadca-Hurbanova 2306,jedna sa o DAR",,Republika,PS
-11468,2023-09-11,AKRA reklama s.r.o.,-139.2,"tricka, letaky",110230170,Republika,PS
-11473,2023-09-11,Tlačiareň Brummer s.r.o.,-158.4,/DO2023-09-11/SP letak,2320174,Republika,PS
-11472,2023-09-11,"Mouton, s.r.o.",-144.0,/DO2023-09-11/SP letaky,2023165,Republika,PS
-11471,2023-09-11,Tomáš Senko,135.0,"Dar. Tomas Senko, Obchodna 8555/3A, 010 08 Zilina",,Republika,PS
-11470,2023-09-11,"Institut narodnej politiky, o.z.",-350.23,inzercia,202307,Republika,PS
-11469,2023-09-11,PN print s.r.o.,-84.0,"Letaky, grafika",20230655,Republika,PS
-11463,2023-09-11,"AU Holding plus, s.r.o.",-240.0,banner,2023244,Republika,PS
-11467,2023-09-11,"AU Holding plus, s.r.o.",-420.0,"banner, autopolep",2023245,Republika,PS
-11466,2023-09-11,Martin Huska,600.0,"Martin Huska, Hrobakova 12, Bratislava - dar",,Republika,PS
-11465,2023-09-11,ARTON s.r.o.,-1209.6,letaky,202309253,Republika,PS
-11464,2023-09-11,"DIGITRA Net, s.r.o.",-216.0,banner,162023361,Republika,PS
-11461,2023-09-11,Bamida s.r.o.,-167.63,"/DO2023-09-11/SP tricka, letaky, karticky, grafika",2320231,Republika,PS
-11460,2023-09-11,Vamstav spol. s.r.o.,-100.0,reklamna plocha,10230183,Republika,PS
-11474,2023-09-08,"VUB,A.S.",-960.0,DDFACEBK~3WUT9STDfb.me/ads~~~~~~P1,****8125,Republika,PS
-11475,2023-09-08,Rafael Rafaj,25.0,"dar, Rafael Rafaj, Alstrova 190, 83106 Bratislava, SKspravy",,Republika,PS
-11476,2023-09-08,Terézia Baníková,509.6,"Terézia Baníková, Stará Bystrica 161, 02304 - dar",,Republika,PS
-11477,2023-09-08,NEVOLNY ERIK,1500.0,"Erik Nevolny, Novosady 924/16, 96212 Detva- DAR",,Republika,PS
-11478,2023-09-08,CHYLIK RIBONOVA MARI,100.0,"Mariana Chylik Ribonova, Zavodie 83, Turzovka, DAR",,Republika,PS
-11484,2023-09-07,"Machovičová Erika, Mgr.",250.0,"machovicova erika internatna 2, b.b. dar",,Republika,PS
-11488,2023-09-07,"NEUMAHR TLAČIAREŇ, s.r.o.",-450.0,"tricka, letaky, banner, grafika, podpiskarta",20231460,Republika,PS
-11487,2023-09-07,"Red Post, s.r.o.",-455.35,distribucia letakov,2023036,Republika,PS
-11486,2023-09-07,Terezia Banikova,700.0,"Terezia Banikova ml. Stara Bystrica 161, 02304 -dar",,Republika,PS
-11480,2023-09-07,"VRBATA, s.r.o.",-1404.0,billboardy,2320800,Republika,PS
-11483,2023-09-07,Marek Fusatý,192.0,"Marek Fusaty, Kamenarska 86, Nova Bana, DAR",,Republika,PS
-11482,2023-09-07,Vladimír Bajo,460.0,"Katarína Bajová,nar1981,Cintorínska 508/12,Modrý K ameň-Dar",6092023,Republika,PS
-11479,2023-09-07,Brunovský Daniel,450.0,"Daniel Brunovsky Pri Sajbach 34, Bratislava - dar",,Republika,PS
-11481,2023-09-07,SUSARSKY MILOS,3000.0,Milos Susarsky Kozia 25 Bratislavadar,111,Republika,PS
-11500,2023-09-06,CyberSoft s.r.o.,-1764.0,outdoor reklama,23090404,Republika,PS
-11490,2023-09-06,"Orlove a priroda, sro",-144.0,prenajom reklamnej plochy,23078001,Republika,PS
-11509,2023-09-06,Michal Kýpeť,86.4,"Michal Kypet, Jana Bottu 78, 980 52 Hrachovo, dar",,Republika,PS
-11508,2023-09-06,"printio, s.r.o.",-500.0,letaky,323485,Republika,PS
-11507,2023-09-06,Janoušková Alexandra,1000.0,Alexandra Janouskova Astrova 28 90042 Dunajska Luzna - dar,,Republika,PS
-11506,2023-09-06,"euroAWK, spol. s.r.o.",-192.0,billboardy,235097,Republika,PS
-11505,2023-09-06,Activity promotions s.r.o.,-628.99,promo stolik,23190416,Republika,PS
-11504,2023-09-06,Datarint sk s.r.o.,-2044.25,"billboard, rollup,bannery, plagaty, nalepky,letaky",20230080,Republika,PS
-11503,2023-09-06,ARRIVA Slovakia a.s.,-1416.0,reklamna plocha,3010029142,Republika,PS
-11501,2023-09-06,Graphicsoul s.r.o,-165.0,"plagaty, letaky",20230629,Republika,PS
-11502,2023-09-06,Ing. Zdenko Čopák - RETURN,-225.0,letaky,2023169,Republika,PS
-11499,2023-09-06,Rafael Rafaj,323.25,"dar, Rafael Rafaj, Alstrova 190, 831 06, Bratislava - SKspravy inzercia",,Republika,PS
-11498,2023-09-06,Ing. Pavol Anderko - ANKO,-196.8,plagaty,233047,Republika,PS
-11497,2023-09-06,famous design s.r.o.,-727.2,"pera, plagaty, letaky",2023187,Republika,PS
-11496,2023-09-06,Eva Demjanova,924.0,"Peter Demjan, Puskinova 12, Humenne - dar",2023187,Republika,PS
-11495,2023-09-06,Janecek Jan,240.0,"Jan Janecek, 1. maja 2049/1, 069 01 Snina - Dar",,Republika,PS
-11494,2023-09-06,TATRA BANKA A.S. - CENTRÁLA,300.0,"DAR: Martin Dragun, Masarykova 70,Michalovce, 07101",,Republika,PS
-11493,2023-09-06,PREVOD Z KRED. KARTY,300.0,Vratena platba: prevod na ucet 2001014374 nie je povoleny,,Republika,PS
-11492,2023-09-06,MARTIN CHUDY,300.0,Martin Chudy Piestanska15 Leopoldov92041 TP-DAR,70,Republika,PS
-11491,2023-09-06,"Orlove a priroda, sro",-144.0,prenajom reklamnej plochy,23078002,Republika,PS
-11517,2023-09-05,RIBON JOZEF,950.0,Jozef Ribon Brezany 1 01004 Zilina DAR,,Republika,PS
-11522,2023-09-05,Tlačiareň Kežmarok GG s.r.o.,-3085.31,"darcekove predmety, tricka, mikiny, letaky, bannery, plagaty",20231193,Republika,PS
-11520,2023-09-05,"TOP IT, s.r.o.",-312.0,"letaky, kalendariky",20230300,Republika,PS
-11519,2023-09-05,TINO LASER s.r.o.,-3969.48,"grafika, letaky, banner",2023020,Republika,PS
-11518,2023-09-05,"PrintArt Media, s.r.o.",-606.0,"bannery, autopolep",230621,Republika,PS
-11514,2023-09-05,SIMOVA JANA,500.0,"Mgr. Jana Simova, Nizna Revuca 71, Liptovske Revuce dar",,Republika,PS
-11515,2023-09-05,Marek Fusatý,567.0,"Marek Fusaty, Kamenarska 86, Nova Bana, DAR",,Republika,PS
-11513,2023-09-05,Mestske kulturne stredisko Humenne,-684.0,Uhrada faktury X2023/010 prenajom priestorov,2023010,Republika,PS
-11512,2023-09-05,Bc. Andrea Fecková - VYDAVATEĽSTVO SPEKTRUM,-230.0,inzercia,2023112,Republika,PS
-11511,2023-09-05,Michaela Riaposova,106.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
-11510,2023-09-05,REDDesign s.r.o.,-210.6,"karticky, autopolep, tricka, plagaty",20230232,Republika,PS
-11566,2023-09-04,"NUBIUM, s.r.o.",-7524.0,billboardy,23095909,Republika,PS
-11554,2023-09-04,"VUB,A.S.",-1058.53,DDFACEBK~PVWAAS7Efb.me/ads~~~~~~P1,****8125,Republika,PS
-11556,2023-09-04,Ivan Janovec,312.0,Ivan Janovec Turecka 279 97602 Stare Hory - dar,2023,Republika,PS
-11557,2023-09-04,Janka Kuspalova,210.6,"Mgr.Kuspalova Janka, Frana Krala 236/6, 99122 Busince - dar",20230232,Republika,PS
-11559,2023-09-04,Multáň Pavel,600.0,"Pavel Multan, Kosicka 1797/2, 06001, Kezmarok, Dar",,Republika,PS
-11560,2023-09-04,EXO REKLAMNÁ AGENTÚRA s.r.o.,-96.0,tricka,10230117,Republika,PS
-11562,2023-09-04,OZ V OBRAZE,-120.0,inzercia na internete,20230069,Republika,PS
-11563,2023-09-04,Chriastel Julius,120.0,"Ing. Julius Chriastel, Toryska 4, 04011 Kosice - DAR",,Republika,PS
-11571,2023-09-04,Alexandra Jašurková,96.0,"Ing. Alexandra Jasurkova, Bernolakova 537/17, 06503 Podolinec, DAR",,Republika,PS
-11567,2023-09-04,Delphia Tatry s.r.o.,-260.0,"grafika, letaky, tricka, billboardy, reklamne plochy",23020007,Republika,PS
-11570,2023-09-04,"ETOP ADVERTISING, s.r.o.",-1008.0,Billboardy,12023412,Republika,PS
-11550,2023-09-04,Jaroslav Chylik,1000.0,"Jaroslav Chylik, Zavodie 83, 023 54 Turzovka, DAR",,Republika,PS
-11572,2023-09-04,Lubomir Pidanic,144.0,"Lubomir Pidanic, Kosicka 2507/29, Humenne - dar",,Republika,PS
-11573,2023-09-04,Jana Palíková,1029.6,"Ing. Jana Palikova, Turicky 3, 985 22 Cinobana - DAR",,Republika,PS
-11575,2023-09-04,PETIT s.r.o.,-120.0,letaky,2321109,Republika,PS
-11576,2023-09-04,RCS reklama s.r.o.,-153.0,letaky,1020230581,Republika,PS
-11577,2023-09-04,Regionálne vydavateľstvo - Alena Jaššová s.r.o.,-1600.0,inzercia,23066,Republika,PS
-11552,2023-09-04,MAREK KUKUCKA,23.0,"MAREK KUKUCKA, ZELENECSKA ULICA 2691/20, 917 02 TRNAVA, T.P. - DAR",,Republika,PS
-11536,2023-09-04,Ing. Pavol Anderko - ANKO,-708.0,plagaty,233044,Republika,PS
-11549,2023-09-04,Katarína Sikorová,300.0,"Katarina Sikorova, Mierova 12, 821 05 Bratislava, pozn.Dar",,Republika,PS
-11548,2023-09-04,Rafael Rafaj,90.0,"Rafael Rafaj, Alstrova 190, 831 06 Bratislava - dar",,Republika,PS
-11523,2023-09-04,FaxCopy a.s.,-411.6,"Banner, letaky",2458681,Republika,PS
-11524,2023-09-04,FaxCopy a.s.,-153.72,"grafika, tlac billboard",3502300391,Republika,PS
-11528,2023-09-04,Tisk Horak a.s.,-94.1,letaky,2306808,Republika,PS
-11534,2023-09-04,GoldThorn Group Print s.r.o.,-1279.68,20230019,20230019,Republika,PS
-11537,2023-09-04,IRPT s.r.o.,-150.0,sluzby,402023,Republika,PS
-11538,2023-09-04,GRAFCO s.r.o.,-29.0,letaky,2023087,Republika,PS
-11539,2023-09-04,DruxxPrint s.r.o.,-293.16,"grafika, plagaty",20230131,Republika,PS
-11540,2023-09-04,"Lassak, s.r.o.",-1104.0,"billboardy, plagaty",20230135,Republika,PS
-11541,2023-09-04,PN print s.r.o.,-890.4,Letaky,20230665,Republika,PS
-11542,2023-09-04,LAUKOVA LEA,153.0,"Lea Laukova, Svaty Anton 420, Dar",,Republika,PS
-11543,2023-09-04,ARTON s.r.o.,-156.0,"grafika, plagaty",230489,Republika,PS
-11544,2023-09-04,Emanuel Omámik,98.0,"Lucia Omamikova, Doliny 1891/2, Turany 03853, DAR",,Republika,PS
-11545,2023-09-04,Juraj Nemcek - JN Reklama,-30.0,propagacne materialy,1082023,Republika,PS
-11546,2023-09-04,Final Vision s.r.o.,-100.0,inzercia,20230102,Republika,PS
-11547,2023-09-04,"BB PRINT, s.r.o.",-90.0,vizitky,20230389,Republika,PS
-11529,2023-09-04,Alexandra Jašurková,260.0,"Ing. Alexandra Jasurkova, Bernolakova 537/17, 065 03 Podolinec, DAR",,Republika,PS
-11591,2023-08-31,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
-11582,2023-08-31,MAREK KUKUCKA,27.0,"MAREK KUKUCKA, ZELENECSKA ULICA 2691/20, 917 02 TRNAVA, T.P. - DAR",,Republika,PS
-11592,2023-08-31,,-7.0,Vedenie účtu,9,Republika,PS
-11588,2023-08-31,,-82.24,Poplatky za platby spolu,9,Republika,PS
-11590,2023-08-31,Revická Sára,94.1,"Sara Revicka, Nevidzany 151, 972 27, DAR",,Republika,PS
-11579,2023-08-31,PUPAK MILAN,30.0,"Milan Pupak, Dlovenskej armady 13B,Zlate Moravce - dar",,Republika,PS
-11587,2023-08-31,IANOS KLAUDIA,29.0,Klaudia Ianos.Zadna 60.Stupava-DAR,,Republika,PS
-11583,2023-08-31,Adriana Antalová,330.0,"Adriana Antalova, Nova 26, 96681 Zarnovica- DAR",,Republika,PS
-11580,2023-08-31,Peter Dragúň,999.0,"DAR, Peter Dragun, Masarykova 70, Michalovce",,Republika,PS
-11585,2023-08-31,PUPAK MILAN,100.0,"Milan Pupak, Slovenskej armady 13B,Zlate Moravce - dar",,Republika,PS
-11618,2023-08-30,Ing. Pavol Anderko - ANKO,-111.6,plagaty,230003,Republika,PS
-11612,2023-08-30,Maros Klika,230.0,"Maros Klika, Vranovska 1435/7, Stropkov, Dar.",2023112,Republika,PS
-11613,2023-08-30,ghstudio s.r.o.,-233.22,"plagaty, letaky",2023947,Republika,PS
-11615,2023-08-30,BUILD REAL s.r.o.,-60.0,tlac a vylep billboardu,2908202305,Republika,PS
-11616,2023-08-30,Terezia Banikova,216.0,"Terezia Banikova, Stara Bystrica 161, 02304 - dar",,Republika,PS
-11617,2023-08-30,"Logis Press, s.r.o.",-210.0,"billboard, letaky",20230299,Republika,PS
-11620,2023-08-30,Mareček Peter,233.22,"Peter Marecek, G. L. Svobodu 14,Senica - DAR",,Republika,PS
-11619,2023-08-30,KAPA spol. s.r.o.,-460.8,"plagaty, banner",20230148,Republika,PS
-11610,2023-08-30,"RETEX, s.r.o.",-240.0,reklamna plocha,2023212,Republika,PS
-11621,2023-08-30,Dagmara Ribonova,1000.0,"Dagmara Ribonova, Brezany 1, 010 04 Zilina, DAR",,Republika,PS
-11622,2023-08-30,Sandra Ribonova,1000.0,"Sandra Ribonova, Brezany 1, 010 04Zilina, DAR",,Republika,PS
-11624,2023-08-30,"Katarína Kluková - GIGA, reklamná agentúra",-250.0,letaky,2300002,Republika,PS
-11611,2023-08-30,Ing. Pavol Anderko - ANKO,-360.0,billboardy,230001,Republika,PS
-11609,2023-08-30,Sona Zyglinska,396.0,"Sona Zyglinska, Slnecna 162/11, 029 01 Namestovo- dar",,Republika,PS
-11600,2023-08-30,REDDesign s.r.o.,-1125.68,"autopolepy, letaky, prezentacne predmety, grafika",20230226,Republika,PS
-11593,2023-08-30,Mária Kopáčová,461.0,"Lukas Kopac, Dolne Trhoviste 246, 92061/DAR",,Republika,PS
-11607,2023-08-30,Vladimir Bajo,1000.0,"Vladimir Bajo,nar1978,Cintorinska 508/12,Modry Kamen-Dar",129082023,Republika,PS
-11606,2023-08-30,Vladimir Bajo,150.0,"Katarina Bajova,nar1981,Cintorinska 508/12,Modry Kamen-Dar",229082023,Republika,PS
-11605,2023-08-30,Mesto Rožňava,-63.0,prenajom spolocenskej saly MsU,20230190,Republika,PS
-11604,2023-08-30,"MARIGMA SK, s.r.o.",-1300.0,"karticky, noviny",2023003,Republika,PS
-11603,2023-08-30,"ImmerBest, s.r.o.",-396.0,reklamne plochy,20230222,Republika,PS
-11602,2023-08-30,"Kočišová Jana, Mgr. PhDr.",300.0,"Jana Kocisova, Hviezdoslavova 163/50, Vranov n.T. - dar",,Republika,PS
-11601,2023-08-30,PANTERPMD spol. s.r.o.,-200.0,propagacne materialy,1623,Republika,PS
-11608,2023-08-30,ARDOX SK s.r.o.,-449.16,"bannery, plagaty",2023445,Republika,PS
-11599,2023-08-30,Radek Trencansky,210.0,"Radek Trencansky,M.Benku 2341/9, Topolcany - dar",,Republika,PS
-11598,2023-08-30,DURIS MARIAN,250.0,"Marian Duris, Februarova 639/16, 958 01 Partizanske : Dar",2300002,Republika,PS
-11595,2023-08-30,SABIK BOHUMIR,200.0,"Mgr. Ing. Bohumir Sabik, Cerveny Hradok 30, 951 82 - dar",,Republika,PS
-11594,2023-08-30,PRISTAK MICHAL,449.16,"Michal Pristak , Perecka ul.2997/35 , 93405 Levice - dar",,Republika,PS
-11633,2023-08-28,DOBOSOVA TATIANA,960.0,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",,Republika,PS
-11631,2023-08-28,VALACH IGOR,246.0,"Erika Valachova, Horska 1309/53, Partizanske - dar",,Republika,PS
-11634,2023-08-28,"TRISTANPRESS, spol. s.r.o.",-1329.6,"grafika, letaky, reklamne predmety",2023363,Republika,PS
-11632,2023-08-28,DOB BUS,-960.0,Reklamny polep a plagaty (autobus),238110,Republika,PS
-11627,2023-08-28,Ivona Kellnerová,200.0,"ivona kellnerova, trieda 1 maja 11, spisska nova ves DAR",,Republika,PS
-11630,2023-08-28,"TRISTANPRESS, spol. s.r.o.",-246.0,"grafika, letaky, plagaty",2023360,Republika,PS
-11628,2023-08-28,MONDO - reklamná agentúra s.r.o.,-144.0,"letaky, nalepky",2023293,Republika,PS
-11626,2023-08-28,"ARTON, s.r.o.",-276.0,billboard,230472,Republika,PS
-11629,2023-08-28,"RADOLSKY REKLAMA, s.r.o.",-960.0,"grafika, reklamne plochy, billboard",20230428,Republika,PS
-11636,2023-08-25,JAN KUBICA,293.16,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",,Republika,PS
-11637,2023-08-25,Ivona Kellnerová,144.0,"Ivona Kellnerova, Trieda 1. maja 11, Spisska Nova Ves, DAR",,Republika,PS
-11638,2023-08-25,iPlqtforma s.r.o.,-900.0,"bigboard, billboardy",2300043,Republika,PS
-11644,2023-08-24,"ART Brezno, s.r.o.",-200.0,plagaty,20230077,Republika,PS
-11647,2023-08-24,Martin Kral,-360.89,Letaky,20230218,Republika,PS
-11646,2023-08-24,Emanuel Omámik,425.0,"Lucia Omamikova, Doliny 1891/2, Turany 03853, DAR",,Republika,PS
-11645,2023-08-24,UNIVEL spol. s r.o.,-919.2,"letaky, billboardy",20230755,Republika,PS
-11642,2023-08-24,Martin Klepkoň,914.0,Daniela Kleponova Brezovica Vysne Hrady 187/37 02801 Dar.,,Republika,PS
-11643,2023-08-24,"MONGER POINT, s. r. o.",-180.0,"plagaty, kalendariky",2023050,Republika,PS
-11641,2023-08-24,MESTSKÉ KULTÚRNE CENTRUM *19,62.6,sluzby v DS MskC Ziar nad Hronom,26,Republika,PS
-11640,2023-08-24,Martin Klepkoň,370.0,Martin Klepkon Brezovica Vysne Hrady 187/37 02801 Dar.,,Republika,PS
-11653,2023-08-23,"TRISTANPRESS, spol. s.r.o.",-241.2,"grafika, billboard, plagaty",2023346,Republika,PS
-11656,2023-08-23,"euroAWK, spol. s.r.o.",-900.0,kampan,2370129,Republika,PS
-11655,2023-08-23,Ing. Zdenko Čopák - RETURN,-810.6,"billboard, auto polep, letak",2023155,Republika,PS
-11654,2023-08-23,Marian Zec,85.0,"Ing. Marian Zec, E. F. Scherera 4802/22, Piestany. DAR",,Republika,PS
-11648,2023-08-23,MAREK GABRIS,241.2,"Marek Gabris, Rybany 557, 95636 Rybany - dar",,Republika,PS
-11652,2023-08-23,COGAN JAN,120.0,Jan Cogan Kukucinova 2042/3 Snina 06901 DAR,,Republika,PS
-11651,2023-08-23,Jozef Ferianc,500.0,"Jozef Ferianc, Poziarnicka 6, Banska Stiavnica - DAR",,Republika,PS
-11650,2023-08-23,Brunovský Daniel,60.0,"Daniel Brunovsky, Pri Sajbach 34, Bratislava - dar",,Republika,PS
-11649,2023-08-23,Miroslav Igaz MIRA photo&design,-49.0,"letaky, doplatok",952023,Republika,PS
-11669,2023-08-22,GRYF reklamné štúdio s.r.o.,-960.0,reklamne plochy,23088,Republika,PS
-11668,2023-08-22,Miroslav Igaz MIRA photo&design,-245.0,letaky,952023,Republika,PS
-11667,2023-08-22,GEMERBIZ s.r.o.,-100.0,reklamna plocha,23010008,Republika,PS
-11666,2023-08-22,ProfiEkoNet s.r.o.,-360.0,reklama,60230002,Republika,PS
-11665,2023-08-22,Ladislav Urda - URGAS,-80.0,billboard,2023017,Republika,PS
-11664,2023-08-22,Vydavateľstvo HELENA - Mgr. Alena Jaššová,-480.0,inzercia,23018,Republika,PS
-11662,2023-08-22,ARTON s.r.o.,-13560.0,billboardy,230455,Republika,PS
-11663,2023-08-22,Vydavateľstvo HELENA - Mgr. Alena Jaššová,-780.0,inzercia,23017,Republika,PS
-11660,2023-08-22,ARTON s.r.o.,-1368.0,plagaty,230327,Republika,PS
-11659,2023-08-22,Jozef Týnus,79.3,"Ing.Jozef Tynus, Tehelna 5045/4,98401 Lucenec dar.",,Republika,PS
-11658,2023-08-22,Marek Kurta,440.0,"Marek Kurta, Hlavna 73 Presov 08001 - DAR",,Republika,PS
-11657,2023-08-22,Miroslav Políček,480.0,"Miroslav Policek, Mlynska 419, 95131 Mocenok dar",,Republika,PS
-11661,2023-08-22,ARTON s.r.o.,-1641.6,plagaty,230456,Republika,PS
-11678,2023-08-21,Natalia Policekova,614.57,"Natalia Policekova, Mlynska 419, 951 31 Mocenok - dar",,Republika,PS
-11684,2023-08-21,JAN KUBICA,68.4,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",,Republika,PS
-11683,2023-08-21,"Adverti, s.r.o.",-614.57,/DO2023-08-21/SP banner,231940,Republika,PS
-11681,2023-08-21,"VUB,A.S.",-546.86,DDFACEBK~7SWRSRPDfb.me/ads~~~~~~P1,****8125,Republika,PS
-11680,2023-08-21,DuxxPrint s.r.o.,-68.4,Polokosele,20230128,Republika,PS
-11679,2023-08-21,Mestská časť Bratislava - Rača,-1190.0,stanok na akcii,20230726,Republika,PS
-11682,2023-08-21,ARTON s.r.o.,-8400.0,/DO2023-08-21/SP billboardy,230470,Republika,PS
-11677,2023-08-21,ProfiEkoNet s.r.o.,-360.0,reklama,60230001,Republika,PS
-11675,2023-08-21,Richard Kuba,-690.0,"bannery, plagaty, letaky, vizitky",2023025,Republika,PS
-11674,2023-08-21,Miroslav Maňuch agentúra MIMA,-432.0,banner,2023058,Republika,PS
-11670,2023-08-21,Marko Marián,300.0,"Marian Marko,956 34 Ostratice 197 - Dar",,Republika,PS
-11672,2023-08-21,Lucia Baricakova - LB reklama,-360.0,tricka,1020230277,Republika,PS
-11671,2023-08-21,"euroAWK, spol. s.r.o.",-240.0,kampan,2370128,Republika,PS
-11676,2023-08-21,Mouton s.r.o.,-4633.8,letaky,2023144,Republika,PS
-11685,2023-08-18,Kucháriková Marta,690.0,"Jan Kucharik, Nabrezie sv. Cyrila 380/45, Prievidza - dar",,Republika,PS
-11686,2023-08-18,Anton Hostak,1000.0,Anton Hostak Dedovec 1025/6 Povazska Bystrica 017 01 - dar,,Republika,PS
-11688,2023-08-18,Stefan Krnac,1000.0,Krnac Stefan Pod cintorinom 1769 Hrinova - dar,,Republika,PS
-11689,2023-08-18,"Print Centrum, s.r.o.",-198.0,letaky,20230095,Republika,PS
-11691,2023-08-17,Václav Mitošinka,990.0,Ena Mitosinkova Jablonka 247 906 21 DAR,,Republika,PS
-11690,2023-08-17,COGAN JAN,700.0,Jan Cogan Kukucinova 2042/3 Snina 06901 DAR,,Republika,PS
-11703,2023-08-16,Ovec Štós,-20.0,/DO2023-08-16/SP prenajom saly,2337,Republika,PS
-11712,2023-08-16,Mesto Kezmarok,-240.0,prenajom priestorov MsKS,52023022,Republika,PS
-11711,2023-08-16,Rác Peter,144.0,"Peter rac , vlcie hrdlo 81 Bratislava , DAR",,Republika,PS
-11710,2023-08-16,Juraj Tomadlik - JUTO,-577.8,"rekl.kampan, LED obrazovky",472023,Republika,PS
-11709,2023-08-16,ARTON s.r.o.,-192.0,reklamne plochy,230463,Republika,PS
-11707,2023-08-16,"terc.sk, s.r.o.",-120.0,plagaty,20230314,Republika,PS
-11706,2023-08-16,"LAJKA ADV, s.r.o.",-228.28,/DO2023-08-16/SP tricka,2023245771,Republika,PS
-11705,2023-08-16,Hospodarske zdruzenie Spisa,-80.0,reklama v Kezmarskych novinach,32023,Republika,PS
-11704,2023-08-16,ARTON s.r.o.,-40.8,plagaty,230464,Republika,PS
-11702,2023-08-16,Mestska umelecka agentura Partizanske,-258.0,prenajom spolocenskej saly,20230064,Republika,PS
-11692,2023-08-16,MKC Ziar nad Hronom,-62.6,sluzby v DS MskC Ziar nad Hronom,26,Republika,PS
-11701,2023-08-16,Kamila Staskova,1000.0,"Ing. Kamila Staskova, Zupcany c.199, okres Presov- DAR",,Republika,PS
-11700,2023-08-16,MsKS Zlate Moravce,-100.0,prenajom priestorov MsKS,1514300033,Republika,PS
-11699,2023-08-16,Martin Klepkoň,495.0,Martin Klepkon ml Brezovica Vysne Hrady 187/37. 02801 dar,,Republika,PS
-11698,2023-08-16,Emanuel Omámik,232.8,"Lucia Omamikova, Doliny 1891/2, Turany 03853, DAR",,Republika,PS
-11697,2023-08-16,TOTH RADOVAN,960.0,"Radovan Toth, P.Pazmana 50/13 Sala - ide o dar",,Republika,PS
-11696,2023-08-16,Martin Valovic,50.0,Martin Valovic Druzby 683/7 Nedozery-Brezany 97212 DAR,,Republika,PS
-11695,2023-08-16,Martin Klepkoň,85.0,Daniela Klepkonova Brezovica Vysne Hrady 187/37 02801 DAR,,Republika,PS
-11694,2023-08-16,"OLYRA, s.r.o",-144.0,prenajom reklamnej plochy 7-9/2023,23078001,Republika,PS
-11693,2023-08-16,"OLYRA, s.r.o",-144.0,prenajom reklamnej plochy 7-9/2023,23078004,Republika,PS
-11713,2023-08-15,AKRA reklama s.r.o.,-446.4,"plagaty, letaky, tricka, grafika",110230147,Republika,PS
-11714,2023-08-15,HB DEVELOPERS s.r.o.,-360.0,reklamne plochy,2023001,Republika,PS
-11715,2023-08-15,ML Invest s.r.o.,-588.0,reklamne plochy,2023010,Republika,PS
-11716,2023-08-15,Miestny Úrad Rača Bratislava,-200.0,"REPUBLIKA, rezervacny poplatok za stanok",1509242,Republika,PS
-11717,2023-08-15,Jozef Remenár s. r. o.,120.0,"Jozef Remenar, Bucany 720, Trnava - dar",,Republika,PS
-11722,2023-08-14,Jarmila Červeňanová,200.0,JARMILA CERVENANOVA TEHELNA 4 GELNICA - DAR,14082023,Republika,PS
-11721,2023-08-14,Lucia Baricakova - LB reklama,-422.0,"vizitky, tricka",1020230268,Republika,PS
-11720,2023-08-14,SKLENKA MARTIN,150.0,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",,Republika,PS
-11718,2023-08-14,"Norpal Print, s.r.o.",-72.0,vizitky,20230134,Republika,PS
-11719,2023-08-14,Delphia Tatry s.r.o.,-7490.0,"grafika, letaky, tricka, billboardy, reklamne plochy",23020006,Republika,PS
-11730,2023-08-11,MultiMedia s.r.o.,-336.0,prenajom CLV,230800019,Republika,PS
-11735,2023-08-11,"euroAWK, spol. s.r.o.",-5438.4,billboardy,2370094,Republika,PS
-11734,2023-08-11,"EUNICA Megaboards, s.r.o.",-24288.0,reklamny priestor,202306,Republika,PS
-11733,2023-08-11,"EUNICA Megaboards, s.r.o.",-720.0,reklamny priestor,202307,Republika,PS
-11732,2023-08-11,"EUNICA Megaboards, s.r.o.",-2941.2,reklamny priestor,202305,Republika,PS
-11731,2023-08-11,"CONFIDENCE MEDIA SR, s.r.o.",-24.0,prenajom a produkcia,2321165,Republika,PS
-11728,2023-08-11,"euroAWK, spol. s.r.o.",-192.0,zaloha za kampan,2370104,Republika,PS
-11729,2023-08-11,"CONFIDENCE MEDIA SR, s.r.o.",-63.6,prenajom a produkcia,2321164,Republika,PS
-11727,2023-08-11,PUKAN PETER,1500.0,"Peter Pukan, Celadice 399, 95103 -dar",,Republika,PS
-11726,2023-08-11,Ján Sabol,27949.2,"JAN SABOL ,Hlavna 251/10, Rovinka. 24.6.72. DAR",9,Republika,PS
-11725,2023-08-11,Budinský Vincent,200.0,Vincent Budinsky Petra Jilemnickeho 665/97 Cierny Balog 97652 Dar,,Republika,PS
-11724,2023-08-11,Kanovits Group s.r.o.,-291.6,folia,23007105,Republika,PS
-11723,2023-08-11,"CONFIDENCE MEDIA SR, s.r.o.",-411.6,prenajom a produkcia,2321167,Republika,PS
-11747,2023-08-10,FK Slovan Ivanka pri Dunaji,-80.0,reklamna plocha,23018,Republika,PS
-11742,2023-08-10,Jozef Ferianc,500.0,"Jozef Ferianc, Poziarnicka 6, Banska Stiavnica - DAR",,Republika,PS
-11748,2023-08-10,Dataprint sk s.r.o.,-1289.4,"brozura, letaky",20230073,Republika,PS
-11746,2023-08-10,Jarmila Červeňanová,80.0,JARMILA CERVENANOVA TEHELNA 4 GELNICA - DAR,10082023,Republika,PS
-11744,2023-08-10,"terc.sk, s.r.o.",-62.4,plagaty,20230304,Republika,PS
-11741,2023-08-10,Dagmar Hostakova,1000.0,"Dagmar Hostakova, Dedovec 1025/6, Pov.Bystrica 01701 -dar",,Republika,PS
-11740,2023-08-10,KOCIS EDUARD,500.0,"Eduard Kocis, Akad. Pavlova 316/8, Stropkov - dar",,Republika,PS
-11739,2023-08-10,GRYF reklamné štúdio s.r.o.,-2160.0,reklamne plochy,20232775,Republika,PS
-11738,2023-08-10,MAREK KUKUCKA,62.4,"MAREK KUKUCKA, ZELENECSKA ULICA 2691/20, 917 02 TRNAVA, T.P. - DAR",,Republika,PS
-11737,2023-08-10,VERONIKA TEMNAKOVA,336.0,"Veronika Temnakova, Nemocnicna 55, Galanta- DAR",,Republika,PS
-11756,2023-08-09,"Guldan-Studio, s.r.o.",-202.8,Prenajom rekl. plochy,23017,Republika,PS
-11761,2023-08-09,Guldan-Studio s.r.o.,-1620.0,Prenajom rekl. priestoru na LED obrazovke,23014,Republika,PS
-11760,2023-08-09,ARTON s.r.o.,-60.0,grafika,230448,Republika,PS
-11759,2023-08-09,Martin Banik,60.0,"Martin Banik, Stara Bystrica 161, Stara Bystrica - dar",,Republika,PS
-11758,2023-08-09,Jarmila Červeňanová,203.0,JARMILA CERVENANOVA TEHELNA 4 GELNICA - DAR,9082023,Republika,PS
-11757,2023-08-09,Stefan Kovacik,72.0,"Stefan Kovacik, c.268, 013 22 Rosina - DAR",,Republika,PS
-11755,2023-08-09,GRAPHIC s.r.o.,-456.95,"grafika, plagaty, bannery",20230174,Republika,PS
-11754,2023-08-09,Vamstav spol. s.r.o.,-100.0,reklamna plocha,10230162,Republika,PS
-11753,2023-08-09,Katarína Köbölová - KEart plus,-150.0,plagaty,2023029,Republika,PS
-11752,2023-08-09,Miroslav Červeňan,1000.0,MIROSLAV CERVENAN GELNICA TEHELNA 4 - DAR,9082023,Republika,PS
-11751,2023-08-09,Jozef Sprlak,100.0,Jozef Sprlak Sucha Hora 37 dar,,Republika,PS
-11750,2023-08-09,František Polyák,622.0,"Frantisek Polyak, Hylov 20 Kosice okolie 04412-DAR",,Republika,PS
-11762,2023-08-08,František Polyák,242.0,"Frantisek Polyak, Hylov 20 Kosice okolie 04412-DAR",,Republika,PS
-11763,2023-08-08,LAUKOVA LEA,408.0,"Lea Laukova, Svaty Anton 420, Dar",,Republika,PS
-11764,2023-08-08,"CASH+, s.r.o.",-2904.0,bannery,10230802,Republika,PS
-11765,2023-08-08,"Blue Mark production, s.r.o.",-72.0,"bannery, plagaty",2023035,Republika,PS
-11766,2023-08-08,"Guldan-Studio, s.r.o.",-241.2,Prenajom rekl. plochy,23016,Republika,PS
-11770,2023-08-07,"Kopecký Pavol, Ing.",990.0,"Pavol Kopecky, Huncovska 26, Kezmarok - dar",,Republika,PS
-11771,2023-08-07,Jaromír Šmátrala,11000.0,"Jaromir Smatrala, Bajkalska 29D, 821 01 Bratislava. Dar",,Republika,PS
-11767,2023-08-07,"K&S/advertising, s.r.o.",-408.0,"/DO2023-08-07/SP billboardy, plagaty",402023,Republika,PS
-11769,2023-08-07,"Janco Andrej, MUDr.",2904.0,"Andrej Janco, Amurska 7,Kosice,dar",,Republika,PS
-11768,2023-08-07,"VUB,A.S.",-900.0,DDFACEBK~9Q3RMRFEfb.me/ads~~~~~~P1,****8125,Republika,PS
-11772,2023-08-04,Lucia Vicianová,118.2,"Mgr. Peter Vician, S. Hruskovica 3194/9, Krupina, nar. 4.7.1973 DAR",,Republika,PS
-11773,2023-08-04,KNOWMEDIA s.r.o.,-38520.79,medialny priestor bilboardy 05/2023,62300592,Republika,PS
-11774,2023-08-04,Guldan-Srudio s.r.o.,-444.0,Prenajom rekl. plochy,23015,Republika,PS
-11775,2023-08-04,"K&S/advertising, s.r.o.",-134.4,plagaty,372023,Republika,PS
-11776,2023-08-04,"ETOP ADVERTIDING, s.r.o.",-1008.0,billboardy,12023364,Republika,PS
-11777,2023-08-04,Tomáš Špaček,100.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
-11778,2023-08-04,Fomenko Kuľa Ivan,444.0,"Ivan Fomenko Kula , Romanova 35 , 8t102 Bratislava - Dar",,Republika,PS
-11781,2023-08-03,Mesto Žiar nad Hronom,-202.1,najomne za divadelnu salu,1750075632,Republika,PS
-11782,2023-08-03,Ľubomír Kuzma,-118.5,"prenajom priestorov, obcerstvenie",20230234,Republika,PS
-11779,2023-08-03,Roman Hubert,800.0,"Roman Hubert, Lukovistia 226, (Dar)",740514,Republika,PS
-11780,2023-08-03,KELLER JOZEF,500.0,"J. Keller,Levoca,Czauczika 4 - dar",20823,Republika,PS
-11790,2023-08-02,"K&S/advertising, s.r.o.",-758.4,billboardy,372023,Republika,PS
-11795,2023-08-02,Vranovčania pre šport a kultúru,-400.0,prenajom reklamnej plochy,32023,Republika,PS
-11794,2023-08-02,"euroAWK, spol. s.r.o.",-30576.0,kampan,2370098,Republika,PS
-11793,2023-08-02,Maros Klika,500.0,"Maros Klika, Vranovska 1435/7, Stropkov, Dar.",,Republika,PS
-11792,2023-08-02,Guldan-Studio s.r.o.,-482.4,Prenajom rekl. plochy,23013,Republika,PS
-11791,2023-08-02,"Miroslav Jiránek - BEPA, reklamná agentúra",-54.0,polep,2023415,Republika,PS
-11783,2023-08-02,Tomáš Špaček,300.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
-11789,2023-08-02,"MARIGMA SK, s.r.o.",-10495.87,billboardova kampan,2023001,Republika,PS
-11787,2023-08-02,Milan Mazurek,40000.0,"Milan Mazurek, Kupelna 1303/70, 05901 Spisska Bela, pozicka",,Republika,PS
-11786,2023-08-02,Tomáš Špaček,400.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
-11785,2023-08-02,Ivana Slivkova,1500.0,"JUDr. Ivana Slivkova, Figusa Bystreho 26, 974 01 Banska Bystrica; DAR",,Republika,PS
-11784,2023-08-02,Fomenko Kuľa Ivan,483.0,"Ivan Fomenko Kula , Romanova 35 , 8t102 Bratislava - Dar",,Republika,PS
-11788,2023-08-02,ARTON s.r.o.,-96.0,billboard,230441,Republika,PS
-11805,2023-08-01,Tomáš Špaček,200.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
-11813,2023-08-01,"BigMedia, spol. s.r.o.",-342.0,billboardy,122390147,Republika,PS
-11812,2023-08-01,Kulašik Sylvia,500.0,"54 Sylvia Kulasik , Antona Bernolaka 1410/27, 0340 Ruzomberok, DAR.",,Republika,PS
-11811,2023-08-01,Stefan Hornak,10.0,"Hornak Stefan, Samuela Tesedika 5,Michalovce -dar",,Republika,PS
-11810,2023-08-01,"BROART, s.r.o.",-84.0,banner,20230138,Republika,PS
-11808,2023-08-01,"NUBIUM, s.r.o.",-7128.0,reklamne plochy,23085182,Republika,PS
-11806,2023-08-01,Ing. Pavol Anderko - ANKO,-1224.0,billboardy,230279,Republika,PS
-11807,2023-08-01,Ing. Pavol Anderko - ANKO,-84.0,billboard,230263,Republika,PS
-11804,2023-08-01,MORAVCIK IGOR,642.0,"Igor Moravcik, Radnicne nam. 5308/5D, 821 05 Bratislava - dar",,Republika,PS
-11802,2023-08-01,DULEBOVA MARTINA,500.0,"Branislav Duleba, K. Porubka 27, Svidnik - dar",,Republika,PS
-11801,2023-08-01,KECSKES JAN,7500.0,"Jan Kecskes, Novozamocka 85/156, Nitra - dar",,Republika,PS
-11800,2023-08-01,ALICA MIKITOVICOVA,500.0,"Alica Mikitovicova, Nad Laborcom 6, Michalovce-dar",,Republika,PS
-11798,2023-08-01,Darina Nakatová,500.0,"Darina Nakatova, Licartovce c 240, 08203 - DAR",,Republika,PS
-11797,2023-08-01,Milan Mazurek,500.0,"Milan Mazurek, Kupelna 1303/70, Spisska Bela, dar",,Republika,PS
-11796,2023-08-01,CHOVANAK LUKAS,500.0,"Lukas Chovanak, Hviezdoslavova 31, Sp. Bela - dar",,Republika,PS
-11803,2023-08-01,KOCIS EDUARD,500.0,"Eduard Kocis, Akad. Pavlova 316/8, Stropkov - dar",,Republika,PS
-11830,2023-07-31,,-7.0,Vedenie účtu,9,Republika,PS
-11828,2023-07-31,iPlatforma s.r.o.,-900.0,billboardy,2300039,Republika,PS
-11826,2023-07-31,Viera Rudľovská,500.0,"Ondrej Rudlovsky, Hatalov 90 - dar",160283,Republika,PS
-11829,2023-07-31,,-46.5,Poplatky za platby spolu,9,Republika,PS
-11834,2023-07-31,ARTON s.r.o.,-684.0,plagaty,230437,Republika,PS
-11831,2023-07-31,ALFA Reklama s.r.o.,-2106.0,billboardy,20231774,Republika,PS
-11832,2023-07-31,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
-11833,2023-07-31,ARTON s.r.o.,-3600.0,billboard,230436,Republika,PS
-11837,2023-07-31,Mesto Nová Baňa,-20.0,vyhlasenie v rozhlase,1310300130,Republika,PS
-11827,2023-07-31,Obec Brehy,-4.0,Oznam v rozhlase,142023,Republika,PS
-11821,2023-07-31,Terézia Kudla,1000.0,"od JUDr. Terezia Kudla, Hradska20, 821 07 Bratislava, dar",1,Republika,PS
-11824,2023-07-31,"Kočišová Jana, Mgr. PhDr.",500.0,"Jana Kocisova, Hviezdoslavova 163/50, Vranov n.T. - dar",,Republika,PS
-11817,2023-07-31,Jozef Týnus,150.0,"Ing. Jozef Tynus, Tehelna 5045/4, 984 01 Lucenec dar",,Republika,PS
-11814,2023-07-31,Ivona Kellnerová,500.0,"Ivona Kellnerova, Trieda 1 maja 11, Spisska Nova Ves , DAR",,Republika,PS
-11815,2023-07-31,Bc.Miroslav Magdech,2106.0,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, DAR",20231774,Republika,PS
-11816,2023-07-31,Jakub Hajduk,500.0,"Jakub Hajduk, Mlynarovce 105 - dar",,Republika,PS
-11823,2023-07-31,Tomáš Senko,500.0,Dar,,Republika,PS
-11818,2023-07-31,Alexandra Jašurková,500.0,"Ing. Alexandra Jasurkova, Bernolakova 17, 065 03 Podolinec, DAR",,Republika,PS
-11820,2023-07-31,Miroslav Urban,500.0,"Dar, Miroslav Urban, Stiavnicka 331, 03401, Zilinsky kraj",,Republika,PS
-11819,2023-07-31,Peter Adamec,-30.0,Rezijny poplatok,20230038,Republika,PS
-11848,2023-07-28,Stanislav Záhumenský,1000.0,"Ing.Ing.Mgr.Stanislav Zahumensky, Velke Lovce 505, 94142 - dar",,Republika,PS
-11857,2023-07-28,Obec Štós,-20.0,prenajom saly,2331,Republika,PS
-11856,2023-07-28,"Miroslav Jiránek - BEPA, reklamná agentúra",-54.0,prelep infografiky,2023385,Republika,PS
-11854,2023-07-28,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078001,Republika,PS
-11853,2023-07-28,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078006,Republika,PS
-11852,2023-07-28,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078007,Republika,PS
-11851,2023-07-28,Erika Švecová,1000.0,"Erika Svecova , Narcisova 12 , Bratislava82101 , dar p",,Republika,PS
-11850,2023-07-28,JURAJ KOREC,1000.0,"JURAJ KOREC, ESTONSKA 42, BRATISLAVA 821 06 - DAR",,Republika,PS
-11849,2023-07-28,Vladimíra Mikušiaková,-330.0,Vratenie daru,,Republika,PS
-11855,2023-07-28,Dataprint sk s.r.o.,-4424.02,"billboardy, bannery, plagaty",20230068,Republika,PS
-11847,2023-07-28,MIKUSIAKOVA VLADIMIR,330.0,"Vladimira Mikusiakova, Dopravna 6, BA - DAR",8258,Republika,PS
-11845,2023-07-28,GRYF reklamné štúdio s.r.o.,-4956.0,reklamne plochy,23078,Republika,PS
-11844,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078017,Republika,PS
-11843,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078018,Republika,PS
-11842,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078016,Republika,PS
-11841,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078020,Republika,PS
-11840,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078021,Republika,PS
-11839,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078019,Republika,PS
-11846,2023-07-28,UHRIKOVA ZUZANA,30000.0,"Zuzana Uhrikova, Hornocermanska 81, Nitra - Pozicka",,Republika,PS
-11882,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078003,Republika,PS
-11876,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078002,Republika,PS
-11877,2023-07-27,"NUBIUM, s.r.o.",-5676.0,reklamne panely jul 2023,23074411,Republika,PS
-11878,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078002,Republika,PS
-11879,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078003,Republika,PS
-11880,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078004,Republika,PS
-11881,2023-07-27,"Amirp, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078002,Republika,PS
-11886,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078006,Republika,PS
-11883,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078005,Republika,PS
-11884,2023-07-27,Martin Klepkoň,500.0,Martin Klepkon Brezovica Vysne Hrady 187/37 02801 Dar,,Republika,PS
-11885,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078005,Republika,PS
-11887,2023-07-27,FURDÍK FILIP,1000.0,"Filip Furdik, Hlbinna 5, Bratislava 821 06 - dar",,Republika,PS
-11888,2023-07-27,Simona Perrin Miklášová,1000.0,"Simona Perrin Miklasova, Komarovska 10, Bratislava 82106 - dar",,Republika,PS
-11889,2023-07-27,Guldan-Studio s.r.o.,-1370.4,Prenajom rekl. plochy,23011,Republika,PS
-11874,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078004,Republika,PS
-11875,2023-07-27,Lucia Baricakova - LB reklama,-186.0,"Reklamny baner, letaky",1020230245,Republika,PS
-11869,2023-07-27,"Imagewell, s.r.o.",-720.0,tlac a vyves baneru,460230040,Republika,PS
-11873,2023-07-27,Tekauer Štefan,1000.0,"Stefan Tekauer, Hlbinna 7/B, 82106 Bratialava - dar",,Republika,PS
-11864,2023-07-27,"Zathurecká Petra, Mgr.",1000.0,"Petra Zathurecka, Horska 11/A, 83152 Bratislava - Dar",,Republika,PS
-11872,2023-07-27,Jarmila Červeňanová,350.0,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,27072023,Republika,PS
-11859,2023-07-27,"Imagewell, s.r.o.",-5028.0,billboardy,460230036,Republika,PS
-11860,2023-07-27,Maslak Denis,230.0,"Denis Maslak,Cadca-Hurbanova 2306,jedna sa o DAR",,Republika,PS
-11861,2023-07-27,"Imagewell, s.r.o.",-3786.0,baner,460230037,Republika,PS
-11862,2023-07-27,SIMOVA JANA,500.0,"Jana Simova, Nizna Revuca 71, Liptovske Revuce DAR",,Republika,PS
-11863,2023-07-27,MIKUSIAKOVA VLADIMIR,672.0,"Vladimira Mikusiakova, Dopravna 6, Bratislava DAR",8258,Republika,PS
-11858,2023-07-27,Reinhardt Alexandra,1000.0,"Reinhardt Alexandra, Magurska 5, Poprad 05801 - dar",,Republika,PS
-11865,2023-07-27,GRYF reklamné štúdio s.r.o.,-4455.0,bigboardy,20232551,Republika,PS
-11870,2023-07-27,Confidence media SR. s.r.o.,-685.2,billboardy,2321152,Republika,PS
-11871,2023-07-27,GRYF reklamné štúdio s.r.o.,-6840.0,prenajom rekl. ploch,20232550,Republika,PS
-11866,2023-07-27,ARTON s.r.o.,-24.0,plagaty,230336,Republika,PS
-11868,2023-07-27,"Imagewell, s.r.o.",-1068.0,kampan,460230039,Republika,PS
-11867,2023-07-27,"BigMedia, spol. s.r.o.",-342.0,reklamne sluzby,122390125,Republika,PS
-11890,2023-07-26,"K&S/advertising, s.r.o.",-758.4,prenajom billboardovych ploch,352023,Republika,PS
-11891,2023-07-26,Jozef Sprlak,480.0,Jozef Sprlak Sucha Hora 37 dar,,Republika,PS
-11892,2023-07-26,"Hilka Majková Lucia, PhDr.",1000.0,fin dar republika,,Republika,PS
-11897,2023-07-26,Viera MORAVČÍKOVÁ,11629.2,VIERA MORAVČÍKOVA RADNIČNÉ NAM 53C8 5ID BRATISLAVA 82105-DAR,,Republika,PS
-11898,2023-07-26,"BigMedia, spol. s.r.o.",-325.2,Reklamne sluzby,122390138,Republika,PS
-11899,2023-07-26,"ISPA, spol. s.r.o.",-672.0,poskytnutie reklamneho priestoru,23950202,Republika,PS
-11900,2023-07-26,Anton Toma TOMA s.r.o.,-480.0,napolitanky s logom,230363,Republika,PS
-11901,2023-07-26,Jarmila Červeňanová,140.0,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,26072023,Republika,PS
-11903,2023-07-26,K&S/advertising s.r.o.,-1896.0,prenajom billboardovych ploch,342023,Republika,PS
-11896,2023-07-26,GRYF reklamné štúdio s.r.o.,-1218.0,prenajom a realizacia reklamnych ploch,23057,Republika,PS
-11908,2023-07-25,Martin Banik,938.0,"Martin Banik, Stara Bystrica 161, Stara Bystrica - dar",,Republika,PS
-11911,2023-07-25,Igor Macuch,1000.0,"JUDr. Igor Macuch, Trnkova 13, 85110 Bratislava - dar",,Republika,PS
-11910,2023-07-25,"Furdíková Miriam, Mgr.",1000.0,"Mgr.Miriam Furdikova,Hlbinna 5,Bratislava 821 06 - dar",,Republika,PS
-11906,2023-07-25,Sona Zyglinska,500.0,"Sona Zyglinska, Slnecna 162/11, 029 01 Namestovo- dar",,Republika,PS
-11907,2023-07-25,"Mrázek Pavol, Ing. arch.",1000.0,Pavol Mrazek Astrova 2/A 82101 Bratislava DAR,,Republika,PS
-11904,2023-07-25,Juraj Trebuľa,2000.0,"Juraj Trebula , snp 457/88 ,Budca DAR",,Republika,PS
-11905,2023-07-25,Bc.Miroslav Magdech,1218.0,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, dar",,Republika,PS
-11912,2023-07-24,ARTON s.r.o.,-72.0,tlac plagatov,230405,Republika,PS
-11913,2023-07-24,ARTON s.r.o.,-360.0,prenajom reklamnych ploch,230404,Republika,PS
-11916,2023-07-24,Dusan Kisfalusi,624.0,"Dusan Kisfalusi, M.R.Stefanika 2600/3, Zvolen - DAR",,Republika,PS
-11920,2023-07-24,GRYF reklamné štúdio s.r.o.,-192.0,reklamne plochy,23064,Republika,PS
-11921,2023-07-21,Vlastimír Javorka,200.0,"Vlastimír Javorka, L. Svobodu 1, Banská Štiavnica; dar",,Republika,PS
-11922,2023-07-21,Mária Kopáčová,30000.0,"Lukas Kopac, Dolne Trhoviste 246, 92061, pozicka",,Republika,PS
-11923,2023-07-20,Platba kartou,-868.82,FACEBK P46VMQ3E fb.me/ads,****8125,Republika,PS
-11924,2023-07-20,Milan Uhrík,100000.0,"MILAN UHRÍK, HORNOČERMÁNSKA 81, NITRA - PÔŽIČKA",,Republika,PS
-11925,2023-07-20,Vladimir Javorka,-200.0,Vratenie daru,,Republika,PS
-11926,2023-07-20,Obec Uhrovec,-3.0,Oznamenie v rozhlase,202316,Republika,PS
-11927,2023-07-20,Obec Podlužany,-2.0,Vyhlasenie v rozhlase,72023,Republika,PS
-11928,2023-07-19,Vlastimir Javorka,200.0,"Darca, Vlastimir Javorka",,Republika,PS
-11935,2023-07-18,Peter Siran KAM-STAV,-800.0,"najom, hudba, gilas, zabavne atrakcie",2023055,Republika,PS
-11934,2023-07-18,FaxCopy a.s.,-48.88,Graficke prace a tlac,2337266,Republika,PS
-11933,2023-07-18,ARTON s.r.o.,-414.0,Najom billboardu,230335,Republika,PS
-11932,2023-07-18,"RADOLSKY REKLAMA, s.r.o.",-468.0,Bilboardvyroba a vylep,20230366,Republika,PS
-11930,2023-07-18,"euroAWK, spol. s r.o.",-11856.0,billboardy 8/2023,2370063,Republika,PS
-11929,2023-07-18,ARTON s.r.o.,-2760.0,billboardy 8/2023,230390,Republika,PS
-11931,2023-07-18,"NUBIUM, s.r.o.",-60.0,tlac plagatov 07/2023,23074794,Republika,PS
-11941,2023-07-14,Mestske kulturne stredisko Levice,-60.0,prenajom saly CK Junior,202310202,Republika,PS
-11944,2023-07-14,Jaroslav Vajda,-300.0,prenajom priestorov Poprad,2023029,Republika,PS
-11943,2023-07-14,W-Mont s.r.o.,-3099.0,montaz banerov,2023011,Republika,PS
-11942,2023-07-14,ARTON s.r.o.,-331.2,tlac plagatov,230391,Republika,PS
-11940,2023-07-14,RCS reklama s.r.o.,-979.2,balony s potlacou,1020230407,Republika,PS
-11939,2023-07-14,"Janco Andrej, MUDr.",13000.0,"Andrej Janco, Amurska 7,Kosice,dar",,Republika,PS
-11938,2023-07-14,33D s.r.o.,-1200.0,tvorba a uprava online obsahu,2322000098,Republika,PS
-11936,2023-07-14,"Imagewell, s.r.o.",-5568.0,kampan,460230034,Republika,PS
-11945,2023-07-13,Oleksandra Markova,5000.0,"DAR- PhDr Jan Marko Ipelska 5,Bratislava",,Republika,PS
-11946,2023-07-13,Mesto Banovce nad Bebravou,-10.5,vyhlasovanie oznamu v rozhlase,2023090,Republika,PS
-11947,2023-07-13,Mesto Zarnovica,-291.0,prenajom KD,9018300049,Republika,PS
-11950,2023-07-11,SADIBOL LUBOSLAV,690.0,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",,Republika,PS
-11951,2023-07-10,CHYLIK RIBONOVA MARI,800.0,"Mariana Chylik Ribonova, Zavodie 83, 023 54 Turzovka - dar",,Republika,PS
-11953,2023-07-07,Kulturne a informacne centrum mesta Kremnica,-52.5,prenajom MsKS velka sala,142023,Republika,PS
-11952,2023-07-07,Dusan Kovac,-180.0,prenajom priestorov Dudince,202309,Republika,PS
-11955,2023-07-06,PZL,-450.0,gravirovanie laserom USB,2023054,Republika,PS
-11956,2023-07-06,iPlatforma sro,-900.0,"bigboard, billboardy 07/2023",2300035,Republika,PS
-11957,2023-07-04,HandPlay sro,-13000.0,bilbordova kampan 07/2023,102023003,Republika,PS
-11958,2023-07-04,Dataprint sk s.r.o.,-3788.35,tlac bannerov,20230056,Republika,PS
-11960,2023-07-03,SADIBOL LUBOSLAV,300.0,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",,Republika,PS
-11961,2023-06-30,,-7.44,Poplatky za platby spolu,9,Republika,PS
-11962,2023-06-30,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
-11963,2023-06-30,,-7.0,Vedenie účtu,9,Republika,PS
-11966,2023-06-21,"Mestske sluzby Topolcany, sro",-32.9,prenajom KD Velke Bedzany,23091,Republika,PS
-11967,2023-06-21,Mesto Žarnovica,-11.0,hlasenie v rozhlase,9019300048,Republika,PS
-11968,2023-06-21,"Mestske sluzby Topolcany, sro",-126.9,prenajom Domu kultury Topolcany,23090,Republika,PS
-11969,2023-06-20,Platba kartou,-227.11,FACEBK SZNJ7RXD fb.me/ads,****8125,Republika,PS
-11970,2023-06-19,Obec Slepcany,-9.0,prenajom KD,20230021,Republika,PS
-11971,2023-06-19,Mesto Turcianske Teplice,-57.0,prenajom kinosaly,5019300042,Republika,PS
-11972,2023-06-19,"Mestske kulturne stredisko, NM",-39.0,prenajom miestnosti MsKS Nove Mesto nad Vahom,2023072,Republika,PS
-11974,2023-06-19,Mesto Partizánske,-12.0,hlasenie v rozhlase,2023144,Republika,PS
-11976,2023-06-15,ARTON s.r.o.,-11400.0,prenajom reklamnych ploch 7/2023,230326,Republika,PS
-11975,2023-06-15,"euroAWK, spol. s.r.o.",-15756.0,reklamne plochy 7/2023,2370058,Republika,PS
-11978,2023-06-14,"PZL, sro",-660.0,pera znacenie laserom,2023049,Republika,PS
-11979,2023-06-12,"AREC 16, s. r. o.",5000.0,"DAR - AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika,PS
-11980,2023-06-12,iPlatforma sro,-900.0,"bigboard, billboardy 06/2023",2300028,Republika,PS
-11981,2023-06-12,Ing. Pavol Anderko - ANKO,-84.0,prenajom billboardu 06/2023,230202,Republika,PS
-11982,2023-06-12,"Frick, sro",-63.0,prenajom priestorov,2023198,Republika,PS
-11983,2023-06-12,Mesto Banovce nad Bebravou,-99.0,prenajom priestorov KD,2023076,Republika,PS
-11986,2023-06-09,33D s.r.o.,-1200.0,Online reklama,2322000084,Republika,PS
-11988,2023-06-08,Matej Garaj,3500.0,"Matej Garaj, Stvrt Ladislava Novomeskeho 1235/24, 97701 Brezno, DAR",,Republika,PS
-11987,2023-06-08,Guldan-Studio s.r.o.,-3261.6,Prenajom rekl. plochy,23008,Republika,PS
-11989,2023-06-07,Martin Garaj,-3500.0,Vratenie platby,,Republika,PS
-11990,2023-06-05,Matej Garaj,3500.0,,,Republika,PS
-11991,2023-06-02,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet,,Republika,PS
-11992,2023-06-01,,-14.0,Ročný popl. Vydanie/obnova karty,8125,Republika,PS
-11993,2023-05-31,,-0.18,Poplatky za platby spolu,9,Republika,PS
-11994,2023-05-31,,-7.0,Vedenie účtu,9,Republika,PS
-11995,2023-05-29,ANTAL VLADIMIR,1000.0,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",,Republika,PS
+11273,2023-11-30,,-0.44,Poplatky za platby spolu,9,Republika,PS
+11274,2023-11-30,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
+11275,2023-11-30,,-7.0,Vedenie účtu,9,Republika,PS
+11276,2023-11-30,"KNOWMEDIA, sro",-46380.95,OOH kampan bilbordy 09/2023,62301127,Republika,PS
+11277,2023-11-29,,-10.0,P-Blokácia na žiadosť klienta,,Republika,PS
+11278,2023-11-29,REPUBLIKA,41300.0,prevod prostriedkov za ucelom uhrady doslych faktur,,Republika,PS
+11279,2023-10-31,,-3.96,Poplatky za platby spolu,9,Republika,PS
+11280,2023-10-31,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
+11281,2023-10-31,,-7.0,Vedenie účtu,9,Republika,PS
+11282,2023-10-24,"ETOP ADVERTISING, sro",-1008.0,bilbordy,12023319,Republika,PS
+11283,2023-10-19,KNOWMEDIA sro,-46965.96,medialny priestor billboardy 08/2023,62300944,Republika,PS
+11284,2023-10-17,"Slovenská pošta, a.s.",-77135.81,zmluvny podaj letakov september 2023,9001636037,Republika,PS
+11285,2023-10-17,,-10.0,P-Blokácia na žiadosť klienta,,Republika,PS
+11286,2023-10-17,REPUBLIKA,90000.0,prevod prostriedkov za ucelom uhrady doslych faktur,,Republika,PS
+11293,2023-10-11,Mestske kulturne centrum Spisska Nova Ves,-230.0,prenajom priestorov,1115300128,Republika,PS
+11297,2023-10-11,"Miroslav Jiranek - BEPA, reklamna agentura",-336.0,"samolepky, grafika",2023509,Republika,PS
+11296,2023-10-11,"SITA Slovenska tlacova agentura, as",-3600.0,zverejnenie PR spravy,312301268,Republika,PS
+11295,2023-10-11,"RCS reklama, sro",-1819.2,tlac letakov A5,1020230632,Republika,PS
+11294,2023-10-11,"FPD Media, as",-636.0,zverejnenie reklamnych formatov,832300588,Republika,PS
+11291,2023-10-11,Hospodarske zdruzenie Spisa - HZS,-48.0,reklama v novinach,112023,Republika,PS
+11292,2023-10-11,Centrum volneho casu Stara Lubovna,-180.0,prenajom priestorov,202318,Republika,PS
+11290,2023-10-11,Mestske kulturne stredisko Banovce nad Bebravou,-36.0,vylepna sluzba,21330169,Republika,PS
+11289,2023-10-11,Mesto Tisovec,-150.0,"prenajom priestorov, reklama",230041,Republika,PS
+11288,2023-10-11,Mesto Podolinec,-65.0,prenajom priestorov,202300044,Republika,PS
+11287,2023-10-11,Obec Poproc,-200.0,prenajom priestorov,1111300106,Republika,PS
+11298,2023-10-06,Mesto Žilina,-120.0,Dan za uzivanie verejneho priestranstva,1510066592,Republika,PS
+11299,2023-10-03,"LL real invest, s.r.o.",-270.0,prenajom priestorov,20230406,Republika,PS
+11300,2023-10-02,Platba kartou,-960.0,FACEBK FBH47TFD fb.me/ads,****8125,Republika,PS
+11301,2023-09-29,,-83.82,Poplatky za platby spolu,9,Republika,PS
+11302,2023-09-29,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
+11303,2023-09-29,,-7.0,Vedenie účtu,9,Republika,PS
+11304,2023-09-29,Platba kartou,-960.0,FACEBK DXVRAUXD fb.me/ads,****8125,Republika,PS
+11305,2023-09-29,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11306,2023-09-29,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11310,2023-09-28,Platba kartou,-960.0,FACEBK JYQY2TPD fb.me/ads,****8125,Republika,PS
+11311,2023-09-28,Platba kartou,-960.0,FACEBK BVJT9UXD fb.me/ads,****8125,Republika,PS
+11308,2023-09-28,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11309,2023-09-28,Platba kartou,-960.0,FACEBK 6KB4YSTD fb.me/ads,****8125,Republika,PS
+11307,2023-09-28,Platba kartou,-960.0,FACEBK S6UXATKD fb.me/ads,****8125,Republika,PS
+11321,2023-09-27,,-10.0,P-Blokácia na žiadosť klienta,,Republika,PS
+11329,2023-09-27,Statny rozpocet,-300.0,"par. 24, ods. 3 zakona c. 85/2005 - nie je mozne vratit dar darcovi, prijem do SR",,Republika,PS
+11328,2023-09-27,Platba kartou,-960.0,FACEBK ACRT8UXD fb.me/ads,****8125,Republika,PS
+11327,2023-09-27,Platba kartou,-960.0,FACEBK LKULETKE fb.me/ads,****8125,Republika,PS
+11325,2023-09-27,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11324,2023-09-27,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11323,2023-09-27,Platba kartou,-960.0,FACEBK 4VUGFTKE fb.me/ads,****8125,Republika,PS
+11322,2023-09-27,KNOWMEDIA sro,-48736.0,medialny priestor billboardy 07/2023,62300814,Republika,PS
+11326,2023-09-27,Platba kartou,-960.0,FACEBK HZ5U3TFD fb.me/ads,****8125,Republika,PS
+11320,2023-09-27,Brunovský Daniel,6000.0,"Daniel Brunovsky, Pri Sajbach 34, Bratislava -DAR",,Republika,PS
+11318,2023-09-27,Obec Pozba,-7.0,politicky oznam v rozhlase,202316,Republika,PS
+11317,2023-09-27,CASA MIA nábytok a doplnky,-6000.0,rozhlasova reklama,2023006,Republika,PS
+11316,2023-09-27,Chez Mimi s.r.o.,-5760.0,medialny a PR priestor,20230017,Republika,PS
+11312,2023-09-27,CLASSIC MSL spol. s.r.o.,-114.0,prenajom kinosaly,20230020,Republika,PS
+11315,2023-09-27,ARTON s.r.o.,-1176.0,plagaty,230471,Republika,PS
+11314,2023-09-27,Obec Dvory nad Žitavou,-6.0,hlasenie v miestnom rozhlase,5011300118,Republika,PS
+11313,2023-09-27,FRONTINUS s.r.o.,-8640.0,politicka reklama v radiu,4023,Republika,PS
+11319,2023-09-27,REPUBLIKA,50000.0,prevod prostriedkov na transparentny ucet,,Republika,PS
+11333,2023-09-26,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11335,2023-09-26,Platba kartou,-960.0,FACEBK Y8E9QS3E fb.me/ads,****8125,Republika,PS
+11334,2023-09-26,Platba kartou,-960.0,FACEBK 6JRTDTKE fb.me/ads,****8125,Republika,PS
+11332,2023-09-26,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11331,2023-09-26,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet,,Republika,PS
+11330,2023-09-26,KNOWMEDIA s.r.o.,-45780.94,billboardy,62300680,Republika,PS
+11344,2023-09-25,"VUB,A.S.",-960.0,DDFACEBK~M4MTYSFDfb.me/ads~~~~~~P1,****8125,Republika,PS
+11351,2023-09-25,"VUB,A.S.",-960.0,DDFACEBK~F5VYYS7Efb.me/ads~~~~~~P1,****8125,Republika,PS
+11350,2023-09-25,Platba kartou,-960.0,FACEBK V9K25TFE fb.me/ads,****8125,Republika,PS
+11348,2023-09-25,Platba kartou,-960.0,FACEBK DC3DPS3E fb.me/ads,****8125,Republika,PS
+11347,2023-09-25,Platba kartou,-960.0,FACEBK EDKBUSTD fb.me/ads,****8125,Republika,PS
+11346,2023-09-25,Platba kartou,-960.0,FACEBK HKRYZS7E fb.me/ads,****8125,Republika,PS
+11345,2023-09-25,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11349,2023-09-25,Platba kartou,-960.0,FACEBK N3BDXSFD fb.me/ads,****8125,Republika,PS
+11343,2023-09-25,"VUB,A.S.",-500.0,DDGOOGLE~*ADS1481cc@google.~~~~~P1,****8125,Republika,PS
+11341,2023-09-25,Mesto Spisska Nova Ves,-16.8,dan za uzivanie verejneho priestranstva,1322300076,Republika,PS
+11340,2023-09-25,KECSKES JAN,5000.0,"Mgr. Jan Kecskes, Novozamocka 156,Nitra - pozicka",,Republika,PS
+11339,2023-09-25,ELVÍRA Švorcová,50.0,Emil Svorc Zeleznicna 1 Bahon DAR,,Republika,PS
+11336,2023-09-25,Platba kartou,-500.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11338,2023-09-25,OSTROZLIK VILIAM,100.0,"Viliam Ostrozlik, Fialova 4A, Bratislava - DAR",9,Republika,PS
+11337,2023-09-25,Michaela Riaposova,3000.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
+11342,2023-09-25,"ISPA, spol. s.r.o.",-52.8,Preinstalacia,20234050,Republika,PS
+11356,2023-09-22,"Lassak, s.r.o.",-126.0,plagaty,20230151,Republika,PS
+11359,2023-09-22,Platba kartou,-960.0,FACEBK LVZC3UXD fb.me/ads,****8125,Republika,PS
+11358,2023-09-22,famous design s.r.o.,-60.0,plagaty,2023205,Republika,PS
+11357,2023-09-22,Michaela Riaposova,126.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
+11355,2023-09-22,TREBULA FILIP,100.0,Filip Trebula Rybarska 39 Sliac - Dar,,Republika,PS
+11354,2023-09-22,Eva Demjanova,60.0,"Peter Demjan, Puskinova 12, Humenne - dar",,Republika,PS
+11353,2023-09-22,Obec Bešeňov,-10.0,rozhlasova inzercia,20230081,Republika,PS
+11352,2023-09-22,Rafael Rafaj,50.0,"Rafael Rafaj, Alstrova 190, 831 06 Bratislava, dar",,Republika,PS
+11360,2023-09-21,Milos Hlavaty,292.32,Milos Hlavaty Partizanska 1859/33 Turany - dar,,Republika,PS
+11361,2023-09-21,Dataprint sk s.r.o.,-560.4,"billboardy, plagaty, grafika, banner",20230082,Republika,PS
+11362,2023-09-21,City Holet Bratislava s.r.o.,-549.0,prenajom priestorov,190985,Republika,PS
+11363,2023-09-21,Mesto Zlate Moravce,-60.0,dan za osobite uzivanie verejneho priestranstva,7423300186,Republika,PS
+11364,2023-09-21,"Petit Press, a.s. divizia tyzdennikov, o.z.",-292.32,inzercia,2333101833,Republika,PS
+11365,2023-09-21,Platba kartou,-350.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11366,2023-09-21,Platba kartou,-960.0,FACEBK FX64WS7E fb.me/ads,****8125,Republika,PS
+11371,2023-09-20,Peter Dunajsky,10.0,"Peter Dunajsky, Teplicka 221/60 Liptovska Teplicka 05940. Ide o dar.",,Republika,PS
+11374,2023-09-20,Vladimír Bajo,100.0,"Katarína Bajová,nar1981,Cintorínska 508/12,Modrý K ameň-Dar, FB",19092023,Republika,PS
+11373,2023-09-20,JOZEF LOVAS,100.0,"Jozef Lovas, Donovaly 28, Donovaly. DAR",,Republika,PS
+11372,2023-09-20,Zuzana Múčková,701.6,"Mgr. Zuzana Muckova, Okruzna 1353/50, Detva, DAR",,Republika,PS
+11368,2023-09-20,Platba kartou,-145.38,FACEBK EZD7HS3E fb.me/ads,****8125,Republika,PS
+11370,2023-09-20,Obec Trávnica,-5.5,rozhlasova relacia,2023000032,Republika,PS
+11367,2023-09-20,Platba kartou,-200.0,GOOGLE *ADS1481 cc@google.,****8125,Republika,PS
+11369,2023-09-20,Obec Úľany nad Žitavou,-10.0,Rozhlasove sluzby,2023000035,Republika,PS
+11380,2023-09-19,Ivan Janovec,100.0,Ivan Janovec Turecka 279 97602 Stare Hory - dar,2023,Republika,PS
+11384,2023-09-19,"VUB,A.S.",-960.0,DDFACEBK~37GZMSTDfb.me/ads~~~~~~P1,****8125,Republika,PS
+11383,2023-09-19,"VUB,A.S.",-50.0,DDGOOGLE~*ADS1481cc@google.~~~~~P1,****8125,Republika,PS
+11381,2023-09-19,Adriana Antalová,100.0,"Adriana Antalova, Nova 26, 96681 Zarnovica- DAR",,Republika,PS
+11382,2023-09-19,Budinský Vincent,100.0,Vincent Budinsky Petra Jilemnickeho 665/97 Cierny Balog 97652 Dar,,Republika,PS
+11379,2023-09-19,Dusan Kisfalusi,100.0,"Dusan Kisfalusi, M.R.Stefanika 2600/3, Zvolen - DAR",,Republika,PS
+11378,2023-09-19,Janka Kuspalova,50.0,"Mgr.Kuspalova Janka, Frana Krala 236/6, 99122 Busince - dar",20230919,Republika,PS
+11377,2023-09-19,"BigMedia, spol. s.r.o.",-3000.0,reklamne sluzby,1223207012,Republika,PS
+11376,2023-09-19,MKC Ziar nad Hronom,-62.6,sluzby v DS MskC Ziar nad Hronom,26,Republika,PS
+11375,2023-09-19,Roman Hubert,100.0,"Roman Hubert, Lukovistia 226, (Dar)",740514,Republika,PS
+11393,2023-09-18,Michaela Riaposova,12.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
+11399,2023-09-18,"VUB,A.S.",-960.0,DDFACEBK~DUX2LTBEfb.me/ads~~~~~~P1,****8125,Republika,PS
+11398,2023-09-18,"VUB,A.S.",-10.0,DDGOOGLE~*ADS1481cc@google.~~~~~P1,****8125,Republika,PS
+11397,2023-09-18,Berčík Alan,200.0,"Alan Bercik, Kuzmanyho 15, Banska Bystrica 97401 - dar",,Republika,PS
+11396,2023-09-18,"Fibra print, sro",-83215.2,volebne noviny 1.500.000 ks,2300727,Republika,PS
+11395,2023-09-18,Melicherčíková Zuzana,100.0,"Zuzana Melichercikova, Zrinskeho 4,81103Bratislava.Dar",,Republika,PS
+11394,2023-09-18,GRYF reklamné štúdio s.r.o.,-36.0,plagaty,20233050,Republika,PS
+11385,2023-09-18,Park kultúry a oddychu Prešov,-373.25,prenajom kinosaly,2002023,Republika,PS
+11392,2023-09-18,"VUB,A.S.",-960.0,DDFACEBK~DBV65TKEfb.me/ads~~~~~~P1,****8125,Republika,PS
+11391,2023-09-18,Jaromír Šmátrala,3000.0,"Jaromir Smatrala, Bajkalska 29D, 821 01 Bratislava. Dar",,Republika,PS
+11390,2023-09-18,DOM KULTÚRY V ČADCI,-45.0,prenajom priestorov,230110,Republika,PS
+11389,2023-09-18,"Mikurčík Erik, Mgr.",550.0,"Erik Mikurcik, Zamocka 20 Bratislava, DAR",,Republika,PS
+11388,2023-09-18,Michaela Riaposova,200.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
+11387,2023-09-18,Michaela Riaposova,100.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
+11386,2023-09-18,Zväz slovenských vedeckotechnických spoločností,-394.32,prenajom zasadacky,23474,Republika,PS
+11400,2023-09-14,Lucia Čorosová,500.0,"Lucia Corosova, Bajzova 6, Kosice _ dar",,Republika,PS
+11401,2023-09-13,Platba kartou,-1112.27,FACEBK 48TMRSFE fb.me/ads,****8125,Republika,PS
+11402,2023-09-13,Obec Lukovištia,-38.8,reklamne plochy,152023,Republika,PS
+11403,2023-09-13,Obec Kráľova Lehota,-41.98,reklamna plocha,492023,Republika,PS
+11404,2023-09-13,Mesto Bardejov,-5.6,dan za uzivanie verejneho priestranstva,2924300046,Republika,PS
+11405,2023-09-13,"Lassak, s.r.o.",-306.0,"billboardy, plagaty",20230147,Republika,PS
+11406,2023-09-13,SIMOVA JANA,5000.0,"Mgr.Jana Simova, Nizna Revuca 71, Liptovske Revuce Pozicka",,Republika,PS
+11410,2023-09-12,Maslak Denis,306.0,"Denis Maslak,Cadca-Hurbanova 2306,jedna sa o DAR",,Republika,PS
+11409,2023-09-12,Rafael Rafaj,5.0,"dar, Rafael Rafaj, Alstrova 190, 831 06 Bratislava",,Republika,PS
+11408,2023-09-12,DaL Pro s.r.o.,-144.0,reklamna plocha,2023020,Republika,PS
+11407,2023-09-12,"Súlovský Peter, Ing.",12000.0,"Peter Sulovsky, Samorinska 12, Samorin, dar",,Republika,PS
+11424,2023-09-11,Tlačiareň Brummer s.r.o.,-158.4,/DO2023-09-11/SP letak,2320174,Republika,PS
+11423,2023-09-11,"Mouton, s.r.o.",-144.0,/DO2023-09-11/SP letaky,2023165,Republika,PS
+11422,2023-09-11,Tomáš Senko,135.0,"Dar. Tomas Senko, Obchodna 8555/3A, 010 08 Zilina",,Republika,PS
+11421,2023-09-11,"Institut narodnej politiky, o.z.",-350.23,inzercia,202307,Republika,PS
+11420,2023-09-11,PN print s.r.o.,-84.0,"Letaky, grafika",20230655,Republika,PS
+11419,2023-09-11,AKRA reklama s.r.o.,-139.2,"tricka, letaky",110230170,Republika,PS
+11418,2023-09-11,"AU Holding plus, s.r.o.",-420.0,"banner, autopolep",2023245,Republika,PS
+11417,2023-09-11,Martin Huska,600.0,"Martin Huska, Hrobakova 12, Bratislava - dar",,Republika,PS
+11416,2023-09-11,ARTON s.r.o.,-1209.6,letaky,202309253,Republika,PS
+11415,2023-09-11,"DIGITRA Net, s.r.o.",-216.0,banner,162023361,Republika,PS
+11414,2023-09-11,"AU Holding plus, s.r.o.",-240.0,banner,2023244,Republika,PS
+11412,2023-09-11,Bamida s.r.o.,-167.63,"/DO2023-09-11/SP tricka, letaky, karticky, grafika",2320231,Republika,PS
+11411,2023-09-11,Vamstav spol. s.r.o.,-100.0,reklamna plocha,10230183,Republika,PS
+11428,2023-09-08,NEVOLNY ERIK,1500.0,"Erik Nevolny, Novosady 924/16, 96212 Detva- DAR",,Republika,PS
+11429,2023-09-08,CHYLIK RIBONOVA MARI,100.0,"Mariana Chylik Ribonova, Zavodie 83, Turzovka, DAR",,Republika,PS
+11427,2023-09-08,Terézia Baníková,509.6,"Terézia Baníková, Stará Bystrica 161, 02304 - dar",,Republika,PS
+11425,2023-09-08,"VUB,A.S.",-960.0,DDFACEBK~3WUT9STDfb.me/ads~~~~~~P1,****8125,Republika,PS
+11426,2023-09-08,Rafael Rafaj,25.0,"dar, Rafael Rafaj, Alstrova 190, 83106 Bratislava, SKspravy",,Republika,PS
+11439,2023-09-07,"NEUMAHR TLAČIAREŇ, s.r.o.",-450.0,"tricka, letaky, banner, grafika, podpiskarta",20231460,Republika,PS
+11430,2023-09-07,Brunovský Daniel,450.0,"Daniel Brunovsky Pri Sajbach 34, Bratislava - dar",,Republika,PS
+11431,2023-09-07,"VRBATA, s.r.o.",-1404.0,billboardy,2320800,Republika,PS
+11432,2023-09-07,SUSARSKY MILOS,3000.0,Milos Susarsky Kozia 25 Bratislavadar,111,Republika,PS
+11433,2023-09-07,Vladimír Bajo,460.0,"Katarína Bajová,nar1981,Cintorínska 508/12,Modrý K ameň-Dar",6092023,Republika,PS
+11434,2023-09-07,Marek Fusatý,192.0,"Marek Fusaty, Kamenarska 86, Nova Bana, DAR",,Republika,PS
+11435,2023-09-07,"Machovičová Erika, Mgr.",250.0,"machovicova erika internatna 2, b.b. dar",,Republika,PS
+11437,2023-09-07,Terezia Banikova,700.0,"Terezia Banikova ml. Stara Bystrica 161, 02304 -dar",,Republika,PS
+11438,2023-09-07,"Red Post, s.r.o.",-455.35,distribucia letakov,2023036,Republika,PS
+11457,2023-09-06,Janoušková Alexandra,1000.0,Alexandra Janouskova Astrova 28 90042 Dunajska Luzna - dar,,Republika,PS
+11453,2023-09-06,CyberSoft s.r.o.,-1764.0,outdoor reklama,23090404,Republika,PS
+11454,2023-09-06,"printio, s.r.o.",-500.0,letaky,323485,Republika,PS
+11456,2023-09-06,Michal Kýpeť,86.4,"Michal Kypet, Jana Bottu 78, 980 52 Hrachovo, dar",,Republika,PS
+11460,2023-09-06,ARRIVA Slovakia a.s.,-1416.0,reklamna plocha,3010029142,Republika,PS
+11458,2023-09-06,Datarint sk s.r.o.,-2044.25,"billboard, rollup,bannery, plagaty, nalepky,letaky",20230080,Republika,PS
+11459,2023-09-06,Activity promotions s.r.o.,-628.99,promo stolik,23190416,Republika,PS
+11451,2023-09-06,Ing. Zdenko Čopák - RETURN,-225.0,letaky,2023169,Republika,PS
+11452,2023-09-06,Graphicsoul s.r.o,-165.0,"plagaty, letaky",20230629,Republika,PS
+11455,2023-09-06,"euroAWK, spol. s.r.o.",-192.0,billboardy,235097,Republika,PS
+11450,2023-09-06,Rafael Rafaj,323.25,"dar, Rafael Rafaj, Alstrova 190, 831 06, Bratislava - SKspravy inzercia",,Republika,PS
+11448,2023-09-06,Eva Demjanova,924.0,"Peter Demjan, Puskinova 12, Humenne - dar",2023187,Republika,PS
+11447,2023-09-06,Janecek Jan,240.0,"Jan Janecek, 1. maja 2049/1, 069 01 Snina - Dar",,Republika,PS
+11441,2023-09-06,famous design s.r.o.,-727.2,"pera, plagaty, letaky",2023187,Republika,PS
+11446,2023-09-06,TATRA BANKA A.S. - CENTRÁLA,300.0,"DAR: Martin Dragun, Masarykova 70,Michalovce, 07101",,Republika,PS
+11445,2023-09-06,PREVOD Z KRED. KARTY,300.0,Vratena platba: prevod na ucet 2001014374 nie je povoleny,,Republika,PS
+11444,2023-09-06,MARTIN CHUDY,300.0,Martin Chudy Piestanska15 Leopoldov92041 TP-DAR,70,Republika,PS
+11443,2023-09-06,"Orlove a priroda, sro",-144.0,prenajom reklamnej plochy,23078002,Republika,PS
+11442,2023-09-06,"Orlove a priroda, sro",-144.0,prenajom reklamnej plochy,23078001,Republika,PS
+11449,2023-09-06,Ing. Pavol Anderko - ANKO,-196.8,plagaty,233047,Republika,PS
+11468,2023-09-05,TINO LASER s.r.o.,-3969.48,"grafika, letaky, banner",2023020,Republika,PS
+11473,2023-09-05,REDDesign s.r.o.,-210.6,"karticky, autopolep, tricka, plagaty",20230232,Republika,PS
+11472,2023-09-05,Bc. Andrea Fecková - VYDAVATEĽSTVO SPEKTRUM,-230.0,inzercia,2023112,Republika,PS
+11471,2023-09-05,Tlačiareň Kežmarok GG s.r.o.,-3085.31,"darcekove predmety, tricka, mikiny, letaky, bannery, plagaty",20231193,Republika,PS
+11469,2023-09-05,"TOP IT, s.r.o.",-312.0,"letaky, kalendariky",20230300,Republika,PS
+11465,2023-09-05,RIBON JOZEF,950.0,Jozef Ribon Brezany 1 01004 Zilina DAR,,Republika,PS
+11466,2023-09-05,Michaela Riaposova,106.0,"Michaela Riaposova, Mateja Bela 11, Banska Bystrica - DAR",,Republika,PS
+11464,2023-09-05,Marek Fusatý,567.0,"Marek Fusaty, Kamenarska 86, Nova Bana, DAR",,Republika,PS
+11463,2023-09-05,SIMOVA JANA,500.0,"Mgr. Jana Simova, Nizna Revuca 71, Liptovske Revuce dar",,Republika,PS
+11462,2023-09-05,Mestske kulturne stredisko Humenne,-684.0,Uhrada faktury X2023/010 prenajom priestorov,2023010,Republika,PS
+11461,2023-09-05,"PrintArt Media, s.r.o.",-606.0,"bannery, autopolep",230621,Republika,PS
+11503,2023-09-04,MAREK KUKUCKA,23.0,"MAREK KUKUCKA, ZELENECSKA ULICA 2691/20, 917 02 TRNAVA, T.P. - DAR",,Republika,PS
+11505,2023-09-04,"VUB,A.S.",-1058.53,DDFACEBK~PVWAAS7Efb.me/ads~~~~~~P1,****8125,Republika,PS
+11502,2023-09-04,Lubomir Pidanic,144.0,"Lubomir Pidanic, Kosicka 2507/29, Humenne - dar",,Republika,PS
+11507,2023-09-04,Ivan Janovec,312.0,Ivan Janovec Turecka 279 97602 Stare Hory - dar,2023,Republika,PS
+11513,2023-09-04,OZ V OBRAZE,-120.0,inzercia na internete,20230069,Republika,PS
+11508,2023-09-04,Janka Kuspalova,210.6,"Mgr.Kuspalova Janka, Frana Krala 236/6, 99122 Busince - dar",20230232,Republika,PS
+11510,2023-09-04,Multáň Pavel,600.0,"Pavel Multan, Kosicka 1797/2, 06001, Kezmarok, Dar",,Republika,PS
+11511,2023-09-04,EXO REKLAMNÁ AGENTÚRA s.r.o.,-96.0,tricka,10230117,Republika,PS
+11527,2023-09-04,PETIT s.r.o.,-120.0,letaky,2321109,Republika,PS
+11514,2023-09-04,"NUBIUM, s.r.o.",-7524.0,billboardy,23095909,Republika,PS
+11515,2023-09-04,Chriastel Julius,120.0,"Ing. Julius Chriastel, Toryska 4, 04011 Kosice - DAR",,Republika,PS
+11518,2023-09-04,Delphia Tatry s.r.o.,-260.0,"grafika, letaky, tricka, billboardy, reklamne plochy",23020007,Republika,PS
+11519,2023-09-04,Alexandra Jašurková,96.0,"Ing. Alexandra Jasurkova, Bernolakova 537/17, 06503 Podolinec, DAR",,Republika,PS
+11524,2023-09-04,Jana Palíková,1029.6,"Ing. Jana Palikova, Turicky 3, 985 22 Cinobana - DAR",,Republika,PS
+11528,2023-09-04,RCS reklama s.r.o.,-153.0,letaky,1020230581,Republika,PS
+11529,2023-09-04,Regionálne vydavateľstvo - Alena Jaššová s.r.o.,-1600.0,inzercia,23066,Republika,PS
+11500,2023-09-04,Katarína Sikorová,300.0,"Katarina Sikorova, Mierova 12, 821 05 Bratislava, pozn.Dar",,Republika,PS
+11501,2023-09-04,Jaroslav Chylik,1000.0,"Jaroslav Chylik, Zavodie 83, 023 54 Turzovka, DAR",,Republika,PS
+11523,2023-09-04,"ETOP ADVERTISING, s.r.o.",-1008.0,Billboardy,12023412,Republika,PS
+11499,2023-09-04,Rafael Rafaj,90.0,"Rafael Rafaj, Alstrova 190, 831 06 Bratislava - dar",,Republika,PS
+11489,2023-09-04,GRAFCO s.r.o.,-29.0,letaky,2023087,Republika,PS
+11474,2023-09-04,FaxCopy a.s.,-411.6,"Banner, letaky",2458681,Republika,PS
+11475,2023-09-04,FaxCopy a.s.,-153.72,"grafika, tlac billboard",3502300391,Republika,PS
+11479,2023-09-04,Tisk Horak a.s.,-94.1,letaky,2306808,Republika,PS
+11483,2023-09-04,GoldThorn Group Print s.r.o.,-1279.68,20230019,20230019,Republika,PS
+11485,2023-09-04,Alexandra Jašurková,260.0,"Ing. Alexandra Jasurkova, Bernolakova 537/17, 065 03 Podolinec, DAR",,Republika,PS
+11487,2023-09-04,"BB PRINT, s.r.o.",-90.0,vizitky,20230389,Republika,PS
+11488,2023-09-04,IRPT s.r.o.,-150.0,sluzby,402023,Republika,PS
+11498,2023-09-04,LAUKOVA LEA,153.0,"Lea Laukova, Svaty Anton 420, Dar",,Republika,PS
+11490,2023-09-04,DruxxPrint s.r.o.,-293.16,"grafika, plagaty",20230131,Republika,PS
+11492,2023-09-04,PN print s.r.o.,-890.4,Letaky,20230665,Republika,PS
+11493,2023-09-04,Ing. Pavol Anderko - ANKO,-708.0,plagaty,233044,Republika,PS
+11494,2023-09-04,ARTON s.r.o.,-156.0,"grafika, plagaty",230489,Republika,PS
+11495,2023-09-04,Emanuel Omámik,98.0,"Lucia Omamikova, Doliny 1891/2, Turany 03853, DAR",,Republika,PS
+11496,2023-09-04,Juraj Nemcek - JN Reklama,-30.0,propagacne materialy,1082023,Republika,PS
+11497,2023-09-04,Final Vision s.r.o.,-100.0,inzercia,20230102,Republika,PS
+11491,2023-09-04,"Lassak, s.r.o.",-1104.0,"billboardy, plagaty",20230135,Republika,PS
+11537,2023-08-31,Revická Sára,94.1,"Sara Revicka, Nevidzany 151, 972 27, DAR",,Republika,PS
+11543,2023-08-31,IANOS KLAUDIA,29.0,Klaudia Ianos.Zadna 60.Stupava-DAR,,Republika,PS
+11542,2023-08-31,,-82.24,Poplatky za platby spolu,9,Republika,PS
+11540,2023-08-31,,-7.0,Vedenie účtu,9,Republika,PS
+11541,2023-08-31,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
+11536,2023-08-31,PUPAK MILAN,100.0,"Milan Pupak, Slovenskej armady 13B,Zlate Moravce - dar",,Republika,PS
+11530,2023-08-31,PUPAK MILAN,30.0,"Milan Pupak, Dlovenskej armady 13B,Zlate Moravce - dar",,Republika,PS
+11534,2023-08-31,MAREK KUKUCKA,27.0,"MAREK KUKUCKA, ZELENECSKA ULICA 2691/20, 917 02 TRNAVA, T.P. - DAR",,Republika,PS
+11532,2023-08-31,Peter Dragúň,999.0,"DAR, Peter Dragun, Masarykova 70, Michalovce",,Republika,PS
+11531,2023-08-31,Adriana Antalová,330.0,"Adriana Antalova, Nova 26, 96681 Zarnovica- DAR",,Republika,PS
+11576,2023-08-30,Sandra Ribonova,1000.0,"Sandra Ribonova, Brezany 1, 010 04Zilina, DAR",,Republika,PS
+11574,2023-08-30,Maros Klika,230.0,"Maros Klika, Vranovska 1435/7, Stropkov, Dar.",2023112,Republika,PS
+11572,2023-08-30,Dagmara Ribonova,1000.0,"Dagmara Ribonova, Brezany 1, 010 04 Zilina, DAR",,Republika,PS
+11571,2023-08-30,"Katarína Kluková - GIGA, reklamná agentúra",-250.0,letaky,2300002,Republika,PS
+11560,2023-08-30,Sona Zyglinska,396.0,"Sona Zyglinska, Slnecna 162/11, 029 01 Namestovo- dar",,Republika,PS
+11569,2023-08-30,BUILD REAL s.r.o.,-60.0,tlac a vylep billboardu,2908202305,Republika,PS
+11568,2023-08-30,Ing. Pavol Anderko - ANKO,-360.0,billboardy,230001,Republika,PS
+11567,2023-08-30,Ing. Pavol Anderko - ANKO,-111.6,plagaty,230003,Republika,PS
+11566,2023-08-30,"Logis Press, s.r.o.",-210.0,"billboard, letaky",20230299,Republika,PS
+11565,2023-08-30,Terezia Banikova,216.0,"Terezia Banikova, Stara Bystrica 161, 02304 - dar",,Republika,PS
+11563,2023-08-30,ghstudio s.r.o.,-233.22,"plagaty, letaky",2023947,Republika,PS
+11562,2023-08-30,KAPA spol. s.r.o.,-460.8,"plagaty, banner",20230148,Republika,PS
+11570,2023-08-30,Mareček Peter,233.22,"Peter Marecek, G. L. Svobodu 14,Senica - DAR",,Republika,PS
+11561,2023-08-30,"RETEX, s.r.o.",-240.0,reklamna plocha,2023212,Republika,PS
+11559,2023-08-30,ARDOX SK s.r.o.,-449.16,"bannery, plagaty",2023445,Republika,PS
+11551,2023-08-30,"ImmerBest, s.r.o.",-396.0,reklamne plochy,20230222,Republika,PS
+11558,2023-08-30,Vladimir Bajo,1000.0,"Vladimir Bajo,nar1978,Cintorinska 508/12,Modry Kamen-Dar",129082023,Republika,PS
+11544,2023-08-30,Mária Kopáčová,461.0,"Lukas Kopac, Dolne Trhoviste 246, 92061/DAR",,Republika,PS
+11545,2023-08-30,PRISTAK MICHAL,449.16,"Michal Pristak , Perecka ul.2997/35 , 93405 Levice - dar",,Republika,PS
+11546,2023-08-30,SABIK BOHUMIR,200.0,"Mgr. Ing. Bohumir Sabik, Cerveny Hradok 30, 951 82 - dar",,Republika,PS
+11549,2023-08-30,DURIS MARIAN,250.0,"Marian Duris, Februarova 639/16, 958 01 Partizanske : Dar",2300002,Republika,PS
+11550,2023-08-30,Radek Trencansky,210.0,"Radek Trencansky,M.Benku 2341/9, Topolcany - dar",,Republika,PS
+11552,2023-08-30,REDDesign s.r.o.,-1125.68,"autopolepy, letaky, prezentacne predmety, grafika",20230226,Republika,PS
+11553,2023-08-30,"Kočišová Jana, Mgr. PhDr.",300.0,"Jana Kocisova, Hviezdoslavova 163/50, Vranov n.T. - dar",,Republika,PS
+11554,2023-08-30,PANTERPMD spol. s.r.o.,-200.0,propagacne materialy,1623,Republika,PS
+11555,2023-08-30,"MARIGMA SK, s.r.o.",-1300.0,"karticky, noviny",2023003,Republika,PS
+11556,2023-08-30,Mesto Rožňava,-63.0,prenajom spolocenskej saly MsU,20230190,Republika,PS
+11557,2023-08-30,Vladimir Bajo,150.0,"Katarina Bajova,nar1981,Cintorinska 508/12,Modry Kamen-Dar",229082023,Republika,PS
+11581,2023-08-28,"ARTON, s.r.o.",-276.0,billboard,230472,Republika,PS
+11584,2023-08-28,Ivona Kellnerová,200.0,"ivona kellnerova, trieda 1 maja 11, spisska nova ves DAR",,Republika,PS
+11583,2023-08-28,MONDO - reklamná agentúra s.r.o.,-144.0,"letaky, nalepky",2023293,Republika,PS
+11582,2023-08-28,"RADOLSKY REKLAMA, s.r.o.",-960.0,"grafika, reklamne plochy, billboard",20230428,Republika,PS
+11585,2023-08-28,DOB BUS,-960.0,Reklamny polep a plagaty (autobus),238110,Republika,PS
+11580,2023-08-28,VALACH IGOR,246.0,"Erika Valachova, Horska 1309/53, Partizanske - dar",,Republika,PS
+11578,2023-08-28,"TRISTANPRESS, spol. s.r.o.",-246.0,"grafika, letaky, plagaty",2023360,Republika,PS
+11577,2023-08-28,"TRISTANPRESS, spol. s.r.o.",-1329.6,"grafika, letaky, reklamne predmety",2023363,Republika,PS
+11579,2023-08-28,DOBOSOVA TATIANA,960.0,"Branislav Dobos, Kpt. Nalepku 604/11, 97242 Lehota pod Vtacnikom DAR",,Republika,PS
+11587,2023-08-25,JAN KUBICA,293.16,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",,Republika,PS
+11588,2023-08-25,Ivona Kellnerová,144.0,"Ivona Kellnerova, Trieda 1. maja 11, Spisska Nova Ves, DAR",,Republika,PS
+11589,2023-08-25,iPlqtforma s.r.o.,-900.0,"bigboard, billboardy",2300043,Republika,PS
+11595,2023-08-24,Martin Klepkoň,370.0,Martin Klepkon Brezovica Vysne Hrady 187/37 02801 Dar.,,Republika,PS
+11598,2023-08-24,"MONGER POINT, s. r. o.",-180.0,"plagaty, kalendariky",2023050,Republika,PS
+11596,2023-08-24,Martin Klepkoň,914.0,Daniela Kleponova Brezovica Vysne Hrady 187/37 02801 Dar.,,Republika,PS
+11597,2023-08-24,MESTSKÉ KULTÚRNE CENTRUM *19,62.6,sluzby v DS MskC Ziar nad Hronom,26,Republika,PS
+11594,2023-08-24,"ART Brezno, s.r.o.",-200.0,plagaty,20230077,Republika,PS
+11593,2023-08-24,Martin Kral,-360.89,Letaky,20230218,Republika,PS
+11592,2023-08-24,UNIVEL spol. s r.o.,-919.2,"letaky, billboardy",20230755,Republika,PS
+11591,2023-08-24,Emanuel Omámik,425.0,"Lucia Omamikova, Doliny 1891/2, Turany 03853, DAR",,Republika,PS
+11599,2023-08-23,COGAN JAN,120.0,Jan Cogan Kukucinova 2042/3 Snina 06901 DAR,,Republika,PS
+11600,2023-08-23,Miroslav Igaz MIRA photo&design,-49.0,"letaky, doplatok",952023,Republika,PS
+11601,2023-08-23,Brunovský Daniel,60.0,"Daniel Brunovsky, Pri Sajbach 34, Bratislava - dar",,Republika,PS
+11602,2023-08-23,Jozef Ferianc,500.0,"Jozef Ferianc, Poziarnicka 6, Banska Stiavnica - DAR",,Republika,PS
+11603,2023-08-23,"euroAWK, spol. s.r.o.",-900.0,kampan,2370129,Republika,PS
+11604,2023-08-23,MAREK GABRIS,241.2,"Marek Gabris, Rybany 557, 95636 Rybany - dar",,Republika,PS
+11605,2023-08-23,"TRISTANPRESS, spol. s.r.o.",-241.2,"grafika, billboard, plagaty",2023346,Republika,PS
+11606,2023-08-23,Marian Zec,85.0,"Ing. Marian Zec, E. F. Scherera 4802/22, Piestany. DAR",,Republika,PS
+11607,2023-08-23,Ing. Zdenko Čopák - RETURN,-810.6,"billboard, auto polep, letak",2023155,Republika,PS
+11617,2023-08-22,Ladislav Urda - URGAS,-80.0,billboard,2023017,Republika,PS
+11618,2023-08-22,GEMERBIZ s.r.o.,-100.0,reklamna plocha,23010008,Republika,PS
+11615,2023-08-22,Vydavateľstvo HELENA - Mgr. Alena Jaššová,-480.0,inzercia,23018,Republika,PS
+11619,2023-08-22,Miroslav Igaz MIRA photo&design,-245.0,letaky,952023,Republika,PS
+11620,2023-08-22,Vydavateľstvo HELENA - Mgr. Alena Jaššová,-780.0,inzercia,23017,Republika,PS
+11616,2023-08-22,GRYF reklamné štúdio s.r.o.,-960.0,reklamne plochy,23088,Republika,PS
+11610,2023-08-22,Miroslav Políček,480.0,"Miroslav Policek, Mlynska 419, 95131 Mocenok dar",,Republika,PS
+11614,2023-08-22,ProfiEkoNet s.r.o.,-360.0,reklama,60230002,Republika,PS
+11612,2023-08-22,ARTON s.r.o.,-1641.6,plagaty,230456,Republika,PS
+11611,2023-08-22,ARTON s.r.o.,-1368.0,plagaty,230327,Republika,PS
+11609,2023-08-22,Jozef Týnus,79.3,"Ing.Jozef Tynus, Tehelna 5045/4,98401 Lucenec dar.",,Republika,PS
+11608,2023-08-22,Marek Kurta,440.0,"Marek Kurta, Hlavna 73 Presov 08001 - DAR",,Republika,PS
+11613,2023-08-22,ARTON s.r.o.,-13560.0,billboardy,230455,Republika,PS
+11629,2023-08-21,Natalia Policekova,614.57,"Natalia Policekova, Mlynska 419, 951 31 Mocenok - dar",,Republika,PS
+11635,2023-08-21,JAN KUBICA,68.4,"Jan Kubica, Moravske Lieskove 673, 91642 Moravske Lieskove - dar",,Republika,PS
+11634,2023-08-21,"Adverti, s.r.o.",-614.57,/DO2023-08-21/SP banner,231940,Republika,PS
+11632,2023-08-21,"VUB,A.S.",-546.86,DDFACEBK~7SWRSRPDfb.me/ads~~~~~~P1,****8125,Republika,PS
+11631,2023-08-21,DuxxPrint s.r.o.,-68.4,Polokosele,20230128,Republika,PS
+11630,2023-08-21,Mestská časť Bratislava - Rača,-1190.0,stanok na akcii,20230726,Republika,PS
+11633,2023-08-21,ARTON s.r.o.,-8400.0,/DO2023-08-21/SP billboardy,230470,Republika,PS
+11628,2023-08-21,ProfiEkoNet s.r.o.,-360.0,reklama,60230001,Republika,PS
+11626,2023-08-21,Richard Kuba,-690.0,"bannery, plagaty, letaky, vizitky",2023025,Republika,PS
+11625,2023-08-21,Miroslav Maňuch agentúra MIMA,-432.0,banner,2023058,Republika,PS
+11621,2023-08-21,Marko Marián,300.0,"Marian Marko,956 34 Ostratice 197 - Dar",,Republika,PS
+11623,2023-08-21,Lucia Baricakova - LB reklama,-360.0,tricka,1020230277,Republika,PS
+11622,2023-08-21,"euroAWK, spol. s.r.o.",-240.0,kampan,2370128,Republika,PS
+11627,2023-08-21,Mouton s.r.o.,-4633.8,letaky,2023144,Republika,PS
+11636,2023-08-18,Kucháriková Marta,690.0,"Jan Kucharik, Nabrezie sv. Cyrila 380/45, Prievidza - dar",,Republika,PS
+11637,2023-08-18,Anton Hostak,1000.0,Anton Hostak Dedovec 1025/6 Povazska Bystrica 017 01 - dar,,Republika,PS
+11639,2023-08-18,Stefan Krnac,1000.0,Krnac Stefan Pod cintorinom 1769 Hrinova - dar,,Republika,PS
+11640,2023-08-18,"Print Centrum, s.r.o.",-198.0,letaky,20230095,Republika,PS
+11642,2023-08-17,Václav Mitošinka,990.0,Ena Mitosinkova Jablonka 247 906 21 DAR,,Republika,PS
+11641,2023-08-17,COGAN JAN,700.0,Jan Cogan Kukucinova 2042/3 Snina 06901 DAR,,Republika,PS
+11654,2023-08-16,Ovec Štós,-20.0,/DO2023-08-16/SP prenajom saly,2337,Republika,PS
+11663,2023-08-16,Mesto Kezmarok,-240.0,prenajom priestorov MsKS,52023022,Republika,PS
+11662,2023-08-16,Rác Peter,144.0,"Peter rac , vlcie hrdlo 81 Bratislava , DAR",,Republika,PS
+11661,2023-08-16,Juraj Tomadlik - JUTO,-577.8,"rekl.kampan, LED obrazovky",472023,Republika,PS
+11660,2023-08-16,ARTON s.r.o.,-192.0,reklamne plochy,230463,Republika,PS
+11658,2023-08-16,"terc.sk, s.r.o.",-120.0,plagaty,20230314,Republika,PS
+11657,2023-08-16,"LAJKA ADV, s.r.o.",-228.28,/DO2023-08-16/SP tricka,2023245771,Republika,PS
+11656,2023-08-16,Hospodarske zdruzenie Spisa,-80.0,reklama v Kezmarskych novinach,32023,Republika,PS
+11655,2023-08-16,ARTON s.r.o.,-40.8,plagaty,230464,Republika,PS
+11653,2023-08-16,Mestska umelecka agentura Partizanske,-258.0,prenajom spolocenskej saly,20230064,Republika,PS
+11643,2023-08-16,MKC Ziar nad Hronom,-62.6,sluzby v DS MskC Ziar nad Hronom,26,Republika,PS
+11652,2023-08-16,Kamila Staskova,1000.0,"Ing. Kamila Staskova, Zupcany c.199, okres Presov- DAR",,Republika,PS
+11651,2023-08-16,MsKS Zlate Moravce,-100.0,prenajom priestorov MsKS,1514300033,Republika,PS
+11650,2023-08-16,Martin Klepkoň,495.0,Martin Klepkon ml Brezovica Vysne Hrady 187/37. 02801 dar,,Republika,PS
+11649,2023-08-16,Emanuel Omámik,232.8,"Lucia Omamikova, Doliny 1891/2, Turany 03853, DAR",,Republika,PS
+11648,2023-08-16,TOTH RADOVAN,960.0,"Radovan Toth, P.Pazmana 50/13 Sala - ide o dar",,Republika,PS
+11647,2023-08-16,Martin Valovic,50.0,Martin Valovic Druzby 683/7 Nedozery-Brezany 97212 DAR,,Republika,PS
+11646,2023-08-16,Martin Klepkoň,85.0,Daniela Klepkonova Brezovica Vysne Hrady 187/37 02801 DAR,,Republika,PS
+11645,2023-08-16,"OLYRA, s.r.o",-144.0,prenajom reklamnej plochy 7-9/2023,23078001,Republika,PS
+11644,2023-08-16,"OLYRA, s.r.o",-144.0,prenajom reklamnej plochy 7-9/2023,23078004,Republika,PS
+11664,2023-08-15,AKRA reklama s.r.o.,-446.4,"plagaty, letaky, tricka, grafika",110230147,Republika,PS
+11665,2023-08-15,HB DEVELOPERS s.r.o.,-360.0,reklamne plochy,2023001,Republika,PS
+11666,2023-08-15,ML Invest s.r.o.,-588.0,reklamne plochy,2023010,Republika,PS
+11667,2023-08-15,Miestny Úrad Rača Bratislava,-200.0,"REPUBLIKA, rezervacny poplatok za stanok",1509242,Republika,PS
+11668,2023-08-15,Jozef Remenár s. r. o.,120.0,"Jozef Remenar, Bucany 720, Trnava - dar",,Republika,PS
+11673,2023-08-14,Jarmila Červeňanová,200.0,JARMILA CERVENANOVA TEHELNA 4 GELNICA - DAR,14082023,Republika,PS
+11672,2023-08-14,Lucia Baricakova - LB reklama,-422.0,"vizitky, tricka",1020230268,Republika,PS
+11671,2023-08-14,SKLENKA MARTIN,150.0,"Martin Sklenka, Sturova 1375/3, Ziar nad Hronom - DAR",,Republika,PS
+11669,2023-08-14,"Norpal Print, s.r.o.",-72.0,vizitky,20230134,Republika,PS
+11670,2023-08-14,Delphia Tatry s.r.o.,-7490.0,"grafika, letaky, tricka, billboardy, reklamne plochy",23020006,Republika,PS
+11681,2023-08-11,MultiMedia s.r.o.,-336.0,prenajom CLV,230800019,Republika,PS
+11686,2023-08-11,"euroAWK, spol. s.r.o.",-5438.4,billboardy,2370094,Republika,PS
+11685,2023-08-11,"EUNICA Megaboards, s.r.o.",-24288.0,reklamny priestor,202306,Republika,PS
+11684,2023-08-11,"EUNICA Megaboards, s.r.o.",-720.0,reklamny priestor,202307,Republika,PS
+11683,2023-08-11,"EUNICA Megaboards, s.r.o.",-2941.2,reklamny priestor,202305,Republika,PS
+11682,2023-08-11,"CONFIDENCE MEDIA SR, s.r.o.",-24.0,prenajom a produkcia,2321165,Republika,PS
+11679,2023-08-11,"euroAWK, spol. s.r.o.",-192.0,zaloha za kampan,2370104,Republika,PS
+11680,2023-08-11,"CONFIDENCE MEDIA SR, s.r.o.",-63.6,prenajom a produkcia,2321164,Republika,PS
+11678,2023-08-11,PUKAN PETER,1500.0,"Peter Pukan, Celadice 399, 95103 -dar",,Republika,PS
+11677,2023-08-11,Ján Sabol,27949.2,"JAN SABOL ,Hlavna 251/10, Rovinka. 24.6.72. DAR",9,Republika,PS
+11676,2023-08-11,Budinský Vincent,200.0,Vincent Budinsky Petra Jilemnickeho 665/97 Cierny Balog 97652 Dar,,Republika,PS
+11675,2023-08-11,Kanovits Group s.r.o.,-291.6,folia,23007105,Republika,PS
+11674,2023-08-11,"CONFIDENCE MEDIA SR, s.r.o.",-411.6,prenajom a produkcia,2321167,Republika,PS
+11698,2023-08-10,FK Slovan Ivanka pri Dunaji,-80.0,reklamna plocha,23018,Republika,PS
+11693,2023-08-10,Jozef Ferianc,500.0,"Jozef Ferianc, Poziarnicka 6, Banska Stiavnica - DAR",,Republika,PS
+11699,2023-08-10,Dataprint sk s.r.o.,-1289.4,"brozura, letaky",20230073,Republika,PS
+11697,2023-08-10,Jarmila Červeňanová,80.0,JARMILA CERVENANOVA TEHELNA 4 GELNICA - DAR,10082023,Republika,PS
+11695,2023-08-10,"terc.sk, s.r.o.",-62.4,plagaty,20230304,Republika,PS
+11692,2023-08-10,Dagmar Hostakova,1000.0,"Dagmar Hostakova, Dedovec 1025/6, Pov.Bystrica 01701 -dar",,Republika,PS
+11691,2023-08-10,KOCIS EDUARD,500.0,"Eduard Kocis, Akad. Pavlova 316/8, Stropkov - dar",,Republika,PS
+11690,2023-08-10,GRYF reklamné štúdio s.r.o.,-2160.0,reklamne plochy,20232775,Republika,PS
+11689,2023-08-10,MAREK KUKUCKA,62.4,"MAREK KUKUCKA, ZELENECSKA ULICA 2691/20, 917 02 TRNAVA, T.P. - DAR",,Republika,PS
+11688,2023-08-10,VERONIKA TEMNAKOVA,336.0,"Veronika Temnakova, Nemocnicna 55, Galanta- DAR",,Republika,PS
+11707,2023-08-09,"Guldan-Studio, s.r.o.",-202.8,Prenajom rekl. plochy,23017,Republika,PS
+11712,2023-08-09,Guldan-Studio s.r.o.,-1620.0,Prenajom rekl. priestoru na LED obrazovke,23014,Republika,PS
+11711,2023-08-09,ARTON s.r.o.,-60.0,grafika,230448,Republika,PS
+11710,2023-08-09,Martin Banik,60.0,"Martin Banik, Stara Bystrica 161, Stara Bystrica - dar",,Republika,PS
+11709,2023-08-09,Jarmila Červeňanová,203.0,JARMILA CERVENANOVA TEHELNA 4 GELNICA - DAR,9082023,Republika,PS
+11708,2023-08-09,Stefan Kovacik,72.0,"Stefan Kovacik, c.268, 013 22 Rosina - DAR",,Republika,PS
+11706,2023-08-09,GRAPHIC s.r.o.,-456.95,"grafika, plagaty, bannery",20230174,Republika,PS
+11705,2023-08-09,Vamstav spol. s.r.o.,-100.0,reklamna plocha,10230162,Republika,PS
+11704,2023-08-09,Katarína Köbölová - KEart plus,-150.0,plagaty,2023029,Republika,PS
+11703,2023-08-09,Miroslav Červeňan,1000.0,MIROSLAV CERVENAN GELNICA TEHELNA 4 - DAR,9082023,Republika,PS
+11702,2023-08-09,Jozef Sprlak,100.0,Jozef Sprlak Sucha Hora 37 dar,,Republika,PS
+11701,2023-08-09,František Polyák,622.0,"Frantisek Polyak, Hylov 20 Kosice okolie 04412-DAR",,Republika,PS
+11713,2023-08-08,František Polyák,242.0,"Frantisek Polyak, Hylov 20 Kosice okolie 04412-DAR",,Republika,PS
+11714,2023-08-08,LAUKOVA LEA,408.0,"Lea Laukova, Svaty Anton 420, Dar",,Republika,PS
+11715,2023-08-08,"CASH+, s.r.o.",-2904.0,bannery,10230802,Republika,PS
+11716,2023-08-08,"Blue Mark production, s.r.o.",-72.0,"bannery, plagaty",2023035,Republika,PS
+11717,2023-08-08,"Guldan-Studio, s.r.o.",-241.2,Prenajom rekl. plochy,23016,Republika,PS
+11721,2023-08-07,"Kopecký Pavol, Ing.",990.0,"Pavol Kopecky, Huncovska 26, Kezmarok - dar",,Republika,PS
+11722,2023-08-07,Jaromír Šmátrala,11000.0,"Jaromir Smatrala, Bajkalska 29D, 821 01 Bratislava. Dar",,Republika,PS
+11718,2023-08-07,"K&S/advertising, s.r.o.",-408.0,"/DO2023-08-07/SP billboardy, plagaty",402023,Republika,PS
+11720,2023-08-07,"Janco Andrej, MUDr.",2904.0,"Andrej Janco, Amurska 7,Kosice,dar",,Republika,PS
+11719,2023-08-07,"VUB,A.S.",-900.0,DDFACEBK~9Q3RMRFEfb.me/ads~~~~~~P1,****8125,Republika,PS
+11723,2023-08-04,Lucia Vicianová,118.2,"Mgr. Peter Vician, S. Hruskovica 3194/9, Krupina, nar. 4.7.1973 DAR",,Republika,PS
+11724,2023-08-04,KNOWMEDIA s.r.o.,-38520.79,medialny priestor bilboardy 05/2023,62300592,Republika,PS
+11725,2023-08-04,Guldan-Srudio s.r.o.,-444.0,Prenajom rekl. plochy,23015,Republika,PS
+11726,2023-08-04,"K&S/advertising, s.r.o.",-134.4,plagaty,372023,Republika,PS
+11727,2023-08-04,"ETOP ADVERTIDING, s.r.o.",-1008.0,billboardy,12023364,Republika,PS
+11728,2023-08-04,Tomáš Špaček,100.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
+11729,2023-08-04,Fomenko Kuľa Ivan,444.0,"Ivan Fomenko Kula , Romanova 35 , 8t102 Bratislava - Dar",,Republika,PS
+11732,2023-08-03,Mesto Žiar nad Hronom,-202.1,najomne za divadelnu salu,1750075632,Republika,PS
+11733,2023-08-03,Ľubomír Kuzma,-118.5,"prenajom priestorov, obcerstvenie",20230234,Republika,PS
+11730,2023-08-03,Roman Hubert,800.0,"Roman Hubert, Lukovistia 226, (Dar)",740514,Republika,PS
+11731,2023-08-03,KELLER JOZEF,500.0,"J. Keller,Levoca,Czauczika 4 - dar",20823,Republika,PS
+11741,2023-08-02,"K&S/advertising, s.r.o.",-758.4,billboardy,372023,Republika,PS
+11746,2023-08-02,Vranovčania pre šport a kultúru,-400.0,prenajom reklamnej plochy,32023,Republika,PS
+11745,2023-08-02,"euroAWK, spol. s.r.o.",-30576.0,kampan,2370098,Republika,PS
+11744,2023-08-02,Maros Klika,500.0,"Maros Klika, Vranovska 1435/7, Stropkov, Dar.",,Republika,PS
+11743,2023-08-02,Guldan-Studio s.r.o.,-482.4,Prenajom rekl. plochy,23013,Republika,PS
+11742,2023-08-02,"Miroslav Jiránek - BEPA, reklamná agentúra",-54.0,polep,2023415,Republika,PS
+11734,2023-08-02,Tomáš Špaček,300.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
+11740,2023-08-02,"MARIGMA SK, s.r.o.",-10495.87,billboardova kampan,2023001,Republika,PS
+11738,2023-08-02,Milan Mazurek,40000.0,"Milan Mazurek, Kupelna 1303/70, 05901 Spisska Bela, pozicka",,Republika,PS
+11737,2023-08-02,Tomáš Špaček,400.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
+11736,2023-08-02,Ivana Slivkova,1500.0,"JUDr. Ivana Slivkova, Figusa Bystreho 26, 974 01 Banska Bystrica; DAR",,Republika,PS
+11735,2023-08-02,Fomenko Kuľa Ivan,483.0,"Ivan Fomenko Kula , Romanova 35 , 8t102 Bratislava - Dar",,Republika,PS
+11739,2023-08-02,ARTON s.r.o.,-96.0,billboard,230441,Republika,PS
+11756,2023-08-01,Tomáš Špaček,200.0,"Tomas Spacek, Romanova 5, Bratislava. Dar",,Republika,PS
+11764,2023-08-01,"BigMedia, spol. s.r.o.",-342.0,billboardy,122390147,Republika,PS
+11763,2023-08-01,Kulašik Sylvia,500.0,"54 Sylvia Kulasik , Antona Bernolaka 1410/27, 0340 Ruzomberok, DAR.",,Republika,PS
+11762,2023-08-01,Stefan Hornak,10.0,"Hornak Stefan, Samuela Tesedika 5,Michalovce -dar",,Republika,PS
+11761,2023-08-01,"BROART, s.r.o.",-84.0,banner,20230138,Republika,PS
+11759,2023-08-01,"NUBIUM, s.r.o.",-7128.0,reklamne plochy,23085182,Republika,PS
+11757,2023-08-01,Ing. Pavol Anderko - ANKO,-1224.0,billboardy,230279,Republika,PS
+11758,2023-08-01,Ing. Pavol Anderko - ANKO,-84.0,billboard,230263,Republika,PS
+11755,2023-08-01,MORAVCIK IGOR,642.0,"Igor Moravcik, Radnicne nam. 5308/5D, 821 05 Bratislava - dar",,Republika,PS
+11753,2023-08-01,DULEBOVA MARTINA,500.0,"Branislav Duleba, K. Porubka 27, Svidnik - dar",,Republika,PS
+11752,2023-08-01,KECSKES JAN,7500.0,"Jan Kecskes, Novozamocka 85/156, Nitra - dar",,Republika,PS
+11751,2023-08-01,ALICA MIKITOVICOVA,500.0,"Alica Mikitovicova, Nad Laborcom 6, Michalovce-dar",,Republika,PS
+11749,2023-08-01,Darina Nakatová,500.0,"Darina Nakatova, Licartovce c 240, 08203 - DAR",,Republika,PS
+11748,2023-08-01,Milan Mazurek,500.0,"Milan Mazurek, Kupelna 1303/70, Spisska Bela, dar",,Republika,PS
+11747,2023-08-01,CHOVANAK LUKAS,500.0,"Lukas Chovanak, Hviezdoslavova 31, Sp. Bela - dar",,Republika,PS
+11754,2023-08-01,KOCIS EDUARD,500.0,"Eduard Kocis, Akad. Pavlova 316/8, Stropkov - dar",,Republika,PS
+11781,2023-07-31,,-7.0,Vedenie účtu,9,Republika,PS
+11779,2023-07-31,iPlatforma s.r.o.,-900.0,billboardy,2300039,Republika,PS
+11777,2023-07-31,Viera Rudľovská,500.0,"Ondrej Rudlovsky, Hatalov 90 - dar",160283,Republika,PS
+11780,2023-07-31,,-46.5,Poplatky za platby spolu,9,Republika,PS
+11785,2023-07-31,ARTON s.r.o.,-684.0,plagaty,230437,Republika,PS
+11782,2023-07-31,ALFA Reklama s.r.o.,-2106.0,billboardy,20231774,Republika,PS
+11783,2023-07-31,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
+11784,2023-07-31,ARTON s.r.o.,-3600.0,billboard,230436,Republika,PS
+11788,2023-07-31,Mesto Nová Baňa,-20.0,vyhlasenie v rozhlase,1310300130,Republika,PS
+11778,2023-07-31,Obec Brehy,-4.0,Oznam v rozhlase,142023,Republika,PS
+11772,2023-07-31,Terézia Kudla,1000.0,"od JUDr. Terezia Kudla, Hradska20, 821 07 Bratislava, dar",1,Republika,PS
+11775,2023-07-31,"Kočišová Jana, Mgr. PhDr.",500.0,"Jana Kocisova, Hviezdoslavova 163/50, Vranov n.T. - dar",,Republika,PS
+11768,2023-07-31,Jozef Týnus,150.0,"Ing. Jozef Tynus, Tehelna 5045/4, 984 01 Lucenec dar",,Republika,PS
+11765,2023-07-31,Ivona Kellnerová,500.0,"Ivona Kellnerova, Trieda 1 maja 11, Spisska Nova Ves , DAR",,Republika,PS
+11766,2023-07-31,Bc.Miroslav Magdech,2106.0,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, DAR",20231774,Republika,PS
+11767,2023-07-31,Jakub Hajduk,500.0,"Jakub Hajduk, Mlynarovce 105 - dar",,Republika,PS
+11774,2023-07-31,Tomáš Senko,500.0,Dar,,Republika,PS
+11769,2023-07-31,Alexandra Jašurková,500.0,"Ing. Alexandra Jasurkova, Bernolakova 17, 065 03 Podolinec, DAR",,Republika,PS
+11771,2023-07-31,Miroslav Urban,500.0,"Dar, Miroslav Urban, Stiavnicka 331, 03401, Zilinsky kraj",,Republika,PS
+11770,2023-07-31,Peter Adamec,-30.0,Rezijny poplatok,20230038,Republika,PS
+11799,2023-07-28,Stanislav Záhumenský,1000.0,"Ing.Ing.Mgr.Stanislav Zahumensky, Velke Lovce 505, 94142 - dar",,Republika,PS
+11808,2023-07-28,Obec Štós,-20.0,prenajom saly,2331,Republika,PS
+11807,2023-07-28,"Miroslav Jiránek - BEPA, reklamná agentúra",-54.0,prelep infografiky,2023385,Republika,PS
+11805,2023-07-28,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078001,Republika,PS
+11804,2023-07-28,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078006,Republika,PS
+11803,2023-07-28,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078007,Republika,PS
+11802,2023-07-28,Erika Švecová,1000.0,"Erika Svecova , Narcisova 12 , Bratislava82101 , dar p",,Republika,PS
+11801,2023-07-28,JURAJ KOREC,1000.0,"JURAJ KOREC, ESTONSKA 42, BRATISLAVA 821 06 - DAR",,Republika,PS
+11800,2023-07-28,Vladimíra Mikušiaková,-330.0,Vratenie daru,,Republika,PS
+11806,2023-07-28,Dataprint sk s.r.o.,-4424.02,"billboardy, bannery, plagaty",20230068,Republika,PS
+11798,2023-07-28,MIKUSIAKOVA VLADIMIR,330.0,"Vladimira Mikusiakova, Dopravna 6, BA - DAR",8258,Republika,PS
+11796,2023-07-28,GRYF reklamné štúdio s.r.o.,-4956.0,reklamne plochy,23078,Republika,PS
+11795,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078017,Republika,PS
+11794,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078018,Republika,PS
+11793,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078016,Republika,PS
+11792,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078020,Republika,PS
+11791,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078021,Republika,PS
+11790,2023-07-28,"FOOD FACTORING, s.r.o.",-144.0,prenajom reklamnej plochy,23078019,Republika,PS
+11797,2023-07-28,UHRIKOVA ZUZANA,30000.0,"Zuzana Uhrikova, Hornocermanska 81, Nitra - Pozicka",,Republika,PS
+11833,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078003,Republika,PS
+11827,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078002,Republika,PS
+11828,2023-07-27,"NUBIUM, s.r.o.",-5676.0,reklamne panely jul 2023,23074411,Republika,PS
+11829,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078002,Republika,PS
+11830,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078003,Republika,PS
+11831,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078004,Republika,PS
+11832,2023-07-27,"Amirp, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078002,Republika,PS
+11837,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078006,Republika,PS
+11834,2023-07-27,"LUDO, spol. s r.o.",-144.0,prenajom reklamnej plochy,23078005,Republika,PS
+11835,2023-07-27,Martin Klepkoň,500.0,Martin Klepkon Brezovica Vysne Hrady 187/37 02801 Dar,,Republika,PS
+11836,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078005,Republika,PS
+11838,2023-07-27,FURDÍK FILIP,1000.0,"Filip Furdik, Hlbinna 5, Bratislava 821 06 - dar",,Republika,PS
+11839,2023-07-27,Simona Perrin Miklášová,1000.0,"Simona Perrin Miklasova, Komarovska 10, Bratislava 82106 - dar",,Republika,PS
+11840,2023-07-27,Guldan-Studio s.r.o.,-1370.4,Prenajom rekl. plochy,23011,Republika,PS
+11825,2023-07-27,PEMA spol. s r.o.,-144.0,prenajom reklamnej plochy,23078004,Republika,PS
+11826,2023-07-27,Lucia Baricakova - LB reklama,-186.0,"Reklamny baner, letaky",1020230245,Republika,PS
+11820,2023-07-27,"Imagewell, s.r.o.",-720.0,tlac a vyves baneru,460230040,Republika,PS
+11824,2023-07-27,Tekauer Štefan,1000.0,"Stefan Tekauer, Hlbinna 7/B, 82106 Bratialava - dar",,Republika,PS
+11815,2023-07-27,"Zathurecká Petra, Mgr.",1000.0,"Petra Zathurecka, Horska 11/A, 83152 Bratislava - Dar",,Republika,PS
+11823,2023-07-27,Jarmila Červeňanová,350.0,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,27072023,Republika,PS
+11810,2023-07-27,"Imagewell, s.r.o.",-5028.0,billboardy,460230036,Republika,PS
+11811,2023-07-27,Maslak Denis,230.0,"Denis Maslak,Cadca-Hurbanova 2306,jedna sa o DAR",,Republika,PS
+11812,2023-07-27,"Imagewell, s.r.o.",-3786.0,baner,460230037,Republika,PS
+11813,2023-07-27,SIMOVA JANA,500.0,"Jana Simova, Nizna Revuca 71, Liptovske Revuce DAR",,Republika,PS
+11814,2023-07-27,MIKUSIAKOVA VLADIMIR,672.0,"Vladimira Mikusiakova, Dopravna 6, Bratislava DAR",8258,Republika,PS
+11809,2023-07-27,Reinhardt Alexandra,1000.0,"Reinhardt Alexandra, Magurska 5, Poprad 05801 - dar",,Republika,PS
+11816,2023-07-27,GRYF reklamné štúdio s.r.o.,-4455.0,bigboardy,20232551,Republika,PS
+11821,2023-07-27,Confidence media SR. s.r.o.,-685.2,billboardy,2321152,Republika,PS
+11822,2023-07-27,GRYF reklamné štúdio s.r.o.,-6840.0,prenajom rekl. ploch,20232550,Republika,PS
+11817,2023-07-27,ARTON s.r.o.,-24.0,plagaty,230336,Republika,PS
+11819,2023-07-27,"Imagewell, s.r.o.",-1068.0,kampan,460230039,Republika,PS
+11818,2023-07-27,"BigMedia, spol. s.r.o.",-342.0,reklamne sluzby,122390125,Republika,PS
+11841,2023-07-26,"K&S/advertising, s.r.o.",-758.4,prenajom billboardovych ploch,352023,Republika,PS
+11842,2023-07-26,Jozef Sprlak,480.0,Jozef Sprlak Sucha Hora 37 dar,,Republika,PS
+11843,2023-07-26,"Hilka Majková Lucia, PhDr.",1000.0,fin dar republika,,Republika,PS
+11848,2023-07-26,Viera MORAVČÍKOVÁ,11629.2,VIERA MORAVČÍKOVA RADNIČNÉ NAM 53C8 5ID BRATISLAVA 82105-DAR,,Republika,PS
+11849,2023-07-26,"BigMedia, spol. s.r.o.",-325.2,Reklamne sluzby,122390138,Republika,PS
+11850,2023-07-26,"ISPA, spol. s.r.o.",-672.0,poskytnutie reklamneho priestoru,23950202,Republika,PS
+11851,2023-07-26,Anton Toma TOMA s.r.o.,-480.0,napolitanky s logom,230363,Republika,PS
+11852,2023-07-26,Jarmila Červeňanová,140.0,JARMILA CERVENANOVA GELNICA TEHELNA 4 - DAR,26072023,Republika,PS
+11854,2023-07-26,K&S/advertising s.r.o.,-1896.0,prenajom billboardovych ploch,342023,Republika,PS
+11847,2023-07-26,GRYF reklamné štúdio s.r.o.,-1218.0,prenajom a realizacia reklamnych ploch,23057,Republika,PS
+11859,2023-07-25,Martin Banik,938.0,"Martin Banik, Stara Bystrica 161, Stara Bystrica - dar",,Republika,PS
+11862,2023-07-25,Igor Macuch,1000.0,"JUDr. Igor Macuch, Trnkova 13, 85110 Bratislava - dar",,Republika,PS
+11861,2023-07-25,"Furdíková Miriam, Mgr.",1000.0,"Mgr.Miriam Furdikova,Hlbinna 5,Bratislava 821 06 - dar",,Republika,PS
+11857,2023-07-25,Sona Zyglinska,500.0,"Sona Zyglinska, Slnecna 162/11, 029 01 Namestovo- dar",,Republika,PS
+11858,2023-07-25,"Mrázek Pavol, Ing. arch.",1000.0,Pavol Mrazek Astrova 2/A 82101 Bratislava DAR,,Republika,PS
+11855,2023-07-25,Juraj Trebuľa,2000.0,"Juraj Trebula , snp 457/88 ,Budca DAR",,Republika,PS
+11856,2023-07-25,Bc.Miroslav Magdech,1218.0,"Miroslav Magdech, Hviezdoslavova 117, 0107 01 Povazska Bystrica, dar",,Republika,PS
+11863,2023-07-24,ARTON s.r.o.,-72.0,tlac plagatov,230405,Republika,PS
+11864,2023-07-24,ARTON s.r.o.,-360.0,prenajom reklamnych ploch,230404,Republika,PS
+11867,2023-07-24,Dusan Kisfalusi,624.0,"Dusan Kisfalusi, M.R.Stefanika 2600/3, Zvolen - DAR",,Republika,PS
+11871,2023-07-24,GRYF reklamné štúdio s.r.o.,-192.0,reklamne plochy,23064,Republika,PS
+11872,2023-07-21,Vlastimír Javorka,200.0,"Vlastimír Javorka, L. Svobodu 1, Banská Štiavnica; dar",,Republika,PS
+11873,2023-07-21,Mária Kopáčová,30000.0,"Lukas Kopac, Dolne Trhoviste 246, 92061, pozicka",,Republika,PS
+11874,2023-07-20,Platba kartou,-868.82,FACEBK P46VMQ3E fb.me/ads,****8125,Republika,PS
+11875,2023-07-20,Milan Uhrík,100000.0,"MILAN UHRÍK, HORNOČERMÁNSKA 81, NITRA - PÔŽIČKA",,Republika,PS
+11876,2023-07-20,Vladimir Javorka,-200.0,Vratenie daru,,Republika,PS
+11877,2023-07-20,Obec Uhrovec,-3.0,Oznamenie v rozhlase,202316,Republika,PS
+11878,2023-07-20,Obec Podlužany,-2.0,Vyhlasenie v rozhlase,72023,Republika,PS
+11879,2023-07-19,Vlastimir Javorka,200.0,"Darca, Vlastimir Javorka",,Republika,PS
+11886,2023-07-18,Peter Siran KAM-STAV,-800.0,"najom, hudba, gilas, zabavne atrakcie",2023055,Republika,PS
+11885,2023-07-18,FaxCopy a.s.,-48.88,Graficke prace a tlac,2337266,Republika,PS
+11884,2023-07-18,ARTON s.r.o.,-414.0,Najom billboardu,230335,Republika,PS
+11883,2023-07-18,"RADOLSKY REKLAMA, s.r.o.",-468.0,Bilboardvyroba a vylep,20230366,Republika,PS
+11881,2023-07-18,"euroAWK, spol. s r.o.",-11856.0,billboardy 8/2023,2370063,Republika,PS
+11880,2023-07-18,ARTON s.r.o.,-2760.0,billboardy 8/2023,230390,Republika,PS
+11882,2023-07-18,"NUBIUM, s.r.o.",-60.0,tlac plagatov 07/2023,23074794,Republika,PS
+11892,2023-07-14,Mestske kulturne stredisko Levice,-60.0,prenajom saly CK Junior,202310202,Republika,PS
+11895,2023-07-14,Jaroslav Vajda,-300.0,prenajom priestorov Poprad,2023029,Republika,PS
+11894,2023-07-14,W-Mont s.r.o.,-3099.0,montaz banerov,2023011,Republika,PS
+11893,2023-07-14,ARTON s.r.o.,-331.2,tlac plagatov,230391,Republika,PS
+11891,2023-07-14,RCS reklama s.r.o.,-979.2,balony s potlacou,1020230407,Republika,PS
+11890,2023-07-14,"Janco Andrej, MUDr.",13000.0,"Andrej Janco, Amurska 7,Kosice,dar",,Republika,PS
+11889,2023-07-14,33D s.r.o.,-1200.0,tvorba a uprava online obsahu,2322000098,Republika,PS
+11887,2023-07-14,"Imagewell, s.r.o.",-5568.0,kampan,460230034,Republika,PS
+11896,2023-07-13,Oleksandra Markova,5000.0,"DAR- PhDr Jan Marko Ipelska 5,Bratislava",,Republika,PS
+11897,2023-07-13,Mesto Banovce nad Bebravou,-10.5,vyhlasovanie oznamu v rozhlase,2023090,Republika,PS
+11898,2023-07-13,Mesto Zarnovica,-291.0,prenajom KD,9018300049,Republika,PS
+11901,2023-07-11,SADIBOL LUBOSLAV,690.0,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",,Republika,PS
+11902,2023-07-10,CHYLIK RIBONOVA MARI,800.0,"Mariana Chylik Ribonova, Zavodie 83, 023 54 Turzovka - dar",,Republika,PS
+11904,2023-07-07,Kulturne a informacne centrum mesta Kremnica,-52.5,prenajom MsKS velka sala,142023,Republika,PS
+11903,2023-07-07,Dusan Kovac,-180.0,prenajom priestorov Dudince,202309,Republika,PS
+11906,2023-07-06,PZL,-450.0,gravirovanie laserom USB,2023054,Republika,PS
+11907,2023-07-06,iPlatforma sro,-900.0,"bigboard, billboardy 07/2023",2300035,Republika,PS
+11908,2023-07-04,HandPlay sro,-13000.0,bilbordova kampan 07/2023,102023003,Republika,PS
+11909,2023-07-04,Dataprint sk s.r.o.,-3788.35,tlac bannerov,20230056,Republika,PS
+11911,2023-07-03,SADIBOL LUBOSLAV,300.0,"Luboslav Sadibol, komenskeho 128 Cadca, Dar.",,Republika,PS
+11912,2023-06-30,,-7.44,Poplatky za platby spolu,9,Republika,PS
+11913,2023-06-30,,-0.2,Popl.za 1x elektronický výpis,9,Republika,PS
+11914,2023-06-30,,-7.0,Vedenie účtu,9,Republika,PS
+11917,2023-06-21,"Mestske sluzby Topolcany, sro",-32.9,prenajom KD Velke Bedzany,23091,Republika,PS
+11918,2023-06-21,Mesto Žarnovica,-11.0,hlasenie v rozhlase,9019300048,Republika,PS
+11919,2023-06-21,"Mestske sluzby Topolcany, sro",-126.9,prenajom Domu kultury Topolcany,23090,Republika,PS
+11920,2023-06-20,Platba kartou,-227.11,FACEBK SZNJ7RXD fb.me/ads,****8125,Republika,PS
+11921,2023-06-19,Obec Slepcany,-9.0,prenajom KD,20230021,Republika,PS
+11922,2023-06-19,Mesto Turcianske Teplice,-57.0,prenajom kinosaly,5019300042,Republika,PS
+11923,2023-06-19,"Mestske kulturne stredisko, NM",-39.0,prenajom miestnosti MsKS Nove Mesto nad Vahom,2023072,Republika,PS
+11925,2023-06-19,Mesto Partizánske,-12.0,hlasenie v rozhlase,2023144,Republika,PS
+11927,2023-06-15,ARTON s.r.o.,-11400.0,prenajom reklamnych ploch 7/2023,230326,Republika,PS
+11926,2023-06-15,"euroAWK, spol. s.r.o.",-15756.0,reklamne plochy 7/2023,2370058,Republika,PS
+11929,2023-06-14,"PZL, sro",-660.0,pera znacenie laserom,2023049,Republika,PS
+11930,2023-06-12,"AREC 16, s. r. o.",5000.0,"DAR - AREC 16, s.r.o., Zamocka 10, Bratislava, ICO: 53 776 607",32,Republika,PS
+11931,2023-06-12,iPlatforma sro,-900.0,"bigboard, billboardy 06/2023",2300028,Republika,PS
+11932,2023-06-12,Ing. Pavol Anderko - ANKO,-84.0,prenajom billboardu 06/2023,230202,Republika,PS
+11933,2023-06-12,"Frick, sro",-63.0,prenajom priestorov,2023198,Republika,PS
+11934,2023-06-12,Mesto Banovce nad Bebravou,-99.0,prenajom priestorov KD,2023076,Republika,PS
+11937,2023-06-09,33D s.r.o.,-1200.0,Online reklama,2322000084,Republika,PS
+11939,2023-06-08,Matej Garaj,3500.0,"Matej Garaj, Stvrt Ladislava Novomeskeho 1235/24, 97701 Brezno, DAR",,Republika,PS
+11938,2023-06-08,Guldan-Studio s.r.o.,-3261.6,Prenajom rekl. plochy,23008,Republika,PS
+11940,2023-06-07,Martin Garaj,-3500.0,Vratenie platby,,Republika,PS
+11941,2023-06-05,Matej Garaj,3500.0,,,Republika,PS
+11942,2023-06-02,REPUBLIKA,100000.0,prevod prostriedkov na transparentny ucet,,Republika,PS
+11943,2023-06-01,,-14.0,Ročný popl. Vydanie/obnova karty,8125,Republika,PS
+11944,2023-05-31,,-0.18,Poplatky za platby spolu,9,Republika,PS
+11945,2023-05-31,,-7.0,Vedenie účtu,9,Republika,PS
+11946,2023-05-29,ANTAL VLADIMIR,1000.0,"Vladimir Antal, Nova 26, 96681 Zarnovica, DAR",,Republika,PS

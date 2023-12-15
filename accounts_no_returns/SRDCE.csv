@@ -1,4 +1,6 @@
 index,date,account_name,amount,message,vs,name,label
+16272,2023-11-30,,-5.0,Poplatok za vedenie účtu,,SRDCE,PS
+16273,2023-11-30,,-5.0,Zverejňovanie účtu,,SRDCE,PS
 16274,2023-10-31,,-5.0,Poplatok za vedenie účtu,,SRDCE,PS
 16275,2023-10-31,,-5.0,Zverejňovanie účtu,,SRDCE,PS
 16276,2023-10-08,obec Selice,-6.0,odvysielanie oznamu,1752023.0,SRDCE,PS
@@ -7,100 +9,100 @@ index,date,account_name,amount,message,vs,name,label
 16279,2023-10-05,obec Veľká lúka,-5.0,odvysielanie oznamu,112023.0,SRDCE,PS
 16280,2023-10-05,obec Rúbaň,-10.0,odvysielanie oznamu,2023341.0,SRDCE,PS
 16281,2023-10-05,obec Tehla,-6.0,odvysielanie oznamu,2023243.0,SRDCE,PS
-16282,2023-10-04,obec Klokočov,-3.3,odvysielanie oznamu,20230060.0,SRDCE,PS
-16283,2023-10-04,obec Jablonica,-10.0,odvysielanie oznamu,2023.0,SRDCE,PS
-16284,2023-10-04,obec Zubné,-10.0,odvysielanie oznamu,10230001.0,SRDCE,PS
-16285,2023-10-04,obec Sklabiňa,-10.0,odvysielanie oznamu,202323.0,SRDCE,PS
-16286,2023-10-04,obec Fačkov,-10.0,odvysielanie oznamy,1202309.0,SRDCE,PS
-16287,2023-10-04,obec Rabčice,-6.0,odvysielanie oznamu,2023059.0,SRDCE,PS
-16289,2023-10-03,obec Veľké Rovnéo,-6.0,odvysielanie oznamu,2023000059.0,SRDCE,PS
-16288,2023-10-03,obec Batizovce,-5.0,odvysielanie oznamu,2023014.0,SRDCE,PS
+16285,2023-10-04,obec Zubné,-10.0,odvysielanie oznamu,10230001.0,SRDCE,PS
+16287,2023-10-04,obec Klokočov,-3.3,odvysielanie oznamu,20230060.0,SRDCE,PS
+16286,2023-10-04,obec Jablonica,-10.0,odvysielanie oznamu,2023.0,SRDCE,PS
+16284,2023-10-04,obec Fačkov,-10.0,odvysielanie oznamy,1202309.0,SRDCE,PS
+16283,2023-10-04,obec Rabčice,-6.0,odvysielanie oznamu,2023059.0,SRDCE,PS
+16282,2023-10-04,obec Sklabiňa,-10.0,odvysielanie oznamu,202323.0,SRDCE,PS
+16288,2023-10-03,obec Veľké Rovnéo,-6.0,odvysielanie oznamu,2023000059.0,SRDCE,PS
+16289,2023-10-03,obec Batizovce,-5.0,odvysielanie oznamu,2023014.0,SRDCE,PS
 16290,2023-10-01,obec Detvianska Huta,-10.0,odvysielanie oznamu,2023000024.0,SRDCE,PS
 16291,2023-09-30,,-5.0,Zverejňovanie účtu,,SRDCE,PS
 16292,2023-09-30,,-5.0,Poplatok za vedenie účtu,,SRDCE,PS
 16293,2023-09-29,HLP grafik,-454.8,úhrada výroby plagátov a baneru,20230184.0,SRDCE,PS
 16294,2023-09-29,obec Gemerská Ves,-4.0,odvysielanie oznamu,11.0,SRDCE,PS
-16295,2023-09-28,obec Veľké Turovce,-6.0,odvysielanie oznamu,2023000008.0,SRDCE,PS
-16296,2023-09-28,obec Pozba,-7.0,odvysielanie oznamu,202318.0,SRDCE,PS
-16297,2023-09-28,FUJASOVA ZUZANA,120.0,Z.Fujasova Lastovicia 9 Nove Zamky prispevok kampa,,SRDCE,PS
-16298,2023-09-28,OBECNY URAD,6.0,omyl platba 2x uhradene,312023.0,SRDCE,PS
-16302,2023-09-27,obec Bánov,-8.0,odvysielanie oznamu,2023000206.0,SRDCE,PS
-16304,2023-09-27,obec Vieska,-5.0,odvysielanie oznamu - doplatok,2023000076.0,SRDCE,PS
-16303,2023-09-27,obec Nezbudská Lúčka,-12.0,odvysielanie oznamu,20235.0,SRDCE,PS
-16305,2023-09-27,obec Rudník,-4.0,odvysielanie oznamu,1002023.0,SRDCE,PS
-16301,2023-09-27,obec Sekule,-12.0,odvysielanie oznamu,442023.0,SRDCE,PS
-16299,2023-09-27,mesto Hronský Beňadik,-8.0,odvysielanie oznamu,20235.0,SRDCE,PS
-16300,2023-09-27,obec Bešeňov,-10.0,odvysielanie oznamu,20230084.0,SRDCE,PS
-16318,2023-09-26,obec Lúčky,-7.0,odvysielanie oznamu,2023119.0,SRDCE,PS
-16330,2023-09-26,obec Holumnica,-10.0,odvysielanie oznamu,20230026.0,SRDCE,PS
-16329,2023-09-26,obec Uhliská,-4.0,odvysielanie oznamu,202356.0,SRDCE,PS
-16328,2023-09-26,obec Rosina,-10.0,odvysielanie oznamu,20230054.0,SRDCE,PS
-16327,2023-09-26,obec Nesluša,-10.0,odvysielanie oznamu,202314.0,SRDCE,PS
-16326,2023-09-26,obec Prievaly,-10.0,odvysielanie oznamu,62023.0,SRDCE,PS
-16325,2023-09-26,obec Horné Hámre,-20.0,odvysielanie oznamu,2023103.0,SRDCE,PS
+16297,2023-09-28,obec Veľké Turovce,-6.0,odvysielanie oznamu,2023000008.0,SRDCE,PS
+16298,2023-09-28,obec Pozba,-7.0,odvysielanie oznamu,202318.0,SRDCE,PS
+16295,2023-09-28,FUJASOVA ZUZANA,120.0,Z.Fujasova Lastovicia 9 Nove Zamky prispevok kampa,,SRDCE,PS
+16296,2023-09-28,OBECNY URAD,6.0,omyl platba 2x uhradene,312023.0,SRDCE,PS
+16300,2023-09-27,obec Nezbudská Lúčka,-12.0,odvysielanie oznamu,20235.0,SRDCE,PS
+16301,2023-09-27,mesto Hronský Beňadik,-8.0,odvysielanie oznamu,20235.0,SRDCE,PS
+16302,2023-09-27,obec Sekule,-12.0,odvysielanie oznamu,442023.0,SRDCE,PS
+16303,2023-09-27,obec Bešeňov,-10.0,odvysielanie oznamu,20230084.0,SRDCE,PS
+16304,2023-09-27,obec Bánov,-8.0,odvysielanie oznamu,2023000206.0,SRDCE,PS
+16305,2023-09-27,obec Vieska,-5.0,odvysielanie oznamu - doplatok,2023000076.0,SRDCE,PS
+16299,2023-09-27,obec Rudník,-4.0,odvysielanie oznamu,1002023.0,SRDCE,PS
 16324,2023-09-26,obec Krpeľany,-5.0,odvysielanie oznamu,2023104.0,SRDCE,PS
-16323,2023-09-26,obec Párnica,-14.0,odvysielanie oznamu,52023067.0,SRDCE,PS
-16322,2023-09-26,obec Senohrad,-5.0,odvysielanie oznamu,12023.0,SRDCE,PS
-16321,2023-09-26,Kohaut Andrej,50.0,kohaut prispevok,,SRDCE,PS
-16319,2023-09-26,obec Breza,-6.0,odvysielanie oznamu,242023.0,SRDCE,PS
 16320,2023-09-26,obec Domadice,-6.0,odvysielanie oznamu,20230002.0,SRDCE,PS
+16321,2023-09-26,obec Párnica,-14.0,odvysielanie oznamu,52023067.0,SRDCE,PS
+16322,2023-09-26,Kohaut Andrej,50.0,kohaut prispevok,,SRDCE,PS
+16323,2023-09-26,obec Senohrad,-5.0,odvysielanie oznamu,12023.0,SRDCE,PS
+16328,2023-09-26,obec Rosina,-10.0,odvysielanie oznamu,20230054.0,SRDCE,PS
+16325,2023-09-26,obec Horné Hámre,-20.0,odvysielanie oznamu,2023103.0,SRDCE,PS
+16326,2023-09-26,obec Prievaly,-10.0,odvysielanie oznamu,62023.0,SRDCE,PS
+16327,2023-09-26,obec Nesluša,-10.0,odvysielanie oznamu,202314.0,SRDCE,PS
+16329,2023-09-26,obec Uhliská,-4.0,odvysielanie oznamu,202356.0,SRDCE,PS
+16318,2023-09-26,obec Rudina,-40.0,odvysielanie oznamu,2023000035.0,SRDCE,PS
+16319,2023-09-26,obec Breza,-6.0,odvysielanie oznamu,242023.0,SRDCE,PS
+16330,2023-09-26,obec Holumnica,-10.0,odvysielanie oznamu,20230026.0,SRDCE,PS
 16317,2023-09-26,obec Horné Pršany,-6.0,odvysielanie oznamu,312023.0,SRDCE,PS
-16310,2023-09-26,Vladimír Zeman,20000.0,pôžička na úhradu nákladov na voľby,450629.0,SRDCE,PS
-16306,2023-09-26,mesto Želiezovce,-4.0,odvysielanie oznamu,5010300274.0,SRDCE,PS
-16307,2023-09-26,obec Rudina,-40.0,odvysielanie oznamu,2023000035.0,SRDCE,PS
-16316,2023-09-26,obec Bardoňovo,-3.3,odvysielanie príhovoru,20235.0,SRDCE,PS
-16309,2023-09-26,obec Horné Pršany,-6.0,odvysielanie oznamu,312003.0,SRDCE,PS
-16308,2023-09-26,obec Dolná Strehová,-10.0,odvysielanie oznamu,2112300243.0,SRDCE,PS
-16311,2023-09-26,Bežný účet 5193505509,-429.6,refakturácia úhrady reklamných predmetov od FIBRI s.r.o.,42285089.0,SRDCE,PS
+16310,2023-09-26,Bežný účet 5193505509,-18302.04,refakturacia nákladov na zloženie volebnej kaucie,42285089.0,SRDCE,PS
+16316,2023-09-26,mesto Želiezovce,-4.0,odvysielanie oznamu,5010300274.0,SRDCE,PS
+16306,2023-09-26,Bežný účet 5193505509,-1587.6,refakturácia reklamných predmetov FIBRA s. r. o.,42285089.0,SRDCE,PS
+16307,2023-09-26,obec Lúčky,-7.0,odvysielanie oznamu,2023119.0,SRDCE,PS
+16309,2023-09-26,Bežný účet 5193505509,-725.0,refakturacia nákladov na tlačovú konferenciu hotel Falkensteiner,42285089.0,SRDCE,PS
+16308,2023-09-26,obec Bardoňovo,-3.3,odvysielanie príhovoru,20235.0,SRDCE,PS
+16311,2023-09-26,obec Horné Pršany,-6.0,odvysielanie oznamu,312003.0,SRDCE,PS
 16312,2023-09-26,Bežný účet 5193505509,-3080.76,refakturácia reklamných predmetov od FIBRA s. r. o.,42285089.0,SRDCE,PS
-16313,2023-09-26,Bežný účet 5193505509,-1587.6,refakturácia reklamných predmetov FIBRA s. r. o.,42285089.0,SRDCE,PS
-16314,2023-09-26,Bežný účet 5193505509,-18302.04,refakturacia nákladov na zloženie volebnej kaucie,42285089.0,SRDCE,PS
-16315,2023-09-26,Bežný účet 5193505509,-725.0,refakturacia nákladov na tlačovú konferenciu hotel Falkensteiner,42285089.0,SRDCE,PS
+16313,2023-09-26,Bežný účet 5193505509,-429.6,refakturácia úhrady reklamných predmetov od FIBRI s.r.o.,42285089.0,SRDCE,PS
+16314,2023-09-26,Vladimír Zeman,20000.0,pôžička na úhradu nákladov na voľby,450629.0,SRDCE,PS
+16315,2023-09-26,obec Dolná Strehová,-10.0,odvysielanie oznamu,2112300243.0,SRDCE,PS
 16338,2023-09-25,obec Šuja,-4.0,odvysielanie oznamu,20236.0,SRDCE,PS
-16343,2023-09-25,mesto Hriňová,-6.0,,1319300393.0,SRDCE,PS
-16342,2023-09-25,obec Štôla,-14.0,odvysielanie oznamu,202313.0,SRDCE,PS
-16341,2023-09-25,emacher s. r o.,-1200.0,úhrada strihu video prezentácií 4K,2023003312.0,SRDCE,PS
+16343,2023-09-25,obec Zbyňov,-10.0,Odvysielanie oznamu,20239.0,SRDCE,PS
+16342,2023-09-25,mesto Hriňová,-6.0,,1319300393.0,SRDCE,PS
+16341,2023-09-25,obec Štôla,-14.0,odvysielanie oznamu,202313.0,SRDCE,PS
 16340,2023-09-25,DIGITRA Net,-43.2,baner 2ks,162023414.0,SRDCE,PS
 16339,2023-09-25,obec Ožďany,-10.0,odvysielanie oznamu,202340.0,SRDCE,PS
-16331,2023-09-25,obec Mlynčeky,-10.0,odvysielanie oznamu,2023142.0,SRDCE,PS
-16337,2023-09-25,obec Zbyňov,-10.0,Odvysielanie oznamu,20239.0,SRDCE,PS
+16334,2023-09-25,obec Žiar,-5.0,odvysielanie oznamu,323017.0,SRDCE,PS
+16337,2023-09-25,emacher s. r o.,-1200.0,úhrada strihu video prezentácií 4K,2023003312.0,SRDCE,PS
 16336,2023-09-25,obec Ťapešovo,-20.0,odvyseilanie oznamu,2023330006.0,SRDCE,PS
 16335,2023-09-25,obec Bitarová,-4.0,odvysielanie oznamu,202318.0,SRDCE,PS
-16334,2023-09-25,obec Žiar,-5.0,odvysielanie oznamu,323017.0,SRDCE,PS
 16333,2023-09-25,obec Rajecká Lesná,-8.0,odvysielanie oznamu,20234.0,SRDCE,PS
 16332,2023-09-25,Lubomir Gergel,400.0,"Lubomir Gergel, Kratka 6, Humenne - DAR",,SRDCE,PS
-16355,2023-09-24,Haulík Peter,120.0,Haulik,,SRDCE,PS
-16354,2023-09-24,obec Lopušné Pažite,-10.0,odvysielanie oznamu,24092023.0,SRDCE,PS
-16353,2023-09-24,obec Jesenské,-10.0,hlásenie v miestnom rozhlase,1823.0,SRDCE,PS
-16352,2023-09-24,obec Divina,-20.0,vyhlásenie v miestnom rozhlase,2023032.0,SRDCE,PS
-16351,2023-09-24,obec Rakša,-10.0,platený oznam,622023.0,SRDCE,PS
+16331,2023-09-25,obec Mlynčeky,-10.0,odvysielanie oznamu,2023142.0,SRDCE,PS
 16350,2023-09-24,obec Podvysoká,-14.0,vyhlásenie v miestnom rozhlase,4.0,SRDCE,PS
-16349,2023-09-24,obec Ďanová,-5.0,vyhlásenie v MR,2308.0,SRDCE,PS
+16355,2023-09-24,obec Divina,-20.0,vyhlásenie v miestnom rozhlase,2023032.0,SRDCE,PS
+16354,2023-09-24,obec Jesenské,-10.0,hlásenie v miestnom rozhlase,1823.0,SRDCE,PS
+16352,2023-09-24,Haulík Peter,120.0,Haulik,,SRDCE,PS
+16351,2023-09-24,obec Lopušné Pažite,-10.0,odvysielanie oznamu,24092023.0,SRDCE,PS
+16353,2023-09-24,obec Rakša,-10.0,platený oznam,622023.0,SRDCE,PS
+16349,2023-09-24,obec Čepčín,-14.0,oznam v miestnom rozhlase,4018.0,SRDCE,PS
+16345,2023-09-24,obec Oravský Podzámok,-20.0,Odvysielanie oznamu,2023020.0,SRDCE,PS
+16344,2023-09-24,obec Ďanová,-5.0,vyhlásenie v MR,2308.0,SRDCE,PS
 16348,2023-09-24,obec B odorová,-6.0,vyhlásenie v miestnom rozhlase,6002.0,SRDCE,PS
+16346,2023-09-24,obec Vieska,-5.0,odvysielanie oznamu,2023000076.0,SRDCE,PS
 16347,2023-09-24,obec Bešeňová,-20.0,rozhlasový príhovor,2492023.0,SRDCE,PS
-16346,2023-09-24,obec Čepčín,-14.0,oznam v miestnom rozhlase,4018.0,SRDCE,PS
-16345,2023-09-24,obec Vieska,-5.0,odvysielanie oznamu,2023000076.0,SRDCE,PS
-16344,2023-09-24,obec Oravský Podzámok,-20.0,Odvysielanie oznamu,2023020.0,SRDCE,PS
 16356,2023-09-21,obec Priechod,-8.0,oznam obecný rozhlas,202323.0,SRDCE,PS
 16357,2023-09-21,mesto Rajec,-10.0,odvysielanie oznamu v mestskom rozhlase,9114300121.0,SRDCE,PS
 16358,2023-09-21,obec Záhorce,-20.0,odvysielanie oznamu v miestnom rozhlase,2023000018.0,SRDCE,PS
 16359,2023-09-21,obec Pôtor,-10.0,úhrada za vysielanie obecného rozhlasu,2023004.0,SRDCE,PS
 16360,2023-09-19,obec Turová,-6.0,odvysielanie príhovoru obecnom rozhlase,202312.0,SRDCE,PS
 16361,2023-09-19,obec Železná Breznica,-10.0,odvysielanie oznamu v mr,2023051.0,SRDCE,PS
-16363,2023-09-13,"RENGL Slovensko, s. r. o.",-641.09,výlepne plochy,1025155.0,SRDCE,PS
-16362,2023-09-13,Lubomir Gergel,200.0,DAR,,SRDCE,PS
-16365,2023-08-31,,-5.0,Zverejňovanie účtu,,SRDCE,PS
-16364,2023-08-31,,-5.0,Poplatok za vedenie účtu,,SRDCE,PS
-16366,2023-08-25,"Fibra print, s.r.o.",-443.4,reklamné tričká,2300686.0,SRDCE,PS
-16367,2023-08-25,"ISPA, spol. sr. o",-194.4,billboard - Píriová,23950221.0,SRDCE,PS
-16368,2023-08-25,"RENGL Slovensko, s. r. o.",-139.1,plagátová kampaň voľby 2023 - Píriová,1025141.0,SRDCE,PS
-16369,2023-08-25,Jaroslav Moravčík fotograf,-45.0,výroba kalendárikov - Píriová,382003.0,SRDCE,PS
-16370,2023-08-25,Jaroslav Moravčík fotograf,-230.0,foto portréty a grafika Piriová Hamšík Mikloško,372003.0,SRDCE,PS
+16362,2023-09-13,"RENGL Slovensko, s. r. o.",-641.09,výlepne plochy,1025155.0,SRDCE,PS
+16363,2023-09-13,Lubomir Gergel,200.0,DAR,,SRDCE,PS
+16364,2023-08-31,,-5.0,Zverejňovanie účtu,,SRDCE,PS
+16365,2023-08-31,,-5.0,Poplatok za vedenie účtu,,SRDCE,PS
+16368,2023-08-25,Jaroslav Moravčík fotograf,-45.0,výroba kalendárikov - Píriová,382003.0,SRDCE,PS
+16370,2023-08-25,"Fibra print, s.r.o.",-443.4,reklamné tričká,2300686.0,SRDCE,PS
+16369,2023-08-25,"ISPA, spol. sr. o",-194.4,billboard - Píriová,23950221.0,SRDCE,PS
+16367,2023-08-25,Jaroslav Moravčík fotograf,-230.0,foto portréty a grafika Piriová Hamšík Mikloško,372003.0,SRDCE,PS
+16366,2023-08-25,"RENGL Slovensko, s. r. o.",-139.1,plagátová kampaň voľby 2023 - Píriová,1025141.0,SRDCE,PS
 16371,2023-08-22,Lubomir Gergel,200.0,DAR,,SRDCE,PS
-16374,2023-08-17,Bežný účet 5193505509,-21600.0,refakturácia úhrady billboardov,2200962.0,SRDCE,PS
-16375,2023-08-17,Bartur s.r.o.,-370.0,úhrada grafických prác,122023.0,SRDCE,PS
-16373,2023-08-17,SRDCE - SNJ - SV,200.0,Miklosko+Piriova prevod prop.material+ fotograf,42285089.0,SRDCE,PS
-16372,2023-08-17,Vladimír Zeman,25000.0,pôžička,450629.0,SRDCE,PS
+16372,2023-08-17,Bartur s.r.o.,-370.0,úhrada grafických prác,122023.0,SRDCE,PS
+16373,2023-08-17,Bežný účet 5193505509,-21600.0,refakturácia úhrady billboardov,2200962.0,SRDCE,PS
+16374,2023-08-17,Vladimír Zeman,25000.0,pôžička,450629.0,SRDCE,PS
+16375,2023-08-17,SRDCE - SNJ - SV,200.0,Miklosko+Piriova prevod prop.material+ fotograf,42285089.0,SRDCE,PS
 16376,2023-08-15,"Hamšík Ivan, Ing.",100.0,PRISPEVOK,,SRDCE,PS
 16377,2023-08-14,MIKLOSKO MARIAN,100.0,JUDr. Marian Miklosko - vyroba bilbordov -reklama,,SRDCE,PS
 16378,2023-08-13,"Gavač Allan, Ing.",2000.0,konzultacna cinnost,,SRDCE,PS

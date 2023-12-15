@@ -1,806 +1,813 @@
 index,date,account_name,amount,message,vs,name,label
-13929,2023-10-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.10.2023 do 31.10.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 3 x prijaté platby: 0,00, 27 x debet - elektronicky: 0,00",,Aliancia,PS
-13931,2023-10-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.10.2023","VS: 495000303
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13930,2023-10-31,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 30.10.2023","VS: 295000303
+13908,2023-11-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.11.2023 do 30.11.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00",,Aliancia,PS
+13910,2023-11-30,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 29.11.2023","VS: 295000333
 ŠS: 3400429124
 KS: 6898",Aliancia,PS
-13932,2023-10-16,"micropix, s.r.o.",-348.0,"Odoslaná platba elektronicky, Vyroba letakov / pozvanky - volby NR SR 2023",VS: 23063,Aliancia,PS
-13937,2023-10-16,"micropix, s.r.o.",-199.2,"Odoslaná platba elektronicky, Vyroba letakov - volby NR SR 2023",VS: 23065,Aliancia,PS
-13939,2023-10-16,"H and K Plus s.r.o., ICO: 51471965",-1596.0,"Odoslaná platba elektronicky, Reklama v obecnych rozhlasoch - volby NR SR 2023",VS: 20230127,Aliancia,PS
-13938,2023-10-16,SZOVETSEG - ALIANCIA,2850.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 16102023,Aliancia,PS
-13933,2023-10-16,"EGM, s.r.o.",-50.0,"Odoslaná platba elektronicky, Facebook ads kampan - volby NR SR 2023",VS: 202300100,Aliancia,PS
-13936,2023-10-16,Denis Strapec,-267.0,"Odoslaná platba elektronicky, Letaky A5 - volby NR SR 2023",VS: 230168,Aliancia,PS
-13934,2023-10-16,FriTom Media s.r.o.,-848.0,"Odoslaná platba elektronicky, Letaky,kalendare,graficka praca - volby NR SR 2023",VS: 202310001,Aliancia,PS
-13935,2023-10-16,"TRANSNET, spol. s r.o.",-120.0,"Odoslaná platba elektronicky, Marketingove sluzby - volby NR SR 2023",VS: 2023014,Aliancia,PS
-13940,2023-10-09,Interregionalny vyskumno-rozvojovy institut,-9120.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury - kampan NR SR 2023",VS: 20230004,Aliancia,PS
-13941,2023-10-09,SZOVETSEG - ALIANCIA,20000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 09102023,Aliancia,PS
-13942,2023-10-09,MultiMedia s.r.o.,-1396.8,"Odoslaná platba elektronicky, Samolepiace folie, CLV plagat, plagaty",VS: 230900039,Aliancia,PS
-13943,2023-10-09,Frantisek Fazekas - Graphic Design,-360.0,"Odoslaná platba elektronicky, Poskytnuta sluzba - potlac na dresy - kampan NR SR 2023",VS: 312023,Aliancia,PS
-13944,2023-10-09,Ladislav Toth - SOUND SERVIS,-3000.0,"Odoslaná platba elektronicky, Technicke zabezpecenie ozvucenia a prenajom podia dna 14.9.2023",VS: 612023,Aliancia,PS
-13945,2023-10-09,"VALEUR, s.r.o.",-804.0,"Odoslaná platba elektronicky, Letaky s programom A4 - kampan NR SR 2023",VS: 7082023,Aliancia,PS
-13946,2023-10-09,"EGM, s.r.o.",-3398.0,"Odoslaná platba elektronicky, Graficke a marketingove sluzby za 9/2023 - kampan NR SR 2023",VS: 202300099,Aliancia,PS
-13947,2023-10-09,"SAD Dunajska Streda, a.s.",-1440.0,"Odoslaná platba elektronicky, Prenajom reklamnych nosicov na autobusoch SAD za 9/2023 - kampan NR SR 2023",VS: 552300023,Aliancia,PS
-13948,2023-10-09,Mestske kulturne stredisko Beni Egressyho,-1500.0,"Odoslaná platba elektronicky, Prenajom miestnosti v MsKs Komarno- dna 27.9.2023 - kampan NR SR 2023","VS: 1023082
-KS: 0308",Aliancia,PS
-13949,2023-10-05,Ministerstvo financii SR - odbor suhrnneho vykaznicta statu,-2.0,"Odoslaná platba elektronicky, Vratenie neprijateho daru do statneho rozpoctu",,Aliancia,PS
-13951,2023-10-04,,-389.84,"Transakcia platobnou kartou, Suma: 389,84 EUR 02.10.2023 Miesto: FACEBK *F2M6XRBDA2 fb.me/ads","VS: 405000276
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13950,2023-10-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.10.2023","VS: 497000276
+13909,2023-11-30,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.11.2023","VS: 495000333
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13952,2023-10-03,JANOS MERY,414.0,"Prijatá platba, Ajandek - dar",,Aliancia,PS
-13953,2023-10-02,REVI-SK. spol. s r.o.,-5689.2,"Odoslaná platba elektronicky, Reklamne sluzby, prenajom, tlac, vylep - kampan NR SR 2023",VS: 202309037,Aliancia,PS
-13954,2023-10-02,Mesto Kralovsky Chlmec,-620.0,"Odoslaná platba elektronicky, Najomne za uzivanie nebytoveho priestoru v MsKs dna 24.9.2023 v case od 16:00 do 20:00 - kampan NR SR 2023",VS: 9117300034,Aliancia,PS
-13955,2023-10-02,"EGM, s.r.o.",-600.0,"Odoslaná platba elektronicky, Facebook reklamy - Menyhart Jozsef - kampan NR SR 2023","VS: 202300097
-KS: 0308",Aliancia,PS
-13956,2023-10-02,Obec Ziharec,-30.0,"Odoslaná platba elektronicky, Najomne za prenajom nebytovych priestorov v budove Kulturno - spolocenskeho a informacneho centra Ziharec dna 20.9.2023 - kampan NR SR 2023",VS: 1319300050,Aliancia,PS
-13957,2023-10-02,Adlion s.r.o.,-450.0,"Odoslaná platba elektronicky, Bannery,letaky,plagaty - kampan NR SR 2023","VS: 230073
-KS: 0308",Aliancia,PS
-13958,2023-10-02,OZ Matusova zem - Matyusfold PT,-200.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu c. August a September 2023 - kampan NR SR 2023",VS: 2023058,Aliancia,PS
-13959,2023-10-02,EPS Design s.r.o.,-486.0,"Odoslaná platba elektronicky, Bannery,letaky,graficka praca - kampan NR SR 2023",VS: 20230096,Aliancia,PS
-13960,2023-10-02,"Web and go design, s.r.o. ICO: 52378373",-414.0,"Odoslaná platba elektronicky, Tlac letakov A6 a plagatov A3 - kampan NR SR 2023",VS: 20230223,Aliancia,PS
-13961,2023-10-02,"EGM, s.r.o.",-1110.0,"Odoslaná platba elektronicky, Facebook kampane, graficke prace - kampan NR SR 2023","VS: 202300096
-KS: 0308",Aliancia,PS
-13962,2023-10-02,"Grafis Media, s.r.o.",-100.0,"Odoslaná platba elektronicky, Plagaty A3 - Karaffa Attila kampan NR SR 2023",VS: 10230232,Aliancia,PS
-13963,2023-10-02,Karol Bodo,-300.0,"Odoslaná platba elektronicky, Videozaznam pocas kampane - volby NR SR 2023","VS: 2301026
-KS: 0308",Aliancia,PS
-13964,2023-09-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.09.2023 do 30.09.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 45 x prijaté platby: 0,00, 93 x debet - elektronicky: 0,00",,Aliancia,PS
-13965,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK JVXVWR3DA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13975,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13982,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK H4DN9RKDA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13981,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13980,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13979,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13966,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK S3XVNRXCA2 fb.me/ads","VS: 205000271
-ŠS: 3400429124
-KS: 0608",Aliancia,PS
-13977,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13976,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK XXHYRRBDA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13978,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13974,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK TE5W2STCA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13973,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK NTCLZRKCA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13972,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK GGEJNRXCA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13971,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK QDFSWR3DA2 fb.me/ads","VS: 405000271
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13970,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-13969,2023-09-29,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.09.2023","VS: 295000271
+13911,2023-10-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.10.2023 do 31.10.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 3 x prijaté platby: 0,00, 27 x debet - elektronicky: 0,00",,Aliancia,PS
+13912,2023-10-31,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 30.10.2023","VS: 295000303
 ŠS: 3400429124
 KS: 6898",Aliancia,PS
-13968,2023-09-29,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.09.2023","VS: 495000271
+13913,2023-10-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.10.2023","VS: 495000303
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13967,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+13918,2023-10-16,"TRANSNET, spol. s r.o.",-120.0,"Odoslaná platba elektronicky, Marketingove sluzby - volby NR SR 2023",VS: 2023014,Aliancia,PS
+13921,2023-10-16,SZOVETSEG - ALIANCIA,2850.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 16102023,Aliancia,PS
+13920,2023-10-16,"micropix, s.r.o.",-199.2,"Odoslaná platba elektronicky, Vyroba letakov - volby NR SR 2023",VS: 23065,Aliancia,PS
+13919,2023-10-16,Denis Strapec,-267.0,"Odoslaná platba elektronicky, Letaky A5 - volby NR SR 2023",VS: 230168,Aliancia,PS
+13917,2023-10-16,FriTom Media s.r.o.,-848.0,"Odoslaná platba elektronicky, Letaky,kalendare,graficka praca - volby NR SR 2023",VS: 202310001,Aliancia,PS
+13916,2023-10-16,"EGM, s.r.o.",-50.0,"Odoslaná platba elektronicky, Facebook ads kampan - volby NR SR 2023",VS: 202300100,Aliancia,PS
+13915,2023-10-16,"H and K Plus s.r.o., ICO: 51471965",-1596.0,"Odoslaná platba elektronicky, Reklama v obecnych rozhlasoch - volby NR SR 2023",VS: 20230127,Aliancia,PS
+13914,2023-10-16,"micropix, s.r.o.",-348.0,"Odoslaná platba elektronicky, Vyroba letakov / pozvanky - volby NR SR 2023",VS: 23063,Aliancia,PS
+13922,2023-10-09,Ladislav Toth - SOUND SERVIS,-3000.0,"Odoslaná platba elektronicky, Technicke zabezpecenie ozvucenia a prenajom podia dna 14.9.2023",VS: 612023,Aliancia,PS
+13923,2023-10-09,SZOVETSEG - ALIANCIA,20000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 09102023,Aliancia,PS
+13924,2023-10-09,MultiMedia s.r.o.,-1396.8,"Odoslaná platba elektronicky, Samolepiace folie, CLV plagat, plagaty",VS: 230900039,Aliancia,PS
+13925,2023-10-09,Frantisek Fazekas - Graphic Design,-360.0,"Odoslaná platba elektronicky, Poskytnuta sluzba - potlac na dresy - kampan NR SR 2023",VS: 312023,Aliancia,PS
+13926,2023-10-09,"VALEUR, s.r.o.",-804.0,"Odoslaná platba elektronicky, Letaky s programom A4 - kampan NR SR 2023",VS: 7082023,Aliancia,PS
+13927,2023-10-09,Interregionalny vyskumno-rozvojovy institut,-9120.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury - kampan NR SR 2023",VS: 20230004,Aliancia,PS
+13928,2023-10-09,"EGM, s.r.o.",-3398.0,"Odoslaná platba elektronicky, Graficke a marketingove sluzby za 9/2023 - kampan NR SR 2023",VS: 202300099,Aliancia,PS
+13929,2023-10-09,"SAD Dunajska Streda, a.s.",-1440.0,"Odoslaná platba elektronicky, Prenajom reklamnych nosicov na autobusoch SAD za 9/2023 - kampan NR SR 2023",VS: 552300023,Aliancia,PS
+13930,2023-10-09,Mestske kulturne stredisko Beni Egressyho,-1500.0,"Odoslaná platba elektronicky, Prenajom miestnosti v MsKs Komarno- dna 27.9.2023 - kampan NR SR 2023","VS: 1023082
+KS: 0308",Aliancia,PS
+13931,2023-10-05,Ministerstvo financii SR - odbor suhrnneho vykaznicta statu,-2.0,"Odoslaná platba elektronicky, Vratenie neprijateho daru do statneho rozpoctu",,Aliancia,PS
+13932,2023-10-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.10.2023","VS: 497000276
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13933,2023-10-04,,-389.84,"Transakcia platobnou kartou, Suma: 389,84 EUR 02.10.2023 Miesto: FACEBK *F2M6XRBDA2 fb.me/ads","VS: 405000276
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13934,2023-10-03,JANOS MERY,414.0,"Prijatá platba, Ajandek - dar",,Aliancia,PS
+13940,2023-10-02,Obec Ziharec,-30.0,"Odoslaná platba elektronicky, Najomne za prenajom nebytovych priestorov v budove Kulturno - spolocenskeho a informacneho centra Ziharec dna 20.9.2023 - kampan NR SR 2023",VS: 1319300050,Aliancia,PS
+13945,2023-10-02,"Web and go design, s.r.o. ICO: 52378373",-414.0,"Odoslaná platba elektronicky, Tlac letakov A6 a plagatov A3 - kampan NR SR 2023",VS: 20230223,Aliancia,PS
+13944,2023-10-02,"Grafis Media, s.r.o.",-100.0,"Odoslaná platba elektronicky, Plagaty A3 - Karaffa Attila kampan NR SR 2023",VS: 10230232,Aliancia,PS
+13942,2023-10-02,Karol Bodo,-300.0,"Odoslaná platba elektronicky, Videozaznam pocas kampane - volby NR SR 2023","VS: 2301026
+KS: 0308",Aliancia,PS
+13941,2023-10-02,EPS Design s.r.o.,-486.0,"Odoslaná platba elektronicky, Bannery,letaky,graficka praca - kampan NR SR 2023",VS: 20230096,Aliancia,PS
+13943,2023-10-02,"EGM, s.r.o.",-1110.0,"Odoslaná platba elektronicky, Facebook kampane, graficke prace - kampan NR SR 2023","VS: 202300096
+KS: 0308",Aliancia,PS
+13939,2023-10-02,Adlion s.r.o.,-450.0,"Odoslaná platba elektronicky, Bannery,letaky,plagaty - kampan NR SR 2023","VS: 230073
+KS: 0308",Aliancia,PS
+13938,2023-10-02,OZ Matusova zem - Matyusfold PT,-200.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu c. August a September 2023 - kampan NR SR 2023",VS: 2023058,Aliancia,PS
+13937,2023-10-02,"EGM, s.r.o.",-600.0,"Odoslaná platba elektronicky, Facebook reklamy - Menyhart Jozsef - kampan NR SR 2023","VS: 202300097
+KS: 0308",Aliancia,PS
+13936,2023-10-02,Mesto Kralovsky Chlmec,-620.0,"Odoslaná platba elektronicky, Najomne za uzivanie nebytoveho priestoru v MsKs dna 24.9.2023 v case od 16:00 do 20:00 - kampan NR SR 2023",VS: 9117300034,Aliancia,PS
+13935,2023-10-02,REVI-SK. spol. s r.o.,-5689.2,"Odoslaná platba elektronicky, Reklamne sluzby, prenajom, tlac, vylep - kampan NR SR 2023",VS: 202309037,Aliancia,PS
+13946,2023-09-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.09.2023 do 30.09.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 45 x prijaté platby: 0,00, 93 x debet - elektronicky: 0,00",,Aliancia,PS
+13956,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK TE5W2STCA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13964,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK XXHYRRBDA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13962,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13961,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13960,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13959,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13958,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13957,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13963,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK H4DN9RKDA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13955,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK NTCLZRKCA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13953,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK QDFSWR3DA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13952,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000271
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13951,2023-09-29,,-3.0,"Poplatok platobné karty, Miesto: MC BUSINESS DEBETNA CL Suma: 3 EUR 28.09.2023","VS: 295000271
 ŠS: 3400429124
 KS: 6898",Aliancia,PS
-13998,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13950,2023-09-29,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.09.2023","VS: 495000271
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13997,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000270
+13949,2023-09-29,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 297000271
+ŠS: 3400429124
+KS: 6898",Aliancia,PS
+13947,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK JVXVWR3DA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13948,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK S3XVNRXCA2 fb.me/ads","VS: 205000271
+ŠS: 3400429124
+KS: 0608",Aliancia,PS
+13954,2023-09-29,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK GGEJNRXCA2 fb.me/ads","VS: 405000271
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13973,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13996,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13980,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13995,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13979,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13991,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13978,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13994,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13977,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13993,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13976,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13992,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
+13975,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-13987,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK 7HZFYRKCA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13990,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK XEB4LRFDA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13985,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK N2V8MRXCA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13989,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK QPUJ8RKDA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13983,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK CYPDYRFCA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13984,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK PKMCQRBDA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13986,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK GG688RKDA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-13988,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK 8VWEMSPCA2 fb.me/ads","VS: 405000270
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14017,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+13974,2023-09-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000270
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14011,2023-09-27,SZOVETSEG - ALIANCIA,10000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 27092023,Aliancia,PS
-14023,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK ZMKVKSPCA2 fb.me/ads","VS: 405000269
+13972,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK XEB4LRFDA2 fb.me/ads","VS: 405000270
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14022,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK MTGCLRXCA2 fb.me/ads","VS: 405000269
+13971,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK QPUJ8RKDA2 fb.me/ads","VS: 405000270
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14021,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK 5L3PWRFCA2 fb.me/ads","VS: 405000269
+13970,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK 8VWEMSPCA2 fb.me/ads","VS: 405000270
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14020,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK CXKRPRBDA2 fb.me/ads","VS: 405000269
+13969,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK 7HZFYRKCA2 fb.me/ads","VS: 405000270
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14019,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK 8VSF7RKDA2 fb.me/ads","VS: 405000269
+13968,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK GG688RKDA2 fb.me/ads","VS: 405000270
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14018,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+13967,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK N2V8MRXCA2 fb.me/ads","VS: 405000270
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13966,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK PKMCQRBDA2 fb.me/ads","VS: 405000270
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13965,2023-09-28,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 27.09.2023 Miesto: FACEBK CYPDYRFCA2 fb.me/ads","VS: 405000270
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14000,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14016,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+13996,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14015,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000269
+13997,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 26.09.2023","VS: 497000269
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14013,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK JFLLLSPCA2 fb.me/ads","VS: 405000269
+13998,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+13999,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14003,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK 5L3PWRFCA2 fb.me/ads","VS: 405000269
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14012,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+14001,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK 8VSF7RKDA2 fb.me/ads","VS: 405000269
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14002,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK CXKRPRBDA2 fb.me/ads","VS: 405000269
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13994,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14014,2023-09-27,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000269
+14004,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK MTGCLRXCA2 fb.me/ads","VS: 405000269
 ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14010,2023-09-27,MsKS Benedeka Csaplara - Csaplar Benedek VMK,-710.0,"Odoslaná platba elektronicky, Prenajom v meste Dunajska Streda dna 26.9.2023 - divadelna sala,zasadacia miestnost,vstupna aula, satna - kampan NR SR 2023",VS: 230045,Aliancia,PS
-14003,2023-09-27,Kolozsi Peter - KOLOREK,-182.4,"Odoslaná platba elektronicky, Plosny inzerat Horvath Zoltan v KN Gratise 19/23","VS: 2023168
+KS: 0608",Aliancia,PS
+14005,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK ZMKVKSPCA2 fb.me/ads","VS: 405000269
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13995,2023-09-27,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 26.09.2023 Miesto: FACEBK JFLLLSPCA2 fb.me/ads","VS: 405000269
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+13987,2023-09-27,BARTOS GERGELY,11.0,"Prijatá platba, Dar - Bartos",,Aliancia,PS
+13993,2023-09-27,SZOVETSEG - ALIANCIA,10000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 27092023,Aliancia,PS
+13985,2023-09-27,Kolozsi Peter - KOLOREK,-182.4,"Odoslaná platba elektronicky, Plosny inzerat Horvath Zoltan v KN Gratise 19/23","VS: 2023168
 KS: 0308",Aliancia,PS
-14009,2023-09-27,Csaba Furik,500.0,"Prijatá platba, Dar, Furik Csaba Maly Hores",,Aliancia,PS
-13999,2023-09-27,MOZES SZABOLCS,1435.0,"Prijatá platba, Dar - Szabolcs MOzes",,Aliancia,PS
-14000,2023-09-27,Annamaria Corosova - FLASH COMPANY,-8520.0,"Odoslaná platba elektronicky, Tlac - bannery,vreckove kalendare,letaky,plagaty - kampan NR SR 2023",VS: 23196,Aliancia,PS
-14002,2023-09-27,Arnold Kovac - PrintAli,-828.0,"Odoslaná platba elektronicky, Vyroba letakov A5 - kampan NR SR 2023","VS: 20230657
+13992,2023-09-27,MsKS Benedeka Csaplara - Csaplar Benedek VMK,-710.0,"Odoslaná platba elektronicky, Prenajom v meste Dunajska Streda dna 26.9.2023 - divadelna sala,zasadacia miestnost,vstupna aula, satna - kampan NR SR 2023",VS: 230045,Aliancia,PS
+13981,2023-09-27,MOZES SZABOLCS,1435.0,"Prijatá platba, Dar - Szabolcs MOzes",,Aliancia,PS
+13982,2023-09-27,Annamaria Corosova - FLASH COMPANY,-8520.0,"Odoslaná platba elektronicky, Tlac - bannery,vreckove kalendare,letaky,plagaty - kampan NR SR 2023",VS: 23196,Aliancia,PS
+13984,2023-09-27,Arnold Kovac - PrintAli,-828.0,"Odoslaná platba elektronicky, Vyroba letakov A5 - kampan NR SR 2023","VS: 20230657
 KS: 0308",Aliancia,PS
-14001,2023-09-27,Judr. Tibor Nagy,-1369.64,"Odoslaná platba elektronicky, Uverejnenie inzercie v Castrum Novum . kampan NR SR 2023","VS: 2023002
+13983,2023-09-27,Judr. Tibor Nagy,-1369.64,"Odoslaná platba elektronicky, Uverejnenie inzercie v Castrum Novum . kampan NR SR 2023","VS: 2023002
 KS: 0308",Aliancia,PS
-14004,2023-09-27,"CreAD SK, s.r.o.",-1500.0,"Odoslaná platba elektronicky, Marketingove sluzby - kampan NR SR 2023",VS: 23134,Aliancia,PS
-14005,2023-09-27,BARTOS GERGELY,11.0,"Prijatá platba, Dar - Bartos",,Aliancia,PS
-14006,2023-09-27,NAGY DAVID,2730.0,"Prijatá platba, ",,Aliancia,PS
-14007,2023-09-27,"DUEL - PRESS, s.r.o.",-697.2,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 26.9.2023 - kampan NR SR 2023",VS: 7022301605,Aliancia,PS
-14008,2023-09-27,Jozsef Berenyi,2596.8,"Prijatá platba, Dar/Ajndek",,Aliancia,PS
-14044,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK KDQRKT7DA2 fb.me/ads","VS: 405000268
+13986,2023-09-27,"CreAD SK, s.r.o.",-1500.0,"Odoslaná platba elektronicky, Marketingove sluzby - kampan NR SR 2023",VS: 23134,Aliancia,PS
+13988,2023-09-27,NAGY DAVID,2730.0,"Prijatá platba, ",,Aliancia,PS
+13989,2023-09-27,"DUEL - PRESS, s.r.o.",-697.2,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 26.9.2023 - kampan NR SR 2023",VS: 7022301605,Aliancia,PS
+13990,2023-09-27,Jozsef Berenyi,2596.8,"Prijatá platba, Dar/Ajndek",,Aliancia,PS
+13991,2023-09-27,Csaba Furik,500.0,"Prijatá platba, Dar, Furik Csaba Maly Hores",,Aliancia,PS
+14027,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK RT9UXRTCA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14039,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK U748UR3DA2 fb.me/ads","VS: 405000268
+14022,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14023,2023-09-26,"DUEL - PRESS, s.r.o.",-996.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 27.9.2023 - kampan NR SR 2023",VS: 7012300642,Aliancia,PS
+14024,2023-09-26,Amavera s.r.o.,-5700.0,"Odoslaná platba elektronicky, Facebook reklama, reklamne sluzby - kampan NR SR 2023",VS: 20230035,Aliancia,PS
+14025,2023-09-26,GF Design s.r.o.,-91.0,"Odoslaná platba elektronicky, Letaky A5-obojtranna farebna potlac - kampan NR SR 2023",VS: 20230076,Aliancia,PS
+14026,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 25.09.2023 Miesto: FACEBK KDQRKT7DA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14040,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
+14020,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14041,2023-09-26,"DUEL - PRESS, s.r.o.",-996.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 27.9.2023 - kampan NR SR 2023",VS: 7012300642,Aliancia,PS
-14042,2023-09-26,Amavera s.r.o.,-5700.0,"Odoslaná platba elektronicky, Facebook reklama, reklamne sluzby - kampan NR SR 2023",VS: 20230035,Aliancia,PS
-14043,2023-09-26,GF Design s.r.o.,-91.0,"Odoslaná platba elektronicky, Letaky A5-obojtranna farebna potlac - kampan NR SR 2023",VS: 20230076,Aliancia,PS
-14050,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK TBTSJSPCA2 fb.me/ads","VS: 405000268
+14028,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK 7AGYXRTCA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14045,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14046,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK 7AGYXRTCA2 fb.me/ads","VS: 405000268
+14029,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK M78HNRBDA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14047,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK M78HNRBDA2 fb.me/ads","VS: 405000268
+14030,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14031,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK QHTKXRTCA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14048,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK RT9UXRTCA2 fb.me/ads","VS: 405000268
+14032,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK TBTSJSPCA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14049,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK QHTKXRTCA2 fb.me/ads","VS: 405000268
+14021,2023-09-26,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 24.09.2023 Miesto: FACEBK U748UR3DA2 fb.me/ads","VS: 405000268
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14038,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
+14015,2023-09-26,Peter Koponcei,1500.0,"Prijatá platba, dar_Koponcei",,Aliancia,PS
+14019,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14036,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000268
+14012,2023-09-26,"Fantazia media, s.r.o.",-222.0,"Odoslaná platba elektronicky, Uverejnenie inzercie v casopise Slovo Salanov 7/2023 - kampan NR SR 2023",VS: 2023184,Aliancia,PS
+14018,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.09.2023","VS: 497000268
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14037,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
+14008,2023-09-26,SZOVETSEG - ALIANCIA,10000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 26092023,Aliancia,PS
+14009,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14028,2023-09-26,"CLIENT SERVICE, s.r.o.",-1240.8,"Odoslaná platba elektronicky, Letaky A5, plagaty A3, billboardovy plagat, lepenie - kampan NR SR 2023",VS: 10230559,Aliancia,PS
-14035,2023-09-26,Zsolt Baranyay,500.0,"Prijatá platba, dar",VS: 780703,Aliancia,PS
-14024,2023-09-26,"DUEL - PRESS, s.r.o.",-1344.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 27.9.2023-kampan NR SR 2023",VS: 7012300641,Aliancia,PS
-14025,2023-09-26,SZOVETSEG - ALIANCIA,10000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 26092023,Aliancia,PS
-14026,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
+14010,2023-09-26,"CLIENT SERVICE, s.r.o.",-1240.8,"Odoslaná platba elektronicky, Letaky A5, plagaty A3, billboardovy plagat, lepenie - kampan NR SR 2023",VS: 10230559,Aliancia,PS
+14011,2023-09-26,EPS Design s.r.o.,-1036.8,"Odoslaná platba elektronicky, Bannery do exterieru - volby NR SR 2023",VS: 20230093,Aliancia,PS
+14007,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14027,2023-09-26,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 24.09.2023","VS: 497000268
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14034,2023-09-26,Jozef Zelinsky,200.0,"Prijatá platba, Dar",,Aliancia,PS
-14029,2023-09-26,EPS Design s.r.o.,-1036.8,"Odoslaná platba elektronicky, Bannery do exterieru - volby NR SR 2023",VS: 20230093,Aliancia,PS
-14031,2023-09-26,VALAKOVICS NIKOLAS,450.0,"Prijatá platba, Dar - Gabriel Nyul",,Aliancia,PS
-14032,2023-09-26,Sport klub Tomasov,-50.0,"Odoslaná platba elektronicky, Prenajom reklamnej plochy v obci Tomasov - volby NR SR 2023",VS: 2023010,Aliancia,PS
-14033,2023-09-26,Peter Koponcei,1500.0,"Prijatá platba, dar_Koponcei",,Aliancia,PS
-14030,2023-09-26,"Fantazia media, s.r.o.",-222.0,"Odoslaná platba elektronicky, Uverejnenie inzercie v casopise Slovo Salanov 7/2023 - kampan NR SR 2023",VS: 2023184,Aliancia,PS
-14086,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK PSA7MRBDA2 fb.me/ads","VS: 405000267
+14013,2023-09-26,VALAKOVICS NIKOLAS,450.0,"Prijatá platba, Dar - Gabriel Nyul",,Aliancia,PS
+14006,2023-09-26,"DUEL - PRESS, s.r.o.",-1344.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 27.9.2023-kampan NR SR 2023",VS: 7012300641,Aliancia,PS
+14016,2023-09-26,Jozef Zelinsky,200.0,"Prijatá platba, Dar",,Aliancia,PS
+14017,2023-09-26,Zsolt Baranyay,500.0,"Prijatá platba, dar",VS: 780703,Aliancia,PS
+14014,2023-09-26,Sport klub Tomasov,-50.0,"Odoslaná platba elektronicky, Prenajom reklamnej plochy v obci Tomasov - volby NR SR 2023",VS: 2023010,Aliancia,PS
+14067,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK 6V55JT7DA2 fb.me/ads","VS: 405000267
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14091,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
+14072,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14090,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
+14070,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14088,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
+14069,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14087,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14083,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK CGCQGRFDA2 fb.me/ads","VS: 405000267
+14068,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK PSA7MRBDA2 fb.me/ads","VS: 405000267
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14085,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK 6V55JT7DA2 fb.me/ads","VS: 405000267
+14065,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK CGCQGRFDA2 fb.me/ads","VS: 405000267
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14084,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK A4WNSR3DA2 fb.me/ads","VS: 405000267
+14066,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK A4WNSR3DA2 fb.me/ads","VS: 405000267
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14082,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK UDUUGRFDA2 fb.me/ads","VS: 405000267
+14064,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 23.09.2023 Miesto: FACEBK UDUUGRFDA2 fb.me/ads","VS: 405000267
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14081,2023-09-25,KARAFFA ATTILA,80.0,"Prijatá platba, Dar",,Aliancia,PS
-14080,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000265
+14063,2023-09-25,KARAFFA ATTILA,80.0,"Prijatá platba, Dar",,Aliancia,PS
+14062,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000265
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14092,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14095,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14094,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14078,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14096,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK LLW5SR3DA2 fb.me/ads","VS: 405000266
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14097,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14098,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK 9DNYRR3DA2 fb.me/ads","VS: 405000266
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14099,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK KS3WGT7DA2 fb.me/ads","VS: 405000266
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14100,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK 4CVBVRTCA2 fb.me/ads","VS: 405000266
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14101,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK 4V34HSPCA2 fb.me/ads","VS: 405000266
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14102,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14103,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14104,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000265
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14105,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14079,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14093,2023-09-25,"EGM, s.r.o.",-4100.0,"Odoslaná platba elektronicky, Facebook kampane-Nove Zamky - volby NR SR 2023","VS: 202300094
+14074,2023-09-25,Cruel Creatives s.r.o.,-3360.0,"Odoslaná platba elektronicky, Konzultacie v oblasti digitalneho marketingu za september/2023 - volby NR SR 2023","VS: 2315146
 KS: 0308",Aliancia,PS
-14077,2023-09-25,HALASZ BELA,120.0,"Prijatá platba, dar",,Aliancia,PS
-14063,2023-09-25,Kolozsi Peter - KOLOREK,-354.0,"Odoslaná platba elektronicky, Plosny inzerat v KN Gratise c. 19/23 - kampan NR SR 2023","VS: 2023162
-KS: 0308",Aliancia,PS
-14076,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK QP5CGT7DA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14051,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK 7EYXQR3DA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14052,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK 9CJ9JRBDA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14053,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK PJT9KRBDA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14054,2023-09-25,"Petit Press, a.s.",-204.0,"Odoslaná platba elektronicky, Inzerat 28.8.2023 My kandidati Nitrianskeho kraja priloha A4 - kampan NR SR 2023","VS: 2335108973
-KS: 0308",Aliancia,PS
-14055,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK PZ8MFT7DA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14056,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK P73TQR3DA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14057,2023-09-25,"ISCON, s.r.o.",-216.0,"Odoslaná platba elektronicky, Vyvesenie plachty na bigboard/US Steel Kosice-Saca/-kampan NR SR 2023",VS: 1262023,Aliancia,PS
-14058,2023-09-25,"EGM, s.r.o.",-14160.0,"Odoslaná platba elektronicky, Google ads kampane - volby NR SR 2023",VS: 202300095,Aliancia,PS
-14059,2023-09-25,Cruel Creatives s.r.o.,-3360.0,"Odoslaná platba elektronicky, Konzultacie v oblasti digitalneho marketingu za september/2023 - volby NR SR 2023","VS: 2315146
-KS: 0308",Aliancia,PS
-14060,2023-09-25,Kolozsi Peter - KOLOREK,-120.0,"Odoslaná platba elektronicky, Plosny inzerat v KN Gratise c. 19/23 - kampan NR SR 2023",VS: 2023171,Aliancia,PS
-14061,2023-09-25,Graphic s.r.o.,-3628.0,"Odoslaná platba elektronicky, Marketingove sluzby-bannery,reklamne predmety,graficka uprava - kampan NR SR 2023",VS: 20230202,Aliancia,PS
-14062,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK LBDLESPCA2 fb.me/ads","VS: 405000265
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14089,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
+14073,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14064,2023-09-25,SZOVETSEG - ALIANCIA,15000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 25092023,Aliancia,PS
-14066,2023-09-25,MultiMedia s.r.o.,-2016.0,"Odoslaná platba elektronicky, Tlaciarenske sluzby, vylep billboardov - kampan NR SR 2023",VS: 230900038,Aliancia,PS
-14065,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
+14080,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14067,2023-09-25,WADO s.r.o.,-4000.0,"Odoslaná platba elektronicky, Marketingove prace - kampan NR SR 2023","VS: 2023035
-KS: 0308",Aliancia,PS
-14068,2023-09-25,Arnold Kovac - PrintAli,-216.0,"Odoslaná platba elektronicky, Vyroba plagatov A2/poster/ - kampan NR SR 2023","VS: 20230658
-KS: 0308",Aliancia,PS
-14069,2023-09-25,B.S.Moto s.r.o.,-384.0,"Odoslaná platba elektronicky, Prenajom reklamnej tabule za 8/2023, 9/2023 - kampan NR SR 2023",VS: 112302039,Aliancia,PS
-14070,2023-09-25,Arnold Kovac - PrintAli,-204.0,"Odoslaná platba elektronicky, Billboardy v ramci kampane NR SR 2023","VS: 20230606
-KS: 0308",Aliancia,PS
-14071,2023-09-25,SZOVETSEG - ALIANCIA,25000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 25092023,Aliancia,PS
-14072,2023-09-25,Jozsef Menyhart,1300.0,"Prijatá platba, ",,Aliancia,PS
-14073,2023-09-25,Jozef Zelinsky,300.0,"Prijatá platba, Dar",,Aliancia,PS
-14074,2023-09-25,Aneta Forrova,5000.0,"Prijatá platba, Aneta Forrova DAR",VS: 20230922,Aliancia,PS
-14075,2023-09-25,Farkas Tibor,2000.0,"Prijatá platba, Dar",,Aliancia,PS
-14110,2023-09-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000264
+14075,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14113,2023-09-22,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK DXRNTRTCA2 fb.me/ads","VS: 405000264
+14076,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK 4CVBVRTCA2 fb.me/ads","VS: 405000266
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14112,2023-09-22,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK 8P9NJRBDA2 fb.me/ads","VS: 405000264
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14111,2023-09-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000264
+14077,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14109,2023-09-22,BARTOS GERGELY,894.0,"Prijatá platba, Dar - Bartos",,Aliancia,PS
-14108,2023-09-22,JANOS MERY,216.0,"Prijatá platba, ajandek (dar)",,Aliancia,PS
-14106,2023-09-22,"EGM, s.r.o.",-7398.0,"Odoslaná platba elektronicky, Google Ads kampan, administracia Google Ads kampane - volby do NR SR 2023",VS: 202300093,Aliancia,PS
-14107,2023-09-22,Farkas Tibor,2500.0,"Prijatá platba, Dar",,Aliancia,PS
-14123,2023-09-21,Mestske kulturne stredisko,-169.2,"Odoslaná platba elektronicky, Uverejnenie reklamnej inzercie v 9. cisle regionalneho mesacnika Parkany es Videke - Sturovo a okolie - kampan NR SR 2023","VS: 2023035
+14078,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000265
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14079,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14060,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14081,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK 4V34HSPCA2 fb.me/ads","VS: 405000266
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14082,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK KS3WGT7DA2 fb.me/ads","VS: 405000266
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14083,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK 9DNYRR3DA2 fb.me/ads","VS: 405000266
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14084,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 22.09.2023 Miesto: FACEBK LLW5SR3DA2 fb.me/ads","VS: 405000266
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14085,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14086,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14087,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14061,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.09.2023","VS: 497000266
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14071,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 23.09.2023","VS: 497000267
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14059,2023-09-25,"Petit Press, a.s.",-204.0,"Odoslaná platba elektronicky, Inzerat 28.8.2023 My kandidati Nitrianskeho kraja priloha A4 - kampan NR SR 2023","VS: 2335108973
 KS: 0308",Aliancia,PS
-14132,2023-09-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2023","VS: 497000264
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14131,2023-09-21,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 19.09.2023 Miesto: FACEBK PF66ERXCA2 fb.me/ads","VS: 405000264
+14045,2023-09-25,SZOVETSEG - ALIANCIA,15000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 25092023,Aliancia,PS
+14033,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK 7EYXQR3DA2 fb.me/ads","VS: 405000265
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14130,2023-09-21,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 19.09.2023 Miesto: FACEBK JVL6CRFDA2 fb.me/ads","VS: 405000264
+14034,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK 9CJ9JRBDA2 fb.me/ads","VS: 405000265
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14129,2023-09-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2023","VS: 497000264
+14035,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK PJT9KRBDA2 fb.me/ads","VS: 405000265
 ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14128,2023-09-21,Mesto Senec,-50.0,"Odoslaná platba elektronicky, Prenajom kinosaly na predvolebny miting dna 13.9.2023 - kampan NR SR 2023",VS: 357,Aliancia,PS
-14127,2023-09-21,Annamaria Corosova - FLASH COMPANY,-384.0,"Odoslaná platba elektronicky, Prenajom reklamnej plochy, tlac vreckovych kalendarov a letakov - kampan NR SR 2023",VS: 23191,Aliancia,PS
-14126,2023-09-21,Annamaria Corosova - FLASH COMPANY,-168.0,"Odoslaná platba elektronicky, Inzercia v BEST / Michalovsky okres - kampan NR SR 2023",VS: 23190,Aliancia,PS
-14124,2023-09-21,KOLOZSI PETER-KOLOREK,-348.0,"Odoslaná platba elektronicky, Plosny inzerat v KN Gratise c. 19/23 - kampan NR SR 2023",VS: 2023169,Aliancia,PS
-14125,2023-09-21,KEMAR s.r.o.,-216.0,"Odoslaná platba elektronicky, Vyroba letakov A5 - kampan NR SR 2023",VS: 20230508,Aliancia,PS
-14122,2023-09-21,WADO s.r.o.,-140.0,"Odoslaná platba elektronicky, Marketingove prace - kampan NR SR 2023",VS: 2023034,Aliancia,PS
-14121,2023-09-21,Mestske kulturne stredisko,-182.21,"Odoslaná platba elektronicky, Uverejnenie reklamnej inzercie v 9.cisle regionalneho mesacnika Parkany es Videke - Sturovo a okolie - kampan NR SR 2023","VS: 2023034
+KS: 0608",Aliancia,PS
+14036,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK LBDLESPCA2 fb.me/ads","VS: 405000265
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14037,2023-09-25,HALASZ BELA,120.0,"Prijatá platba, dar",,Aliancia,PS
+14038,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK P73TQR3DA2 fb.me/ads","VS: 405000265
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14039,2023-09-25,"ISCON, s.r.o.",-216.0,"Odoslaná platba elektronicky, Vyvesenie plachty na bigboard/US Steel Kosice-Saca/-kampan NR SR 2023",VS: 1262023,Aliancia,PS
+14040,2023-09-25,"EGM, s.r.o.",-14160.0,"Odoslaná platba elektronicky, Google ads kampane - volby NR SR 2023",VS: 202300095,Aliancia,PS
+14041,2023-09-25,"EGM, s.r.o.",-4100.0,"Odoslaná platba elektronicky, Facebook kampane-Nove Zamky - volby NR SR 2023","VS: 202300094
 KS: 0308",Aliancia,PS
-14120,2023-09-21,"BEKI Design, s.r.o.",-1524.0,"Odoslaná platba elektronicky, Letaky,plagaty,bannery - kampan NR SR 2023",VS: 2300924,Aliancia,PS
-14119,2023-09-21,"Marcinko Adrian, Bc.",354.0,"Prijatá platba, Dar",,Aliancia,PS
-14118,2023-09-21,Tibor Csenger,2500.0,"Prijatá platba, Dar -Tibor Csenger Zeliezovce","VS: 20092023
+14042,2023-09-25,Kolozsi Peter - KOLOREK,-120.0,"Odoslaná platba elektronicky, Plosny inzerat v KN Gratise c. 19/23 - kampan NR SR 2023",VS: 2023171,Aliancia,PS
+14043,2023-09-25,Graphic s.r.o.,-3628.0,"Odoslaná platba elektronicky, Marketingove sluzby-bannery,reklamne predmety,graficka uprava - kampan NR SR 2023",VS: 20230202,Aliancia,PS
+14044,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK PZ8MFT7DA2 fb.me/ads","VS: 405000265
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14046,2023-09-25,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.09.2023","VS: 497000265
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14052,2023-09-25,Arnold Kovac - PrintAli,-204.0,"Odoslaná platba elektronicky, Billboardy v ramci kampane NR SR 2023","VS: 20230606
+KS: 0308",Aliancia,PS
+14057,2023-09-25,Farkas Tibor,2000.0,"Prijatá platba, Dar",,Aliancia,PS
+14056,2023-09-25,Aneta Forrova,5000.0,"Prijatá platba, Aneta Forrova DAR",VS: 20230922,Aliancia,PS
+14055,2023-09-25,Jozef Zelinsky,300.0,"Prijatá platba, Dar",,Aliancia,PS
+14054,2023-09-25,Jozsef Menyhart,1300.0,"Prijatá platba, ",,Aliancia,PS
+14053,2023-09-25,SZOVETSEG - ALIANCIA,25000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 25092023,Aliancia,PS
+14051,2023-09-25,B.S.Moto s.r.o.,-384.0,"Odoslaná platba elektronicky, Prenajom reklamnej tabule za 8/2023, 9/2023 - kampan NR SR 2023",VS: 112302039,Aliancia,PS
+14050,2023-09-25,Arnold Kovac - PrintAli,-216.0,"Odoslaná platba elektronicky, Vyroba plagatov A2/poster/ - kampan NR SR 2023","VS: 20230658
+KS: 0308",Aliancia,PS
+14049,2023-09-25,WADO s.r.o.,-4000.0,"Odoslaná platba elektronicky, Marketingove prace - kampan NR SR 2023","VS: 2023035
+KS: 0308",Aliancia,PS
+14048,2023-09-25,MultiMedia s.r.o.,-2016.0,"Odoslaná platba elektronicky, Tlaciarenske sluzby, vylep billboardov - kampan NR SR 2023",VS: 230900038,Aliancia,PS
+14047,2023-09-25,Kolozsi Peter - KOLOREK,-354.0,"Odoslaná platba elektronicky, Plosny inzerat v KN Gratise c. 19/23 - kampan NR SR 2023","VS: 2023162
+KS: 0308",Aliancia,PS
+14058,2023-09-25,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 21.09.2023 Miesto: FACEBK QP5CGT7DA2 fb.me/ads","VS: 405000265
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14092,2023-09-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000264
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14095,2023-09-22,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK DXRNTRTCA2 fb.me/ads","VS: 405000264
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14094,2023-09-22,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 20.09.2023 Miesto: FACEBK 8P9NJRBDA2 fb.me/ads","VS: 405000264
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14093,2023-09-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 20.09.2023","VS: 497000264
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14091,2023-09-22,BARTOS GERGELY,894.0,"Prijatá platba, Dar - Bartos",,Aliancia,PS
+14090,2023-09-22,JANOS MERY,216.0,"Prijatá platba, ajandek (dar)",,Aliancia,PS
+14088,2023-09-22,"EGM, s.r.o.",-7398.0,"Odoslaná platba elektronicky, Google Ads kampan, administracia Google Ads kampane - volby do NR SR 2023",VS: 202300093,Aliancia,PS
+14089,2023-09-22,Farkas Tibor,2500.0,"Prijatá platba, Dar",,Aliancia,PS
+14105,2023-09-21,Mestske kulturne stredisko,-169.2,"Odoslaná platba elektronicky, Uverejnenie reklamnej inzercie v 9. cisle regionalneho mesacnika Parkany es Videke - Sturovo a okolie - kampan NR SR 2023","VS: 2023035
+KS: 0308",Aliancia,PS
+14114,2023-09-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2023","VS: 497000264
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14113,2023-09-21,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 19.09.2023 Miesto: FACEBK PF66ERXCA2 fb.me/ads","VS: 405000264
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14112,2023-09-21,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 19.09.2023 Miesto: FACEBK JVL6CRFDA2 fb.me/ads","VS: 405000264
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14111,2023-09-21,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 19.09.2023","VS: 497000264
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14110,2023-09-21,Mesto Senec,-50.0,"Odoslaná platba elektronicky, Prenajom kinosaly na predvolebny miting dna 13.9.2023 - kampan NR SR 2023",VS: 357,Aliancia,PS
+14109,2023-09-21,Annamaria Corosova - FLASH COMPANY,-384.0,"Odoslaná platba elektronicky, Prenajom reklamnej plochy, tlac vreckovych kalendarov a letakov - kampan NR SR 2023",VS: 23191,Aliancia,PS
+14108,2023-09-21,Annamaria Corosova - FLASH COMPANY,-168.0,"Odoslaná platba elektronicky, Inzercia v BEST / Michalovsky okres - kampan NR SR 2023",VS: 23190,Aliancia,PS
+14106,2023-09-21,KOLOZSI PETER-KOLOREK,-348.0,"Odoslaná platba elektronicky, Plosny inzerat v KN Gratise c. 19/23 - kampan NR SR 2023",VS: 2023169,Aliancia,PS
+14107,2023-09-21,KEMAR s.r.o.,-216.0,"Odoslaná platba elektronicky, Vyroba letakov A5 - kampan NR SR 2023",VS: 20230508,Aliancia,PS
+14104,2023-09-21,WADO s.r.o.,-140.0,"Odoslaná platba elektronicky, Marketingove prace - kampan NR SR 2023",VS: 2023034,Aliancia,PS
+14103,2023-09-21,Mestske kulturne stredisko,-182.21,"Odoslaná platba elektronicky, Uverejnenie reklamnej inzercie v 9.cisle regionalneho mesacnika Parkany es Videke - Sturovo a okolie - kampan NR SR 2023","VS: 2023034
+KS: 0308",Aliancia,PS
+14102,2023-09-21,"BEKI Design, s.r.o.",-1524.0,"Odoslaná platba elektronicky, Letaky,plagaty,bannery - kampan NR SR 2023",VS: 2300924,Aliancia,PS
+14101,2023-09-21,"Marcinko Adrian, Bc.",354.0,"Prijatá platba, Dar",,Aliancia,PS
+14100,2023-09-21,Tibor Csenger,2500.0,"Prijatá platba, Dar -Tibor Csenger Zeliezovce","VS: 20092023
 KS: 0968",Aliancia,PS
-14116,2023-09-21,KARAFFA ATTILA,100.0,"Prijatá platba, Dar",,Aliancia,PS
-14115,2023-09-21,KARAFFA ATTILA,50.0,"Prijatá platba, Dar",,Aliancia,PS
-14114,2023-09-21,KOLOZSI PETER-KOLOREK,-364.8,"Odoslaná platba elektronicky, Plosny inzerat Ivan Tamas v KN Gratise c. 18,19/23 - kampan NR SR 2023",VS: 2023164,Aliancia,PS
-14117,2023-09-21,Adrianna Gergelypapp,2000.0,"Prijatá platba, ",,Aliancia,PS
-14140,2023-09-20,GRAPHIC s.r.o.,-2917.08,"Odoslaná platba elektronicky, Marketingove sluzby - kampan NR SR 2023",VS: 20230201,Aliancia,PS
-14146,2023-09-20,"Polnoprojekt NITRA, s.r.o.",-120.0,"Odoslaná platba elektronicky, Poskytnutie priestoru pre reklamny banner od 20.9.2023 do 27.9.2023 na spravodajskom portali www.polnoinfo.sk - kampan NR SR 2023",VS: 20230066,Aliancia,PS
-14145,2023-09-20,SZOVETSEG - ALIANCIA,15000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - kampan NR SR 2023",VS: 20092023,Aliancia,PS
-14144,2023-09-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2023","VS: 497000262
+14099,2023-09-21,Adrianna Gergelypapp,2000.0,"Prijatá platba, ",,Aliancia,PS
+14098,2023-09-21,KARAFFA ATTILA,100.0,"Prijatá platba, Dar",,Aliancia,PS
+14097,2023-09-21,KARAFFA ATTILA,50.0,"Prijatá platba, Dar",,Aliancia,PS
+14096,2023-09-21,KOLOZSI PETER-KOLOREK,-364.8,"Odoslaná platba elektronicky, Plosny inzerat Ivan Tamas v KN Gratise c. 18,19/23 - kampan NR SR 2023",VS: 2023164,Aliancia,PS
+14128,2023-09-20,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 18.09.2023 Miesto: FACEBK LYC4DSPCA2 fb.me/ads","VS: 405000262
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14127,2023-09-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2023","VS: 497000262
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14143,2023-09-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2023","VS: 497000262
+14126,2023-09-20,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 18.09.2023 Miesto: FACEBK KAJ5RRTCA2 fb.me/ads","VS: 405000262
+ŠS: 5032806830
+KS: 0608",Aliancia,PS
+14125,2023-09-20,SZOVETSEG - ALIANCIA,15000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - kampan NR SR 2023",VS: 20092023,Aliancia,PS
+14122,2023-09-20,GRAPHIC s.r.o.,-2917.08,"Odoslaná platba elektronicky, Marketingove sluzby - kampan NR SR 2023",VS: 20230201,Aliancia,PS
+14124,2023-09-20,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 18.09.2023","VS: 497000262
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14142,2023-09-20,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 18.09.2023 Miesto: FACEBK LYC4DSPCA2 fb.me/ads","VS: 405000262
+14123,2023-09-20,"Polnoprojekt NITRA, s.r.o.",-120.0,"Odoslaná platba elektronicky, Poskytnutie priestoru pre reklamny banner od 20.9.2023 do 27.9.2023 na spravodajskom portali www.polnoinfo.sk - kampan NR SR 2023",VS: 20230066,Aliancia,PS
+14119,2023-09-20,Vox Juventae,-600.0,"Odoslaná platba elektronicky, Bannerova reklama Ivan Tamas - kampan NR SR 2023",VS: *********,Aliancia,PS
+14121,2023-09-20,FaxCopy a.s.,-282.54,"Odoslaná platba elektronicky, Kopirovacie a rozmnozovacie sluzby - kampan NR SR 2023",VS: 2509051,Aliancia,PS
+14116,2023-09-20,Vox Juventae,-1000.0,"Odoslaná platba elektronicky, Bannerova reklama Pal Attila - kampan NR SR 2023",VS: 057012023,Aliancia,PS
+14115,2023-09-20,FaxCopy a.s.,-298.03,"Odoslaná platba elektronicky, Tlac, kopirovacie a rozmnozovacie sluzby - kampan NR SR 2023",VS: 2506349,Aliancia,PS
+14120,2023-09-20,MARIAN PAULISZ,580.57,"Prijatá platba, Dar",,Aliancia,PS
+14117,2023-09-20,"EGM, s.r.o.",-500.0,"Odoslaná platba elektronicky, Facebook kampan - Korosi Agocs Ildiko",VS: 202300089,Aliancia,PS
+14118,2023-09-20,"EGM, s.r.o.",-9780.0,"Odoslaná platba elektronicky, Google Ads kampan - kampan NR SR 2023",VS: 202300088,Aliancia,PS
+14129,2023-09-19,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 17.09.2023 Miesto: FACEBK VPXEQRTCA2 fb.me/ads","VS: 405000261
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14141,2023-09-20,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 18.09.2023 Miesto: FACEBK KAJ5RRTCA2 fb.me/ads","VS: 405000262
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14139,2023-09-20,FaxCopy a.s.,-282.54,"Odoslaná platba elektronicky, Kopirovacie a rozmnozovacie sluzby - kampan NR SR 2023",VS: 2509051,Aliancia,PS
-14138,2023-09-20,MARIAN PAULISZ,580.57,"Prijatá platba, Dar",,Aliancia,PS
-14134,2023-09-20,Vox Juventae,-1000.0,"Odoslaná platba elektronicky, Bannerova reklama Pal Attila - kampan NR SR 2023",VS: 057012023,Aliancia,PS
-14133,2023-09-20,FaxCopy a.s.,-298.03,"Odoslaná platba elektronicky, Tlac, kopirovacie a rozmnozovacie sluzby - kampan NR SR 2023",VS: 2506349,Aliancia,PS
-14137,2023-09-20,Vox Juventae,-600.0,"Odoslaná platba elektronicky, Bannerova reklama Ivan Tamas - kampan NR SR 2023",VS: *********,Aliancia,PS
-14135,2023-09-20,"EGM, s.r.o.",-500.0,"Odoslaná platba elektronicky, Facebook kampan - Korosi Agocs Ildiko",VS: 202300089,Aliancia,PS
-14136,2023-09-20,"EGM, s.r.o.",-9780.0,"Odoslaná platba elektronicky, Google Ads kampan - kampan NR SR 2023",VS: 202300088,Aliancia,PS
-14147,2023-09-19,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.09.2023","VS: 497000261
+14130,2023-09-19,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 17.09.2023","VS: 497000261
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14148,2023-09-19,InStar Digital s.r.o.,-11000.0,"Odoslaná platba elektronicky, Online reklama,videa,grafika,distribucia letakov - kampan NR SR 2023",VS: 20230002,Aliancia,PS
-14149,2023-09-19,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 17.09.2023 Miesto: FACEBK VPXEQRTCA2 fb.me/ads","VS: 405000261
+14131,2023-09-19,InStar Digital s.r.o.,-11000.0,"Odoslaná platba elektronicky, Online reklama,videa,grafika,distribucia letakov - kampan NR SR 2023",VS: 20230002,Aliancia,PS
+14142,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 13.09.2023 Miesto: FACEBK TQQLGR3DA2 fb.me/ads","VS: 405000257
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14160,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 13.09.2023 Miesto: FACEBK TQQLGR3DA2 fb.me/ads","VS: 405000257
+14150,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 16.09.2023 Miesto: FACEBK BU97WQKDA2 fb.me/ads","VS: 405000260
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14168,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 15.09.2023 Miesto: FACEBK CYXH7RFDA2 fb.me/ads","VS: 405000259
+14149,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 16.09.2023 Miesto: FACEBK HZE9PRTCA2 fb.me/ads","VS: 405000260
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14167,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 15.09.2023 Miesto: FACEBK 92HZLRKCA2 fb.me/ads","VS: 405000259
-ŠS: 5032806830
-KS: 0608",Aliancia,PS
-14166,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.09.2023","VS: 497000259
+14148,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.09.2023","VS: 497000260
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14165,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 16.09.2023 Miesto: FACEBK HZE9PRTCA2 fb.me/ads","VS: 405000260
+14147,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.09.2023","VS: 497000260
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14146,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.09.2023","VS: 497000259
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14145,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.09.2023","VS: 497000259
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14144,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 15.09.2023 Miesto: FACEBK 92HZLRKCA2 fb.me/ads","VS: 405000259
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14164,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.09.2023","VS: 497000260
+14143,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.09.2023","VS: 497000257
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14163,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.09.2023","VS: 497000260
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14162,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 16.09.2023 Miesto: FACEBK BU97WQKDA2 fb.me/ads","VS: 405000260
+14139,2023-09-18,"STEFE THS, s.r.o.",-72.0,"Odoslaná platba elektronicky, Prenajom zasadacej miestnosti dna 6.9.2023 - kampan NR SR 2023",VS: 5212220164,Aliancia,PS
+14141,2023-09-18,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 15.09.2023 Miesto: FACEBK CYXH7RFDA2 fb.me/ads","VS: 405000259
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14161,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 15.09.2023","VS: 497000259
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14157,2023-09-18,"STEFE THS, s.r.o.",-72.0,"Odoslaná platba elektronicky, Prenajom zasadacej miestnosti dna 6.9.2023 - kampan NR SR 2023",VS: 5212220164,Aliancia,PS
-14159,2023-09-18,Ing. Tomas Tanko,500.0,"Prijatá platba, ","VS: 20230917
+14140,2023-09-18,GRAPHIC s.r.o.,-5000.0,"Odoslaná platba elektronicky, Marketingove sluzby-bannery,reklamne predmety,tricka,graficka uprava - kampan NR SR 2023",VS: 20230199,Aliancia,PS
+14138,2023-09-18,"Euroko, spol. s.r.o.",-864.0,"Odoslaná platba elektronicky, Expresne silikonove naramky s potlacou - kampan NR SR 2023",VS: 2400011927,Aliancia,PS
+14137,2023-09-18,MEDIAL Net s.r.o.,-2400.0,"Odoslaná platba elektronicky, Distribucia letakov - kampan NR SR 2023","VS: 23010107
+KS: 0308",Aliancia,PS
+14136,2023-09-18,"DUEL - PRESS, s.r.o.",-1680.0,"Odoslaná platba elektronicky, Inzercia v denniku Uj Szo dna 19.9.2023, 22.9.2023 - kampan NR SR 2023","VS: 7012300615
+KS: 0308",Aliancia,PS
+14135,2023-09-18,SZOVETSEG - ALIANCIA,30000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - kampan NR SR 2023",VS: 18092023,Aliancia,PS
+14134,2023-09-18,"EGM, s.r.o.",-7000.0,"Odoslaná platba elektronicky, Prenajom BB. ploch, FB reklamy,tlac reklamnych predmetov,Google ads - kampan NR SR 2023","VS: 202300083
+KS: 0308",Aliancia,PS
+14133,2023-09-18,Ing. Tomas Tanko,500.0,"Prijatá platba, ","VS: 20230917
 ŠS: 890408",Aliancia,PS
-14158,2023-09-18,GRAPHIC s.r.o.,-5000.0,"Odoslaná platba elektronicky, Marketingove sluzby-bannery,reklamne predmety,tricka,graficka uprava - kampan NR SR 2023",VS: 20230199,Aliancia,PS
-14156,2023-09-18,"Euroko, spol. s.r.o.",-864.0,"Odoslaná platba elektronicky, Expresne silikonove naramky s potlacou - kampan NR SR 2023",VS: 2400011927,Aliancia,PS
-14155,2023-09-18,MEDIAL Net s.r.o.,-2400.0,"Odoslaná platba elektronicky, Distribucia letakov - kampan NR SR 2023","VS: 23010107
-KS: 0308",Aliancia,PS
-14154,2023-09-18,"DUEL - PRESS, s.r.o.",-1680.0,"Odoslaná platba elektronicky, Inzercia v denniku Uj Szo dna 19.9.2023, 22.9.2023 - kampan NR SR 2023","VS: 7012300615
-KS: 0308",Aliancia,PS
-14153,2023-09-18,SZOVETSEG - ALIANCIA,30000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - kampan NR SR 2023",VS: 18092023,Aliancia,PS
-14152,2023-09-18,"EGM, s.r.o.",-7000.0,"Odoslaná platba elektronicky, Prenajom BB. ploch, FB reklamy,tlac reklamnych predmetov,Google ads - kampan NR SR 2023","VS: 202300083
-KS: 0308",Aliancia,PS
+14132,2023-09-18,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-1872.0,"Odoslaná platba elektronicky, Reklamne predmety/pera s potlacou - kampan NR SR 2023",VS: 20230368,Aliancia,PS
 14151,2023-09-18,Miklos Viola,7000.0,"Prijatá platba, Viola Miklos, Guta",KS: 0308,Aliancia,PS
-14150,2023-09-18,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-1872.0,"Odoslaná platba elektronicky, Reklamne predmety/pera s potlacou - kampan NR SR 2023",VS: 20230368,Aliancia,PS
-14169,2023-09-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 13.09.2023","VS: 497000257
+14152,2023-09-15,Amavera s.r.o.,-3660.0,"Odoslaná platba elektronicky, Facebook reklama, reklamne sluzby - kampan NR SR 2023",VS: 20230026,Aliancia,PS
+14153,2023-09-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2023","VS: 497000256
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14170,2023-09-15,Amavera s.r.o.,-3660.0,"Odoslaná platba elektronicky, Facebook reklama, reklamne sluzby - kampan NR SR 2023",VS: 20230026,Aliancia,PS
-14171,2023-09-14,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 12.09.2023","VS: 497000256
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14173,2023-09-14,Jozef Zelinsky,250.0,"Prijatá platba, Dar",,Aliancia,PS
-14174,2023-09-14,Ing. Szilard Nemeth - REKLAMNA AGENTURA SINEX,-5124.0,"Odoslaná platba elektronicky, Vyroba letakov A5 - kampan NR SR 2023",VS: 20230370,Aliancia,PS
-14172,2023-09-14,,-613.28,"Transakcia platobnou kartou, Suma: 613,28 EUR 12.09.2023 Miesto: FACEBK LNZ2HRFCA2 fb.me/ads","VS: 405000256
+14155,2023-09-14,Ing. Szilard Nemeth - REKLAMNA AGENTURA SINEX,-5124.0,"Odoslaná platba elektronicky, Vyroba letakov A5 - kampan NR SR 2023",VS: 20230370,Aliancia,PS
+14156,2023-09-14,,-613.28,"Transakcia platobnou kartou, Suma: 613,28 EUR 12.09.2023 Miesto: FACEBK LNZ2HRFCA2 fb.me/ads","VS: 405000256
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14179,2023-09-13,OZ Matusova zem - Matyusfold PT,-400.0,"Odoslaná platba elektronicky, Inzerat AA, September/2023 titulna strana - kampan NR SR 2023",VS: 2023056,Aliancia,PS
-14182,2023-09-13,Mesto Kosice,-0.66,"Odoslaná platba elektronicky, Dan za uzivanie verejneho priestranstva - Mesto Kosice, kampan NR SR 2023","VS: 3323000584
+14154,2023-09-14,Jozef Zelinsky,250.0,"Prijatá platba, Dar",,Aliancia,PS
+14161,2023-09-13,Ildiko Agocs K;rosi,1000.0,"Prijatá platba, Dar",,Aliancia,PS
+14164,2023-09-13,Mesto Kosice,-0.66,"Odoslaná platba elektronicky, Dan za uzivanie verejneho priestranstva - Mesto Kosice, kampan NR SR 2023","VS: 3323000584
 KS: 0308",Aliancia,PS
-14181,2023-09-13,"EGM, s.r.o.",-21600.0,"Odoslaná platba elektronicky, Google ads - youtube kampane - volby NR SR 2023","VS: 202300084
+14163,2023-09-13,"EGM, s.r.o.",-21600.0,"Odoslaná platba elektronicky, Google ads - youtube kampane - volby NR SR 2023","VS: 202300084
 KS: 0308",Aliancia,PS
-14180,2023-09-13,"EGM, s.r.o.",-320.4,"Odoslaná platba elektronicky, Vyroba A5 letakov - kampan NR SR 2023","VS: 202300079
+14162,2023-09-13,OZ Matusova zem - Matyusfold PT,-400.0,"Odoslaná platba elektronicky, Inzerat AA, September/2023 titulna strana - kampan NR SR 2023",VS: 2023056,Aliancia,PS
+14165,2023-09-13,Interregionalny vyskumno - rozvojovy institut,-4500.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury - kampan NR SR 2023",VS: 20230003,Aliancia,PS
+14160,2023-09-13,"EGM, s.r.o.",-1290.0,"Odoslaná platba elektronicky, Vyroba - roll up a banner s potlacou - volby NR SR 2023","VS: 202300085
 KS: 0308",Aliancia,PS
-14183,2023-09-13,Interregionalny vyskumno - rozvojovy institut,-4500.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury - kampan NR SR 2023",VS: 20230003,Aliancia,PS
-14178,2023-09-13,OZ Matusova zem - Matyusfold PT,-325.0,"Odoslaná platba elektronicky, Inzerat AA, September/2023 - kandidati Galantskeho okresu -kampan NR SR 2023",VS: 2023057,Aliancia,PS
-14177,2023-09-13,Istvan Takacs,320.4,"Prijatá platba, Takacs Istvan - dar",,Aliancia,PS
-14176,2023-09-13,Ildiko Agocs K;rosi,1000.0,"Prijatá platba, Dar",,Aliancia,PS
-14175,2023-09-13,"EGM, s.r.o.",-1290.0,"Odoslaná platba elektronicky, Vyroba - roll up a banner s potlacou - volby NR SR 2023","VS: 202300085
+14159,2023-09-13,OZ Matusova zem - Matyusfold PT,-325.0,"Odoslaná platba elektronicky, Inzerat AA, September/2023 - kandidati Galantskeho okresu -kampan NR SR 2023",VS: 2023057,Aliancia,PS
+14158,2023-09-13,Istvan Takacs,320.4,"Prijatá platba, Takacs Istvan - dar",,Aliancia,PS
+14157,2023-09-13,"EGM, s.r.o.",-320.4,"Odoslaná platba elektronicky, Vyroba A5 letakov - kampan NR SR 2023","VS: 202300079
 KS: 0308",Aliancia,PS
-14184,2023-09-12,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.09.2023","VS: 497000254
+14166,2023-09-12,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 10.09.2023","VS: 497000254
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14185,2023-09-12,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 10.09.2023 Miesto: FACEBK PLKGGRTCA2 fb.me/ads","VS: 405000254
+14167,2023-09-12,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 10.09.2023 Miesto: FACEBK PLKGGRTCA2 fb.me/ads","VS: 405000254
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14186,2023-09-12,Ing. Szilard Nemeth - REKLAMNA AGENTURA SINEX,-360.0,"Odoslaná platba elektronicky, Vyroba letakov, falc na DL - kampan NR SR 2023",VS: 20230369,Aliancia,PS
-14187,2023-09-12,Talamon s.r.o.,-17000.0,"Odoslaná platba elektronicky, Poskytnutie reklamnych sluzieb - kampan NR SR 2023",VS: 23097,Aliancia,PS
-14188,2023-09-12,"H and K Plus s.r.o., ICO: 51471965",-2040.0,"Odoslaná platba elektronicky, SMS reklama a prieskum - volby NR SR 2023",VS: 20230110,Aliancia,PS
-14189,2023-09-12,Jozsef Menyhart,300.0,"Prijatá platba, ",,Aliancia,PS
-14201,2023-09-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.09.2023","VS: 497000252
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14200,2023-09-11,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 08.09.2023 Miesto: FACEBK APSN2SPCA2 fb.me/ads","VS: 405000252
+14168,2023-09-12,Ing. Szilard Nemeth - REKLAMNA AGENTURA SINEX,-360.0,"Odoslaná platba elektronicky, Vyroba letakov, falc na DL - kampan NR SR 2023",VS: 20230369,Aliancia,PS
+14169,2023-09-12,Talamon s.r.o.,-17000.0,"Odoslaná platba elektronicky, Poskytnutie reklamnych sluzieb - kampan NR SR 2023",VS: 23097,Aliancia,PS
+14170,2023-09-12,"H and K Plus s.r.o., ICO: 51471965",-2040.0,"Odoslaná platba elektronicky, SMS reklama a prieskum - volby NR SR 2023",VS: 20230110,Aliancia,PS
+14171,2023-09-12,Jozsef Menyhart,300.0,"Prijatá platba, ",,Aliancia,PS
+14183,2023-09-11,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 07.09.2023 Miesto: FACEBK GN645RBDA2 fb.me/ads","VS: 405000251
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14199,2023-09-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2023","VS: 497000251
+14182,2023-09-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 07.09.2023","VS: 497000251
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14198,2023-09-11,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 07.09.2023 Miesto: FACEBK GN645RBDA2 fb.me/ads","VS: 405000251
+14181,2023-09-11,"EGM, s.r.o.",-400.0,"Odoslaná platba elektronicky, Vyroba bannerov - kampan NR SR 2023","VS: 202300080
+KS: 0308",Aliancia,PS
+14180,2023-09-11,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.09.2023","VS: 497000252
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14178,2023-09-11,SZOVETSEG - ALIANCIA,50000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - kampan NR SR 2023",VS: 11092023,Aliancia,PS
+14179,2023-09-11,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 08.09.2023 Miesto: FACEBK APSN2SPCA2 fb.me/ads","VS: 405000252
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14196,2023-09-11,"EGM, s.r.o.",-400.0,"Odoslaná platba elektronicky, Vyroba bannerov - kampan NR SR 2023","VS: 202300080
+14176,2023-09-11,Nemethi Bartolomej,400.0,"Prijatá platba, DAR - Nemethi / molino /",,Aliancia,PS
+14177,2023-09-11,Tamas Ivan,2000.0,"Prijatá platba, DAR_Tamas Ivan",,Aliancia,PS
+14172,2023-09-11,web positive s.r.o.,-3627.0,"Odoslaná platba elektronicky, Graficke prace, IT vyvojarske prace - kampan NR SR 2023","VS: 2692023
 KS: 0308",Aliancia,PS
-14197,2023-09-11,SZOVETSEG - ALIANCIA,50000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - kampan NR SR 2023",VS: 11092023,Aliancia,PS
-14194,2023-09-11,"Red Post, s.r.o.",-10759.16,"Odoslaná platba elektronicky, Zaloha za distribuciu letakov - kampan NR SR 2023",VS: 2023038,Aliancia,PS
-14195,2023-09-11,Nemethi Bartolomej,400.0,"Prijatá platba, DAR - Nemethi / molino /",,Aliancia,PS
-14190,2023-09-11,Tamas Ivan,2000.0,"Prijatá platba, DAR_Tamas Ivan",,Aliancia,PS
-14193,2023-09-11,"Red Post, s.r.o.",-240.0,"Odoslaná platba elektronicky, Distribucia letakov - vyrovnanie zaplatenej zalohy - kampan NR SR 2023",VS: 5412023,Aliancia,PS
-14192,2023-09-11,"DUEL - PRESS, s.r.o.",-660.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 14.9.2023 - kampan NR SR 2023","VS: 7012300595
+14175,2023-09-11,"Red Post, s.r.o.",-10759.16,"Odoslaná platba elektronicky, Zaloha za distribuciu letakov - kampan NR SR 2023",VS: 2023038,Aliancia,PS
+14174,2023-09-11,"Red Post, s.r.o.",-240.0,"Odoslaná platba elektronicky, Distribucia letakov - vyrovnanie zaplatenej zalohy - kampan NR SR 2023",VS: 5412023,Aliancia,PS
+14173,2023-09-11,"DUEL - PRESS, s.r.o.",-660.0,"Odoslaná platba elektronicky, Uverejnenie inzeratu v denniku Uj Szo dna 14.9.2023 - kampan NR SR 2023","VS: 7012300595
 KS: 0308",Aliancia,PS
-14191,2023-09-11,web positive s.r.o.,-3627.0,"Odoslaná platba elektronicky, Graficke prace, IT vyvojarske prace - kampan NR SR 2023","VS: 2692023
+14188,2023-09-08,"EGM, s.r.o.",-1500.0,"Odoslaná platba elektronicky, Facebook reklamy - volby NR SR 2023","VS: 202300082
 KS: 0308",Aliancia,PS
-14206,2023-09-08,Ladislav Kocsis,100.0,"Prijatá platba, DAR",,Aliancia,PS
-14208,2023-09-08,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.09.2023","VS: 497000250
+14190,2023-09-08,"EGM, s.r.o.",-11451.98,"Odoslaná platba elektronicky, Plagaty,vstupenky,nalepky,banner,Google ads kampan - volby NR SR 2023",VS: 202300078,Aliancia,PS
+14189,2023-09-08,Szovetseg a Kozos Celokert - Zdruzenie za spolocne ciele,-1200.0,"Odoslaná platba elektronicky, Vykonane ulohy-naklady medialnej kampane vo volbach NR SR 2023","VS: 152023
+KS: 0308",Aliancia,PS
+14184,2023-09-08,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.09.2023","VS: 497000250
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14207,2023-09-08,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 06.09.2023 Miesto: FACEBK DE6MYS7DA2 fb.me/ads","VS: 405000250
+14187,2023-09-08,"EGM, s.r.o.",-462.0,"Odoslaná platba elektronicky, Vyroba vreckovych kalendarov - volby NR SR 2023",VS: 202300081,Aliancia,PS
+14186,2023-09-08,Ladislav Kocsis,100.0,"Prijatá platba, DAR",,Aliancia,PS
+14185,2023-09-08,,-600.0,"Transakcia platobnou kartou, Suma: 600 EUR 06.09.2023 Miesto: FACEBK DE6MYS7DA2 fb.me/ads","VS: 405000250
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14202,2023-09-08,"EGM, s.r.o.",-462.0,"Odoslaná platba elektronicky, Vyroba vreckovych kalendarov - volby NR SR 2023",VS: 202300081,Aliancia,PS
-14205,2023-09-08,"EGM, s.r.o.",-11451.98,"Odoslaná platba elektronicky, Plagaty,vstupenky,nalepky,banner,Google ads kampan - volby NR SR 2023",VS: 202300078,Aliancia,PS
-14204,2023-09-08,"EGM, s.r.o.",-1500.0,"Odoslaná platba elektronicky, Facebook reklamy - volby NR SR 2023","VS: 202300082
-KS: 0308",Aliancia,PS
-14203,2023-09-08,Szovetseg a Kozos Celokert - Zdruzenie za spolocne ciele,-1200.0,"Odoslaná platba elektronicky, Vykonane ulohy-naklady medialnej kampane vo volbach NR SR 2023","VS: 152023
-KS: 0308",Aliancia,PS
-14209,2023-09-07,,-104.8,"Transakcia platobnou kartou, Suma: 104,8 EUR 06.09.2023 Miesto: FACEBK QEZSXS7DA2 fb.me/ads","VS: 405000250
+14191,2023-09-07,Mesto Senec,-148.0,"Odoslaná platba elektronicky, Inzercia v novinach Sencan 09/2023 - kampan NR SR 2023",VS: 348,Aliancia,PS
+14193,2023-09-07,COM-MEDIA spol. s r.o.,-300.0,"Odoslaná platba elektronicky, Uverejnenie politickej reklamy v Komarnanskych listoch c. 9/2023",VS: 20230028,Aliancia,PS
+14194,2023-09-07,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.09.2023","VS: 497000250
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14195,2023-09-07,"H and K Plus s.r.o., ICO: 51471965",-3540.0,"Odoslaná platba elektronicky, Telefonicka reklama a prieskum - kampan NR SR 2023",VS: 20230109,Aliancia,PS
+14196,2023-09-07,,-104.8,"Transakcia platobnou kartou, Suma: 104,8 EUR 06.09.2023 Miesto: FACEBK QEZSXS7DA2 fb.me/ads","VS: 405000250
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14211,2023-09-07,"H and K Plus s.r.o., ICO: 51471965",-3540.0,"Odoslaná platba elektronicky, Telefonicka reklama a prieskum - kampan NR SR 2023",VS: 20230109,Aliancia,PS
-14212,2023-09-07,Mesto Senec,-148.0,"Odoslaná platba elektronicky, Inzercia v novinach Sencan 09/2023 - kampan NR SR 2023",VS: 348,Aliancia,PS
-14213,2023-09-07,COM-MEDIA spol. s r.o.,-300.0,"Odoslaná platba elektronicky, Uverejnenie politickej reklamy v Komarnanskych listoch c. 9/2023",VS: 20230028,Aliancia,PS
-14214,2023-09-07,KEMAR s.r.o.,-431.9,"Odoslaná platba elektronicky, Bannery,papierovy billboard,letaky - kampan NR SR 2023",VS: 20230474,Aliancia,PS
-14210,2023-09-07,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.09.2023","VS: 497000250
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14221,2023-09-06,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-960.0,"Odoslaná platba elektronicky, Reklamne predmety,plagaty,bannery,letaky - kampan NR SR 2023",VS: 20230344,Aliancia,PS
-14226,2023-09-06,,-845.0,"Transakcia platobnou kartou, Suma: 845 EUR 04.09.2023 Miesto: FACEBK 583JZQBDA2 fb.me/ads","VS: 405000248
+14192,2023-09-07,KEMAR s.r.o.,-431.9,"Odoslaná platba elektronicky, Bannery,papierovy billboard,letaky - kampan NR SR 2023",VS: 20230474,Aliancia,PS
+14203,2023-09-06,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-336.0,"Odoslaná platba elektronicky, Vyroba letakov - kampan NR SR 2023",VS: 20230345,Aliancia,PS
+14208,2023-09-06,Frantisek Fazekas - Graphic Design,-250.0,"Odoslaná platba elektronicky, Tlaciarenske sluzby - kampan NR SR 2023",VS: 282023,Aliancia,PS
+14207,2023-09-06,MESTO Kosice,-80.0,"Odoslaná platba elektronicky, Spravny poplatok za vydanie rozhodnutia zo dna 6.9.2023 - kampan NR SR 2023",VS: 3451230366,Aliancia,PS
+14206,2023-09-06,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-780.0,"Odoslaná platba elektronicky, Pera s potlacou - kampan NR SR 2023",VS: 20230343,Aliancia,PS
+14205,2023-09-06,,-845.0,"Transakcia platobnou kartou, Suma: 845 EUR 04.09.2023 Miesto: FACEBK 583JZQBDA2 fb.me/ads","VS: 405000248
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14225,2023-09-06,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 04.09.2023","VS: 497000248
+14204,2023-09-06,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 04.09.2023","VS: 497000248
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14224,2023-09-06,MESTO Kosice,-80.0,"Odoslaná platba elektronicky, Spravny poplatok za vydanie rozhodnutia zo dna 6.9.2023 - kampan NR SR 2023",VS: 3451230366,Aliancia,PS
-14223,2023-09-06,Frantisek Fazekas - Graphic Design,-250.0,"Odoslaná platba elektronicky, Tlaciarenske sluzby - kampan NR SR 2023",VS: 282023,Aliancia,PS
-14222,2023-09-06,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-336.0,"Odoslaná platba elektronicky, Vyroba letakov - kampan NR SR 2023",VS: 20230345,Aliancia,PS
-14220,2023-09-06,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-780.0,"Odoslaná platba elektronicky, Pera s potlacou - kampan NR SR 2023",VS: 20230343,Aliancia,PS
-14218,2023-09-06,INPANG s.r.o.,-625.01,"Odoslaná platba elektronicky, Prenajom a lepenie billboardov",VS: 92023,Aliancia,PS
-14217,2023-09-06,Slovenska Grafia a.s.,-20137.68,"Odoslaná platba elektronicky, Vyroba volebnych brozur - kampan NR SR 2023",VS: 23005924,Aliancia,PS
-14216,2023-09-06,"Web and go design, s.r.o., ICO: 52378373",-300.0,"Odoslaná platba elektronicky, Graficke a tlaciarenske sluzby - kampan NR SR 2023",VS: 20230204,Aliancia,PS
-14215,2023-09-06,Tunde Neszmeri,1200.0,"Prijatá platba, ",,Aliancia,PS
-14219,2023-09-06,Tomas Fischer FISH5 - GRAFICKE a KREATIVNE STUDIO,-1509.96,"Odoslaná platba elektronicky, Graficke prace a tlaciarenske sluzby","VS: 2023099
+14202,2023-09-06,INPANG s.r.o.,-625.01,"Odoslaná platba elektronicky, Prenajom a lepenie billboardov",VS: 92023,Aliancia,PS
+14200,2023-09-06,Tomas Fischer FISH5 - GRAFICKE a KREATIVNE STUDIO,-1509.96,"Odoslaná platba elektronicky, Graficke prace a tlaciarenske sluzby","VS: 2023099
 KS: 0308",Aliancia,PS
-14227,2023-09-05,JANOS MERY,300.0,"Prijatá platba, ajandek (dar)",,Aliancia,PS
-14236,2023-09-04,,-300.0,"Transakcia platobnou kartou, Suma: 300 EUR 30.08.2023 Miesto: FACEBK HAPM4RKCA2 fb.me/ads","VS: 405000243
+14199,2023-09-06,Slovenska Grafia a.s.,-20137.68,"Odoslaná platba elektronicky, Vyroba volebnych brozur - kampan NR SR 2023",VS: 23005924,Aliancia,PS
+14198,2023-09-06,"Web and go design, s.r.o., ICO: 52378373",-300.0,"Odoslaná platba elektronicky, Graficke a tlaciarenske sluzby - kampan NR SR 2023",VS: 20230204,Aliancia,PS
+14197,2023-09-06,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-960.0,"Odoslaná platba elektronicky, Reklamne predmety,plagaty,bannery,letaky - kampan NR SR 2023",VS: 20230344,Aliancia,PS
+14201,2023-09-06,Tunde Neszmeri,1200.0,"Prijatá platba, ",,Aliancia,PS
+14209,2023-09-05,JANOS MERY,300.0,"Prijatá platba, ajandek (dar)",,Aliancia,PS
+14218,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.08.2023","VS: 497000243
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14224,2023-09-04,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 30.08.2023 Miesto: FACEBK DTHM4RKCA2 fb.me/ads","VS: 405000243
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14242,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2023","VS: 497000244
+14223,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2023","VS: 497000244
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14241,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2023","VS: 497000244
+14222,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 31.08.2023","VS: 497000244
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14240,2023-09-04,,-194.97,"Transakcia platobnou kartou, Suma: 194,97 EUR 31.08.2023 Miesto: FACEBK 3HUMVQBDA2 fb.me/ads","VS: 405000244
+14221,2023-09-04,,-194.97,"Transakcia platobnou kartou, Suma: 194,97 EUR 31.08.2023 Miesto: FACEBK 3HUMVQBDA2 fb.me/ads","VS: 405000244
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14239,2023-09-04,,-920.0,"Transakcia platobnou kartou, Suma: 920 EUR 31.08.2023 Miesto: FACEBK WV623R3DA2 fb.me/ads","VS: 405000244
+14220,2023-09-04,,-920.0,"Transakcia platobnou kartou, Suma: 920 EUR 31.08.2023 Miesto: FACEBK WV623R3DA2 fb.me/ads","VS: 405000244
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14238,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.08.2023","VS: 497000243
+14219,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.08.2023","VS: 497000243
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14237,2023-09-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 30.08.2023","VS: 497000243
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14232,2023-09-04,"UNIPOSTER, s.r.o.",-714.0,"Odoslaná platba elektronicky, Prenajom billboardov za 8,9/2023, tlac plagatov - kampan NR SR 2023",VS: 238039,Aliancia,PS
-14235,2023-09-04,,-500.0,"Transakcia platobnou kartou, Suma: 500 EUR 30.08.2023 Miesto: FACEBK DTHM4RKCA2 fb.me/ads","VS: 405000243
+14214,2023-09-04,"UNIPOSTER, s.r.o.",-714.0,"Odoslaná platba elektronicky, Prenajom billboardov za 8,9/2023, tlac plagatov - kampan NR SR 2023",VS: 238039,Aliancia,PS
+14217,2023-09-04,Csaba Furik,2000.0,"Prijatá platba, Dar, Furik Csaba Maly Hores",,Aliancia,PS
+14216,2023-09-04,Sigress s.r.o.,-597.0,"Odoslaná platba elektronicky, Kupa bicyklov na podujatia v ramci kampane NR SR 2023",VS: 20234547,Aliancia,PS
+14215,2023-09-04,Bela Simon,-8400.0,"Odoslaná platba elektronicky, Organizacia kampanoveho podujatia - kampan NR SR 2023",VS: 2023074,Aliancia,PS
+14213,2023-09-04,"EGM, s.r.o.",-1290.0,"Odoslaná platba elektronicky, Vyroba - roll-up s potlacou, banner s potlacou","VS: 202300076
+KS: 0308",Aliancia,PS
+14212,2023-09-04,Adrianna Gergelypapp,714.0,"Prijatá platba, ",,Aliancia,PS
+14211,2023-09-04,Zsolt Baranyay,2000.0,"Prijatá platba, ",VS: 780703,Aliancia,PS
+14210,2023-09-04,,-300.0,"Transakcia platobnou kartou, Suma: 300 EUR 30.08.2023 Miesto: FACEBK HAPM4RKCA2 fb.me/ads","VS: 405000243
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14234,2023-09-04,Sigress s.r.o.,-597.0,"Odoslaná platba elektronicky, Kupa bicyklov na podujatia v ramci kampane NR SR 2023",VS: 20234547,Aliancia,PS
-14233,2023-09-04,Bela Simon,-8400.0,"Odoslaná platba elektronicky, Organizacia kampanoveho podujatia - kampan NR SR 2023",VS: 2023074,Aliancia,PS
-14231,2023-09-04,"EGM, s.r.o.",-1290.0,"Odoslaná platba elektronicky, Vyroba - roll-up s potlacou, banner s potlacou","VS: 202300076
-KS: 0308",Aliancia,PS
-14230,2023-09-04,Adrianna Gergelypapp,714.0,"Prijatá platba, ",,Aliancia,PS
-14229,2023-09-04,Zsolt Baranyay,2000.0,"Prijatá platba, ",VS: 780703,Aliancia,PS
-14228,2023-09-04,Csaba Furik,2000.0,"Prijatá platba, Dar, Furik Csaba Maly Hores",,Aliancia,PS
-14244,2023-08-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.08.2023","VS: 495000242
+14226,2023-08-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 30.08.2023","VS: 495000242
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14245,2023-08-31,"H and K Plus s.r.o., ICO: 51471965",-12117.6,"Odoslaná platba elektronicky, Prenajom a tlac billboardov - kampan NR SR 2023",VS: 20230105,Aliancia,PS
-14243,2023-08-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.08.2023 do 31.08.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 12 x prijaté platby: 0,00, 41 x debet - elektronicky: 0,00",,Aliancia,PS
-14249,2023-08-30,"SILVA TRADE, spol. s r.o.",-948.0,"Odoslaná platba elektronicky, Reklamne predmety - kampan NR SR 2023","VS: 2308055
+14227,2023-08-31,"H and K Plus s.r.o., ICO: 51471965",-12117.6,"Odoslaná platba elektronicky, Prenajom a tlac billboardov - kampan NR SR 2023",VS: 20230105,Aliancia,PS
+14225,2023-08-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.08.2023 do 31.08.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 12 x prijaté platby: 0,00, 41 x debet - elektronicky: 0,00",,Aliancia,PS
+14231,2023-08-30,"SILVA TRADE, spol. s r.o.",-948.0,"Odoslaná platba elektronicky, Reklamne predmety - kampan NR SR 2023","VS: 2308055
 KS: 0308",Aliancia,PS
-14250,2023-08-30,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.08.2023","VS: 497000240
-ŠS: 5032806830
-KS: 6898",Aliancia,PS
-14246,2023-08-30,NOVOVITAL,-570.0,"Odoslaná platba elektronicky, Prenajom Velkej saly v Dome kultury Nove Zamky dna 18.8.2023 - kulturne podujatie pocas kampane NR SR 2023","VS: 0809023
-KS: 0308",Aliancia,PS
-14248,2023-08-30,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 27.08.2023 Miesto: FACEBK LGYSNRPCA2 fb.me/ads","VS: 405000240
+14232,2023-08-30,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 27.08.2023 Miesto: FACEBK LGYSNRPCA2 fb.me/ads","VS: 405000240
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14247,2023-08-30,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 30082023,Aliancia,PS
-14251,2023-08-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.08.2023","VS: 497000238
+14228,2023-08-30,NOVOVITAL,-570.0,"Odoslaná platba elektronicky, Prenajom Velkej saly v Dome kultury Nove Zamky dna 18.8.2023 - kulturne podujatie pocas kampane NR SR 2023","VS: 0809023
+KS: 0308",Aliancia,PS
+14230,2023-08-30,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 27.08.2023","VS: 497000240
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14252,2023-08-28,H and K Plus s.r.o. ICO: 51471965,-468.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov - Furik,Furik,Takacs kampan NR SR 2023",VS: 20230102,Aliancia,PS
-14253,2023-08-28,Istvan Takacs,468.0,"Prijatá platba, Dar- Takacs Istvan",,Aliancia,PS
-14254,2023-08-28,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 25.08.2023 Miesto: FACEBK 3M7GVQ3DA2 fb.me/ads","VS: 405000238
+14229,2023-08-30,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 30082023,Aliancia,PS
+14233,2023-08-28,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 25.08.2023","VS: 497000238
+ŠS: 5032806830
+KS: 6898",Aliancia,PS
+14234,2023-08-28,H and K Plus s.r.o. ICO: 51471965,-468.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov - Furik,Furik,Takacs kampan NR SR 2023",VS: 20230102,Aliancia,PS
+14235,2023-08-28,Istvan Takacs,468.0,"Prijatá platba, Dar- Takacs Istvan",,Aliancia,PS
+14236,2023-08-28,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 25.08.2023 Miesto: FACEBK 3M7GVQ3DA2 fb.me/ads","VS: 405000238
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14258,2023-08-25,INPANG s.r.o.,-298.8,"Odoslaná platba elektronicky, Letaky,plagaty,billboardy pre okres Michalovce",VS: 82023,Aliancia,PS
-14261,2023-08-25,"DARCUS, a.s.",-2520.0,"Odoslaná platba elektronicky, Bannerova inzercia - kampan NR SR 2023","VS: 0052023
+14240,2023-08-25,INPANG s.r.o.,-298.8,"Odoslaná platba elektronicky, Letaky,plagaty,billboardy pre okres Michalovce",VS: 82023,Aliancia,PS
+14243,2023-08-25,"DARCUS, a.s.",-2520.0,"Odoslaná platba elektronicky, Bannerova inzercia - kampan NR SR 2023","VS: 0052023
 KS: 0308",Aliancia,PS
-14260,2023-08-25,NAGY DAVID,400.0,"Prijatá platba, Ersekujvar jaras",,Aliancia,PS
-14259,2023-08-25,Aneta Forrova,3500.0,"Prijatá platba, Aneta Forrova Vozokany",VS: 20230824,Aliancia,PS
-14256,2023-08-25,Mesto Nove Zamky,-400.0,"Odoslaná platba elektronicky, Uverejnenie plosnej politickej inzercie v dvojtyzdenniku Castrum Novum c. 18/2023",VS: 2113300611,Aliancia,PS
-14255,2023-08-25,Kanovits Group s.r.o.,-825.6,"Odoslaná platba elektronicky, Tlac a vylep billboardov a bigboardov, tlac a vyves citylightov - kampan NR SR 2023","VS: 23008137
+14242,2023-08-25,NAGY DAVID,400.0,"Prijatá platba, Ersekujvar jaras",,Aliancia,PS
+14241,2023-08-25,Aneta Forrova,3500.0,"Prijatá platba, Aneta Forrova Vozokany",VS: 20230824,Aliancia,PS
+14238,2023-08-25,Mesto Nove Zamky,-400.0,"Odoslaná platba elektronicky, Uverejnenie plosnej politickej inzercie v dvojtyzdenniku Castrum Novum c. 18/2023",VS: 2113300611,Aliancia,PS
+14237,2023-08-25,Kanovits Group s.r.o.,-825.6,"Odoslaná platba elektronicky, Tlac a vylep billboardov a bigboardov, tlac a vyves citylightov - kampan NR SR 2023","VS: 23008137
 KS: 0308",Aliancia,PS
-14257,2023-08-25,Ing. Julius Banyacski,-108.0,"Odoslaná platba elektronicky, Pohostenie dna 16.8.2023 - kampan NR SR 2023",VS: 23069,Aliancia,PS
-14262,2023-08-24,"Red Post, s.r.o.",-12675.78,"Odoslaná platba elektronicky, Zaloha za distribuciu letakov - kampan NR SR 2023",VS: 2023028,Aliancia,PS
-14263,2023-08-24,"Euroko, spol.s r.o.",-240.0,"Odoslaná platba elektronicky, Reklamne predmety/pera/ - kampan NR SR 2023",VS: 2400011672,Aliancia,PS
-14264,2023-08-23,Peter Koponcei,204.0,"Prijatá platba, darovanie_Koponcei",,Aliancia,PS
-14265,2023-08-23,Monika Csikmakova - GHYMES,-24500.0,"Odoslaná platba elektronicky, Organizovanie podujati pocas kampane NR SR 2023","VS: 32023
+14239,2023-08-25,Ing. Julius Banyacski,-108.0,"Odoslaná platba elektronicky, Pohostenie dna 16.8.2023 - kampan NR SR 2023",VS: 23069,Aliancia,PS
+14244,2023-08-24,"Red Post, s.r.o.",-12675.78,"Odoslaná platba elektronicky, Zaloha za distribuciu letakov - kampan NR SR 2023",VS: 2023028,Aliancia,PS
+14245,2023-08-24,"Euroko, spol.s r.o.",-240.0,"Odoslaná platba elektronicky, Reklamne predmety/pera/ - kampan NR SR 2023",VS: 2400011672,Aliancia,PS
+14246,2023-08-23,Peter Koponcei,204.0,"Prijatá platba, darovanie_Koponcei",,Aliancia,PS
+14247,2023-08-23,Monika Csikmakova - GHYMES,-24500.0,"Odoslaná platba elektronicky, Organizovanie podujati pocas kampane NR SR 2023","VS: 32023
 KS: 0308",Aliancia,PS
-14270,2023-08-22,Tamas Ivan,1500.0,"Prijatá platba, DAR_Tamas Ivan",,Aliancia,PS
-14273,2023-08-22,WADO s.r.o.,-3114.0,"Odoslaná platba elektronicky, Marketingove prace, online a offline reklamna kampan",VS: 2023025,Aliancia,PS
-14272,2023-08-22,Vox Juventae,-3000.0,"Odoslaná platba elektronicky, Bannerova reklama - kampan NR SR 2023","VS: 048012023
+14252,2023-08-22,Tamas Ivan,1500.0,"Prijatá platba, DAR_Tamas Ivan",,Aliancia,PS
+14255,2023-08-22,WADO s.r.o.,-3114.0,"Odoslaná platba elektronicky, Marketingove prace, online a offline reklamna kampan",VS: 2023025,Aliancia,PS
+14254,2023-08-22,Vox Juventae,-3000.0,"Odoslaná platba elektronicky, Bannerova reklama - kampan NR SR 2023","VS: 048012023
 ŠS: 082023
 KS: 0308",Aliancia,PS
-14271,2023-08-22,WADO s.r.o.,-750.0,"Odoslaná platba elektronicky, Marketingove prace - kampan NR SR 2023",VS: 2023024,Aliancia,PS
-14269,2023-08-22,Festivitas s.r.o.,-37500.0,"Odoslaná platba elektronicky, Marketingova cinnost v ramci volebnej kampane NR SR 2023",VS: 01082023,Aliancia,PS
-14268,2023-08-22,"euroAWK, spol. s r.o.",-2520.0,"Odoslaná platba elektronicky, Zaloha na kampan - Aliancia Peter Pandy",VS: 2370107,Aliancia,PS
-14267,2023-08-22,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 21.08.2023 Miesto: FACEBK S9NFGS7DA2 fb.me/ads","VS: 405000233
+14253,2023-08-22,WADO s.r.o.,-750.0,"Odoslaná platba elektronicky, Marketingove prace - kampan NR SR 2023",VS: 2023024,Aliancia,PS
+14251,2023-08-22,Festivitas s.r.o.,-37500.0,"Odoslaná platba elektronicky, Marketingova cinnost v ramci volebnej kampane NR SR 2023",VS: 01082023,Aliancia,PS
+14250,2023-08-22,"euroAWK, spol. s r.o.",-2520.0,"Odoslaná platba elektronicky, Zaloha na kampan - Aliancia Peter Pandy",VS: 2370107,Aliancia,PS
+14249,2023-08-22,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 21.08.2023 Miesto: FACEBK S9NFGS7DA2 fb.me/ads","VS: 405000233
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14266,2023-08-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 497000233
+14248,2023-08-22,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 21.08.2023","VS: 497000233
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14274,2023-08-21,"Ekoung, s.r.o.",-141.2,"Odoslaná platba elektronicky, Reprezentacne vydavky - kampan vo Velkych Kapusanoch",VS: 322023,Aliancia,PS
-14275,2023-08-21,"DUEL - PRESS, s.r.o.",-621.0,"Odoslaná platba elektronicky, Uverejnenie inzercie v denniku Uj Szo dna 18.8.2023","VS: 7022301385
+14256,2023-08-21,"Ekoung, s.r.o.",-141.2,"Odoslaná platba elektronicky, Reprezentacne vydavky - kampan vo Velkych Kapusanoch",VS: 322023,Aliancia,PS
+14257,2023-08-21,"DUEL - PRESS, s.r.o.",-621.0,"Odoslaná platba elektronicky, Uverejnenie inzercie v denniku Uj Szo dna 18.8.2023","VS: 7022301385
 KS: 0308",Aliancia,PS
-14276,2023-08-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.08.2023","VS: 497000229
+14258,2023-08-18,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 16.08.2023","VS: 497000229
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14277,2023-08-18,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 16.08.2023 Miesto: FACEBK 4CWUXPKDA2 fb.me/ads","VS: 405000229
+14259,2023-08-18,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 16.08.2023 Miesto: FACEBK 4CWUXPKDA2 fb.me/ads","VS: 405000229
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14278,2023-08-18,Neexistujuci ucet,1.0,"Prijatá platba, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
-14279,2023-08-18,Neexistujuci ucet,1.0,"Prijatá platba, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
-14280,2023-08-18,Neexistujuci ucet - Gasparova Zdenka,-1.0,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
-14281,2023-08-18,Neexistujuci ucet - Gasparova Zdenka,-1.0,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
-14283,2023-08-17,Interregionalny vyskumno - rozvojovy institut,-10000.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury",VS: 20230001,Aliancia,PS
-14282,2023-08-17,Interregionalny vyskumno - rozvojovy institut,-10000.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury",VS: 20230002,Aliancia,PS
-14284,2023-08-16,Mestske kulturne stredisko ICO:00062448,-182.21,"Odoslaná platba elektronicky, Uverejnenie inzercie v mesacniku Sturovo a okolie 8/2023","VS: 2023030
+14260,2023-08-18,Neexistujuci ucet,1.0,"Prijatá platba, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
+14261,2023-08-18,Neexistujuci ucet,1.0,"Prijatá platba, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
+14262,2023-08-18,Neexistujuci ucet - Gasparova Zdenka,-1.0,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
+14263,2023-08-18,Neexistujuci ucet - Gasparova Zdenka,-1.0,"Odoslaná platba elektronicky, Vratenie prijatej sumy",VS: 07082023,Aliancia,PS
+14265,2023-08-17,Interregionalny vyskumno - rozvojovy institut,-10000.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury",VS: 20230001,Aliancia,PS
+14264,2023-08-17,Interregionalny vyskumno - rozvojovy institut,-10000.0,"Odoslaná platba elektronicky, Organizovanie spolocenskej akcie s cielom a rozvoju kultury",VS: 20230002,Aliancia,PS
+14266,2023-08-16,Mestske kulturne stredisko ICO:00062448,-182.21,"Odoslaná platba elektronicky, Uverejnenie inzercie v mesacniku Sturovo a okolie 8/2023","VS: 2023030
 KS: 0308",Aliancia,PS
-14285,2023-08-16,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 16082023,Aliancia,PS
-14286,2023-08-16,"4Publications, s.r.o.",-17000.0,"Odoslaná platba elektronicky, Zabezpecenie reklamnej kampane-billboardy,reklamne predmety","VS: 202301
+14267,2023-08-16,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 16082023,Aliancia,PS
+14268,2023-08-16,"4Publications, s.r.o.",-17000.0,"Odoslaná platba elektronicky, Zabezpecenie reklamnej kampane-billboardy,reklamne predmety","VS: 202301
 KS: 0308",Aliancia,PS
-14287,2023-08-16,"DUEL - PRESS, s.r.o.",-2788.8,"Odoslaná platba elektronicky, Uverejnenie inzercii 9/2023","VS: 7012300542
+14269,2023-08-16,"DUEL - PRESS, s.r.o.",-2788.8,"Odoslaná platba elektronicky, Uverejnenie inzercii 9/2023","VS: 7012300542
 KS: 0308",Aliancia,PS
-14288,2023-08-16,"DUEL - PRESS, s.r.o.",-8259.6,"Odoslaná platba elektronicky, Uverejnenie inzercii 9/2023","VS: 7012300544
+14270,2023-08-16,"DUEL - PRESS, s.r.o.",-8259.6,"Odoslaná platba elektronicky, Uverejnenie inzercii 9/2023","VS: 7012300544
 KS: 0308",Aliancia,PS
-14289,2023-08-16,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 14.08.2023 Miesto: FACEBK BHD3KQ3DA2 fb.me/ads","VS: 405000227
+14271,2023-08-16,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 14.08.2023 Miesto: FACEBK BHD3KQ3DA2 fb.me/ads","VS: 405000227
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14290,2023-08-16,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.08.2023","VS: 497000227
+14272,2023-08-16,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.08.2023","VS: 497000227
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14291,2023-08-15,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-27394.8,"Odoslaná platba elektronicky, Vyroba propagacnych materialov - kampan NR SR 2023",VS: 20230334,Aliancia,PS
-14292,2023-08-15,KEMAR s.r.o.,-108.0,"Odoslaná platba elektronicky, Vyroba papierovych billboardov - kampan NR SR 2023",VS: 20230445,Aliancia,PS
-14293,2023-08-14,"VALEUR, s.r.o.",-948.0,"Odoslaná platba elektronicky, Vyroba letakov",VS: 6922023,Aliancia,PS
-14294,2023-08-14,web positive s.r.o.,-600.0,"Odoslaná platba elektronicky, Graficke prace","VS: 2282023
+14273,2023-08-15,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-27394.8,"Odoslaná platba elektronicky, Vyroba propagacnych materialov - kampan NR SR 2023",VS: 20230334,Aliancia,PS
+14274,2023-08-15,KEMAR s.r.o.,-108.0,"Odoslaná platba elektronicky, Vyroba papierovych billboardov - kampan NR SR 2023",VS: 20230445,Aliancia,PS
+14275,2023-08-14,"VALEUR, s.r.o.",-948.0,"Odoslaná platba elektronicky, Vyroba letakov",VS: 6922023,Aliancia,PS
+14276,2023-08-14,web positive s.r.o.,-600.0,"Odoslaná platba elektronicky, Graficke prace","VS: 2282023
 KS: 0308",Aliancia,PS
-14295,2023-08-14,"EGM, s.r.o.",-345.16,"Odoslaná platba elektronicky, Vyroba - plagaty,nalepky,vstupenky,banner","VS: 202300073
+14277,2023-08-14,"EGM, s.r.o.",-345.16,"Odoslaná platba elektronicky, Vyroba - plagaty,nalepky,vstupenky,banner","VS: 202300073
 KS: 0308",Aliancia,PS
-14298,2023-08-10,"KandS /advertising, s. r. oICO:35827696",-2654.4,"Odoslaná platba elektronicky, Realizacia produkcnychprac",VS: 0442023,Aliancia,PS
-14297,2023-08-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.08.2023","VS: 497000222
+14280,2023-08-10,"KandS /advertising, s. r. oICO:35827696",-2654.4,"Odoslaná platba elektronicky, Realizacia produkcnychprac",VS: 0442023,Aliancia,PS
+14279,2023-08-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 08.08.2023","VS: 497000222
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14296,2023-08-10,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 08.08.2023 Miesto: FACEBK 376FHQTCA2 fb.me/ads","VS: 405000222
+14278,2023-08-10,,-800.0,"Transakcia platobnou kartou, Suma: 800 EUR 08.08.2023 Miesto: FACEBK 376FHQTCA2 fb.me/ads","VS: 405000222
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14302,2023-08-07,Monika Csikmakova - GHYMES,-8000.0,"Odoslaná platba elektronicky, Slavnostne predstavenie - Szarka Tamas dna 18.8.2023 v Novych Zamkoch","VS: 22023
+14284,2023-08-07,Monika Csikmakova - GHYMES,-8000.0,"Odoslaná platba elektronicky, Slavnostne predstavenie - Szarka Tamas dna 18.8.2023 v Novych Zamkoch","VS: 22023
 KS: 0308",Aliancia,PS
-14304,2023-08-07,POL.-NEEXIST.ÚČTY PRE AUT.VRÁT.DO CC,1.0,"Nespoplatnený vklad, Vratenie prijatej sumy SK3675000000004032213156",VS: 3082023,Aliancia,PS
-14303,2023-08-07,POL.-NEEXIST.ÚČTY PRE AUT.VRÁT.DO CC,1.0,"Nespoplatnený vklad, Vratenie prijatej sumy SK3675000000004032213156",VS: 3082023,Aliancia,PS
-14299,2023-08-07,Veco-Mont s.r.o.,-1512.0,"Odoslaná platba elektronicky, Predaj stanov na kampan NR SR 2023",VS: 20230261,Aliancia,PS
-14301,2023-08-07,Reformovana krestanska cirkev na SK - Cirkevny zbor Rimavska Sobota,-110.0,"Odoslaná platba elektronicky, Prenajom saly dna 18.7.2023 Rimavska Sobota","VS: 202307204
+14286,2023-08-07,POL.-NEEXIST.ÚČTY PRE AUT.VRÁT.DO CC,1.0,"Nespoplatnený vklad, Vratenie prijatej sumy SK3675000000004032213156",VS: 3082023,Aliancia,PS
+14285,2023-08-07,POL.-NEEXIST.ÚČTY PRE AUT.VRÁT.DO CC,1.0,"Nespoplatnený vklad, Vratenie prijatej sumy SK3675000000004032213156",VS: 3082023,Aliancia,PS
+14281,2023-08-07,Veco-Mont s.r.o.,-1512.0,"Odoslaná platba elektronicky, Predaj stanov na kampan NR SR 2023",VS: 20230261,Aliancia,PS
+14283,2023-08-07,Reformovana krestanska cirkev na SK - Cirkevny zbor Rimavska Sobota,-110.0,"Odoslaná platba elektronicky, Prenajom saly dna 18.7.2023 Rimavska Sobota","VS: 202307204
 KS: 0308",Aliancia,PS
-14300,2023-08-07,Mestske kulturne stredisko,-100.0,"Odoslaná platba elektronicky, Prenajom miestnosti v MkS - Velky Meder dna 6.7.2023","VS: 5
+14282,2023-08-07,Mestske kulturne stredisko,-100.0,"Odoslaná platba elektronicky, Prenajom miestnosti v MkS - Velky Meder dna 6.7.2023","VS: 5
 KS: 0308",Aliancia,PS
-14305,2023-08-04,,-613.46,"Transakcia platobnou kartou, Suma: 613,46 EUR 02.08.2023 Miesto: FACEBK PGUPXQPCA2 fb.me/ads","VS: 405000215
+14287,2023-08-04,,-613.46,"Transakcia platobnou kartou, Suma: 613,46 EUR 02.08.2023 Miesto: FACEBK PGUPXQPCA2 fb.me/ads","VS: 405000215
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14306,2023-08-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 497000215
+14288,2023-08-04,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 02.08.2023","VS: 497000215
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14307,2023-08-04,Amavera s.r.o.,-1176.0,"Odoslaná platba elektronicky, Medialny rozpocet,PPC specialista",VS: 20230011,Aliancia,PS
-14310,2023-08-03,VARGA TIBOR,1260.0,"Prijatá platba, Hajra Szovetseg",,Aliancia,PS
-14312,2023-08-03,Alena Jassova - Vydavatelstvo HELENA,-1430.0,"Odoslaná platba elektronicky, Politicka inzercia v parlamentnych volbach 9/2023 - Galantsky a Saliansky Zurnal, Surany infozurnal",VS: 23015,Aliancia,PS
-14316,2023-07-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 4 x prijaté platby: 0,00, 20 x debet - elektronicky: 0,00",,Aliancia,PS
-14315,2023-07-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
+14289,2023-08-04,Amavera s.r.o.,-1176.0,"Odoslaná platba elektronicky, Medialny rozpocet,PPC specialista",VS: 20230011,Aliancia,PS
+14292,2023-08-03,VARGA TIBOR,1260.0,"Prijatá platba, Hajra Szovetseg",,Aliancia,PS
+14294,2023-08-03,Alena Jassova - Vydavatelstvo HELENA,-1430.0,"Odoslaná platba elektronicky, Politicka inzercia v parlamentnych volbach 9/2023 - Galantsky a Saliansky Zurnal, Surany infozurnal",VS: 23015,Aliancia,PS
+14298,2023-07-31,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.07.2023 do 31.07.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 4 x prijaté platby: 0,00, 20 x debet - elektronicky: 0,00",,Aliancia,PS
+14297,2023-07-31,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 28.07.2023","VS: 495000209
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14314,2023-07-31,"DUEL - PRESS, s.r.o.",-5376.0,"Odoslaná platba elektronicky, Uverejnenie-specialny projekt UJ SZO 8,9/2023","VS: 7012300509
+14296,2023-07-31,"DUEL - PRESS, s.r.o.",-5376.0,"Odoslaná platba elektronicky, Uverejnenie-specialny projekt UJ SZO 8,9/2023","VS: 7012300509
 KS: 0308",Aliancia,PS
-14317,2023-07-27,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-3600.0,"Odoslaná platba elektronicky, Pera s potlacou",VS: 20230303,Aliancia,PS
-14318,2023-07-24,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.07.2023","VS: 497000204
+14299,2023-07-27,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-3600.0,"Odoslaná platba elektronicky, Pera s potlacou",VS: 20230303,Aliancia,PS
+14300,2023-07-24,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 22.07.2023","VS: 497000204
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14319,2023-07-24,,-750.0,"Transakcia platobnou kartou, Suma: 750 EUR 22.07.2023 Miesto: FACEBK T4BPKPFDA2 fb.me/ads","VS: 405000204
+14301,2023-07-24,,-750.0,"Transakcia platobnou kartou, Suma: 750 EUR 22.07.2023 Miesto: FACEBK T4BPKPFDA2 fb.me/ads","VS: 405000204
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14320,2023-07-24,"euroAWK, spol. s r.o.",-156.0,"Odoslaná platba elektronicky, Zaloha na kampan: PV Tamas",VS: 2370080,Aliancia,PS
-14321,2023-07-24,Obcianske zdruzenie PRO REGIA DANUBIA,-60000.0,"Odoslaná platba elektronicky, Naklady samplingovej kampane","VS: 052023
+14302,2023-07-24,"euroAWK, spol. s r.o.",-156.0,"Odoslaná platba elektronicky, Zaloha na kampan: PV Tamas",VS: 2370080,Aliancia,PS
+14303,2023-07-24,Obcianske zdruzenie PRO REGIA DANUBIA,-60000.0,"Odoslaná platba elektronicky, Naklady samplingovej kampane","VS: 052023
 KS: 0308",Aliancia,PS
-14322,2023-07-24,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24072023,Aliancia,PS
-14323,2023-07-21,"WM Agentura, s.r.o.",-3600.0,"Odoslaná platba elektronicky, Graficke prace,pocitacova priprava pre tlac a tlac propagacnych materialov",VS: 230097,Aliancia,PS
-14324,2023-07-21,H K Plus s.r.o. ICO: 51471965,-35000.4,"Odoslaná platba elektronicky, Prenajom billboardov na 7/2023",VS: 20230086,Aliancia,PS
-14328,2023-07-20,Veco-Mont s.r.o.,-6852.4,"Odoslaná platba elektronicky, Vyroba stanov - volby NR SR 2023",VS: 20230230,Aliancia,PS
-14330,2023-07-20,InStar Digital s.r.o.,-10000.0,"Odoslaná platba elektronicky, Online reklama,videa,grafika- volby NR SR 2023",VS: 20230001,Aliancia,PS
-14329,2023-07-20,GRAPHIC s.r.o.,-10000.0,"Odoslaná platba elektronicky, Marketingove sluzby - volby NR SR 2023",VS: 20230149,Aliancia,PS
-14327,2023-07-20,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-2004.0,"Odoslaná platba elektronicky, vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230296,Aliancia,PS
-14326,2023-07-20,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-2484.0,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230297,Aliancia,PS
-14325,2023-07-20,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 20072023,Aliancia,PS
-14331,2023-07-17,Csaladi Konyvklub s.r.o.,-1200.0,"Odoslaná platba elektronicky, Reklama v kataloge Csaladi Konyvklub 7,8/2023",VS: 231989,Aliancia,PS
-14332,2023-07-17,KPK Print s.r.o.,-10000.0,"Odoslaná platba elektronicky, Vyroba a tlac - Roll Up, plagaty,letaky","VS: 92307113
+14304,2023-07-24,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24072023,Aliancia,PS
+14305,2023-07-21,"WM Agentura, s.r.o.",-3600.0,"Odoslaná platba elektronicky, Graficke prace,pocitacova priprava pre tlac a tlac propagacnych materialov",VS: 230097,Aliancia,PS
+14306,2023-07-21,H K Plus s.r.o. ICO: 51471965,-35000.4,"Odoslaná platba elektronicky, Prenajom billboardov na 7/2023",VS: 20230086,Aliancia,PS
+14310,2023-07-20,Veco-Mont s.r.o.,-6852.4,"Odoslaná platba elektronicky, Vyroba stanov - volby NR SR 2023",VS: 20230230,Aliancia,PS
+14312,2023-07-20,InStar Digital s.r.o.,-10000.0,"Odoslaná platba elektronicky, Online reklama,videa,grafika- volby NR SR 2023",VS: 20230001,Aliancia,PS
+14311,2023-07-20,GRAPHIC s.r.o.,-10000.0,"Odoslaná platba elektronicky, Marketingove sluzby - volby NR SR 2023",VS: 20230149,Aliancia,PS
+14309,2023-07-20,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-2004.0,"Odoslaná platba elektronicky, vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230296,Aliancia,PS
+14308,2023-07-20,Ing. Szilard Nemeth-REKLAMNA AGENTURA SINEX,-2484.0,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov - volby NR SR 2023",VS: 20230297,Aliancia,PS
+14307,2023-07-20,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 20072023,Aliancia,PS
+14313,2023-07-17,Csaladi Konyvklub s.r.o.,-1200.0,"Odoslaná platba elektronicky, Reklama v kataloge Csaladi Konyvklub 7,8/2023",VS: 231989,Aliancia,PS
+14314,2023-07-17,KPK Print s.r.o.,-10000.0,"Odoslaná platba elektronicky, Vyroba a tlac - Roll Up, plagaty,letaky","VS: 92307113
 KS: 0008",Aliancia,PS
-14333,2023-07-17,MultiMedia s.r.o.,-2740.8,"Odoslaná platba elektronicky, Vyroba papierovych tasiek s potlacou","VS: 230700027
+14315,2023-07-17,MultiMedia s.r.o.,-2740.8,"Odoslaná platba elektronicky, Vyroba papierovych tasiek s potlacou","VS: 230700027
 KS: 0008",Aliancia,PS
-14334,2023-07-13,H K Plus s.r.o. ICO:51471965,-85200.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jul,august 2023",VS: 30230003,Aliancia,PS
-14335,2023-07-12,"NUBIUM, s.r.o.",-684.0,"Odoslaná platba elektronicky, Prenajom reklamnych panelov a dodanie tlace plagatov 08-09/2023",VS: 13120239,Aliancia,PS
-14336,2023-07-12,"ISPA, spol.s r.o.",-1281.6,"Odoslaná platba elektronicky, Poskytnutie reklamneho priestoru kampane za obdobie 01.08.2023 - 30.09.2023",VS: 23950179,Aliancia,PS
-14337,2023-07-12,"KANOVITS FINEART, s.r.o.",-9600.0,"Odoslaná platba elektronicky, Fotograficke sluzby",VS: 23700002,Aliancia,PS
-14338,2023-07-12,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 12072023,Aliancia,PS
-14339,2023-07-12,Tamas Ivan,2500.0,"Prijatá platba, DAR-TAMAS IVAN",,Aliancia,PS
-14341,2023-07-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.07.2023","VS: 497000188
+14316,2023-07-13,H K Plus s.r.o. ICO:51471965,-85200.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jul,august 2023",VS: 30230003,Aliancia,PS
+14317,2023-07-12,"NUBIUM, s.r.o.",-684.0,"Odoslaná platba elektronicky, Prenajom reklamnych panelov a dodanie tlace plagatov 08-09/2023",VS: 13120239,Aliancia,PS
+14318,2023-07-12,"ISPA, spol.s r.o.",-1281.6,"Odoslaná platba elektronicky, Poskytnutie reklamneho priestoru kampane za obdobie 01.08.2023 - 30.09.2023",VS: 23950179,Aliancia,PS
+14319,2023-07-12,"KANOVITS FINEART, s.r.o.",-9600.0,"Odoslaná platba elektronicky, Fotograficke sluzby",VS: 23700002,Aliancia,PS
+14320,2023-07-12,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 12072023,Aliancia,PS
+14321,2023-07-12,Tamas Ivan,2500.0,"Prijatá platba, DAR-TAMAS IVAN",,Aliancia,PS
+14323,2023-07-10,,-0.2,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 06.07.2023","VS: 497000188
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14340,2023-07-10,,-751.53,"Transakcia platobnou kartou, Suma: 751,53 EUR 06.07.2023 Miesto: FACEBK *KYRS3PFDA2 fb.me/ads","VS: 405000188
+14322,2023-07-10,,-751.53,"Transakcia platobnou kartou, Suma: 751,53 EUR 06.07.2023 Miesto: FACEBK *KYRS3PFDA2 fb.me/ads","VS: 405000188
 ŠS: 5032806830
 KS: 0608",Aliancia,PS
-14342,2023-07-04,"WM Agentura, s.r.o.",-1580.0,"Odoslaná platba elektronicky, Tlac propagacnych materialov",VS: 230084,Aliancia,PS
-14343,2023-07-04,"DUEL - PRESS, s.r.o.",-20502.0,"Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456,Aliancia,PS
-14344,2023-06-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",,Aliancia,PS
-14345,2023-06-30,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
+14324,2023-07-04,"WM Agentura, s.r.o.",-1580.0,"Odoslaná platba elektronicky, Tlac propagacnych materialov",VS: 230084,Aliancia,PS
+14325,2023-07-04,"DUEL - PRESS, s.r.o.",-20502.0,"Odoslaná platba elektronicky, Uverejnenie inzeratov v denniku Uj Szo",VS: 7012300456,Aliancia,PS
+14326,2023-06-30,Service Fees,-10.0,"Za vedenie účtu, výpisy a transakcie, od 01.06.2023 do 30.06.2023, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 1 x prijaté platby: 0,00, 4 x debet - elektronicky: 0,00",,Aliancia,PS
+14327,2023-06-30,,-3.0,"Poplatok platobné karty, Miesto: VISA BUSINESS DEB. CL Suma: 3 EUR 29.06.2023","VS: 495000180
 ŠS: 5032806830
 KS: 6898",Aliancia,PS
-14346,2023-06-30,GRAPHIC s.r.o.,-9000.0,"Odoslaná platba elektronicky, Marketingove sluzby-billboardy-graficka uprava,sprostredkovanie prenajmu",VS: 20230121,Aliancia,PS
-14347,2023-06-26,"EGM, s.r.o.",-5620.0,"Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
+14328,2023-06-30,GRAPHIC s.r.o.,-9000.0,"Odoslaná platba elektronicky, Marketingove sluzby-billboardy-graficka uprava,sprostredkovanie prenajmu",VS: 20230121,Aliancia,PS
+14329,2023-06-26,"EGM, s.r.o.",-5620.0,"Odoslaná platba elektronicky, Vyroba bannerov","VS: 202300061
 KS: 0308",Aliancia,PS
-14348,2023-06-26,Veco-Mont s.r.o.,-5000.0,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027,Aliancia,PS
-14349,2023-06-22,SZOVETSEG - ALIANCIA,70000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023,Aliancia,PS
-14350,2023-06-06,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-65954.4,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204,Aliancia,PS
-14351,2023-05-25,H K Plus s.r.o. ICO:51471965,-27000.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001,Aliancia,PS
-14352,2023-05-24,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023,Aliancia,PS
+14330,2023-06-26,Veco-Mont s.r.o.,-5000.0,"Odoslaná platba elektronicky, Zaloha za predaj stanov",VS: 230027,Aliancia,PS
+14331,2023-06-22,SZOVETSEG - ALIANCIA,70000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 22062023,Aliancia,PS
+14332,2023-06-06,Ing.Szilard Nemeth-REKLAMNA AGENTURA SINEX,-65954.4,"Odoslaná platba elektronicky, Vyroba reklamnych predmetov",VS: 20230204,Aliancia,PS
+14333,2023-05-25,H K Plus s.r.o. ICO:51471965,-27000.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na mesiac jun 2023",VS: 30230001,Aliancia,PS
+14334,2023-05-24,SZOVETSEG - ALIANCIA,100000.0,"Prijatá platba, Prevod z hlavneho uctu na uhrady nakladov - volby NR SR 2023",VS: 24052023,Aliancia,PS
